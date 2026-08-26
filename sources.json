@@ -80,6 +80,7 @@
     "source_url": "https://mid.ru/en/foreign_policy/news/",
     "start_url": "https://mid.ru/en/foreign_policy/news/",
     "language": "en",
+    "source_type": "browser",
     "include_regex": "mid\\.ru/en/.+",
     "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4|pdf)$"
   },
@@ -198,6 +199,7 @@
     "source_url": "https://www.cnnvd.org.cn/",
     "start_url": "https://www.cnnvd.org.cn/",
     "language": "zh-CN",
+    "source_type": "browser",
     "include_regex": "cnnvd\\.org\\.cn/(news/show/id/\\d+|flaw/show/CNNVD-|home/loophole/CNNVD-).+",
     "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4)$"
   }
