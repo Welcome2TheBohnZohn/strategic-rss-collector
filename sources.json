@@ -4,6 +4,9 @@
     "title": "China Ministry of National Defense",
     "source_url": "https://www.mod.gov.cn/",
     "start_url": "https://www.mod.gov.cn/",
+    "fallback_urls": [
+      "http://www.mod.gov.cn/"
+    ],
     "language": "zh-CN",
     "include_regex": "/gfbw/|/xwfyr/|/wzll/",
     "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4|pdf)$",
@@ -12,21 +15,28 @@
   {
     "slug": "81-cn",
     "title": "China Military Network 81.cn",
-    "source_url": "https://www.81.cn/",
-    "start_url": "https://www.81.cn/",
+    "source_url": "http://www.81.cn/",
+    "start_url": "http://www.81.cn/?big=jian",
+    "fallback_urls": [
+      "http://www.81.cn/",
+      "https://www.81.cn/?big=jian",
+      "https://www.81.cn/"
+    ],
     "language": "zh-CN",
-    "include_regex": "81\\.cn/.+",
-    "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4|pdf)$"
+    "include_regex": "81\\.cn/.+/(content|article|index).*|81\\.cn/.*\\d{6,}",
+    "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4|pdf)$",
+    "request_timeout": 30,
+    "max_retries": 4,
+    "retry_backoff": 5
   },
   {
     "slug": "mil-ru-en",
-    "title": "Russian Ministry of Defence - Official RSS",
+    "title": "Russian Ministry of Defence English",
     "source_url": "https://eng.mil.ru/",
-    "start_url": "http://dyn.function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
-    "language": "ru",
-    "source_type": "rss",
-    "include_regex": ".*",
-    "exclude_regex": "$^"
+    "start_url": "https://eng.mil.ru/",
+    "language": "en",
+    "include_regex": "mil\\.ru/.+",
+    "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4|pdf)$"
   },
   {
     "slug": "kremlin-president-en",
@@ -46,6 +56,9 @@
     "title": "China MOD Defense White Papers",
     "source_url": "https://www.mod.gov.cn/gfbw/fgwx/bps/index.html",
     "start_url": "https://www.mod.gov.cn/gfbw/fgwx/bps/index.html",
+    "fallback_urls": [
+      "http://www.mod.gov.cn/gfbw/fgwx/bps/index.html"
+    ],
     "language": "zh-CN",
     "include_regex": "/gfbw/fgwx/bps/",
     "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4)$",
@@ -56,6 +69,9 @@
     "title": "China MOD Laws and Regulations",
     "source_url": "https://www.mod.gov.cn/gfbw/fgwx/flfg/index.html",
     "start_url": "https://www.mod.gov.cn/gfbw/fgwx/flfg/index.html",
+    "fallback_urls": [
+      "http://www.mod.gov.cn/gfbw/fgwx/flfg/index.html"
+    ],
     "language": "zh-CN",
     "include_regex": "/gfbw/fgwx/flfg/",
     "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4)$",
@@ -185,11 +201,19 @@
   {
     "slug": "china-defense-news-cn",
     "title": "China National Defense News",
-    "source_url": "https://www.81.cn/szb_223187/gfbszblb/",
-    "start_url": "https://www.81.cn/szb_223187/gfbszblb/index.html",
+    "source_url": "http://www.81.cn/szb_223187/gfbszblb/",
+    "start_url": "http://www.81.cn/szb_223187/gfbszblb/index.html",
+    "fallback_urls": [
+      "https://www.81.cn/szb_223187/gfbszblb/index.html",
+      "http://www.81.cn/rmjz_203219/zggfb/index.html",
+      "https://www.81.cn/rmjz_203219/zggfb/index.html"
+    ],
     "language": "zh-CN",
-    "include_regex": "81\\.cn/szb_223187/.+",
-    "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4)$"
+    "include_regex": "81\\.cn/(szb_223187/gfbszblb|rmjz_203219/zggfb)/.+",
+    "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4|pdf)$",
+    "request_timeout": 30,
+    "max_retries": 4,
+    "retry_backoff": 5
   },
   {
     "slug": "gfbzb-laws-cn",
