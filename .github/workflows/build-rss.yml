@@ -42,12 +42,12 @@ jobs:
             echo "No status report was generated."
           fi
 
-      - name: Commit generated feeds and articles
+      - name: Commit generated feeds, articles, and diagnostics
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add feeds articles
+          git add feeds articles diagnostics
 
           if git diff --cached --quiet; then
             echo "No changes to commit."
