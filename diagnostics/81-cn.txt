@@ -1,8 +1,8 @@
 Diagnostic link report for China Military Network 81.cn
 
-Start URL: https://www.81.cn/
+Start URL: http://www.81.cn/?big=jian
 Source type: html
-Include regex: 81\.cn/.+
+Include regex: 81\.cn/.+/(content|article|index).*|81\.cn/.*\d{6,}
 Include text regex: 
 
 Candidate links: 50
@@ -318,7 +318,7 @@ http://www.81.cn/xx_207779/16481182.html
   学习快评丨树立和践行正确政绩观必须久久为功
 http://www.81.cn/xx_207779/16481160.html
   此行间·以文塑旅、以旅彰文，总书记为何强调文和旅的融合？
-http://www.81.cn/
+http://www.81.cn/?big=jian
   中国国防报
 http://tv.81.cn/jbmtd_211970/16481369.html
 https://weibo.com/jfjb

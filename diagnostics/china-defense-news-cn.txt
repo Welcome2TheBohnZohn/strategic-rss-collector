@@ -1,19 +1,17 @@
 Diagnostic link report for China National Defense News
 
-Start URL: https://www.81.cn/szb_223187/gfbszblb/index.html
+Start URL: http://www.81.cn/szb_223187/gfbszblb/index.html
 Source type: html
-Include regex: 81\.cn/szb_223187/.+
+Include regex: 81\.cn/(szb_223187/gfbszblb|rmjz_203219/zggfb)/.+
 Include text regex: 
 
-Candidate links: 2
+Candidate links: 1
 All links discovered: 48
 
 === MATCHED CANDIDATES ===
 
 http://www.81.cn/szb_223187/gfbszblb/index.html
   中国国防报
-http://www.81.cn/szb_223187/szblb/index.html
-  解放军报
 
 === ALL DISCOVERED LINKS ===
 

@@ -1,29 +1,47 @@
 Strategic RSS Collector Status
-Generated: 2026-08-26 20:13:58 UTC
+Generated: 2026-08-26 21:03:03 UTC
 
 Status meanings:
 OK = Feed contains one or more items
 FETCHED/NO ITEMS = Source loaded but no usable items were extracted
 FAILED = Source could not be retrieved
 
-[FAILED] mod-cn - China Ministry of National Defense
+[OK] mod-cn - China Ministry of National Defense
   Source type: html
   Start URL: https://www.mod.gov.cn/
-  Resolved URL: https://www.mod.gov.cn/
-  HTTP: None
-  Links discovered: 0
-  Candidate links/items: 0
-  Attempted items/articles: 0
-  Items/articles with text: 0
-  Items/articles with dates: 0
-  RSS feed items: 0
+  Resolved URL: http://www.mod.gov.cn/
+  HTTP: 200
+  Links discovered: 243
+  Candidate links/items: 50
+  Attempted items/articles: 12
+  Items/articles with text: 12
+  Items/articles with dates: 12
+  RSS feed items: 12
   SSL verification: OFF
-  Error: https://www.mod.gov.cn/ -> ConnectionError: HTTPSConnectionPool(host='www.mod.gov.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError("HTTPSConnection(host='www.mod.gov.cn', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
+  Request timeout: 12s
+  Max retries: 1
+  Retry backoff: 1s
 
-[FAILED] 81-cn - China Military Network 81.cn
+[OK] 81-cn - China Military Network 81.cn
   Source type: html
-  Start URL: https://www.81.cn/
-  Resolved URL: https://www.81.cn/
+  Start URL: http://www.81.cn/?big=jian
+  Resolved URL: http://www.81.cn/?big=jian
+  HTTP: 200
+  Links discovered: 532
+  Candidate links/items: 50
+  Attempted items/articles: 12
+  Items/articles with text: 12
+  Items/articles with dates: 12
+  RSS feed items: 12
+  SSL verification: ON
+  Request timeout: 30s
+  Max retries: 4
+  Retry backoff: 5s
+
+[FAILED] mil-ru-en - Russian Ministry of Defence English
+  Source type: html
+  Start URL: https://eng.mil.ru/
+  Resolved URL: https://eng.mil.ru/
   HTTP: None
   Links discovered: 0
   Candidate links/items: 0
@@ -32,19 +50,10 @@ FAILED = Source could not be retrieved
   Items/articles with dates: 0
   RSS feed items: 0
   SSL verification: ON
-  Error: https://www.81.cn/ -> ConnectionError: HTTPSConnectionPool(host='www.81.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError("HTTPSConnection(host='www.81.cn', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
-
-[FAILED] mil-ru-en - Russian Ministry of Defence - Official RSS
-  Source type: rss
-  Start URL: http://dyn.function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml
-  Resolved URL: http://dyn.function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml
-  HTTP: None
-  Attempted items/articles: 0
-  Items/articles with text: 0
-  Items/articles with dates: 0
-  RSS feed items: 0
-  SSL verification: ON
-  Error: http://dyn.function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml -> ConnectionError: HTTPConnectionPool(host='dyn.function.mil.ru', port=80): Max retries exceeded with url: /rss_feeds/reference_to_general.htm?contenttype=xml (Caused by NameResolutionError("HTTPConnection(host='dyn.function.mil.ru', port=80): Failed to resolve 'dyn.function.mil.ru' ([Errno -2] Name or service not known)"))
+  Request timeout: 12s
+  Max retries: 1
+  Retry backoff: 1s
+  Error: https://eng.mil.ru/ -> ConnectTimeout: HTTPSConnectionPool(host='eng.mil.ru', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='eng.mil.ru', port=443) at 0x7f086e339590>, 'Connection to eng.mil.ru timed out. (connect timeout=12)'))
 
 [OK] kremlin-president-en - Kremlin President News - Official RSS
   Source type: rss
@@ -56,34 +65,41 @@ FAILED = Source could not be retrieved
   Items/articles with dates: 12
   RSS feed items: 12
   SSL verification: ON
+  Request timeout: 12s
+  Max retries: 1
+  Retry backoff: 1s
 
-[FAILED] mod-whitepapers-cn - China MOD Defense White Papers
+[OK] mod-whitepapers-cn - China MOD Defense White Papers
   Source type: html
   Start URL: https://www.mod.gov.cn/gfbw/fgwx/bps/index.html
-  Resolved URL: https://www.mod.gov.cn/gfbw/fgwx/bps/index.html
-  HTTP: None
-  Links discovered: 0
-  Candidate links/items: 0
-  Attempted items/articles: 0
-  Items/articles with text: 0
-  Items/articles with dates: 0
-  RSS feed items: 0
+  Resolved URL: http://www.mod.gov.cn/gfbw/fgwx/bps/index.html
+  HTTP: 200
+  Links discovered: 179
+  Candidate links/items: 28
+  Attempted items/articles: 12
+  Items/articles with text: 12
+  Items/articles with dates: 12
+  RSS feed items: 12
   SSL verification: OFF
-  Error: https://www.mod.gov.cn/gfbw/fgwx/bps/index.html -> ConnectionError: HTTPSConnectionPool(host='www.mod.gov.cn', port=443): Max retries exceeded with url: /gfbw/fgwx/bps/index.html (Caused by NewConnectionError("HTTPSConnection(host='www.mod.gov.cn', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
+  Request timeout: 12s
+  Max retries: 1
+  Retry backoff: 1s
 
-[FAILED] mod-laws-cn - China MOD Laws and Regulations
+[OK] mod-laws-cn - China MOD Laws and Regulations
   Source type: html
   Start URL: https://www.mod.gov.cn/gfbw/fgwx/flfg/index.html
-  Resolved URL: https://www.mod.gov.cn/gfbw/fgwx/flfg/index.html
-  HTTP: None
-  Links discovered: 0
-  Candidate links/items: 0
-  Attempted items/articles: 0
-  Items/articles with text: 0
-  Items/articles with dates: 0
-  RSS feed items: 0
+  Resolved URL: http://www.mod.gov.cn/gfbw/fgwx/flfg/index.html
+  HTTP: 200
+  Links discovered: 172
+  Candidate links/items: 31
+  Attempted items/articles: 12
+  Items/articles with text: 12
+  Items/articles with dates: 12
+  RSS feed items: 12
   SSL verification: OFF
-  Error: https://www.mod.gov.cn/gfbw/fgwx/flfg/index.html -> ConnectionError: HTTPSConnectionPool(host='www.mod.gov.cn', port=443): Max retries exceeded with url: /gfbw/fgwx/flfg/index.html (Caused by NewConnectionError("HTTPSConnection(host='www.mod.gov.cn', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
+  Request timeout: 12s
+  Max retries: 1
+  Retry backoff: 1s
 
 [FETCHED/NO ITEMS] npc-defense-laws-cn - National People's Congress Defense-Related Laws
   Source type: browser
@@ -97,6 +113,9 @@ FAILED = Source could not be retrieved
   Items/articles with dates: 0
   RSS feed items: 0
   SSL verification: OFF
+  Request timeout: 12s
+  Max retries: 1
+  Retry backoff: 1s
 
 [OK] sastind-cn - SASTIND
   Source type: html
@@ -110,6 +129,9 @@ FAILED = Source could not be retrieved
   Items/articles with dates: 12
   RSS feed items: 12
   SSL verification: ON
+  Request timeout: 12s
+  Max retries: 1
+  Retry backoff: 1s
 
 [FETCHED/NO ITEMS] mid-ru-en - Russian Ministry of Foreign Affairs News
   Source type: html
@@ -123,6 +145,9 @@ FAILED = Source could not be retrieved
   Items/articles with dates: 0
   RSS feed items: 0
   SSL verification: ON
+  Request timeout: 12s
+  Max retries: 1
+  Retry backoff: 1s
 
 [OK] iran-mfa-en - Iran Ministry of Foreign Affairs English
   Source type: html
@@ -132,10 +157,13 @@ FAILED = Source could not be retrieved
   Links discovered: 127
   Candidate links/items: 15
   Attempted items/articles: 15
-  Items/articles with text: 1
-  Items/articles with dates: 1
-  RSS feed items: 1
+  Items/articles with text: 2
+  Items/articles with dates: 2
+  RSS feed items: 2
   SSL verification: ON
+  Request timeout: 12s
+  Max retries: 1
+  Retry backoff: 1s
 
 [OK] irna-en - IRNA English
   Source type: rss
@@ -147,6 +175,9 @@ FAILED = Source could not be retrieved
   Items/articles with dates: 12
   RSS feed items: 12
   SSL verification: ON
+  Request timeout: 12s
+  Max retries: 1
+  Retry backoff: 1s
 
 [OK] avic-cn - Aviation Industry Corporation of China AVIC
   Source type: html
@@ -160,6 +191,9 @@ FAILED = Source could not be retrieved
   Items/articles with dates: 12
   RSS feed items: 12
   SSL verification: ON
+  Request timeout: 12s
+  Max retries: 1
+  Retry backoff: 1s
 
 [OK] norinco-cn - NORINCO Group
   Source type: browser
@@ -173,6 +207,9 @@ FAILED = Source could not be retrieved
   Items/articles with dates: 12
   RSS feed items: 12
   SSL verification: OFF
+  Request timeout: 12s
+  Max retries: 1
+  Retry backoff: 1s
 
 [OK] cssc-cn - China State Shipbuilding Corporation
   Source type: browser
@@ -186,6 +223,9 @@ FAILED = Source could not be retrieved
   Items/articles with dates: 10
   RSS feed items: 10
   SSL verification: OFF
+  Request timeout: 12s
+  Max retries: 1
+  Retry backoff: 1s
 
 [OK] spacechina-cn - China Aerospace Science and Technology Corporation
   Source type: html
@@ -199,6 +239,9 @@ FAILED = Source could not be retrieved
   Items/articles with dates: 10
   RSS feed items: 11
   SSL verification: ON
+  Request timeout: 12s
+  Max retries: 1
+  Retry backoff: 1s
 
 [OK] plap-cn - PLA Military Procurement Network
   Source type: browser
@@ -212,20 +255,25 @@ FAILED = Source could not be retrieved
   Items/articles with dates: 12
   RSS feed items: 12
   SSL verification: OFF
+  Request timeout: 12s
+  Max retries: 1
+  Retry backoff: 1s
 
-[FAILED] china-defense-news-cn - China National Defense News
+[OK] china-defense-news-cn - China National Defense News
   Source type: html
-  Start URL: https://www.81.cn/szb_223187/gfbszblb/index.html
-  Resolved URL: https://www.81.cn/szb_223187/gfbszblb/index.html
-  HTTP: None
-  Links discovered: 0
-  Candidate links/items: 0
-  Attempted items/articles: 0
-  Items/articles with text: 0
+  Start URL: http://www.81.cn/szb_223187/gfbszblb/index.html
+  Resolved URL: http://www.81.cn/szb_223187/gfbszblb/index.html
+  HTTP: 200
+  Links discovered: 48
+  Candidate links/items: 1
+  Attempted items/articles: 1
+  Items/articles with text: 1
   Items/articles with dates: 0
-  RSS feed items: 0
+  RSS feed items: 1
   SSL verification: ON
-  Error: https://www.81.cn/szb_223187/gfbszblb/index.html -> ConnectionError: HTTPSConnectionPool(host='www.81.cn', port=443): Max retries exceeded with url: /szb_223187/gfbszblb/index.html (Caused by NewConnectionError("HTTPSConnection(host='www.81.cn', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
+  Request timeout: 30s
+  Max retries: 4
+  Retry backoff: 5s
 
 [OK] gfbzb-laws-cn - China Military Recruitment Laws and Regulations
   Source type: html
@@ -239,32 +287,25 @@ FAILED = Source could not be retrieved
   Items/articles with dates: 11
   RSS feed items: 12
   SSL verification: ON
+  Request timeout: 12s
+  Max retries: 1
+  Retry backoff: 1s
 
-[FAILED] nudt-journal-cn - National University of Defense Technology Journal
+[OK] nudt-journal-cn - National University of Defense Technology Journal
   Source type: browser
   Start URL: https://journal.nudt.edu.cn/
-  Resolved URL: https://journal.nudt.edu.cn/
-  HTTP: None
-  Links discovered: 0
-  Candidate links/items: 0
-  Attempted items/articles: 0
-  Items/articles with text: 0
-  Items/articles with dates: 0
-  RSS feed items: 0
+  Resolved URL: http://journal.nudt.edu.cn/
+  HTTP: 200
+  Links discovered: 1889
+  Candidate links/items: 50
+  Attempted items/articles: 14
+  Items/articles with text: 12
+  Items/articles with dates: 10
+  RSS feed items: 12
   SSL verification: OFF
-  Error: https://journal.nudt.edu.cn/ -> Error: Page.goto: net::ERR_CONNECTION_REFUSED at https://journal.nudt.edu.cn/
-Call log:
-  - navigating to "https://journal.nudt.edu.cn/", waiting until "domcontentloaded"
- | http://journal.nudt.edu.cn/ -> Error: Page.goto: Navigation to "http://journal.nudt.edu.cn/" is interrupted by another navigation to "chrome-error://chromewebdata/"
-Call log:
-  - navigating to "http://journal.nudt.edu.cn/", waiting until "domcontentloaded"
- | https://journal.nudt.edu.cn/gfkjdxxb/home -> Error: Page.goto: net::ERR_CONNECTION_REFUSED at https://journal.nudt.edu.cn/gfkjdxxb/home
-Call log:
-  - navigating to "https://journal.nudt.edu.cn/gfkjdxxb/home", waiting until "domcontentloaded"
- | http://journal.nudt.edu.cn/gfkjdxxb/home -> Error: Page.goto: Navigation to "http://journal.nudt.edu.cn/gfkjdxxb/home" is interrupted by another navigation to "chrome-error://chromewebdata/"
-Call log:
-  - navigating to "http://journal.nudt.edu.cn/gfkjdxxb/home", waiting until "domcontentloaded"
-
+  Request timeout: 12s
+  Max retries: 1
+  Retry backoff: 1s
 
 [OK] ncpssd-cn - National Center for Philosophy and Social Sciences Documentation
   Source type: html
@@ -278,6 +319,9 @@ Call log:
   Items/articles with dates: 12
   RSS feed items: 12
   SSL verification: ON
+  Request timeout: 12s
+  Max retries: 1
+  Retry backoff: 1s
 
 [OK] stats-cn - National Bureau of Statistics of China
   Source type: html
@@ -291,6 +335,9 @@ Call log:
   Items/articles with dates: 12
   RSS feed items: 12
   SSL verification: ON
+  Request timeout: 12s
+  Max retries: 1
+  Retry backoff: 1s
 
 [OK] cnnvd-cn - China National Vulnerability Database CNNVD
   Source type: cnnvd
@@ -304,9 +351,12 @@ Call log:
   Items/articles with dates: 10
   RSS feed items: 10
   SSL verification: ON
+  Request timeout: 12s
+  Max retries: 1
+  Retry backoff: 1s
 
 SUMMARY
-Working: 13
+Working: 19
 Fetched but no items: 2
-Failed: 7
+Failed: 1
 Total sources: 22
