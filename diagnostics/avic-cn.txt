@@ -1,6 +1,7 @@
 Diagnostic link report for Aviation Industry Corporation of China AVIC
 
 Start URL: https://www.avic.com/
+Source type: html
 Include regex: avic\.com/.+
 
 Candidate links: 50

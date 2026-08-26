@@ -1,6 +1,7 @@
 Diagnostic link report for National Bureau of Statistics of China
 
 Start URL: https://www.stats.gov.cn/sj/zxfb/
+Source type: html
 Include regex: stats\.gov\.cn/sj/zxfb/.+
 
 Candidate links: 15

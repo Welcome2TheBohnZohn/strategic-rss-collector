@@ -1,6 +1,7 @@
-Diagnostic link report for PLA Pictorial
+Diagnostic link report for PLA Military Procurement Network
 
 Start URL: https://www.plap.mil.cn/
+Source type: html
 Include regex: plap\.mil\.cn/.+
 
 Candidate links: 19

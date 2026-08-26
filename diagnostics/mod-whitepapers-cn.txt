@@ -1,0 +1,332 @@
+Diagnostic link report for China MOD Defense White Papers
+
+Start URL: https://www.mod.gov.cn/gfbw/fgwx/bps/index.html
+Source type: html
+Include regex: /gfbw/fgwx/bps/
+
+Candidate links: 27
+All links discovered: 132
+
+=== MATCHED CANDIDATES ===
+
+http://www.mod.gov.cn/gfbw/fgwx/bps/16206318.html
+  国务院新闻办发布《新时代的中国北斗》白皮书 2022-11-04 10:09
+http://www.mod.gov.cn/gfbw/fgwx/bps/16206319.html
+  新时代的中国北斗 2022-11-04 10:13
+http://www.mod.gov.cn/gfbw/fgwx/bps/16257525.html
+  国务院新闻办公室发布《共建“一带一路”：构建人类命运共同体的重大实践》白皮书 2023-10-10 10:17
+http://www.mod.gov.cn/gfbw/fgwx/bps/16410826.html
+  新时代党的治疆方略的成功实践白皮书丨新时代党的治疆方略的成功实践 2025-09-20 12:05
+http://www.mod.gov.cn/gfbw/fgwx/bps/16282365.html
+  国务院新闻办公室发布《中国的反恐怖主义法律制度体系与实践》白皮书 2024-01-23 09:14
+http://www.mod.gov.cn/gfbw/fgwx/bps/4850789.html
+  《平等 发展 共享：新中国70年妇女事业的发展与进步》白皮书发表 2019-09-20 10:34
+http://www.mod.gov.cn/gfbw/fgwx/bps/16423985.html
+  国务院新闻办公室发布《新时代的中国军控、裁军与防扩散》白皮书 2025-11-27 10:09
+http://www.mod.gov.cn/gfbw/fgwx/bps/4850942.html
+  国新办发表《为人民谋幸福：新中国人权事业发展70年》白皮书 2019-09-23 08:42
+http://www.mod.gov.cn/gfbw/fgwx/bps/4888104.html
+  国新办发表《中国共产党尊重和保障人权的伟大实践》白皮书 2021-06-24 10:35
+http://www.mod.gov.cn/gfbw/fgwx/bps/4906006.html
+  国新办发表《中国残疾人体育事业发展和权利保障》白皮书 2022-03-03 10:05
+http://www.mod.gov.cn/gfbw/fgwx/bps/16385613.html
+  国务院新闻办公室发布《新时代的中国国家安全》白皮书 2025-05-12 15:02
+http://www.mod.gov.cn/gfbw/fgwx/bps/16385614.html
+  新时代的中国国家安全白皮书|新时代的中国国家安全 2025-05-12 15:06
+http://www.mod.gov.cn/gfbw/fgwx/bps/16001781.html
+  国务院新闻办发表《新时代的中非合作》白皮书 全文 2021-11-26 10:28
+http://www.mod.gov.cn/gfbw/fgwx/bps/16257529.html
+  共建“一带一路”：构建人类命运共同体的重大实践 2023-10-10 10:20
+http://www.mod.gov.cn/gfbw/fgwx/bps/4906008.html
+  《中国残疾人体育事业发展和权利保障》白皮书 2022-03-03 10:06
+http://www.mod.gov.cn/gfbw/fgwx/bps/4888133.html
+  国务院新闻办发表《中国新型政党制度》白皮书 2021-06-25 10:05
+http://www.mod.gov.cn/gfbw/fgwx/bps/16226464.html
+  《中国军队参加联合国维和行动30年》白皮书 2020-09-18 10:04
+http://www.mod.gov.cn/gfbw/fgwx/bps/4895706.html
+  国务院新闻办发表《中国的全面小康》白皮书 2021-09-28 10:28
+http://www.mod.gov.cn/gfbw/fgwx/bps/4895617.html
+  国务院新闻办发表《新疆的人口发展》白皮书 2021-09-27 10:58
+http://www.mod.gov.cn/gfbw/fgwx/bps/4866398.html
+  《抗击新冠肺炎疫情的中国行动》白皮书 2020-06-07 12:06
+http://www.mod.gov.cn/gfbw/fgwx/bps/16282382.html
+  中国的反恐怖主义法律制度体系与实践 2024-01-23 09:26
+http://www.mod.gov.cn/gfbw/fgwx/bps/16068256.html
+  《新时代的中国国际发展合作》白皮书 2021-01-10 10:14
+http://www.mod.gov.cn/gfbw/fgwx/bps/4846424.html
+  《新时代的中国国防》白皮书（全文） 2019-07-24 11:24
+http://www.mod.gov.cn/gfbw/fgwx/bps/4882650.html
+  《人类减贫的中国实践》白皮书发布 2021-04-06 10:12
+http://www.mod.gov.cn/gfbw/fgwx/bps/16423990.html
+  新时代的中国军控、裁军与防扩散 2025-11-27 10:21
+http://www.mod.gov.cn/gfbw/fgwx/bps/4888135.html
+  《中国新型政党制度》白皮书 2021-06-25 10:08
+http://www.mod.gov.cn/gfbw/fgwx/bps/4899745.html
+  新时代的中非合作 2021-11-26 10:33
+
+=== ALL DISCOVERED LINKS ===
+
+http://eng.mod.gov.cn/
+  English
+http://www.mod.gov.cn/zjlm/wzdt_226173/index.html
+  网站地图
+http://www.mod.gov.cn
+  首页
+http://www.mod.gov.cn/gfbw/gc/index.html
+  高层
+http://www.mod.gov.cn/gfbw/qwfb/index.html
+  权威发布
+http://www.mod.gov.cn/gfbw/qwfb/jwbgt_214033/index.html
+  军委办公厅
+http://www.mod.gov.cn/gfbw/qwfb/jwlhcmb_214034/index.html
+  军委联合参谋部
+http://www.mod.gov.cn/gfbw/qwfb/jwzzgzb/index.html
+  军委政治工作部
+http://www.mod.gov.cn/gfbw/qwfb/jwhqbzb/index.html
+  军委后勤保障部
+http://www.mod.gov.cn/gfbw/qwfb/jwzbfzb/index.html
+  军委装备发展部
+http://www.mod.gov.cn/gfbw/qwfb/jwxlglb/index.html
+  军委训练管理部
+http://www.mod.gov.cn/gfbw/qwfb/jwgfdyb/index.html
+  军委国防动员部
+http://www.mod.gov.cn/gfbw/qwfb/jwjljcwyh/index.html
+  军委纪律检查委员会
+http://www.mod.gov.cn/gfbw/qwfb/jwzfwyh/index.html
+  军委政法委员会
+http://www.mod.gov.cn/gfbw/qwfb/jwkxjswyh/index.html
+  军委科学技术委员会
+http://www.mod.gov.cn/gfbw/qwfb/jwzlghbgs/index.html
+  军委战略规划办公室
+http://www.mod.gov.cn/gfbw/qwfb/jwgghbzbgs/index.html
+  军委改革和编制办公室
+http://www.mod.gov.cn/gfbw/qwfb/jwgjjshzbgs/index.html
+  军委国际军事合作办公室
+http://www.mod.gov.cn/gfbw/qwfb/jwsjs/index.html
+  军委审计署
+http://www.mod.gov.cn/gfbw/qwfb/jwjgswglzj/index.html
+  军委机关事务管理总局
+http://www.mod.gov.cn/gfbw/xwfyr/index.html
+  新闻发言人
+http://www.mod.gov.cn/gfbw/xwfyr/fyrjj/index.html
+  发言人简介
+http://www.mod.gov.cn/gfbw/xwfyr/fyrthhdjzw/index.html
+  发言人谈话和答记者问
+http://www.mod.gov.cn/gfbw/xwfyr/yzxwfb/index.html
+  例行新闻发布
+http://www.mod.gov.cn/gfbw/xwfyr/lxjzh_246940/index.html
+  例行记者会
+http://www.mod.gov.cn/gfbw/xwfyr/ztjzh/index.html
+  专题记者会
+http://www.mod.gov.cn/gfbw/xwfyr/lxjzhzt/index.html
+  例会专题
+http://www.mod.gov.cn/gfbw/jswj/index.html
+  军事外交
+http://www.mod.gov.cn/gfbw/jswj/lf/index.html
+  来访
+http://www.mod.gov.cn/gfbw/jswj/cf/index.html
+  出访
+http://www.mod.gov.cn/gfbw/jswj/jl/index.html
+  交流
+http://www.mod.gov.cn/gfbw/jswj/lx/index.html
+  留学
+http://www.mod.gov.cn/gfbw/wzll/index.html
+  武装力量
+http://www.mod.gov.cn/gfbw/wzll/dbzq/index.html
+  东部战区
+http://www.mod.gov.cn/gfbw/wzll/nbzq/index.html
+  南部战区
+http://www.mod.gov.cn/gfbw/wzll/xbzq/index.html
+  西部战区
+http://www.mod.gov.cn/gfbw/wzll/bbzq/index.html
+  北部战区
+http://www.mod.gov.cn/gfbw/wzll/zbzq/index.html
+  中部战区
+http://www.mod.gov.cn/gfbw/wzll/lj/index.html
+  陆军
+http://www.mod.gov.cn/gfbw/wzll/hj/index.html
+  海军
+http://www.mod.gov.cn/gfbw/wzll/kj/index.html
+  空军
+http://www.mod.gov.cn/gfbw/wzll/hjj/index.html
+  火箭军
+http://www.mod.gov.cn/gfbw/wzll/wj_214054/index.html
+  武警
+http://www.mod.gov.cn/gfbw/wzll/mbyby/index.html
+  民兵预备役
+http://www.mod.gov.cn/gfbw/jsxd/index.html
+  军事行动
+http://www.mod.gov.cn/gfbw/jsxd/ly/index.html
+  联演
+http://www.mod.gov.cn/gfbw/jsxd/wh/index.html
+  维和
+http://www.mod.gov.cn/gfbw/jsxd/fk/index.html
+  反恐
+http://www.mod.gov.cn/gfbw/jsxd/jy/index.html
+  救援
+http://www.mod.gov.cn/gfbw/jsxd/hh/index.html
+  护航
+http://www.mod.gov.cn/gfbw/gffw/index.html
+  国防服务
+http://www.mod.gov.cn/gfbw/gffw/rw/index.html
+  入伍
+http://www.mod.gov.cn/gfbw/gffw/zs/index.html
+  招生
+http://www.mod.gov.cn/gfbw/gffw/zf/index.html
+  招飞
+http://www.mod.gov.cn/gfbw/gffw/zp/index.html
+  招聘
+http://www.mod.gov.cn/gfbw/gffw/js/index.html
+  军属
+http://www.mod.gov.cn/gfbw/gffw/ws/index.html
+  卫生
+http://www.mod.gov.cn/gfbw/fgwx/index.html
+  法规文献
+http://www.mod.gov.cn/gfbw/fgwx/flfg/index.html
+  法律法规
+http://www.mod.gov.cn/gfbw/fgwx/bps/index.html
+  白皮书
+http://www.mod.gov.cn/gfbw/fgwx/wj_213958/index.html
+  文件
+http://www.mod.gov.cn/gfbw/fgwx/sfjs/index.html
+  司法解释
+http://www.mod.gov.cn/gfbw/fgwx/cbw/index.html
+  出版物
+http://www.mod.gov.cn/gfbw/gfdy/index.html
+  国防动员
+http://www.mod.gov.cn/gfbw/gfdy/wzdy/index.html
+  武装动员
+http://www.mod.gov.cn/gfbw/gfdy/zzdy/index.html
+  政治动员
+http://www.mod.gov.cn/gfbw/gfdy/jjdy/index.html
+  经济动员
+http://www.mod.gov.cn/gfbw/gfdy/jtdy/index.html
+  交通动员
+http://www.mod.gov.cn/gfbw/gfdy/rmfk/index.html
+  人民防空
+http://www.mod.gov.cn/gfbw/gfjy_index/index.html
+  国防教育
+http://www.mod.gov.cn/gfbw/gfjy_index/zyhd/index.html
+  重要活动
+http://www.mod.gov.cn/gfbw/gfjy_index/xjdx/index.html
+  先进典型
+http://www.mod.gov.cn/gfbw/gfjy_index/jsyxgfs/index.html
+  军事院校
+http://www.mod.gov.cn/gfbw/gfjy_index/js_214151/index.html
+  军史
+http://www.81.cn/
+  中国军网
+http://www.81rc.mil.cn/
+  军队人才网
+http://www.81.cn/szb_223187/szblb/index.html
+  解放军报
+http://www.81.cn/szb_223187/szblb/index.html?paperNumber=01&paperName=zggfb
+  中国国防报
+http://www.81.cn/rmjz_203219/zgmb/index.html
+  中国民兵
+http://www.plapic.com.cn/index.html
+  解放军画报
+http://www.81.cn/rmjz_203219/gfjy_203685/index.html
+  国防教育
+http://www.mod.gov.cn/gfbw/tp_214132/index.html
+  图片
+http://www.mod.gov.cn/gfbw/spbb_214126/index.html
+  视频
+http://www.mod.gov.cn/gfbw/zt/index.html
+  专题
+http://www.mod.gov.cn/gfbw/fgwx/bps/16423990.html
+  新时代的中国军控、裁军与防扩散 2025-11-27 10:21
+http://www.mod.gov.cn/gfbw/fgwx/bps/16423985.html
+  国务院新闻办公室发布《新时代的中国军控、裁军与防扩散》白皮书 2025-11-27 10:09
+http://www.mod.gov.cn/gfbw/fgwx/bps/16410826.html
+  新时代党的治疆方略的成功实践白皮书丨新时代党的治疆方略的成功实践 2025-09-20 12:05
+http://www.mod.gov.cn/gfbw/fgwx/bps/16385614.html
+  新时代的中国国家安全白皮书|新时代的中国国家安全 2025-05-12 15:06
+http://www.mod.gov.cn/gfbw/fgwx/bps/16385613.html
+  国务院新闻办公室发布《新时代的中国国家安全》白皮书 2025-05-12 15:02
+http://www.mod.gov.cn/gfbw/fgwx/bps/16282382.html
+  中国的反恐怖主义法律制度体系与实践 2024-01-23 09:26
+http://www.mod.gov.cn/gfbw/fgwx/bps/16282365.html
+  国务院新闻办公室发布《中国的反恐怖主义法律制度体系与实践》白皮书 2024-01-23 09:14
+http://www.mod.gov.cn/gfbw/fgwx/bps/16257529.html
+  共建“一带一路”：构建人类命运共同体的重大实践 2023-10-10 10:20
+http://www.mod.gov.cn/gfbw/fgwx/bps/16257525.html
+  国务院新闻办公室发布《共建“一带一路”：构建人类命运共同体的重大实践》白皮书 2023-10-10 10:17
+http://www.mod.gov.cn/gfbw/fgwx/bps/16206319.html
+  新时代的中国北斗 2022-11-04 10:13
+http://www.mod.gov.cn/gfbw/fgwx/bps/16206318.html
+  国务院新闻办发布《新时代的中国北斗》白皮书 2022-11-04 10:09
+http://www.mod.gov.cn/gfbw/fgwx/bps/4906006.html
+  国新办发表《中国残疾人体育事业发展和权利保障》白皮书 2022-03-03 10:05
+http://www.mod.gov.cn/gfbw/fgwx/bps/4906008.html
+  《中国残疾人体育事业发展和权利保障》白皮书 2022-03-03 10:06
+http://www.mod.gov.cn/gfbw/fgwx/bps/16001781.html
+  国务院新闻办发表《新时代的中非合作》白皮书 全文 2021-11-26 10:28
+http://www.mod.gov.cn/regulatory/2021-11/26/content_4899745.htm
+  全文
+http://www.mod.gov.cn/gfbw/fgwx/bps/4899745.html
+  新时代的中非合作 2021-11-26 10:33
+http://www.mod.gov.cn/gfbw/fgwx/bps/4895706.html
+  国务院新闻办发表《中国的全面小康》白皮书 2021-09-28 10:28
+http://www.mod.gov.cn/gfbw/fgwx/bps/4895617.html
+  国务院新闻办发表《新疆的人口发展》白皮书 2021-09-27 10:58
+http://www.mod.gov.cn/gfbw/fgwx/bps/4888133.html
+  国务院新闻办发表《中国新型政党制度》白皮书 2021-06-25 10:05
+http://www.mod.gov.cn/gfbw/fgwx/bps/4888135.html
+  《中国新型政党制度》白皮书 2021-06-25 10:08
+http://www.mod.gov.cn/gfbw/fgwx/bps/4888104.html
+  国新办发表《中国共产党尊重和保障人权的伟大实践》白皮书 2021-06-24 10:35
+http://www.mod.gov.cn/gfbw/fgwx/bps/4882650.html
+  《人类减贫的中国实践》白皮书发布 2021-04-06 10:12
+http://www.mod.gov.cn/gfbw/fgwx/bps/16068256.html
+  《新时代的中国国际发展合作》白皮书 2021-01-10 10:14
+http://www.mod.gov.cn/gfbw/fgwx/bps/16226464.html
+  《中国军队参加联合国维和行动30年》白皮书 2020-09-18 10:04
+http://www.mod.gov.cn/gfbw/fgwx/bps/4866398.html
+  《抗击新冠肺炎疫情的中国行动》白皮书 2020-06-07 12:06
+http://www.mod.gov.cn/gfbw/fgwx/bps/4850942.html
+  国新办发表《为人民谋幸福：新中国人权事业发展70年》白皮书 2019-09-23 08:42
+http://www.mod.gov.cn/gfbw/fgwx/bps/4850789.html
+  《平等 发展 共享：新中国70年妇女事业的发展与进步》白皮书发表 2019-09-20 10:34
+http://www.mod.gov.cn/gfbw/fgwx/bps/4846424.html
+  《新时代的中国国防》白皮书（全文） 2019-07-24 11:24
+http://www.mod.gov.cn/gfbw/qwfb/16481409.html
+  习近平将出席2026年上海合作组织峰会并对吉尔吉斯斯坦、埃及进行国事访问
+http://www.mod.gov.cn/gfbw/qwfb/16481055.html
+  习近平作出重要指示强调 巩固拓展树立和践行正确政绩观学习教育成果 努力创造经得起实践人民历史检验的实绩
+http://www.mod.gov.cn/gfbw/qwfb/16481065.html
+  习近平同约旦国王阿卜杜拉二世会谈
+http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16481082.html
+  中约联合声明
+http://www.mod.gov.cn/gfbw/qwfb/16480673.html
+  中国印尼外长防长“2+2”对话机制举行第二次部长级会议
+http://www.mod.gov.cn/gfbw/qwfb/16480644.html
+  董军会见印度尼西亚国防部长
+http://www.mod.gov.cn/gfbw/spbb_214126/16477140.html
+  何为承诺
+http://www.mod.gov.cn/gfbw/spbb_214126/16477755.html
+  制胜丨第六集《联战联胜》
+http://www.mod.gov.cn/gfbw/spbb_214126/16477542.html
+  制胜丨第五集《东风浩荡》
+http://www.mod.gov.cn/gfbw/spbb_214126/16477357.html
+  制胜 | 第四集《空天砺剑》
+http://www.mod.gov.cn/gfbw/tp_214132/16481398.html
+  陆军某团组织实弹射击训练
+http://www.mod.gov.cn/gfbw/tp_214132/16477668.html
+  第82集团军某旅开展实弹射击训练
+http://www.mod.gov.cn/gfbw/tp_214132/16475831.html
+  凌云出击！东部战区空军航空兵某旅开展空战对抗训练
+http://www.mod.gov.cn/gfbw/tp_214132/16473226.html
+  振翅远航！空军航空兵某团官兵驾驭“鲲鹏”奋飞新时代
+http://www.81.cn/zt/2026nzt/zmxsdgmjr_252984/index.html
+  最美新时代革命军人
+http://www.81.cn/zt/2026nzt/lyyxfcl/index.html
+  “两优一先”风采录
+http://www.81.cn/zt/2026nzt/sdkmgfkjdxjywj/index.html
+  时代楷模 国防科技大学计算机学院研究员王戟 冲锋不止的科研尖兵
+http://www.81.cn/zt/2026nzt/tykpzsktkjhkbmtxjsj/index.html
+  铁翼鲲鹏 制胜空天——空军航空兵某团先进事迹
+http://www.81.cn/zt/2026nzt/fxqxjzzdbzhd/index.html
+  防汛抢险救灾·子弟兵在行动
+http://www.81.cn/jwdy/xwxxfwxkz/index.html
+  互联网新闻信息服务许可证10120170013

@@ -1,6 +1,7 @@
 Diagnostic link report for National Center for Philosophy and Social Sciences Documentation
 
 Start URL: https://www.ncpssd.cn/
+Source type: html
 Include regex: ncpssd\.cn/.+
 
 Candidate links: 50

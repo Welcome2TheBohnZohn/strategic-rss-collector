@@ -1,6 +1,7 @@
 Diagnostic link report for China Military Network 81.cn
 
 Start URL: https://www.81.cn/
+Source type: html
 Include regex: 81\.cn/.+
 
 Candidate links: 50

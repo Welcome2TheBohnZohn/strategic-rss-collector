@@ -1,6 +1,7 @@
 Diagnostic link report for China Aerospace Science and Technology Corporation
 
 Start URL: https://www.spacechina.com/n25/n2014789/index.html
+Source type: html
 Include regex: spacechina\.com/n25/n2014789/.+
 
 Candidate links: 50
