@@ -27,14 +27,8 @@ DIAGNOSTICS_DIR = ROOT / "diagnostics"
 CONTENT_NS = "http://purl.org/rss/1.0/modules/content/"
 ET.register_namespace("content", CONTENT_NS)
 
-# Shorter than our first run.
 REQUEST_TIMEOUT = 10
-
-# Number of actual RSS items we want.
 MAX_ITEMS_PER_SOURCE = 12
-
-# We inspect more links than we need because some will be
-# navigation pages, blocked pages, PDFs, etc.
 MAX_CANDIDATES = 50
 
 
@@ -78,27 +72,10 @@ def load_sources():
 
 
 def fetch(url, retries=1, verify_ssl=True):
-    """
-    Fetch a page.
-
-    retries=1 means:
-      first attempt
-      + one retry
-
-    We leave SSL verification enabled by default.
-
-    Later, if necessary, an individual source can add:
-      "verify_ssl": false
-
-    to sources.json without disabling SSL globally.
-    """
-
     last_error = ""
 
     for attempt in range(retries + 1):
-
         try:
-
             headers = {
                 "User-Agent": USER_AGENTS[attempt % len(USER_AGENTS)],
                 "Accept": (
@@ -147,7 +124,6 @@ def fetch(url, retries=1, verify_ssl=True):
             }
 
         except Exception as exc:
-
             last_error = (
                 f"{type(exc).__name__}: {exc}"
             )
@@ -165,7 +141,6 @@ def fetch(url, retries=1, verify_ssl=True):
 
 
 def clean_text(text):
-
     if not text:
         return ""
 
@@ -191,9 +166,7 @@ def clean_text(text):
 
 
 def canonical_url(base_url, href):
-
     try:
-
         url = urljoin(
             base_url,
             href,
@@ -212,12 +185,10 @@ def canonical_url(base_url, href):
         ).geturl()
 
     except Exception:
-
         return ""
 
 
 def normalized_host(url):
-
     host = (
         urlparse(url).hostname
         or ""
@@ -227,7 +198,6 @@ def normalized_host(url):
 
 
 def same_domain(source_url, candidate_url):
-
     source_host = normalized_host(
         source_url
     )
@@ -252,13 +222,6 @@ def collect_all_links(
     page_html,
     final_url,
 ):
-    """
-    Collect raw links for diagnostics.
-
-    This lets us see what GitHub actually received
-    from a page when our regex finds zero candidates.
-    """
-
     soup = BeautifulSoup(
         page_html,
         "lxml",
@@ -271,7 +234,6 @@ def collect_all_links(
         "a",
         href=True,
     ):
-
         url = canonical_url(
             final_url,
             link.get("href", ""),
@@ -307,7 +269,6 @@ def find_candidate_links(
     page_html,
     final_url,
 ):
-
     all_links = collect_all_links(
         source,
         page_html,
@@ -333,7 +294,6 @@ def find_candidate_links(
     candidates = []
 
     for item in all_links:
-
         href = item["url"]
         anchor_text = item["text"]
 
@@ -419,7 +379,6 @@ def extract_title(
     soup,
     fallback="Untitled",
 ):
-
     selectors = [
         "h1",
         ".article-title",
@@ -434,7 +393,6 @@ def extract_title(
     ]
 
     for selector in selectors:
-
         node = soup.select_one(
             selector
         )
@@ -453,7 +411,6 @@ def extract_title(
             return text
 
     if soup.title:
-
         text = clean_text(
             soup.title.get_text(
                 " ",
@@ -468,7 +425,6 @@ def extract_title(
 
 
 def try_parse_date(value):
-
     if not value:
         return None
 
@@ -476,7 +432,6 @@ def try_parse_date(value):
         str(value)
     )
 
-    # Explicit Chinese date first.
     match = re.search(
         r"(20\d{2})年\s*"
         r"(\d{1,2})月\s*"
@@ -487,11 +442,9 @@ def try_parse_date(value):
     )
 
     if match:
-
         groups = match.groups()
 
         try:
-
             year = int(groups[0])
             month = int(groups[1])
             day = int(groups[2])
@@ -520,7 +473,6 @@ def try_parse_date(value):
             pass
 
     try:
-
         dt = dateparser.parse(
             value,
             fuzzy=True,
@@ -544,7 +496,6 @@ def extract_date(
     soup,
     page_text,
 ):
-
     meta_candidates = [
         (
             "property",
@@ -585,7 +536,6 @@ def extract_date(
     ]
 
     for attribute, value in meta_candidates:
-
         node = soup.find(
             "meta",
             attrs={
@@ -597,7 +547,6 @@ def extract_date(
             node
             and node.get("content")
         ):
-
             parsed = try_parse_date(
                 node.get("content")
             )
@@ -608,7 +557,6 @@ def extract_date(
     for time_node in soup.find_all(
         "time"
     ):
-
         candidate = (
             time_node.get(
                 "datetime"
@@ -648,11 +596,9 @@ def extract_date(
     ]
 
     for selector in selectors:
-
         for node in soup.select(
             selector
         ):
-
             candidate = clean_text(
                 node.get_text(
                     " ",
@@ -667,7 +613,6 @@ def extract_date(
             if parsed:
                 return parsed
 
-    # Search visible page text.
     sample = page_text[:12000]
 
     patterns = [
@@ -690,7 +635,6 @@ def extract_date(
     ]
 
     for pattern in patterns:
-
         match = re.search(
             pattern,
             sample,
@@ -702,7 +646,6 @@ def extract_date(
         groups = match.groups()
 
         try:
-
             year = int(
                 groups[0]
             )
@@ -748,7 +691,6 @@ def extract_date(
 
 
 def extract_article_text(soup):
-
     for tag in soup(
         [
             "script",
@@ -792,11 +734,9 @@ def extract_article_text(soup):
     candidates = []
 
     for selector in selectors:
-
         for node in soup.select(
             selector
         ):
-
             text = clean_text(
                 node.get_text(
                     "\n",
@@ -810,7 +750,6 @@ def extract_article_text(soup):
                 )
 
     if candidates:
-
         return max(
             candidates,
             key=len,
@@ -821,7 +760,6 @@ def extract_article_text(soup):
     for paragraph in soup.find_all(
         "p"
     ):
-
         text = clean_text(
             paragraph.get_text(
                 " ",
@@ -835,7 +773,6 @@ def extract_article_text(soup):
             )
 
     if paragraphs:
-
         text = "\n\n".join(
             paragraphs
         )
@@ -857,7 +794,6 @@ def extract_article(
     page_html,
     fallback_title,
 ):
-
     soup = BeautifulSoup(
         page_html,
         "lxml",
@@ -897,7 +833,6 @@ def safe_filename(
     title,
     url,
 ):
-
     title = re.sub(
         r'[\\/:*?"<>|]+',
         "_",
@@ -913,7 +848,6 @@ def safe_filename(
     )
 
     if not title:
-
         title = hashlib.sha1(
             url.encode(
                 "utf-8"
@@ -927,7 +861,6 @@ def save_article(
     source_slug,
     article,
 ):
-
     directory = (
         ARTICLES_DIR
         / source_slug
@@ -952,7 +885,6 @@ def save_article(
     )
 
     if article["published"]:
-
         published_text = (
             article[
                 "published"
@@ -962,7 +894,6 @@ def save_article(
         )
 
     else:
-
         published_text = (
             "Unknown"
         )
@@ -987,7 +918,6 @@ def save_diagnostics(
     all_links,
     candidates,
 ):
-
     DIAGNOSTICS_DIR.mkdir(
         parents=True,
         exist_ok=True,
@@ -1033,7 +963,6 @@ def save_diagnostics(
     ]
 
     for item in candidates:
-
         lines.append(
             item["url"]
         )
@@ -1054,7 +983,6 @@ def save_diagnostics(
     )
 
     for item in all_links:
-
         lines.append(
             item["url"]
         )
@@ -1071,13 +999,34 @@ def save_diagnostics(
     )
 
 
-def normalize_datetime(dt):
+def save_raw_html(
+    source,
+    listing_html,
+):
+    DIAGNOSTICS_DIR.mkdir(
+        parents=True,
+        exist_ok=True,
+    )
 
+    raw_path = (
+        DIAGNOSTICS_DIR
+        / (
+            source["slug"]
+            + "-raw.html"
+        )
+    )
+
+    raw_path.write_text(
+        listing_html[:50000],
+        encoding="utf-8",
+    )
+
+
+def normalize_datetime(dt):
     if not dt:
         return None
 
     if dt.tzinfo is None:
-
         dt = dt.replace(
             tzinfo=timezone.utc
         )
@@ -1091,7 +1040,6 @@ def build_rss(
     source,
     articles,
 ):
-
     rss = ET.Element(
         "rss",
         {
@@ -1142,7 +1090,6 @@ def build_rss(
     )
 
     for article in articles:
-
         item = ET.SubElement(
             channel,
             "item",
@@ -1184,7 +1131,6 @@ def build_rss(
         )
 
         if published:
-
             ET.SubElement(
                 item,
                 "pubDate",
@@ -1233,7 +1179,6 @@ def build_rss(
 
 
 def run_source(source):
-
     print(
         "\n==> "
         + source["slug"]
@@ -1266,8 +1211,6 @@ def run_source(source):
         "error": "",
     }
 
-    # Homepage/listing request:
-    # only one retry.
     listing = fetch(
         source["start_url"],
         retries=1,
@@ -1279,7 +1222,6 @@ def run_source(source):
     ] = listing["status"]
 
     if not listing["ok"]:
-
         status["error"] = (
             listing["error"]
         )
@@ -1300,6 +1242,12 @@ def run_source(source):
         )
     )
 
+    if len(all_links) == 0:
+        save_raw_html(
+            source,
+            listing["text"],
+        )
+
     status[
         "candidate_links"
     ] = len(candidates)
@@ -1315,11 +1263,9 @@ def run_source(source):
     )
 
     articles = []
-
     seen_urls = set()
 
     for candidate in candidates:
-
         if (
             len(articles)
             >= MAX_ITEMS_PER_SOURCE
@@ -1339,9 +1285,6 @@ def run_source(source):
             "attempted"
         ] += 1
 
-        # Article requests get NO retry.
-        # If one article is slow/broken,
-        # move to the next candidate.
         page = fetch(
             url,
             retries=0,
@@ -1374,7 +1317,6 @@ def run_source(source):
         if article[
             "published"
         ]:
-
             status[
                 "articles_with_date"
             ] += 1
@@ -1434,7 +1376,6 @@ def run_source(source):
 def write_status_report(
     statuses,
 ):
-
     FEEDS_DIR.mkdir(
         parents=True,
         exist_ok=True,
@@ -1472,18 +1413,15 @@ def write_status_report(
     failed = 0
 
     for status in statuses:
-
         if status[
             "feed_items"
         ] > 0:
-
             state = "OK"
             working += 1
 
         elif status[
             "http_status"
         ]:
-
             state = (
                 "FETCHED/NO ITEMS"
             )
@@ -1491,7 +1429,6 @@ def write_status_report(
             no_items += 1
 
         else:
-
             state = "FAILED"
             failed += 1
 
@@ -1585,7 +1522,6 @@ def write_status_report(
         if status[
             "error"
         ]:
-
             lines.append(
                 "  Error: "
                 + status[
@@ -1630,7 +1566,6 @@ def write_status_report(
 
 
 def main():
-
     FEEDS_DIR.mkdir(
         parents=True,
         exist_ok=True,
@@ -1665,15 +1600,12 @@ def main():
     statuses = []
 
     for source in sources:
-
         try:
-
             status = run_source(
                 source
             )
 
         except Exception as exc:
-
             print(
                 "    UNHANDLED ERROR: "
                 + str(exc),
