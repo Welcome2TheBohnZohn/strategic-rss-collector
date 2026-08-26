@@ -40,6 +40,7 @@ jobs:
         if: always()
         run: |
           echo "===== RSS STATUS REPORT ====="
+
           if [ -f feeds/status-report.txt ]; then
             cat feeds/status-report.txt
           else
