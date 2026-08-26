@@ -1,0 +1,200 @@
+[
+  {
+    "slug": "mod-cn",
+    "title": "China Ministry of National Defense",
+    "source_url": "https://www.mod.gov.cn/",
+    "start_url": "https://www.mod.gov.cn/",
+    "language": "zh-CN",
+    "include_regex": "/gfbw/|/xwfyr/|/wzll/",
+    "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4|pdf)$"
+  },
+  {
+    "slug": "81-cn",
+    "title": "China Military Network 81.cn",
+    "source_url": "https://www.81.cn/",
+    "start_url": "https://www.81.cn/",
+    "language": "zh-CN",
+    "include_regex": "81\\.cn/.+",
+    "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4|pdf)$"
+  },
+  {
+    "slug": "mil-ru-en",
+    "title": "Russian Ministry of Defence English",
+    "source_url": "https://eng.mil.ru/",
+    "start_url": "https://eng.mil.ru/",
+    "language": "en",
+    "include_regex": "mil\\.ru/.+",
+    "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4|pdf)$"
+  },
+  {
+    "slug": "kremlin-president-en",
+    "title": "Kremlin President News",
+    "source_url": "https://en.kremlin.ru/events/president/news",
+    "start_url": "https://en.kremlin.ru/events/president/news",
+    "language": "en",
+    "include_regex": "/events/president/news/\\d+",
+    "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4|pdf)$"
+  },
+  {
+    "slug": "mod-whitepapers-cn",
+    "title": "China MOD Defense White Papers",
+    "source_url": "https://www.mod.gov.cn/gfbw/fgwx/bps/index.html",
+    "start_url": "https://www.mod.gov.cn/gfbw/fgwx/bps/index.html",
+    "language": "zh-CN",
+    "include_regex": "/gfbw/fgwx/bps/",
+    "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4)$"
+  },
+  {
+    "slug": "mod-laws-cn",
+    "title": "China MOD Laws and Regulations",
+    "source_url": "https://www.mod.gov.cn/gfbw/fgwx/flfg/index.html",
+    "start_url": "https://www.mod.gov.cn/gfbw/fgwx/flfg/index.html",
+    "language": "zh-CN",
+    "include_regex": "/gfbw/fgwx/flfg/",
+    "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4)$"
+  },
+  {
+    "slug": "npc-defense-laws-cn",
+    "title": "National People's Congress Defense Laws",
+    "source_url": "https://www.npc.gov.cn/npc/c2/c186/c208/",
+    "start_url": "https://www.npc.gov.cn/npc/c2/c186/c208/",
+    "language": "zh-CN",
+    "include_regex": "npc\\.gov\\.cn/.+",
+    "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4)$"
+  },
+  {
+    "slug": "sastind-cn",
+    "title": "SASTIND",
+    "source_url": "https://www.sastind.gov.cn/",
+    "start_url": "https://www.sastind.gov.cn/",
+    "language": "zh-CN",
+    "include_regex": "sastind\\.gov\\.cn/.+",
+    "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4|pdf)$"
+  },
+  {
+    "slug": "mid-ru-en",
+    "title": "Russian Ministry of Foreign Affairs News",
+    "source_url": "https://mid.ru/en/foreign_policy/news/",
+    "start_url": "https://mid.ru/en/foreign_policy/news/",
+    "language": "en",
+    "include_regex": "/en/foreign_policy/news/.+",
+    "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4|pdf)$"
+  },
+  {
+    "slug": "iran-mfa-en",
+    "title": "Iran Ministry of Foreign Affairs English",
+    "source_url": "https://en.mfa.ir/",
+    "start_url": "https://en.mfa.ir/",
+    "language": "en",
+    "include_regex": "mfa\\.ir/.+",
+    "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4|pdf)$"
+  },
+  {
+    "slug": "irna-en",
+    "title": "IRNA English",
+    "source_url": "https://en.irna.ir/",
+    "start_url": "https://en.irna.ir/",
+    "language": "en",
+    "include_regex": "en\\.irna\\.ir/news/\\d+/",
+    "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4)$"
+  },
+  {
+    "slug": "avic-cn",
+    "title": "Aviation Industry Corporation of China AVIC",
+    "source_url": "https://www.avic.com/",
+    "start_url": "https://www.avic.com/",
+    "language": "zh-CN",
+    "include_regex": "avic\\.com/.+",
+    "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4|pdf)$"
+  },
+  {
+    "slug": "norinco-cn",
+    "title": "NORINCO Group",
+    "source_url": "https://www.norincogroup.com.cn/",
+    "start_url": "https://www.norincogroup.com.cn/",
+    "language": "zh-CN",
+    "include_regex": "norincogroup\\.com\\.cn/.+",
+    "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4|pdf)$"
+  },
+  {
+    "slug": "cssc-cn",
+    "title": "China State Shipbuilding Corporation",
+    "source_url": "https://www.cssc.net.cn/",
+    "start_url": "https://www.cssc.net.cn/n5/n18/index.html",
+    "language": "zh-CN",
+    "include_regex": "cssc\\.net\\.cn/n5/n18/.+",
+    "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4|pdf)$"
+  },
+  {
+    "slug": "spacechina-cn",
+    "title": "China Aerospace Science and Technology Corporation",
+    "source_url": "https://www.spacechina.com/n25/index.html",
+    "start_url": "https://www.spacechina.com/n25/n2014789/index.html",
+    "language": "zh-CN",
+    "include_regex": "spacechina\\.com/n25/n2014789/.+",
+    "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4|pdf)$"
+  },
+  {
+    "slug": "plap-cn",
+    "title": "PLA Pictorial",
+    "source_url": "https://www.plap.mil.cn/",
+    "start_url": "https://www.plap.mil.cn/",
+    "language": "zh-CN",
+    "include_regex": "plap\\.mil\\.cn/.+",
+    "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4|pdf)$"
+  },
+  {
+    "slug": "china-defense-news-cn",
+    "title": "China National Defense News",
+    "source_url": "https://www.81.cn/rmjz_203219/zggfb/index.html",
+    "start_url": "https://www.81.cn/rmjz_203219/zggfb/index.html",
+    "language": "zh-CN",
+    "include_regex": "81\\.cn/rmjz_203219/zggfb/.+",
+    "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4|pdf)$"
+  },
+  {
+    "slug": "gfbzb-laws-cn",
+    "title": "China Military Recruitment Laws and Regulations",
+    "source_url": "https://www.gfbzb.gov.cn/news/index.action?item=ZCFG_DFFG",
+    "start_url": "https://www.gfbzb.gov.cn/news/index.action?item=ZCFG_DFFG",
+    "language": "zh-CN",
+    "include_regex": "gfbzb\\.gov\\.cn/.+",
+    "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4)$"
+  },
+  {
+    "slug": "nudt-journal-cn",
+    "title": "National University of Defense Technology Journal",
+    "source_url": "https://journal.nudt.edu.cn/gfkjdxxb/home",
+    "start_url": "https://journal.nudt.edu.cn/gfkjdxxb/home",
+    "language": "zh-CN",
+    "include_regex": "journal\\.nudt\\.edu\\.cn/gfkjdxxb/.+",
+    "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4)$"
+  },
+  {
+    "slug": "ncpssd-cn",
+    "title": "National Center for Philosophy and Social Sciences Documentation",
+    "source_url": "https://www.ncpssd.cn/",
+    "start_url": "https://www.ncpssd.cn/",
+    "language": "zh-CN",
+    "include_regex": "ncpssd\\.cn/.+",
+    "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4)$"
+  },
+  {
+    "slug": "stats-cn",
+    "title": "National Bureau of Statistics of China",
+    "source_url": "https://www.stats.gov.cn/",
+    "start_url": "https://www.stats.gov.cn/sj/zxfb/",
+    "language": "zh-CN",
+    "include_regex": "stats\\.gov\\.cn/sj/zxfb/.+",
+    "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4|pdf)$"
+  },
+  {
+    "slug": "cnnvd-cn",
+    "title": "China National Vulnerability Database CNNVD",
+    "source_url": "https://www.cnnvd.org.cn/",
+    "start_url": "https://www.cnnvd.org.cn/",
+    "language": "zh-CN",
+    "include_regex": "cnnvd\\.org\\.cn/.+",
+    "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4)$"
+  }
+]
