@@ -13,4 +13,4 @@ All links discovered: 1
 
 === ALL DISCOVERED LINKS ===
 
-https://mid.ru/TSPD/08765fb817ab2000962d36ae9bf53e806780b3bc31d8677e49cf3f19559286be4c6310cac130b79e?type=10
+https://mid.ru/TSPD/08765fb817ab2000da9fb0e8cdad5ac68248aa3147a8dfc0f9382f711a985c0c50f95381d398cbf9?type=10

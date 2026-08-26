@@ -1,119 +1,124 @@
 Diagnostic link report for PLA Military Procurement Network
 
-Start URL: https://www.plap.mil.cn/
-Source type: html
+Start URL: http://www.plap.mil.cn/
+Source type: browser
 Include regex: plap\.mil\.cn/.+
+Include text regex: 
 
 Candidate links: 50
-All links discovered: 171
+All links discovered: 243
 
 === MATCHED CANDIDATES ===
 
-https://www.plap.mil.cn/freecms-glht/site/juncai/resources/js/jquery.datetimepicker.full.min.js
-  jquery.datetimepicker.full.min.js
-https://www.plap.mil.cn/freecms-glht/site/juncai/resources/js/jquery.datetimepicker.min.js
-  jquery.datetimepicker.min.js
-https://www.plap.mil.cn/freecms-glht/site/juncai/resources/style/jquery.datetimepicker.css
-  jquery.datetimepicker.css
-https://www.plap.mil.cn/rest/v1/notice/selectInfoMoreChannel.do
-  selectInfoMoreChannel.do
-https://www.plap.mil.cn/freecms-glht/rest/v1/notice/selectInfoMoreChannel.do
-  selectInfoMoreChannel.do
-https://www.plap.mil.cn/freecms-glht/site/juncai//resources/module/zTreeSelectM/zTree_v3/js/jquery.ztree.all.min.js
-  jquery.ztree.all.min.js
-https://www.plap.mil.cn/rest/v1/notice/selectInfoForIndex.do
-  selectInfoForIndex.do
-https://www.plap.mil.cn/freecms-glht/rest/v1/notice/selectInfoForIndex.do
-  selectInfoForIndex.do
-https://www.plap.mil.cn/freecms-glht/site/juncai/resources/style/governmentInfo.css
-  governmentInfo.css
-https://www.plap.mil.cn/freecms-glht/site/juncai/resources/js/jquery.float-ad.js
-  jquery.float-ad.js
-https://www.plap.mil.cn/rest/v1/punish/queryPunishList.do
-  queryPunishList.do
-https://www.plap.mil.cn/freecms-glht/site/juncai/resources/js/jquery.session.js
-  jquery.session.js
-https://www.plap.mil.cn/freecms-glht/site/juncai/resources/json/treeJsonData.json
-  treeJsonData.json
-https://www.plap.mil.cn/freecms-glht/site/juncai/resources/style/myPagination.css
-  myPagination.css
-https://www.plap.mil.cn/freecms-glht/site/juncai/resources/module/zTreeSelectM/zTreeSelectM.css
-  zTreeSelectM.css
-https://www.plap.mil.cn/freecms-glht/site/juncai/resources/js/jquery.cookie.js
-  jquery.cookie.js
-https://www.plap.mil.cn/freecms-glht/site/juncai//resources/js/jsencrypt.min.js
-  jsencrypt.min.js
-https://www.plap.mil.cn/freecms-glht/site/juncai//resources/js/publicMethods.js
-  publicMethods.js
-https://www.plap.mil.cn/freecms-glht/site/juncai/resources/js/myPagination.js
-  myPagination.js
-https://www.plap.mil.cn/freecms/site/juncai/resources/project/dishonesty.html?id=
-  dishonesty.html
-https://www.plap.mil.cn/freecms-glht/site/juncai/resources/style/searchList.css
-  searchList.css
-https://www.plap.mil.cn/freecms-glht/site/juncai/resources/cdn/swiper-5.4.5/package/css/swiper.min.css
-  swiper.min.css
-https://www.plap.mil.cn/freecms-glht/site/juncai/resources/module/zTreeSelectM/zTree_v3/css/zTreeStyle/zTreeStyle.css
-  zTreeStyle.css
-https://www.plap.mil.cn/freecms-glht/site/juncai/resources/cdn/echarts/echarts.min.js
-  echarts.min.js
-https://www.plap.mil.cn/freecms/site/juncai/resources/project/suspended.html?id=
-  suspended.html
-https://www.plap.mil.cn/freecms-glht/site/juncai/resources/js/jquery.min.js
-  jquery.min.js
-https://www.plap.mil.cn/freecms-glht/site/juncai/resources/cdn/swiper-5.4.5/package/js/swiper.min.js
-  swiper.min.js
-https://www.plap.mil.cn/rest/v1/notice/statistics.do
-  statistics.do
-https://www.plap.mil.cn/freecms-glht/site/juncai/resources/icon/iconfont.css
-  iconfont.css
-https://www.plap.mil.cn/freecms-glht
-  freecms-glht
-https://www.plap.mil.cn/freecms/site/juncai/resources/project/warning.html?id=
-  warning.html
-https://www.plap.mil.cn/freecms-glht/site/juncai/resources/style/dynamic.css
-  dynamic.css
-https://www.plap.mil.cn/freecms-glht/site/juncai/resources/style/laydate.css
-  laydate.css
-https://www.plap.mil.cn/freecms-glht/site/juncai//resources/js/download.js
-  download.js
-https://www.plap.mil.cn/freecms-glht/site/juncai/resources/icon/iconfont.js
-  iconfont.js
-https://www.plap.mil.cn/freecms-glht/site/juncai/qwjsy/index.html
-  index.html
-https://www.plap.mil.cn/freecms-glht/site/juncai/index.html
-  index.html
-https://www.plap.mil.cn/freecms-glht/site/juncai/zhdt/index.html?channelNow=1091ccfd-571d-4136-9e8b-ef58a0cb0bcd
-  index.html
-https://www.plap.mil.cn/freecms-glht/site/juncai/resources/style/notice.css
-  notice.css
-https://www.plap.mil.cn/freecms-glht/site/juncai/resources/js/laydate.js
-  laydate.js
-https://www.plap.mil.cn/freecms-glht/site/juncai//jszlmy/index.html
-  index.html
-https://www.plap.mil.cn/freecms-glht/site/juncai//jdjc/index.html
-  index.html
-https://www.plap.mil.cn/freecms-glht/site/juncai/jdglcxxq/index.html?id=
-  index.html
-https://www.plap.mil.cn/freecms-glht/site/juncai/resources/style/news.css
-  news.css
-https://www.plap.mil.cn/gpbs-gpbs/
-  gpbs-gpbs
-https://www.plap.mil.cn/expertweb/
-  expertweb
-https://www.plap.mil.cn/freecms-glht/site/juncai/resources/style/reset.css
-  reset.css
-https://www.plap.mil.cn/freecms-glht/site/juncai/resources/layui/css/layui.css
-  layui.css
-https://www.plap.mil.cn/pspframe
-  pspframe
-https://www.plap.mil.cn/freecms-glht/site/juncai/resources/style/main.css
-  main.css
+https://www.plap.mil.cn/freecms-glht/site/juncai/ggxx/info/2026/C7164474F9B24395BB00F3A4159B3A57.html
+  > 仓库货架、管理系统、库区监控等仓储信息化手段建设项目投诉处理公告（2026-JT01-W2011） 2026-08-21
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00c59fd53cf501a037cd2ab31716.html?noticeType=001011&channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  西安某地区餐饮服务采购项目(二次)招标公告（2026-JQ05-F1357） 北京 公开招标 服务 2026-08-26
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00c59fd53cf501a03c0040cc1c0b.html?noticeType=001031&channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  车场配套设施整修招标变更公告（第一次）（2026-JQ02-W1067） 北京 公开招标 物资 2026-08-26
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00c59fd53cf501a01e0532766a74.html?noticeType=001069&channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  过氧化氢低温等离子灭菌器征求意见公告（2026-JQ15-W3066) 无 竞争性谈判 物资 2026-08-26
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00e1a00f0b6501a01cf594ec0e8b.html?noticeType=001069&channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  无创脑水肿监护仪征求意见公告(2026-JQ15-W1065) 无 公开招标 物资 2026-08-26
+https://www.plap.mil.cn/freecms-glht/site/juncai/ggxx/info/2026/D176E3435EDD43A3A406AA6633335427.html
+  > 关于采购项目投诉处理决定的公告（项目编号：2026-YKLIXY-W3011） 2026-08-14
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00e1a00f0b6501a03c1c8f394958.html?noticeType=001031&channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  高性能计算机软硬件设备采购招标变更公告（第一次） 北京 公开招标 物资 2026-08-26
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00c59fd53cf501a03c0bfa7a6692.html?noticeType=001069&channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  副食品集中采购项目（包1）征求意见公告（第一次） 无 公开招标 物资 2026-08-26
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00c59fd53cf501a03cca75907805.html?noticeType=001013&channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  网络网点与信息化设备综合维护项目招标公告 北京 竞争性谈判 服务 2026-08-26
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00e1a00f0b6501a037b5f9c47ee8.html?noticeType=001021&channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  大礼堂LED灯采购项目中标（成交）结果公示 北京 公开招标 物资 2026-08-26
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d04f39fb7690a01a0238dab8801a5.html?noticeType=59&channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  东软CT机球管更换维修单一来源采购项目意向公示 云南省 无 无 2026-08-26
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d03f4a031a65501a032e7663f0f63.html?noticeType=59&channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  引进物业管理服务集中带量采购项目采购意向公告 北京市 无 无 2026-08-26
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d03ed9f3f378801a014769c5a34e2.html?noticeType=59&channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  重庆主城片区单位副食品采购项目采购意向公告 重庆市 无 无 2026-08-26
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d04f39fb7690a01a037bbc40f4cfc.html?noticeType=59&channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  2026年在线开放课程制作服务采购意向公告 湖北省 无 无 2026-08-26
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00c59fd53cf501a03cc2ebc54a30.html?noticeType=001031&channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  飞秒激光治疗机采购更正公告（第一次） 北京 公开招标 物资 2026-08-26
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00c59fd53cf501a036910242356a.html?noticeType=001013&channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  招待所电梯更换(第二次)招标公告 北京 竞争性谈判 物资 2026-08-26
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00e1a00f0b6501a03d10d8c3081e.html?noticeType=001006&channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  频谱管控设备物资采购项目流废标公示 北京 公开招标 物资 2026-08-26
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00e0a00f0c1701a03c37e61d7476.html?noticeType=001013&channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  生物样本运输定位追溯系统招标公告 北京 竞争性谈判 物资 2026-08-26
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00c59fd53cf501a03c1114d3083c.html?noticeType=001006&channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  车辆维修保养项目(二次)流废标公示 北京 公开招标 服务 2026-08-26
+https://www.plap.mil.cn/freecms-glht/site/juncai/ggxx/info/2026/2C03E7271183488BA78C989094876694.html
+  > 关于北京谊安医疗系统股份有限公司复议处理决定的公告 2026-08-06
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d03ed9f3f3788019fe968a3f82ad6.html?noticeType=59&channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  e801分析吸头/分析杯采购意向公告 北京市 无 无 2026-08-26
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00c59fd53cf501a03bc6c89c3476.html?noticeType=001013&channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  智能辅助救护装置研发招标公告 北京 竞争性谈判 物资 2026-08-26
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00e1a00f0b6501a01cf594ec0e8b.html?noticeType=001069&amp;channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  8a1d00e1a00f0b6501a01cf594ec0e8b.html
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d03ed9f3f378801a014769c5a34e2.html?noticeType=59&amp;channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  8a1d03ed9f3f378801a014769c5a34e2.html
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d04f39fb7690a01a032cdffa025a3.html?noticeType=59&amp;channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  8a1d04f39fb7690a01a032cdffa025a3.html
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00c59fd53cf501a01e0532766a74.html?noticeType=001069&amp;channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  8a1d00c59fd53cf501a01e0532766a74.html
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d04f39fb7690a01a037bbc40f4cfc.html?noticeType=59&amp;channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  8a1d04f39fb7690a01a037bbc40f4cfc.html
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d03ed9f3f3788019fe968a3f82ad6.html?noticeType=59&amp;channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  8a1d03ed9f3f3788019fe968a3f82ad6.html
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00c59fd53cf501a036910242356a.html?noticeType=001013&amp;channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  8a1d00c59fd53cf501a036910242356a.html
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00e1a00f0b6501a03c1c8f394958.html?noticeType=001031&amp;channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  8a1d00e1a00f0b6501a03c1c8f394958.html
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00c59fd53cf501a03c0bfa7a6692.html?noticeType=001069&amp;channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  8a1d00c59fd53cf501a03c0bfa7a6692.html
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d03f4a031a65501a032e7663f0f63.html?noticeType=59&amp;channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  8a1d03f4a031a65501a032e7663f0f63.html
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d04f39fb7690a01a0238dab8801a5.html?noticeType=59&amp;channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  8a1d04f39fb7690a01a0238dab8801a5.html
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00c59fd53cf501a03c0040cc1c0b.html?noticeType=001031&amp;channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  8a1d00c59fd53cf501a03c0040cc1c0b.html
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00c59fd53cf501a03cca75907805.html?noticeType=001013&amp;channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  8a1d00c59fd53cf501a03cca75907805.html
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00c59fd53cf501a037cd2ab31716.html?noticeType=001011&amp;channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  8a1d00c59fd53cf501a037cd2ab31716.html
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00e1a00f0b6501a03d10d8c3081e.html?noticeType=001006&amp;channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  8a1d00e1a00f0b6501a03d10d8c3081e.html
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00e0a00f0c1701a03c37e61d7476.html?noticeType=001013&amp;channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  8a1d00e0a00f0c1701a03c37e61d7476.html
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00c59fd53cf501a03c1114d3083c.html?noticeType=001006&amp;channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  8a1d00c59fd53cf501a03c1114d3083c.html
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00c59fd53cf501a03cc2ebc54a30.html?noticeType=001031&amp;channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  8a1d00c59fd53cf501a03cc2ebc54a30.html
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00e1a00f0b6501a037b5f9c47ee8.html?noticeType=001021&amp;channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  8a1d00e1a00f0b6501a037b5f9c47ee8.html
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00c59fd53cf501a03bc6c89c3476.html?noticeType=001013&amp;channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  8a1d00c59fd53cf501a03bc6c89c3476.html
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d04f39fb7690a01a032cdffa025a3.html?noticeType=59&channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  工作人员食堂一次性用品采购意向公告 四川省 无 无 2026-08-26
+https://www.plap.mil.cn/freecms-glht/site/juncai/ggxx/info/2026/4F2591898CA04FD48ACA358387EA2BAE.html
+  > 关于国泰新点软件股份有限公司复议处理决定的公告 2026-08-06
+https://www.plap.mil.cn/freecms/site/juncai/tzggList/info/2026/2736223.html
+  > 关于采购信息平台数智化转型解决方案的征集公告 2026-08-20
+https://www.plap.mil.cn/freecms/site/juncai/hydt/info/2026/2664969.html
+  > 关于征求7型军事设施器材技术标准意见的公告 2026-06-25
+https://www.plap.mil.cn/freecms/site/juncai/hydt/info/2025/2280256.html
+  > 全军副食品筹措全面排查整治信访举报渠道公告 2025-12-05
+https://www.plap.mil.cn/freecms/site/juncai/tzggList/info/2026/2723356.html
+  > 关于组织供应商采购业务培训交流会的公告 2026-08-10
+https://www.plap.mil.cn/freecms/site/juncai/tzggList/info/2026/2721231.html
+  > 关于组织被装潜在供应商动员座谈会的通知 2026-08-07
+https://www.plap.mil.cn/freecms/site/juncai/tzggList/info/2026/2710432.html
+  > 关于征求2套被装领域评审标准意见的公告 2026-07-30
 
 === ALL DISCOVERED LINKS ===
 
-https://www.plap.mil.cn/
+https://www.plap.mil.cn/gateway/gp-auth-center/login?tenantId=Cxiangmu-001&redirectUrl=https://www.plap.mil.cn/
   【请登录】
+https://www.plap.mil.cn/all-portal/portal/
+  【进入工作台】
+https://www.plap.mil.cn/gateway/api/oauth/logout?&logoutRedirectUrl=https://www.plap.mil.cn/
+  【退出登录】
 https://www.plap.mil.cn/freecms-glht/site/juncai/qwjsy/index.html
 https://www.plap.mil.cn/freecms-glht/site/juncai/index.html
   首页
@@ -129,8 +134,80 @@ https://www.plap.mil.cn/freecms-glht/site/juncai/jdjc/index.html
   监督管理
 https://www.plap.mil.cn/freecms-glht/site/juncai/pxkh/index.html
   培训考核
+https://www.plap.mil.cn/freecms/site/juncai/lbt/info/2022/519766.html
+  军队物资服务采购整肃治理专区线索征集公告
+https://www.plap.mil.cn/freecms/site/juncai/lbt/info/2026/2606719.html
+  后勤领域采购需求相关标准规范意见征集
+https://www.plap.mil.cn/freecms/site/juncai/lbt/info/2022/519768.html
+  编目用户终端及二维码生成样例程序更新
+https://www.plap.mil.cn/freecms/site/juncai/tzggList/info/2026/2736223.html
+  > 关于采购信息平台数智化转型解决方案的征集公告 2026-08-20
+https://www.plap.mil.cn/freecms/site/juncai/tzggList/info/2026/2723356.html
+  > 关于组织供应商采购业务培训交流会的公告 2026-08-10
+https://www.plap.mil.cn/freecms/site/juncai/tzggList/info/2026/2721231.html
+  > 关于组织被装潜在供应商动员座谈会的通知 2026-08-07
+https://www.plap.mil.cn/freecms/site/juncai/tzggList/info/2026/2710432.html
+  > 关于征求2套被装领域评审标准意见的公告 2026-07-30
+https://www.plap.mil.cn/freecms/site/juncai/tzggList/info/2026/2590258.html
+  > 关于组织供应商政策宣贯答疑活动的通知 2026-04-21
+https://www.plap.mil.cn/freecms/site/juncai/tzggList/info/2026/2590054.html
+  > 采购智能问答解决方案征集公告 2026-04-21
+https://www.plap.mil.cn/freecms/site/juncai/hydt/info/2026/2739189.html
+  > 关于征集火箭军部队违规采购问题的公告 2026-08-24
+https://www.plap.mil.cn/freecms/site/juncai/hydt/info/2026/2664969.html
+  > 关于征求7型军事设施器材技术标准意见的公告 2026-06-25
+https://www.plap.mil.cn/freecms/site/juncai/hydt/info/2025/2293382.html
+  > 关于征集空军部队违规采购问题的公告 2025-12-15
+https://www.plap.mil.cn/freecms/site/juncai/hydt/info/2025/2293381.html
+  > 关于召开服装供应商座谈会的公告 2025-12-15
+https://www.plap.mil.cn/freecms/site/juncai/hydt/info/2025/2280256.html
+  > 全军副食品筹措全面排查整治信访举报渠道公告 2025-12-05
+https://www.plap.mil.cn/freecms/site/juncai/hydt/info/2025/2217937.html
+  > 关于部分服装材料供应商信息的征集公告 2025-10-24
 https://www.plap.mil.cn/freecms-glht/site/juncai//cggg/index.html
   查看更多
+https://www.plap.mil.cn/
+  全部
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00e1a00f0b6501a01cf594ec0e8b.html?noticeType=001069&channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  无创脑水肿监护仪征求意见公告(2026-JQ15-W1065) 无 公开招标 物资 2026-08-26
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d03ed9f3f378801a014769c5a34e2.html?noticeType=59&channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  重庆主城片区单位副食品采购项目采购意向公告 重庆市 无 无 2026-08-26
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d04f39fb7690a01a032cdffa025a3.html?noticeType=59&channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  工作人员食堂一次性用品采购意向公告 四川省 无 无 2026-08-26
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00c59fd53cf501a01e0532766a74.html?noticeType=001069&channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  过氧化氢低温等离子灭菌器征求意见公告（2026-JQ15-W3066) 无 竞争性谈判 物资 2026-08-26
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d04f39fb7690a01a037bbc40f4cfc.html?noticeType=59&channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  2026年在线开放课程制作服务采购意向公告 湖北省 无 无 2026-08-26
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d03ed9f3f3788019fe968a3f82ad6.html?noticeType=59&channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  e801分析吸头/分析杯采购意向公告 北京市 无 无 2026-08-26
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00c59fd53cf501a036910242356a.html?noticeType=001013&channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  招待所电梯更换(第二次)招标公告 北京 竞争性谈判 物资 2026-08-26
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00e1a00f0b6501a03c1c8f394958.html?noticeType=001031&channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  高性能计算机软硬件设备采购招标变更公告（第一次） 北京 公开招标 物资 2026-08-26
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00c59fd53cf501a03c0bfa7a6692.html?noticeType=001069&channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  副食品集中采购项目（包1）征求意见公告（第一次） 无 公开招标 物资 2026-08-26
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d03f4a031a65501a032e7663f0f63.html?noticeType=59&channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  引进物业管理服务集中带量采购项目采购意向公告 北京市 无 无 2026-08-26
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d04f39fb7690a01a0238dab8801a5.html?noticeType=59&channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  东软CT机球管更换维修单一来源采购项目意向公示 云南省 无 无 2026-08-26
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00c59fd53cf501a03c0040cc1c0b.html?noticeType=001031&channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  车场配套设施整修招标变更公告（第一次）（2026-JQ02-W1067） 北京 公开招标 物资 2026-08-26
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00c59fd53cf501a03cca75907805.html?noticeType=001013&channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  网络网点与信息化设备综合维护项目招标公告 北京 竞争性谈判 服务 2026-08-26
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00c59fd53cf501a037cd2ab31716.html?noticeType=001011&channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  西安某地区餐饮服务采购项目(二次)招标公告（2026-JQ05-F1357） 北京 公开招标 服务 2026-08-26
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00e1a00f0b6501a03d10d8c3081e.html?noticeType=001006&channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  频谱管控设备物资采购项目流废标公示 北京 公开招标 物资 2026-08-26
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00e0a00f0c1701a03c37e61d7476.html?noticeType=001013&channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  生物样本运输定位追溯系统招标公告 北京 竞争性谈判 物资 2026-08-26
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00c59fd53cf501a03c1114d3083c.html?noticeType=001006&channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  车辆维修保养项目(二次)流废标公示 北京 公开招标 服务 2026-08-26
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00c59fd53cf501a03cc2ebc54a30.html?noticeType=001031&channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  飞秒激光治疗机采购更正公告（第一次） 北京 公开招标 物资 2026-08-26
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00e1a00f0b6501a037b5f9c47ee8.html?noticeType=001021&channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  大礼堂LED灯采购项目中标（成交）结果公示 北京 公开招标 物资 2026-08-26
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00c59fd53cf501a03bc6c89c3476.html?noticeType=001013&channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+  智能辅助救护装置研发招标公告 北京 竞争性谈判 物资 2026-08-26
 https://www.plap.mil.cn/pspframe
   登录
 https://www.plap.mil.cn/gateway/gp-auth-center/login?tenantId=Cxiangmu-001&userType=4
@@ -159,6 +236,26 @@ https://www.plap.mil.cn/freecms/site/juncai/gxsm/index.html
   更新说明
 https://www.plap.mil.cn/help/
   知识库
+https://www.plap.mil.cn/freecms-glht/site/juncai/ggxx/info/2026/C7164474F9B24395BB00F3A4159B3A57.html
+  > 仓库货架、管理系统、库区监控等仓储信息化手段建设项目投诉处理公告（2026-JT01-W2011） 2026-08-21
+https://www.plap.mil.cn/freecms-glht/site/juncai/ggxx/info/2026/D176E3435EDD43A3A406AA6633335427.html
+  > 关于采购项目投诉处理决定的公告（项目编号：2026-YKLIXY-W3011） 2026-08-14
+https://www.plap.mil.cn/freecms-glht/site/juncai/ggxx/info/2026/52D1B39FA7854D3BB12E0765ACFB0FEF.html
+  > 关于电动四轮车采购项目（第二次）投诉处理决定的公告 2026-08-14
+https://www.plap.mil.cn/freecms-glht/site/juncai/ggxx/info/2026/B48CD3CBE9A74F46B51F1CBE155A9EA5.html
+  > 关于车场加装防护围栏、平段滑轨门和电动棚栏小门项目违规出发复议处理决定的公告 2026-08-14
+https://www.plap.mil.cn/freecms-glht/site/juncai/ggxx/info/2026/2C03E7271183488BA78C989094876694.html
+  > 关于北京谊安医疗系统股份有限公司复议处理决定的公告 2026-08-06
+https://www.plap.mil.cn/freecms-glht/site/juncai/ggxx/info/2026/4F2591898CA04FD48ACA358387EA2BAE.html
+  > 关于国泰新点软件股份有限公司复议处理决定的公告 2026-08-06
+https://www.plap.mil.cn/freecms-glht/site/juncai/ggxx/info/2026/7F947AF243CD43819C702F9D7B40E37A.html
+  > 关于忆备缩微科技（北京）有限公司等2家供应商复议处理决定的公告 2026-08-06
+https://www.plap.mil.cn/freecms-glht/site/juncai/ggxx/info/2026/24691EC0BBB6467D950DC34A08B4B873.html
+  > 空调维保定点服务竞争性谈判采购项目+关于空调维保定点服务竞争性谈判采购项目 投诉处理决定的公告+项目编号：2026-JQWBWX-F3002(01） 2026-08-05
+https://www.plap.mil.cn/freecms-glht/site/juncai/ggxx/info/2026/5BDEA31F40284C548DA863D0E44C213E.html
+  > 某工程采购项目（项目编号：2026-JHBAHG-G1005）投诉处理决定公告 2026-08-05
+https://www.plap.mil.cn/freecms-glht/site/juncai/ggxx/info/2026/3C683B7A7A56454DBD0FA232EF3ACB3B.html
+  > 关于四川大庭建设工程有限公司复议处理决定的公告 2026-07-30
 https://www.plap.mil.cn/zh-jy-expert-system/
   评审专家抽取
 https://zc.plap.mil.cn/
@@ -208,11 +305,14 @@ https://www.plap.mil.cn/freecms-glht/site/juncai/resources/js/jquery.datetimepic
 https://www.plap.mil.cn/freecms-glht/site/juncai/resources/js/jquery.datetimepicker.full.min.js
 https://www.plap.mil.cn/freecms-glht/site/juncai/resources/js/myPagination.js
 https://www.plap.mil.cn/freecms-glht/site/juncai/resources/js/laydate.js
+https://www.plap.mil.cn/freecms-glht/site/juncai/resources/js/theme/default/laydate.css?v=5.0.9
 https://www.plap.mil.cn/freecms-glht/site/juncai/resources/layui/layui.js
 https://www.plap.mil.cn/freecms-glht/site/juncai/resources/js/jquery.float-ad.js
 https://www.plap.mil.cn/freecms-glht/site/juncai//resources/js/jsencrypt.min.js
 https://www.plap.mil.cn/freecms-glht/site/juncai//resources/js/publicMethods.js
 https://www.plap.mil.cn/freecms-glht/site/juncai//resources/module/zTreeSelectM/zTree_v3/js/jquery.ztree.all.min.js
+https://www.plap.mil.cn/gateway/gp-auth-center/login?tenantId=Cxiangmu-001&amp;redirectUrl=https://www.plap.mil.cn/
+https://www.plap.mil.cn/gateway/api/oauth/logout?&amp;logoutRedirectUrl=https://www.plap.mil.cn/
 https://www.plap.mil.cn/freecms-glht/upload/404bb030-5be9-4070-85bd-c94b1473e8de/94a53951-ace4-49fd-a818-1482794d2715.png
 https://www.plap.mil.cn/freecms-glht/site/juncai/resources/img/bannerbglan.png
 https://www.plap.mil.cn/freecms-glht/site/juncai/resources/img/banner-greatwall.png
@@ -221,23 +321,42 @@ https://www.plap.mil.cn/freecms-glht/site/juncai/resources/img/logotop.png
 https://www.plap.mil.cn/freecms-glht/site/juncai/resources/img/333.png
 https://www.plap.mil.cn
 https://www.plap.mil.cn/gateway/gp-auth-center/rest/v1/user/userInfo
-https://www.plap.mil.cn/gateway/gp-auth-center/login?tenantId=Cxiangmu-001&redirectUrl=
-https://www.plap.mil.cn/gateway/api/oauth/logout?&logoutRedirectUrl=
-https://www.plap.mil.cn/all-portal/portal/
-https://www.plap.mil.cn/gateway/gpc-gpcms/rest/v2/punish/public?&publishType=suspend
+https://www.plap.mil.cn/gateway/gp-auth-center/login?tenantId=Cxiangmu-001&amp;redirectUrl=
+https://www.plap.mil.cn/gateway/api/oauth/logout?&amp;logoutRedirectUrl=
+https://www.plap.mil.cn/gateway/gpc-gpcms/rest/v2/punish/public?&amp;publishType=suspend
 https://www.plap.mil.cn/freecms-glht/site/juncai/resources/img/position-bg.png
 https://www.plap.mil.cn/freecms-glht/site/juncai/resources/img/1.png
 https://www.plap.mil.cn/freecms-glht/upload/404bb030-5be9-4070-85bd-c94b1473e8de/7ae1ab8f-4fa3-4a34-a27d-7be40f5d7416.png
 https://www.plap.mil.cn/freecms-glht/upload/404bb030-5be9-4070-85bd-c94b1473e8de/f91d0fa4-9569-4db0-993e-53fa6ab10c1c.png
 https://www.plap.mil.cn/freecms-glht/upload/404bb030-5be9-4070-85bd-c94b1473e8de/df291c02-7941-4f0b-b68f-edd0e809a72f.png
 https://www.plap.mil.cn/freecms-glht/upload/404bb030-5be9-4070-85bd-c94b1473e8de/c1686ef5-1da5-49de-b6e9-70922a7e4200.png
-https://www.plap.mil.cn/freecms-glht/site/juncai/resources/img/peLocation.png
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00e1a00f0b6501a01cf594ec0e8b.html?noticeType=001069&amp;channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d03ed9f3f378801a014769c5a34e2.html?noticeType=59&amp;channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d04f39fb7690a01a032cdffa025a3.html?noticeType=59&amp;channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00c59fd53cf501a01e0532766a74.html?noticeType=001069&amp;channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d04f39fb7690a01a037bbc40f4cfc.html?noticeType=59&amp;channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d03ed9f3f3788019fe968a3f82ad6.html?noticeType=59&amp;channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00c59fd53cf501a036910242356a.html?noticeType=001013&amp;channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00e1a00f0b6501a03c1c8f394958.html?noticeType=001031&amp;channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00c59fd53cf501a03c0bfa7a6692.html?noticeType=001069&amp;channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d03f4a031a65501a032e7663f0f63.html?noticeType=59&amp;channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d04f39fb7690a01a0238dab8801a5.html?noticeType=59&amp;channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00c59fd53cf501a03c0040cc1c0b.html?noticeType=001031&amp;channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00c59fd53cf501a03cca75907805.html?noticeType=001013&amp;channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00c59fd53cf501a037cd2ab31716.html?noticeType=001011&amp;channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00e1a00f0b6501a03d10d8c3081e.html?noticeType=001006&amp;channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00e0a00f0c1701a03c37e61d7476.html?noticeType=001013&amp;channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00c59fd53cf501a03c1114d3083c.html?noticeType=001006&amp;channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00c59fd53cf501a03cc2ebc54a30.html?noticeType=001031&amp;channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00e1a00f0b6501a037b5f9c47ee8.html?noticeType=001021&amp;channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
+https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00c59fd53cf501a03bc6c89c3476.html?noticeType=001013&amp;channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
 https://www.plap.mil.cn/freecms-glht/site/juncai/resources/img/left_white.png
 https://www.plap.mil.cn/freecms-glht/site/juncai/resources/img/left_blue.png
 https://www.plap.mil.cn/freecms-glht/site/juncai/resources/img/xx-common-bg.png
 https://www.plap.mil.cn/freecms-glht/site/juncai/resources/img/xtrk-cgdw.png
 https://www.plap.mil.cn/freecms-glht/site/juncai/resources/img/xtrk-cgjg.png
 https://www.plap.mil.cn/freecms-glht/site/juncai/resources/img/xtrk-gys.png
+https://www.plap.mil.cn/gateway/gp-auth-center/login?tenantId=Cxiangmu-001&amp;userType=4
 https://www.plap.mil.cn/freecms-glht/site/juncai/resources/img/xtrk-pszj.png
 https://www.plap.mil.cn/freecms-glht/site/juncai/resources/img/xtrk-jgbm.png
 https://www.plap.mil.cn/freecms-glht/site/juncai/resources/img/xtrk-jwrk.png
@@ -245,6 +364,7 @@ https://www.plap.mil.cn/freecms-glht/site/juncai/resources/img/fwzx-common-bg.pn
 https://www.plap.mil.cn/freecms-glht/site/juncai//jszlmy/index.html
 https://www.plap.mil.cn/freecms-glht/site/juncai/resources/img/fwzx-zyts1.png
 https://www.plap.mil.cn/freecms-glht/site/juncai/resources/img/fwzx-fwrx1.png
+https://kf.cgw.mil.cn/wapchat.html?accessId=91965770-af8e-11ee-b49d-817196dd8092&amp;fromUrl=&amp;urlTitle=&amp;language=ZHCN
 https://www.plap.mil.cn/freecms-glht/site/juncai/resources/img/fwzx-bszn1.png
 https://www.plap.mil.cn/freecms-glht/site/juncai/resources/img/fwzx-cjwt1.png
 https://www.plap.mil.cn/freecms-glht/site/juncai/resources/img/fwzx-xzzx1.png
@@ -280,9 +400,9 @@ https://www.plap.mil.cn/freecms-glht/upload/404bb030-5be9-4070-85bd-c94b1473e8de
 https://www.plap.mil.cn/freecms-glht/site/juncai/resources/img/jc-ewm.png
 https://www.plap.mil.cn/freecms-glht/site/juncai/resources/img/zc-ewm.png
 https://www.plap.mil.cn/freecms-glht/site/juncai/resources/img/AIzxkf.png
-https://www.plap.mil.cn/gateway/gpc-gpcms/rest/v2/punish/public?&publishType=breakFaith
-https://www.plap.mil.cn/gateway/gpc-gpcms/rest/v2/punish/public?&publishType=govBreakFaith
-https://www.plap.mil.cn/gateway/gpc-gpcms/rest/v2/punish/public?&publishType=warn
+https://www.plap.mil.cn/gateway/gpc-gpcms/rest/v2/punish/public?&amp;publishType=breakFaith
+https://www.plap.mil.cn/gateway/gpc-gpcms/rest/v2/punish/public?&amp;publishType=govBreakFaith
+https://www.plap.mil.cn/gateway/gpc-gpcms/rest/v2/punish/public?&amp;publishType=warn
 https://www.plap.mil.cn/freecms-glht/site/juncai/resources/img/bg_dv.png
 https://www.plap.mil.cn/freecms-glht/site/juncai/resources/img/icon_pc.png
 https://www.plap.mil.cn/freecms-glht/site/juncai/resources/img/lbtycBG2.png
@@ -296,6 +416,7 @@ https://www.plap.mil.cn/freecms-glht/site/juncai/resources/img/iconDivision1.png
 https://www.plap.mil.cn/freecms-glht/site/juncai/resources/img/iconDivision2.png
 https://www.plap.mil.cn/rest/v1/notice/selectInfoForIndex.do
 https://www.plap.mil.cn/freecms-glht
+https://www.plap.mil.cn/freecms-glht/site/juncai/resources/img/peLocation.png
 https://www.plap.mil.cn/freecms-glht/rest/v1/notice/selectInfoForIndex.do
 https://www.plap.mil.cn/freecms-glht/site/juncai//jdjc/index.html
 https://www.plap.mil.cn/freecms-glht/site/juncai/resources/img/jgxx-zi3.png

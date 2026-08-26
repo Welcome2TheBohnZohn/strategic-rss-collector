@@ -1,0 +1,27 @@
+Diagnostic link report for National People's Congress Defense-Related Laws
+
+Start URL: https://flk.npc.gov.cn/search
+Source type: browser
+Include regex: flk\.npc\.gov\.cn/.+
+Include text regex: 国防|兵役|军事|军人|武装|海警|预备役|国防动员|军事设施|退役军人
+
+Candidate links: 0
+All links discovered: 12
+
+=== MATCHED CANDIDATES ===
+
+
+=== ALL DISCOVERED LINKS ===
+
+https://flk.npc.gov.cn/favicon.ico
+https://flk.npc.gov.cn/assets/index-Y9B5oxpu.js
+https://flk.npc.gov.cn/assets/index-CJ6-h4me.css
+https://flk.npc.gov.cn/assets/index-CaE6o-HK.js
+https://flk.npc.gov.cn/assets/detail-top-illustrate-BRtb6-13.js
+https://flk.npc.gov.cn/assets/search-content-info-DpPX1bm1.js
+https://flk.npc.gov.cn/assets/search-content-delete-new-F5MrnTQm.js
+https://flk.npc.gov.cn/assets/search-content-empty-kdhDLd6k.js
+https://flk.npc.gov.cn/assets/download-BfqvEn0i.js
+https://flk.npc.gov.cn/assets/index-DLkzEtxb.css
+https://flk.npc.gov.cn/assets/badge-D4hUkyEE.png
+http://www.w3.org/2000/svg
