@@ -66,7 +66,7 @@
     "slug": "sastind-cn",
     "title": "SASTIND",
     "source_url": "https://www.sastind.gov.cn/",
-    "start_url": "https://www.sastind.gov.cn/n10086200/n10086344/index.html",
+    "start_url": "https://www.sastind.gov.cn/",
     "language": "zh-CN",
     "include_regex": "sastind\\.gov\\.cn/.+",
     "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4|pdf)$"
@@ -146,11 +146,11 @@
   {
     "slug": "china-defense-news-cn",
     "title": "China National Defense News",
-    "source_url": "https://www.81.cn/rmjz_203219/zggfb/index.html",
-    "start_url": "https://www.81.cn/rmjz_203219/zggfb/index.html",
+    "source_url": "https://www.81.cn/szb_223187/gfbszblb/",
+    "start_url": "https://www.81.cn/szb_223187/gfbszblb/index.html",
     "language": "zh-CN",
-    "include_regex": "81\\.cn/(rmjz_203219|dy_208579)/.+",
-    "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4|pdf)$"
+    "include_regex": "81\\.cn/szb_223187/.+",
+    "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4)$"
   },
   {
     "slug": "gfbzb-laws-cn",
