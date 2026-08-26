@@ -21,8 +21,10 @@ from playwright.sync_api import (
     TimeoutError as PlaywrightTimeoutError,
 )
 
+
 ROOT = Path(__file__).resolve().parent
 SOURCES_FILE = ROOT / "sources.json"
+
 FEEDS_DIR = ROOT / "feeds"
 ARTICLES_DIR = ROOT / "articles"
 DIAGNOSTICS_DIR = ROOT / "diagnostics"
@@ -30,16 +32,19 @@ DIAGNOSTICS_DIR = ROOT / "diagnostics"
 CONTENT_NS = "http://purl.org/rss/1.0/modules/content/"
 ET.register_namespace("content", CONTENT_NS)
 
-REQUEST_TIMEOUT = 10
-BROWSER_TIMEOUT_MS = 20000
+REQUEST_TIMEOUT = 12
+BROWSER_TIMEOUT_MS = 25000
+
 MAX_ITEMS_PER_SOURCE = 12
 MAX_CANDIDATES = 50
+
 
 USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
     "AppleWebKit/537.36 (KHTML, like Gecko) "
     "Chrome/151.0.0.0 Safari/537.36"
 )
+
 
 BAD_LINK_TEXT = {
     "home",
@@ -62,6 +67,7 @@ BAD_LINK_TEXT = {
 
 
 def load_sources():
+
     return json.loads(
         SOURCES_FILE.read_text(
             encoding="utf-8"
@@ -70,10 +76,12 @@ def load_sources():
 
 
 def normalize_text(value):
+
     if not value:
         return ""
 
     text = str(value)
+
     text = text.replace(
         "\r\n",
         "\n",
@@ -98,6 +106,7 @@ def normalize_text(value):
 
 
 def strip_html(value):
+
     if not value:
         return ""
 
@@ -115,23 +124,35 @@ def strip_html(value):
 
 
 def start_urls(source):
+
     values = [
         source["start_url"]
-    ] + source.get(
-        "fallback_urls",
-        [],
+    ]
+
+    values.extend(
+        source.get(
+            "fallback_urls",
+            [],
+        )
     )
 
     output = []
 
     for value in values:
-        if value and value not in output:
-            output.append(value)
+
+        if (
+            value
+            and value not in output
+        ):
+            output.append(
+                value
+            )
 
     return output
 
 
 def request_headers():
+
     return {
         "User-Agent": USER_AGENT,
         "Accept": (
@@ -158,7 +179,9 @@ def fetch(
     retries=1,
     verify_ssl=True,
 ):
+
     if not verify_ssl:
+
         urllib3.disable_warnings(
             urllib3.exceptions.InsecureRequestWarning
         )
@@ -168,7 +191,9 @@ def fetch(
     for attempt in range(
         retries + 1
     ):
+
         try:
+
             response = requests.get(
                 url,
                 headers=request_headers(),
@@ -184,6 +209,7 @@ def fetch(
                 or response.encoding.lower()
                 == "iso-8859-1"
             ):
+
                 response.encoding = (
                     response.apparent_encoding
                     or "utf-8"
@@ -192,19 +218,23 @@ def fetch(
             return {
                 "ok": True,
                 "url": response.url,
-                "status": response.status_code,
+                "status": (
+                    response.status_code
+                ),
                 "text": response.text,
                 "content": response.content,
                 "error": "",
             }
 
         except Exception as exc:
+
             last_error = (
                 f"{type(exc).__name__}: "
                 f"{exc}"
             )
 
             if attempt < retries:
+
                 time.sleep(1)
 
     return {
@@ -221,6 +251,7 @@ def fetch_source(
     source,
     retries=1,
 ):
+
     verify_ssl = source.get(
         "verify_ssl",
         True,
@@ -231,6 +262,7 @@ def fetch_source(
     for url in start_urls(
         source
     ):
+
         result = fetch(
             url,
             retries=retries,
@@ -238,6 +270,7 @@ def fetch_source(
         )
 
         if result["ok"]:
+
             return result
 
         errors.append(
@@ -263,7 +296,9 @@ def canonical_url(
     base_url,
     href,
 ):
+
     try:
+
         url = urljoin(
             base_url,
             href,
@@ -277,6 +312,7 @@ def canonical_url(
             "http",
             "https",
         ):
+
             return ""
 
         return parsed._replace(
@@ -284,12 +320,16 @@ def canonical_url(
         ).geturl()
 
     except Exception:
+
         return ""
 
 
-def host(url):
+def normalized_host(url):
+
     return (
-        urlparse(url).hostname
+        urlparse(
+            url
+        ).hostname
         or ""
     ).lower().removeprefix(
         "www."
@@ -300,22 +340,26 @@ def same_domain(
     source_url,
     candidate_url,
 ):
-    first = host(
+
+    first = normalized_host(
         source_url
     )
 
-    second = host(
+    second = normalized_host(
         candidate_url
     )
 
-    return bool(
-        first
-        and second
-        and (
-            first == second
-            or second.endswith(
-                "." + first
-            )
+    if (
+        not first
+        or not second
+    ):
+
+        return False
+
+    return (
+        first == second
+        or second.endswith(
+            "." + first
         )
     )
 
@@ -324,6 +368,7 @@ def collect_links(
     page_html,
     final_url,
 ):
+
     soup = BeautifulSoup(
         page_html,
         "lxml",
@@ -335,6 +380,7 @@ def collect_links(
         "a",
         href=True,
     ):
+
         url = canonical_url(
             final_url,
             node.get(
@@ -344,6 +390,7 @@ def collect_links(
         )
 
         if not url:
+
             continue
 
         text = normalize_text(
@@ -360,19 +407,21 @@ def collect_links(
                 and text
             )
         ):
+
             found[url] = text
 
-    pattern = re.compile(
+    quoted_pattern = re.compile(
         r"[\"']"
         r"((?:https?://[^\"'<> ]+"
         r"|/[^\"'<> ]+))"
         r"[\"']",
-        re.I,
+        re.IGNORECASE,
     )
 
-    for match in pattern.finditer(
+    for match in quoted_pattern.finditer(
         page_html
     ):
+
         url = canonical_url(
             final_url,
             match.group(1),
@@ -382,6 +431,7 @@ def collect_links(
             url
             and url not in found
         ):
+
             found[url] = ""
 
     return [
@@ -398,50 +448,61 @@ def find_candidates(
     page_html,
     final_url,
 ):
+
     links = collect_links(
         page_html,
         final_url,
     )
 
-    include = re.compile(
+    include_pattern = re.compile(
         source.get(
             "include_regex",
             ".*",
         ),
-        re.I,
+        re.IGNORECASE,
     )
 
-    exclude = re.compile(
+    exclude_pattern = re.compile(
         source.get(
             "exclude_regex",
             r"$^",
         ),
-        re.I,
+        re.IGNORECASE,
     )
 
-    text_filter = None
+    text_pattern = None
 
     if source.get(
         "include_text_regex"
     ):
-        text_filter = re.compile(
+
+        text_pattern = re.compile(
             source[
                 "include_text_regex"
             ],
-            re.I,
+            re.IGNORECASE,
         )
 
     candidates = []
     seen = set()
 
     for item in links:
-        url = item["url"]
-        text = item["text"]
+
+        url = item[
+            "url"
+        ]
+
+        text = item[
+            "text"
+        ]
 
         if url in seen:
+
             continue
 
-        seen.add(url)
+        seen.add(
+            url
+        )
 
         if not same_domain(
             source[
@@ -449,29 +510,36 @@ def find_candidates(
             ],
             url,
         ):
+
             continue
 
-        if exclude.search(
+        if exclude_pattern.search(
             url
         ):
+
             continue
 
-        if not include.search(
+        if not include_pattern.search(
             url
         ):
+
             continue
 
         if (
-            text_filter
-            and not text_filter.search(
+            text_pattern
+            and not text_pattern.search(
                 text
             )
         ):
+
             continue
 
         if len(text) < 4:
+
             text = (
-                urlparse(url)
+                urlparse(
+                    url
+                )
                 .path
                 .rstrip("/")
                 .split("/")[-1]
@@ -482,28 +550,32 @@ def find_candidates(
             text.lower()
             in BAD_LINK_TEXT
         ):
+
             continue
 
         score = 5
 
         if len(text) >= 10:
+
             score += 2
 
         if re.search(
             r"20\d{2}",
             url,
         ):
+
             score += 2
 
         if re.search(
             r"\d{6,}",
             url,
         ):
+
             score += 2
 
         if any(
-            word in url.lower()
-            for word in (
+            keyword in url.lower()
+            for keyword in (
                 "news",
                 "article",
                 "content",
@@ -514,6 +586,7 @@ def find_candidates(
                 "flaw",
             )
         ):
+
             score += 2
 
         candidates.append(
@@ -526,7 +599,9 @@ def find_candidates(
 
     candidates.sort(
         key=lambda item: (
-            -item["score"],
+            -item[
+                "score"
+            ],
             -len(
                 item[
                     "anchor_title"
@@ -544,14 +619,16 @@ def find_candidates(
 
 
 def try_parse_date(value):
+
     if not value:
+
         return None
 
     value = normalize_text(
         value
     )
 
-    chinese = re.search(
+    chinese_match = re.search(
         r"(20\d{2})年\s*"
         r"(\d{1,2})月\s*"
         r"(\d{1,2})日"
@@ -560,12 +637,14 @@ def try_parse_date(value):
         value,
     )
 
-    if chinese:
+    if chinese_match:
+
         year, month, day, hour, minute = (
-            chinese.groups()
+            chinese_match.groups()
         )
 
         try:
+
             return datetime(
                 int(year),
                 int(month),
@@ -575,9 +654,11 @@ def try_parse_date(value):
             )
 
         except Exception:
+
             pass
 
     try:
+
         dt = dateparser.parse(
             value,
             fuzzy=True,
@@ -589,16 +670,20 @@ def try_parse_date(value):
             <= dt.year
             <= 2100
         ):
+
             return dt
 
     except Exception:
+
         pass
 
     return None
 
 
 def date_from_url(url):
+
     try:
+
         parsed = urlparse(
             url
         )
@@ -613,15 +698,18 @@ def date_from_url(url):
             "pubDate",
             "publishDate",
         ):
+
             for value in query.get(
                 key,
                 [],
             ):
+
                 dt = try_parse_date(
                     value
                 )
 
                 if dt:
+
                     return dt
 
         match = re.search(
@@ -632,6 +720,7 @@ def date_from_url(url):
         )
 
         if match:
+
             return datetime(
                 int(
                     match.group(1)
@@ -645,6 +734,7 @@ def date_from_url(url):
             )
 
     except Exception:
+
         pass
 
     return None
@@ -654,7 +744,8 @@ def extract_date(
     soup,
     page_text,
 ):
-    meta_keys = [
+
+    meta_candidates = [
         (
             "property",
             "article:published_time",
@@ -693,7 +784,8 @@ def extract_date(
         ),
     ]
 
-    for attribute, value in meta_keys:
+    for attribute, value in meta_candidates:
+
         node = soup.find(
             "meta",
             attrs={
@@ -707,6 +799,7 @@ def extract_date(
                 "content"
             )
         ):
+
             dt = try_parse_date(
                 node.get(
                     "content"
@@ -714,11 +807,13 @@ def extract_date(
             )
 
             if dt:
+
                 return dt
 
     for node in soup.find_all(
         "time"
     ):
+
         dt = try_parse_date(
             node.get(
                 "datetime"
@@ -733,6 +828,7 @@ def extract_date(
         )
 
         if dt:
+
             return dt
 
     selectors = [
@@ -756,9 +852,11 @@ def extract_date(
     ]
 
     for selector in selectors:
+
         for node in soup.select(
             selector
         ):
+
             dt = try_parse_date(
                 node.get_text(
                     " ",
@@ -767,6 +865,7 @@ def extract_date(
             )
 
             if dt:
+
                 return dt
 
     sample = page_text[
@@ -793,12 +892,14 @@ def extract_date(
     ]
 
     for pattern in patterns:
+
         match = re.search(
             pattern,
             sample,
         )
 
         if not match:
+
             continue
 
         year, month, day, hour, minute = (
@@ -806,6 +907,7 @@ def extract_date(
         )
 
         try:
+
             return datetime(
                 int(year),
                 int(month),
@@ -815,6 +917,7 @@ def extract_date(
             )
 
         except Exception:
+
             pass
 
     return None
@@ -824,6 +927,7 @@ def extract_title(
     soup,
     fallback="Untitled",
 ):
+
     selectors = [
         "h1",
         ".article-title",
@@ -838,26 +942,32 @@ def extract_title(
     ]
 
     for selector in selectors:
+
         node = soup.select_one(
             selector
         )
 
-        if node:
-            text = normalize_text(
-                node.get_text(
-                    " ",
-                    strip=True,
-                )
-            )
+        if not node:
 
-            if (
-                4
-                <= len(text)
-                <= 300
-            ):
-                return text
+            continue
+
+        text = normalize_text(
+            node.get_text(
+                " ",
+                strip=True,
+            )
+        )
+
+        if (
+            4
+            <= len(text)
+            <= 300
+        ):
+
+            return text
 
     if soup.title:
+
         text = normalize_text(
             soup.title.get_text(
                 " ",
@@ -866,28 +976,29 @@ def extract_title(
         )
 
         if text:
+
             return text
 
     return fallback
 
 
 def extract_article_text(soup):
-    remove_tags = [
-        "script",
-        "style",
-        "noscript",
-        "nav",
-        "footer",
-        "header",
-        "form",
-        "iframe",
-        "svg",
-        "aside",
-    ]
 
     for tag in soup(
-        remove_tags
+        [
+            "script",
+            "style",
+            "noscript",
+            "nav",
+            "footer",
+            "header",
+            "form",
+            "iframe",
+            "svg",
+            "aside",
+        ]
     ):
+
         tag.decompose()
 
     selectors = [
@@ -917,9 +1028,11 @@ def extract_article_text(soup):
     candidates = []
 
     for selector in selectors:
+
         for node in soup.select(
             selector
         ):
+
             text = normalize_text(
                 node.get_text(
                     "\n",
@@ -928,23 +1041,24 @@ def extract_article_text(soup):
             )
 
             if len(text) >= 200:
+
                 candidates.append(
                     text
                 )
 
     if candidates:
+
         return max(
             candidates,
             key=len,
-        )[
-            :50000
-        ]
+        )[:50000]
 
     paragraphs = []
 
     for paragraph in soup.find_all(
         "p"
     ):
+
         text = normalize_text(
             paragraph.get_text(
                 " ",
@@ -953,16 +1067,19 @@ def extract_article_text(soup):
         )
 
         if len(text) >= 30:
+
             paragraphs.append(
                 text
             )
 
     if paragraphs:
+
         text = "\n\n".join(
             paragraphs
         )
 
         if len(text) >= 200:
+
             return text[
                 :50000
             ]
@@ -972,9 +1089,7 @@ def extract_article_text(soup):
             "\n",
             strip=True,
         )
-    )[
-        :50000
-    ]
+    )[:50000]
 
 
 def extract_article(
@@ -982,12 +1097,13 @@ def extract_article(
     fallback_title,
     article_url="",
 ):
+
     soup = BeautifulSoup(
         page_html,
         "lxml",
     )
 
-    visible = normalize_text(
+    visible_text = normalize_text(
         soup.get_text(
             "\n",
             strip=True,
@@ -996,13 +1112,14 @@ def extract_article(
 
     published = extract_date(
         soup,
-        visible,
+        visible_text,
     )
 
     if (
         not published
         and article_url
     ):
+
         published = date_from_url(
             article_url
         )
@@ -1023,6 +1140,7 @@ def safe_filename(
     title,
     url,
 ):
+
     value = re.sub(
         r'[\\/:*?"<>|]+',
         "_",
@@ -1038,6 +1156,7 @@ def safe_filename(
     )
 
     if not value:
+
         value = hashlib.sha1(
             url.encode(
                 "utf-8"
@@ -1055,6 +1174,7 @@ def save_article(
     source_slug,
     article,
 ):
+
     folder = (
         ARTICLES_DIR
         / source_slug
@@ -1108,6 +1228,7 @@ def save_diagnostics(
     links,
     candidates,
 ):
+
     DIAGNOSTICS_DIR.mkdir(
         parents=True,
         exist_ok=True,
@@ -1115,13 +1236,20 @@ def save_diagnostics(
 
     path = (
         DIAGNOSTICS_DIR
-        / f"{source['slug']}.txt"
+        / (
+            source[
+                "slug"
+            ]
+            + ".txt"
+        )
     )
 
     lines = [
         (
             "Diagnostic link report for "
-            + source["title"]
+            + source[
+                "title"
+            ]
         ),
         "",
         (
@@ -1169,15 +1297,17 @@ def save_diagnostics(
     ]
 
     for item in candidates:
-        lines.extend(
-            [
-                item["url"],
-                (
-                    "  "
-                    + item[
-                        "anchor_title"
-                    ]
-                ),
+
+        lines.append(
+            item[
+                "url"
+            ]
+        )
+
+        lines.append(
+            "  "
+            + item[
+                "anchor_title"
             ]
         )
 
@@ -1193,11 +1323,17 @@ def save_diagnostics(
     )
 
     for item in links:
+
         lines.append(
-            item["url"]
+            item[
+                "url"
+            ]
         )
 
-        if item["text"]:
+        if item[
+            "text"
+        ]:
+
             lines.append(
                 "  "
                 + item[
@@ -1218,6 +1354,7 @@ def save_raw(
     text,
     suffix,
 ):
+
     DIAGNOSTICS_DIR.mkdir(
         parents=True,
         exist_ok=True,
@@ -1226,8 +1363,11 @@ def save_raw(
     path = (
         DIAGNOSTICS_DIR
         / (
-            f"{source['slug']}-"
-            f"{suffix}"
+            source[
+                "slug"
+            ]
+            + "-"
+            + suffix
         )
     )
 
@@ -1240,10 +1380,13 @@ def save_raw(
 
 
 def normalize_datetime(value):
+
     if not value:
+
         return None
 
     if value.tzinfo is None:
+
         value = value.replace(
             tzinfo=timezone.utc
         )
@@ -1257,6 +1400,7 @@ def build_rss(
     source,
     articles,
 ):
+
     rss = ET.Element(
         "rss",
         {
@@ -1311,6 +1455,7 @@ def build_rss(
     )
 
     for article in articles:
+
         item = ET.SubElement(
             channel,
             "item",
@@ -1348,15 +1493,14 @@ def build_rss(
             ]
         )
 
-        published = (
-            normalize_datetime(
-                article.get(
-                    "published"
-                )
+        published = normalize_datetime(
+            article.get(
+                "published"
             )
         )
 
         if published:
+
             ET.SubElement(
                 item,
                 "pubDate",
@@ -1414,6 +1558,7 @@ def write_feed(
     source,
     articles,
 ):
+
     FEEDS_DIR.mkdir(
         parents=True,
         exist_ok=True,
@@ -1421,7 +1566,12 @@ def write_feed(
 
     path = (
         FEEDS_DIR
-        / f"{source['slug']}.xml"
+        / (
+            source[
+                "slug"
+            ]
+            + ".xml"
+        )
     )
 
     path.write_bytes(
@@ -1433,6 +1583,7 @@ def write_feed(
 
 
 def base_status(source):
+
     return {
         "slug": source[
             "slug"
@@ -1467,6 +1618,7 @@ def populate_counts(
     status,
     articles,
 ):
+
     status[
         "articles_with_text"
     ] = sum(
@@ -1495,11 +1647,16 @@ def populate_counts(
 
 
 def run_rss(source):
+
     print(
-        f"\n==> "
-        f"{source['slug']} "
-        f"[RSS]: "
-        f"{source['start_url']}",
+        "\n==> "
+        + source[
+            "slug"
+        ]
+        + " [RSS]: "
+        + source[
+            "start_url"
+        ],
         flush=True,
     )
 
@@ -1528,6 +1685,7 @@ def run_rss(source):
     if not result[
         "ok"
     ]:
+
         status[
             "error"
         ] = result[
@@ -1547,15 +1705,17 @@ def run_rss(source):
     for entry in parsed.entries[
         :MAX_ITEMS_PER_SOURCE
     ]:
-        title = (
-            strip_html(
-                entry.get(
-                    "title",
-                    "",
-                )
+
+        title = strip_html(
+            entry.get(
+                "title",
+                "",
             )
-            or "Untitled"
         )
+
+        if not title:
+
+            title = "Untitled"
 
         url = (
             entry.get(
@@ -1574,6 +1734,7 @@ def run_rss(source):
         if entry.get(
             "content"
         ):
+
             text = "\n\n".join(
                 strip_html(
                     part.get(
@@ -1590,6 +1751,7 @@ def run_rss(source):
             )
 
         if not text:
+
             text = strip_html(
                 entry.get(
                     "summary"
@@ -1607,48 +1769,50 @@ def run_rss(source):
             "updated_parsed",
             "created_parsed",
         ):
+
             value = entry.get(
                 key
             )
 
-            if value:
-                try:
-                    published = (
-                        datetime(
-                            *value[:6],
-                            tzinfo=(
-                                timezone.utc
-                            ),
-                        )
-                    )
+            if not value:
 
-                    break
+                continue
 
-                except Exception:
-                    pass
+            try:
+
+                published = datetime(
+                    *value[:6],
+                    tzinfo=timezone.utc,
+                )
+
+                break
+
+            except Exception:
+
+                pass
 
         if not published:
+
             for key in (
                 "published",
                 "updated",
                 "created",
             ):
-                published = (
-                    try_parse_date(
-                        entry.get(
-                            key
-                        )
+
+                published = try_parse_date(
+                    entry.get(
+                        key
                     )
                 )
 
                 if published:
+
                     break
 
         if not published:
-            published = (
-                date_from_url(
-                    url
-                )
+
+            published = date_from_url(
+                url
             )
 
         article = {
@@ -1663,9 +1827,7 @@ def run_rss(source):
             "text": text[
                 :50000
             ],
-            "published": (
-                published
-            ),
+            "published": published,
         }
 
         save_article(
@@ -1691,6 +1853,7 @@ def run_rss(source):
     )
 
     if not articles:
+
         save_raw(
             source,
             result[
@@ -1704,6 +1867,7 @@ def run_rss(source):
             "bozo",
             False,
         ):
+
             status[
                 "error"
             ] = (
@@ -1732,12 +1896,11 @@ def collect_html_articles(
     status,
     browser_page=None,
 ):
-    candidates, links = (
-        find_candidates(
-            source,
-            listing_html,
-            listing_url,
-        )
+
+    candidates, links = find_candidates(
+        source,
+        listing_html,
+        listing_url,
     )
 
     status[
@@ -1759,6 +1922,7 @@ def collect_html_articles(
     )
 
     if not candidates:
+
         save_raw(
             source,
             listing_html,
@@ -1773,10 +1937,12 @@ def collect_html_articles(
     seen = set()
 
     for candidate in candidates:
+
         if (
             len(articles)
             >= MAX_ITEMS_PER_SOURCE
         ):
+
             break
 
         url = candidate[
@@ -1784,6 +1950,7 @@ def collect_html_articles(
         ]
 
         if url in seen:
+
             continue
 
         seen.add(
@@ -1795,7 +1962,9 @@ def collect_html_articles(
         ] += 1
 
         try:
+
             if browser_page:
+
                 browser_page.goto(
                     url,
                     wait_until=(
@@ -1807,27 +1976,26 @@ def collect_html_articles(
                 )
 
                 browser_page.wait_for_timeout(
-                    1200
+                    1500
                 )
 
                 try:
+
                     browser_page.wait_for_load_state(
                         "networkidle",
-                        timeout=3000,
+                        timeout=4000,
                     )
 
                 except PlaywrightTimeoutError:
+
                     pass
 
-                page_html = (
-                    browser_page.content()
-                )
+                page_html = browser_page.content()
 
-                final_url = (
-                    browser_page.url
-                )
+                final_url = browser_page.url
 
             else:
+
                 page = fetch(
                     url,
                     retries=0,
@@ -1842,6 +2010,7 @@ def collect_html_articles(
                 if not page[
                     "ok"
                 ]:
+
                     continue
 
                 page_html = page[
@@ -1852,14 +2021,12 @@ def collect_html_articles(
                     "url"
                 ]
 
-            article = (
-                extract_article(
-                    page_html,
-                    candidate[
-                        "anchor_title"
-                    ],
-                    final_url,
-                )
+            article = extract_article(
+                page_html,
+                candidate[
+                    "anchor_title"
+                ],
+                final_url,
             )
 
             if len(
@@ -1867,6 +2034,7 @@ def collect_html_articles(
                     "text"
                 ]
             ) < 200:
+
                 continue
 
             article[
@@ -1889,6 +2057,7 @@ def collect_html_articles(
             )
 
         except Exception:
+
             continue
 
     populate_counts(
@@ -1905,11 +2074,16 @@ def collect_html_articles(
 
 
 def run_html(source):
+
     print(
-        f"\n==> "
-        f"{source['slug']} "
-        f"[HTML]: "
-        f"{source['start_url']}",
+        "\n==> "
+        + source[
+            "slug"
+        ]
+        + " [HTML]: "
+        + source[
+            "start_url"
+        ],
         flush=True,
     )
 
@@ -1938,6 +2112,7 @@ def run_html(source):
     if not listing[
         "ok"
     ]:
+
         status[
             "error"
         ] = listing[
@@ -1958,16 +2133,56 @@ def run_html(source):
     )
 
 
+def browser_context(
+    playwright,
+    source,
+):
+
+    browser = playwright.chromium.launch(
+        headless=True,
+        args=[
+            "--no-sandbox",
+            "--disable-dev-shm-usage",
+        ],
+    )
+
+    context = browser.new_context(
+        user_agent=USER_AGENT,
+        locale=source.get(
+            "browser_locale",
+            "en-US",
+        ),
+        viewport={
+            "width": 1440,
+            "height": 1100,
+        },
+        ignore_https_errors=(
+            not source.get(
+                "verify_ssl",
+                True,
+            )
+        ),
+    )
+
+    return (
+        browser,
+        context,
+    )
+
+
 def browser_open(
     page,
     source,
 ):
+
     errors = []
 
     for url in start_urls(
         source
     ):
+
         try:
+
             response = page.goto(
                 url,
                 wait_until=(
@@ -1983,12 +2198,14 @@ def browser_open(
             )
 
             try:
+
                 page.wait_for_load_state(
                     "networkidle",
                     timeout=5000,
                 )
 
             except PlaywrightTimeoutError:
+
                 pass
 
             content = page.content()
@@ -2012,13 +2229,12 @@ def browser_open(
                 for marker
                 in challenge_markers
             ):
+
                 page.wait_for_timeout(
                     8000
                 )
 
-                content = (
-                    page.content()
-                )
+                content = page.content()
 
             status_code = (
                 response.status
@@ -2027,12 +2243,11 @@ def browser_open(
             )
 
             if status_code < 400:
+
                 return {
                     "ok": True,
                     "url": page.url,
-                    "status": (
-                        status_code
-                    ),
+                    "status": status_code,
                     "text": content,
                     "error": "",
                 }
@@ -2044,6 +2259,7 @@ def browser_open(
             )
 
         except Exception as exc:
+
             errors.append(
                 f"{url} -> "
                 f"{type(exc).__name__}: "
@@ -2063,57 +2279,17 @@ def browser_open(
     }
 
 
-def browser_context(
-    playwright,
-    source,
-):
-    browser = (
-        playwright.chromium.launch(
-            headless=True,
-            args=[
-                "--no-sandbox",
-                (
-                    "--disable-"
-                    "dev-shm-usage"
-                ),
-            ],
-        )
-    )
-
-    context = (
-        browser.new_context(
-            user_agent=(
-                USER_AGENT
-            ),
-            locale=source.get(
-                "browser_locale",
-                "en-US",
-            ),
-            viewport={
-                "width": 1440,
-                "height": 1100,
-            },
-            ignore_https_errors=(
-                not source.get(
-                    "verify_ssl",
-                    True,
-                )
-            ),
-        )
-    )
-
-    return (
-        browser,
-        context,
-    )
-
-
 def run_browser(source):
+
     print(
-        f"\n==> "
-        f"{source['slug']} "
-        f"[BROWSER]: "
-        f"{source['start_url']}",
+        "\n==> "
+        + source[
+            "slug"
+        ]
+        + " [BROWSER]: "
+        + source[
+            "start_url"
+        ],
         flush=True,
     )
 
@@ -2122,17 +2298,15 @@ def run_browser(source):
     )
 
     try:
+
         with sync_playwright() as playwright:
-            browser, context = (
-                browser_context(
-                    playwright,
-                    source,
-                )
+
+            browser, context = browser_context(
+                playwright,
+                source,
             )
 
-            page = (
-                context.new_page()
-            )
+            page = context.new_page()
 
             page.set_default_timeout(
                 BROWSER_TIMEOUT_MS
@@ -2159,6 +2333,7 @@ def run_browser(source):
             if not listing[
                 "ok"
             ]:
+
                 status[
                     "error"
                 ] = listing[
@@ -2170,18 +2345,16 @@ def run_browser(source):
 
                 return status
 
-            result = (
-                collect_html_articles(
-                    source,
-                    listing[
-                        "text"
-                    ],
-                    listing[
-                        "url"
-                    ],
-                    status,
-                    browser_page=page,
-                )
+            result = collect_html_articles(
+                source,
+                listing[
+                    "text"
+                ],
+                listing[
+                    "url"
+                ],
+                status,
+                browser_page=page,
             )
 
             context.close()
@@ -2190,6 +2363,7 @@ def run_browser(source):
             return result
 
     except Exception as exc:
+
         status[
             "error"
         ] = (
@@ -2204,6 +2378,7 @@ def cnnvd_title(
     cnnvd_id,
     segment,
 ):
+
     ignore = {
         cnnvd_id,
         "超危",
@@ -2229,16 +2404,17 @@ def cnnvd_title(
     ]
 
     for line in lines:
+
         if line in ignore:
+
             continue
 
         if cnnvd_id in line:
-            remainder = (
-                normalize_text(
-                    line.replace(
-                        cnnvd_id,
-                        "",
-                    )
+
+            remainder = normalize_text(
+                line.replace(
+                    cnnvd_id,
+                    "",
                 )
             )
 
@@ -2252,6 +2428,7 @@ def cnnvd_title(
             if len(
                 remainder
             ) >= 4:
+
                 return remainder[
                     :240
                 ]
@@ -2264,9 +2441,11 @@ def cnnvd_title(
             r"\d{1,2}",
             line,
         ):
+
             continue
 
         if len(line) >= 4:
+
             return line[
                 :240
             ]
@@ -2278,6 +2457,7 @@ def parse_cnnvd_list(
     rendered_text,
     source,
 ):
+
     text = normalize_text(
         rendered_text
     )
@@ -2286,7 +2466,7 @@ def parse_cnnvd_list(
         re.finditer(
             r"CNNVD-\d{4,6}-\d+",
             text,
-            re.I,
+            re.IGNORECASE,
         )
     )
 
@@ -2296,12 +2476,14 @@ def parse_cnnvd_list(
     for index, match in enumerate(
         matches
     ):
+
         cnnvd_id = (
             match.group(0)
             .upper()
         )
 
         if cnnvd_id in seen:
+
             continue
 
         seen.add(
@@ -2350,7 +2532,9 @@ def parse_cnnvd_list(
         )
 
         if date_match:
+
             try:
+
                 published = datetime(
                     int(
                         date_match.group(
@@ -2370,53 +2554,57 @@ def parse_cnnvd_list(
                 )
 
             except Exception:
+
                 pass
 
+        article = {
+            "title": (
+                f"{cnnvd_id} - "
+                f"{title}"
+                if title != cnnvd_id
+                else cnnvd_id
+            ),
+            "url": source[
+                "start_url"
+            ],
+            "guid": (
+                source[
+                    "source_url"
+                ].rstrip("/")
+                + "/#"
+                + cnnvd_id
+            ),
+            "text": segment[
+                :3000
+            ],
+            "published": published,
+        }
+
         articles.append(
-            {
-                "title": (
-                    f"{cnnvd_id} - "
-                    f"{title}"
-                    if (
-                        title
-                        != cnnvd_id
-                    )
-                    else cnnvd_id
-                ),
-                "url": source[
-                    "start_url"
-                ],
-                "guid": (
-                    source[
-                        "source_url"
-                    ].rstrip("/")
-                    + "/#"
-                    + cnnvd_id
-                ),
-                "text": segment[
-                    :3000
-                ],
-                "published": (
-                    published
-                ),
-            }
+            article
         )
 
         if (
             len(articles)
             >= MAX_ITEMS_PER_SOURCE
         ):
+
             break
 
     return articles
 
 
 def run_cnnvd(source):
+
     print(
-        f"\n==> "
-        f"{source['slug']} "
-        f"[CNNVD]: "
-        f"{source['start_url']}",
+        "\n==> "
+        + source[
+            "slug"
+        ]
+        + " [CNNVD]: "
+        + source[
+            "start_url"
+        ],
         flush=True,
     )
 
@@ -2429,17 +2617,15 @@ def run_cnnvd(source):
     ] = "cnnvd"
 
     try:
+
         with sync_playwright() as playwright:
-            browser, context = (
-                browser_context(
-                    playwright,
-                    source,
-                )
+
+            browser, context = browser_context(
+                playwright,
+                source,
             )
 
-            page = (
-                context.new_page()
-            )
+            page = context.new_page()
 
             page.set_default_timeout(
                 BROWSER_TIMEOUT_MS
@@ -2466,6 +2652,7 @@ def run_cnnvd(source):
             if not listing[
                 "ok"
             ]:
+
                 status[
                     "error"
                 ] = listing[
@@ -2482,6 +2669,7 @@ def run_cnnvd(source):
             )
 
             try:
+
                 body_text = (
                     page.locator(
                         "body"
@@ -2491,14 +2679,13 @@ def run_cnnvd(source):
                 )
 
             except Exception:
-                body_text = (
-                    BeautifulSoup(
-                        page.content(),
-                        "lxml",
-                    ).get_text(
-                        "\n",
-                        strip=True,
-                    )
+
+                body_text = BeautifulSoup(
+                    page.content(),
+                    "lxml",
+                ).get_text(
+                    "\n",
+                    strip=True,
                 )
 
             links = collect_links(
@@ -2506,11 +2693,9 @@ def run_cnnvd(source):
                 page.url,
             )
 
-            articles = (
-                parse_cnnvd_list(
-                    body_text,
-                    source,
-                )
+            articles = parse_cnnvd_list(
+                body_text,
+                source,
             )
 
             status[
@@ -2543,6 +2728,7 @@ def run_cnnvd(source):
             )
 
             for article in articles:
+
                 save_article(
                     source[
                         "slug"
@@ -2561,6 +2747,7 @@ def run_cnnvd(source):
             return status
 
     except Exception as exc:
+
         status[
             "error"
         ] = (
@@ -2572,22 +2759,26 @@ def run_cnnvd(source):
 
 
 def run_source(source):
+
     source_type = source.get(
         "source_type",
         "html",
     ).lower()
 
     if source_type == "rss":
+
         return run_rss(
             source
         )
 
     if source_type == "browser":
+
         return run_browser(
             source
         )
 
     if source_type == "cnnvd":
+
         return run_cnnvd(
             source
         )
@@ -2600,6 +2791,7 @@ def run_source(source):
 def write_status_report(
     statuses,
 ):
+
     FEEDS_DIR.mkdir(
         parents=True,
         exist_ok=True,
@@ -2637,17 +2829,20 @@ def write_status_report(
     failed = 0
 
     for status in statuses:
+
         if (
             status[
                 "feed_items"
             ] > 0
         ):
+
             state = "OK"
             working += 1
 
         elif status[
             "http_status"
         ]:
+
             state = (
                 "FETCHED/NO ITEMS"
             )
@@ -2655,6 +2850,7 @@ def write_status_report(
             no_items += 1
 
         else:
+
             state = "FAILED"
             failed += 1
 
@@ -2704,6 +2900,7 @@ def write_status_report(
             "browser",
             "cnnvd",
         ):
+
             lines.extend(
                 [
                     (
@@ -2779,6 +2976,7 @@ def write_status_report(
         if status[
             "error"
         ]:
+
             lines.append(
                 "  Error: "
                 + status[
@@ -2813,12 +3011,12 @@ def write_status_report(
         ]
     )
 
-    path = (
+    report_path = (
         FEEDS_DIR
         / "status-report.txt"
     )
 
-    path.write_text(
+    report_path.write_text(
         "\n".join(
             lines
         ),
@@ -2827,6 +3025,7 @@ def write_status_report(
 
 
 def main():
+
     FEEDS_DIR.mkdir(
         parents=True,
         exist_ok=True,
@@ -2850,15 +3049,30 @@ def main():
         flush=True,
     )
 
+    print(
+        f"HTTP timeout: "
+        f"{REQUEST_TIMEOUT} seconds.",
+        flush=True,
+    )
+
+    print(
+        f"Browser timeout: "
+        f"{BROWSER_TIMEOUT_MS} ms.",
+        flush=True,
+    )
+
     statuses = []
 
     for source in sources:
+
         try:
+
             status = run_source(
                 source
             )
 
         except Exception as exc:
+
             status = base_status(
                 source
             )
@@ -2894,4 +3108,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
