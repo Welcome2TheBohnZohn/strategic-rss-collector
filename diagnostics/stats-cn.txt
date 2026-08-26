@@ -5,7 +5,7 @@ Source type: html
 Include regex: stats\.gov\.cn/sj/zxfb/.+
 
 Candidate links: 15
-All links discovered: 201
+All links discovered: 227
 
 === MATCHED CANDIDATES ===
 
@@ -440,3 +440,29 @@ https://beian.miit.gov.cn
   京ICP备05034670号-2
 http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11040102700142
   京公网安备 11040102700142号
+https://www.stats.gov.cn/images/aiwen_logo_20251203.gif
+https://www.stats.gov.cn/images/aiwen_logo2_20251203.png
+https://www.stats.gov.cn/images/gtj2023_logo.png
+https://www.stats.gov.cn/images/gtj2023_header-icon7.png
+https://www.stats.gov.cn/images/gtj2023_header-icon2.png
+https://www.stats.gov.cn/images/gtj2023_header-icon3.png
+https://www.stats.gov.cn/images/gtj2023_header-icon1.png
+https://www.stats.gov.cn/images/gtj2023_header-icon4.png
+https://www.stats.gov.cn/images/gtj2023_header-icon5.png
+http://weibo.com/nbsstatistics
+https://www.stats.gov.cn/images/gtj2023_header-icon6.png
+https://www.stats.gov.cn/search/s?qt=
+https://www.stats.gov.cn/images/gtj2023_nav_circle.png
+https://www.stats.gov.cn/images/mobile_arrow_icon.png
+https://www.stats.gov.cn/xw/
+https://www.stats.gov.cn/zt
+https://www.stats.gov.cn/zt_18555/xhwz/zgtjxh/
+https://www.stats.gov.cn/zt_18555/xhwz/hsyjh1/
+https://www.stats.gov.cn/zt_18555/xhwz/tjjyxh/
+https://www.stats.gov.cn/images/gtj2023_gtj2023_002.png
+https://dcs.conac.cn/js/33/000/0000/60409131/CA330000000604091310003.js
+https://www.stats.gov.cn/images/gh.png
+https://www.stats.gov.cn/images/gtj2023_zc.png
+https://www.stats.gov.cn/images/jiucuo.js
+https://www.stats.gov.cn/images/esdToolsInit.js
+https://ta.trs.cn/c/js/ta.js?mpid=6267

@@ -5,7 +5,7 @@ Source type: html
 Include regex: en\.mfa\.ir/portal/NewsView/\d+
 
 Candidate links: 15
-All links discovered: 65
+All links discovered: 127
 
 === MATCHED CANDIDATES ===
 
@@ -43,6 +43,7 @@ https://en.mfa.ir/portal/newsview/793020
 === ALL DISCOVERED LINKS ===
 
 https://en.mfa.ir/
+  About us
 https://mfa.gov.ir/
   فارسی
 https://ar.mfa.gov.ir/
@@ -165,3 +166,65 @@ http://en-economic.mfa.ir/
   Economic Diplomacy Deputy
 http://ecomment.mfa.gov.ir
   Feedback
+https://en.mfa.ir/js/jquery-3.6.0.min.js
+https://en.mfa.ir/css/jquery.qtip.min.css
+https://en.mfa.ir/css/select2.min.css?x=1
+https://en.mfa.ir/uitemplates/newmfaen/bootsrap.css?x=1
+https://en.mfa.ir/uitemplates/newmfaen/fontAwesome.css?x=1
+https://en.mfa.ir/uitemplates/newmfaen/loader.css?x=2
+https://en.mfa.ir/uitemplates/newmfaen/style.css?x=8
+https://www.en.mfa.ir
+https://en.mfa.ir/js/select2.full.min.js?x=2
+https://en.mfa.ir/js/jquery.form-validator.js?x=8
+https://en.mfa.ir/js/jquery.qtip.min.js
+https://en.mfa.ir/js/ytms.js?x=1
+https://en.mfa.ir/files/mfaen/mfa_mfa-logo2-en.png
+https://en.mfa.ir/files/mfa/newMfa/MAP.jpg
+https://en.mfa.ir/files/mfa/images/black2.png
+https://en.mfa.ir/files/ecodep/icons/surushhh.png
+https://en.mfa.ir/portal/contentview/
+https://en.mfa.ir/portal/newsview/
+https://en.mfa.ir/portal/product/
+https://en.mfa.ir/portal/SearchResult/
+https://en.mfa.ir/SearchResult/
+https://en.mfa.ir/css/News/SliderTopNews.css
+https://en.mfa.ir/js/News/bjqs-1.3.min.js
+https://mfa.gov.ir/portal/regquestions
+https://en.mfa.ir/files/mfaen/Pages/2021103018075490087651234.png
+https://ecomment.mfa.gov.ir/portal/regquestions
+https://en.mfa.ir/files/mfaen/Pages/2021103018083946356423187.png
+https://en.mfa.ir/portal/viewpage/14739
+https://en.mfa.ir/files/mfaen/Pages/2021103018091186967215834.png
+https://en.mfa.ir/files/mfaen/Pages/2021103018115034242751368.png
+https://en.mfa.ir/files/mfaen/Pages/2021103018123298332715486.png
+https://en.mfa.ir/files/mfaen/Pages/2021103018125560832768451.png
+https://en.mfa.ir/files/mfaen/Pages/2021103018135262468742315.png
+https://en.mfa.ir/files/mfaen/Pages/2021103018192546767214358.png
+https://en.mfa.ir/files/mfaen/Pages/2021103018201351436125784.png
+https://en.mfa.ir/files/mfaen/Pages/202110301821383045687312.png
+https://en.mfa.ir/files/mfaen/Pages/2021103018223913935821674.png
+https://en.mfa.ir/files/mfaen/Pages/2021110217303414543156728.png
+https://en.mfa.ir/files/mfaen/Pages/2021110217310564561524873.png
+https://en.mfa.ir/files/mfaen/Pages/2023012411450231946237851.png
+https://en.mfa.ir/files/mfaen/Pages/2023031814553246625417638.png
+https://en.mfa.ir/files/mfa/newMfa/1.jpg
+https://en.mfa.ir/files/mfaen/Pages/2021111016292667074156382.png
+https://en.mfa.ir/files/mfaen/Pages/2021111016282984258342716.jpeg
+https://en.mfa.gov.ir/portal/NewsTagBrowser/36308
+https://en.mfa.ir/files/mfaen/Pages/2021103018413342163145287.png
+https://en.mfa.ir/files/mfaen/Pages/2021103018420438986572134.png
+https://en.mfa.ir/files/mfaen/Pages/2021103018284474915342678.jpg
+https://en.mfa.ir/files/mfaen/Pages/2021103018291999968172534.jpg
+https://en.mfa.ir/files/mfaen/Pages/2021103018301593664137528.jpg
+https://en.mfa.ir/files/mfaen/Pages/2021103018304715563124785.jpg
+https://en.mfa.ir/files/mfa/newMfa/logoMfa.png
+https://en.mfa.ir/uitemplates/newmfaen/bootsrap.js
+https://en.mfa.ir/uitemplates/newmfaen/fontAwesome.js?x=1
+https://en.mfa.ir/uitemplates/newmfaen/slick.js?x=1
+https://en.mfa.ir/uitemplates/newmfaen/tooltipster.js
+https://en.mfa.ir/uitemplates/newmfaen/main.js?x=10
+https://en.mfa.ir/uitemplates/newmfaen/popupstyle.css?x=11
+https://en.mfa.ir/js/vue.js
+https://en.mfa.ir/modules/product/scripts/tutilities.js
+https://en.mfa.ir/modules/product/scripts/vmixin.js
+https://en.mfa.ir/js/noty/noty.min.js

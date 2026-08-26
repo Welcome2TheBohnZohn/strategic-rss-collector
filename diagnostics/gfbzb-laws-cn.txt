@@ -4,14 +4,16 @@ Start URL: https://www.gfbzb.gov.cn/news/index.action?item=ZCFG_DFFG
 Source type: html
 Include regex: gfbzb\.gov\.cn/.+
 
-Candidate links: 14
-All links discovered: 22
+Candidate links: 34
+All links discovered: 64
 
 === MATCHED CANDIDATES ===
 
-https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/202108/20210821/2100962138.html;jsessionid=45C7BA2255F2C5011FB6E7F883AE895E
+https://www.gfbzb.gov.cn/wb/common/index.action?trnd=72463256949343308100412122001809
+  index.action
+https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/202108/20210821/2100962138.html;jsessionid=5269B0F02A46ABAFD56A646D70C8E77C
   中华人民共和国兵役法
-https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/202109/20210907/2106496023.html;jsessionid=45C7BA2255F2C5011FB6E7F883AE895E
+https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/202109/20210907/2106496023.html;jsessionid=5269B0F02A46ABAFD56A646D70C8E77C
   中华人民共和国国防法
 https://www.gfbzb.gov.cn/ssts/querybyid.action?item=ZCFG_DFFG&artid=2293449540
   铲除侵蚀征兵肌体的“脓疮毒瘤”——山东省集中开展治理打击“兵托”专项活动
@@ -21,27 +23,65 @@ https://www.gfbzb.gov.cn/ssts/querybyid.action?item=ZCFG_DFFG&artid=2293870302
   普通高校新生应征入伍宣传单（2026年版）
 https://www.gfbzb.gov.cn/ssts/querybyid.action?item=ZCFG_DFFG&artid=2293935484
   征兵工作人员职业道德准则
-https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/202512/20251216/2293443179.html;jsessionid=45C7BA2255F2C5011FB6E7F883AE895E
+https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/202512/20251216/2293443179.html;jsessionid=5269B0F02A46ABAFD56A646D70C8E77C
   兵役登记工作规定
-https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/202304/20230413/2275695537.html;jsessionid=45C7BA2255F2C5011FB6E7F883AE895E
+https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/202304/20230413/2275695537.html;jsessionid=5269B0F02A46ABAFD56A646D70C8E77C
   征兵工作条例
-https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/tjbz.shtml;jsessionid=45C7BA2255F2C5011FB6E7F883AE895E
+https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/tjbz.shtml;jsessionid=5269B0F02A46ABAFD56A646D70C8E77C
   《应征公民体格检查标准》摘要
+https://www.gfbzb.gov.cn/ajax/qctoftj.action
+  qctoftj.action
+https://www.gfbzb.gov.cn/ajax/qdtoftj.action
+  qdtoftj.action
+https://www.gfbzb.gov.cn/zcfg/index.action
+  index.action
+https://www.gfbzb.gov.cn/hrjy/index.action
+  index.action
+https://www.gfbzb.gov.cn/wszx/index.action
+  index.action
+https://www.gfbzb.gov.cn/wsjb/index.action
+  index.action
+https://www.gfbzb.gov.cn/wb/nb/bydj/modifybydj
+  modifybydj
 https://www.gfbzb.gov.cn/ssts/querybyid.action?item=ZCFG_DFFG&artid=2293446166
   江苏省征兵工作条例
 https://www.gfbzb.gov.cn/ssts/querybyid.action?item=ZCFG_DFFG&artid=2293442906
   河南省征兵工作条例
+https://www.gfbzb.gov.cn/wb/yzbm/show?st=1
+  show
+https://www.gfbzb.gov.cn/wb/yzbm/show?st=2
+  show
+https://www.gfbzb.gov.cn/wb/ybydj/chybydjxx
+  chybydjxx
+https://www.gfbzb.gov.cn/wb/nb/bydj/bydjform
+  bydjform
+https://www.gfbzb.gov.cn/wb/nb/zzsg/zzsginfo
+  zzsginfo
+https://www.gfbzb.gov.cn/wb/nb/zzsg/dx/dxindex
+  dxindex
 https://www.gfbzb.gov.cn/login.jsp
   管理部门登录
+https://www.gfbzb.gov.cn/wb/yzyc/bxstlb/
+  bxstlb
 https://www.gfbzb.gov.cn/download.jsp
   App下载
+https://www.gfbzb.gov.cn/wb/grzx/index
+  index
+https://www.gfbzb.gov.cn/wb/nb/bydj/bydjz/index
+  index
+https://www.gfbzb.gov.cn/wb/yzbm/qnszxy/index
+  index
+https://www.gfbzb.gov.cn/wb/ywxx/zxxx/index
+  index
 https://www.gfbzb.gov.cn/help/index.action
   帮助中心
+https://www.gfbzb.gov.cn/wb/yzyc/wdst/
+  wdst
 
 === ALL DISCOVERED LINKS ===
 
 https://www.gfbzb.gov.cn/
-https://www.gfbzb.gov.cn/wb/common/index.action?trnd=83065435737655852495788717789649
+https://www.gfbzb.gov.cn/wb/common/index.action?trnd=72463256949343308100412122001809
   登录
 https://account.chsi.com.cn/account/preregister.action?from=zbbm-login
   注册
@@ -61,15 +101,15 @@ https://www.gfbzb.gov.cn/ssts/querybyid.action?item=ZCFG_DFFG&artid=2293446166
   江苏省征兵工作条例
 https://www.gfbzb.gov.cn/ssts/querybyid.action?item=ZCFG_DFFG&artid=2293442906
   河南省征兵工作条例
-https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/202512/20251216/2293443179.html;jsessionid=45C7BA2255F2C5011FB6E7F883AE895E
+https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/202512/20251216/2293443179.html;jsessionid=5269B0F02A46ABAFD56A646D70C8E77C
   兵役登记工作规定
-https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/202304/20230413/2275695537.html;jsessionid=45C7BA2255F2C5011FB6E7F883AE895E
+https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/202304/20230413/2275695537.html;jsessionid=5269B0F02A46ABAFD56A646D70C8E77C
   征兵工作条例
-https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/202108/20210821/2100962138.html;jsessionid=45C7BA2255F2C5011FB6E7F883AE895E
+https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/202108/20210821/2100962138.html;jsessionid=5269B0F02A46ABAFD56A646D70C8E77C
   中华人民共和国兵役法
-https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/202109/20210907/2106496023.html;jsessionid=45C7BA2255F2C5011FB6E7F883AE895E
+https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/202109/20210907/2106496023.html;jsessionid=5269B0F02A46ABAFD56A646D70C8E77C
   中华人民共和国国防法
-https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/tjbz.shtml;jsessionid=45C7BA2255F2C5011FB6E7F883AE895E
+https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/tjbz.shtml;jsessionid=5269B0F02A46ABAFD56A646D70C8E77C
   《应征公民体格检查标准》摘要
 http://www.moe.gov.cn/s78/A15/
   教育部高校学生司（高校毕业生就业服务司）
@@ -83,3 +123,45 @@ https://beian.miit.gov.cn
   京ICP备19004913号-2
 http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202009748
   京公网安备11010202009748号
+https://axvert.chsi.com.cn
+https://t1.chei.com.cn
+https://t2.chei.com.cn
+https://t3.chei.com.cn
+https://t4.chei.com.cn
+https://t1.chei.com.cn/gfbzb/favicon.ico
+https://t1.chei.com.cn/common/ch/chicon/iconfont.css
+https://t2.chei.com.cn/common/zbbm/assets/pc/css/app-1.0.6.css
+https://t1.chei.com.cn/common/jquery/1.8.3/jquery.min.js
+https://t1.chei.com.cn/common/js/vue/2.6.10/vue.min.js
+https://hm.baidu.com/hm.js?b545ecda5e55c72da213c8a3dd759314
+https://t1.chei.com.cn/common/wap/images/share_zb.jpg
+https://t3.chei.com.cn/gfbzb/assets/pc/images/zb-logo-new.svg
+https://t3.chei.com.cn/gfbzb/assets/pc/images/logo2x.png
+https://t2.chei.com.cn/common/zbbm/assets/pc/images/cjwt2x.jpg
+https://t1.chei.com.cn/chsi/images/jgwab.svg
+https://t1.chei.com.cn/common/ch/browser/not-ie-zbbm.min.js
+https://t1.chei.com.cn/common/js/fixed-ie11.min.js
+https://t1.chei.com.cn/common/js/api-1.0.4.js
+https://t1.chei.com.cn/common/js/lodash.min.js
+https://t1.chei.com.cn/common/js/vue-plugins/moment.min.js
+https://t1.chei.com.cn/common/vue-plugins/iview4.7.0/js/iview.min.js
+https://t2.chei.com.cn/common/zbbm/assets/pc/js/app.js
+https://www.gfbzb.gov.cn/wb/grzx/index
+https://www.gfbzb.gov.cn/wb/nb/bydj/bydjform
+https://www.gfbzb.gov.cn/wb/ybydj/chybydjxx
+https://www.gfbzb.gov.cn/wb/nb/bydj/modifybydj
+https://www.gfbzb.gov.cn/wb/nb/bydj/bydjz/index
+https://www.gfbzb.gov.cn/wb/yzyc/bxstlb/
+https://www.gfbzb.gov.cn/wb/yzyc/wdst/
+https://www.gfbzb.gov.cn/wb/yzbm/show?st=1
+https://www.gfbzb.gov.cn/wb/yzbm/show?st=2
+https://www.gfbzb.gov.cn/wb/nb/zzsg/zzsginfo
+https://www.gfbzb.gov.cn/wb/nb/zzsg/dx/dxindex
+https://www.gfbzb.gov.cn/wb/yzbm/qnszxy/index
+https://www.gfbzb.gov.cn/zcfg/index.action
+https://www.gfbzb.gov.cn/hrjy/index.action
+https://www.gfbzb.gov.cn/wb/ywxx/zxxx/index
+https://www.gfbzb.gov.cn/wszx/index.action
+https://www.gfbzb.gov.cn/wsjb/index.action
+https://www.gfbzb.gov.cn/ajax/qctoftj.action
+https://www.gfbzb.gov.cn/ajax/qdtoftj.action

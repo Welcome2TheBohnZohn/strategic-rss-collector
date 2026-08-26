@@ -5,7 +5,7 @@ Source type: html
 Include regex: 81\.cn/szb_223187/.+
 
 Candidate links: 2
-All links discovered: 23
+All links discovered: 48
 
 === MATCHED CANDIDATES ===
 
@@ -62,3 +62,28 @@ http://tv.81.cn/zgjs/jmxtx/index.html
   军迷行天下
 http://tv.81.cn/yxrzt/2013n/xzjqzyyzt/qy_211839/index.html
   前言
+http://www.81.cn/material/img/favicon.png
+http://www.81.cn/material/img/favicon.ico
+http://www.81.cn/template/tenant207/t924/css/cmui.min.css
+http://www.81.cn/template/tenant207/t924/css/style.css
+http://www.81.cn/ysym/Ibbgdtsy/index.html
+http://www.81.cn/material/fonts/icomoon.eot?v3lc3l
+http://www.81.cn/material/fonts/icomoon.woff?v3lc3l
+http://www.81.cn/material/fonts/icomoon.svg?v3lc3l
+http://www.81.cn/material/js/respond.min.js
+http://www.81.cn/material/js/es5-sham.min.js
+http://www.81.cn/material/js/es5-shim.min.js
+http://www.81.cn/template/tenant207/t924/img/logo-iv.png
+http://www.81.cn/template/tenant207/t924/img/256.png
+http://www.81.cn/template/tenant207/t924/img/logo.gif
+http://tv.81.cn/81theater/node_85588.htm
+http://tv.81.cn/81theater/node_85587.htm
+http://tv.81.cn/81theater/node_85586.htm
+http://www.81.cn/material/css/sideMenu.css
+http://www.81.cn/template/tenant207/t924/js/list.js?v=18
+http://www.81.cn/material/js/jquery.s2t.js?v=2022
+http://www.81.cn/material/js/sideMenu.js?v=1
+http://www.81.cn/material/js/jquery.s2t.js?t=
+https://tongji.81.cn/api-traffic/web/pollAll?host=
+https://tongji.81.cn/api-traffic/web/poll?u=
+https://tongji.81.cn/api-traffic/web/share?u=

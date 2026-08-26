@@ -5,7 +5,7 @@ Source type: html
 Include regex: avic\.com/.+
 
 Candidate links: 50
-All links discovered: 120
+All links discovered: 179
 
 === MATCHED CANDIDATES ===
 
@@ -49,6 +49,12 @@ https://www.avic.com/c/2026-08-25/647260.shtml
   国务院国资委召开中央企业6G未来产业推进会
 https://www.avic.com/c/2026-08-25/647271.shtml
   讣告 | 沉痛悼念陈一坚院士
+https://www.avic.com/c/2025-02-05/608382.shtml
+  608382.shtml
+https://www.avic.com/c/2025-02-05/608381.shtml
+  608381.shtml
+https://www.avic.com/c/2023-11-27/589490.shtml
+  589490.shtml
 https://www.avic.com/c/2021-04-23/513016.shtml
   内部媒体展示
 https://www.avic.com/c/2021-04-23/513015.shtml
@@ -87,28 +93,22 @@ https://www.avic.com/c/2021-04-01/511288.shtml
   职业发展
 https://www.avic.com/c/2021-04-28/513057.shtml
   薪酬福利
-https://www.avic.com/sycd/ywly/jyhkyfw/
-  军用航空与防务
-https://www.avic.com/sycd/ywly/gyzz/tyyzysb/
-  通用与专用设备
-https://www.avic.com/sycd/xwzx/ssqydt/
-  所属企业动态
-https://www.avic.com/sycd/cxyfz/shzr/shzrbg/
-  社会责任报告
-https://www.avic.com/sycd/cxyfz/shzr/shzrsj/
-  社会责任实践
-https://www.avic.com/sycd/xxgk/qyjbxx/
-  企业基本信息
-https://www.avic.com/sycd/xxgk/qyjygl/
-  企业经营管理
-https://www.avic.com/hdjl/xfjb/
-  纪检监察举报
-https://www.avic.com/sycd/ywly/jyysj/
-  军用运输机
-https://www.avic.com/sycd/ywly/jyhkyfw/jyzsj/
-  军用直升机
-https://www.avic.com/sycd/ywly/myhk/myzsj/
-  民用直升机
+https://www.avic.com/js/jquery.SuperSlide.2.1.3.js
+  jquery.SuperSlide.2.1.3.js
+https://www.avic.com/js/swiper-3.4.2.jquery.min.js
+  swiper-3.4.2.jquery.min.js
+https://www.avic.com/css/swiper-3.4.2.min.css
+  swiper-3.4.2.min.css
+https://www.avic.com/v3/css/bootstrap.min.css
+  bootstrap.min.css
+https://www.avic.com/v3/css/v3-framework.css
+  v3-framework.css
+https://www.avic.com/js/jquery.pseudo.js
+  jquery.pseudo.js
+https://www.avic.com/v3/js/bootstrap.min.js
+  bootstrap.min.js
+https://www.avic.com/ztjj/slhjxzqzjgxxjy/
+  slhjxzqzjgxxjy
 
 === ALL DISCOVERED LINKS ===
 
@@ -119,6 +119,7 @@ https://www.avic.com/sycd/sy/lyxgz/tzz/
 https://en.avic.com/
   English
 https://www.avic.com/
+  首页
 https://www.avic.com/sycd/gywm/
   关于我们
 https://www.avic.com/sycd/gywm/jtgk/
@@ -343,3 +344,62 @@ http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502038418
   京公网安备 11010502038418号
 https://www.avicnet.cn/
   中航金网（北京）科技有限公司
+http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd
+http://www.w3.org/1999/xhtml
+https://www.avic.com/images/favicon.ico
+https://www.avic.com/v3/css/v3-framework.css
+https://www.avic.com/v3/css/bootstrap.min.css
+https://www.avic.com/css/common.css
+https://www.avic.com/css/index.css
+https://www.avic.com/css/avic.css
+https://www.avic.com/css/col24.css
+https://www.avic.com/cms/
+https://www.avic.com/preview/
+https://www.avic.com/cms/preview/avic/
+https://www.avic.com/js/jquery.min.js
+https://www.avic.com/js/jquery.pseudo.js
+https://www.avic.com/v3/js/bootstrap.min.js
+https://www.avic.com/js/index.js
+https://www.avic.com/js/jquery.SuperSlide.2.1.3.js
+https://www.avic.com/js/avic/browser.js
+https://www.avic.com/js/avic/language.js
+https://www.avic.com/css/swiper-3.4.2.min.css
+https://www.avic.com/images/avic/dropDownIcon2x.png
+https://www.avic.com/images/avic/dropUpIcon2x.png
+https://www.avic.com/images/avic/t_kh.jpg
+https://www.avic.com/images/avic/t_tzz.jpg
+https://www.avic.com/images/avic/searchIcon2x.png
+https://www.avic.com/upload/resources/image/2021/03/26/35787_383x53c.png
+https://www.avic.com/images/avic/headimg/z-feiji.jpg
+https://www.avic.com/images/avic/headimg/cpfw.jpg
+https://www.avic.com/images/avic/headimg/xwzx.jpg
+https://www.avic.com/images/avic/headimg/cxfz.jpg
+https://www.avic.com/images/avic/headimg/rczp.jpg
+https://www.avic.com/images/avic/headimg/xxgk.jpg
+https://www.avic.com/search/result.shtml?SiteID=139&query=
+https://www.avic.com/jtwz/cn/xwzx/zdzl/ag600cgsssf/dsj/index.shtml
+https://www.avic.com/upload/resources/image/2024/04/24/144772_1440x420c.png
+https://www.avic.com/upload/resources/image/2024/04/24/144773_1440x420c.png
+https://www.avic.com/upload/resources/image/2024/04/24/144774_1440x420c.png
+https://www.avic.com/upload/resources/image/2024/04/24/144775_1440x420c.png
+https://www.avic.com/upload/resources/image/2024/04/24/144776_1440x420c.png
+https://www.avic.com/upload/resources/image/2021/03/26/36215_431x251c.jpg
+https://www.avic.com/upload/resources/image/2021/03/26/36216_431x251c.jpg
+https://www.avic.com/upload/resources/image/2021/03/26/36217_431x251c.jpg
+https://www.avic.com/upload/resources/image/2021/03/26/36218_431x251c.jpg
+https://www.avic.com/upload/resources/image/2026/03/04/215570_270x99c.png
+https://www.avic.com/images/picture404-0.png
+https://www.avic.com/upload/resources/image/2026/06/30/KU3XOQBYLBWKCPN0EQ3DERBVKA3A_270x99c.png
+https://www.avic.com/upload/resources/image/2026/06/25/KE2DSSB3K640KPPBEQ3DERBUKM3U_270x99c.png
+https://www.avic.com/upload/resources/image/2025/01/15/160309_270x99c.png
+https://www.avic.com/upload/resources/image/2021/03/31/36308_270x99c.jpg
+https://www.avic.com/upload/resources/image/2021/04/01/36342_120x120.jpg
+https://www.avic.com/upload/resources/image/2024/12/25/159634_260x195.png
+https://www.avic.com/upload/resources/image/2021/04/01/36345_260x195.jpg
+https://www.avic.com/dbcd/lxwm/dz/
+https://www.avic.com/dbcd/lxwm/dh/
+https://www.avic.com/dbcd/lxwm/yb/
+https://www.avic.com/dbcd/lxwm/cz/
+https://www.avic.com/images/avic/avic_logo.jpg
+https://www.avic.com/js/swiper-3.4.2.jquery.min.js
+https://www.avic.com/cms/stat/front/stat.js

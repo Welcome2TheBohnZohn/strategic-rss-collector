@@ -4,8 +4,8 @@ Start URL: https://www.mod.gov.cn/gfbw/fgwx/bps/index.html
 Source type: html
 Include regex: /gfbw/fgwx/bps/
 
-Candidate links: 27
-All links discovered: 132
+Candidate links: 28
+All links discovered: 179
 
 === MATCHED CANDIDATES ===
 
@@ -63,6 +63,8 @@ http://www.mod.gov.cn/gfbw/fgwx/bps/4888135.html
   《中国新型政党制度》白皮书 2021-06-25 10:08
 http://www.mod.gov.cn/gfbw/fgwx/bps/4899745.html
   新时代的中非合作 2021-11-26 10:33
+http://www.mod.gov.cn/gfbw/fgwx/bps/index.html
+  index.html
 
 === ALL DISCOVERED LINKS ===
 
@@ -330,3 +332,50 @@ http://www.81.cn/zt/2026nzt/fxqxjzzdbzhd/index.html
   防汛抢险救灾·子弟兵在行动
 http://www.81.cn/jwdy/xwxxfwxkz/index.html
   互联网新闻信息服务许可证10120170013
+http://www.mod.gov.cn/material/img/favicon.png
+http://www.mod.gov.cn/template/tenant207/t1033/css/style.css
+http://www.mod.gov.cn/template/tenant207/t1033/css/data-slot.css
+http://www.mod.gov.cn/material/css/fenye.css
+http://www.mod.gov.cn/material/js/respond.min.js
+http://www.mod.gov.cn/template/tenant207/t367/images/logo.png
+http://www.mod.gov.cn/zjlm/ssjgym/index.html
+http://www.mod.gov.cn/gfbw/fgwx/bps/_attachment/2022/07/13/16423990_75a67c39773810e9522a33cb29ccd0c0.png
+http://www.mod.gov.cn/gfbw/fgwx/bps/_attachment/2022/07/13/16423985_75a67c39773810e9522a33cb29ccd0c0.png
+http://www.mod.gov.cn/gfbw/fgwx/bps/_attachment/2024/01/30/16410826_a2eedb2df22585270b833bd95abb8675.png
+http://www.mod.gov.cn/gfbw/fgwx/bps/_attachment/2024/01/30/16385614_a2eedb2df22585270b833bd95abb8675.png
+http://www.mod.gov.cn/gfbw/fgwx/bps/_attachment/2024/01/30/16385613_a2eedb2df22585270b833bd95abb8675.png
+http://www.mod.gov.cn/gfbw/fgwx/bps/_attachment/2024/01/23/16282382_451cb20c1b14994839b363559d5a99fe.jpg
+http://www.mod.gov.cn/gfbw/fgwx/bps/_attachment/2022/03/03/4906006_17f4d9818b249060062242.png
+http://www.mod.gov.cn/gfbw/fgwx/bps/_attachment/2022/03/03/4906008_17f4da37a0549060086714.png
+http://www.mod.gov.cn/gfbw/fgwx/bps/_attachment/2021/11/26/4899745_17d5a15c45448997453629.jpg
+http://www.mod.gov.cn/gfbw/fgwx/bps/_attachment/2021/09/28/4895706_6c4b9041ab8b22bcc3e251.jpg
+http://www.mod.gov.cn/gfbw/fgwx/bps/_attachment/2021/09/27/4895617_6c4b9041ab8b22bb793203.jpg
+http://www.mod.gov.cn/gfbw/fgwx/bps/_attachment/2021/06/25/4888133_17a413acd3048881335560.png
+http://www.mod.gov.cn/gfbw/fgwx/bps/_attachment/2021/06/25/4888135_17a413dd26248881351012.png
+http://www.mod.gov.cn/gfbw/fgwx/bps/_attachment/2021/06/24/4888104_6c4b9041ab8b223ee9b911.jpg
+http://www.mod.gov.cn/gfbw/fgwx/bps/_attachment/2021/04/06/4882650_6c4b9041ab8b21d649e523.jpg
+http://www.mod.gov.cn/gfbw/fgwx/bps/_attachment/2021/01/10/16068256_176eadf6bc848768795939.JPG
+http://www.mod.gov.cn/gfbw/fgwx/bps/_attachment/2020/09/18/16226464_1749f0bcef048714138876.jpg
+http://www.mod.gov.cn/gfbw/fgwx/bps/_attachment/2020/06/09/4866398_6c4b9041ab8b2049e0f234.jpg
+http://www.mod.gov.cn/gfbw/fgwx/bps/_attachment/2019/07/24/4846424_4437e6581c891ea249aa1e.jpg
+http://www.mod.gov.cn/gfbw/spbb_214126/_attachment/2026/08/01/16477140_ba9a3c83cdacc5371aeaca4aea2b91ad.jpg
+http://www.mod.gov.cn/gfbw/spbb_214126/_attachment/2026/08/05/16477755_5c078af8f3bd896ef4ad982041dab3cd.png
+http://www.mod.gov.cn/gfbw/spbb_214126/_attachment/2026/08/03/16477542_87e7021cea34300bceb8960d75c69600.jpg
+http://www.mod.gov.cn/gfbw/spbb_214126/_attachment/2026/08/02/16477357_5fde0c757d4a655b74c4b58ede3ade3e.png
+http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/08/26/16481398_9a401760378212eb923949975e9818d8.png
+http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/08/04/16477668_3296fbdd1a2ae7c319aad3e13c890063.png
+http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/07/26/16475831_ab7d245f225a3ee10f595c5994c43fbe.jpg
+http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/07/12/16473226_fac3b9d9b9167bbbd9811394d114fde6.jpg
+http://www.mod.gov.cn/gfbw/zt/_attachment/2026/08/20/16479151_1572281a51f5ab63ef863d55fdea15e0.jpg
+http://www.mod.gov.cn/gfbw/zt/_attachment/2026/08/20/16479152_e288fd2a49976c3aa3a1cb924e979e1f.jpg
+http://www.mod.gov.cn/gfbw/zt/_attachment/2026/08/20/16479153_4879da2b5c1eb6346b673dd88c16f8c6.jpg
+http://www.mod.gov.cn/gfbw/zt/_attachment/2026/08/20/16479154_9ce449ff84ed98e0af0da6339b77d6fe.jpg
+http://www.mod.gov.cn/gfbw/zt/_attachment/2026/08/20/16479155_b4fb3b4d7ebca3319554e5901c88f737.jpg
+http://www.mod.gov.cn/template/tenant207/t1034/sidebar.css
+http://www.mod.gov.cn/template/tenant207/t385/articleFooter.css
+http://www.81.cn/jwdy/wfhblxxjb/index.html
+http://www.mod.gov.cn/material/js/modscript.js
+http://www.mod.gov.cn/material/js/jquery.s2t.js?v=2022
+http://www.mod.gov.cn/material/js/webdig.js
+http://www.mod.gov.cn/material/js/fenye.js
+http://www.mod.gov.cn/template/tenant207/t1033/js/javascript.js

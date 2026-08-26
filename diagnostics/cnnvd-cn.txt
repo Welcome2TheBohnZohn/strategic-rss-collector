@@ -1,13 +1,56 @@
 Diagnostic link report for China National Vulnerability Database CNNVD
 
 Start URL: https://www.cnnvd.org.cn/
-Source type: html
+Source type: browser
 Include regex: cnnvd\.org\.cn/(news/show/id/\d+|flaw/show/CNNVD-|home/loophole/CNNVD-).+
 
 Candidate links: 0
-All links discovered: 0
+All links discovered: 31
 
 === MATCHED CANDIDATES ===
 
 
 === ALL DISCOVERED LINKS ===
+
+https://www.cnnvd.org.cn/frontend/childHome
+  首页
+https://www.cnnvd.org.cn/frontend/aboutUs
+  国家信息安全漏洞库
+https://www.cnnvd.org.cn/frontend/warn
+  国家人工智能漏洞库
+https://www.cnnvd.org.cn/frontend/dataDownLoad
+  漏洞数据下载
+https://www.cnnvd.org.cn/frontend/netSecurity
+  CNNVD动态
+https://www.cnnvd.org.cn/frontend/service
+  兼容性服务
+https://www.cnnvd.org.cn/frontend/vendorCooperation
+  厂商合作计划
+https://www.cnnvd.org.cn/frontend/loophole
+  漏洞信息
+https://www.cnnvd.org.cn/frontend/report
+  漏洞报告
+https://www.cnnvd.org.cn/frontend/tech
+  技术支撑单位
+https://beian.miit.gov.cn/
+  中国信息安全测评中心 版权所有 备案号：京ICP备14044185号
+https://www.cnnvd.org.cn/favicon.ico
+https://www.cnnvd.org.cn/static/css/app.e4802641e48cfd7638650429b7442c2b.css
+https://www.cnnvd.org.cn/static/js/0.94b3495e5d8b0ea660c5.js
+https://www.cnnvd.org.cn/static/js/1.3c5e3388ed3106891381.js
+https://www.cnnvd.org.cn/static/js/2.83b836502035c05930ff.js
+http://www.w3.org/2000/svg
+http://www.w3.org/1999/xlink
+https://www.cnnvd.org.cn/static/img/暂无数据.7f9a14b.png
+https://www.cnnvd.org.cn/group1/M00/00/00/rBBl8WLCgAqALiI-AAEWpkpG23o532.png
+https://www.cnnvd.org.cn/group1/M00/00/00/rBBls2LCideAcUeXAACxSGxzrCU103.png
+https://www.cnnvd.org.cn/group1/M00/00/00/rBBl8WLCiciAHdVnAAFVit-ZlJA039.png
+https://www.cnnvd.org.cn/group1/M00/00/00/rBBl8WLCidCAJdHvAAE9jf2OOhs346.png
+https://www.cnnvd.org.cn/group1/M00/00/00/rBBlZ2LBawmATXN7AAFXhWF6HEQ334.png
+https://www.cnnvd.org.cn/static/media/banner-left.c847cd9.mp4
+https://www.cnnvd.org.cn/static/media/banner-right.18b235f.mp4
+https://www.cnnvd.org.cn/group1/M00/02/B7/rBBlBmowrD6AUrKEAACvPsD6Qps139.jpg
+https://www.cnnvd.org.cn/static/tinymce/tinymce.min.js
+https://www.cnnvd.org.cn/static/js/manifest.34ebcb6492f4983abc3a.js
+https://www.cnnvd.org.cn/static/js/vendor.37bbaa6b3d289842fd35.js
+https://www.cnnvd.org.cn/static/js/app.62ef3bc9abf8e0f1fcaf.js
