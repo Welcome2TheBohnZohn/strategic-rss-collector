@@ -20,12 +20,13 @@
   },
   {
     "slug": "mil-ru-en",
-    "title": "Russian Ministry of Defence English",
+    "title": "Russian Ministry of Defence - Official RSS",
     "source_url": "https://eng.mil.ru/",
-    "start_url": "https://eng.mil.ru/",
-    "language": "en",
-    "include_regex": "mil\\.ru/.+",
-    "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4|pdf)$"
+    "start_url": "http://dyn.function.mil.ru/rss_feeds/reference_to_general.htm?contenttype=xml",
+    "language": "ru",
+    "source_type": "rss",
+    "include_regex": ".*",
+    "exclude_regex": "$^"
   },
   {
     "slug": "kremlin-president-en",
@@ -63,15 +64,16 @@
   {
     "slug": "npc-defense-laws-cn",
     "title": "National People's Congress Defense-Related Laws",
-    "source_url": "https://www.npc.gov.cn/npc/c2/c30834/",
-    "start_url": "https://www.npc.gov.cn/npc/c2/c30834/",
+    "source_url": "https://flk.npc.gov.cn/",
+    "start_url": "https://flk.npc.gov.cn/search",
     "fallback_urls": [
-      "http://www.npc.gov.cn/npc/c2/c30834/"
+      "http://flk.npc.gov.cn/search",
+      "https://flk.npc.gov.cn/"
     ],
     "language": "zh-CN",
     "source_type": "browser",
     "browser_locale": "zh-CN",
-    "include_regex": "npc\\.gov\\.cn/(npc/)?c2/c30834/.+",
+    "include_regex": "flk\\.npc\\.gov\\.cn/.+",
     "include_text_regex": "国防|兵役|军事|军人|武装|海警|预备役|国防动员|军事设施|退役军人",
     "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4|pdf)$",
     "verify_ssl": false
@@ -169,10 +171,16 @@
     "slug": "plap-cn",
     "title": "PLA Military Procurement Network",
     "source_url": "https://www.plap.mil.cn/",
-    "start_url": "https://www.plap.mil.cn/",
+    "start_url": "http://www.plap.mil.cn/",
+    "fallback_urls": [
+      "https://www.plap.mil.cn/"
+    ],
     "language": "zh-CN",
+    "source_type": "browser",
+    "browser_locale": "zh-CN",
     "include_regex": "plap\\.mil\\.cn/.+",
-    "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4|pdf)$"
+    "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4|pdf)$",
+    "verify_ssl": false
   },
   {
     "slug": "china-defense-news-cn",
@@ -195,11 +203,19 @@
   {
     "slug": "nudt-journal-cn",
     "title": "National University of Defense Technology Journal",
-    "source_url": "https://journal.nudt.edu.cn/gfkjdxxb/home",
-    "start_url": "https://journal.nudt.edu.cn/gfkjdxxb/home",
+    "source_url": "https://journal.nudt.edu.cn/",
+    "start_url": "https://journal.nudt.edu.cn/",
+    "fallback_urls": [
+      "http://journal.nudt.edu.cn/",
+      "https://journal.nudt.edu.cn/gfkjdxxb/home",
+      "http://journal.nudt.edu.cn/gfkjdxxb/home"
+    ],
     "language": "zh-CN",
-    "include_regex": "journal\\.nudt\\.edu\\.cn/gfkjdxxb/.+",
-    "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4)$"
+    "source_type": "browser",
+    "browser_locale": "zh-CN",
+    "include_regex": "journal\\.nudt\\.edu\\.cn/.+",
+    "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4|pdf)$",
+    "verify_ssl": false
   },
   {
     "slug": "ncpssd-cn",
