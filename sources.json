@@ -6,7 +6,8 @@
     "start_url": "https://www.mod.gov.cn/",
     "language": "zh-CN",
     "include_regex": "/gfbw/|/xwfyr/|/wzll/",
-    "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4|pdf)$"
+    "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4|pdf)$",
+    "verify_ssl": false
   },
   {
     "slug": "81-cn",
@@ -42,7 +43,8 @@
     "start_url": "https://www.mod.gov.cn/gfbw/fgwx/bps/index.html",
     "language": "zh-CN",
     "include_regex": "/gfbw/fgwx/bps/",
-    "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4)$"
+    "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4)$",
+    "verify_ssl": false
   },
   {
     "slug": "mod-laws-cn",
@@ -51,7 +53,8 @@
     "start_url": "https://www.mod.gov.cn/gfbw/fgwx/flfg/index.html",
     "language": "zh-CN",
     "include_regex": "/gfbw/fgwx/flfg/",
-    "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4)$"
+    "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4)$",
+    "verify_ssl": false
   },
   {
     "slug": "npc-defense-laws-cn",
@@ -93,10 +96,11 @@
     "slug": "irna-en",
     "title": "IRNA English",
     "source_url": "https://en.irna.ir/",
-    "start_url": "https://en.irna.ir/archive",
+    "start_url": "https://en.irna.ir/rss",
     "language": "en",
-    "include_regex": "en\\.irna\\.ir/news/\\d+/",
-    "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4|pdf)$"
+    "source_type": "rss",
+    "include_regex": ".*",
+    "exclude_regex": "$^"
   },
   {
     "slug": "avic-cn",
@@ -136,7 +140,7 @@
   },
   {
     "slug": "plap-cn",
-    "title": "PLA Pictorial",
+    "title": "PLA Military Procurement Network",
     "source_url": "https://www.plap.mil.cn/",
     "start_url": "https://www.plap.mil.cn/",
     "language": "zh-CN",
