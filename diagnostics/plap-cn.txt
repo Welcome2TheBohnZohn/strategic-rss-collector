@@ -1,0 +1,115 @@
+Diagnostic link report for PLA Pictorial
+
+Start URL: https://www.plap.mil.cn/
+Include regex: plap\.mil\.cn/.+
+
+Candidate links: 19
+All links discovered: 33
+
+=== MATCHED CANDIDATES ===
+
+https://www.plap.mil.cn/zh-jy-expert-system/
+  评审专家抽取
+https://www.plap.mil.cn/freecms-glht/site/juncai/zhdt/index.html
+  综合动态
+https://www.plap.mil.cn/freecms-glht/site/juncai/cggg/index.html
+  采购大厅
+https://www.plap.mil.cn/freecms-glht/site/juncai/fwdt/index.html
+  服务大厅
+https://www.plap.mil.cn/freecms-glht/site/juncai/zcfg/index.html
+  政策法规
+https://www.plap.mil.cn/freecms-glht/site/juncai/jdjc/index.html
+  监督管理
+https://www.plap.mil.cn/freecms-glht/site/juncai/pxkh/index.html
+  培训考核
+https://www.plap.mil.cn/freecms-glht/site/juncai//cggg/index.html
+  查看更多
+https://www.plap.mil.cn/expert/404
+  暂停注册
+https://www.plap.mil.cn/freecms/site/juncai/fwrx/index.html
+  服务热线
+https://www.plap.mil.cn/freecms/site/juncai/ywzx/index.html
+  意见反馈
+https://www.plap.mil.cn/freecms/site/juncai/xzzx/index.html
+  软件下载
+https://www.plap.mil.cn/freecms/site/juncai/pttz/index.html
+  平台通知
+https://www.plap.mil.cn/freecms/site/juncai/czpx/index.html
+  操作培训
+https://www.plap.mil.cn/freecms/site/juncai/gxsm/index.html
+  更新说明
+https://yc.plap.mil.cn/cas/login
+  药材采购
+https://www.plap.mil.cn/jszlmy/index.html
+  电子保函
+https://www.plap.mil.cn/gpx-expert/
+  评审系统
+https://www.plap.mil.cn/freecms-glht/site/juncai//zcfg/index.html
+  查看更多
+
+=== ALL DISCOVERED LINKS ===
+
+https://www.plap.mil.cn/
+  【请登录】
+https://www.plap.mil.cn/freecms-glht/site/juncai/qwjsy/index.html
+https://www.plap.mil.cn/freecms-glht/site/juncai/index.html
+  首页
+https://www.plap.mil.cn/freecms-glht/site/juncai/zhdt/index.html
+  综合动态
+https://www.plap.mil.cn/freecms-glht/site/juncai/cggg/index.html
+  采购大厅
+https://www.plap.mil.cn/freecms-glht/site/juncai/fwdt/index.html
+  服务大厅
+https://www.plap.mil.cn/freecms-glht/site/juncai/zcfg/index.html
+  政策法规
+https://www.plap.mil.cn/freecms-glht/site/juncai/jdjc/index.html
+  监督管理
+https://www.plap.mil.cn/freecms-glht/site/juncai/pxkh/index.html
+  培训考核
+https://www.plap.mil.cn/freecms-glht/site/juncai//cggg/index.html
+  查看更多
+https://www.plap.mil.cn/pspframe
+  登录
+https://www.plap.mil.cn/gateway/gp-auth-center/login?tenantId=Cxiangmu-001&userType=4
+  登录
+https://www.plap.mil.cn/gpbs-gpbs/
+  注册
+https://www.plap.mil.cn/expertweb/
+  登录
+https://www.plap.mil.cn/expert/404
+  暂停注册
+https://www.plap.cn/
+  旧版军队采购网
+https://www.plap.mil.cn/freecms/site/juncai/fwrx/index.html
+  服务热线
+https://kf.cgw.mil.cn/wapchat.html?accessId=91965770-af8e-11ee-b49d-817196dd8092&fromUrl=&urlTitle=&language=ZHCN
+  在线客服
+https://www.plap.mil.cn/freecms/site/juncai/ywzx/index.html
+  意见反馈
+https://www.plap.mil.cn/freecms/site/juncai/xzzx/index.html
+  软件下载
+https://www.plap.mil.cn/freecms/site/juncai/pttz/index.html
+  平台通知
+https://www.plap.mil.cn/freecms/site/juncai/czpx/index.html
+  操作培训
+https://www.plap.mil.cn/freecms/site/juncai/gxsm/index.html
+  更新说明
+https://www.plap.mil.cn/help/
+  知识库
+https://www.plap.mil.cn/zh-jy-expert-system/
+  评审专家抽取
+https://zc.plap.mil.cn/
+  自采平台
+https://yc.plap.mil.cn/cas/login
+  药材采购
+https://www.plap.mil.cn/jszlmy/index.html
+  电子保函
+https://www.plap.mil.cn/gpx-expert/
+  评审系统
+https://www.tianyancha.com/
+  天眼查
+https://www.qcc.com/
+  企查查
+https://www.plap.mil.cn/freecms-glht/site/juncai//zcfg/index.html
+  查看更多
+https://www.plap.mil.cn/freecms-glht/site/juncai/zhdt/index.html?channelNow=1091ccfd-571d-4136-9e8b-ef58a0cb0bcd

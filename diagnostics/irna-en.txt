@@ -1,0 +1,12 @@
+Diagnostic link report for IRNA English
+
+Start URL: https://en.irna.ir/archive
+Include regex: en\.irna\.ir/news/\d+/
+
+Candidate links: 0
+All links discovered: 0
+
+=== MATCHED CANDIDATES ===
+
+
+=== ALL DISCOVERED LINKS ===

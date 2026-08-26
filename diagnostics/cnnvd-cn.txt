@@ -1,0 +1,12 @@
+Diagnostic link report for China National Vulnerability Database CNNVD
+
+Start URL: https://www.cnnvd.org.cn/
+Include regex: cnnvd\.org\.cn/(news/show/id/\d+|flaw/show/CNNVD-|home/loophole/CNNVD-).+
+
+Candidate links: 0
+All links discovered: 0
+
+=== MATCHED CANDIDATES ===
+
+
+=== ALL DISCOVERED LINKS ===

@@ -1,0 +1,166 @@
+Diagnostic link report for Iran Ministry of Foreign Affairs English
+
+Start URL: https://en.mfa.ir/
+Include regex: en\.mfa\.ir/portal/NewsView/\d+
+
+Candidate links: 15
+All links discovered: 65
+
+=== MATCHED CANDIDATES ===
+
+https://en.mfa.ir/portal/NewsView/793198
+  Joint Statement between the Sultanate of Oman and The Islamic Republic of Iran following the consultations between the foreign ministers of the Sultan
+https://en.mfa.ir/portal/newsview/793198
+  Joint Statement between the Sultanate of Oman and The Islamic Republic of Iran following the consultations between the foreign ministers of the Sultan
+https://en.mfa.ir/portal/newsview/792931
+  Statement of the Ministry of Foreign Affairs on the New US Economic Sanctions Against Iran
+https://en.mfa.ir/portal/newsview/792861
+  Iran rejects UAE claim of missile launch calls accusations contrary to good neighborliness
+https://en.mfa.ir/portal/NewsView/793260
+  Iran FM Pakistan Army Chief hold phone talks on regional peace security
+https://en.mfa.ir/portal/newsview/793260
+  Iran FM Pakistan Army Chief hold phone talks on regional peace security
+https://en.mfa.ir/portal/NewsView/793114
+  Lebanese Loyalty to Resistance Bloc MP meets Iranian Foreign Minister
+https://en.mfa.ir/portal/NewsView/793052
+  Lebanese Loyalty to Resistance Bloc MP meets Iranian Foreign Minister
+https://en.mfa.ir/portal/newsview/793052
+  Lebanese Loyalty to Resistance Bloc MP meets Iranian Foreign Minister
+https://en.mfa.ir/portal/newsview/793114
+  Lebanese Loyalty to Resistance Bloc MP meets Iranian Foreign Minister
+https://en.mfa.ir/portal/newsview/793009
+  Iran Oman FMs hold phone talks on bilateral regional issues
+https://en.mfa.ir/portal/newsview/792723
+  Iran strongly condemns Zionist regime’s crimes in Lebanon
+https://en.mfa.ir/portal/NewsView/793257
+  Iran Qatar FMs hold phone talks on regional developments
+https://en.mfa.ir/portal/newsview/793257
+  Iran Qatar FMs hold phone talks on regional developments
+https://en.mfa.ir/portal/newsview/793020
+  Pakistan Army chief to visit Tehran
+
+=== ALL DISCOVERED LINKS ===
+
+https://en.mfa.ir/
+https://mfa.gov.ir/
+  فارسی
+https://ar.mfa.gov.ir/
+  عربی
+https://en.mfa.ir/GetLink(Item.Link)
+  Minister
+https://en.mfa.ir/portal/ministrinfo/13756
+  Minister of Foreign Affairs
+https://en.mfa.gov.ir/portal/ministryinfo/13758
+  Legal & International Affairs
+https://en.mfa.ir/portal/ministryinfo/25015
+  Economic Diplomacy
+https://en.mfa.gov.ir/portal/ministryinfo/13754
+  Political Affairs
+https://en.mfa.ir/portal/ministryinfo/13759
+  Consular, Parliamentary, Iranian Expat Affairs
+https://en.mfa.ir/portal/ministryinfo/38040
+  Administrative and Financial Affairs
+https://en.mfa.ir/portal/ministryinfo/13760
+  Center for Public Diplomacy
+https://en.mfa.gov.ir/portal/ministryinfo/24846
+  Institute for Political and International Studies
+https://en.mfa.ir/portal/viewpage/14740
+  IRI Flag
+https://en.mfa.ir/portal/viewpage/14762
+  IRI National Anthem
+https://en.mfa.gov.ir/portal/viewpage/14765
+  Iranian Embassies & Consulates
+https://en.mfa.ir/portal/viewpage/14741
+  Iran's UN Representation Offices
+https://en.mfa.gov.ir/portal/catalogsearch/78
+  Foreign Embassies & Consulates in Tehran
+https://evisa.mfa.ir/en/
+  E-visa
+https://porsesh.mfa.ir/clientarea.php
+  Q & A
+https://en.mfa.gov.ir/portal/viewpage/4007
+  Overview of consular services
+https://en.mfa.gov.ir/portal/generalserviceinfo/4009
+  Students
+https://en.mfa.gov.ir/portal/viewpage/4008
+  Citizenship
+https://www.investiniran.ir/en
+  Investment Opportunities
+http://www.visitiran.ir
+  Visit Iran
+https://en.mfa.gov.ir/portal/newsagencyshow/699
+  Statements
+https://en.mfa.ir/portal/viewpage/15045
+  Individuals and entities in the sanctions list of the Islamic Republic of Iran
+https://en.mfa.ir/portal/newsagencyshow/3180
+  Events
+https://en.mfa.ir/portal/viewpage/14766
+  Publications
+https://en.mfa.gov.ir/portal/viewpage/15664
+  Contact us
+https://en.mfa.ir/portal/tabbedalbumsnew?at=photo
+  Pictures
+https://en.mfa.ir/portal/tabbedalbumsnew?at=video
+  Videos
+https://en.mfa.ir/portal/NewsView/793260
+  Iran FM Pakistan Army Chief hold phone talks on regional peace security
+https://en.mfa.ir/portal/NewsView/793257
+  Iran Qatar FMs hold phone talks on regional developments
+https://en.mfa.ir/portal/NewsView/793198
+  Joint Statement between the Sultanate of Oman and The Islamic Republic of Iran following the consultations between the foreign ministers of the Sultan
+https://en.mfa.ir/portal/NewsView/793114
+  Lebanese Loyalty to Resistance Bloc MP meets Iranian Foreign Minister
+https://en.mfa.ir/portal/NewsView/793052
+  Lebanese Loyalty to Resistance Bloc MP meets Iranian Foreign Minister
+https://sanctionlist.mfa.ir/
+  Individuals and entities in the sanctions list of IR
+https://en.mfa.gov.ir/portal/viewpage/14741
+  Representation in international organizations
+https://en.mfa.ir/portal/viewpage/14767
+  Covid-19 restrictions
+https://en.mfa.ir/portal/viewpage/14768
+  Travel rules & advices
+https://en.mfa.ir/portal/newsview/793198
+  Joint Statement between the Sultanate of Oman and The Islamic Republic of Iran following the consultations between the foreign ministers of the Sultan
+https://en.mfa.ir/portal/newsview/793020
+  Pakistan Army chief to visit Tehran
+https://en.mfa.ir/portal/newsview/792931
+  Statement of the Ministry of Foreign Affairs on the New US Economic Sanctions Against Iran
+https://en.mfa.ir/portal/newsview/792861
+  Iran rejects UAE claim of missile launch calls accusations contrary to good neighborliness
+https://en.mfa.ir/portal/newsview/792723
+  Iran strongly condemns Zionist regime’s crimes in Lebanon
+https://en.mfa.gov.ir/portal/NewsAgencyShow/699
+  More
+https://en.mfa.ir/portal/newsarchive/699
+https://en.mfa.ir/portal/newsview/793260
+  Iran FM Pakistan Army Chief hold phone talks on regional peace security
+https://en.mfa.ir/portal/newsview/793257
+  Iran Qatar FMs hold phone talks on regional developments
+https://en.mfa.ir/portal/newsview/793052
+  Lebanese Loyalty to Resistance Bloc MP meets Iranian Foreign Minister
+https://en.mfa.ir/portal/newsview/793114
+  Lebanese Loyalty to Resistance Bloc MP meets Iranian Foreign Minister
+https://en.mfa.ir/portal/newsview/793009
+  Iran Oman FMs hold phone talks on bilateral regional issues
+https://en.mfa.gov.ir/portal/NewsAgencyShow/3180
+  More
+https://en.mfa.ir/portal/newsarchive/3180
+http://fair.mfa.ir/en
+  Virtual Exhibitions of IRAN MFA
+https://www.facebook.com/Irimfa
+https://en.mfa.ir/portal/viewpage/14750
+https://en.mfa.ir/portal/viewpage/14751
+https://t.me/mfairan
+http://www.leader.ir/en
+  Official Website of Supreme Leader
+http://president.ir/en
+  Official Website of the President
+http://dolat.ir
+  Official Website of Government
+http://ipis.ir/en
+  Institute for Political and International Studies
+http://en-economic.mfa.ir/
+  Economic Diplomacy Deputy
+http://ecomment.mfa.gov.ir
+  Feedback

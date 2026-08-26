@@ -1,0 +1,892 @@
+Diagnostic link report for China Military Network 81.cn
+
+Start URL: https://www.81.cn/
+Include regex: 81\.cn/.+
+
+Candidate links: 50
+All links discovered: 425
+
+=== MATCHED CANDIDATES ===
+
+http://www.81.cn/ll_208543/16479721.html
+  深入学习贯彻习近平新时代中国特色社会主义思想丨引领全面建设社会主义现代化强国的历史性跨越
+http://www.81.cn/yw_208727/16481502.html
+  写在习近平主席出席2026年上海合作组织峰会并对吉尔吉斯斯坦、埃及进行国事访问之际
+http://www.81.cn/wj_208604/16477968.html
+  从传统的集体安全共同体，向利益绑定的交易型联盟转变——“北约3.0”架构加速形成
+http://www.81.cn/jw_208551/16448544.html
+  中央军委办公厅发出通知要求解放军和武警部队 传达学习十四届全国人大四次会议精神
+http://www.81.cn/pl_208541/16481473.html
+  钧评：手莫伸，伸手必被捉。党与人民在监督，万目睽睽难逃脱——这是他一生的座右铭
+http://www.81.cn/yw_208727/16481362.html
+  习近平总书记重要指示激励广大党员干部努力创造经得起实践、人民、历史检验的实绩
+http://www.81.cn/bg_208596/16480520.html
+  “深山寒哨”变“钢铁前哨”，“六张网”让战士们守边更有底气、巡逻执勤更有干劲
+http://www.81.cn/yw_208727/16481406.html
+  习近平将出席2026年上海合作组织峰会并对吉尔吉斯斯坦、埃及进行国事访问
+http://www.81.cn/yw_208727/16481311.html
+  中共中央办公厅 国务院办公厅印发《党政领导干部生态环境损害责任追究办法》
+http://www.81.cn/jw_208551/16471442.html
+  中央军委发出通报 表彰全军优秀共产党员、优秀党务工作者和先进基层党组织
+http://www.81.cn/wz_208577/16459656.html
+  2026年军队文职人员公开招考第二批免笔试直接面试岗位招考工作全面展开
+http://www.81.cn/yw_208727/16481315.html
+  强降雨致广西多地发生洪涝灾害，解放军和武警部队官兵、民兵持续展开救援
+http://www.81.cn/hj_208557/16481199.html
+  “老教头”输给“小徒弟”后欣慰点赞：“你们超越我，是我最大的成就！”
+http://www.81.cn/jy_208587/16480385.html
+  刀尖上的守护 初心下的深耕 ——记第一医学中心神经外科副主任医师韩聪
+http://www.81.cn/lb_208583/16480740.html
+  【青春华章·长征路上山河新】老红军假装聋哑十四年 晚年当起义务宣讲员
+http://www.81.cn/zq_208553/16475889.html
+  南部战区新闻发言人就菲律宾拉拢域外国家组织所谓“联合巡航”发表谈话
+http://www.81.cn/lb_208583/16481079.html
+  百年荣光·我见证丨百岁老兵的峥嵘岁月：一叠战地日记，一卷百年赤诚
+http://www.81.cn/hjj_208561/16477966.html
+  最美新时代革命军人风采丨火箭军某部研究员周宏潮：科研向战勇攀登
+http://www.81.cn/jx_208569/16479752.html
+  从“解题人”变身“出题人”，陆军工程大学锤炼学员组训施教能力
+http://www.81.cn/xx_207779/16481290.html
+  大国外交最前线丨共叙友谊、携手发展 中约元首会谈释放新信号
+http://www.81.cn/bz_208549/16480528.html
+  训练“搭子”携手练兵，野外驻训场变身体系对抗训练“试验田”
+http://www.81.cn/jw_208551/16464840.html
+  中央军委印发《关于加强军队高级干部教育管理监督的若干措施》
+http://www.81.cn/nb_208573/16474930.html
+  不做解说词"复读机"而是时空"链接者"，她找到属于自己的光
+http://www.81.cn/yw_208727/16481307.html
+  "跟我上、看我的"，全军基层党员领导干部练兵备战挺膺担当
+http://www.81.cn/yw_208727/16481309.html
+  从"管理者"到"服务者"，海军某部机关转变作风带来新气象
+http://www.81.cn/xx_207779/16481160.html
+  此行间·以文塑旅、以旅彰文，总书记为何强调文和旅的融合？
+http://www.81.cn/bz_208549/16481393.html
+  "跟我上、看我的"，全军基层党员领导干部练兵备战挺膺担当
+http://www.81.cn/zq_208553/16475314.html
+  东部战区海军某驱逐舰支队：多军兵种参谋编入"海上中军帐"
+http://www.81.cn/lj_208555/16480291.html
+  走进第75集团军某红军旅,感悟人民军队代代相传的传统本色
+http://www.81.cn/hj_208557/16481395.html
+  从“管理者”到“服务者”,海军某部机关转变作风带来新气象
+http://www.81.cn/kj_208559/16480299.html
+  摒弃"照搬复刻"粗放思路，这个单位立足岗位实际学经验做法
+http://www.81.cn/lq_208565/16472283.html
+  被装保障跟着任务走,西宁联勤保障中心把服务送到了驻训一线
+http://www.81.cn/jx_208569/16480843.html
+  海军航空大学将举办“未来·海军国际学员领导力淬锋营”活动
+http://www.81.cn/nb_208573/16476253.html
+  联勤保障部队941医院重症医学科主任张瑛：人民军医为人民
+http://www.81.cn/tj_208608/16469267.html
+  总书记"推动海洋经济高质量发展"重要论述引领海洋强国建设
+http://www.81.cn/ss_208539/16481456.html
+  全国政协十四届常委会第十八次会议闭幕 王沪宁主持并讲话
+http://www.81.cn/lj_208555/16480999.html
+  树立和践行正确政绩观丨高原驻训场有了军地“联合诊疗室”
+http://www.81.cn/nb_208573/16471131.html
+  新闻播报 | 2026年下半年女兵应征报名7月1日启动
+http://www.81.cn/bg_208596/16475727.html
+  十五载戍边岁月相依相守，依依惜别最信赖最亲密的无言战友
+http://www.81.cn/pl_208541/16481370.html
+  钧正平：巩固政绩观教育成果，切莫在“快活三里”歇脚松劲
+http://www.81.cn/wh_208575/16480769.html
+  我赴南苏丹（朱巴）维和步兵营通过联合国第三季度装备核查
+http://www.81.cn/js_208592/16480429.html
+  万水千山只等闲之翻越老山界——长征中的军事地理解读之二
+http://www.81.cn/yd_208600/16481389.html
+  倾听真正属于大地的声音，“人民的文学”就有了体温与重量
+http://www.81.cn/wz_208577/16463518.html
+  为何仅入职一年多的文职人员，就接连经历3个“没想到”？
+http://www.81.cn/rw_208598/16480684.html
+  跟着老兵“逛军博”丨他们脱下军装，以另一种姿态“归队”
+http://www.81.cn/bq_208581/16470704.html
+  从手工粗糙刻制到微米级精密加工，走进枪械膛线技术进化史
+http://www.81.cn/js_208585/16475730.html
+  千里奔赴的深情，落进边关的风里也落进两个人共同的守候里
+http://www.81.cn/yw_208727/16481314.html
+  纪念中国工农红军长征胜利90周年｜理想信念的伟大远征
+http://www.81.cn/ss_208539/16481462.html
+  两部门针对西藏吉隆泥石流灾害启动国家二级救灾应急响应
+http://www.81.cn/lj_208555/16480298.html
+  告别制度落实“一刀切”，灵活高效的伙食保障模式暖兵心
+
+=== ALL DISCOVERED LINKS ===
+
+http://www.81.cn/jwdy/lxwm_252830/index.html
+  联系我们
+http://eng.chinamil.com.cn
+  English
+http://www.81.cn/zt/2026nzt/jj2026nqglh/index.html
+http://www.81.cn
+http://www.81.cn/rmjz_203219/gfjy_203685/index.html
+  国防教育
+http://www.plapic.com.cn
+  解放军画报
+http://www.81.cn/rmjz_203219/jsjz/index.html
+  军事记者
+http://cbs.81.cn/
+  解放军出版社
+http://www.mod.gov.cn
+  国防部网
+http://81rc.81.cn
+  军队人才网
+http://www.81.cn/ysym/jfjbkhdxzym/index.html
+  军报客户端
+http://www.81.cn/ysym/gfzxkhd_219877/index.html
+  国防在线
+http://www.81.cn/rmjz_203219/zgmb/index.html
+  中国民兵
+http://tv.81.cn/zgjs/index.html
+  中国军视
+http://military.cnr.cn/
+  央广军事
+http://www.xinhuanet.com/milpro/
+  新华军网
+http://www.81.cn/xx_207779/index.html
+  学习
+http://www.81.cn/yw_208727/index.html
+  要闻
+http://www.81.cn/syjdt/index.html
+  焦图
+http://www.81.cn/ll_208543/index.html
+  理论
+http://www.81.cn/pl_208541/index.html
+  评论
+http://www.81.cn/ss_208539/index.html
+  时事
+http://www.81.cn/jw_208551/index.html
+  军委
+http://www.81.cn/zq_208553/index.html
+  战区
+http://www.81.cn/bz_208549/index.html
+  备战
+http://www.81.cn/lj_208555/index.html
+  陆军
+http://www.81.cn/hj_208557/index.html
+  海军
+http://www.81.cn/kj_208559/index.html
+  空军
+http://www.81.cn/hjj_208561/index.html
+  火箭军
+http://www.81.cn/lq_208565/index.html
+  联勤
+http://www.81.cn/wj_208567/index.html
+  武警
+http://www.81.cn/jx_208569/index.html
+  军校
+http://tv.81.cn
+  视频
+http://tv.81.cn/zb/index.html
+  直播
+http://tv.81.cn/bysp/index.html
+  竖品
+http://tv.81.cn/bydt/index.html
+  电台
+http://tv.81.cn/jlwyx/index.html
+  微影
+http://www.81.cn/tp_207717/index.html
+  图片
+http://www.81.cn/tj_208608/index.html
+  图解
+http://www.81.cn/pk/index.html
+  拍客
+http://www.81.cn/fyr/index.html
+  发言人
+http://www.81.cn/yl_208589/index.html
+  英烈
+http://www.81.cn/tz/index.html
+  特战
+http://www.81.cn/nb_208573/index.html
+  女兵
+http://www.81.cn/wh_208575/index.html
+  维和
+http://www.81.cn/bg_208596/index.html
+  边关
+http://www.81.cn/dy_208579/index.html
+  动员
+http://www.81.cn/wz_208577/index.html
+  文职
+http://www.81.cn/js_208592/index.html
+  军史
+http://www.81.cn/wh_208594/index.html
+  文化
+http://www.81.cn/yd_208600/index.html
+  阅读
+http://www.81.cn/bq_208581/index.html
+  兵器
+http://www.81.cn/kt/index.html
+  空天
+http://www.81.cn/wj_208604/index.html
+  外军
+http://www.81.cn/lb_208583/index.html
+  老兵
+http://www.81.cn/js_208585/index.html
+  军属
+http://www.81.cn/jy_208587/index.html
+  军医
+http://www.81.cn/jm_208547/index.html
+  军媒
+http://www.81.cn/H5_203188/index.html
+  H5
+http://www.81.cn/jl_208606/index.html
+  军粮
+http://www.81.cn/rw_208598/index.html
+  人物
+http://eng.chinamil.com.cn/2025xb/B/index.html
+  双语
+http://www.81.cn/zt/rdzt_196978/index.html
+  专题
+http://www.81.cn/yw_208727/16289220.html
+http://www.81.cn/zt/2026nzt/srxxgcxjpdjsx/index.html
+http://www.81.cn/zt/2026nzt/dlcxsmfjqjzcqzzgrmjfjjj99zn/index.html
+http://www.81.cn/zt/2026nzt/sdkmgfkjdxjywj/index.html
+http://www.81.cn/zt/2026nzt/slhjxzqzjg/index.html
+http://www.81.cn/zt/2026nzt/zmxsdgmjr_252984/index.html
+http://www.81.cn/zt/2025nzt/zlzzzcdhgjzz/index.html
+http://www.81.cn/zt/2024nzt/dqzjcyxggpy/index.html
+http://www.81.cn/zt/2026nzt/wlbjx/index.html
+https://www.xuexi.cn/
+http://www.81.cn/xxqj_207719/index.html
+http://www.81.cn/jwtt/16481457.html
+  习近平对西藏日喀则市吉隆县遭受泥石流灾害作出重要指示
+http://www.81.cn/yw_208727/16481406.html
+  习近平将出席2026年上海合作组织峰会并对吉尔吉斯斯坦、埃及进行国事访问
+http://www.81.cn/yw_208727/16481502.html
+  写在习近平主席出席2026年上海合作组织峰会并对吉尔吉斯斯坦、埃及进行国事访问之际
+http://www.81.cn/yw_208727/16481362.html
+  习近平总书记重要指示激励广大党员干部努力创造经得起实践、人民、历史检验的实绩
+http://www.81.cn/yw_208727/16481441.html
+  外交部发言人介绍习近平主席出访有关安排和中方期待
+http://www.81.cn/yw_208727/16481311.html
+  中共中央办公厅 国务院办公厅印发《党政领导干部生态环境损害责任追究办法》
+http://www.81.cn/ss_208539/16481263.html
+  中组部答记者问
+http://www.81.cn/yw_208727/16481499.html
+  吉隆县遭受泥石流灾害 解放军和武警官兵紧急投入救援
+http://www.81.cn/yw_208727/16481314.html
+  纪念中国工农红军长征胜利90周年｜理想信念的伟大远征
+http://www.81.cn/yw_208727/16481496.html
+  中印边界问题特别代表第25次会晤达成8点成果共识
+http://www.81.cn/yw_208727/16481379.html
+  南部战区新闻发言人翟士臣海军大校发表谈话
+http://www.81.cn/yw_208727/16481464.html
+  人民子弟兵投入西藏日喀则市吉隆县泥石流灾害救援
+http://www.81.cn/yw_208727/16481307.html
+  "跟我上、看我的"，全军基层党员领导干部练兵备战挺膺担当
+http://www.81.cn/yw_208727/16481309.html
+  从"管理者"到"服务者"，海军某部机关转变作风带来新气象
+http://www.81.cn/yw_208727/16481313.html
+  聚焦基层部队士兵考学，佳讯传来共启新程
+http://www.81.cn/yw_208727/16481310.html
+  八一锐评｜坚持常态化查改问题
+http://www.81.cn/yw_208727/16481317.html
+  强军论坛丨让思想活泼起来
+http://www.81.cn/yw_208727/16481315.html
+  强降雨致广西多地发生洪涝灾害，解放军和武警部队官兵、民兵持续展开救援
+http://www.81.cn/yw_208727/16481318.html
+  驻香港部队组织第29次建制单位轮换
+http://www.81.cn/yw_208727/16481326.html
+  我赴阿卜耶伊维和直升机分队开辟野外起降点和新航线
+http://www.81.cn/yw_208727/16481328.html
+  多国驻华海军武官赴海军航空大学参观访问
+http://www.81.cn/syjdt/16481345.html
+  万里边疆行丨界江深处的守望
+http://www.81.cn/syjdt/16481447.html
+  强降雨致广西多地发生洪涝灾害，解放军和武警部队官兵、民兵持续展开救援
+http://www.81.cn/syjdt/16481448.html
+  我赴阿卜耶伊维和直升机分队开辟野外起降点和新航线
+http://www.81.cn/syjdt/16481445.html
+  使命的接力 青春的远航——走进舷号81的郑和舰
+http://www.81.cn/syjdt/16481444.html
+  万水千山只等闲之强渡乌江——长征中的军事地理解读之三
+http://www.81.cn/syjdt/16481234.html
+  长征精神薪火传，红韵泾川焕新颜
+http://www.81.cn/syjdt/16481217.html
+  一箭7星 长征六号丙遥一运载火箭发射成功
+http://www.81.cn/xx_207779/16481365.html
+  领航丨为民造福是最大政绩
+http://www.81.cn/xx_207779/16481363.html
+  新思想引领新征程丨为人民出政绩 以实干出政绩
+http://www.81.cn/xx_207779/16481290.html
+  大国外交最前线丨共叙友谊、携手发展 中约元首会谈释放新信号
+http://www.81.cn/xx_207779/16481289.html
+  天天学习｜创新不问出身
+http://www.81.cn/xx_207779/16481228.html
+  拾光纪·约旦国王第九次访华，习主席同他谈了这些大事
+http://www.81.cn/xx_207779/16481182.html
+  学习快评丨树立和践行正确政绩观必须久久为功
+http://www.81.cn/xx_207779/16481160.html
+  此行间·以文塑旅、以旅彰文，总书记为何强调文和旅的融合？
+http://www.81.cn/
+http://tv.81.cn/jbmtd_211970/16481369.html
+https://weibo.com/jfjb
+http://www.81.cn/byds_206407/byds_206410/16480175.html
+http://www.81.cn/byds_206407/byds_206410/16480351.html
+  远火精准打击
+http://www.81.cn/byds_206407/byds_206410/16478606.html
+  主播说国防丨画皮之下的阴谋
+http://www.81.cn/byds_206407/byds_206410/16478520.html
+  奋楫之“陆”丨第五集《斩无影》
+http://www.81.cn/byds_206407/byds_206410/16478454.html
+  奋楫之“陆”丨第四集《惊风雷》
+http://www.81.cn/byds_206407/byds_206410/16478337.html
+  奋楫之“陆”丨第三集《射天狼》
+http://www.81.cn/fyr/16481466.html
+  国台办：加强两岸青年交流是利在当下、功在千秋的“希望工程”
+http://www.81.cn/fyr/16481440.html
+  外交部发言人介绍习近平主席出访有关安排和中方期待
+http://www.81.cn/fyr/16481281.html
+  中央组织部负责人就修订颁布《党政领导干部生态环境损害责任追究办法》答记者问
+http://www.81.cn/fyr/16481278.html
+  商务部：跨国公司对华投资呈现“三个转变”
+http://www.81.cn/fyr/16481245.html
+  外交部：愿同各国一道推动创新红利更多惠及全人类
+http://www.81.cn/fyr/16481089.html
+  外交部：愿推动人工智能开放、包容、普惠、向善发展
+http://www.81.cn/fyr/16481062.html
+  外交部：美官员攻击中国科技企业言论颠倒黑白
+http://www.81.cn/fyr/16481046.html
+  外交部：中方祝贺哈萨克斯坦库鲁尔泰选举顺利举行
+http://www.81.cn/fyr/16481020.html
+  中印边界问题特别代表第25次会晤将在北京举行
+http://www.81.cn/fyr/16480604.html
+  外交部发言人就日本议员计划访华答记者问
+http://www.81.cn/fyr/16480591.html
+  南部战区空军新闻发言人李健健空军大校发表谈话
+http://www.81.cn/ss_208539/16481495.html
+  西藏吉隆泥石流灾害已造成3人遇难 265人失联
+http://www.81.cn/ss_208539/16481494.html
+  西藏启动自治区自然灾害一级救助应急响应
+http://www.81.cn/ss_208539/16481493.html
+  吉隆口岸为何频遭泥石流？问题藏在喜马拉雅深谷
+http://www.81.cn/ss_208539/16481481.html
+  西藏多方力量赶赴吉隆口岸救援
+http://www.81.cn/ss_208539/16481480.html
+  李强在黑龙江、吉林调研
+http://www.81.cn/ss_208539/16481469.html
+  丁薛祥在安徽合肥出席财政科学管理试点座谈
+http://www.81.cn/ss_208539/16481463.html
+  两部门拨付1.2亿元支持西藏做好应急抢险救灾工作
+http://www.81.cn/ss_208539/16481462.html
+  两部门针对西藏吉隆泥石流灾害启动国家二级救灾应急响应
+http://www.81.cn/ss_208539/16481461.html
+  自然资源部对西藏启动地质灾害防御Ⅱ级响应
+http://www.81.cn/ss_208539/16481456.html
+  全国政协十四届常委会第十八次会议闭幕 王沪宁主持并讲话
+http://www.81.cn/ss_208539/16481453.html
+  防灾减灾救灾一线见闻｜广西宁明县抗洪救灾一线见闻
+http://www.81.cn/zt/2023nzt/xxgcxjpxsdzgtsshzysxztjy/index.html
+http://www.81.cn/zt/2023nzt/flsxjjbnmbjkjcsjyljd/index.html
+http://www.81.cn/bz_208549/jdt_208550/16481218.html
+http://www.81.cn/bz_208549/16481393.html
+  "跟我上、看我的"，全军基层党员领导干部练兵备战挺膺担当
+http://www.81.cn/bz_208549/16481195.html
+  山谷深处，一场复杂环境下的反恐训练紧张展开
+http://www.81.cn/bz_208549/16480984.html
+  戈壁砺刃，高原演兵场开展战场抢救抢修考核
+http://www.81.cn/bz_208549/16480955.html
+  第72集团军某旅深化有人无人协同训练
+http://www.81.cn/bz_208549/16480528.html
+  训练“搭子”携手练兵，野外驻训场变身体系对抗训练“试验田”
+http://www.81.cn/jw_208551/jdt_208552/16438857.html
+http://www.81.cn/jw_208551/16472190.html
+  中央军委进行集体学习 张升民主持并讲话
+http://www.81.cn/jw_208551/16471442.html
+  中央军委发出通报 表彰全军优秀共产党员、优秀党务工作者和先进基层党组织
+http://www.81.cn/jw_208551/16468117.html
+  张升民出席第一期全军高级干部培训班结业式并讲话
+http://www.81.cn/jw_208551/16464840.html
+  中央军委印发《关于加强军队高级干部教育管理监督的若干措施》
+http://www.81.cn/jw_208551/16448544.html
+  中央军委办公厅发出通知要求解放军和武警部队 传达学习十四届全国人大四次会议精神
+http://www.81.cn/zq_208553/jdt_208554/16481003.html
+http://www.81.cn/zq_208553/16481015.html
+  一线保障·军营在行动丨宿营帐篷用上“租赁空调”
+http://www.81.cn/zq_208553/16476260.html
+  西部战区总医院为九旬抗美援朝老兵周全弟提供康复治疗
+http://www.81.cn/zq_208553/16475889.html
+  南部战区新闻发言人就菲律宾拉拢域外国家组织所谓“联合巡航”发表谈话
+http://www.81.cn/zq_208553/16476271.html
+  敢于承认“我不懂”，才能把“不懂”变成“真知”
+http://www.81.cn/zq_208553/16475314.html
+  东部战区海军某驱逐舰支队：多军兵种参谋编入"海上中军帐"
+http://www.81.cn/lj_208555/jdt_208556/16481001.html
+http://www.81.cn/lj_208555/16481405.html
+  超震撼！看草原上实弹射击考核现场
+http://www.81.cn/lj_208555/16480999.html
+  树立和践行正确政绩观丨高原驻训场有了军地“联合诊疗室”
+http://www.81.cn/lj_208555/16481012.html
+  走进“百村示范”军队帮扶村丨太行山飞出幸福的歌
+http://www.81.cn/lj_208555/jdt_208556/16481011.html
+http://www.81.cn/lj_208555/jdt_208556/16480304.html
+http://www.81.cn/lj_208555/16480291.html
+  走进第75集团军某红军旅,感悟人民军队代代相传的传统本色
+http://www.81.cn/lj_208555/16480145.html
+  第71集团军某旅组织集训为新毕业学员“加钢淬火”
+http://www.81.cn/lj_208555/16480298.html
+  告别制度落实“一刀切”，灵活高效的伙食保障模式暖兵心
+http://www.81.cn/hj_208557/jdt_208558/16480614.html
+http://www.81.cn/hj_208557/16481395.html
+  从“管理者”到“服务者”,海军某部机关转变作风带来新气象
+http://www.81.cn/hj_208557/16481215.html
+  北部战区海军组织开展“海疆万里行”军事夏令营活动
+http://www.81.cn/hj_208557/16481199.html
+  “老教头”输给“小徒弟”后欣慰点赞：“你们超越我，是我最大的成就！”
+http://www.81.cn/hj_208557/jdt_208558/16479948.html
+http://www.81.cn/hj_208557/jdt_208558/16479805.html
+http://www.81.cn/hj_208557/16480642.html
+  小裂缝也可能是大隐患，练兵备战每个细节都要抓实抓好
+http://www.81.cn/hj_208557/16480317.html
+  海军某支队教育引导党员干部树立正确政绩观
+http://www.81.cn/hj_208557/16479799.html
+  海军某场站探索航材物资筹措新模式
+http://www.81.cn/kj_208559/jdt_208560/16475884.html
+http://www.81.cn/kj_208559/16481002.html
+  空军雷达某旅优化偏远点位官兵办事流程
+http://www.81.cn/kj_208559/16480950.html
+  空军某基地多措并举助推年轻技术干部队伍快速成长
+http://www.81.cn/kj_208559/16481014.html
+  空军研究院某所“双直达”机制为科技服务提速增效
+http://www.81.cn/kj_208559/jdt_208560/16473265.html
+http://www.81.cn/kj_208559/jdt_208560/16472088.html
+http://www.81.cn/kj_208559/16480321.html
+  深入推进实战化军事训练丨战鹰续航云霄上
+http://www.81.cn/kj_208559/16480299.html
+  摒弃"照搬复刻"粗放思路，这个单位立足岗位实际学经验做法
+http://www.81.cn/kj_208559/16480305.html
+  空中对抗，飞来“数字战机”
+http://www.81.cn/hjj_208561/jdt_208562/16481380.html
+http://www.81.cn/hjj_208561/16481005.html
+  火箭军某旅聚焦临战动员：讲最短的话，鼓最大的劲
+http://www.81.cn/hjj_208561/16480361.html
+  火箭军某旅开展“回头看”做好服务基层“下篇文章”
+http://www.81.cn/hjj_208561/16480301.html
+  兵说兵事励兵心，火箭军某旅发挥身边典型示范带动作用
+http://www.81.cn/hjj_208561/jdt_208562/16477596.html
+http://www.81.cn/hjj_208561/jdt_208562/16474982.html
+http://www.81.cn/hjj_208561/16480362.html
+  火箭军充分运用红色资源设立理想信念教育基地
+http://www.81.cn/hjj_208561/16478326.html
+  “地下龙宫”的胜战答卷——来自火箭军某旅的观察报告
+http://www.81.cn/hjj_208561/16477966.html
+  最美新时代革命军人风采丨火箭军某部研究员周宏潮：科研向战勇攀登
+http://www.81.cn/lq_208565/jdt_208566/16480337.html
+http://www.81.cn/lq_208565/16476986.html
+  直击实战化卫勤保障演练 锻造战场救护精兵
+http://www.81.cn/lq_208565/16475871.html
+  联勤保障部队某部严抓“舌尖上的纪律”
+http://www.81.cn/lq_208565/16472283.html
+  被装保障跟着任务走,西宁联勤保障中心把服务送到了驻训一线
+http://www.81.cn/lq_208565/jdt_208566/16478022.html
+http://www.81.cn/lq_208565/jdt_208566/16469822.html
+http://www.81.cn/lq_208565/16470415.html
+  正确政绩观 践行在军营丨深山筑墙记
+http://www.81.cn/lq_208565/16469510.html
+  联勤保障部队工程大学某学员队创新组训模式提升训练质效
+http://www.81.cn/lq_208565/16470256.html
+  联勤保障部队第904医院医护人员参加无偿献血活动
+http://www.81.cn/wj_208567/jdt_208568/16481194.html
+http://www.81.cn/wj_208567/16481198.html
+  在一条条留言和回复之间，冷寂的“兵心角”慢慢回暖了
+http://www.81.cn/wj_208567/16481197.html
+  山谷深处，一场复杂环境下的反恐训练紧张展开
+http://www.81.cn/wj_208567/16480919.html
+  过关斩将！直击武警天津总队机动支队警士选晋考核现场
+http://www.81.cn/wj_208567/jdt_208568/16480130.html
+http://www.81.cn/wj_208567/jdt_208568/16479797.html
+http://www.81.cn/wj_208567/16480556.html
+  为战选才，直击警士选晋考核现场
+http://www.81.cn/wj_208567/16480487.html
+  烎烎烎！直击武警官兵喷火器实喷训练
+http://www.81.cn/wj_208567/16480641.html
+  一场双向讲评会，让真话直通机关，让整训见筋见骨
+http://www.81.cn/jx_208569/jdt_208570/16474403.html
+http://www.81.cn/jx_208569/jdt_208570/16473661.html
+http://www.81.cn/jx_208569/16480843.html
+  海军航空大学将举办“未来·海军国际学员领导力淬锋营”活动
+http://www.81.cn/jx_208569/16479752.html
+  从“解题人”变身“出题人”，陆军工程大学锤炼学员组训施教能力
+http://www.81.cn/jx_208569/16478510.html
+  今夏，他们签收了通往军营的“青春入场券”
+http://www.81.cn/tz/jdt_208572/16469164.html
+http://www.81.cn/tz/16444252.html
+  面对时代变迁和任务转换，这个模范连队如何实现华丽转身？
+http://www.81.cn/tz/16444251.html
+  “最美新时代革命军人”布和图木尔的成长与反哺
+http://www.81.cn/tz/16444250.html
+  最美新时代革命军人风采丨草原上有块“坚硬的钢铁”
+http://www.81.cn/tz/16444249.html
+  军营观察丨起点 向着“知敌超敌胜敌”前行
+http://www.81.cn/tz/16444248.html
+  “和平意志-2026”海上联合演习开幕
+http://www.81.cn/nb_208573/jdt_208574/16467775.html
+http://www.81.cn/nb_208573/16476253.html
+  联勤保障部队941医院重症医学科主任张瑛：人民军医为人民
+http://www.81.cn/nb_208573/16474930.html
+  不做解说词"复读机"而是时空"链接者"，她找到属于自己的光
+http://www.81.cn/nb_208573/16472872.html
+  周娟：我的“蓝盔”征途
+http://www.81.cn/nb_208573/16471131.html
+  新闻播报 | 2026年下半年女兵应征报名7月1日启动
+http://www.81.cn/nb_208573/16471721.html
+  木棉花与女兵相伴成长，共同书写着淬火中更坚韧的篇章
+http://www.81.cn/bg_208596/jdt_208597/16480968.html
+http://www.81.cn/bg_208596/16480520.html
+  “深山寒哨”变“钢铁前哨”，“六张网”让战士们守边更有底气、巡逻执勤更有干劲
+http://www.81.cn/bg_208596/16480011.html
+  小白杨哨所里的传承课，连接两代戍边人
+http://www.81.cn/bg_208596/16476974.html
+  续写“清澈的爱”
+http://www.81.cn/bg_208596/16475838.html
+  我和“敖龙”守边关
+http://www.81.cn/bg_208596/16475727.html
+  十五载戍边岁月相依相守，依依惜别最信赖最亲密的无言战友
+http://www.81.cn/zt/2022nzt/lbqdzgjr/index.html
+http://www.81.cn/zt/2023nzt/jzpgzs_244884/index.html
+http://www.81.cn/ll_208543/jdt_208544/16462484.html
+http://www.81.cn/ll_208543/16481392.html
+  中国引领人工智能全球治理的三重路径（人民要论）
+http://www.81.cn/ll_208543/16479721.html
+  深入学习贯彻习近平新时代中国特色社会主义思想丨引领全面建设社会主义现代化强国的历史性跨越
+http://www.81.cn/ll_208543/16478648.html
+  党员干部要敢于向短板叫板，以自我革命精神完善自己
+http://www.81.cn/ll_208543/16478639.html
+  坚持建设堪当民族复兴重任的高素质干部队伍
+http://www.81.cn/ll_208543/16478511.html
+  政治干部要当好深化政治整训的表率
+http://www.81.cn/pl_208541/jdt_208542/16480146.html
+http://www.81.cn/pl_208541/16481474.html
+  钧评：在我们这支军队，群众会通过什么评价党员干部？
+http://www.81.cn/pl_208541/16481473.html
+  钧评：手莫伸，伸手必被捉。党与人民在监督，万目睽睽难逃脱——这是他一生的座右铭
+http://www.81.cn/pl_208541/16481391.html
+  绿色情缘，见证中美民间友好薪火相传（和音）
+http://www.81.cn/pl_208541/16481370.html
+  钧正平：巩固政绩观教育成果，切莫在“快活三里”歇脚松劲
+http://www.81.cn/pl_208541/16481299.html
+  新华社评论员：树立和践行正确政绩观是一项长期任务
+http://www.81.cn/wh_208575/jdt_208576/16480768.html
+http://www.81.cn/wh_208575/16480769.html
+  我赴南苏丹（朱巴）维和步兵营通过联合国第三季度装备核查
+http://www.81.cn/wh_208575/16477492.html
+  20载坚守黎南　中国蓝盔用行动诠释维和担当
+http://www.81.cn/wh_208575/16477230.html
+  36年来，他们一直在为世界和平贡献中国力量
+http://www.81.cn/wh_208575/16477212.html
+  为了和平的使命——记中国驻南苏丹维和部队忠诚履职
+http://www.81.cn/wh_208575/16475556.html
+  我维和医疗分队一线巡诊为官兵筑牢健康防线
+http://www.81.cn/js_208592/jdt_208593/16480923.html
+http://www.81.cn/js_208592/16481190.html
+  八十余载回望：那场含泪的抉择，是最动人的家国大义
+http://www.81.cn/js_208592/16480924.html
+  从黄崖洞到黄洋界，寻根小队一路寻访前身部队革命旧址
+http://www.81.cn/js_208592/16480930.html
+  《可爱的中国》写尽家国期盼，今天我们格外怀念他！
+http://www.81.cn/js_208592/16480929.html
+  纪念中国工农红军长征胜利90周年丨通道问“道”
+http://www.81.cn/js_208592/16480429.html
+  万水千山只等闲之翻越老山界——长征中的军事地理解读之二
+http://www.81.cn/wh_208594/jdt_208595/16480294.html
+http://www.81.cn/wh_208594/16481384.html
+  梅岭寒夜入画：陈毅三载砺初心
+http://www.81.cn/wh_208594/16480544.html
+  军号播客｜茫茫草地：长征路上，一场向死而生的行军
+http://www.81.cn/wh_208594/16480208.html
+  溯源先秦士风 重绘百家星河
+http://www.81.cn/wh_208594/16478987.html
+  两万五千里的长征路，被他写成代代传唱的信仰之声
+http://www.81.cn/wh_208594/16478121.html
+  士说心语｜小院里的桂花树
+http://www.81.cn/yd_208600/jdt_208601/16481019.html
+http://www.81.cn/yd_208600/16481389.html
+  倾听真正属于大地的声音，“人民的文学”就有了体温与重量
+http://www.81.cn/yd_208600/16481388.html
+  用最纯粹的人格，书写着“爱国”两个字最厚重的注释
+http://www.81.cn/yd_208600/16481387.html
+  一颗陨落的诗坛星辰，被重新接引回孕育他生长的土地
+http://www.81.cn/yd_208600/16481292.html
+  当新闻老兵遇上AI：一个见证者的记录
+http://www.81.cn/yd_208600/16481159.html
+  无塔也无山的塔山，有着优良传统之宝塔、战斗精神之高山
+http://www.81.cn/tp_207717/jdt_207718/16481412.html
+http://www.81.cn/tp_207717/16481471.html
+  万水千山只等闲之强渡乌江——长征中的军事地理解读之三
+http://www.81.cn/tp_207717/16481446.html
+  使命的接力 青春的远航——走进舷号81的郑和舰
+http://www.81.cn/tp_207717/16481235.html
+  长征精神薪火传，红韵泾川焕新颜
+http://www.81.cn/tp_207717/16481045.html
+  高燃！直击陆军第82集团军某旅淬炼狙击尖兵现场
+http://www.81.cn/tp_207717/16480948.html
+  第74集团军某旅组织党员骨干走进红色展馆参观见学
+http://www.81.cn/pk/jdt_208611/16480862.html
+http://www.81.cn/pk/16480861.html
+  转发共赏！带你看战机训练酷图
+http://www.81.cn/pk/16476723.html
+  锤炼近战硬功，一场刺杀训练火热展开
+http://www.81.cn/pk/16476724.html
+  武警桂林支队在红军长征湘江战役纪念园开展红色教育
+http://www.81.cn/pk/16476694.html
+  火热开赛！陆军某旅开展群众性练兵比武
+http://www.81.cn/pk/16473903.html
+  时光留痕，初心映照武警瑞金中队官兵的成长足迹
+http://www.81.cn/tj_208608/jdt_208609/16475418.html
+http://www.81.cn/tj_208608/jdt_208609/16469262.html
+http://www.81.cn/tj_208608/16478255.html
+  学习新语·铸魂强党丨学懂弄通做实党的创新理论
+http://www.81.cn/tj_208608/16476297.html
+  一图了解《上合组织合作的成就、机遇与展望》
+http://www.81.cn/tj_208608/16471263.html
+  一张长图带你走近党史里的红色地标
+http://www.81.cn/tj_208608/16469267.html
+  总书记"推动海洋经济高质量发展"重要论述引领海洋强国建设
+http://www.81.cn/tj_208608/16476296.html
+  要点海报丨上合组织合作的成就、机遇与展望
+http://www.81.cn/tj_208608/16453426.html
+  习语丨总书记讲述的这些英雄故事荡气回肠
+http://tv.81.cn/zb/16479424.html
+http://tv.81.cn/zb/16470954.html
+  直播回放：庆祝中国共产党成立105周年大会
+http://tv.81.cn/zb/16471083.html
+  直播回放：庆祝中国共产党成立105周年音乐会
+http://tv.81.cn/zb/16447880.html
+  直播回放：十四届全国人大四次会议第三场“部长通道”
+http://tv.81.cn/zb/16447882.html
+  直播回放：十四届全国人大四次会议闭幕会
+http://tv.81.cn/zb/16447881.html
+  直播回放：十四届全国人大四次会议第三场“代表通道”
+http://www.81.cn/H5_203188/16435241.html
+https://www.720yun.com/vr/221jt0ukky5
+  全息军报 | 阅兵专号
+https://xqiayx.epub360.com.cn/v2/manage/book/3qcvxe/?from=singlemessage
+  H5 |《解放军报》阅兵专号
+http://www.81.cn/H5_203188/16351296.html
+  一组手绘漫画带你回顾人民空军成立75周年历史时刻！
+http://www.81.cn/H5_203188/16334006.html
+  H5丨“天宫”相册等你开启
+http://www.81.cn/H5_203188/16316648.html
+  100秒答5题，看看党纪知识记得牢不牢
+http://www.81.cn/jl_208606/jdt_208607/16475685.html
+http://www.81.cn/jl_208606/16452690.html
+  第74集团军某旅某营：扫码“交伙”真方便
+http://www.81.cn/jl_208606/16452504.html
+  “老兵食堂”暖胃又暖心
+http://www.81.cn/jl_208606/16429786.html
+  山东省济南军供站：行军途中，官兵吃上暖胃餐
+http://www.81.cn/jl_208606/16428275.html
+  军需烹饪专业技能鉴定考核系统在全军推广试用
+http://www.81.cn/jl_208606/16426706.html
+  军营观察丨当红色故事“与我有关”
+http://www.81.cn/dy_208579/jdt_208580/16481226.html
+http://www.81.cn/dy_208579/16481386.html
+  海南省军区举行海南革命军事馆文物实物捐赠仪式
+http://www.81.cn/dy_208579/16481013.html
+  辽宁省大连市军地完善随军家属就业及子女入学机制
+http://www.81.cn/dy_208579/16480391.html
+  陕西省镇巴县人武部扎实开展学生军训工作
+http://www.81.cn/dy_208579/16480326.html
+  从“老兵找政策”到“政策找老兵”，优抚服务送上门
+http://www.81.cn/dy_208579/16480111.html
+  平凉军分区组织基干民兵配属专业力量开展森林灭火演练
+http://www.81.cn/wz_208577/jdt_208578/16460116.html
+http://www.81.cn/wz_208577/16480933.html
+  江西省宜春军分区着力提升文职人员履职能力
+http://www.81.cn/wz_208577/16467648.html
+  江苏省苏州军分区“孔雀蓝”宣讲团播撒国防星火
+http://www.81.cn/wz_208577/16466976.html
+  广西军区组织开展文职人员业务骨干培训
+http://www.81.cn/wz_208577/16463518.html
+  为何仅入职一年多的文职人员，就接连经历3个“没想到”？
+http://www.81.cn/wz_208577/16459656.html
+  2026年军队文职人员公开招考第二批免笔试直接面试岗位招考工作全面展开
+http://www.81.cn/rw_208598/jdt_208599/16479692.html
+http://www.81.cn/rw_208598/16480685.html
+  《可爱的中国》写尽家国期盼，今天我们格外怀念他！
+http://www.81.cn/rw_208598/16480684.html
+  跟着老兵“逛军博”丨他们脱下军装，以另一种姿态“归队”
+http://www.81.cn/rw_208598/16480463.html
+  第九个中国医师节特别策划丨白衣执甲 医者仁心
+http://www.81.cn/rw_208598/16480263.html
+  不管点位换到哪里，一线有需求他就在路上
+http://www.81.cn/rw_208598/16480264.html
+  无腿亦可远征——长篇纪实文学《轮椅上的战歌》节选
+http://www.81.cn/yljnt_208627/index.html
+http://www.81.cn/bq_208581/jdt_208582/16444351.html
+http://www.81.cn/bq_208581/16470704.html
+  从手工粗糙刻制到微米级精密加工，走进枪械膛线技术进化史
+http://www.81.cn/bq_208581/16470695.html
+  CFL-120中型坦克：“小身板”也有重火力
+http://www.81.cn/bq_208581/16469210.html
+  以色列PNR-500单兵网络电台
+http://www.81.cn/bq_208581/16469204.html
+  美国AN/PRC-154“步枪手”单兵电台
+http://www.81.cn/bq_208581/16469203.html
+  俄罗斯R-187“阿扎特”单兵电台
+http://www.81.cn/kt/jdt_208603/16481223.html
+http://www.81.cn/kt/16480140.html
+  嫦娥七号计划近日择机实施发射 器箭组合体完成垂直转运
+http://www.81.cn/kt/16480091.html
+  朱雀三号遥二运载火箭发射成功 一子级成功着陆预定位置
+http://www.81.cn/kt/16480137.html
+  鸿鹄03星成功入轨 探索“批量产”卫星
+http://www.81.cn/kt/16479940.html
+  我国成功发射SEO卫星
+http://www.81.cn/kt/16478009.html
+  神舟二十一号航天员乘组与记者见面会在京举行
+http://www.81.cn/wj_208604/jdt_208605/16472973.html
+http://www.81.cn/wj_208604/16481202.html
+  印度研发无人机专用的轻型导弹
+http://www.81.cn/wj_208604/16481201.html
+  日本首次完成“战斧”导弹舰载实弹试射
+http://www.81.cn/wj_208604/16481205.html
+  美太空军正式列装电磁战系统
+http://www.81.cn/wj_208604/16481206.html
+  美军测试电磁动能反无人机技术
+http://www.81.cn/wj_208604/16477968.html
+  从传统的集体安全共同体，向利益绑定的交易型联盟转变——“北约3.0”架构加速形成
+http://www.81.cn/jy_208587/jdt_208588/16480139.html
+http://www.81.cn/jy_208587/16480751.html
+  科学防溺，这样做→
+http://www.81.cn/jy_208587/16480605.html
+  陆军第957医院组织医疗队赴高原一线巡诊
+http://www.81.cn/jy_208587/16480596.html
+  军娃的“护牙卫士”
+http://www.81.cn/jy_208587/16480390.html
+  护佑官兵，他助推战伤救治质效再刷新
+http://www.81.cn/jy_208587/16480385.html
+  刀尖上的守护 初心下的深耕 ——记第一医学中心神经外科副主任医师韩聪
+http://www.81.cn/lb_208583/jdt_208584/16480295.html
+http://www.81.cn/lb_208583/16481079.html
+  百年荣光·我见证丨百岁老兵的峥嵘岁月：一叠战地日记，一卷百年赤诚
+http://www.81.cn/lb_208583/16480935.html
+  四川省乐山市志愿者廖翔团队寻访老兵制作“老兵手印墙”
+http://www.81.cn/lb_208583/16480740.html
+  【青春华章·长征路上山河新】老红军假装聋哑十四年 晚年当起义务宣讲员
+http://www.81.cn/lb_208583/16480386.html
+  从“老兵找政策”到“政策找老兵”，优抚服务送上门
+http://www.81.cn/lb_208583/16480359.html
+  走进贵州省遵义市——那一束微光点亮万家灯火
+http://www.81.cn/js_208585/jdt_208586/16469323.html
+http://www.81.cn/js_208585/16475743.html
+  想家的夜晚
+http://www.81.cn/js_208585/16475740.html
+  父爱无言却教会我坚强，给我迎难而上的勇气和力量
+http://www.81.cn/js_208585/16475738.html
+  姥爷坚定、有力的脚步声给了他前行的力量
+http://www.81.cn/js_208585/16475730.html
+  千里奔赴的深情，落进边关的风里也落进两个人共同的守候里
+http://www.81.cn/js_208585/16474562.html
+  云南省开展边境地区拥军优属专项行动
+http://eng.chinamil.com.cn/2025xb/H_251454/F_251457/16481432.html
+http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16481476.html
+  Xi urges all-out rescue, relief efforts after mudslide hits border port in Xizang
+http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16481400.html
+  PLA conducts routine naval-air patrol in South China Sea
+http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16481428.html
+  Foreign Naval Attachés to China Visit PLA Naval Aviation University
+http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16481425.html
+  PLA Hong Kong Garrison Completes 29th Rotation
+http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16481266.html
+  Chinese peacekeepers to South Sudan (Wau) provide humanitarian assistance to local school
+http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16481303.html
+  China, India hold special representatives talks on boundary question in Beijing
+http://eng.chinamil.com.cn/2025xb/B/16481468.html
+  12th Chinese peacekeeping infantry battalion to South Sudan (Juba) participates in UN military-police joint exercise
+http://eng.chinamil.com.cn/2025xb/B/16481268.html
+  Chinese peacekeepers to South Sudan (Wau) provide humanitarian assistance to local school
+http://eng.chinamil.com.cn/2025xb/B/16481255.html
+  China-Belarus Swift Eagle 2026 joint training concludes
+http://eng.chinamil.com.cn/2025xb/B/16481256.html
+  Vehicle-mounted self-propelled mortar systems in live-fire assessment
+http://www.people.com.cn/
+  人民网
+http://www.xinhuanet.com/
+  新华网
+http://www.china.com.cn/index.htm
+  中国网
+http://www.cctv.com/
+  央视网
+http://www.cnr.cn/
+  央广网
+http://gb.cri.cn/
+  国际在线
+http://www.chinadaily.com.cn/
+  中国日报网
+http://www.gmw.cn/
+  光明网
+http://www.youth.cn/
+  中国青年网
+http://www.ce.cn/
+  中国经济网
+http://www.chinanews.com/
+  中国新闻网
+http://www.taiwan.cn/
+  中国台湾网
+http://www.tibet.cn/
+  中国西藏网
+http://www.rmzxb.com.cn/index.shtml
+  人民政协网
+http://www.legaldaily.com.cn/
+  法治网
+http://www.gov.cn/
+  中国政府网
+http://www.cac.gov.cn/
+  中央网信办
+http://www.zgjx.cn/
+  中国记协网
+http://www.qstheory.cn/
+  求是网
+http://www.zgdsw.com/
+  中共党史网
+http://www.dangjian.cn/
+  党建网
+http://www.ccpph.com.cn/
+  中国理论网
+http://www.theorychina.org/
+  理论中国网
+http://www.cssn.cn
+  中国社会科学网
+https://www.guancha.cn/
+  观察者网
+http://www.huanqiu.com/
+  环球网
+http://www.workercn.cn/
+  中工网
+http://www.cyol.com/
+  中青在线
+http://www.jcrb.com
+  正义网
+http://www.stdaily.com/
+  中国科技网
+http://www.qianlong.com/
+  千龙网
+http://www.eastday.com/
+  东方网
+http://www.enorth.com.cn/
+  北方网
+http://www.cqnews.net/
+  华龙网
+http://www.dayoo.com/
+  大洋网
+http://gb.chinareviewnews.com/
+  中评网
+http://www.12377.cn
+  违法和不良信息举报中心
+http://www.81.cn/jubao/index.htm
+  网络涉军举报和辟谣平台
+https://www.piyao.org.cn
+  中国互联网联合辟谣平台
+http://www.81.cn/aboutus/node_74105.htm
+  版权声明
+http://www.81.cn/jwdy/wfhblxxjb/index.html
+  纠错/举报
+http://www.81.cn/aboutus/node_73809.htm
+  关于我们
+http://www.81.cn/zhaopin/index.htm
+  诚聘英才
+http://www.81.cn/jwdy/xwxxfwxkz/index.html
+  互联网新闻信息服务许可证10120170013
+https://beian.miit.gov.cn
+  京ICP备10016743号
+http://www.81.cn/jwdy/gbdsjmzzjyxkz/index.html
+  广播电视节目制作经营许可证

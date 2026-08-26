@@ -1,5 +1,5 @@
 Strategic RSS Collector Status
-Generated: 2026-08-26 15:58:38 UTC
+Generated: 2026-08-26 17:20:25 UTC
 
 Status meanings:
 OK = Feed contains one or more items
@@ -39,7 +39,7 @@ FAILED = Website could not be retrieved
   Articles with dates: 0
   RSS feed items: 0
   SSL verification: ON
-  Error: ConnectTimeout: HTTPSConnectionPool(host='eng.mil.ru', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='eng.mil.ru', port=443) at 0x7f8a14b35950>, 'Connection to eng.mil.ru timed out. (connect timeout=10)'))
+  Error: ConnectTimeout: HTTPSConnectionPool(host='eng.mil.ru', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='eng.mil.ru', port=443) at 0x7f4d9df2de50>, 'Connection to eng.mil.ru timed out. (connect timeout=10)'))
 
 [FAILED] kremlin-president-en - Kremlin President News
   Start URL: https://en.kremlin.ru/events/president/news
@@ -51,7 +51,7 @@ FAILED = Website could not be retrieved
   Articles with dates: 0
   RSS feed items: 0
   SSL verification: ON
-  Error: ConnectTimeout: HTTPSConnectionPool(host='en.kremlin.ru', port=443): Max retries exceeded with url: /events/president/news (Caused by ConnectTimeoutError(<HTTPSConnection(host='en.kremlin.ru', port=443) at 0x7f8a14b351d0>, 'Connection to en.kremlin.ru timed out. (connect timeout=10)'))
+  Error: ConnectTimeout: HTTPSConnectionPool(host='en.kremlin.ru', port=443): Max retries exceeded with url: /events/president/news (Caused by ConnectTimeoutError(<HTTPSConnection(host='en.kremlin.ru', port=443) at 0x7f4d9df2d1d0>, 'Connection to en.kremlin.ru timed out. (connect timeout=10)'))
 
 [FAILED] mod-whitepapers-cn - China MOD Defense White Papers
   Start URL: https://www.mod.gov.cn/gfbw/fgwx/bps/index.html
@@ -90,13 +90,13 @@ FAILED = Website could not be retrieved
   Error: SSLError: HTTPSConnectionPool(host='www.npc.gov.cn', port=443): Max retries exceeded with url: /npc/c2/c186/c208/ (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1032)')))
 
 [OK] sastind-cn - SASTIND
-  Start URL: https://www.sastind.gov.cn/n10086200/n10086344/index.html
+  Start URL: https://www.sastind.gov.cn/
   HTTP: 200
-  Links discovered: 638
-  Candidate links: 36
+  Links discovered: 65
+  Candidate links: 39
   Attempted articles: 12
   Articles with text: 12
-  Articles with dates: 8
+  Articles with dates: 12
   RSS feed items: 12
   SSL verification: ON
 
@@ -190,15 +190,15 @@ FAILED = Website could not be retrieved
   RSS feed items: 6
   SSL verification: ON
 
-[FETCHED/NO ITEMS] china-defense-news-cn - China National Defense News
-  Start URL: https://www.81.cn/rmjz_203219/zggfb/index.html
+[OK] china-defense-news-cn - China National Defense News
+  Start URL: https://www.81.cn/szb_223187/gfbszblb/index.html
   HTTP: 200
-  Links discovered: 24
-  Candidate links: 0
-  Attempted articles: 0
-  Articles with text: 0
+  Links discovered: 23
+  Candidate links: 2
+  Attempted articles: 2
+  Articles with text: 2
   Articles with dates: 0
-  RSS feed items: 0
+  RSS feed items: 2
   SSL verification: ON
 
 [OK] gfbzb-laws-cn - China Military Recruitment Laws and Regulations
@@ -258,7 +258,7 @@ FAILED = Website could not be retrieved
   SSL verification: ON
 
 SUMMARY
-Working: 9
-Fetched but no items: 4
+Working: 10
+Fetched but no items: 3
 Failed: 9
 Total sources: 22

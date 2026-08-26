@@ -1,0 +1,63 @@
+Diagnostic link report for China National Defense News
+
+Start URL: https://www.81.cn/szb_223187/gfbszblb/index.html
+Include regex: 81\.cn/szb_223187/.+
+
+Candidate links: 2
+All links discovered: 23
+
+=== MATCHED CANDIDATES ===
+
+http://www.81.cn/szb_223187/gfbszblb/index.html
+  中国国防报
+http://www.81.cn/szb_223187/szblb/index.html
+  解放军报
+
+=== ALL DISCOVERED LINKS ===
+
+http://www.81.cn/ysym/ssjgy/index.html
+  搜索
+http://www.81.cn/
+  主页
+http://www.81.cn/jfjbmap/content/1/2022-04/12/01/2022041201_pdf.pdf
+  PDF版下载
+http://www.81.cn
+  中国军网
+http://www.mod.gov.cn/
+  国防部网
+http://www.81.cn/xxqj_207719/index.html
+  学习强军
+http://www.81.cn/m/index.html
+  要闻要论
+http://www.81.cn/szb_223187/szblb/index.html
+  解放军报
+http://www.81.cn/szb_223187/gfbszblb/index.html
+  中国国防报
+http://tv.81.cn/jszqy/index.html
+  军事最前沿
+http://tv.81.cn/jbmtd_211970/index.html
+  军报每天读
+http://tv.81.cn/jbmdm/index.html
+  嘉宾面对面
+http://tv.81.cn/jlwyx/index.html
+  军旅微影像
+http://tv.81.cn/mcwt/index.html
+  迷彩舞台
+http://tv.81.cn/mtxsx/index.html
+  媒体新视线
+http://tv.81.cn/zgjs/jsbd/index.html
+  军事报道
+http://tv.81.cn/zgjs/jsjs/index.html
+  军事纪实
+http://tv.81.cn/zgjs/jwt/index.html
+  讲武堂
+http://tv.81.cn/zgjs/fwxgc/index.html
+  防务新观察
+http://tv.81.cn/zgjs/jskj/index.html
+  军事科技
+http://tv.81.cn/zgjs/bzjd/index.html
+  百战经典
+http://tv.81.cn/zgjs/jmxtx/index.html
+  军迷行天下
+http://tv.81.cn/yxrzt/2013n/xzjqzyyzt/qy_211839/index.html
+  前言

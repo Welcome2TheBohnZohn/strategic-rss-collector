@@ -1,0 +1,344 @@
+Diagnostic link report for Aviation Industry Corporation of China AVIC
+
+Start URL: https://www.avic.com/
+Include regex: avic\.com/.+
+
+Candidate links: 50
+All links discovered: 120
+
+=== MATCHED CANDIDATES ===
+
+https://www.avic.com/c/2026-08-18/647053.shtml
+  中国航空工业集团党组认真学习贯彻习近平总书记在纪念江泽民同志诞辰100周年大会上的重要讲话精神
+https://www.avic.com/c/2026-08-10/646820.shtml
+  中国航空工业集团党组传达学习贯彻中央政治局会议精神和习近平总书记近期重要讲话、重要指示精神
+https://www.avic.com/c/2026-08-26/647304.shtml
+  中国航空工业集团党组认真学习贯彻习近平总书记关于全面从严治党的重要讲话和重要指示批示精神
+https://www.avic.com/c/2026-08-14/646877.shtml
+  中国航空工业集团党组认真学习贯彻习近平总书记近期重要讲话和重要指示批示精神
+https://www.avic.com/c/2026-08-21/647179.shtml
+  国务院国资委党委组织开展中央企业基层党组织落实基本培训机制第三季度集中学习
+https://www.avic.com/c/2026-07-24/646494.shtml
+  中国航空工业集团党组认真学习贯彻习近平总书记近期重要文章、重要讲话精神
+https://www.avic.com/c/2026-08-21/647163.shtml
+  中国航空工业集团习近平党建思想专题培训班暨卓越政工师培训班开班
+https://www.avic.com/c/2026-07-21/646339.shtml
+  中国航空工业集团2026届工程硕博士入企实践结业仪式在扬州举行
+https://www.avic.com/c/2026-07-31/646660.shtml
+  中国航空工业集团党组认真学习贯彻习近平总书记近期重要指示精神
+https://www.avic.com/c/2026-07-28/646571.shtml
+  中国航空工业集团召开树立和践行正确政绩观学习教育专题汇报会
+https://www.avic.com/c/2026-08-25/647300.shtml
+  国务院国资委党委传达学习二十届中央纪委第六次全体会议精神
+https://www.avic.com/c/2026-08-14/646927.shtml
+  中国航空工业集团召开质量专项整治工作例会第一次会议
+https://www.avic.com/c/2026-07-28/646572.shtml
+  中国航空工业集团召开2026年上半年经营工作会
+https://www.avic.com/c/2026-08-25/647262.shtml
+  国务院国资委举办中央企业未来能源领域人才特训班
+https://www.avic.com/c/2026-08-14/646882.shtml
+  中国航空工业集团召开改革发展情况老领导通报会
+https://www.avic.com/c/2026-07-31/646659.shtml
+  中国航空工业集团党组听取防汛救灾工作专题汇报
+https://www.avic.com/c/2026-08-11/646821.shtml
+  国务院国资委党委2026年第一轮巡视完成反馈
+https://www.avic.com/c/2026-08-21/647176.shtml
+  中国航空工业集团与西北工业大学开展座谈交流
+https://www.avic.com/c/2026-08-25/647260.shtml
+  国务院国资委召开中央企业6G未来产业推进会
+https://www.avic.com/c/2026-08-25/647271.shtml
+  讣告 | 沉痛悼念陈一坚院士
+https://www.avic.com/c/2021-04-23/513016.shtml
+  内部媒体展示
+https://www.avic.com/c/2021-04-23/513015.shtml
+  新闻发言人
+https://www.avic.com/c/2021-03-26/511215.shtml
+  集团简介
+https://www.avic.com/c/2021-04-22/511297.shtml
+  业务实力
+https://www.avic.com/c/2021-04-01/511291.shtml
+  国内合作
+https://www.avic.com/c/2021-03-29/511222.shtml
+  国际业务
+https://www.avic.com/c/2021-04-22/511298.shtml
+  上市公司
+https://www.avic.com/c/2021-04-01/511292.shtml
+  品牌形象
+https://www.avic.com/c/2026-04-17/642660.shtml
+  专题专栏
+https://www.avic.com/c/2021-04-23/513017.shtml
+  期刊杂志
+https://www.avic.com/c/2021-04-28/513053.shtml
+  展望未来
+https://www.avic.com/c/2021-04-28/513052.shtml
+  基础科研
+https://www.avic.com/c/2021-04-01/511290.shtml
+  管理创新
+https://www.avic.com/c/2021-04-26/513028.shtml
+  责任理念
+https://www.avic.com/c/2021-04-28/513056.shtml
+  人才战略
+https://www.avic.com/c/2021-04-28/513055.shtml
+  人才结构
+https://www.avic.com/c/2021-04-28/513054.shtml
+  人才政策
+https://www.avic.com/c/2021-04-01/511288.shtml
+  职业发展
+https://www.avic.com/c/2021-04-28/513057.shtml
+  薪酬福利
+https://www.avic.com/sycd/ywly/jyhkyfw/
+  军用航空与防务
+https://www.avic.com/sycd/ywly/gyzz/tyyzysb/
+  通用与专用设备
+https://www.avic.com/sycd/xwzx/ssqydt/
+  所属企业动态
+https://www.avic.com/sycd/cxyfz/shzr/shzrbg/
+  社会责任报告
+https://www.avic.com/sycd/cxyfz/shzr/shzrsj/
+  社会责任实践
+https://www.avic.com/sycd/xxgk/qyjbxx/
+  企业基本信息
+https://www.avic.com/sycd/xxgk/qyjygl/
+  企业经营管理
+https://www.avic.com/hdjl/xfjb/
+  纪检监察举报
+https://www.avic.com/sycd/ywly/jyysj/
+  军用运输机
+https://www.avic.com/sycd/ywly/jyhkyfw/jyzsj/
+  军用直升机
+https://www.avic.com/sycd/ywly/myhk/myzsj/
+  民用直升机
+
+=== ALL DISCOVERED LINKS ===
+
+https://www.avic.com/sycd/sy/lyxgz/kh/
+  客户
+https://www.avic.com/sycd/sy/lyxgz/tzz/
+  投资者
+https://en.avic.com/
+  English
+https://www.avic.com/
+https://www.avic.com/sycd/gywm/
+  关于我们
+https://www.avic.com/sycd/gywm/jtgk/
+  集团概况
+https://www.avic.com/c/2021-03-26/511215.shtml
+  集团简介
+https://www.avic.com/sycd/gywm/jtgk/ldtd1/
+  领导团队
+https://www.avic.com/sycd/gywm/jtgk/fzlc/
+  发展历程
+https://www.avic.com/c/2021-04-22/511297.shtml
+  业务实力
+https://www.avic.com/sycd/gywm/hzgy/
+  合作共赢
+https://www.avic.com/c/2021-04-01/511291.shtml
+  国内合作
+https://www.avic.com/c/2021-03-29/511222.shtml
+  国际业务
+https://www.avic.com/sycd/gywm/dqgz/
+  党群工作
+https://www.avic.com/c/2021-04-22/511298.shtml
+  上市公司
+https://www.avic.com/c/2021-04-01/511292.shtml
+  品牌形象
+https://www.avic.com/sycd/ywly/
+  业务领域
+https://www.avic.com/sycd/ywly/jyhkyfw/
+  军用航空与防务
+https://www.avic.com/sycd/ywly/jyhkyfw/zdj/
+  战斗机
+https://www.avic.com/sycd/ywly/jyysj/
+  军用运输机
+https://www.avic.com/sycd/ywly/jyhkyfw/jyzsj/
+  军用直升机
+https://www.avic.com/sycd/ywly/jyhkyfw/wrj/
+  无人机
+https://www.avic.com/sycd/ywly/jyhkyfw/qt/
+  其它
+https://www.avic.com/sycd/ywly/myhk/
+  民用航空
+https://www.avic.com/sycd/ywly/myhk/zxfj/
+  支线飞机
+https://www.avic.com/sycd/ywly/myhk/hkys/
+  航空运输
+https://www.avic.com/sycd/ywly/myhk/myzsj/
+  民用直升机
+https://www.avic.com/sycd/ywly/myhk/tyfj/
+  通用飞机
+https://www.avic.com/sycd/ywly/myhk/zbsc/
+  转包生产
+https://www.avic.com/sycd/ywly/myhk/thyy/
+  通航运营
+https://www.avic.com/sycd/ywly/gyzz/
+  工业制造
+https://www.avic.com/sycd/ywly/gyzz/tyyzysb/
+  通用与专用设备
+https://www.avic.com/sycd/ywly/gyzz/jtys/
+  交通运输
+https://www.avic.com/sycd/ywly/gyzz/dzxx/
+  电子信息
+https://www.avic.com/sycd/ywly/gyzz/dldq/
+  电力电气
+https://www.avic.com/sycd/ywly/xdfwy/
+  现代服务业
+https://www.avic.com/sycd/ywly/xdfwy/gcjs/
+  工程建设
+https://www.avic.com/sycd/ywly/xdfwy/jr/
+  金融
+https://www.avic.com/sycd/xwzx/
+  新闻中心
+https://www.avic.com/sycd/xwzx/jtyw/
+  集团要闻
+https://www.avic.com/sycd/xwzx/ssqydt/
+  所属企业动态
+https://www.avic.com/sycd/xwzx/gzdt/
+  国资动态
+https://www.avic.com/c/2026-04-17/642660.shtml
+  专题专栏
+https://www.avic.com/c/2021-04-23/513017.shtml
+  期刊杂志
+https://www.avic.com/sycd/xwzx/mtjj/
+  媒体聚焦
+https://www.avic.com/sycd/xwzx/mtll/
+  媒体联络
+https://www.avic.com/c/2021-04-23/513015.shtml
+  新闻发言人
+https://www.avic.com/c/2021-04-23/513016.shtml
+  内部媒体展示
+https://www.avic.com/sycd/cxyfz/
+  创新与发展
+https://www.avic.com/sycd/cxyfz/kjcx/
+  科技创新
+https://www.avic.com/c/2021-04-28/513053.shtml
+  展望未来
+https://www.avic.com/c/2021-04-28/513052.shtml
+  基础科研
+https://www.avic.com/sycd/cxyfz/kjcx/zscq/
+  知识产权
+https://www.avic.com/c/2021-04-01/511290.shtml
+  管理创新
+https://www.avic.com/sycd/cxyfz/it/
+  I 2 T
+https://www.avic.com/sycd/cxyfz/shzr/
+  社会责任
+https://www.avic.com/c/2021-04-26/513028.shtml
+  责任理念
+https://www.avic.com/sycd/cxyfz/shzr/shzrbg/
+  社会责任报告
+https://www.avic.com/sycd/cxyfz/shzr/shzrsj/
+  社会责任实践
+https://www.avic.com/sycd/cxyfz/hkkp/
+  航空科普
+https://www.avic.com/sycd/cxyfz/hkkp/hksh/
+  航空史话
+https://www.avic.com/sycd/cxyfz/hkkp/hkmt/qb/
+  航空美图
+https://www.avic.com/sycd/cxyfz/hkkp/hkys/
+  航空影视
+https://www.avic.com/sycd/rczp/
+  人才招聘
+https://www.avic.com/sycd/rczp/rcln/
+  人才理念
+https://www.avic.com/c/2021-04-28/513056.shtml
+  人才战略
+https://www.avic.com/c/2021-04-28/513055.shtml
+  人才结构
+https://www.avic.com/c/2021-04-28/513054.shtml
+  人才政策
+https://www.avic.com/sycd/rczp/zygl/
+  职业管理
+https://www.avic.com/c/2021-04-01/511288.shtml
+  职业发展
+https://www.avic.com/sycd/rczp/zygl/jypx/
+  教育培训
+https://www.avic.com/c/2021-04-28/513057.shtml
+  薪酬福利
+https://www.avic.com/sycd/rczp/wmdjy/
+  我们的精英
+https://www.avic.com/sycd/rczp/wmdjy/ljrw/
+  领军人物
+https://www.avic.com/sycd/rczp/wmdjy/hkzx/
+  航空之星
+https://www.avic.com/sycd/xxgk/
+  信息公开
+https://www.avic.com/sycd/xxgk/qyjbxx/
+  企业基本信息
+https://www.avic.com/sycd/xxgk/qyjygl/
+  企业经营管理
+https://www.avic.com/c/2025-02-05/608382.shtml
+https://www.avic.com/c/2025-02-05/608381.shtml
+https://www.avic.com/c/2023-11-27/589490.shtml
+https://www.avic.com/c/2026-08-26/647304.shtml
+  中国航空工业集团党组认真学习贯彻习近平总书记关于全面从严治党的重要讲话和重要指示批示精神
+https://www.avic.com/c/2026-08-25/647271.shtml
+  讣告 | 沉痛悼念陈一坚院士
+https://www.avic.com/c/2026-08-21/647176.shtml
+  中国航空工业集团与西北工业大学开展座谈交流
+https://www.avic.com/c/2026-08-21/647163.shtml
+  中国航空工业集团习近平党建思想专题培训班暨卓越政工师培训班开班
+https://www.avic.com/c/2026-08-18/647053.shtml
+  中国航空工业集团党组认真学习贯彻习近平总书记在纪念江泽民同志诞辰100周年大会上的重要讲话精神
+https://www.avic.com/c/2026-08-14/646927.shtml
+  中国航空工业集团召开质量专项整治工作例会第一次会议
+https://www.avic.com/c/2026-08-14/646882.shtml
+  中国航空工业集团召开改革发展情况老领导通报会
+https://www.avic.com/c/2026-08-14/646877.shtml
+  中国航空工业集团党组认真学习贯彻习近平总书记近期重要讲话和重要指示批示精神
+https://www.avic.com/c/2026-08-10/646820.shtml
+  中国航空工业集团党组传达学习贯彻中央政治局会议精神和习近平总书记近期重要讲话、重要指示精神
+https://www.avic.com/c/2026-07-31/646660.shtml
+  中国航空工业集团党组认真学习贯彻习近平总书记近期重要指示精神
+https://www.avic.com/c/2026-07-31/646659.shtml
+  中国航空工业集团党组听取防汛救灾工作专题汇报
+https://www.avic.com/c/2026-07-28/646572.shtml
+  中国航空工业集团召开2026年上半年经营工作会
+https://www.avic.com/c/2026-07-28/646571.shtml
+  中国航空工业集团召开树立和践行正确政绩观学习教育专题汇报会
+https://www.avic.com/c/2026-07-24/646494.shtml
+  中国航空工业集团党组认真学习贯彻习近平总书记近期重要文章、重要讲话精神
+https://www.avic.com/c/2026-07-21/646339.shtml
+  中国航空工业集团2026届工程硕博士入企实践结业仪式在扬州举行
+https://www.avic.com/c/2026-08-25/647300.shtml
+  国务院国资委党委传达学习二十届中央纪委第六次全体会议精神
+https://www.avic.com/c/2026-08-25/647262.shtml
+  国务院国资委举办中央企业未来能源领域人才特训班
+https://www.avic.com/c/2026-08-25/647260.shtml
+  国务院国资委召开中央企业6G未来产业推进会
+https://www.avic.com/c/2026-08-21/647179.shtml
+  国务院国资委党委组织开展中央企业基层党组织落实基本培训机制第三季度集中学习
+https://www.avic.com/c/2026-08-11/646821.shtml
+  国务院国资委党委2026年第一轮巡视完成反馈
+https://www.avic.com/ztjj/slhjxzqzjgxxjy/
+https://www.avic.com/ztjj/srxxgcxjpdjsx/
+https://www.avic.com/ztjj/qzzggcdcl105zn/
+https://cqjypt.avic.com/
+https://www.avic.com/dsxxjyzt/
+http://www.eavic.com/
+  中航工业电子采购平台
+https://www.avic.com/hdjl/zxyjy/
+  咨询与建议
+https://www.avic.com/hdjl/zxly/
+  在线留言
+https://www.avic.com/hdjl/zxbg/
+  在线调查
+https://www.avic.com/hdjl/jtgg/
+  集团公告
+https://www.avic.com/sycd/gywm/xzzx/
+  下载中心
+https://www.avic.com/hdjl/qqxf/
+  信访电话
+https://www.avic.com/hdjl/qqxfx/
+  清欠信访
+https://www.avic.com/hdjl/qycx/
+  企业查询
+https://www.avic.com/hdjl/xfjb/
+  纪检监察举报
+https://imapi.avic.com/version
+  商网办公
+https://beian.miit.gov.cn/
+  京ICP备10003784号
+http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502038418
+  京公网安备 11010502038418号
+https://www.avicnet.cn/
+  中航金网（北京）科技有限公司

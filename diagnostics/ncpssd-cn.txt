@@ -1,0 +1,278 @@
+Diagnostic link report for National Center for Philosophy and Social Sciences Documentation
+
+Start URL: https://www.ncpssd.cn/
+Include regex: ncpssd\.cn/.+
+
+Candidate links: 50
+All links discovered: 80
+
+=== MATCHED CANDIDATES ===
+
+https://www.ncpssd.cn/journal/secure/details?params=bDZXK2hJM2lFWDdPbnBpRlU1bm9KZkVJUE8yTmpKZDFHMElFUUNUR0MyWT0
+  北京邮电大学学报：社会科学版 2025
+  / 5
+https://www.ncpssd.cn/topics/details?id=1107&wfColumn=1&resourceType=203
+  研究阐释宣传 党的二十大和二十届 历次全会精神
+https://www.ncpssd.cn/journal/secure/details?params=eml2cForKytxL1ZxYzJjQy9DNlhrUEVJUE8yTmpKZDFHMElFUUNUR0MyWT0
+  华东师大教育评论（英文） 2026
+  / 2
+https://www.ncpssd.cn/journal/secure/details?params=YUZFM3hsTkp0ZGl3VnNzaVRaNUczZkVJUE8yTmpKZDFHMElFUUNUR0MyWT0
+  当代中国史研究 2026
+  / 4
+https://www.ncpssd.cn/journal/secure/details?params=Ym9nemd4dWlRMDN5R1ZDbk5oNTJ2ZkVJUE8yTmpKZDFHMElFUUNUR0MyWT0
+  地方治理研究 2026
+  / 3
+https://www.ncpssd.cn/journal/secure/details?params=bGwxSTJ2MjM0Zm1YZG9SMGpDdEhHL0VJUE8yTmpKZDFHMElFUUNUR0MyWT0
+  环境工程学报 2026
+  / 7
+https://www.ncpssd.cn/journal/secure/details?params=ZGlSSGFYK3pYemQxVVF1ME45RzdTL0VJUE8yTmpKZDFHMElFUUNUR0MyWT0
+  理论学刊 2026
+  / 4
+https://www.ncpssd.cn/topics/detailsList?id=4&wfColumn=1&resourceType=0
+  建设中国特色新型智库
+https://www.ncpssd.cn/message?id=22150
+  习近平作出重要指示强调 巩固拓展树立和践行正确政绩观学习教育成果 努力创造经得起实践人民历史检验的实绩
+https://www.ncpssd.cn/message?id=18622
+  积极助力现代公共文化服务体系建设 ——国家哲学社会科学文献中心走进贵州省“两会”
+https://www.ncpssd.cn/message?id=18580
+  国家哲学社会科学文献中心为贵阳市“两会”提供学术资源服务
+https://www.ncpssd.cn/message?id=22154
+  习近平对西藏日喀则市吉隆县遭受泥石流灾害作出重要指示
+https://www.ncpssd.cn/message?id=19563
+  国家哲学社会科学文献中心发布最受欢迎期刊报告
+https://www.ncpssd.cn/message?id=19564
+  《在学术期刊中合理应用人工智能的倡议书》发布
+https://www.ncpssd.cn/message?id=18273
+  国家哲学社会科学文献中心走进贵州省图书馆学会
+https://www.ncpssd.cn/message?id=22152
+  习近平致电祝贺阿拉姆吉尔就任孟加拉国总统
+https://www.ncpssd.cn/message?id=22111
+  习近平致电祝贺希奇莱马当选连任赞比亚总统
+https://www.ncpssd.cn/message?id=22151
+  习近平同约旦国王阿卜杜拉二世会谈
+https://www.ncpssd.cn/Literature/articlelist?sType=0&search=KElLVEU9IuS5oOi/keW5s+aWh+WMluaAneaDsyIgT1IgSUtQWVRFPSLkuaDov5HlubPmlofljJbmgJ3mg7MiICBPUiBJS1NUPSLkuaDov5HlubPmlofljJbmgJ3mg7MiIE9SIElLRVQ9IuS5oOi/keW5s+aWh+WMluaAneaDsyIgT1IgSUtTRT0i5Lmg6L+R5bmz5paH5YyW5oCd5oOzIik=&searchname=6aKY5ZCNL+WFs+mUruivjT0i5Lmg6L+R5bmz5paH5YyW5oCd5oOzIg==&nav=0&nav=0&showBack=true
+  习近平文化思想
+https://www.ncpssd.cn/Literature/articlelist?sType=0&search=KElLVEU9IuaAneaDs+aUv+ayu+aVmeiCsiIgT1IgSUtQWVRFPSLmgJ3mg7PmlL/msrvmlZnogrIiICBPUiBJS1NUPSLmgJ3mg7PmlL/msrvmlZnogrIiIE9SIElLRVQ9IuaAneaDs+aUv+ayu+aVmeiCsiIgT1IgSUtTRT0i5oCd5oOz5pS/5rK75pWZ6IKyIik=&searchname=6aKY5ZCNL+WFs+mUruivjT0i5oCd5oOz5pS/5rK75pWZ6IKyIg==&nav=0&nav=0&showBack=true
+  思想政治教育
+https://www.ncpssd.cn/Literature/articlelist?sType=0&search=KElLVEU9IuS4reWbveW8j+eOsOS7o+WMliIgT1IgSUtQWVRFPSLkuK3lm73lvI/njrDku6PljJYiICBPUiBJS1NUPSLkuK3lm73lvI/njrDku6PljJYiIE9SIElLRVQ9IuS4reWbveW8j+eOsOS7o+WMliIgT1IgSUtTRT0i5Lit5Zu95byP546w5Luj5YyWIik=&searchname=6aKY5ZCNL+WFs+mUruivjT0i5Lit5Zu95byP546w5Luj5YyWIg==&nav=0&nav=0&showBack=true
+  中国式现代化
+https://www.ncpssd.cn/Literature/articlelist?sType=0&search=KElLVEU9IuaWsOi0qOeUn+S6p+WKmyIgT1IgSUtQWVRFPSLmlrDotKjnlJ/kuqflipsiICBPUiBJS1NUPSLmlrDotKjnlJ/kuqflipsiIE9SIElLRVQ9IuaWsOi0qOeUn+S6p+WKmyIgT1IgSUtTRT0i5paw6LSo55Sf5Lqn5YqbIik=&searchname=6aKY5ZCNL+WFs+mUruivjT0i5paw6LSo55Sf5Lqn5YqbIg==&nav=0&nav=0&showBack=true
+  新质生产力
+https://www.ncpssd.cn/Literature/articlelist?sType=0&search=KElLVEU9IuWbveWutuWuieWFqCIgT1IgSUtQWVRFPSLlm73lrrblronlhagiICBPUiBJS1NUPSLlm73lrrblronlhagiIE9SIElLRVQ9IuWbveWutuWuieWFqCIgT1IgSUtTRT0i5Zu95a625a6J5YWoIik=&searchname=6aKY5ZCNL+WFs+mUruivjT0i5Zu95a625a6J5YWoIg==&nav=0&nav=0&showBack=true
+  国家安全
+https://www.ncpssd.cn/Literature/articlelist?sType=0&search=KElLVEU9IuaUuemdqeW8gOaUviIgT1IgSUtQWVRFPSLmlLnpnanlvIDmlL4iICBPUiBJS1NUPSLmlLnpnanlvIDmlL4iIE9SIElLRVQ9IuaUuemdqeW8gOaUviIgT1IgSUtTRT0i5pS56Z2p5byA5pS+Iik=&searchname=6aKY5ZCNL+WFs+mUruivjT0i5pS56Z2p5byA5pS+Ig==&nav=0&nav=0&showBack=true
+  改革开放
+https://www.ncpssd.cn/Literature/articlelist?sType=0&search=KElLVEU9IuS5oeadkeaMr+WFtCIgT1IgSUtQWVRFPSLkuaHmnZHmjK/lhbQiICBPUiBJS1NUPSLkuaHmnZHmjK/lhbQiIE9SIElLRVQ9IuS5oeadkeaMr+WFtCIgT1IgSUtTRT0i5Lmh5p2R5oyv5YW0Iik=&searchname=6aKY5ZCNL+WFs+mUruivjT0i5Lmh5p2R5oyv5YW0Ig==&nav=0&nav=0&showBack=true
+  乡村振兴
+https://www.ncpssd.cn/Literature/articlelist?sType=0&search=KElLVEU9Iue6ouiJsuaWh+WMliIgT1IgSUtQWVRFPSLnuqLoibLmlofljJYiICBPUiBJS1NUPSLnuqLoibLmlofljJYiIE9SIElLRVQ9Iue6ouiJsuaWh+WMliIgT1IgSUtTRT0i57qi6Imy5paH5YyWIik=&searchname=6aKY5ZCNL+WFs+mUruivjT0i57qi6Imy5paH5YyWIg==&nav=0&nav=0&showBack=true
+  红色文化
+https://www.ncpssd.cn/Literature/articlelist?sType=0&search=KElLVEU9IuW/g+eQhuWBpeW6tyIgT1IgSUtQWVRFPSLlv4PnkIblgaXlurciICBPUiBJS1NUPSLlv4PnkIblgaXlurciIE9SIElLRVQ9IuW/g+eQhuWBpeW6tyIgT1IgSUtTRT0i5b+D55CG5YGl5bq3Iik=&searchname=6aKY5ZCNL+WFs+mUruivjT0i5b+D55CG5YGl5bq3Ig==&nav=0&nav=0&showBack=true
+  心理健康
+https://www.ncpssd.cn/Literature/articlelist?sType=0&search=KElLVEU9Iua3seW6puWtpuS5oCIgT1IgSUtQWVRFPSLmt7HluqblrabkuaAiICBPUiBJS1NUPSLmt7HluqblrabkuaAiIE9SIElLRVQ9Iua3seW6puWtpuS5oCIgT1IgSUtTRT0i5rex5bqm5a2m5LmgIik=&searchname=6aKY5ZCNL+WFs+mUruivjT0i5rex5bqm5a2m5LmgIg==&nav=0&nav=0&showBack=true
+  深度学习
+https://www.ncpssd.cn/Literature/articlelist?sType=0&search=KElLVEU9IuaEj+ivhuW9ouaAgSIgT1IgSUtQWVRFPSLmhI/or4blvaLmgIEiICBPUiBJS1NUPSLmhI/or4blvaLmgIEiIE9SIElLRVQ9IuaEj+ivhuW9ouaAgSIgT1IgSUtTRT0i5oSP6K+G5b2i5oCBIik=&searchname=6aKY5ZCNL+WFs+mUruivjT0i5oSP6K+G5b2i5oCBIg==&nav=0&nav=0&showBack=true
+  意识形态
+https://www.ncpssd.cn/Literature/articlelist?sType=0&search=KElLVEU9IuWutuW6reaVmeiCsiIgT1IgSUtQWVRFPSLlrrbluq3mlZnogrIiICBPUiBJS1NUPSLlrrbluq3mlZnogrIiIE9SIElLRVQ9IuWutuW6reaVmeiCsiIgT1IgSUtTRT0i5a625bqt5pWZ6IKyIik=&searchname=6aKY5ZCNL+WFs+mUruivjT0i5a625bqt5pWZ6IKyIg==&nav=0&nav=0&showBack=true
+  家庭教育
+https://www.ncpssd.cn/Literature/articlelist?sType=0&search=KElLVEU9IuWfuuWxguayu+eQhiIgT1IgSUtQWVRFPSLln7rlsYLmsrvnkIYiICBPUiBJS1NUPSLln7rlsYLmsrvnkIYiIE9SIElLRVQ9IuWfuuWxguayu+eQhiIgT1IgSUtTRT0i5Z+65bGC5rK755CGIik=&searchname=6aKY5ZCNL+WFs+mUruivjT0i5Z+65bGC5rK755CGIg==&nav=0&nav=0&showBack=true
+  基层治理
+https://www.ncpssd.cn/Literature/articlelist?sType=0&search=KElLVEU9IuS4gOW4puS4gOi3ryIgT1IgSUtQWVRFPSLkuIDluKbkuIDot68iICBPUiBJS1NUPSLkuIDluKbkuIDot68iIE9SIElLRVQ9IuS4gOW4puS4gOi3ryIgT1IgSUtTRT0i5LiA5bim5LiA6LevIik=&searchname=6aKY5ZCNL+WFs+mUruivjT0i5LiA5bim5LiA6LevIg==&nav=0&nav=0&showBack=true
+  一带一路
+https://www.ncpssd.cn/Literature/articlelist?sType=0&search=KElLVEU9IuS9juepuue7j+a1jiIgT1IgSUtQWVRFPSLkvY7nqbrnu4/mtY4iICBPUiBJS1NUPSLkvY7nqbrnu4/mtY4iIE9SIElLRVQ9IuS9juepuue7j+a1jiIgT1IgSUtTRT0i5L2O56m657uP5rWOIik=&searchname=6aKY5ZCNL+WFs+mUruivjT0i5L2O56m657uP5rWOIg==&nav=0&nav=0&showBack=true
+  低空经济
+https://www.ncpssd.cn/Literature/articlelist?sType=0&search=KElLVEU9IuaVsOWtl+e7j+a1jiIgT1IgSUtQWVRFPSLmlbDlrZfnu4/mtY4iICBPUiBJS1NUPSLmlbDlrZfnu4/mtY4iIE9SIElLRVQ9IuaVsOWtl+e7j+a1jiIgT1IgSUtTRT0i5pWw5a2X57uP5rWOIik=&searchname=6aKY5ZCNL+WFs+mUruivjT0i5pWw5a2X57uP5rWOIg==&nav=0&nav=0&showBack=true
+  数字经济
+https://www.ncpssd.cn/Literature/articlelist?sType=0&search=KElLVEU9IuS9nOmjjuW7uuiuviIgT1IgSUtQWVRFPSLkvZzpo47lu7rorr4iICBPUiBJS1NUPSLkvZzpo47lu7rorr4iIE9SIElLRVQ9IuS9nOmjjuW7uuiuviIgT1IgSUtTRT0i5L2c6aOO5bu66K6+Iik=&searchname=6aKY5ZCNL+WFs+mUruivjT0i5L2c6aOO5bu66K6+Ig==&nav=0&nav=0&showBack=true
+  作风建设
+https://www.ncpssd.cn/Literature/articlelist?sType=0&search=KElLVEU9IuS6uuW3peaZuuiDvSIgT1IgSUtQWVRFPSLkurrlt6Xmmbrog70iICBPUiBJS1NUPSLkurrlt6Xmmbrog70iIE9SIElLRVQ9IuS6uuW3peaZuuiDvSIgT1IgSUtTRT0i5Lq65bel5pm66IO9Iik=&searchname=6aKY5ZCNL+WFs+mUruivjT0i5Lq65bel5pm66IO9Ig==&nav=0&nav=0&showBack=true
+  人工智能
+https://www.ncpssd.cn/Literature/prpSeparatePageList
+  优先发布论文
+https://www.ncpssd.cn/service/index?id=11
+  外部资源导航
+https://www.ncpssd.cn/service/index?id=15
+  学术网站导航
+https://www.ncpssd.cn/service/index?id=17
+  社科机构导航
+https://www.ncpssd.cn/topicsGd/gdIndex
+  古典学研究
+https://www.ncpssd.cn/journal/index?nav=1&langType=1&s=-1
+  中文期刊
+https://www.ncpssd.cn/journal/list?nav=1&langType=2&s=2
+  外文期刊
+https://www.ncpssd.cn/ForeignBooks/getForeignBookQueryUrl
+  外文图书
+https://www.ncpssd.cn/messages
+  查看更多
+https://www.ncpssd.cn/newlist?type=0
+  查看更多
+https://www.ncpssd.cn/service/guide
+  使用指南
+https://www.ncpssd.cn/service/question
+  常见问题
+https://www.ncpssd.cn/aboutUs?mainTitle=中心简介
+  中心简介
+https://www.ncpssd.cn/aboutUs?mainTitle=联系我们
+  联系我们
+
+=== ALL DISCOVERED LINKS ===
+
+https://www.ncpssd.cn/raylink_0
+https://www.ncpssd.cn/register
+  注册
+https://www.ncpssd.cn/index
+https://www.ncpssd.cn/journal/index
+  资源
+https://www.ncpssd.cn/topics/detailsList?id=1103&wfColumn=1&resourceType=0
+  专题
+https://www.ncpssd.cn/service/index
+  服务
+https://www.ncpssd.cn/journal/index?nav=1&langType=1&s=-1
+  中文期刊
+https://www.ncpssd.cn/journal/list?nav=1&langType=2&s=2
+  外文期刊
+https://www.ncpssd.cn/Literature/ancientbooklistNew?nav=5
+  古籍
+https://www.ncpssd.cn/Collections/index?nav=1&langType=1&s=-1
+  集刊
+https://www.ncpssd.cn/ForeignBooks/getForeignBookQueryUrl
+  外文图书
+https://www.ncpssd.cn/Literature/prpSeparatePageList
+  优先发布论文
+https://www.ncpssd.cn/topics/details?id=1107&wfColumn=1&resourceType=203
+  研究阐释宣传 党的二十大和二十届 历次全会精神
+https://www.ncpssd.cn/topics/detailsList?id=4&wfColumn=1&resourceType=0
+  建设中国特色新型智库
+https://www.ncpssd.cn/topicsGd/gdIndex
+  古典学研究
+https://www.ncpssd.cn/service/index?id=11
+  外部资源导航
+https://www.ncpssd.cn/service/index?id=15
+  学术网站导航
+https://www.ncpssd.cn/service/index?id=17
+  社科机构导航
+http://wpa.b.qq.com/cgi/wpa.php?ln=1&key=XzgwMDE4NTkzM180NzUyOThfODAwMTg1OTMzXzJf
+  在线咨询
+https://www.ncpssd.cn/messages
+  查看更多
+https://www.ncpssd.cn/message?id=22107
+https://www.ncpssd.cn/message?id=21968
+https://www.ncpssd.cn/message?id=21942
+https://www.ncpssd.cn/message?id=22154
+  习近平对西藏日喀则市吉隆县遭受泥石流灾害作出重要指示
+https://www.ncpssd.cn/message?id=22152
+  习近平致电祝贺阿拉姆吉尔就任孟加拉国总统
+https://www.ncpssd.cn/message?id=22151
+  习近平同约旦国王阿卜杜拉二世会谈
+https://www.ncpssd.cn/message?id=22150
+  习近平作出重要指示强调 巩固拓展树立和践行正确政绩观学习教育成果 努力创造经得起实践人民历史检验的实绩
+https://www.ncpssd.cn/message?id=22111
+  习近平致电祝贺希奇莱马当选连任赞比亚总统
+https://www.ncpssd.cn/message?id=19563
+  国家哲学社会科学文献中心发布最受欢迎期刊报告
+https://www.ncpssd.cn/message?id=19564
+  《在学术期刊中合理应用人工智能的倡议书》发布
+https://www.ncpssd.cn/message?id=18622
+  积极助力现代公共文化服务体系建设 ——国家哲学社会科学文献中心走进贵州省“两会”
+https://www.ncpssd.cn/message?id=18580
+  国家哲学社会科学文献中心为贵阳市“两会”提供学术资源服务
+https://www.ncpssd.cn/message?id=18273
+  国家哲学社会科学文献中心走进贵州省图书馆学会
+https://www.ncpssd.cn/journal/secure/details?params=YUZFM3hsTkp0ZGl3VnNzaVRaNUczZkVJUE8yTmpKZDFHMElFUUNUR0MyWT0
+  当代中国史研究 2026
+  / 4
+https://www.ncpssd.cn/journal/secure/details?params=ZGlSSGFYK3pYemQxVVF1ME45RzdTL0VJUE8yTmpKZDFHMElFUUNUR0MyWT0
+  理论学刊 2026
+  / 4
+https://www.ncpssd.cn/journal/secure/details?params=Ym9nemd4dWlRMDN5R1ZDbk5oNTJ2ZkVJUE8yTmpKZDFHMElFUUNUR0MyWT0
+  地方治理研究 2026
+  / 3
+https://www.ncpssd.cn/journal/secure/details?params=bGwxSTJ2MjM0Zm1YZG9SMGpDdEhHL0VJUE8yTmpKZDFHMElFUUNUR0MyWT0
+  环境工程学报 2026
+  / 7
+https://www.ncpssd.cn/journal/secure/details?params=eml2cForKytxL1ZxYzJjQy9DNlhrUEVJUE8yTmpKZDFHMElFUUNUR0MyWT0
+  华东师大教育评论（英文） 2026
+  / 2
+https://www.ncpssd.cn/journal/secure/details?params=bDZXK2hJM2lFWDdPbnBpRlU1bm9KZkVJUE8yTmpKZDFHMElFUUNUR0MyWT0
+  北京邮电大学学报：社会科学版 2025
+  / 5
+https://www.ncpssd.cn/newlist?type=0
+  查看更多
+https://www.ncpssd.cn/Literature/articlelist?sType=0&search=KElLVEU9IuWbveWutuWuieWFqCIgT1IgSUtQWVRFPSLlm73lrrblronlhagiICBPUiBJS1NUPSLlm73lrrblronlhagiIE9SIElLRVQ9IuWbveWutuWuieWFqCIgT1IgSUtTRT0i5Zu95a625a6J5YWoIik=&searchname=6aKY5ZCNL+WFs+mUruivjT0i5Zu95a625a6J5YWoIg==&nav=0&nav=0&showBack=true
+  国家安全
+https://www.ncpssd.cn/Literature/articlelist?sType=0&search=KElLVEU9IuaUuemdqeW8gOaUviIgT1IgSUtQWVRFPSLmlLnpnanlvIDmlL4iICBPUiBJS1NUPSLmlLnpnanlvIDmlL4iIE9SIElLRVQ9IuaUuemdqeW8gOaUviIgT1IgSUtTRT0i5pS56Z2p5byA5pS+Iik=&searchname=6aKY5ZCNL+WFs+mUruivjT0i5pS56Z2p5byA5pS+Ig==&nav=0&nav=0&showBack=true
+  改革开放
+https://www.ncpssd.cn/Literature/articlelist?sType=0&search=KElLVEU9IuS5oeadkeaMr+WFtCIgT1IgSUtQWVRFPSLkuaHmnZHmjK/lhbQiICBPUiBJS1NUPSLkuaHmnZHmjK/lhbQiIE9SIElLRVQ9IuS5oeadkeaMr+WFtCIgT1IgSUtTRT0i5Lmh5p2R5oyv5YW0Iik=&searchname=6aKY5ZCNL+WFs+mUruivjT0i5Lmh5p2R5oyv5YW0Ig==&nav=0&nav=0&showBack=true
+  乡村振兴
+https://www.ncpssd.cn/Literature/articlelist?sType=0&search=KElLVEU9Iue6ouiJsuaWh+WMliIgT1IgSUtQWVRFPSLnuqLoibLmlofljJYiICBPUiBJS1NUPSLnuqLoibLmlofljJYiIE9SIElLRVQ9Iue6ouiJsuaWh+WMliIgT1IgSUtTRT0i57qi6Imy5paH5YyWIik=&searchname=6aKY5ZCNL+WFs+mUruivjT0i57qi6Imy5paH5YyWIg==&nav=0&nav=0&showBack=true
+  红色文化
+https://www.ncpssd.cn/Literature/articlelist?sType=0&search=KElLVEU9IuS5oOi/keW5s+aWh+WMluaAneaDsyIgT1IgSUtQWVRFPSLkuaDov5HlubPmlofljJbmgJ3mg7MiICBPUiBJS1NUPSLkuaDov5HlubPmlofljJbmgJ3mg7MiIE9SIElLRVQ9IuS5oOi/keW5s+aWh+WMluaAneaDsyIgT1IgSUtTRT0i5Lmg6L+R5bmz5paH5YyW5oCd5oOzIik=&searchname=6aKY5ZCNL+WFs+mUruivjT0i5Lmg6L+R5bmz5paH5YyW5oCd5oOzIg==&nav=0&nav=0&showBack=true
+  习近平文化思想
+https://www.ncpssd.cn/Literature/articlelist?sType=0&search=KElLVEU9IuWkp+aVsOaNriIgT1IgSUtQWVRFPSLlpKfmlbDmja4iICBPUiBJS1NUPSLlpKfmlbDmja4iIE9SIElLRVQ9IuWkp+aVsOaNriIgT1IgSUtTRT0i5aSn5pWw5o2uIik=&searchname=6aKY5ZCNL+WFs+mUruivjT0i5aSn5pWw5o2uIg==&nav=0&nav=0&showBack=true
+  大数据
+https://www.ncpssd.cn/Literature/articlelist?sType=0&search=KElLVEU9IuW/g+eQhuWBpeW6tyIgT1IgSUtQWVRFPSLlv4PnkIblgaXlurciICBPUiBJS1NUPSLlv4PnkIblgaXlurciIE9SIElLRVQ9IuW/g+eQhuWBpeW6tyIgT1IgSUtTRT0i5b+D55CG5YGl5bq3Iik=&searchname=6aKY5ZCNL+WFs+mUruivjT0i5b+D55CG5YGl5bq3Ig==&nav=0&nav=0&showBack=true
+  心理健康
+https://www.ncpssd.cn/Literature/articlelist?sType=0&search=KElLVEU9Iua3seW6puWtpuS5oCIgT1IgSUtQWVRFPSLmt7HluqblrabkuaAiICBPUiBJS1NUPSLmt7HluqblrabkuaAiIE9SIElLRVQ9Iua3seW6puWtpuS5oCIgT1IgSUtTRT0i5rex5bqm5a2m5LmgIik=&searchname=6aKY5ZCNL+WFs+mUruivjT0i5rex5bqm5a2m5LmgIg==&nav=0&nav=0&showBack=true
+  深度学习
+https://www.ncpssd.cn/Literature/articlelist?sType=0&search=KElLVEU9IuaEj+ivhuW9ouaAgSIgT1IgSUtQWVRFPSLmhI/or4blvaLmgIEiICBPUiBJS1NUPSLmhI/or4blvaLmgIEiIE9SIElLRVQ9IuaEj+ivhuW9ouaAgSIgT1IgSUtTRT0i5oSP6K+G5b2i5oCBIik=&searchname=6aKY5ZCNL+WFs+mUruivjT0i5oSP6K+G5b2i5oCBIg==&nav=0&nav=0&showBack=true
+  意识形态
+https://www.ncpssd.cn/Literature/articlelist?sType=0&search=KElLVEU9IuWutuW6reaVmeiCsiIgT1IgSUtQWVRFPSLlrrbluq3mlZnogrIiICBPUiBJS1NUPSLlrrbluq3mlZnogrIiIE9SIElLRVQ9IuWutuW6reaVmeiCsiIgT1IgSUtTRT0i5a625bqt5pWZ6IKyIik=&searchname=6aKY5ZCNL+WFs+mUruivjT0i5a625bqt5pWZ6IKyIg==&nav=0&nav=0&showBack=true
+  家庭教育
+https://www.ncpssd.cn/Literature/articlelist?sType=0&search=KElLVEU9IuWfuuWxguayu+eQhiIgT1IgSUtQWVRFPSLln7rlsYLmsrvnkIYiICBPUiBJS1NUPSLln7rlsYLmsrvnkIYiIE9SIElLRVQ9IuWfuuWxguayu+eQhiIgT1IgSUtTRT0i5Z+65bGC5rK755CGIik=&searchname=6aKY5ZCNL+WFs+mUruivjT0i5Z+65bGC5rK755CGIg==&nav=0&nav=0&showBack=true
+  基层治理
+https://www.ncpssd.cn/Literature/articlelist?sType=0&search=KElLVEU9IuaAneaDs+aUv+ayu+aVmeiCsiIgT1IgSUtQWVRFPSLmgJ3mg7PmlL/msrvmlZnogrIiICBPUiBJS1NUPSLmgJ3mg7PmlL/msrvmlZnogrIiIE9SIElLRVQ9IuaAneaDs+aUv+ayu+aVmeiCsiIgT1IgSUtTRT0i5oCd5oOz5pS/5rK75pWZ6IKyIik=&searchname=6aKY5ZCNL+WFs+mUruivjT0i5oCd5oOz5pS/5rK75pWZ6IKyIg==&nav=0&nav=0&showBack=true
+  思想政治教育
+https://www.ncpssd.cn/Literature/articlelist?sType=0&search=KElLVEU9IuS4gOW4puS4gOi3ryIgT1IgSUtQWVRFPSLkuIDluKbkuIDot68iICBPUiBJS1NUPSLkuIDluKbkuIDot68iIE9SIElLRVQ9IuS4gOW4puS4gOi3ryIgT1IgSUtTRT0i5LiA5bim5LiA6LevIik=&searchname=6aKY5ZCNL+WFs+mUruivjT0i5LiA5bim5LiA6LevIg==&nav=0&nav=0&showBack=true
+  一带一路
+https://www.ncpssd.cn/Literature/articlelist?sType=0&search=KElLVEU9Iue6oualvOaipiIgT1IgSUtQWVRFPSLnuqLmpbzmoqYiICBPUiBJS1NUPSLnuqLmpbzmoqYiIE9SIElLRVQ9Iue6oualvOaipiIgT1IgSUtTRT0i57qi5qW85qKmIik=&searchname=6aKY5ZCNL+WFs+mUruivjT0i57qi5qW85qKmIg==&nav=0&nav=0&showBack=true
+  红楼梦
+https://www.ncpssd.cn/Literature/articlelist?sType=0&search=KElLVEU9IuS4reWbveW8j+eOsOS7o+WMliIgT1IgSUtQWVRFPSLkuK3lm73lvI/njrDku6PljJYiICBPUiBJS1NUPSLkuK3lm73lvI/njrDku6PljJYiIE9SIElLRVQ9IuS4reWbveW8j+eOsOS7o+WMliIgT1IgSUtTRT0i5Lit5Zu95byP546w5Luj5YyWIik=&searchname=6aKY5ZCNL+WFs+mUruivjT0i5Lit5Zu95byP546w5Luj5YyWIg==&nav=0&nav=0&showBack=true
+  中国式现代化
+https://www.ncpssd.cn/Literature/articlelist?sType=0&search=KElLVEU9IuS9juepuue7j+a1jiIgT1IgSUtQWVRFPSLkvY7nqbrnu4/mtY4iICBPUiBJS1NUPSLkvY7nqbrnu4/mtY4iIE9SIElLRVQ9IuS9juepuue7j+a1jiIgT1IgSUtTRT0i5L2O56m657uP5rWOIik=&searchname=6aKY5ZCNL+WFs+mUruivjT0i5L2O56m657uP5rWOIg==&nav=0&nav=0&showBack=true
+  低空经济
+https://www.ncpssd.cn/Literature/articlelist?sType=0&search=KElLVEU9IuaVsOWtl+e7j+a1jiIgT1IgSUtQWVRFPSLmlbDlrZfnu4/mtY4iICBPUiBJS1NUPSLmlbDlrZfnu4/mtY4iIE9SIElLRVQ9IuaVsOWtl+e7j+a1jiIgT1IgSUtTRT0i5pWw5a2X57uP5rWOIik=&searchname=6aKY5ZCNL+WFs+mUruivjT0i5pWw5a2X57uP5rWOIg==&nav=0&nav=0&showBack=true
+  数字经济
+https://www.ncpssd.cn/Literature/articlelist?sType=0&search=KElLVEU9IuS9nOmjjuW7uuiuviIgT1IgSUtQWVRFPSLkvZzpo47lu7rorr4iICBPUiBJS1NUPSLkvZzpo47lu7rorr4iIE9SIElLRVQ9IuS9nOmjjuW7uuiuviIgT1IgSUtTRT0i5L2c6aOO5bu66K6+Iik=&searchname=6aKY5ZCNL+WFs+mUruivjT0i5L2c6aOO5bu66K6+Ig==&nav=0&nav=0&showBack=true
+  作风建设
+https://www.ncpssd.cn/Literature/articlelist?sType=0&search=KElLVEU9IuaWsOi0qOeUn+S6p+WKmyIgT1IgSUtQWVRFPSLmlrDotKjnlJ/kuqflipsiICBPUiBJS1NUPSLmlrDotKjnlJ/kuqflipsiIE9SIElLRVQ9IuaWsOi0qOeUn+S6p+WKmyIgT1IgSUtTRT0i5paw6LSo55Sf5Lqn5YqbIik=&searchname=6aKY5ZCNL+WFs+mUruivjT0i5paw6LSo55Sf5Lqn5YqbIg==&nav=0&nav=0&showBack=true
+  新质生产力
+https://www.ncpssd.cn/Literature/articlelist?sType=0&search=KElLVEU9IuS6uuW3peaZuuiDvSIgT1IgSUtQWVRFPSLkurrlt6Xmmbrog70iICBPUiBJS1NUPSLkurrlt6Xmmbrog70iIE9SIElLRVQ9IuS6uuW3peaZuuiDvSIgT1IgSUtTRT0i5Lq65bel5pm66IO9Iik=&searchname=6aKY5ZCNL+WFs+mUruivjT0i5Lq65bel5pm66IO9Ig==&nav=0&nav=0&showBack=true
+  人工智能
+https://www.ncpssd.cn/topics/details?id=4&wfColumn=1&resourceType=203
+http://fz.people.com.cn/skygb/sk/index.php/Index/seach
+  国家社科基金项目...
+http://gjpc.nlc.cn/xlsworkbench/publish
+  全国古籍普查登记...
+https://projects.iq.harvard.edu/chinesecbdb
+  中国历代人物传记...
+https://pubscholar.cn/
+  PubScholar公益学术平台
+http://gooa.las.ac.cn/paperc/
+  GoOA
+http://read.nlc.cn/thematDataSearch/toGujiIndex
+  中华古籍资源库
+https://gj.library.sh.cn/index
+  中文古籍联合目录...
+https://www.wenxianxue.cn/
+  中国古典文献资源...
+https://www.crggcn.com/
+  国别区域与全球治...
+http://www.bass.org.cn/
+  北京市社会科学院
+http://www.hnass.cn/
+  湖南省社会科学院
+http://www.sass.cn/
+  四川省社会科学院
+https://www.ncpssd.cn/service/guide
+  使用指南
+https://www.ncpssd.cn/service/question
+  常见问题
+https://www.ncpssd.cn/aboutUs?mainTitle=中心简介
+  中心简介
+https://www.ncpssd.cn/aboutUs?mainTitle=联系我们
+  联系我们
+https://www.ncpssd.cn/aboutUs?mainTitle=版权声明
+  版权声明
+https://beian.miit.gov.cn/
+  京ICP备09037430号-3
+https://tongji.baidu.com/web5/welcome/login

@@ -1,0 +1,207 @@
+Diagnostic link report for SASTIND
+
+Start URL: https://www.sastind.gov.cn/
+Include regex: sastind\.gov\.cn/.+
+
+Candidate links: 39
+All links discovered: 65
+
+=== MATCHED CANDIDATES ===
+
+https://www.sastind.gov.cn/n10624520/c10717080/content.html
+  国家国防科工局党组理论学习中心组召开扩大会议 深入学习贯彻习...
+https://www.sastind.gov.cn/n10624520/c10712789/content.html
+  国家国防科工局党组召开全体党员干部大会 传达学习贯彻党的二...
+https://www.sastind.gov.cn/n10624520/c10708010/content.html
+  国家国防科工局召开2025年机关退休干部大会暨半年情况通报会
+https://www.sastind.gov.cn/n10624520/c10705260/content.html
+  国家国防科工局召开《习近平谈治国理政》第五卷学习部署会
+https://www.sastind.gov.cn/n10086200/n10086319/c10771164/content.html
+  创造经得起实践、人民、历史检验的实绩——习近平总...
+https://www.sastind.gov.cn/n10086200/n10086319/c10770980/content.html
+  习近平作出重要指示强调 巩固拓展树立和践行正确政...
+https://www.sastind.gov.cn/n10086200/n10086319/c10770933/content.html
+  李强主持召开国务院常务会议 听取新一代通信网建设...
+https://www.sastind.gov.cn/n10624520/c10712740/content.html
+  国家国防科工局党组召开第三轮巡视集中反馈会议
+https://www.sastind.gov.cn/n10086200/n10086319/c10770945/content.html
+  总书记的人民情怀 “营造风清气正的政治生态”
+https://www.sastind.gov.cn/n10086200/n10086319/c10771035/content.html
+  习近平致电祝贺阿拉姆吉尔就任孟加拉国总统
+https://www.sastind.gov.cn/n10086200/n10086319/c10769240/content.html
+  习近平致电祝贺希奇莱马当选连任赞比亚总统
+https://www.sastind.gov.cn/n10086200/n10086319/c10771022/content.html
+  李强会见约旦国王阿卜杜拉二世
+https://www.sastind.gov.cn/n10115275/n10119032/index.html
+  地方国防科技工业管理部门
+https://www.sastind.gov.cn/n10086200/n10682020/index.html
+  认证认可
+https://www.sastind.gov.cn/n10118180/index.html
+  RSS订阅
+https://www.sastind.gov.cn/n10113780/index.html
+  联系我们
+https://www.sastind.gov.cn/n10086167/n10086182/index.html
+  领导之窗
+https://www.sastind.gov.cn/n10086167/n10086216/index.html
+  通知公告
+https://www.sastind.gov.cn/n10086167/n10086221/index.html
+  政策法规
+https://www.sastind.gov.cn/n10086167/n10086187/index.html
+  政策解读
+https://www.sastind.gov.cn/history/n6195634/n6195706/n6195716/index.html
+  在线服务
+https://www.sastind.gov.cn/n10086177/n10086309/index.html
+  调查征集
+https://www.sastind.gov.cn/n10086177/n10086320/index.html
+  图文直播
+https://www.sastind.gov.cn/n10100084/n10100100/index.html
+  机关党建
+https://www.sastind.gov.cn/n10086200/n10086319/index.html
+  时政要闻
+https://www.sastind.gov.cn/n10086200/n10086344/index.html
+  工作动态
+https://www.sastind.gov.cn/n10086200/n10086331/index.html
+  军工科技
+https://www.sastind.gov.cn/n10086200/n10086336/index.html
+  在线刊物
+https://www.sastind.gov.cn/n10086200/n10086349/index.html
+  视频点播
+https://www.sastind.gov.cn/n10086200/n10086354/index.html
+  成果转化
+https://www.sastind.gov.cn/n10086200/n10086361/index.html
+  专题专栏
+https://www.sastind.gov.cn/n10086200/n10100131/index.html
+  媒体报道
+https://www.sastind.gov.cn/n10086205/n10086403/index.html
+  军工文化
+https://www.sastind.gov.cn/n10086205/n10086389/index.html
+  军工风采
+https://www.sastind.gov.cn/n10086205/n10086408/index.html
+  科普知识
+https://www.sastind.gov.cn/n10115275/n10119040/index.html
+  军工集团
+https://www.sastind.gov.cn/n10115275/n10119027/index.html
+  局属单位
+https://www.sastind.gov.cn/n10086177/n10086295/index.html
+  @国务院
+https://www.sastind.gov.cn/gdnps/pc/index.jsp
+  政府信息 公开目录
+
+=== ALL DISCOVERED LINKS ===
+
+https://www.sastind.gov.cn/n10113766/index.html
+  网站地图
+https://www.sastind.gov.cn/n10113780/index.html
+  联系我们
+https://www.sastind.gov.cn/n10118180/index.html
+  RSS订阅
+https://www.sastind.gov.cn/index.html
+https://www.sastind.gov.cn/
+  政务公开
+https://www.sastind.gov.cn/n10086167/n10086182/index.html
+  领导之窗
+https://www.sastind.gov.cn/n10086167/n10086216/index.html
+  通知公告
+https://www.sastind.gov.cn/n10086167/n10086221/index.html
+  政策法规
+https://www.sastind.gov.cn/n10086167/n10086187/index.html
+  政策解读
+https://www.sastind.gov.cn/gdnps/pc/index.jsp
+  政府信息 公开目录
+https://www.sastind.gov.cn/history/n6195634/n6195706/n6195716/index.html
+  在线服务
+https://www.gov.cn/hudong/
+  @国务院
+https://www.sastind.gov.cn/n10086177/n10086309/index.html
+  调查征集
+https://zfwzgl.www.gov.cn/exposure/jiucuo.html?site_code=bm63000003&url=https%3A%2F%2Fwww.sastind.gov.cn%2F
+  我为政府网 找错
+https://www.sastind.gov.cn/n10086177/n10086320/index.html
+  图文直播
+https://www.sastind.gov.cn/n10100084/n10100100/index.html
+  机关党建
+https://www.sastind.gov.cn/n10086200/n10086319/index.html
+  时政要闻
+https://www.sastind.gov.cn/n10086200/n10086344/index.html
+  工作动态
+https://www.sastind.gov.cn/n10086200/n10086331/index.html
+  军工科技
+https://www.sastind.gov.cn/n10086200/n10086336/index.html
+  在线刊物
+https://www.sastind.gov.cn/n10086200/n10086349/index.html
+  视频点播
+https://www.sastind.gov.cn/n10086200/n10682020/index.html
+  认证认可
+https://www.sastind.gov.cn/n10086200/n10086354/index.html
+  成果转化
+https://www.sastind.gov.cn/n10086200/n10086361/index.html
+  专题专栏
+https://www.sastind.gov.cn/n10086200/n10100131/index.html
+  媒体报道
+https://www.sastind.gov.cn/n10086205/n10086403/index.html
+  军工文化
+https://www.sastind.gov.cn/n10086205/n10086389/index.html
+  军工风采
+https://www.sastind.gov.cn/n10086205/n10086408/index.html
+  科普知识
+https://www.sastind.gov.cn/n10624520/c10717080/content.html
+  国家国防科工局党组理论学习中心组召开扩大会议 深入学习贯彻习...
+https://www.sastind.gov.cn/n10624520/c10712789/content.html
+  国家国防科工局党组召开全体党员干部大会 传达学习贯彻党的二...
+https://www.sastind.gov.cn/n10624520/c10712740/content.html
+  国家国防科工局党组召开第三轮巡视集中反馈会议
+https://www.sastind.gov.cn/n10624520/c10708010/content.html
+  国家国防科工局召开2025年机关退休干部大会暨半年情况通报会
+https://www.sastind.gov.cn/n10624520/c10705260/content.html
+  国家国防科工局召开《习近平谈治国理政》第五卷学习部署会
+https://www.sastind.gov.cn/n10086200/n10086319/c10771164/content.html
+  创造经得起实践、人民、历史检验的实绩——习近平总...
+https://www.sastind.gov.cn/n10086200/n10086319/c10771035/content.html
+  习近平致电祝贺阿拉姆吉尔就任孟加拉国总统
+https://www.sastind.gov.cn/n10086200/n10086319/c10771022/content.html
+  李强会见约旦国王阿卜杜拉二世
+https://www.sastind.gov.cn/n10086200/n10086319/c10770980/content.html
+  习近平作出重要指示强调 巩固拓展树立和践行正确政...
+https://www.sastind.gov.cn/n10086200/n10086319/c10770945/content.html
+  总书记的人民情怀 “营造风清气正的政治生态”
+https://www.sastind.gov.cn/n10086200/n10086319/c10770933/content.html
+  李强主持召开国务院常务会议 听取新一代通信网建设...
+https://www.sastind.gov.cn/n10086200/n10086319/c10769240/content.html
+  习近平致电祝贺希奇莱马当选连任赞比亚总统
+https://www.sastind.gov.cn/n10086200/n10086344/c10769122/content.html
+https://www.sastind.gov.cn/n10086200/n10086344/c10768722/content.html
+https://www.sastind.gov.cn/n10086200/n10086344/c10767342/content.html
+https://www.sastind.gov.cn/n10086200/n10086344/c10765520/content.html
+https://www.sastind.gov.cn/n10086167/n10086216/c10771180/content.html
+https://www.sastind.gov.cn/n10086200/n10086331/c10768976/content.html
+https://www.sastind.gov.cn/n10086205/n10086389/c10768287/content.html
+https://www.sastind.gov.cn/n10086167/n10086182/n10640116/index.html
+  单忠德
+https://www.sastind.gov.cn/n10086167/n10086182/n10094594/index.html
+  刘敬
+https://www.sastind.gov.cn/n10086167/n10086182/n10587645/index.html
+  乔跃山
+https://www.sastind.gov.cn/n10086167/n10086182/n10686345/index.html
+  刘建桥
+https://liuyan.www.gov.cn/2024wwzfgzbgtjy/bmdf.html?q=gjgfkgj
+https://www.sastind.gov.cn/n10086200/n10086361/n10723221/index.html
+https://www.sastind.gov.cn/n10086200/n10086361/n10696722/index.html
+https://www.sastind.gov.cn/n10086200/n10086336/n10086375/index.html
+https://www.sastind.gov.cn/n10086200/n10086336/n10086384/index.html
+http://www.gov.cn/
+  中国政府网
+http://www.miit.gov.cn
+  工业和信息化部
+http://www.xjjszh.org.cn/
+  国家先进技术转化应用公共服务平台
+https://www.sastind.gov.cn/n10115275/n10119032/index.html
+  地方国防科技工业管理部门
+https://www.sastind.gov.cn/n10115275/n10119040/index.html
+  军工集团
+https://www.sastind.gov.cn/n10115275/n10119027/index.html
+  局属单位
+https://bszs.conac.cn/sitename?method=show&id=07CE6EA0E3435BE1E053022819ACE072
+https://beian.miit.gov.cn/
+  京ICP备11007804号
+https://www.sastind.gov.cn/n10086177/n10086295/index.html
+  @国务院
