@@ -29,12 +29,16 @@
   },
   {
     "slug": "kremlin-president-en",
-    "title": "Kremlin President News",
-    "source_url": "https://en.kremlin.ru/events/president/news",
-    "start_url": "https://en.kremlin.ru/events/president/news",
-    "language": "en",
-    "include_regex": "/events/president/news/\\d+",
-    "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4|pdf)$"
+    "title": "Kremlin President News - Official RSS",
+    "source_url": "https://www.kremlin.ru/events/president/news",
+    "start_url": "http://www.kremlin.ru/feeds/news",
+    "fallback_urls": [
+      "https://www.kremlin.ru/feeds/news"
+    ],
+    "language": "ru",
+    "source_type": "rss",
+    "include_regex": ".*",
+    "exclude_regex": "$^"
   },
   {
     "slug": "mod-whitepapers-cn",
@@ -58,12 +62,19 @@
   },
   {
     "slug": "npc-defense-laws-cn",
-    "title": "National People's Congress Defense Laws",
-    "source_url": "https://www.npc.gov.cn/npc/c2/c186/c208/",
-    "start_url": "https://www.npc.gov.cn/npc/c2/c186/c208/",
+    "title": "National People's Congress Defense-Related Laws",
+    "source_url": "https://www.npc.gov.cn/npc/c2/c30834/",
+    "start_url": "https://www.npc.gov.cn/npc/c2/c30834/",
+    "fallback_urls": [
+      "http://www.npc.gov.cn/npc/c2/c30834/"
+    ],
     "language": "zh-CN",
-    "include_regex": "npc\\.gov\\.cn/.+",
-    "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4)$"
+    "source_type": "browser",
+    "browser_locale": "zh-CN",
+    "include_regex": "npc\\.gov\\.cn/(npc/)?c2/c30834/.+",
+    "include_text_regex": "国防|兵役|军事|军人|武装|海警|预备役|国防动员|军事设施|退役军人",
+    "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4|pdf)$",
+    "verify_ssl": false
   },
   {
     "slug": "sastind-cn",
@@ -80,7 +91,6 @@
     "source_url": "https://mid.ru/en/foreign_policy/news/",
     "start_url": "https://mid.ru/en/foreign_policy/news/",
     "language": "en",
-    "source_type": "browser",
     "include_regex": "mid\\.ru/en/.+",
     "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4|pdf)$"
   },
@@ -115,20 +125,36 @@
   {
     "slug": "norinco-cn",
     "title": "NORINCO Group",
-    "source_url": "https://www.norincogroup.com.cn/",
-    "start_url": "https://www.norincogroup.com.cn/",
+    "source_url": "http://www.norincogroup.com.cn/",
+    "start_url": "http://www.norincogroup.com.cn/",
+    "fallback_urls": [
+      "http://norincogroup.com.cn/",
+      "https://www.norincogroup.com.cn/",
+      "https://norincogroup.com.cn/"
+    ],
     "language": "zh-CN",
+    "source_type": "browser",
+    "browser_locale": "zh-CN",
     "include_regex": "norincogroup\\.com\\.cn/.+",
-    "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4|pdf)$"
+    "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4|pdf)$",
+    "verify_ssl": false
   },
   {
     "slug": "cssc-cn",
     "title": "China State Shipbuilding Corporation",
-    "source_url": "https://www.cssc.net.cn/",
-    "start_url": "https://www.cssc.net.cn/n5/n18/index.html",
+    "source_url": "https://www.cssc.net.cn/n5/n18/index.html",
+    "start_url": "http://www.cssc.net.cn/n5/n18/index.html",
+    "fallback_urls": [
+      "https://www.cssc.net.cn/n5/n18/index.html",
+      "http://cssc.net.cn/n5/n18/index.html",
+      "https://cssc.net.cn/n5/n18/index.html"
+    ],
     "language": "zh-CN",
-    "include_regex": "cssc\\.net\\.cn/n5/n18/.+",
-    "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4|pdf)$"
+    "source_type": "browser",
+    "browser_locale": "zh-CN",
+    "include_regex": "cssc\\.net\\.cn/n5/n18/c\\d+/content\\.html",
+    "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4|pdf)$",
+    "verify_ssl": false
   },
   {
     "slug": "spacechina-cn",
@@ -197,10 +223,12 @@
     "slug": "cnnvd-cn",
     "title": "China National Vulnerability Database CNNVD",
     "source_url": "https://www.cnnvd.org.cn/",
-    "start_url": "https://www.cnnvd.org.cn/",
+    "start_url": "https://www.cnnvd.org.cn/frontend/loophole",
+    "fallback_urls": [
+      "https://www.cnnvd.org.cn/"
+    ],
     "language": "zh-CN",
-    "source_type": "browser",
-    "include_regex": "cnnvd\\.org\\.cn/(news/show/id/\\d+|flaw/show/CNNVD-|home/loophole/CNNVD-).+",
-    "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4)$"
+    "source_type": "cnnvd",
+    "verify_ssl": true
   }
 ]
