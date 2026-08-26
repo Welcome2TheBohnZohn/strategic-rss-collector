@@ -66,7 +66,7 @@
     "slug": "sastind-cn",
     "title": "SASTIND",
     "source_url": "https://www.sastind.gov.cn/",
-    "start_url": "https://www.sastind.gov.cn/",
+    "start_url": "https://www.sastind.gov.cn/n10086200/n10086344/index.html",
     "language": "zh-CN",
     "include_regex": "sastind\\.gov\\.cn/.+",
     "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4|pdf)$"
@@ -77,7 +77,7 @@
     "source_url": "https://mid.ru/en/foreign_policy/news/",
     "start_url": "https://mid.ru/en/foreign_policy/news/",
     "language": "en",
-    "include_regex": "/en/foreign_policy/news/.+",
+    "include_regex": "mid\\.ru/en/.+",
     "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4|pdf)$"
   },
   {
@@ -86,17 +86,17 @@
     "source_url": "https://en.mfa.ir/",
     "start_url": "https://en.mfa.ir/",
     "language": "en",
-    "include_regex": "mfa\\.ir/.+",
+    "include_regex": "en\\.mfa\\.ir/portal/NewsView/\\d+",
     "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4|pdf)$"
   },
   {
     "slug": "irna-en",
     "title": "IRNA English",
     "source_url": "https://en.irna.ir/",
-    "start_url": "https://en.irna.ir/",
+    "start_url": "https://en.irna.ir/archive",
     "language": "en",
     "include_regex": "en\\.irna\\.ir/news/\\d+/",
-    "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4)$"
+    "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4|pdf)$"
   },
   {
     "slug": "avic-cn",
@@ -149,7 +149,7 @@
     "source_url": "https://www.81.cn/rmjz_203219/zggfb/index.html",
     "start_url": "https://www.81.cn/rmjz_203219/zggfb/index.html",
     "language": "zh-CN",
-    "include_regex": "81\\.cn/rmjz_203219/zggfb/.+",
+    "include_regex": "81\\.cn/(rmjz_203219|dy_208579)/.+",
     "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4|pdf)$"
   },
   {
@@ -194,7 +194,7 @@
     "source_url": "https://www.cnnvd.org.cn/",
     "start_url": "https://www.cnnvd.org.cn/",
     "language": "zh-CN",
-    "include_regex": "cnnvd\\.org\\.cn/.+",
+    "include_regex": "cnnvd\\.org\\.cn/(news/show/id/\\d+|flaw/show/CNNVD-|home/loophole/CNNVD-).+",
     "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4)$"
   }
 ]
