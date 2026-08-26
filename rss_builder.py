@@ -16,6 +16,10 @@ import requests
 import urllib3
 from bs4 import BeautifulSoup
 from dateutil import parser as dateparser
+from playwright.sync_api import (
+    sync_playwright,
+    TimeoutError as PlaywrightTimeoutError,
+)
 
 
 ROOT = Path(__file__).resolve().parent
@@ -29,6 +33,7 @@ CONTENT_NS = "http://purl.org/rss/1.0/modules/content/"
 ET.register_namespace("content", CONTENT_NS)
 
 REQUEST_TIMEOUT = 10
+BROWSER_TIMEOUT_MS = 20000
 MAX_ITEMS_PER_SOURCE = 12
 MAX_CANDIDATES = 50
 
@@ -72,21 +77,52 @@ def load_sources():
         return json.load(f)
 
 
+def normalize_text(text):
+    if not text:
+        return ""
+
+    text = re.sub(r"\r\n?", "\n", str(text))
+    text = re.sub(r"[ \t]+", " ", text)
+    text = re.sub(r"\n{3,}", "\n\n", text)
+
+    return text.strip()
+
+
+def strip_html(value):
+    if not value:
+        return ""
+
+    soup = BeautifulSoup(str(value), "lxml")
+
+    return normalize_text(
+        soup.get_text("\n", strip=True)
+    )
+
+
 def fetch(url, retries=1, verify_ssl=True):
+
     last_error = ""
 
     for attempt in range(retries + 1):
+
         try:
+
             headers = {
-                "User-Agent": USER_AGENTS[attempt % len(USER_AGENTS)],
+                "User-Agent": USER_AGENTS[
+                    attempt % len(USER_AGENTS)
+                ],
                 "Accept": (
-                    "text/html,application/xhtml+xml,"
-                    "application/rss+xml,application/atom+xml,"
-                    "application/xml;q=0.9,*/*;q=0.8"
+                    "text/html,"
+                    "application/xhtml+xml,"
+                    "application/rss+xml,"
+                    "application/atom+xml,"
+                    "application/xml;q=0.9,"
+                    "*/*;q=0.8"
                 ),
                 "Accept-Language": (
                     "en-US,en;q=0.9,"
-                    "zh-CN;q=0.8,zh;q=0.7"
+                    "zh-CN;q=0.8,"
+                    "zh;q=0.7"
                 ),
                 "Cache-Control": "no-cache",
                 "Pragma": "no-cache",
@@ -94,6 +130,7 @@ def fetch(url, retries=1, verify_ssl=True):
             }
 
             if not verify_ssl:
+
                 urllib3.disable_warnings(
                     urllib3.exceptions.InsecureRequestWarning
                 )
@@ -110,7 +147,8 @@ def fetch(url, retries=1, verify_ssl=True):
 
             if (
                 not response.encoding
-                or response.encoding.lower() == "iso-8859-1"
+                or response.encoding.lower()
+                == "iso-8859-1"
             ):
                 response.encoding = (
                     response.apparent_encoding
@@ -123,14 +161,11 @@ def fetch(url, retries=1, verify_ssl=True):
                 "status": response.status_code,
                 "text": response.text,
                 "content": response.content,
-                "content_type": response.headers.get(
-                    "content-type",
-                    "",
-                ),
                 "error": "",
             }
 
         except Exception as exc:
+
             last_error = (
                 f"{type(exc).__name__}: {exc}"
             )
@@ -144,46 +179,14 @@ def fetch(url, retries=1, verify_ssl=True):
         "status": None,
         "text": "",
         "content": b"",
-        "content_type": "",
         "error": last_error,
     }
 
 
-def clean_text(text):
-    if not text:
-        return ""
-
-    text = BeautifulSoup(
-        str(text),
-        "lxml",
-    ).get_text(
-        "\n",
-        strip=True,
-    )
-
-    text = re.sub(
-        r"\r\n?",
-        "\n",
-        text,
-    )
-
-    text = re.sub(
-        r"[ \t]+",
-        " ",
-        text,
-    )
-
-    text = re.sub(
-        r"\n{3,}",
-        "\n\n",
-        text,
-    )
-
-    return text.strip()
-
-
 def canonical_url(base_url, href):
+
     try:
+
         url = urljoin(
             base_url,
             href,
@@ -202,21 +205,25 @@ def canonical_url(base_url, href):
         ).geturl()
 
     except Exception:
+
         return ""
 
 
 def normalized_host(url):
-    host = (
+
+    return (
         urlparse(url).hostname
         or ""
-    ).lower()
-
-    return host.removeprefix(
+    ).lower().removeprefix(
         "www."
     )
 
 
-def same_domain(source_url, candidate_url):
+def same_domain(
+    source_url,
+    candidate_url,
+):
+
     source_host = normalized_host(
         source_url
     )
@@ -240,46 +247,73 @@ def collect_all_links(
     page_html,
     final_url,
 ):
+
     soup = BeautifulSoup(
         page_html,
         "lxml",
     )
 
-    links = []
-    seen = set()
+    found = {}
 
     for link in soup.find_all(
         "a",
         href=True,
     ):
+
         url = canonical_url(
             final_url,
-            link.get(
-                "href",
-                "",
-            ),
+            link.get("href", ""),
         )
 
-        if not url or url in seen:
+        if not url:
             continue
 
-        seen.add(url)
-
-        text = clean_text(
+        text = normalize_text(
             link.get_text(
                 " ",
                 strip=True,
             )
         )
 
-        links.append(
-            {
-                "url": url,
-                "text": text,
-            }
+        if (
+            url not in found
+            or (
+                not found[url]
+                and text
+            )
+        ):
+            found[url] = text
+
+    quoted_pattern = re.compile(
+        r"[\"']"
+        r"((?:https?://[^\"'<> ]+"
+        r"|/[^\"'<> ]+))"
+        r"[\"']",
+        re.IGNORECASE,
+    )
+
+    for match in quoted_pattern.finditer(
+        page_html
+    ):
+
+        url = canonical_url(
+            final_url,
+            match.group(1),
         )
 
-    return links
+        if (
+            url
+            and url not in found
+        ):
+            found[url] = ""
+
+    return [
+        {
+            "url": url,
+            "text": text,
+        }
+        for url, text in found.items()
+    ]
 
 
 def find_candidate_links(
@@ -287,6 +321,7 @@ def find_candidate_links(
     page_html,
     final_url,
 ):
+
     all_links = collect_all_links(
         page_html,
         final_url,
@@ -309,10 +344,17 @@ def find_candidate_links(
     )
 
     candidates = []
+    seen = set()
 
     for item in all_links:
+
         href = item["url"]
         anchor_text = item["text"]
+
+        if href in seen:
+            continue
+
+        seen.add(href)
 
         if not same_domain(
             source["source_url"],
@@ -331,7 +373,14 @@ def find_candidate_links(
             continue
 
         if len(anchor_text) < 4:
-            continue
+
+            anchor_text = (
+                urlparse(href)
+                .path
+                .rstrip("/")
+                .split("/")[-1]
+                or "Article"
+            )
 
         if (
             anchor_text.lower()
@@ -366,6 +415,7 @@ def find_candidate_links(
                 "press",
                 "newsview",
                 "show",
+                "flaw",
             )
         ):
             score += 2
@@ -379,10 +429,12 @@ def find_candidate_links(
         )
 
     candidates.sort(
-        key=lambda x: (
-            -x["score"],
+        key=lambda item: (
+            -item["score"],
             -len(
-                x["anchor_title"]
+                item[
+                    "anchor_title"
+                ]
             ),
         )
     )
@@ -399,6 +451,7 @@ def extract_title(
     soup,
     fallback="Untitled",
 ):
+
     selectors = [
         "h1",
         ".article-title",
@@ -413,6 +466,7 @@ def extract_title(
     ]
 
     for selector in selectors:
+
         node = soup.select_one(
             selector
         )
@@ -420,7 +474,7 @@ def extract_title(
         if not node:
             continue
 
-        text = clean_text(
+        text = normalize_text(
             node.get_text(
                 " ",
                 strip=True,
@@ -431,7 +485,8 @@ def extract_title(
             return text
 
     if soup.title:
-        text = clean_text(
+
+        text = normalize_text(
             soup.title.get_text(
                 " ",
                 strip=True,
@@ -445,14 +500,11 @@ def extract_title(
 
 
 def try_parse_date(value):
+
     if not value:
         return None
 
-    value = re.sub(
-        r"\s+",
-        " ",
-        str(value),
-    ).strip()
+    value = normalize_text(value)
 
     match = re.search(
         r"(20\d{2})年\s*"
@@ -464,45 +516,32 @@ def try_parse_date(value):
     )
 
     if match:
+
         groups = match.groups()
 
         try:
-            year = int(
-                groups[0]
-            )
-
-            month = int(
-                groups[1]
-            )
-
-            day = int(
-                groups[2]
-            )
-
-            hour = (
-                int(groups[3])
-                if groups[3]
-                else 0
-            )
-
-            minute = (
-                int(groups[4])
-                if groups[4]
-                else 0
-            )
 
             return datetime(
-                year,
-                month,
-                day,
-                hour,
-                minute,
+                int(groups[0]),
+                int(groups[1]),
+                int(groups[2]),
+                (
+                    int(groups[3])
+                    if groups[3]
+                    else 0
+                ),
+                (
+                    int(groups[4])
+                    if groups[4]
+                    else 0
+                ),
             )
 
         except Exception:
             pass
 
     try:
+
         dt = dateparser.parse(
             value,
             fuzzy=True,
@@ -523,7 +562,9 @@ def try_parse_date(value):
 
 
 def extract_date_from_url(url):
+
     try:
+
         parsed = urlparse(url)
 
         query = parse_qs(
@@ -536,20 +577,18 @@ def extract_date_from_url(url):
             "pubDate",
             "publishDate",
         ):
-            values = query.get(
+
+            for value in query.get(
                 key,
                 [],
-            )
+            ):
 
-            for value in values:
-                parsed_date = (
-                    try_parse_date(
-                        value
-                    )
+                dt = try_parse_date(
+                    value
                 )
 
-                if parsed_date:
-                    return parsed_date
+                if dt:
+                    return dt
 
         match = re.search(
             r"(20\d{2})[-_/]"
@@ -559,16 +598,11 @@ def extract_date_from_url(url):
         )
 
         if match:
+
             return datetime(
-                int(
-                    match.group(1)
-                ),
-                int(
-                    match.group(2)
-                ),
-                int(
-                    match.group(3)
-                ),
+                int(match.group(1)),
+                int(match.group(2)),
+                int(match.group(3)),
             )
 
     except Exception:
@@ -581,6 +615,7 @@ def extract_date(
     soup,
     page_text,
 ):
+
     meta_candidates = [
         (
             "property",
@@ -621,6 +656,7 @@ def extract_date(
     ]
 
     for attribute, value in meta_candidates:
+
         node = soup.find(
             "meta",
             attrs={
@@ -634,39 +670,35 @@ def extract_date(
                 "content"
             )
         ):
-            parsed = (
-                try_parse_date(
-                    node.get(
-                        "content"
-                    )
+
+            dt = try_parse_date(
+                node.get(
+                    "content"
                 )
             )
 
-            if parsed:
-                return parsed
+            if dt:
+                return dt
 
-    for time_node in soup.find_all(
+    for node in soup.find_all(
         "time"
     ):
-        candidate = (
-            time_node.get(
+
+        dt = try_parse_date(
+            node.get(
                 "datetime"
             )
-            or time_node.get(
+            or node.get(
                 "content"
             )
-            or time_node.get_text(
+            or node.get_text(
                 " ",
                 strip=True,
             )
         )
 
-        parsed = try_parse_date(
-            candidate
-        )
-
-        if parsed:
-            return parsed
+        if dt:
+            return dt
 
     selectors = [
         ".date",
@@ -689,24 +721,20 @@ def extract_date(
     ]
 
     for selector in selectors:
+
         for node in soup.select(
             selector
         ):
-            candidate = clean_text(
+
+            dt = try_parse_date(
                 node.get_text(
                     " ",
                     strip=True,
                 )
             )
 
-            parsed = (
-                try_parse_date(
-                    candidate
-                )
-            )
-
-            if parsed:
-                return parsed
+            if dt:
+                return dt
 
     sample = page_text[
         :16000
@@ -722,9 +750,9 @@ def extract_date(
             r"[:：](\d{1,2}))?"
         ),
         (
-            r"(20\d{2})年"
-            r"\s*(\d{1,2})月"
-            r"\s*(\d{1,2})日"
+            r"(20\d{2})年\s*"
+            r"(\d{1,2})月\s*"
+            r"(\d{1,2})日"
             r"(?:\s*"
             r"(\d{1,2})"
             r"[:：](\d{1,2}))?"
@@ -732,6 +760,7 @@ def extract_date(
     ]
 
     for pattern in patterns:
+
         match = re.search(
             pattern,
             sample,
@@ -743,51 +772,37 @@ def extract_date(
         groups = match.groups()
 
         try:
-            year = int(
-                groups[0]
-            )
-
-            month = int(
-                groups[1]
-            )
-
-            day = int(
-                groups[2]
-            )
-
-            hour = (
-                int(groups[3])
-                if (
-                    len(groups) > 3
-                    and groups[3]
-                )
-                else 0
-            )
-
-            minute = (
-                int(groups[4])
-                if (
-                    len(groups) > 4
-                    and groups[4]
-                )
-                else 0
-            )
 
             return datetime(
-                year,
-                month,
-                day,
-                hour,
-                minute,
+                int(groups[0]),
+                int(groups[1]),
+                int(groups[2]),
+                (
+                    int(groups[3])
+                    if (
+                        len(groups) > 3
+                        and groups[3]
+                    )
+                    else 0
+                ),
+                (
+                    int(groups[4])
+                    if (
+                        len(groups) > 4
+                        and groups[4]
+                    )
+                    else 0
+                ),
             )
 
         except Exception:
-            continue
+            pass
 
     return None
 
 
 def extract_article_text(soup):
+
     for tag in soup(
         [
             "script",
@@ -831,10 +846,12 @@ def extract_article_text(soup):
     candidates = []
 
     for selector in selectors:
+
         for node in soup.select(
             selector
         ):
-            text = clean_text(
+
+            text = normalize_text(
                 node.get_text(
                     "\n",
                     strip=True,
@@ -842,11 +859,13 @@ def extract_article_text(soup):
             )
 
             if len(text) >= 200:
+
                 candidates.append(
                     text
                 )
 
     if candidates:
+
         return max(
             candidates,
             key=len,
@@ -857,7 +876,8 @@ def extract_article_text(soup):
     for paragraph in soup.find_all(
         "p"
     ):
-        text = clean_text(
+
+        text = normalize_text(
             paragraph.get_text(
                 " ",
                 strip=True,
@@ -865,30 +885,29 @@ def extract_article_text(soup):
         )
 
         if len(text) >= 30:
+
             paragraphs.append(
                 text
             )
 
     if paragraphs:
+
         text = "\n\n".join(
             paragraphs
         )
 
         if len(text) >= 200:
+
             return text[
                 :50000
             ]
 
-    text = clean_text(
+    return normalize_text(
         soup.get_text(
             "\n",
             strip=True,
         )
-    )
-
-    return text[
-        :50000
-    ]
+    )[:50000]
 
 
 def extract_article(
@@ -896,6 +915,7 @@ def extract_article(
     fallback_title,
     article_url="",
 ):
+
     soup = BeautifulSoup(
         page_html,
         "lxml",
@@ -906,7 +926,7 @@ def extract_article(
         fallback_title,
     )
 
-    visible_text = clean_text(
+    visible_text = normalize_text(
         soup.get_text(
             "\n",
             strip=True,
@@ -922,21 +942,18 @@ def extract_article(
         not published
         and article_url
     ):
+
         published = (
             extract_date_from_url(
                 article_url
             )
         )
 
-    article_text = (
-        extract_article_text(
-            soup
-        )
-    )
-
     return {
         "title": title,
-        "text": article_text,
+        "text": extract_article_text(
+            soup
+        ),
         "published": published,
     }
 
@@ -945,6 +962,7 @@ def safe_filename(
     title,
     url,
 ):
+
     title = re.sub(
         r'[\\/:*?"<>|]+',
         "_",
@@ -960,23 +978,21 @@ def safe_filename(
     )
 
     if not title:
+
         title = hashlib.sha1(
             url.encode(
                 "utf-8"
             )
-        ).hexdigest()[
-            :12
-        ]
+        ).hexdigest()[:12]
 
-    return title[
-        :120
-    ]
+    return title[:120]
 
 
 def save_article(
     source_slug,
     article,
 ):
+
     directory = (
         ARTICLES_DIR
         / source_slug
@@ -987,46 +1003,36 @@ def save_article(
         exist_ok=True,
     )
 
-    filename = (
-        safe_filename(
-            article["title"],
-            article["url"],
-        )
-        + ".md"
-    )
-
     path = (
         directory
-        / filename
+        / (
+            safe_filename(
+                article["title"],
+                article["url"],
+            )
+            + ".md"
+        )
     )
 
-    if article[
-        "published"
-    ]:
-        published_text = (
-            article[
-                "published"
-            ].strftime(
-                "%Y-%m-%d %H:%M:%S"
-            )
+    published_text = (
+        article[
+            "published"
+        ].strftime(
+            "%Y-%m-%d %H:%M:%S"
         )
+        if article[
+            "published"
+        ]
+        else "Unknown"
+    )
 
-    else:
-        published_text = (
-            "Unknown"
-        )
-
-    contents = (
+    path.write_text(
         f"# {article['title']}\n\n"
         f"Published: "
         f"{published_text}\n\n"
         f"Source: "
         f"{article['url']}\n\n"
-        f"{article['text']}\n"
-    )
-
-    path.write_text(
-        contents,
+        f"{article['text']}\n",
         encoding="utf-8",
     )
 
@@ -1036,6 +1042,7 @@ def save_diagnostics(
     all_links,
     candidates,
 ):
+
     DIAGNOSTICS_DIR.mkdir(
         parents=True,
         exist_ok=True,
@@ -1093,6 +1100,7 @@ def save_diagnostics(
     ]
 
     for item in candidates:
+
         lines.append(
             item["url"]
         )
@@ -1116,11 +1124,13 @@ def save_diagnostics(
     )
 
     for item in all_links:
+
         lines.append(
             item["url"]
         )
 
         if item["text"]:
+
             lines.append(
                 "  "
                 + item["text"]
@@ -1139,6 +1149,7 @@ def save_raw_response(
     text,
     suffix="raw.html",
 ):
+
     DIAGNOSTICS_DIR.mkdir(
         parents=True,
         exist_ok=True,
@@ -1154,18 +1165,18 @@ def save_raw_response(
     )
 
     path.write_text(
-        text[
-            :100000
-        ],
+        text[:150000],
         encoding="utf-8",
     )
 
 
 def normalize_datetime(dt):
+
     if not dt:
         return None
 
     if dt.tzinfo is None:
+
         dt = dt.replace(
             tzinfo=timezone.utc
         )
@@ -1179,6 +1190,7 @@ def build_rss(
     source,
     articles,
 ):
+
     rss = ET.Element(
         "rss",
         {
@@ -1231,6 +1243,7 @@ def build_rss(
     )
 
     for article in articles:
+
         item = ET.SubElement(
             channel,
             "item",
@@ -1272,6 +1285,7 @@ def build_rss(
         )
 
         if published:
+
             ET.SubElement(
                 item,
                 "pubDate",
@@ -1286,9 +1300,7 @@ def build_rss(
             "description",
         ).text = article[
             "text"
-        ][
-            :1500
-        ]
+        ][:1500]
 
         content = ET.SubElement(
             item,
@@ -1308,8 +1320,7 @@ def build_rss(
                     "url"
                 ]
             )
-            + "</p>"
-            + "<pre>"
+            + "</p><pre>"
             + html.escape(
                 article[
                     "text"
@@ -1325,24 +1336,48 @@ def build_rss(
     )
 
 
-def feed_entry_datetime(
-    entry,
+def write_feed_file(
+    source,
+    articles,
 ):
+
+    FEEDS_DIR.mkdir(
+        parents=True,
+        exist_ok=True,
+    )
+
+    (
+        FEEDS_DIR
+        / (
+            source["slug"]
+            + ".xml"
+        )
+    ).write_bytes(
+        build_rss(
+            source,
+            articles,
+        )
+    )
+
+
+def feed_entry_datetime(entry):
+
     for key in (
         "published_parsed",
         "updated_parsed",
         "created_parsed",
     ):
+
         value = entry.get(
             key
         )
 
         if value:
+
             try:
+
                 return datetime(
-                    *value[
-                        :6
-                    ],
+                    *value[:6],
                     tzinfo=timezone.utc,
                 )
 
@@ -1354,53 +1389,49 @@ def feed_entry_datetime(
         "updated",
         "created",
     ):
-        parsed = (
-            try_parse_date(
-                entry.get(
-                    key
-                )
+
+        dt = try_parse_date(
+            entry.get(
+                key
             )
         )
 
-        if parsed:
-            return parsed
+        if dt:
+            return dt
 
     return None
 
 
-def feed_entry_text(
-    entry,
-):
+def feed_entry_text(entry):
+
     contents = entry.get(
         "content",
         [],
     )
 
     if contents:
-        pieces = []
 
-        for content_item in contents:
-            value = (
-                content_item.get(
+        pieces = [
+            strip_html(
+                item.get(
                     "value",
                     "",
                 )
             )
-
-            if value:
-                pieces.append(
-                    clean_text(
-                        value
-                    )
-                )
+            for item in contents
+            if item.get(
+                "value"
+            )
+        ]
 
         text = "\n\n".join(
-            part
-            for part in pieces
-            if part
+            piece
+            for piece in pieces
+            if piece
         )
 
         if text:
+
             return text[
                 :50000
             ]
@@ -1409,16 +1440,17 @@ def feed_entry_text(
         "summary",
         "description",
     ):
-        value = entry.get(
-            key
-        )
 
-        if value:
-            text = clean_text(
-                value
+        if entry.get(key):
+
+            text = strip_html(
+                entry.get(
+                    key
+                )
             )
 
             if text:
+
                 return text[
                     :50000
                 ]
@@ -1426,10 +1458,85 @@ def feed_entry_text(
     return ""
 
 
-def parse_rss_source(
+def base_status(
     source,
-    response,
+    verify_ssl,
 ):
+
+    return {
+        "slug": source["slug"],
+        "title": source["title"],
+        "start_url": source[
+            "start_url"
+        ],
+        "source_type": source.get(
+            "source_type",
+            "html",
+        ),
+        "http_status": None,
+        "candidate_links": 0,
+        "all_links": 0,
+        "attempted": 0,
+        "articles_with_text": 0,
+        "articles_with_date": 0,
+        "feed_items": 0,
+        "ssl_verified": verify_ssl,
+        "error": "",
+    }
+
+
+def run_rss_source(source):
+
+    print(
+        "\n==> "
+        + source["slug"]
+        + " [RSS]: "
+        + source["start_url"],
+        flush=True,
+    )
+
+    verify_ssl = source.get(
+        "verify_ssl",
+        True,
+    )
+
+    status = base_status(
+        source,
+        verify_ssl,
+    )
+
+    response = fetch(
+        source["start_url"],
+        retries=1,
+        verify_ssl=verify_ssl,
+    )
+
+    status[
+        "http_status"
+    ] = response[
+        "status"
+    ]
+
+    if not response[
+        "ok"
+    ]:
+
+        status[
+            "error"
+        ] = response[
+            "error"
+        ]
+
+        print(
+            "    FAILED: "
+            + status[
+                "error"
+            ],
+            flush=True,
+        )
+
+        return status
+
     parsed = feedparser.parse(
         response[
             "content"
@@ -1441,15 +1548,16 @@ def parse_rss_source(
     for entry in parsed.entries[
         :MAX_ITEMS_PER_SOURCE
     ]:
-        title = clean_text(
-            entry.get(
-                "title",
-                "Untitled",
-            )
-        )
 
-        if not title:
-            title = "Untitled"
+        title = (
+            strip_html(
+                entry.get(
+                    "title",
+                    "",
+                )
+            )
+            or "Untitled"
+        )
 
         url = (
             entry.get(
@@ -1471,14 +1579,10 @@ def parse_rss_source(
             feed_entry_datetime(
                 entry
             )
-        )
-
-        if not published:
-            published = (
-                extract_date_from_url(
-                    url
-                )
+            or extract_date_from_url(
+                url
             )
+        )
 
         article = {
             "title": title,
@@ -1497,107 +1601,6 @@ def parse_rss_source(
         articles.append(
             article
         )
-
-    return (
-        articles,
-        parsed,
-    )
-
-
-def base_status(
-    source,
-    verify_ssl,
-):
-    return {
-        "slug": source[
-            "slug"
-        ],
-        "title": source[
-            "title"
-        ],
-        "start_url": source[
-            "start_url"
-        ],
-        "source_type": source.get(
-            "source_type",
-            "html",
-        ),
-        "http_status": None,
-        "candidate_links": 0,
-        "all_links": 0,
-        "attempted": 0,
-        "articles_with_text": 0,
-        "articles_with_date": 0,
-        "feed_items": 0,
-        "ssl_verified": verify_ssl,
-        "error": "",
-    }
-
-
-def run_rss_source(
-    source,
-):
-    print(
-        "\n==> "
-        + source["slug"]
-        + " [RSS]: "
-        + source[
-            "start_url"
-        ],
-        flush=True,
-    )
-
-    verify_ssl = (
-        source.get(
-            "verify_ssl",
-            True,
-        )
-    )
-
-    status = base_status(
-        source,
-        verify_ssl,
-    )
-
-    response = fetch(
-        source[
-            "start_url"
-        ],
-        retries=1,
-        verify_ssl=verify_ssl,
-    )
-
-    status[
-        "http_status"
-    ] = response[
-        "status"
-    ]
-
-    if not response[
-        "ok"
-    ]:
-        status[
-            "error"
-        ] = response[
-            "error"
-        ]
-
-        print(
-            "    FAILED: "
-            + status[
-                "error"
-            ],
-            flush=True,
-        )
-
-        return status
-
-    articles, parsed = (
-        parse_rss_source(
-            source,
-            response,
-        )
-    )
 
     status[
         "attempted"
@@ -1632,6 +1635,7 @@ def run_rss_source(
     )
 
     if not articles:
+
         save_raw_response(
             source,
             response[
@@ -1640,69 +1644,21 @@ def run_rss_source(
             "rss-response.txt",
         )
 
-        if getattr(
-            parsed,
-            "bozo",
-            False,
-        ):
-            status[
-                "error"
-            ] = (
-                "RSS parse warning: "
-                + str(
-                    getattr(
-                        parsed,
-                        "bozo_exception",
-                        "unknown",
-                    )
-                )
-            )
-
-    FEEDS_DIR.mkdir(
-        parents=True,
-        exist_ok=True,
-    )
-
-    feed_path = (
-        FEEDS_DIR
-        / (
-            source[
-                "slug"
-            ]
-            + ".xml"
-        )
-    )
-
-    feed_path.write_bytes(
-        build_rss(
-            source,
-            articles,
-        )
-    )
-
-    print(
-        "    "
-        + f"HTTP={status['http_status']} "
-        + f"feed_entries={len(parsed.entries)} "
-        + f"text={status['articles_with_text']} "
-        + f"dated={status['articles_with_date']} "
-        + f"items={status['feed_items']}",
-        flush=True,
+    write_feed_file(
+        source,
+        articles,
     )
 
     return status
 
 
-def run_html_source(
-    source,
-):
+def run_html_source(source):
+
     print(
         "\n==> "
         + source["slug"]
         + " [HTML]: "
-        + source[
-            "start_url"
-        ],
+        + source["start_url"],
         flush=True,
     )
 
@@ -1717,9 +1673,7 @@ def run_html_source(
     )
 
     listing = fetch(
-        source[
-            "start_url"
-        ],
+        source["start_url"],
         retries=1,
         verify_ssl=verify_ssl,
     )
@@ -1733,19 +1687,12 @@ def run_html_source(
     if not listing[
         "ok"
     ]:
+
         status[
             "error"
         ] = listing[
             "error"
         ]
-
-        print(
-            "    FAILED: "
-            + status[
-                "error"
-            ],
-            flush=True,
-        )
 
         return status
 
@@ -1761,17 +1708,6 @@ def run_html_source(
         )
     )
 
-    if len(
-        all_links
-    ) == 0:
-        save_raw_response(
-            source,
-            listing[
-                "text"
-            ],
-            "raw.html",
-        )
-
     status[
         "candidate_links"
     ] = len(
@@ -1784,6 +1720,16 @@ def run_html_source(
         all_links
     )
 
+    if not all_links:
+
+        save_raw_response(
+            source,
+            listing[
+                "text"
+            ],
+            "raw.html",
+        )
+
     save_diagnostics(
         source,
         all_links,
@@ -1794,6 +1740,7 @@ def run_html_source(
     seen_urls = set()
 
     for candidate in candidates:
+
         if (
             len(articles)
             >= MAX_ITEMS_PER_SOURCE
@@ -1858,6 +1805,7 @@ def run_html_source(
         if article[
             "published"
         ]:
+
             status[
                 "articles_with_date"
             ] += 1
@@ -1873,27 +1821,322 @@ def run_html_source(
             article
         )
 
-    FEEDS_DIR.mkdir(
-        parents=True,
-        exist_ok=True,
+    status[
+        "feed_items"
+    ] = len(
+        articles
     )
 
-    feed_path = (
-        FEEDS_DIR
-        / (
-            source[
-                "slug"
-            ]
-            + ".xml"
-        )
+    write_feed_file(
+        source,
+        articles,
     )
 
-    feed_path.write_bytes(
-        build_rss(
-            source,
-            articles,
-        )
+    return status
+
+
+def wait_for_browser_page(page):
+
+    page.wait_for_timeout(
+        5000
     )
+
+    try:
+
+        page.wait_for_load_state(
+            "networkidle",
+            timeout=5000,
+        )
+
+    except PlaywrightTimeoutError:
+        pass
+
+    content = page.content()
+
+    challenge_markers = (
+        (
+            "Please enable JavaScript "
+            "to view the page content"
+        ),
+        "/TSPD/",
+        (
+            "Transferring "
+            "to the website"
+        ),
+        "__arcsjs",
+    )
+
+    if any(
+        marker in content
+        for marker in challenge_markers
+    ):
+
+        page.wait_for_timeout(
+            8000
+        )
+
+        try:
+
+            page.wait_for_load_state(
+                "networkidle",
+                timeout=5000,
+            )
+
+        except PlaywrightTimeoutError:
+            pass
+
+    return page.content()
+
+
+def run_browser_source(source):
+
+    print(
+        "\n==> "
+        + source["slug"]
+        + " [BROWSER]: "
+        + source["start_url"],
+        flush=True,
+    )
+
+    verify_ssl = source.get(
+        "verify_ssl",
+        True,
+    )
+
+    status = base_status(
+        source,
+        verify_ssl,
+    )
+
+    articles = []
+
+    try:
+
+        with sync_playwright() as playwright:
+
+            browser = (
+                playwright.chromium.launch(
+                    headless=True,
+                    args=[
+                        "--no-sandbox",
+                        (
+                            "--disable-"
+                            "dev-shm-usage"
+                        ),
+                    ],
+                )
+            )
+
+            context = (
+                browser.new_context(
+                    user_agent=(
+                        USER_AGENTS[0]
+                    ),
+                    locale="en-US",
+                    viewport={
+                        "width": 1440,
+                        "height": 1000,
+                    },
+                    ignore_https_errors=(
+                        not verify_ssl
+                    ),
+                )
+            )
+
+            page = context.new_page()
+
+            page.set_default_timeout(
+                BROWSER_TIMEOUT_MS
+            )
+
+            response = page.goto(
+                source[
+                    "start_url"
+                ],
+                wait_until=(
+                    "domcontentloaded"
+                ),
+                timeout=(
+                    BROWSER_TIMEOUT_MS
+                ),
+            )
+
+            listing_html = (
+                wait_for_browser_page(
+                    page
+                )
+            )
+
+            final_url = page.url
+
+            status[
+                "http_status"
+            ] = (
+                response.status
+                if response
+                else 200
+            )
+
+            candidates, all_links = (
+                find_candidate_links(
+                    source,
+                    listing_html,
+                    final_url,
+                )
+            )
+
+            status[
+                "candidate_links"
+            ] = len(
+                candidates
+            )
+
+            status[
+                "all_links"
+            ] = len(
+                all_links
+            )
+
+            save_diagnostics(
+                source,
+                all_links,
+                candidates,
+            )
+
+            if not candidates:
+
+                save_raw_response(
+                    source,
+                    listing_html,
+                    (
+                        "browser-"
+                        "rendered.html"
+                    ),
+                )
+
+            seen_urls = set()
+
+            for candidate in candidates:
+
+                if (
+                    len(articles)
+                    >= MAX_ITEMS_PER_SOURCE
+                ):
+                    break
+
+                url = candidate[
+                    "url"
+                ]
+
+                if url in seen_urls:
+                    continue
+
+                seen_urls.add(
+                    url
+                )
+
+                status[
+                    "attempted"
+                ] += 1
+
+                try:
+
+                    page.goto(
+                        url,
+                        wait_until=(
+                            "domcontentloaded"
+                        ),
+                        timeout=(
+                            BROWSER_TIMEOUT_MS
+                        ),
+                    )
+
+                    page.wait_for_timeout(
+                        1500
+                    )
+
+                    try:
+
+                        page.wait_for_load_state(
+                            "networkidle",
+                            timeout=3000,
+                        )
+
+                    except PlaywrightTimeoutError:
+                        pass
+
+                    article_html = (
+                        page.content()
+                    )
+
+                    article_url = (
+                        page.url
+                    )
+
+                    article = (
+                        extract_article(
+                            article_html,
+                            candidate[
+                                "anchor_title"
+                            ],
+                            article_url,
+                        )
+                    )
+
+                    if len(
+                        article[
+                            "text"
+                        ]
+                    ) < 200:
+                        continue
+
+                    article[
+                        "url"
+                    ] = article_url
+
+                    status[
+                        "articles_with_text"
+                    ] += 1
+
+                    if article[
+                        "published"
+                    ]:
+
+                        status[
+                            "articles_with_date"
+                        ] += 1
+
+                    save_article(
+                        source[
+                            "slug"
+                        ],
+                        article,
+                    )
+
+                    articles.append(
+                        article
+                    )
+
+                except Exception:
+                    continue
+
+            context.close()
+            browser.close()
+
+    except Exception as exc:
+
+        status[
+            "error"
+        ] = (
+            f"{type(exc).__name__}: "
+            f"{exc}"
+        )
+
+        if status[
+            "http_status"
+        ] is None:
+
+            return status
 
     status[
         "feed_items"
@@ -1901,31 +2144,30 @@ def run_html_source(
         articles
     )
 
-    print(
-        "    "
-        + f"HTTP={status['http_status']} "
-        + f"links={status['all_links']} "
-        + f"candidates={status['candidate_links']} "
-        + f"attempted={status['attempted']} "
-        + f"text={status['articles_with_text']} "
-        + f"dated={status['articles_with_date']} "
-        + f"items={status['feed_items']}",
-        flush=True,
+    write_feed_file(
+        source,
+        articles,
     )
 
     return status
 
 
-def run_source(
-    source,
-):
+def run_source(source):
+
     source_type = source.get(
         "source_type",
         "html",
     ).lower()
 
     if source_type == "rss":
+
         return run_rss_source(
+            source
+        )
+
+    if source_type == "browser":
+
+        return run_browser_source(
             source
         )
 
@@ -1937,6 +2179,7 @@ def run_source(
 def write_status_report(
     statuses,
 ):
+
     FEEDS_DIR.mkdir(
         parents=True,
         exist_ok=True,
@@ -1959,8 +2202,8 @@ def write_status_report(
         ),
         (
             "FETCHED/NO ITEMS = "
-            "Website/feed loaded but "
-            "no usable items were extracted"
+            "Source loaded but no "
+            "usable items were extracted"
         ),
         (
             "FAILED = Source could "
@@ -1974,15 +2217,18 @@ def write_status_report(
     failed = 0
 
     for status in statuses:
+
         if status[
             "feed_items"
         ] > 0:
+
             state = "OK"
             working += 1
 
         elif status[
             "http_status"
         ]:
+
             state = (
                 "FETCHED/NO ITEMS"
             )
@@ -1990,112 +2236,122 @@ def write_status_report(
             no_items += 1
 
         else:
+
             state = "FAILED"
             failed += 1
 
-        lines.append(
-            f"[{state}] "
-            f"{status['slug']} - "
-            f"{status['title']}"
-        )
-
-        lines.append(
-            "  Source type: "
-            + status[
-                "source_type"
+        lines.extend(
+            [
+                (
+                    f"[{state}] "
+                    f"{status['slug']} - "
+                    f"{status['title']}"
+                ),
+                (
+                    "  Source type: "
+                    + status[
+                        "source_type"
+                    ]
+                ),
+                (
+                    "  Start URL: "
+                    + status[
+                        "start_url"
+                    ]
+                ),
+                (
+                    "  HTTP: "
+                    + str(
+                        status[
+                            "http_status"
+                        ]
+                    )
+                ),
             ]
         )
 
-        lines.append(
-            "  Start URL: "
-            + status[
-                "start_url"
-            ]
-        )
-
-        lines.append(
-            "  HTTP: "
-            + str(
-                status[
-                    "http_status"
-                ]
-            )
-        )
-
-        if (
-            status[
-                "source_type"
-            ]
-            == "html"
+        if status[
+            "source_type"
+        ] in (
+            "html",
+            "browser",
         ):
-            lines.append(
-                "  Links discovered: "
-                + str(
-                    status[
-                        "all_links"
-                    ]
-                )
-            )
 
-            lines.append(
-                "  Candidate links: "
-                + str(
-                    status[
-                        "candidate_links"
-                    ]
-                )
-            )
-
-        lines.append(
-            "  Attempted items/articles: "
-            + str(
-                status[
-                    "attempted"
+            lines.extend(
+                [
+                    (
+                        "  Links discovered: "
+                        + str(
+                            status[
+                                "all_links"
+                            ]
+                        )
+                    ),
+                    (
+                        "  Candidate links: "
+                        + str(
+                            status[
+                                "candidate_links"
+                            ]
+                        )
+                    ),
                 ]
             )
-        )
 
-        lines.append(
-            "  Items/articles with text: "
-            + str(
-                status[
-                    "articles_with_text"
-                ]
-            )
-        )
-
-        lines.append(
-            "  Items/articles with dates: "
-            + str(
-                status[
-                    "articles_with_date"
-                ]
-            )
-        )
-
-        lines.append(
-            "  RSS feed items: "
-            + str(
-                status[
-                    "feed_items"
-                ]
-            )
-        )
-
-        lines.append(
-            "  SSL verification: "
-            + (
-                "ON"
-                if status[
-                    "ssl_verified"
-                ]
-                else "OFF"
-            )
+        lines.extend(
+            [
+                (
+                    "  Attempted "
+                    "items/articles: "
+                    + str(
+                        status[
+                            "attempted"
+                        ]
+                    )
+                ),
+                (
+                    "  Items/articles "
+                    "with text: "
+                    + str(
+                        status[
+                            "articles_with_text"
+                        ]
+                    )
+                ),
+                (
+                    "  Items/articles "
+                    "with dates: "
+                    + str(
+                        status[
+                            "articles_with_date"
+                        ]
+                    )
+                ),
+                (
+                    "  RSS feed items: "
+                    + str(
+                        status[
+                            "feed_items"
+                        ]
+                    )
+                ),
+                (
+                    "  SSL verification: "
+                    + (
+                        "ON"
+                        if status[
+                            "ssl_verified"
+                        ]
+                        else "OFF"
+                    )
+                ),
+            ]
         )
 
         if status[
             "error"
         ]:
+
             lines.append(
                 "  Error: "
                 + status[
@@ -2103,9 +2359,7 @@ def write_status_report(
                 ]
             )
 
-        lines.append(
-            ""
-        )
+        lines.append("")
 
     lines.extend(
         [
@@ -2130,12 +2384,10 @@ def write_status_report(
         ]
     )
 
-    report_path = (
+    (
         FEEDS_DIR
         / "status-report.txt"
-    )
-
-    report_path.write_text(
+    ).write_text(
         "\n".join(
             lines
         ),
@@ -2144,6 +2396,7 @@ def write_status_report(
 
 
 def main():
+
     FEEDS_DIR.mkdir(
         parents=True,
         exist_ok=True,
@@ -2162,39 +2415,22 @@ def main():
     sources = load_sources()
 
     print(
-        "Loaded "
-        + str(
-            len(sources)
-        )
-        + " sources.",
-        flush=True,
-    )
-
-    print(
-        "Request timeout: "
-        + str(
-            REQUEST_TIMEOUT
-        )
-        + " seconds.",
+        f"Loaded "
+        f"{len(sources)} sources.",
         flush=True,
     )
 
     statuses = []
 
     for source in sources:
+
         try:
+
             status = run_source(
                 source
             )
 
         except Exception as exc:
-            print(
-                "    UNHANDLED ERROR: "
-                + str(
-                    exc
-                ),
-                flush=True,
-            )
 
             status = base_status(
                 source,
@@ -2226,17 +2462,9 @@ def main():
 
     print(
         (
-            "See "
-            "feeds/status-report.txt "
+            "See feeds/"
+            "status-report.txt "
             "for results."
-        ),
-        flush=True,
-    )
-
-    print(
-        (
-            "See diagnostics/ "
-            "for diagnostic files."
         ),
         flush=True,
     )
