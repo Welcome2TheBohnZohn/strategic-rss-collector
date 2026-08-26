@@ -1,0 +1,425 @@
+Diagnostic link report for NORINCO Group
+
+Start URL: http://www.norincogroup.com.cn/
+Source type: browser
+Include regex: norincogroup\.com\.cn/.+
+Include text regex: 
+
+Candidate links: 50
+All links discovered: 188
+
+=== MATCHED CANDIDATES ===
+
+http://www.norincogroup.com.cn/art/2026/7/24/art_84_573850.html
+  兵器工业集团召开2026年年中工作会议：坚定信心...
+http://www.norincogroup.com.cn/art/2026/8/10/art_84_574720.html
+  兵器工业集团召开党组第七轮巡视共性问题通报会暨持...
+http://www.norincogroup.com.cn/art/2026/7/31/art_84_574445.html
+  兵器工业集团党组召开树立和践行正确政绩观学习教育...
+http://www.norincogroup.com.cn/art/2026/8/14/art_85_574970.html
+  打通煤矿外运通道，北方国际承建的印尼MBJ综合基...
+http://www.norincogroup.com.cn/art/2026/8/14/art_85_574969.html
+  适配新能源重卡，一机集团成功研制四挡大功率商用车...
+http://www.norincogroup.com.cn/art/2026/7/27/art_126_573999.html
+  兵器工业集团党组巡视工作领导小组召开会议听取...
+http://www.norincogroup.com.cn/art/2026/7/28/art_126_573998.html
+  兵器工业集团党组理论学习中心组开展习近平党建...
+http://www.norincogroup.com.cn/art/2026/7/13/art_126_572164.html
+  兵器工业集团党组传达学习贯彻习近平总书记在庆...
+http://www.norincogroup.com.cn/art/2026/7/31/art_84_574444.html
+  马云双到杭州智元研究院、自动化所公司五八智能调研
+http://www.norincogroup.com.cn/art/2026/8/18/art_85_574979.html
+  西北兵工部举办“兵工心向党”西北兵工青年演讲比赛
+http://www.norincogroup.com.cn/art/2026/8/21/art_85_575388.html
+  “远山智行”品牌正式发布文旅外骨骼共享体验模式
+http://www.norincogroup.com.cn/picture/0/1612081729425376498.png?cache=0.3793572778813541
+  1612081729425376498.png
+http://www.norincogroup.com.cn/art/2026/7/24/art_96_573853.html
+  兵器工业集团召开2026年年中工作会...
+http://www.norincogroup.com.cn/art/2026/7/16/art_96_572746.html
+  马云双与中国安能集团总经理郭建和举行...
+http://www.norincogroup.com.cn/art/2026/5/14/art_96_569033.html
+  兵器工业集团与北京航空航天大学举行工...
+http://www.norincogroup.com.cn/art/2026/5/7/art_96_568173.html
+  周治平到北化研究院集团东方化工公司检...
+http://www.norincogroup.com.cn/art/2026/8/20/art_84_575104.html
+  兵器工业集团精彩亮相2026世界机器人大会
+http://www.norincogroup.com.cn/art/2026/8/17/art_85_574971.html
+  208所太行操作系统获信息安全最高等级认证
+http://www.norincogroup.com.cn/art/2026/8/20/art_84_575202.html
+  兵器工业集团与西北工业大学举行工作会谈
+http://www.norincogroup.com.cn/script/12/2004032342062887.js
+  2004032342062887.js
+http://www.norincogroup.com.cn/art/2026/8/10/art_84_574721.html
+  周治平到驻湖南和吉林部分兵工单位调研
+http://www.norincogroup.com.cn/art/2026/8/20/art_85_575300.html
+  挥洒青春 争当骨干 兵器青年建功一线
+http://www.norincogroup.com.cn/art/2026/6/15/art_30_570582.html
+  art_30_570582.html
+http://www.norincogroup.com.cn/art/2026/7/20/art_96_573228.html
+  周治平与湖南省副省长余红胜举行会谈
+http://www.norincogroup.com.cn/art/2026/8/21/art_85_575390.html
+  兵工“萌新”，筑梦启航！
+http://www.norincogroup.com.cn/art/2026/8/18/art_84_574981.html
+  曹德生同志在北京逝世
+http://www.norincogroup.com.cn/picture/0/1610091708303991921.png?cache=0.6183066042140126
+  1610091708303991921.png
+http://www.norincogroup.com.cn/picture/0/1610091708302745904.png?cache=0.6394251168239862
+  1610091708302745904.png
+http://www.norincogroup.com.cn/picture/0/1610131026530452898.png?cache=0.8064853646792471
+  1610131026530452898.png
+http://www.norincogroup.com.cn/script/0/1707041357597751.js
+  1707041357597751.js
+http://www.norincogroup.com.cn/script/0/1707041146227331.js
+  1707041146227331.js
+http://www.norincogroup.com.cn/script/0/1707041357599209.js
+  1707041357599209.js
+http://www.norincogroup.com.cn/script/0/1707041357596242.js
+  1707041357596242.js
+http://www.norincogroup.com.cn/script/0/1707041357595219.js
+  1707041357595219.js
+http://www.norincogroup.com.cn/script/0/1707041357591919.js
+  1707041357591919.js
+http://www.norincogroup.com.cn/art/2026/8/17/art_85_574972.html
+  开拓市场传捷报
+http://www.norincogroup.com.cn/art/2026/7/23/art_30_573461.html
+  山河逐梦赴新征
+http://www.norincogroup.com.cn/art/2026/6/15/art_30_570584.html
+  雪域砺剑
+http://www.norincogroup.com.cn/images/1026/jquery.SuperSlide.2.1.js
+  jquery.SuperSlide.2.1.js
+http://www.norincogroup.com.cn/images/1026/terminator2.2.min.js
+  terminator2.2.min.js
+http://www.norincogroup.com.cn/images/1026/jquery.slide-zool.js
+  jquery.slide-zool.js
+http://www.norincogroup.com.cn/images/1026/koala.min.1.5.js
+  koala.min.1.5.js
+http://www.norincogroup.com.cn/images/1026/lanrenzhijia.js
+  lanrenzhijia.js
+http://www.norincogroup.com.cn/images/1026/hoverIntent.js
+  hoverIntent.js
+http://www.norincogroup.com.cn/script/pagecontrol.js
+  pagecontrol.js
+http://www.norincogroup.com.cn/images/1026/jquery.min.js
+  jquery.min.js
+http://www.norincogroup.com.cn/module/jslib/urite/urite.min.js
+  urite.min.js
+http://www.norincogroup.com.cn/images/1026/superfish.js
+  superfish.js
+http://www.norincogroup.com.cn/images/1026/supersubs.js
+  supersubs.js
+http://www.norincogroup.com.cn/script/web_front.js
+  web_front.js
+
+=== ALL DISCOVERED LINKS ===
+
+http://www.norincogroup.com.cn/
+  简
+http://www.norincogroup.com.cn/col/col198/index.html
+  邮箱登录
+http://www.norincogroup.com.cn/col/col193/index.html
+  集团网群
+http://www.norincogroup.com.cn/col/col3/index.html
+  传媒者
+http://www.norincogroup.com.cn/col/col160/index.html
+  投资者
+http://www.norincogroup.com.cn/col/col7/index.html
+  求职者
+http://www.norincogroup.com.cn/gtb/index.jsp?url=http://www.norincogroup.com.cn
+  繁
+http://en.norincogroup.com.cn/
+  EN
+http://www.norincogroup.com.cn/col/col2/index.html
+  关于我们
+http://www.norincogroup.com.cn/col/col4/index.html
+  党群工作
+http://www.norincogroup.com.cn/col/col5/index.html
+  业务与服务
+http://www.norincogroup.com.cn/col/col6/index.html
+  责任与创新
+http://www.norincogroup.com.cn/col/col5510/index.html
+  信息公开
+http://www.norincogroup-ebuy.com/
+  电子商务
+http://www.norincogroup.com.cn/art/2026/7/24/art_96_573853.html
+  兵器工业集团召开2026年年中工作会...
+http://www.norincogroup.com.cn/art/2026/7/20/art_96_573228.html
+  周治平与湖南省副省长余红胜举行会谈
+http://www.norincogroup.com.cn/art/2026/7/16/art_96_572746.html
+  马云双与中国安能集团总经理郭建和举行...
+http://www.norincogroup.com.cn/art/2026/5/14/art_96_569033.html
+  兵器工业集团与北京航空航天大学举行工...
+http://www.norincogroup.com.cn/art/2026/5/7/art_96_568173.html
+  周治平到北化研究院集团东方化工公司检...
+http://www.norincogroup.com.cn/col/col84/index.html
+  集团新闻
+http://www.norincogroup.com.cn/col/col85/index.html
+  成员动态
+http://www.norincogroup.com.cn/col/col89/index.html
+  媒体聚焦
+http://www.norincogroup.com.cn/col/col86/index.html
+  国资动态
+http://www.norincogroup.com.cn/art/2026/7/24/art_84_573850.html
+  兵器工业集团召开2026年年中工作会议：坚定信心...
+http://www.norincogroup.com.cn/art/2026/8/20/art_84_575202.html
+  兵器工业集团与西北工业大学举行工作会谈
+http://www.norincogroup.com.cn/art/2026/8/20/art_84_575104.html
+  兵器工业集团精彩亮相2026世界机器人大会
+http://www.norincogroup.com.cn/art/2026/8/18/art_84_574981.html
+  曹德生同志在北京逝世
+http://www.norincogroup.com.cn/art/2026/8/10/art_84_574721.html
+  周治平到驻湖南和吉林部分兵工单位调研
+http://www.norincogroup.com.cn/art/2026/8/10/art_84_574720.html
+  兵器工业集团召开党组第七轮巡视共性问题通报会暨持...
+http://www.norincogroup.com.cn/art/2026/7/31/art_84_574445.html
+  兵器工业集团党组召开树立和践行正确政绩观学习教育...
+http://www.norincogroup.com.cn/art/2026/7/31/art_84_574444.html
+  马云双到杭州智元研究院、自动化所公司五八智能调研
+http://www.norincogroup.com.cn/art/2026/8/21/art_85_575390.html
+  兵工“萌新”，筑梦启航！
+http://www.norincogroup.com.cn/art/2026/8/21/art_85_575388.html
+  “远山智行”品牌正式发布文旅外骨骼共享体验模式
+http://www.norincogroup.com.cn/art/2026/8/20/art_85_575300.html
+  挥洒青春 争当骨干 兵器青年建功一线
+http://www.norincogroup.com.cn/art/2026/8/18/art_85_574979.html
+  西北兵工部举办“兵工心向党”西北兵工青年演讲比赛
+http://www.norincogroup.com.cn/art/2026/8/17/art_85_574972.html
+  开拓市场传捷报
+http://www.norincogroup.com.cn/art/2026/8/17/art_85_574971.html
+  208所太行操作系统获信息安全最高等级认证
+http://www.norincogroup.com.cn/art/2026/8/14/art_85_574970.html
+  打通煤矿外运通道，北方国际承建的印尼MBJ综合基...
+http://www.norincogroup.com.cn/art/2026/8/14/art_85_574969.html
+  适配新能源重卡，一机集团成功研制四挡大功率商用车...
+https://www.stdaily.com/web/gdxw/2026-08/21/content_567688.html
+  《科技日报》：智启重器，技惠民生——兵器工业集团...
+https://vod-finance.cctv.cn/cctv/cctvh5/cctv2/2021/share/index.html?pageId=app://ARTI1787483903869444
+  央视财经：现实版钢铁侠来了！消防机器狗火场打前站
+https://so.html5.qq.com/page/real/search_news?docid=70000021_9796a85735379552
+  央广网：48家央企首次联合亮相世界机器人大会
+https://so.html5.qq.com/page/real/search_news?docid=70000021_9716a858cf958252
+  中国新闻网：央企展团首次联合亮相2026世界机器...
+https://business.cctv.com/2026/08/20/ARTIGpGsZ2oMqQ86tYOYycuS260820.shtml
+  央视网：硬核科技走进民生应用，多款智能装备亮相世...
+https://cn.chinadaily.com.cn/a/202608/20/WS6a870346a3105d3d7a27c198.html
+  中国日报网：兵器工业集团精彩亮相2026世界机器...
+https://h.xinhuaxmt.com/vh512/share/13249768?docid=13249768&newstype=1001&d=13527d4&channel=weixin
+  新华社客户端：从“炫技”到“实干”，机器人走向更...
+http://www.sasac.gov.cn/n4470048/n35313464/n35537910/n35537925/c35769068/content.html
+  国资委网站：兵器工业集团各级党组织深入学习贯彻习...
+http://www.sasac.gov.cn/n2588025/n2643314/c35714759/content.html
+  国务院国资委党委传达学习贯彻中央政治局会议精神和...
+http://www.sasac.gov.cn/n2588025/n2643314/c35662862/content.html
+  国务院国资委举办中央企业负责人研讨班坚决扛牢肩负...
+http://www.sasac.gov.cn/n2588025/n2643314/c35605836/content.html
+  国务院国资委召开中央企业科技工作者代表座谈会深入...
+http://www.sasac.gov.cn/n2588020/n2877938/n2879597/n2879599/c35540339/content.html
+  国务院国资委党委认真学习贯彻习近平总书记在庆祝中...
+http://www.sasac.gov.cn/n2588025/n2643314/c35451694/content.html
+  国务院国资委党委召开树立和践行正确政绩观学习教育...
+http://www.sasac.gov.cn/n2588025/n2643314/c35447050/content.html
+  国务院国资委党委开展理论学习中心组集体学习牢固树...
+http://www.sasac.gov.cn/n2588025/n2643314/c35440571/content.html
+  国务院国资委党委召开国资央企树立和践行正确政绩观...
+http://www.sasac.gov.cn/n2588025/n2643314/c35427867/content.html
+  国务院国资委党委深入学习贯彻习近平总书记关于“十...
+http://www.norincogroup.com.cn/col/col88/index.html
+http://www.norincogroup.com.cn/col/col9542/index.html
+http://www.norincogroup.com.cn/col/col9339/index.html
+http://www.norincogroup.com.cn/col/col9196/index.html
+http://www.norincogroup.com.cn/col/col9108/index.html
+http://www.norincogroup.com.cn/col/col133/index.html
+  军品
+http://www.norincogroup.com.cn/col/col134/index.html
+  民品
+http://www.norincogroup.com.cn/col/col135/index.html
+  战略资源
+http://www.norincogroup.com.cn/col/col136/index.html
+  流通服务
+http://www.norincogroup.com.cn/col/col27/index.html
+http://www.norincogroup.com.cn/col/col161/index.html
+http://www.norincogroup.com.cn/col/col180/index.html
+http://www.norincogroup.com.cn/art/2026/7/27/art_126_573999.html
+  兵器工业集团党组巡视工作领导小组召开会议听取...
+http://www.norincogroup.com.cn/art/2026/7/28/art_126_573998.html
+  兵器工业集团党组理论学习中心组开展习近平党建...
+http://www.norincogroup.com.cn/art/2026/7/13/art_126_572164.html
+  兵器工业集团党组传达学习贯彻习近平总书记在庆...
+http://www.norincogroup.com.cn/col/col126/index.html
+http://www.norincogroup.com.cn/art/2026/7/23/art_30_573461.html
+  山河逐梦赴新征
+http://www.norincogroup.com.cn/art/2026/6/15/art_30_570584.html
+  雪域砺剑
+http://www.norincogroup.com.cn/art/2026/6/15/art_30_570582.html
+  无 恙
+http://www.norincogroup.com.cn/col/col30/index.html
+http://www.norincogroup.com.cn/col/col92/index.html
+  兵工刊物
+http://www.norincogroup.com.cn/col/col87/index.html
+  行业资讯
+http://www.norincogroup.com.cn/col/col90/index.html
+  图片新闻
+http://www.norincogroup.com.cn/col/col91/index.html
+  视频专区
+http://www.norincogroup.com.cn/col/col137/index.html
+  招标采购
+http://www.fmprc.gov.cn
+  外交部
+http://www.mod.gov.cn
+  国防部
+http://www.ndrc.gov.cn
+  发展改革委
+http://www.moe.gov.cn
+  教育部
+http://www.most.gov.cn
+  科技部
+http://www.miit.gov.cn
+  工业和信息化部
+http://www.seac.gov.cn
+  国家民委
+http://www.mps.gov.cn
+  公安部
+http://www.mos.gov.cn
+  监察部
+http://www.mca.gov.cn
+  民政部
+http://www.moj.gov.cn
+  司法部
+http://www.mof.gov.cn
+  财政部
+http://www.mohrss.gov.cn
+  人力资源社会保障部
+http://www.mlr.gov.cn
+  国土资源部
+http://www.mep.gov.cn
+  环境保护部
+http://www.mohurd.gov.cn
+  住房城乡建设部
+http://www.moc.gov.cn
+  交通运输部
+http://www.mwr.gov.cn
+  水利部
+http://www.agri.gov.cn
+  农业部
+http://www.mofcom.gov.cn
+  商务部
+http://www.ccnt.gov.cn
+  文化部
+http://www.moh.gov.cn
+  卫生计生委
+http://www.pbc.gov.cn
+  人民银行
+http://www.audit.gov.cn
+  审计署
+http://www.sasac.gov.cn
+  国资委
+http://www.sastind.gov.cn
+  国家国防科技工业局
+http://www.cnnc.com.cn
+  中国核工业集团有限公司
+http://www.cnecc.com
+  中国核工业建设集团有限公司
+http://www.spacechina.com
+  中国航天科技集团有限公司
+http://www.casic.com.cn
+  中国航天科工集团有限公司
+http://www.avic.com.cn
+  中国航空工业集团有限公司
+http://www.cssc.net.cn
+  中国船舶工业集团有限公司
+http://www.csic.com.cn
+  中国船舶重工集团有限公司
+http://www.csgc.com.cn
+  中国兵器装备集团有限公司
+http://www.cetc.com.cn
+  中国电子科技集团有限公司
+http://www.aecc.cn
+  中国航空发动机集团有限公司
+http://www.cec.com.cn
+  中国电子信息产业集团有限公司
+http://www.caep.ac.cn
+  中国工程物理研究院
+http://www.gov.cn
+  中国政府网
+http://www.xinhuanet.com
+  新华网
+http://www.people.com.cn
+  人民网
+http://www.ifeng.com
+  凤凰网
+http://www.qq.com
+  腾讯网
+http://www.sohu.com
+  搜狐网
+http://www.sina.com.cn
+  新浪网
+http://www.163.com
+  网易网
+http://www.china.com
+  中华网
+http://www.baidu.com
+  百度搜索
+http://weibo.com/norincogroup?profile_ftype=1&is_all=1
+https://beian.miit.gov.cn
+  京ICP备05038394号
+http://www.norincogroup.com.cn/col/col211/index.html
+  联系我们
+http://www.norincogroup.com.cn/col/col212/index.html
+  法律声明
+http://www.norincogroup.com.cn/col/col213/index.html
+  常见问题
+http://www.norincogroup.com.cn/images/1026/terminator2.2.min.js
+http://www.norincogroup.com.cn/module/jslib/jquery/jquery.js
+http://www.norincogroup.com.cn/module/jslib/urite/urite.min.js
+http://www.norincogroup.com.cn/module/jslib/tag/css/infotag.css
+http://www.norincogroup.com.cn/index.html
+http://www.norincogroup.com.cn/images/1026/main.css
+http://www.norincogroup.com.cn/images/1026/jquery.min.js
+http://www.norincogroup.com.cn/images/1026/jquery.slide-zool.js
+http://www.norincogroup.com.cn/images/1026/koala.min.1.5.js
+http://www.norincogroup.com.cn/images/1026/superfish.js
+http://www.norincogroup.com.cn/images/1026/lanrenzhijia.js
+http://www.norincogroup.com.cn/images/1026/jquery.SuperSlide.2.1.js
+http://www.norincogroup.com.cn/images/1026/hoverIntent.js
+http://www.norincogroup.com.cn/images/1026/supersubs.js
+http://www.norincogroup.com.cn/script/0/1707041357597751.js
+http://www.norincogroup.com.cn/picture/0/1712261702464086847.jpg
+http://www.norincogroup.com.cn/script/0/1707041146227331.js
+http://www.norincogroup.com.cn/script/12/2004032342062887.js
+http://www.norincogroup.com.cn/script/0/1707041357599209.js
+http://www.norincogroup.com.cn/script/0/1707041357596242.js
+http://www.norincogroup.com.cn/jsearch/search.do
+http://www.norincogroup.com.cn/picture/0/s_b522cee4dd8d4ea99da33bfede03bd00.jpg
+http://www.norincogroup.com.cn/picture/0/s_682ad87660764229a4f93b4188642a26.jpg
+http://www.norincogroup.com.cn/picture/0/s_2058b858623f4f9586aa2684e22f95cd.jpg
+http://www.norincogroup.com.cn/picture/0/s_4161a1675dfe4f6eb12e099be53e0f78.png
+http://www.norincogroup.com.cn/picture/0/s_b296ed1edc3246c39c34b117a9b37e51.png
+https://h.xinhuaxmt.com/vh512/share/13249768?docid=13249768&amp;newstype=1001&amp;d=13527d4&amp;channel=weixin
+http://www.norincogroup.com.cn/picture/0/1610091647122417824.png
+http://www.norincogroup.com.cn/picture/0/515b3dc48fee4d239034c9beb643c20b.jpg
+http://www.norincogroup.com.cn/picture/0/17c6e4d6066e4be2947edaa252e2f9a9.png
+http://www.norincogroup.com.cn/picture/0/11574d288c05402eb26608cd87fe1c08.jpg
+http://www.norincogroup.com.cn/picture/0/9ae9d54c370d4c76824a4104a9c33ae9.jpg
+http://www.norincogroup.com.cn/picture/0/31a0059645e54010ac21098c4531906d.jpg
+http://www.norincogroup.com.cn/images/1026/junpin.png
+http://www.norincogroup.com.cn/images/1026/wangyuanjing.png
+http://www.norincogroup.com.cn/images/1026/tadiao.png
+http://www.norincogroup.com.cn/images/1026/qian.png
+http://www.norincogroup.com.cn/picture/0/1610091708303991921.png?cache=0.6183066042140126
+http://www.norincogroup.com.cn/picture/0/1612081729425376498.png?cache=0.3793572778813541
+http://www.norincogroup.com.cn/picture/0/1610091708302745904.png?cache=0.6394251168239862
+http://www.norincogroup.com.cn/picture/0/1610131026530452898.png?cache=0.8064853646792471
+http://www.norincogroup.com.cn/picture/0/2111251407205959421.jpg
+http://www.norincogroup.com.cn/picture/0/s1704281903589679078.jpg
+http://www.norincogroup.com.cn/picture/0/1705251750362088286.jpg
+http://www.norincogroup.com.cn/picture/0/1612071429522859803.jpg
+http://www.norincogroup.com.cn/picture/0/1610251551335319892.jpg
+http://www.norincogroup.com.cn/picture/0/1705191807092181785.png
+http://www.norincogroup.com.cn/picture/0/1612071429523912030.png
+http://www.norincogroup.com.cn/script/0/1707041357595219.js
+http://www.norincogroup.com.cn/images/1/erwm.jpg
+http://weibo.com/norincogroup?profile_ftype=1&amp;is_all=1
+http://www.norincogroup.com.cn/picture/0/1610262027201784233.jpg
+http://www.norincogroup.com.cn/script/0/1707041357591919.js
+http://www.norincogroup.com.cn/script/pagecontrol.js
+http://www.norincogroup.com.cn/script/web_front.js

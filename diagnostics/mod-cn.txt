@@ -3,6 +3,7 @@ Diagnostic link report for China Ministry of National Defense
 Start URL: https://www.mod.gov.cn/
 Source type: html
 Include regex: /gfbw/|/xwfyr/|/wzll/
+Include text regex: 
 
 Candidate links: 50
 All links discovered: 243

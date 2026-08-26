@@ -1,0 +1,379 @@
+Diagnostic link report for China State Shipbuilding Corporation
+
+Start URL: http://www.cssc.net.cn/n5/n18/index.html
+Source type: browser
+Include regex: cssc\.net\.cn/n5/n18/c\d+/content\.html
+Include text regex: 
+
+Candidate links: 10
+All links discovered: 306
+
+=== MATCHED CANDIDATES ===
+
+http://www.cssc.net.cn/n5/n18/c34062/content.html
+  以研学传军工精神 以暖心筑幸福中船——2026年暑期船舶研学带动全学段育人实践落...
+http://www.cssc.net.cn/n5/n18/c34050/content.html
+  碳路先锋 绿动中船 2026年中船集团国企开放日暨品牌宣传周正式启动
+http://www.cssc.net.cn/n5/n18/c34059/content.html
+  中船集团举办2026年新员工入职培训暨入职典礼 徐鹏讲授第一课
+http://www.cssc.net.cn/n5/n18/c34058/content.html
+  2026国企开放日｜在青岛，这里擦亮黄海之滨的绿色制造名片
+http://www.cssc.net.cn/n5/n18/c34056/content.html
+  牢记嘱托 向海图强｜中船抗灾抢险英雄群体：星火燎原向深蓝
+http://www.cssc.net.cn/n5/n18/c34055/content.html
+  2026国企开放日｜在厦门，这里藏着材料新质生产力的秘密
+http://www.cssc.net.cn/n5/n18/c34053/content.html
+  中船集团领导干部理论素养提升专题培训班开班式举行
+http://www.cssc.net.cn/n5/n18/c34052/content.html
+  2026国企开放日｜在上海，这里最不缺的就是大船
+http://www.cssc.net.cn/n5/n18/c34067/content.html
+  中船集团多项成果亮相2026世界机器人大会
+http://www.cssc.net.cn/n5/n18/c34061/content.html
+  今日处暑｜秋色染荷香 船行水云深
+
+=== ALL DISCOVERED LINKS ===
+
+http://www.cssc.net.cn/index.html
+  首页 CSSC HOME
+http://www.cssc.net.cn/n4/index.html
+  关于我们 ABOUT US
+http://www.cssc.net.cn/n5/index.html
+  新闻中心 NEWS
+http://www.cssc.net.cn/n6/index.html
+  党的建设 PARTY BUILDING
+http://www.cssc.net.cn/n7/index.html
+  产品与业务 BUSINESS
+http://www.cssc.net.cn/n8/index.html
+  信息公开 INFORMATION
+http://www.cssc.net.cn/n9/index.html
+  人力资源 RESOURCES
+http://www.cssc.net.cn/n10/index.html
+  科技创新 INNOVATION
+http://www.cssc.net.cn/n11/index.html
+  网站群 SITE GROUP
+http://www.cssc.net.cn/n5/n18/index.html
+  集团新闻
+http://www.cssc.net.cn/n5/n19/index.html
+  图片轮播
+http://www.cssc.net.cn/n5/n20/index.html
+  国资动态
+http://www.cssc.net.cn/n5/n21/index.html
+  成员动态
+http://www.cssc.net.cn/n5/n22/index.html
+  通知公告
+http://www.cssc.net.cn/n5/n23/index.html
+  专题聚焦
+http://www.cssc.net.cn/n5/n24/index.html
+  船舶市场
+http://www.cssc.net.cn/n5/n115/index.html
+  物资配套
+http://www.cssc.net.cn/n5/n25/index.html
+  镜头里的中国船舶
+http://www.cssc.net.cn/n5/n116/index.html
+  出版物
+http://www.cssc.net.cn/n5/n26/index.html
+  媒体报道
+http://www.cssc.net.cn/n5/n1255/index.html
+  头条新闻
+http://www.cssc.net.cn/n5/n1390/index.html
+  上市公司
+http://www.cssc.net.cn/n5/n18/c34067/content.html
+  中船集团多项成果亮相2026世界机器人大会
+http://www.cssc.net.cn/n5/n18/c34062/content.html
+  以研学传军工精神 以暖心筑幸福中船——2026年暑期船舶研学带动全学段育人实践落...
+http://www.cssc.net.cn/n5/n18/c34061/content.html
+  今日处暑｜秋色染荷香 船行水云深
+http://www.cssc.net.cn/n5/n18/c34059/content.html
+  中船集团举办2026年新员工入职培训暨入职典礼 徐鹏讲授第一课
+http://www.cssc.net.cn/n5/n18/c34058/content.html
+  2026国企开放日｜在青岛，这里擦亮黄海之滨的绿色制造名片
+http://www.cssc.net.cn/n5/n18/c34056/content.html
+  牢记嘱托 向海图强｜中船抗灾抢险英雄群体：星火燎原向深蓝
+http://www.cssc.net.cn/n5/n18/c34055/content.html
+  2026国企开放日｜在厦门，这里藏着材料新质生产力的秘密
+http://www.cssc.net.cn/n5/n18/c34053/content.html
+  中船集团领导干部理论素养提升专题培训班开班式举行
+http://www.cssc.net.cn/n5/n18/c34052/content.html
+  2026国企开放日｜在上海，这里最不缺的就是大船
+http://www.cssc.net.cn/n5/n18/c34050/content.html
+  碳路先锋 绿动中船 2026年中船集团国企开放日暨品牌宣传周正式启动
+http://www.cssc.net.cn/n5/n18/index_6204_1.html
+http://www.cssc.net.cn/n5/n18/index_6204_2.html
+http://www.cssc.net.cn/n5/n18/index_6204_3.html
+http://www.cssc.net.cn/n5/n18/index_6204_4.html
+http://www.cssc.net.cn/n5/n18/index_6204_5.html
+http://www.cssc.net.cn/n5/n18/index_6204_6.html
+http://www.cssc.net.cn/n5/n18/index_6204_7.html
+http://www.cssc.net.cn/n5/n18/index_6204_8.html
+http://www.cssc.net.cn/n5/n18/index_6204_9.html
+http://www.cssc.net.cn/n5/n18/index_6204_10.html
+http://www.cssc.net.cn/n5/n18/index_6204_11.html
+http://www.cssc.net.cn/n5/n18/index_6204_12.html
+http://www.cssc.net.cn/n5/n18/index_6204_13.html
+http://www.cssc.net.cn/n5/n18/index_6204_14.html
+http://www.cssc.net.cn/n5/n18/index_6204_15.html
+http://www.cssc.net.cn/n5/n18/index_6204_16.html
+http://www.cssc.net.cn/n5/n18/index_6204_17.html
+http://www.cssc.net.cn/n5/n18/index_6204_18.html
+http://www.cssc.net.cn/n5/n18/index_6204_19.html
+http://www.cssc.net.cn/n5/n18/index_6204_20.html
+http://www.cssc.net.cn/n5/n18/index_6204_21.html
+http://www.cssc.net.cn/n5/n18/index_6204_22.html
+http://www.cssc.net.cn/n5/n18/index_6204_23.html
+http://www.cssc.net.cn/n5/n18/index_6204_24.html
+http://www.cssc.net.cn/n5/n18/index_6204_25.html
+http://www.cssc.net.cn/n5/n18/index_6204_26.html
+http://www.cssc.net.cn/n5/n18/index_6204_27.html
+http://www.cssc.net.cn/n5/n18/index_6204_28.html
+http://www.cssc.net.cn/n5/n18/index_6204_29.html
+http://www.cssc.net.cn/n5/n18/index_6204_30.html
+http://www.cssc.net.cn/n5/n18/index_6204_31.html
+http://www.cssc.net.cn/n5/n18/index_6204_32.html
+http://www.cssc.net.cn/n5/n18/index_6204_33.html
+http://www.cssc.net.cn/n5/n18/index_6204_34.html
+http://www.cssc.net.cn/n5/n18/index_6204_35.html
+http://www.cssc.net.cn/n5/n18/index_6204_36.html
+http://www.cssc.net.cn/n5/n18/index_6204_37.html
+http://www.cssc.net.cn/n5/n18/index_6204_38.html
+http://www.cssc.net.cn/n5/n18/index_6204_39.html
+http://www.cssc.net.cn/n5/n18/index_6204_40.html
+http://www.cssc.net.cn/n5/n18/index_6204_41.html
+http://www.cssc.net.cn/n5/n18/index_6204_42.html
+http://www.cssc.net.cn/n5/n18/index_6204_43.html
+http://www.cssc.net.cn/n5/n18/index_6204_44.html
+http://www.cssc.net.cn/n5/n18/index_6204_45.html
+http://www.cssc.net.cn/n5/n18/index_6204_46.html
+http://www.cssc.net.cn/n5/n18/index_6204_47.html
+http://www.cssc.net.cn/n5/n18/index_6204_48.html
+http://www.cssc.net.cn/n5/n18/index_6204_49.html
+http://www.cssc.net.cn/n5/n18/index_6204_50.html
+http://www.cssc.net.cn/n5/n18/index_6204_51.html
+http://www.cssc.net.cn/n5/n18/index_6204_52.html
+http://www.cssc.net.cn/n5/n18/index_6204_53.html
+http://www.cssc.net.cn/n5/n18/index_6204_54.html
+http://www.cssc.net.cn/n5/n18/index_6204_55.html
+http://www.cssc.net.cn/n5/n18/index_6204_56.html
+http://www.cssc.net.cn/n5/n18/index_6204_57.html
+http://www.cssc.net.cn/n5/n18/index_6204_58.html
+http://www.cssc.net.cn/n5/n18/index_6204_59.html
+http://www.cssc.net.cn/n5/n18/index_6204_60.html
+http://www.cssc.net.cn/n5/n18/index_6204_61.html
+http://www.cssc.net.cn/n5/n18/index_6204_62.html
+http://www.cssc.net.cn/n5/n18/index_6204_63.html
+http://www.cssc.net.cn/n5/n18/index_6204_64.html
+http://www.cssc.net.cn/n5/n18/index_6204_65.html
+http://www.cssc.net.cn/n5/n18/index_6204_66.html
+http://www.cssc.net.cn/n5/n18/index_6204_67.html
+http://www.cssc.net.cn/n5/n18/index_6204_68.html
+http://www.cssc.net.cn/n5/n18/index_6204_69.html
+http://www.cssc.net.cn/n5/n18/index_6204_70.html
+http://www.cssc.net.cn/n5/n18/index_6204_71.html
+http://www.cssc.net.cn/n5/n18/index_6204_72.html
+http://www.cssc.net.cn/n5/n18/index_6204_73.html
+http://www.cssc.net.cn/n5/n18/index_6204_74.html
+http://www.cssc.net.cn/n5/n18/index_6204_75.html
+http://www.cssc.net.cn/n5/n18/index_6204_76.html
+http://www.cssc.net.cn/n5/n18/index_6204_77.html
+http://www.cssc.net.cn/n5/n18/index_6204_78.html
+http://www.cssc.net.cn/n5/n18/index_6204_79.html
+http://www.cssc.net.cn/n5/n18/index_6204_80.html
+http://www.cssc.net.cn/n5/n18/index_6204_81.html
+http://www.cssc.net.cn/n5/n18/index_6204_82.html
+http://www.cssc.net.cn/n5/n18/index_6204_83.html
+http://www.cssc.net.cn/n5/n18/index_6204_84.html
+http://www.cssc.net.cn/n5/n18/index_6204_85.html
+http://www.cssc.net.cn/n5/n18/index_6204_86.html
+http://www.cssc.net.cn/n5/n18/index_6204_87.html
+http://www.cssc.net.cn/n5/n18/index_6204_88.html
+http://www.cssc.net.cn/n5/n18/index_6204_89.html
+http://www.cssc.net.cn/n5/n18/index_6204_90.html
+http://www.cssc.net.cn/n5/n18/index_6204_91.html
+http://www.cssc.net.cn/n5/n18/index_6204_92.html
+http://www.cssc.net.cn/n5/n18/index_6204_93.html
+http://www.cssc.net.cn/n5/n18/index_6204_94.html
+http://www.cssc.net.cn/n5/n18/index_6204_95.html
+http://www.cssc.net.cn/n5/n18/index_6204_96.html
+http://www.cssc.net.cn/n5/n18/index_6204_97.html
+http://www.cssc.net.cn/n5/n18/index_6204_98.html
+http://www.cssc.net.cn/n5/n18/index_6204_99.html
+http://www.cssc.net.cn/n5/n18/index_6204_100.html
+http://www.cssc.net.cn/n5/n18/index_6204_101.html
+http://www.cssc.net.cn/n5/n18/index_6204_102.html
+http://www.cssc.net.cn/n5/n18/index_6204_103.html
+http://www.cssc.net.cn/n5/n18/index_6204_104.html
+http://www.cssc.net.cn/n5/n18/index_6204_105.html
+http://www.cssc.net.cn/n5/n18/index_6204_106.html
+http://www.cssc.net.cn/n5/n18/index_6204_107.html
+http://www.cssc.net.cn/n5/n18/index_6204_108.html
+http://www.cssc.net.cn/n5/n18/index_6204_109.html
+http://www.cssc.net.cn/n5/n18/index_6204_110.html
+http://www.cssc.net.cn/n5/n18/index_6204_111.html
+http://www.cssc.net.cn/n5/n18/index_6204_112.html
+http://www.cssc.net.cn/n5/n18/index_6204_113.html
+http://www.cssc.net.cn/n5/n18/index_6204_114.html
+http://www.cssc.net.cn/n5/n18/index_6204_115.html
+http://www.cssc.net.cn/n5/n18/index_6204_116.html
+http://www.cssc.net.cn/n5/n18/index_6204_117.html
+http://www.cssc.net.cn/n5/n18/index_6204_118.html
+http://www.cssc.net.cn/n5/n18/index_6204_119.html
+http://www.cssc.net.cn/n5/n18/index_6204_120.html
+http://www.cssc.net.cn/n5/n18/index_6204_121.html
+http://www.cssc.net.cn/n5/n18/index_6204_122.html
+http://www.cssc.net.cn/n5/n18/index_6204_123.html
+http://www.cssc.net.cn/n5/n18/index_6204_124.html
+http://www.cssc.net.cn/n5/n18/index_6204_125.html
+http://www.cssc.net.cn/n5/n18/index_6204_126.html
+http://www.cssc.net.cn/n5/n18/index_6204_127.html
+http://www.cssc.net.cn/n5/n18/index_6204_128.html
+http://www.cssc.net.cn/n5/n18/index_6204_129.html
+http://www.cssc.net.cn/n5/n18/index_6204_130.html
+http://www.cssc.net.cn/n5/n18/index_6204_131.html
+http://www.cssc.net.cn/n5/n18/index_6204_132.html
+http://www.cssc.net.cn/n5/n18/index_6204_133.html
+http://www.cssc.net.cn/n5/n18/index_6204_134.html
+http://www.cssc.net.cn/n5/n18/index_6204_135.html
+http://www.cssc.net.cn/n5/n18/index_6204_136.html
+http://www.cssc.net.cn/n5/n18/index_6204_137.html
+http://www.cssc.net.cn/n5/n18/index_6204_138.html
+http://www.cssc.net.cn/n5/n18/index_6204_139.html
+http://www.cssc.net.cn/n5/n18/index_6204_140.html
+http://www.cssc.net.cn/n5/n18/index_6204_141.html
+http://www.cssc.net.cn/n5/n18/index_6204_142.html
+http://www.cssc.net.cn/n5/n18/index_6204_143.html
+http://www.cssc.net.cn/n5/n18/index_6204_144.html
+http://www.cssc.net.cn/n5/n18/index_6204_145.html
+http://www.cssc.net.cn/n5/n18/index_6204_146.html
+http://www.cssc.net.cn/n5/n18/index_6204_147.html
+http://www.cssc.net.cn/n5/n18/index_6204_148.html
+http://www.cssc.net.cn/n5/n18/index_6204_149.html
+http://www.cssc.net.cn/n5/n18/index_6204_150.html
+http://www.cssc.net.cn/n5/n18/index_6204_151.html
+http://www.cssc.net.cn/n5/n18/index_6204_152.html
+http://www.cssc.net.cn/n5/n18/index_6204_153.html
+http://www.cssc.net.cn/n5/n18/index_6204_154.html
+http://www.cssc.net.cn/n5/n18/index_6204_155.html
+http://www.cssc.net.cn/n5/n18/index_6204_156.html
+http://www.cssc.net.cn/n5/n18/index_6204_157.html
+http://www.cssc.net.cn/n5/n18/index_6204_158.html
+http://www.cssc.net.cn/n5/n18/index_6204_159.html
+http://www.cssc.net.cn/n5/n18/index_6204_160.html
+http://www.cssc.net.cn/n5/n18/index_6204_161.html
+http://www.cssc.net.cn/n5/n18/index_6204_162.html
+http://www.cssc.net.cn/n5/n18/index_6204_163.html
+http://www.cssc.net.cn/n5/n18/index_6204_164.html
+http://www.cssc.net.cn/n5/n18/index_6204_165.html
+http://www.cssc.net.cn/n5/n18/index_6204_166.html
+http://www.cssc.net.cn/n5/n18/index_6204_167.html
+http://www.cssc.net.cn/n5/n18/index_6204_168.html
+http://www.cssc.net.cn/n5/n18/index_6204_169.html
+http://www.cssc.net.cn/n5/n18/index_6204_170.html
+http://www.cssc.net.cn/n5/n18/index_6204_171.html
+http://www.cssc.net.cn/n5/n18/index_6204_172.html
+http://www.cssc.net.cn/n5/n18/index_6204_173.html
+http://www.cssc.net.cn/n5/n18/index_6204_174.html
+http://www.cssc.net.cn/n5/n18/index_6204_175.html
+http://www.cssc.net.cn/n5/n18/index_6204_176.html
+http://www.cssc.net.cn/n5/n18/index_6204_177.html
+http://www.cssc.net.cn/n5/n18/index_6204_178.html
+http://www.cssc.net.cn/n5/n18/index_6204_179.html
+http://www.cssc.net.cn/n5/n18/index_6204_180.html
+http://www.cssc.net.cn/n5/n18/index_6204_181.html
+http://www.cssc.net.cn/n5/n18/index_6204_182.html
+http://www.cssc.net.cn/n5/n18/index_6204_183.html
+http://www.cssc.net.cn/n5/n18/index_6204_184.html
+http://www.cssc.net.cn/n5/n18/index_6204_185.html
+http://www.cssc.net.cn/n5/n18/index_6204_186.html
+http://www.cssc.net.cn/n5/n18/index_6204_187.html
+http://www.cssc.net.cn/n5/n18/index_6204_188.html
+http://www.cssc.net.cn/n5/n18/index_6204_189.html
+http://www.cssc.net.cn/n5/n18/index_6204_190.html
+http://www.cssc.net.cn/n5/n18/index_6204_191.html
+http://www.cssc.net.cn/n5/n18/index_6204_192.html
+http://www.cssc.net.cn/n5/n18/index_6204_193.html
+http://www.cssc.net.cn/n5/n18/index_6204_194.html
+http://www.cssc.net.cn/n5/n18/index_6204_195.html
+http://www.cssc.net.cn/n5/n18/index_6204_196.html
+http://www.cssc.net.cn/n5/n18/index_6204_197.html
+http://www.cssc.net.cn/n5/n18/index_6204_198.html
+http://www.cssc.net.cn/n5/n18/index_6204_199.html
+http://www.cssc.net.cn/n5/n18/index_6204_200.html
+http://www.cssc.net.cn/n5/n18/index_6204_201.html
+http://www.cssc.net.cn/n5/n18/index_6204_202.html
+http://www.cssc.net.cn/n5/n18/index_6204_203.html
+http://www.cssc.net.cn/n5/n18/index_6204_204.html
+http://www.cssc.net.cn/n5/n18/index_6204_205.html
+http://www.cssc.net.cn/n5/n18/index_6204_206.html
+http://www.cssc.net.cn/n5/n18/index_6204_207.html
+http://www.cssc.net.cn/n5/n18/index_6204_208.html
+http://www.cssc.net.cn/n5/n18/index_6204_209.html
+http://www.cssc.net.cn/n5/n18/index_6204_210.html
+http://www.cssc.net.cn/n5/n18/index_6204_211.html
+http://www.cssc.net.cn/n5/n18/index_6204_212.html
+http://www.cssc.net.cn/n5/n18/index_6204_213.html
+http://www.cssc.net.cn/n5/n18/index_6204_214.html
+http://www.cssc.net.cn/n5/n18/index_6204_215.html
+http://www.cssc.net.cn/n5/n18/index_6204_216.html
+http://www.cssc.net.cn/n5/n18/index_6204_217.html
+http://www.cssc.net.cn/n5/n18/index_6204_218.html
+http://www.cssc.net.cn/n5/n18/index_6204_219.html
+http://www.cssc.net.cn/n5/n18/index_6204_220.html
+http://www.cssc.net.cn/n5/n18/index_6204_221.html
+http://www.cssc.net.cn/n5/n18/index_6204_222.html
+http://www.cssc.net.cn/n5/n18/index_6204_223.html
+http://www.cssc.net.cn/n5/n18/index_6204_224.html
+http://www.cssc.net.cn/n5/n18/index_6204_225.html
+http://www.cssc.net.cn/n5/n18/index_6204_226.html
+http://www.cssc.net.cn/n5/n18/index_6204_227.html
+http://www.cssc.net.cn/n5/n18/index_6204_228.html
+http://www.cssc.net.cn/n5/n18/index_6204_229.html
+http://www.cssc.net.cn/n5/n18/index_6204_230.html
+http://www.cssc.net.cn/n5/n18/index_6204_231.html
+http://www.cssc.net.cn/n5/n18/index_6204_232.html
+http://www.cssc.net.cn/n5/n18/index_6204_233.html
+http://www.cssc.net.cn/n129/n131/index.html
+  联系我们
+http://www.cssc.net.cn/n129/n133/index.html
+  常见问题解答
+http://www.cssc.net.cn/n129/n132/index.html
+  隐私与安全
+http://www.cssc.net.cn/n129/n134/index.html
+  版权保护
+http://www.cssc.net.cn/n129/n130/index.html
+  网站地图
+https://beian.miit.gov.cn/
+  京公网安备11040102700106 沪ICP备2021006537号-1
+https://hm.baidu.com/hm.js?8702cfdf2a6a4413c5e2bc05fd42de37
+http://www.csic.com.cn:8190/searchweb/search_csic.jsp
+http://www.cssc.net.cn/1/3/5/18
+http://www.cssc.net.cn/1/3/5/19
+http://www.cssc.net.cn/1/3/5/20
+http://www.cssc.net.cn/1/3/5/21
+http://www.cssc.net.cn/1/3/5/22
+http://www.cssc.net.cn/1/3/5/23
+http://www.cssc.net.cn/1/3/5/24
+http://www.cssc.net.cn/1/3/5/115
+http://www.cssc.net.cn/1/3/5/25
+http://www.cssc.net.cn/1/3/5/116
+http://www.cssc.net.cn/1/3/5/26
+http://www.cssc.net.cn/1/3/5/1255
+http://www.cssc.net.cn/1/3/5/1390
+http://www.dsic.com.cn/
+http://www.dsic.cn/
+http://www.bsic.com.cn/
+http://www.dmd.com.cn/
+http://www.syliaohai.cn/
+http://www.dlvalve.com/
+http://www.dmpp.cn/
+http://www.sxd408.com/
+http://www.xady.com.cn/
+https://www.fenxi.cc/cn/
+http://www.sxjhzg.com.cn/
+http://www.sxpyzg.com/
+http://www.csic76.com/
+http://www.wuchuan.com.cn/
+http://www.wmmp.com.cn/
+http://www.whzg.com.cn/
+http://www.ymd.com.cn/
+http://www.hnd.com.cn/
+http://www.jmd-china.com/
+http://www.zg388.com/

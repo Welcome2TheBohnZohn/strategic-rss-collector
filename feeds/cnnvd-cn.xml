@@ -1,2 +1,264 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Wed, 26 Aug 2026 18:25:01 +0000</lastBuildDate></channel></rss>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Wed, 26 Aug 2026 19:40:05 +0000</lastBuildDate><item><title>CNNVD-2026-71363257 - Google Chrome 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/frontend/loophole</link><guid isPermaLink="false">https://www.cnnvd.org.cn/#CNNVD-2026-71363257</guid><pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate><description>息
+Google Chrome 输入验证错误漏洞
+超危
+收录时间：2026-08-25
+|
+更新时间: 2026-08-26 14:47:43
+CNNVD编号：CNNVD-2026-71363257
+pollen-robotics reachy_mini 任意文件上传漏洞
+中危
+收录时间：2026-08-25
+|
+更新时间: 2026-08-26 17:02:46
+CNNVD编号：</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/frontend/loophole&lt;/p&gt;&lt;pre&gt;息
+Google Chrome 输入验证错误漏洞
+超危
+收录时间：2026-08-25
+|
+更新时间: 2026-08-26 14:47:43
+CNNVD编号：CNNVD-2026-71363257
+pollen-robotics reachy_mini 任意文件上传漏洞
+中危
+收录时间：2026-08-25
+|
+更新时间: 2026-08-26 17:02:46
+CNNVD编号：&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-91157716 - ics reachy_mini 任意文件上传漏洞</title><link>https://www.cnnvd.org.cn/frontend/loophole</link><guid isPermaLink="false">https://www.cnnvd.org.cn/#CNNVD-2026-91157716</guid><pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate><description>ics reachy_mini 任意文件上传漏洞
+中危
+收录时间：2026-08-25
+|
+更新时间: 2026-08-26 17:02:46
+CNNVD编号：CNNVD-2026-91157716
+Mervin Praison PraisonAI 资源管理错误漏洞
+中危
+收录时间：2026-08-25
+|
+更新时间: 2026-08-26 17:02:46
+CNNVD编号：</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/frontend/loophole&lt;/p&gt;&lt;pre&gt;ics reachy_mini 任意文件上传漏洞
+中危
+收录时间：2026-08-25
+|
+更新时间: 2026-08-26 17:02:46
+CNNVD编号：CNNVD-2026-91157716
+Mervin Praison PraisonAI 资源管理错误漏洞
+中危
+收录时间：2026-08-25
+|
+更新时间: 2026-08-26 17:02:46
+CNNVD编号：&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-18392973 - aison PraisonAI 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/frontend/loophole</link><guid isPermaLink="false">https://www.cnnvd.org.cn/#CNNVD-2026-18392973</guid><pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate><description>aison PraisonAI 资源管理错误漏洞
+中危
+收录时间：2026-08-25
+|
+更新时间: 2026-08-26 17:02:46
+CNNVD编号：CNNVD-2026-18392973
+Mervin Praison PraisonAI 授权问题漏洞
+中危
+收录时间：2026-08-25
+|
+更新时间: 2026-08-26 17:02:47
+CNNVD编号：</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/frontend/loophole&lt;/p&gt;&lt;pre&gt;aison PraisonAI 资源管理错误漏洞
+中危
+收录时间：2026-08-25
+|
+更新时间: 2026-08-26 17:02:46
+CNNVD编号：CNNVD-2026-18392973
+Mervin Praison PraisonAI 授权问题漏洞
+中危
+收录时间：2026-08-25
+|
+更新时间: 2026-08-26 17:02:47
+CNNVD编号：&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-61378206 - Praison PraisonAI 授权问题漏洞</title><link>https://www.cnnvd.org.cn/frontend/loophole</link><guid isPermaLink="false">https://www.cnnvd.org.cn/#CNNVD-2026-61378206</guid><pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate><description>Praison PraisonAI 授权问题漏洞
+中危
+收录时间：2026-08-25
+|
+更新时间: 2026-08-26 17:02:47
+CNNVD编号：CNNVD-2026-61378206
+NVIDIA Unified Fabric Manager Enterprise - GA 命令注入漏洞
+中危
+收录时间：2026-08-25
+|
+更新时间: 2026-08-26 17:02:49
+CNNVD编号：</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/frontend/loophole&lt;/p&gt;&lt;pre&gt;Praison PraisonAI 授权问题漏洞
+中危
+收录时间：2026-08-25
+|
+更新时间: 2026-08-26 17:02:47
+CNNVD编号：CNNVD-2026-61378206
+NVIDIA Unified Fabric Manager Enterprise - GA 命令注入漏洞
+中危
+收录时间：2026-08-25
+|
+更新时间: 2026-08-26 17:02:49
+CNNVD编号：&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-39064186 - r Enterprise - GA 命令注入漏洞</title><link>https://www.cnnvd.org.cn/frontend/loophole</link><guid isPermaLink="false">https://www.cnnvd.org.cn/#CNNVD-2026-39064186</guid><pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate><description>r Enterprise - GA 命令注入漏洞
+中危
+收录时间：2026-08-25
+|
+更新时间: 2026-08-26 17:02:49
+CNNVD编号：CNNVD-2026-39064186
+doorkeeper gem Doorkeeper::OpenidConnect 授权问题漏洞
+中危
+收录时间：2026-08-25
+|
+更新时间: 2026-08-26 17:04:02
+CNNVD编号：</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/frontend/loophole&lt;/p&gt;&lt;pre&gt;r Enterprise - GA 命令注入漏洞
+中危
+收录时间：2026-08-25
+|
+更新时间: 2026-08-26 17:02:49
+CNNVD编号：CNNVD-2026-39064186
+doorkeeper gem Doorkeeper::OpenidConnect 授权问题漏洞
+中危
+收录时间：2026-08-25
+|
+更新时间: 2026-08-26 17:04:02
+CNNVD编号：&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-15085551 - er::OpenidConnect 授权问题漏洞</title><link>https://www.cnnvd.org.cn/frontend/loophole</link><guid isPermaLink="false">https://www.cnnvd.org.cn/#CNNVD-2026-15085551</guid><pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate><description>er::OpenidConnect 授权问题漏洞
+中危
+收录时间：2026-08-25
+|
+更新时间: 2026-08-26 17:04:02
+CNNVD编号：CNNVD-2026-15085551
+SAP s/4hana 资源管理错误漏洞
+高危
+收录时间：2026-08-25
+|
+更新时间: 2026-08-26 17:04:03
+CNNVD编号：</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/frontend/loophole&lt;/p&gt;&lt;pre&gt;er::OpenidConnect 授权问题漏洞
+中危
+收录时间：2026-08-25
+|
+更新时间: 2026-08-26 17:04:02
+CNNVD编号：CNNVD-2026-15085551
+SAP s/4hana 资源管理错误漏洞
+高危
+收录时间：2026-08-25
+|
+更新时间: 2026-08-26 17:04:03
+CNNVD编号：&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-77548052 - SAP s/4hana 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/frontend/loophole</link><guid isPermaLink="false">https://www.cnnvd.org.cn/#CNNVD-2026-77548052</guid><pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate><description>551
+SAP s/4hana 资源管理错误漏洞
+高危
+收录时间：2026-08-25
+|
+更新时间: 2026-08-26 17:04:03
+CNNVD编号：CNNVD-2026-77548052
+TYPO3 Forum 授权问题漏洞
+高危
+收录时间：2026-08-25
+|
+更新时间: 2026-08-26 17:04:01
+CNNVD编号：</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/frontend/loophole&lt;/p&gt;&lt;pre&gt;551
+SAP s/4hana 资源管理错误漏洞
+高危
+收录时间：2026-08-25
+|
+更新时间: 2026-08-26 17:04:03
+CNNVD编号：CNNVD-2026-77548052
+TYPO3 Forum 授权问题漏洞
+高危
+收录时间：2026-08-25
+|
+更新时间: 2026-08-26 17:04:01
+CNNVD编号：&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-49278890 - 48052</title><link>https://www.cnnvd.org.cn/frontend/loophole</link><guid isPermaLink="false">https://www.cnnvd.org.cn/#CNNVD-2026-49278890</guid><pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate><description>48052
+TYPO3 Forum 授权问题漏洞
+高危
+收录时间：2026-08-25
+|
+更新时间: 2026-08-26 17:04:01
+CNNVD编号：CNNVD-2026-49278890
+TYPO3 SYSSY - TYPO3 Monitoring &amp; Security Checks 加密问题漏洞
+中危
+收录时间：2026-08-25
+|
+更新时间: 2026-08-26 17:04:02
+CNNVD编号：</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/frontend/loophole&lt;/p&gt;&lt;pre&gt;48052
+TYPO3 Forum 授权问题漏洞
+高危
+收录时间：2026-08-25
+|
+更新时间: 2026-08-26 17:04:01
+CNNVD编号：CNNVD-2026-49278890
+TYPO3 SYSSY - TYPO3 Monitoring &amp;amp; Security Checks 加密问题漏洞
+中危
+收录时间：2026-08-25
+|
+更新时间: 2026-08-26 17:04:02
+CNNVD编号：&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-85554311 - &amp; Security Checks 加密问题漏洞</title><link>https://www.cnnvd.org.cn/frontend/loophole</link><guid isPermaLink="false">https://www.cnnvd.org.cn/#CNNVD-2026-85554311</guid><pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate><description>&amp; Security Checks 加密问题漏洞
+中危
+收录时间：2026-08-25
+|
+更新时间: 2026-08-26 17:04:02
+CNNVD编号：CNNVD-2026-85554311
+Mervin Praison PraisonAI 授权问题漏洞
+高危
+收录时间：2026-08-25
+|
+更新时间: 2026-08-26 17:02:44
+CNNVD编号：</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/frontend/loophole&lt;/p&gt;&lt;pre&gt;&amp;amp; Security Checks 加密问题漏洞
+中危
+收录时间：2026-08-25
+|
+更新时间: 2026-08-26 17:04:02
+CNNVD编号：CNNVD-2026-85554311
+Mervin Praison PraisonAI 授权问题漏洞
+高危
+收录时间：2026-08-25
+|
+更新时间: 2026-08-26 17:02:44
+CNNVD编号：&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-85084275 - Praison PraisonAI 授权问题漏洞</title><link>https://www.cnnvd.org.cn/frontend/loophole</link><guid isPermaLink="false">https://www.cnnvd.org.cn/#CNNVD-2026-85084275</guid><pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate><description>Praison PraisonAI 授权问题漏洞
+高危
+收录时间：2026-08-25
+|
+更新时间: 2026-08-26 17:02:44
+CNNVD编号：CNNVD-2026-85084275
+共 378287 条
+12345637829
+前往页
+快速导航
+首页
+漏洞通报
+兼容性服务
+厂商合作计划
+漏洞信息
+CNNVD动态
+漏洞报告
+技术支撑单位
+联系方式
+@ 技术支撑单位
+  (010)-82341108
+  (010)-82341135
+@ 兼容性服务
+  (010)-82341108
+  (010)-82341135
+@ 厂商合作计划
+  (010)-82341531
+关于我们
+官方微信公众号
+中国信息安全测评中心 版权所有 备案号：京ICP备14044185号</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/frontend/loophole&lt;/p&gt;&lt;pre&gt;Praison PraisonAI 授权问题漏洞
+高危
+收录时间：2026-08-25
+|
+更新时间: 2026-08-26 17:02:44
+CNNVD编号：CNNVD-2026-85084275
+共 378287 条
+12345637829
+前往页
+快速导航
+首页
+漏洞通报
+兼容性服务
+厂商合作计划
+漏洞信息
+CNNVD动态
+漏洞报告
+技术支撑单位
+联系方式
+@ 技术支撑单位
+  (010)-82341108
+  (010)-82341135
+@ 兼容性服务
+  (010)-82341108
+  (010)-82341135
+@ 厂商合作计划
+  (010)-82341531
+关于我们
+官方微信公众号
+中国信息安全测评中心 版权所有 备案号：京ICP备14044185号&lt;/pre&gt;</content:encoded></item></channel></rss>

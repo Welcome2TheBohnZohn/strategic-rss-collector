@@ -3,6 +3,7 @@ Diagnostic link report for Iran Ministry of Foreign Affairs English
 Start URL: https://en.mfa.ir/
 Source type: html
 Include regex: en\.mfa\.ir/portal/NewsView/\d+
+Include text regex: 
 
 Candidate links: 15
 All links discovered: 127

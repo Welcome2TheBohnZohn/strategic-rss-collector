@@ -3,17 +3,16 @@ Diagnostic link report for China Military Recruitment Laws and Regulations
 Start URL: https://www.gfbzb.gov.cn/news/index.action?item=ZCFG_DFFG
 Source type: html
 Include regex: gfbzb\.gov\.cn/.+
+Include text regex: 
 
 Candidate links: 34
 All links discovered: 64
 
 === MATCHED CANDIDATES ===
 
-https://www.gfbzb.gov.cn/wb/common/index.action?trnd=72463256949343308100412122001809
-  index.action
-https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/202108/20210821/2100962138.html;jsessionid=5269B0F02A46ABAFD56A646D70C8E77C
+https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/202108/20210821/2100962138.html;jsessionid=4C9B6D073FC759EE868737AAABAA113D
   中华人民共和国兵役法
-https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/202109/20210907/2106496023.html;jsessionid=5269B0F02A46ABAFD56A646D70C8E77C
+https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/202109/20210907/2106496023.html;jsessionid=4C9B6D073FC759EE868737AAABAA113D
   中华人民共和国国防法
 https://www.gfbzb.gov.cn/ssts/querybyid.action?item=ZCFG_DFFG&artid=2293449540
   铲除侵蚀征兵肌体的“脓疮毒瘤”——山东省集中开展治理打击“兵托”专项活动
@@ -21,14 +20,16 @@ https://www.gfbzb.gov.cn/ssts/querybyid.action?item=ZCFG_DFFG&artid=2293443218
   国务院办公厅、中央军委办公厅印发《兵役登记工作规定》
 https://www.gfbzb.gov.cn/ssts/querybyid.action?item=ZCFG_DFFG&artid=2293870302
   普通高校新生应征入伍宣传单（2026年版）
+https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/tjbz.shtml;jsessionid=4C9B6D073FC759EE868737AAABAA113D
+  《应征公民体格检查标准》摘要
+https://www.gfbzb.gov.cn/wb/common/index.action?trnd=05965472906080417083566276951653
+  index.action
 https://www.gfbzb.gov.cn/ssts/querybyid.action?item=ZCFG_DFFG&artid=2293935484
   征兵工作人员职业道德准则
-https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/202512/20251216/2293443179.html;jsessionid=5269B0F02A46ABAFD56A646D70C8E77C
+https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/202512/20251216/2293443179.html;jsessionid=4C9B6D073FC759EE868737AAABAA113D
   兵役登记工作规定
-https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/202304/20230413/2275695537.html;jsessionid=5269B0F02A46ABAFD56A646D70C8E77C
+https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/202304/20230413/2275695537.html;jsessionid=4C9B6D073FC759EE868737AAABAA113D
   征兵工作条例
-https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/tjbz.shtml;jsessionid=5269B0F02A46ABAFD56A646D70C8E77C
-  《应征公民体格检查标准》摘要
 https://www.gfbzb.gov.cn/ajax/qctoftj.action
   qctoftj.action
 https://www.gfbzb.gov.cn/ajax/qdtoftj.action
@@ -81,7 +82,7 @@ https://www.gfbzb.gov.cn/wb/yzyc/wdst/
 === ALL DISCOVERED LINKS ===
 
 https://www.gfbzb.gov.cn/
-https://www.gfbzb.gov.cn/wb/common/index.action?trnd=72463256949343308100412122001809
+https://www.gfbzb.gov.cn/wb/common/index.action?trnd=05965472906080417083566276951653
   登录
 https://account.chsi.com.cn/account/preregister.action?from=zbbm-login
   注册
@@ -101,15 +102,15 @@ https://www.gfbzb.gov.cn/ssts/querybyid.action?item=ZCFG_DFFG&artid=2293446166
   江苏省征兵工作条例
 https://www.gfbzb.gov.cn/ssts/querybyid.action?item=ZCFG_DFFG&artid=2293442906
   河南省征兵工作条例
-https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/202512/20251216/2293443179.html;jsessionid=5269B0F02A46ABAFD56A646D70C8E77C
+https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/202512/20251216/2293443179.html;jsessionid=4C9B6D073FC759EE868737AAABAA113D
   兵役登记工作规定
-https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/202304/20230413/2275695537.html;jsessionid=5269B0F02A46ABAFD56A646D70C8E77C
+https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/202304/20230413/2275695537.html;jsessionid=4C9B6D073FC759EE868737AAABAA113D
   征兵工作条例
-https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/202108/20210821/2100962138.html;jsessionid=5269B0F02A46ABAFD56A646D70C8E77C
+https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/202108/20210821/2100962138.html;jsessionid=4C9B6D073FC759EE868737AAABAA113D
   中华人民共和国兵役法
-https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/202109/20210907/2106496023.html;jsessionid=5269B0F02A46ABAFD56A646D70C8E77C
+https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/202109/20210907/2106496023.html;jsessionid=4C9B6D073FC759EE868737AAABAA113D
   中华人民共和国国防法
-https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/tjbz.shtml;jsessionid=5269B0F02A46ABAFD56A646D70C8E77C
+https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/tjbz.shtml;jsessionid=4C9B6D073FC759EE868737AAABAA113D
   《应征公民体格检查标准》摘要
 http://www.moe.gov.cn/s78/A15/
   教育部高校学生司（高校毕业生就业服务司）

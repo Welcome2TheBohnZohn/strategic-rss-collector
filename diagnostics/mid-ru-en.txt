@@ -1,13 +1,16 @@
 Diagnostic link report for Russian Ministry of Foreign Affairs News
 
 Start URL: https://mid.ru/en/foreign_policy/news/
-Source type: browser
+Source type: html
 Include regex: mid\.ru/en/.+
+Include text regex: 
 
 Candidate links: 0
-All links discovered: 0
+All links discovered: 1
 
 === MATCHED CANDIDATES ===
 
 
 === ALL DISCOVERED LINKS ===
+
+https://mid.ru/TSPD/08765fb817ab2000962d36ae9bf53e806780b3bc31d8677e49cf3f19559286be4c6310cac130b79e?type=10

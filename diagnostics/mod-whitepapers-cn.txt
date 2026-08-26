@@ -3,6 +3,7 @@ Diagnostic link report for China MOD Defense White Papers
 Start URL: https://www.mod.gov.cn/gfbw/fgwx/bps/index.html
 Source type: html
 Include regex: /gfbw/fgwx/bps/
+Include text regex: 
 
 Candidate links: 28
 All links discovered: 179

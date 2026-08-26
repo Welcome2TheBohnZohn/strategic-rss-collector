@@ -1,5 +1,5 @@
 Strategic RSS Collector Status
-Generated: 2026-08-26 18:25:01 UTC
+Generated: 2026-08-26 19:40:05 UTC
 
 Status meanings:
 OK = Feed contains one or more items
@@ -9,9 +9,10 @@ FAILED = Source could not be retrieved
 [OK] mod-cn - China Ministry of National Defense
   Source type: html
   Start URL: https://www.mod.gov.cn/
+  Resolved URL: http://www.mod.gov.cn/
   HTTP: 200
   Links discovered: 243
-  Candidate links: 50
+  Candidate links/items: 50
   Attempted items/articles: 12
   Items/articles with text: 12
   Items/articles with dates: 12
@@ -21,9 +22,10 @@ FAILED = Source could not be retrieved
 [OK] 81-cn - China Military Network 81.cn
   Source type: html
   Start URL: https://www.81.cn/
+  Resolved URL: http://www.81.cn/
   HTTP: 200
   Links discovered: 532
-  Candidate links: 50
+  Candidate links/items: 50
   Attempted items/articles: 12
   Items/articles with text: 12
   Items/articles with dates: 12
@@ -33,35 +35,35 @@ FAILED = Source could not be retrieved
 [FAILED] mil-ru-en - Russian Ministry of Defence English
   Source type: html
   Start URL: https://eng.mil.ru/
+  Resolved URL: https://eng.mil.ru/
   HTTP: None
   Links discovered: 0
-  Candidate links: 0
+  Candidate links/items: 0
   Attempted items/articles: 0
   Items/articles with text: 0
   Items/articles with dates: 0
   RSS feed items: 0
   SSL verification: ON
-  Error: ConnectTimeout: HTTPSConnectionPool(host='eng.mil.ru', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='eng.mil.ru', port=443) at 0x7f151b339bd0>, 'Connection to eng.mil.ru timed out. (connect timeout=10)'))
+  Error: https://eng.mil.ru/ -> ConnectTimeout: HTTPSConnectionPool(host='eng.mil.ru', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='eng.mil.ru', port=443) at 0x7f4d8352dbd0>, 'Connection to eng.mil.ru timed out. (connect timeout=10)'))
 
-[FAILED] kremlin-president-en - Kremlin President News
-  Source type: html
-  Start URL: https://en.kremlin.ru/events/president/news
-  HTTP: None
-  Links discovered: 0
-  Candidate links: 0
-  Attempted items/articles: 0
-  Items/articles with text: 0
-  Items/articles with dates: 0
-  RSS feed items: 0
+[OK] kremlin-president-en - Kremlin President News - Official RSS
+  Source type: rss
+  Start URL: http://www.kremlin.ru/feeds/news
+  Resolved URL: http://www.kremlin.ru/events/president/news/feed
+  HTTP: 200
+  Attempted items/articles: 20
+  Items/articles with text: 12
+  Items/articles with dates: 12
+  RSS feed items: 12
   SSL verification: ON
-  Error: ConnectTimeout: HTTPSConnectionPool(host='en.kremlin.ru', port=443): Max retries exceeded with url: /events/president/news (Caused by ConnectTimeoutError(<HTTPSConnection(host='en.kremlin.ru', port=443) at 0x7f151b339950>, 'Connection to en.kremlin.ru timed out. (connect timeout=10)'))
 
 [OK] mod-whitepapers-cn - China MOD Defense White Papers
   Source type: html
   Start URL: https://www.mod.gov.cn/gfbw/fgwx/bps/index.html
+  Resolved URL: http://www.mod.gov.cn/gfbw/fgwx/bps/index.html
   HTTP: 200
   Links discovered: 179
-  Candidate links: 28
+  Candidate links/items: 28
   Attempted items/articles: 12
   Items/articles with text: 12
   Items/articles with dates: 12
@@ -71,46 +73,56 @@ FAILED = Source could not be retrieved
 [OK] mod-laws-cn - China MOD Laws and Regulations
   Source type: html
   Start URL: https://www.mod.gov.cn/gfbw/fgwx/flfg/index.html
+  Resolved URL: http://www.mod.gov.cn/gfbw/fgwx/flfg/index.html
   HTTP: 200
   Links discovered: 172
-  Candidate links: 31
+  Candidate links/items: 31
   Attempted items/articles: 12
   Items/articles with text: 12
   Items/articles with dates: 12
   RSS feed items: 12
   SSL verification: OFF
 
-[FAILED] npc-defense-laws-cn - National People's Congress Defense Laws
-  Source type: html
-  Start URL: https://www.npc.gov.cn/npc/c2/c186/c208/
+[FAILED] npc-defense-laws-cn - National People's Congress Defense-Related Laws
+  Source type: browser
+  Start URL: https://www.npc.gov.cn/npc/c2/c30834/
+  Resolved URL: https://www.npc.gov.cn/npc/c2/c30834/
   HTTP: None
   Links discovered: 0
-  Candidate links: 0
+  Candidate links/items: 0
   Attempted items/articles: 0
   Items/articles with text: 0
   Items/articles with dates: 0
   RSS feed items: 0
-  SSL verification: ON
-  Error: SSLError: HTTPSConnectionPool(host='www.npc.gov.cn', port=443): Max retries exceeded with url: /npc/c2/c186/c208/ (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1032)')))
+  SSL verification: OFF
+  Error: https://www.npc.gov.cn/npc/c2/c30834/ -> Error: Page.goto: net::ERR_SSL_VERSION_OR_CIPHER_MISMATCH at https://www.npc.gov.cn/npc/c2/c30834/
+Call log:
+  - navigating to "https://www.npc.gov.cn/npc/c2/c30834/", waiting until "domcontentloaded"
+ | http://www.npc.gov.cn/npc/c2/c30834/ -> Error: Page.goto: Navigation to "http://www.npc.gov.cn/npc/c2/c30834/" is interrupted by another navigation to "chrome-error://chromewebdata/"
+Call log:
+  - navigating to "http://www.npc.gov.cn/npc/c2/c30834/", waiting until "domcontentloaded"
+
 
 [OK] sastind-cn - SASTIND
   Source type: html
   Start URL: https://www.sastind.gov.cn/
+  Resolved URL: https://www.sastind.gov.cn/
   HTTP: 200
   Links discovered: 68
-  Candidate links: 50
-  Attempted items/articles: 13
+  Candidate links/items: 50
+  Attempted items/articles: 12
   Items/articles with text: 12
   Items/articles with dates: 12
   RSS feed items: 12
   SSL verification: ON
 
 [FETCHED/NO ITEMS] mid-ru-en - Russian Ministry of Foreign Affairs News
-  Source type: browser
+  Source type: html
   Start URL: https://mid.ru/en/foreign_policy/news/
+  Resolved URL: https://mid.ru/en/foreign_policy/news/
   HTTP: 200
-  Links discovered: 0
-  Candidate links: 0
+  Links discovered: 1
+  Candidate links/items: 0
   Attempted items/articles: 0
   Items/articles with text: 0
   Items/articles with dates: 0
@@ -120,9 +132,10 @@ FAILED = Source could not be retrieved
 [OK] iran-mfa-en - Iran Ministry of Foreign Affairs English
   Source type: html
   Start URL: https://en.mfa.ir/
+  Resolved URL: https://en.mfa.ir/
   HTTP: 200
   Links discovered: 127
-  Candidate links: 15
+  Candidate links/items: 15
   Attempted items/articles: 15
   Items/articles with text: 2
   Items/articles with dates: 2
@@ -132,6 +145,7 @@ FAILED = Source could not be retrieved
 [OK] irna-en - IRNA English
   Source type: rss
   Start URL: https://en.irna.ir/rss
+  Resolved URL: https://en.irna.ir/rss
   HTTP: 200
   Attempted items/articles: 30
   Items/articles with text: 12
@@ -142,71 +156,76 @@ FAILED = Source could not be retrieved
 [OK] avic-cn - Aviation Industry Corporation of China AVIC
   Source type: html
   Start URL: https://www.avic.com/
+  Resolved URL: https://www.avic.com/
   HTTP: 200
   Links discovered: 179
-  Candidate links: 50
+  Candidate links/items: 50
   Attempted items/articles: 12
   Items/articles with text: 12
   Items/articles with dates: 12
   RSS feed items: 12
   SSL verification: ON
 
-[FAILED] norinco-cn - NORINCO Group
-  Source type: html
-  Start URL: https://www.norincogroup.com.cn/
-  HTTP: None
-  Links discovered: 0
-  Candidate links: 0
-  Attempted items/articles: 0
-  Items/articles with text: 0
-  Items/articles with dates: 0
-  RSS feed items: 0
-  SSL verification: ON
-  Error: ConnectionError: HTTPSConnectionPool(host='www.norincogroup.com.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError("HTTPSConnection(host='www.norincogroup.com.cn', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
+[OK] norinco-cn - NORINCO Group
+  Source type: browser
+  Start URL: http://www.norincogroup.com.cn/
+  Resolved URL: http://www.norincogroup.com.cn/
+  HTTP: 200
+  Links discovered: 188
+  Candidate links/items: 50
+  Attempted items/articles: 13
+  Items/articles with text: 12
+  Items/articles with dates: 12
+  RSS feed items: 12
+  SSL verification: OFF
 
-[FAILED] cssc-cn - China State Shipbuilding Corporation
-  Source type: html
-  Start URL: https://www.cssc.net.cn/n5/n18/index.html
-  HTTP: None
-  Links discovered: 0
-  Candidate links: 0
-  Attempted items/articles: 0
-  Items/articles with text: 0
-  Items/articles with dates: 0
-  RSS feed items: 0
-  SSL verification: ON
-  Error: SSLError: HTTPSConnectionPool(host='www.cssc.net.cn', port=443): Max retries exceeded with url: /n5/n18/index.html (Caused by SSLError(SSLError(1, '[SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1032)')))
+[OK] cssc-cn - China State Shipbuilding Corporation
+  Source type: browser
+  Start URL: http://www.cssc.net.cn/n5/n18/index.html
+  Resolved URL: http://www.cssc.net.cn/n5/n18/index.html
+  HTTP: 200
+  Links discovered: 306
+  Candidate links/items: 10
+  Attempted items/articles: 10
+  Items/articles with text: 10
+  Items/articles with dates: 10
+  RSS feed items: 10
+  SSL verification: OFF
 
 [OK] spacechina-cn - China Aerospace Science and Technology Corporation
   Source type: html
   Start URL: https://www.spacechina.com/n25/n2014789/index.html
+  Resolved URL: https://www.spacechina.com/n25/n2014789/index.html
   HTTP: 200
   Links discovered: 173
-  Candidate links: 50
+  Candidate links/items: 50
   Attempted items/articles: 50
   Items/articles with text: 11
   Items/articles with dates: 10
   RSS feed items: 11
   SSL verification: ON
 
-[OK] plap-cn - PLA Military Procurement Network
+[FAILED] plap-cn - PLA Military Procurement Network
   Source type: html
   Start URL: https://www.plap.mil.cn/
-  HTTP: 200
-  Links discovered: 171
-  Candidate links: 50
-  Attempted items/articles: 16
-  Items/articles with text: 12
-  Items/articles with dates: 3
-  RSS feed items: 12
+  Resolved URL: https://www.plap.mil.cn/
+  HTTP: None
+  Links discovered: 0
+  Candidate links/items: 0
+  Attempted items/articles: 0
+  Items/articles with text: 0
+  Items/articles with dates: 0
+  RSS feed items: 0
   SSL verification: ON
+  Error: https://www.plap.mil.cn/ -> ReadTimeout: HTTPSConnectionPool(host='www.plap.mil.cn', port=443): Read timed out. (read timeout=10)
 
 [OK] china-defense-news-cn - China National Defense News
   Source type: html
   Start URL: https://www.81.cn/szb_223187/gfbszblb/index.html
+  Resolved URL: http://www.81.cn/szb_223187/gfbszblb/index.html
   HTTP: 200
   Links discovered: 48
-  Candidate links: 2
+  Candidate links/items: 2
   Attempted items/articles: 2
   Items/articles with text: 2
   Items/articles with dates: 0
@@ -216,9 +235,10 @@ FAILED = Source could not be retrieved
 [OK] gfbzb-laws-cn - China Military Recruitment Laws and Regulations
   Source type: html
   Start URL: https://www.gfbzb.gov.cn/news/index.action?item=ZCFG_DFFG
+  Resolved URL: https://www.gfbzb.gov.cn/news/index.action?item=ZCFG_DFFG
   HTTP: 200
   Links discovered: 64
-  Candidate links: 34
+  Candidate links/items: 34
   Attempted items/articles: 15
   Items/articles with text: 12
   Items/articles with dates: 11
@@ -228,22 +248,24 @@ FAILED = Source could not be retrieved
 [FAILED] nudt-journal-cn - National University of Defense Technology Journal
   Source type: html
   Start URL: https://journal.nudt.edu.cn/gfkjdxxb/home
+  Resolved URL: https://journal.nudt.edu.cn/gfkjdxxb/home
   HTTP: None
   Links discovered: 0
-  Candidate links: 0
+  Candidate links/items: 0
   Attempted items/articles: 0
   Items/articles with text: 0
   Items/articles with dates: 0
   RSS feed items: 0
   SSL verification: ON
-  Error: ConnectionError: HTTPSConnectionPool(host='journal.nudt.edu.cn', port=443): Max retries exceeded with url: /gfkjdxxb/home (Caused by NewConnectionError("HTTPSConnection(host='journal.nudt.edu.cn', port=443): Failed to establish a new connection: [Errno 111] Connection refused"))
+  Error: https://journal.nudt.edu.cn/gfkjdxxb/home -> ConnectionError: HTTPSConnectionPool(host='journal.nudt.edu.cn', port=443): Max retries exceeded with url: /gfkjdxxb/home (Caused by NewConnectionError("HTTPSConnection(host='journal.nudt.edu.cn', port=443): Failed to establish a new connection: [Errno 111] Connection refused"))
 
 [OK] ncpssd-cn - National Center for Philosophy and Social Sciences Documentation
   Source type: html
   Start URL: https://www.ncpssd.cn/
+  Resolved URL: https://www.ncpssd.cn/
   HTTP: 200
   Links discovered: 195
-  Candidate links: 50
+  Candidate links/items: 50
   Attempted items/articles: 33
   Items/articles with text: 12
   Items/articles with dates: 12
@@ -253,29 +275,31 @@ FAILED = Source could not be retrieved
 [OK] stats-cn - National Bureau of Statistics of China
   Source type: html
   Start URL: https://www.stats.gov.cn/sj/zxfb/
+  Resolved URL: https://www.stats.gov.cn/sj/zxfb/
   HTTP: 200
   Links discovered: 227
-  Candidate links: 15
+  Candidate links/items: 15
   Attempted items/articles: 12
   Items/articles with text: 12
   Items/articles with dates: 12
   RSS feed items: 12
   SSL verification: ON
 
-[FETCHED/NO ITEMS] cnnvd-cn - China National Vulnerability Database CNNVD
-  Source type: browser
-  Start URL: https://www.cnnvd.org.cn/
+[OK] cnnvd-cn - China National Vulnerability Database CNNVD
+  Source type: cnnvd
+  Start URL: https://www.cnnvd.org.cn/frontend/loophole
+  Resolved URL: https://www.cnnvd.org.cn/frontend/loophole
   HTTP: 200
-  Links discovered: 31
-  Candidate links: 0
-  Attempted items/articles: 0
-  Items/articles with text: 0
-  Items/articles with dates: 0
-  RSS feed items: 0
+  Links discovered: 23
+  Candidate links/items: 10
+  Attempted items/articles: 10
+  Items/articles with text: 10
+  Items/articles with dates: 10
+  RSS feed items: 10
   SSL verification: ON
 
 SUMMARY
-Working: 14
-Fetched but no items: 2
-Failed: 6
+Working: 17
+Fetched but no items: 1
+Failed: 4
 Total sources: 22

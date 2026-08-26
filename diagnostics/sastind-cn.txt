@@ -3,6 +3,7 @@ Diagnostic link report for SASTIND
 Start URL: https://www.sastind.gov.cn/
 Source type: html
 Include regex: sastind\.gov\.cn/.+
+Include text regex: 
 
 Candidate links: 50
 All links discovered: 68
