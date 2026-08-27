@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - '.github/workflows/apply-iran-mfa-fix.yml'
+      - 'apply_iran_mfa_fix.py'
 
 permissions:
   contents: write
@@ -29,6 +30,7 @@ jobs:
       - name: Test Iran MFA collector
         run: |
           python - <<'PY'
+          import json
           import xml.etree.ElementTree as ET
           import rss_builder
 
@@ -48,6 +50,12 @@ jobs:
           guids = [item.findtext('guid') for item in items]
           assert len(set(guids)) == 12
 
+          diagnostics = json.loads(
+              open('diagnostics/iran-mfa-en-archive-diagnostic.json', encoding='utf-8').read()
+          )
+          print('DIAGNOSTICS', diagnostics)
+          assert diagnostics['detail_full_text'] >= 1, diagnostics
+
           for item in items:
               print('TITLE:', item.findtext('title'))
               print('LINK:', item.findtext('link'))
@@ -57,6 +65,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add rss_builder.py sources.json feeds/iran-mfa-en.xml articles/iran-mfa-en diagnostics/iran-mfa-en-archive-diagnostic.json
-          git commit -m "Improve Iran MFA feed collection"
+          git add rss_builder.py feeds/iran-mfa-en.xml articles/iran-mfa-en diagnostics/iran-mfa-en-archive-diagnostic.json
+          git commit -m "Extract full Iran MFA article text"
           git push
