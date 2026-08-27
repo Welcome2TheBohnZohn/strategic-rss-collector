@@ -139,11 +139,17 @@
   {
     "slug": "iran-mfa-en",
     "title": "Iran Ministry of Foreign Affairs English",
-    "source_url": "https://en.mfa.ir/",
-    "start_url": "https://en.mfa.ir/",
+    "source_url": "https://en.mfa.gov.ir/",
+    "start_url": "https://en.mfa.gov.ir/portal/NewsAgencyShow/699",
     "language": "en",
-    "include_regex": "en\\.mfa\\.ir/portal/NewsView/\\d+",
-    "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4|pdf)$"
+    "source_type": "iran_mfa",
+    "iran_mfa_archive_urls": [
+      "https://en.mfa.gov.ir/portal/NewsAgencyShow/699",
+      "https://en.mfa.gov.ir/portal/NewsAgencyShow/3180"
+    ],
+    "request_timeout": 20,
+    "max_retries": 2,
+    "retry_backoff": 2
   },
   {
     "slug": "irna-en",

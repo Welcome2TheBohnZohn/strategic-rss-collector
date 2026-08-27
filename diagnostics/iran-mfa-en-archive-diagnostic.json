@@ -1,0 +1,20 @@
+{
+  "archives": [
+    {
+      "url": "https://en.mfa.gov.ir/portal/NewsAgencyShow/699",
+      "http_status": 200,
+      "error": "",
+      "records": 24
+    },
+    {
+      "url": "https://en.mfa.gov.ir/portal/NewsAgencyShow/3180",
+      "http_status": 200,
+      "error": "",
+      "records": 24
+    }
+  ],
+  "detail_full_text": 0,
+  "archive_fallback": 12,
+  "unique_records": 48,
+  "feed_items": 12
+}
