@@ -1,0 +1,109 @@
+{
+  "queries": [
+    {
+      "keyword": "国防",
+      "url": "https://flk.npc.gov.cn/api/?type=flfg&searchType=title%3Bvague&sortTr=f_bbrq_s%3Bdesc&gbrqStart=&gbrqEnd=&sxrqStart=&sxrqEnd=&sort=true&page=1&size=20&fgbt=%E5%9B%BD%E9%98%B2&_=1787834417570",
+      "status": 200,
+      "error": "Response was not valid JSON.",
+      "returned": 0,
+      "matched": 0
+    },
+    {
+      "keyword": "兵役",
+      "url": "https://flk.npc.gov.cn/api/?type=flfg&searchType=title%3Bvague&sortTr=f_bbrq_s%3Bdesc&gbrqStart=&gbrqEnd=&sxrqStart=&sxrqEnd=&sort=true&page=1&size=20&fgbt=%E5%85%B5%E5%BD%B9&_=1787834419382",
+      "status": 200,
+      "error": "Response was not valid JSON.",
+      "returned": 0,
+      "matched": 0
+    },
+    {
+      "keyword": "军事",
+      "url": "https://flk.npc.gov.cn/api/?type=flfg&searchType=title%3Bvague&sortTr=f_bbrq_s%3Bdesc&gbrqStart=&gbrqEnd=&sxrqStart=&sxrqEnd=&sort=true&page=1&size=20&fgbt=%E5%86%9B%E4%BA%8B&_=1787834421063",
+      "status": 200,
+      "error": "Response was not valid JSON.",
+      "returned": 0,
+      "matched": 0
+    },
+    {
+      "keyword": "军人",
+      "url": "https://flk.npc.gov.cn/api/?type=flfg&searchType=title%3Bvague&sortTr=f_bbrq_s%3Bdesc&gbrqStart=&gbrqEnd=&sxrqStart=&sxrqEnd=&sort=true&page=1&size=20&fgbt=%E5%86%9B%E4%BA%BA&_=1787834423559",
+      "status": 200,
+      "error": "Response was not valid JSON.",
+      "returned": 0,
+      "matched": 0
+    },
+    {
+      "keyword": "武装",
+      "url": "https://flk.npc.gov.cn/api/?type=flfg&searchType=title%3Bvague&sortTr=f_bbrq_s%3Bdesc&gbrqStart=&gbrqEnd=&sxrqStart=&sxrqEnd=&sort=true&page=1&size=20&fgbt=%E6%AD%A6%E8%A3%85&_=1787834425546",
+      "status": 200,
+      "error": "Response was not valid JSON.",
+      "returned": 0,
+      "matched": 0
+    },
+    {
+      "keyword": "海警",
+      "url": "https://flk.npc.gov.cn/api/?type=flfg&searchType=title%3Bvague&sortTr=f_bbrq_s%3Bdesc&gbrqStart=&gbrqEnd=&sxrqStart=&sxrqEnd=&sort=true&page=1&size=20&fgbt=%E6%B5%B7%E8%AD%A6&_=1787834427854",
+      "status": 200,
+      "error": "Response was not valid JSON.",
+      "returned": 0,
+      "matched": 0
+    },
+    {
+      "keyword": "预备役",
+      "url": "https://flk.npc.gov.cn/api/?type=flfg&searchType=title%3Bvague&sortTr=f_bbrq_s%3Bdesc&gbrqStart=&gbrqEnd=&sxrqStart=&sxrqEnd=&sort=true&page=1&size=20&fgbt=%E9%A2%84%E5%A4%87%E5%BD%B9&_=1787834428809",
+      "status": 200,
+      "error": "Response was not valid JSON.",
+      "returned": 0,
+      "matched": 0
+    },
+    {
+      "keyword": "国防动员",
+      "url": "https://flk.npc.gov.cn/api/?type=flfg&searchType=title%3Bvague&sortTr=f_bbrq_s%3Bdesc&gbrqStart=&gbrqEnd=&sxrqStart=&sxrqEnd=&sort=true&page=1&size=20&fgbt=%E5%9B%BD%E9%98%B2%E5%8A%A8%E5%91%98&_=1787834431521",
+      "status": 200,
+      "error": "Response was not valid JSON.",
+      "returned": 0,
+      "matched": 0
+    },
+    {
+      "keyword": "军事设施",
+      "url": "https://flk.npc.gov.cn/api/?type=flfg&searchType=title%3Bvague&sortTr=f_bbrq_s%3Bdesc&gbrqStart=&gbrqEnd=&sxrqStart=&sxrqEnd=&sort=true&page=1&size=20&fgbt=%E5%86%9B%E4%BA%8B%E8%AE%BE%E6%96%BD&_=1787834433412",
+      "status": 200,
+      "error": "Response was not valid JSON.",
+      "returned": 0,
+      "matched": 0
+    },
+    {
+      "keyword": "退役军人",
+      "url": "https://flk.npc.gov.cn/api/?type=flfg&searchType=title%3Bvague&sortTr=f_bbrq_s%3Bdesc&gbrqStart=&gbrqEnd=&sxrqStart=&sxrqEnd=&sort=true&page=1&size=20&fgbt=%E9%80%80%E5%BD%B9%E5%86%9B%E4%BA%BA&_=1787834435175",
+      "status": 200,
+      "error": "Response was not valid JSON.",
+      "returned": 0,
+      "matched": 0
+    },
+    {
+      "keyword": "人民防空",
+      "url": "https://flk.npc.gov.cn/api/?type=flfg&searchType=title%3Bvague&sortTr=f_bbrq_s%3Bdesc&gbrqStart=&gbrqEnd=&sxrqStart=&sxrqEnd=&sort=true&page=1&size=20&fgbt=%E4%BA%BA%E6%B0%91%E9%98%B2%E7%A9%BA&_=1787834436284",
+      "status": 200,
+      "error": "Response was not valid JSON.",
+      "returned": 0,
+      "matched": 0
+    },
+    {
+      "keyword": "国防交通",
+      "url": "https://flk.npc.gov.cn/api/?type=flfg&searchType=title%3Bvague&sortTr=f_bbrq_s%3Bdesc&gbrqStart=&gbrqEnd=&sxrqStart=&sxrqEnd=&sort=true&page=1&size=20&fgbt=%E5%9B%BD%E9%98%B2%E4%BA%A4%E9%80%9A&_=1787834438017",
+      "status": 200,
+      "error": "Response was not valid JSON.",
+      "returned": 0,
+      "matched": 0
+    },
+    {
+      "keyword": "国防教育",
+      "url": "https://flk.npc.gov.cn/api/?type=flfg&searchType=title%3Bvague&sortTr=f_bbrq_s%3Bdesc&gbrqStart=&gbrqEnd=&sxrqStart=&sxrqEnd=&sort=true&page=1&size=20&fgbt=%E5%9B%BD%E9%98%B2%E6%95%99%E8%82%B2&_=1787834439102",
+      "status": 200,
+      "error": "Response was not valid JSON.",
+      "returned": 0,
+      "matched": 0
+    }
+  ],
+  "matched_records": []
+}

@@ -1,5 +1,51 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Thu, 27 Aug 2026 10:19:14 +0000</lastBuildDate><item><title>CNNVD-2026-11500481 - rtlabs stalwart 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/frontend/loophole</link><guid isPermaLink="false">https://www.cnnvd.org.cn/#CNNVD-2026-11500481</guid><pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate><description>rtlabs stalwart 输入验证错误漏洞
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Thu, 27 Aug 2026 13:07:32 +0000</lastBuildDate><item><title>CNNVD-2026-40029130 - 漏洞信息</title><link>https://www.cnnvd.org.cn/frontend/loophole</link><guid isPermaLink="false">https://www.cnnvd.org.cn/#CNNVD-2026-40029130</guid><pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate><description>漏洞信息
+GNOME Dia 缓冲区错误漏洞
+高危
+收录时间：2026-08-26
+|
+更新时间: 2026-08-27 16:46:30
+CNNVD编号：CNNVD-2026-40029130
+WeblateOrg weblate 竞争条件问题漏洞
+低危
+收录时间：2026-08-26
+|
+更新时间: 2026-08-27 16:46:31
+CNNVD编号：</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/frontend/loophole&lt;/p&gt;&lt;pre&gt;漏洞信息
+GNOME Dia 缓冲区错误漏洞
+高危
+收录时间：2026-08-26
+|
+更新时间: 2026-08-27 16:46:30
+CNNVD编号：CNNVD-2026-40029130
+WeblateOrg weblate 竞争条件问题漏洞
+低危
+收录时间：2026-08-26
+|
+更新时间: 2026-08-27 16:46:31
+CNNVD编号：&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-30195981 - lateOrg weblate 竞争条件问题漏洞</title><link>https://www.cnnvd.org.cn/frontend/loophole</link><guid isPermaLink="false">https://www.cnnvd.org.cn/#CNNVD-2026-30195981</guid><pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate><description>lateOrg weblate 竞争条件问题漏洞
+低危
+收录时间：2026-08-26
+|
+更新时间: 2026-08-27 16:46:31
+CNNVD编号：CNNVD-2026-30195981
+stalwartlabs stalwart 输入验证错误漏洞
+高危
+收录时间：2026-08-26
+|
+更新时间: 2026-08-27 16:42:42
+CNNVD编号：</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/frontend/loophole&lt;/p&gt;&lt;pre&gt;lateOrg weblate 竞争条件问题漏洞
+低危
+收录时间：2026-08-26
+|
+更新时间: 2026-08-27 16:46:31
+CNNVD编号：CNNVD-2026-30195981
+stalwartlabs stalwart 输入验证错误漏洞
+高危
+收录时间：2026-08-26
+|
+更新时间: 2026-08-27 16:42:42
+CNNVD编号：&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-11500481 - rtlabs stalwart 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/frontend/loophole</link><guid isPermaLink="false">https://www.cnnvd.org.cn/#CNNVD-2026-11500481</guid><pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate><description>rtlabs stalwart 输入验证错误漏洞
 高危
 收录时间：2026-08-26
 |
@@ -164,52 +210,6 @@ Automatisch 侧信道信息泄露漏洞
 |
 更新时间: 2026-08-27 16:45:45
 CNNVD编号：CNNVD-2026-89906549
-vesoft NebulaGraph 授权问题漏洞
-超危
-收录时间：2026-08-26
-|
-更新时间: 2026-08-27 16:42:46
-CNNVD编号：</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/frontend/loophole&lt;/p&gt;&lt;pre&gt;39
-Automatisch 侧信道信息泄露漏洞
-中危
-收录时间：2026-08-26
-|
-更新时间: 2026-08-27 16:45:45
-CNNVD编号：CNNVD-2026-89906549
-vesoft NebulaGraph 授权问题漏洞
-超危
-收录时间：2026-08-26
-|
-更新时间: 2026-08-27 16:42:46
-CNNVD编号：&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-16182004 - esoft NebulaGraph 授权问题漏洞</title><link>https://www.cnnvd.org.cn/frontend/loophole</link><guid isPermaLink="false">https://www.cnnvd.org.cn/#CNNVD-2026-16182004</guid><pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate><description>esoft NebulaGraph 授权问题漏洞
-超危
-收录时间：2026-08-26
-|
-更新时间: 2026-08-27 16:42:46
-CNNVD编号：CNNVD-2026-16182004
-GNOME Dia 缓冲区错误漏洞
-高危
-收录时间：2026-08-26
-|
-更新时间: 2026-08-27 16:46:30
-CNNVD编号：</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/frontend/loophole&lt;/p&gt;&lt;pre&gt;esoft NebulaGraph 授权问题漏洞
-超危
-收录时间：2026-08-26
-|
-更新时间: 2026-08-27 16:42:46
-CNNVD编号：CNNVD-2026-16182004
-GNOME Dia 缓冲区错误漏洞
-高危
-收录时间：2026-08-26
-|
-更新时间: 2026-08-27 16:46:30
-CNNVD编号：&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-40029130 - 182004</title><link>https://www.cnnvd.org.cn/frontend/loophole</link><guid isPermaLink="false">https://www.cnnvd.org.cn/#CNNVD-2026-40029130</guid><pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate><description>182004
-GNOME Dia 缓冲区错误漏洞
-高危
-收录时间：2026-08-26
-|
-更新时间: 2026-08-27 16:46:30
-CNNVD编号：CNNVD-2026-40029130
 共 378474 条
 12345637848
 前往页
@@ -233,13 +233,13 @@ CNNVD动态
   (010)-82341531
 关于我们
 官方微信公众号
-中国信息安全测评中心 版权所有 备案号：京ICP备14044185号</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/frontend/loophole&lt;/p&gt;&lt;pre&gt;182004
-GNOME Dia 缓冲区错误漏洞
-高危
+中国信息安全测评中心 版权所有 备案号：京ICP备14044185号</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/frontend/loophole&lt;/p&gt;&lt;pre&gt;39
+Automatisch 侧信道信息泄露漏洞
+中危
 收录时间：2026-08-26
 |
-更新时间: 2026-08-27 16:46:30
-CNNVD编号：CNNVD-2026-40029130
+更新时间: 2026-08-27 16:45:45
+CNNVD编号：CNNVD-2026-89906549
 共 378474 条
 12345637848
 前往页
