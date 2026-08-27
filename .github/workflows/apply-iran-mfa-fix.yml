@@ -1,0 +1,62 @@
+name: Apply Iran MFA Feed Fix
+
+on:
+  push:
+    paths:
+      - '.github/workflows/apply-iran-mfa-fix.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  patch-and-test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.13'
+      - name: Apply patch
+        run: |
+          python apply_iran_mfa_fix.py
+          python -m py_compile rss_builder.py
+          python -m json.tool sources.json > /dev/null
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Test Iran MFA collector
+        run: |
+          python - <<'PY'
+          import xml.etree.ElementTree as ET
+          import rss_builder
+
+          source = next(
+              source
+              for source in rss_builder.load_sources()
+              if source['slug'] == 'iran-mfa-en'
+          )
+          status = rss_builder.run_source(source)
+          print('TARGET STATUS', status)
+          assert status['feed_items'] == 12, status
+          assert status['articles_with_date'] == 12, status
+
+          root = ET.parse('feeds/iran-mfa-en.xml').getroot()
+          items = root.findall('./channel/item')
+          assert len(items) == 12
+          guids = [item.findtext('guid') for item in items]
+          assert len(set(guids)) == 12
+
+          for item in items:
+              print('TITLE:', item.findtext('title'))
+              print('LINK:', item.findtext('link'))
+              print('DATE:', item.findtext('pubDate'))
+          PY
+      - name: Commit Iran MFA improvement
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add rss_builder.py sources.json feeds/iran-mfa-en.xml articles/iran-mfa-en diagnostics/iran-mfa-en-archive-diagnostic.json
+          git commit -m "Improve Iran MFA feed collection"
+          git push
