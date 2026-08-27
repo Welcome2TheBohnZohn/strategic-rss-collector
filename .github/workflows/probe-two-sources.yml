@@ -1,0 +1,83 @@
+name: Probe CNNVD and Defense News
+
+on:
+  push:
+    paths:
+      - '.github/workflows/probe-two-sources.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.13'
+      - name: Install probe dependencies
+        run: |
+          pip install requests beautifulsoup4 lxml playwright
+          python -m playwright install --with-deps chromium
+      - name: Probe live structures
+        run: |
+          python - <<'PY'
+          from datetime import datetime, timedelta, timezone
+          import re
+          import requests
+          from bs4 import BeautifulSoup
+          from playwright.sync_api import sync_playwright
+
+          UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/151.0.0.0 Safari/537.36'
+          headers = {'User-Agent': UA}
+
+          print('===== DEFENSE NEWS DATED ISSUE PROBE =====')
+          today = datetime.now(timezone.utc).date()
+          for delta in range(0, 21):
+              d = today - timedelta(days=delta)
+              ds = d.isoformat()
+              url = f'http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate={ds}&paperName=zggfb&paperNumber=01'
+              try:
+                  r = requests.get(url, headers=headers, timeout=15, allow_redirects=True)
+                  soup = BeautifulSoup(r.text, 'lxml')
+                  matches = []
+                  for a in soup.find_all('a', href=True):
+                      href = a.get('href', '').strip()
+                      text = ' '.join(a.get_text(' ', strip=True).split())
+                      if 'szbxq' in href or 'articleid=' in href:
+                          matches.append((text, href))
+                  raw_ids = sorted(set(re.findall(r'articleid[=:\"\']+([0-9]+)', r.text, flags=re.I)))
+                  print(f'{ds} status={r.status_code} bytes={len(r.content)} detail_links={len(matches)} raw_articleids={len(raw_ids)}')
+                  for item in matches[:12]:
+                      print('  LINK', item)
+                  if raw_ids:
+                      print('  IDS', raw_ids[:20])
+                  if matches or raw_ids:
+                      print('  FOUND ISSUE:', url)
+                      break
+              except Exception as e:
+                  print(ds, type(e).__name__, e)
+
+          print('\n===== CNNVD DOM PROBE =====')
+          with sync_playwright() as p:
+              browser = p.chromium.launch(headless=True, args=['--no-sandbox'])
+              page = browser.new_page(user_agent=UA, locale='zh-CN')
+              page.goto('https://www.cnnvd.org.cn/frontend/loophole', wait_until='domcontentloaded', timeout=30000)
+              page.wait_for_timeout(7000)
+              anchors = page.locator('a').evaluate_all("els => els.map(a => ({text:(a.innerText||'').trim(), href:a.href||''}))")
+              interesting = [a for a in anchors if 'CNNVD-' in a['text'] or 'loophole' in a['href'].lower() or 'detail' in a['href'].lower()]
+              print('anchors total=', len(anchors), 'interesting=', len(interesting))
+              for a in interesting[:80]:
+                  print('ANCHOR', a)
+              body = page.locator('body').inner_text()
+              ids = re.findall(r'CNNVD-\d{4,6}-\d+', body, flags=re.I)[:5]
+              print('first ids=', ids)
+              html = page.content()
+              for vid in ids[:3]:
+                  idx = html.find(vid)
+                  if idx >= 0:
+                      print('HTML AROUND', vid, html[max(0,idx-1200):idx+1200].replace('\n',' ')[:2400])
+              browser.close()
+          PY
