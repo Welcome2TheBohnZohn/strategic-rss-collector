@@ -1,5 +1,5 @@
 Strategic RSS Collector Status
-Generated: 2026-08-27 16:00:55 UTC
+Generated: 2026-08-27 16:45:57 UTC
 
 Status meanings:
 OK = Feed contains one or more items
@@ -53,7 +53,7 @@ FAILED = Source could not be retrieved
   Request timeout: 12s
   Max retries: 1
   Retry backoff: 1s
-  Error: https://eng.mil.ru/ -> ConnectTimeout: HTTPSConnectionPool(host='eng.mil.ru', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='eng.mil.ru', port=443) at 0x7fada4155950>, 'Connection to eng.mil.ru timed out. (connect timeout=12)'))
+  Error: https://eng.mil.ru/ -> ConnectTimeout: HTTPSConnectionPool(host='eng.mil.ru', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='eng.mil.ru', port=443) at 0x7f34a8175950>, 'Connection to eng.mil.ru timed out. (connect timeout=12)'))
 
 [OK] kremlin-president-en - Kremlin President News - Official RSS
   Source type: rss
@@ -260,16 +260,16 @@ FAILED = Source could not be retrieved
   Retry backoff: 1s
 
 [OK] china-defense-news-cn - China National Defense News
-  Source type: html
+  Source type: newspaper
   Start URL: http://www.81.cn/szb_223187/gfbszblb/index.html
-  Resolved URL: http://www.81.cn/szb_223187/gfbszblb/index.html
+  Resolved URL: http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-08-27&paperName=zggfb&paperNumber=01
   HTTP: 200
-  Links discovered: 48
-  Candidate links/items: 1
-  Attempted items/articles: 1
-  Items/articles with text: 1
-  Items/articles with dates: 0
-  RSS feed items: 1
+  Links discovered: 278
+  Candidate links/items: 12
+  Attempted items/articles: 12
+  Items/articles with text: 12
+  Items/articles with dates: 12
+  RSS feed items: 12
   SSL verification: ON
   Request timeout: 30s
   Max retries: 4
