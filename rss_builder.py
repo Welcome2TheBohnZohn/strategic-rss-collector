@@ -1657,20 +1657,69 @@ def save_article(
         exist_ok=True,
     )
 
+    base_name = safe_filename(
+        article[
+            "title"
+        ],
+        article[
+            "url"
+        ],
+    )
+
     path = (
         folder
         / (
-            safe_filename(
-                article[
-                    "title"
-                ],
-                article[
-                    "url"
-                ],
-            )
+            base_name
             + ".md"
         )
     )
+
+    # Preserve human-readable title filenames, but do not let
+    # two different articles with the same title overwrite one
+    # another. If the existing file already belongs to this URL,
+    # reuse it. Otherwise append a deterministic short URL hash.
+    if path.exists():
+
+        existing_text = ""
+
+        try:
+
+            existing_text = path.read_text(
+                encoding="utf-8"
+            )
+
+        except Exception:
+
+            pass
+
+        source_marker = (
+            "Source: "
+            + article[
+                "url"
+            ]
+        )
+
+        if source_marker not in existing_text:
+
+            url_hash = hashlib.sha1(
+                article[
+                    "url"
+                ].encode(
+                    "utf-8"
+                )
+            ).hexdigest()[
+                :8
+            ]
+
+            path = (
+                folder
+                / (
+                    base_name
+                    + "_"
+                    + url_hash
+                    + ".md"
+                )
+            )
 
     published = article.get(
         "published"
@@ -1925,7 +1974,25 @@ def build_rss(
         )
     )
 
-    for article in articles:
+    # RSS readers often apply their own date sorting, but the feed
+    # itself should still be deterministic and newest-first. Items
+    # without a publication date are placed after all dated items.
+    sorted_articles = sorted(
+        articles,
+        key=lambda article: (
+            normalize_datetime(
+                article.get(
+                    "published"
+                )
+            )
+            or datetime.min.replace(
+                tzinfo=timezone.utc
+            )
+        ),
+        reverse=True,
+    )
+
+    for article in sorted_articles:
 
         item = ET.SubElement(
             channel,
@@ -4015,7 +4082,8 @@ def cnnvd_title(
 
     lines = [
         line
-        for line in lines
+        for line
+        in lines
         if line
     ]
 
