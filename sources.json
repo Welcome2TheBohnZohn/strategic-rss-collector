@@ -229,11 +229,21 @@
       "https://www.81.cn/rmjz_203219/zggfb/index.html"
     ],
     "language": "zh-CN",
-    "include_regex": "81\\.cn/(szb_223187/gfbszblb|rmjz_203219/zggfb)/.+",
+    "include_regex": "81\\.cn/szb_223187/gfbszbxq/.+",
     "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4|pdf)$",
     "request_timeout": 30,
     "max_retries": 4,
-    "retry_backoff": 5
+    "retry_backoff": 5,
+    "source_type": "newspaper",
+    "browser_locale": "zh-CN",
+    "paper_name": "zggfb",
+    "paper_pages": [
+      "01",
+      "02",
+      "03",
+      "04"
+    ],
+    "newspaper_lookback_days": 14
   },
   {
     "slug": "gfbzb-laws-cn",

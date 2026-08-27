@@ -7,7 +7,7 @@ import json
 import re
 import time
 import zipfile
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from email.utils import format_datetime
 from pathlib import Path
 from urllib.parse import parse_qs, urljoin, urlparse
@@ -4240,6 +4240,672 @@ def run_npc(source):
     return status
 
 
+
+# ============================================================
+# CHINA NATIONAL DEFENSE NEWS DIGITAL NEWSPAPER
+# ============================================================
+
+
+def newspaper_issue_url(
+    source,
+    issue_date,
+    paper_number,
+):
+
+    base_url = source[
+        "start_url"
+    ].split(
+        "?",
+        1,
+    )[0]
+
+    paper_name = source.get(
+        "paper_name",
+        "zggfb",
+    )
+
+    return (
+        base_url
+        + "?paperDate="
+        + issue_date
+        + "&paperName="
+        + paper_name
+        + "&paperNumber="
+        + paper_number
+    )
+
+
+def newspaper_article_links(
+    source,
+    links,
+    issue_date,
+):
+
+    paper_name = source.get(
+        "paper_name",
+        "zggfb",
+    )
+
+    ignored_titles = {
+        "图片",
+        "启事",
+        "广告",
+        "PDF版下载",
+        "上一版",
+        "下一版",
+    }
+
+    output = []
+
+    for item in links:
+
+        url = item.get(
+            "url",
+            "",
+        )
+
+        title = normalize_text(
+            item.get(
+                "text",
+                "",
+            )
+        )
+
+        try:
+
+            parsed = urlparse(
+                url
+            )
+
+            query = parse_qs(
+                parsed.query
+            )
+
+        except Exception:
+
+            continue
+
+        if (
+            "/szb_223187/gfbszbxq/"
+            not in parsed.path
+        ):
+
+            continue
+
+        if (
+            query.get(
+                "paperName",
+                [
+                    ""
+                ],
+            )[0]
+            != paper_name
+        ):
+
+            continue
+
+        if (
+            query.get(
+                "paperDate",
+                [
+                    ""
+                ],
+            )[0]
+            != issue_date
+        ):
+
+            continue
+
+        if not query.get(
+            "articleid"
+        ):
+
+            continue
+
+        if (
+            not title
+            or title in ignored_titles
+        ):
+
+            continue
+
+        output.append(
+            {
+                "url": url,
+                "anchor_title": title,
+            }
+        )
+
+    return output
+
+
+def run_newspaper(source):
+
+    print(
+        "\n==> "
+        + source[
+            "slug"
+        ]
+        + " [NEWSPAPER]: "
+        + source[
+            "start_url"
+        ],
+        flush=True,
+    )
+
+    status = base_status(
+        source
+    )
+
+    status[
+        "source_type"
+    ] = "newspaper"
+
+    lookback_days = max(
+        1,
+        int(
+            source.get(
+                "newspaper_lookback_days",
+                14,
+            )
+        ),
+    )
+
+    paper_pages = source.get(
+        "paper_pages",
+        [
+            "01",
+            "02",
+            "03",
+            "04",
+        ],
+    )
+
+    diagnostics = {
+        "issue_date": None,
+        "issue_pages": [],
+        "candidates": [],
+    }
+
+    try:
+
+        with sync_playwright() as playwright:
+
+            browser, context = (
+                browser_context(
+                    playwright,
+                    source,
+                )
+            )
+
+            page = context.new_page()
+
+            page.set_default_timeout(
+                source_browser_timeout_ms(
+                    source
+                )
+            )
+
+            latest_date = None
+            first_page_links = None
+            first_page_url = ""
+            last_http_status = None
+
+            china_today = (
+                datetime.now(
+                    timezone.utc
+                )
+                + timedelta(
+                    hours=8
+                )
+            ).date()
+
+            for day_offset in range(
+                lookback_days
+            ):
+
+                issue_date = (
+                    china_today
+                    - timedelta(
+                        days=day_offset
+                    )
+                ).isoformat()
+
+                issue_url = (
+                    newspaper_issue_url(
+                        source,
+                        issue_date,
+                        "01",
+                    )
+                )
+
+                try:
+
+                    response = page.goto(
+                        issue_url,
+                        wait_until=(
+                            "domcontentloaded"
+                        ),
+                        timeout=(
+                            source_browser_timeout_ms(
+                                source
+                            )
+                        ),
+                    )
+
+                    page.wait_for_timeout(
+                        3000
+                    )
+
+                    try:
+
+                        page.wait_for_load_state(
+                            "networkidle",
+                            timeout=3500,
+                        )
+
+                    except PlaywrightTimeoutError:
+
+                        pass
+
+                    last_http_status = (
+                        response.status
+                        if response
+                        else 200
+                    )
+
+                    links = collect_links(
+                        page.content(),
+                        page.url,
+                    )
+
+                    candidates = (
+                        newspaper_article_links(
+                            source,
+                            links,
+                            issue_date,
+                        )
+                    )
+
+                    if candidates:
+
+                        latest_date = (
+                            issue_date
+                        )
+
+                        first_page_links = (
+                            links
+                        )
+
+                        first_page_url = (
+                            page.url
+                        )
+
+                        break
+
+                except Exception as exc:
+
+                    print(
+                        "    Newspaper issue "
+                        f"probe failed: "
+                        f"{issue_url} -> "
+                        f"{type(exc).__name__}: "
+                        f"{exc}",
+                        flush=True,
+                    )
+
+            status[
+                "http_status"
+            ] = last_http_status
+
+            if not latest_date:
+
+                status[
+                    "error"
+                ] = (
+                    "No rendered China "
+                    "National Defense News "
+                    "issue with article links "
+                    f"was found in the last "
+                    f"{lookback_days} days."
+                )
+
+                save_raw(
+                    source,
+                    json.dumps(
+                        diagnostics,
+                        ensure_ascii=False,
+                        indent=2,
+                    ),
+                    (
+                        "newspaper-"
+                        "diagnostic.json"
+                    ),
+                )
+
+                write_feed(
+                    source,
+                    [],
+                )
+
+                context.close()
+                browser.close()
+
+                return status
+
+            diagnostics[
+                "issue_date"
+            ] = latest_date
+
+            status[
+                "resolved_url"
+            ] = first_page_url
+
+            candidate_map = {}
+            total_links = 0
+
+            for paper_number in paper_pages:
+
+                if (
+                    paper_number == "01"
+                    and first_page_links
+                    is not None
+                ):
+
+                    links = (
+                        first_page_links
+                    )
+
+                    page_url = (
+                        first_page_url
+                    )
+
+                else:
+
+                    page_url = (
+                        newspaper_issue_url(
+                            source,
+                            latest_date,
+                            paper_number,
+                        )
+                    )
+
+                    try:
+
+                        response = page.goto(
+                            page_url,
+                            wait_until=(
+                                "domcontentloaded"
+                            ),
+                            timeout=(
+                                source_browser_timeout_ms(
+                                    source
+                                )
+                            ),
+                        )
+
+                        page.wait_for_timeout(
+                            2500
+                        )
+
+                        try:
+
+                            page.wait_for_load_state(
+                                "networkidle",
+                                timeout=3000,
+                            )
+
+                        except PlaywrightTimeoutError:
+
+                            pass
+
+                        if response:
+
+                            status[
+                                "http_status"
+                            ] = response.status
+
+                        links = collect_links(
+                            page.content(),
+                            page.url,
+                        )
+
+                        page_url = page.url
+
+                    except Exception as exc:
+
+                        diagnostics[
+                            "issue_pages"
+                        ].append(
+                            {
+                                "paper_number": (
+                                    paper_number
+                                ),
+                                "url": page_url,
+                                "error": (
+                                    f"{type(exc).__name__}: "
+                                    f"{exc}"
+                                ),
+                            }
+                        )
+
+                        continue
+
+                total_links += len(
+                    links
+                )
+
+                page_candidates = (
+                    newspaper_article_links(
+                        source,
+                        links,
+                        latest_date,
+                    )
+                )
+
+                diagnostics[
+                    "issue_pages"
+                ].append(
+                    {
+                        "paper_number": (
+                            paper_number
+                        ),
+                        "url": page_url,
+                        "links": len(
+                            links
+                        ),
+                        "article_links": len(
+                            page_candidates
+                        ),
+                    }
+                )
+
+                for candidate in (
+                    page_candidates
+                ):
+
+                    candidate_map.setdefault(
+                        candidate[
+                            "url"
+                        ],
+                        candidate,
+                    )
+
+            candidates = list(
+                candidate_map.values()
+            )
+
+            diagnostics[
+                "candidates"
+            ] = candidates
+
+            status[
+                "all_links"
+            ] = total_links
+
+            status[
+                "candidate_links"
+            ] = len(
+                candidates
+            )
+
+            articles = []
+
+            issue_published = (
+                datetime.fromisoformat(
+                    latest_date
+                )
+            )
+
+            for candidate in candidates:
+
+                if len(
+                    articles
+                ) >= MAX_ITEMS_PER_SOURCE:
+
+                    break
+
+                status[
+                    "attempted"
+                ] += 1
+
+                try:
+
+                    response = page.goto(
+                        candidate[
+                            "url"
+                        ],
+                        wait_until=(
+                            "domcontentloaded"
+                        ),
+                        timeout=(
+                            source_browser_timeout_ms(
+                                source
+                            )
+                        ),
+                    )
+
+                    page.wait_for_timeout(
+                        1200
+                    )
+
+                    if response:
+
+                        status[
+                            "http_status"
+                        ] = response.status
+
+                    article = extract_article(
+                        page.content(),
+                        candidate[
+                            "anchor_title"
+                        ],
+                        page.url,
+                    )
+
+                    if len(
+                        article[
+                            "text"
+                        ]
+                    ) < 200:
+
+                        continue
+
+                    generic_titles = {
+                        "中国国防报",
+                        "中国军网",
+                        "数字报刊",
+                    }
+
+                    if (
+                        not article.get(
+                            "title"
+                        )
+                        or article[
+                            "title"
+                        ] in generic_titles
+                    ):
+
+                        article[
+                            "title"
+                        ] = candidate[
+                            "anchor_title"
+                        ]
+
+                    article[
+                        "url"
+                    ] = page.url
+
+                    article[
+                        "guid"
+                    ] = page.url
+
+                    article[
+                        "published"
+                    ] = issue_published
+
+                    save_article(
+                        source[
+                            "slug"
+                        ],
+                        article,
+                    )
+
+                    articles.append(
+                        article
+                    )
+
+                except Exception as exc:
+
+                    print(
+                        "    Newspaper article "
+                        f"failed: "
+                        f"{candidate['url']} -> "
+                        f"{type(exc).__name__}: "
+                        f"{exc}",
+                        flush=True,
+                    )
+
+            populate_counts(
+                status,
+                articles,
+            )
+
+            write_feed(
+                source,
+                articles,
+            )
+
+            save_raw(
+                source,
+                json.dumps(
+                    diagnostics,
+                    ensure_ascii=False,
+                    indent=2,
+                ),
+                (
+                    "newspaper-"
+                    "diagnostic.json"
+                ),
+            )
+
+            context.close()
+            browser.close()
+
+            return status
+
+    except Exception as exc:
+
+        status[
+            "error"
+        ] = (
+            f"{type(exc).__name__}: "
+            f"{exc}"
+        )
+
+        return status
+
+
 # ============================================================
 # CNNVD
 # ============================================================
@@ -4483,6 +5149,191 @@ def parse_cnnvd_list(
     return articles
 
 
+
+def parse_cnnvd_dom(
+    rendered_html,
+    rendered_text,
+    source,
+):
+
+    soup = BeautifulSoup(
+        rendered_html,
+        "lxml",
+    )
+
+    articles = []
+    seen = set()
+
+    for row in soup.select(
+        "div.el-row.content-center"
+    ):
+
+        title_node = row.select_one(
+            ".item-content-title-content"
+        )
+
+        code_node = row.select_one(
+            ".content-code"
+        )
+
+        if (
+            not title_node
+            or not code_node
+        ):
+
+            continue
+
+        code_text = normalize_text(
+            code_node.get_text(
+                " ",
+                strip=True,
+            )
+        )
+
+        id_match = re.search(
+            r"CNNVD-\d{4,6}-\d+",
+            code_text,
+            re.IGNORECASE,
+        )
+
+        if not id_match:
+
+            continue
+
+        cnnvd_id = (
+            id_match.group(
+                0
+            ).upper()
+        )
+
+        if cnnvd_id in seen:
+
+            continue
+
+        title = normalize_text(
+            title_node.get(
+                "title"
+            )
+            or title_node.get_text(
+                " ",
+                strip=True,
+            )
+        )
+
+        if not title:
+
+            continue
+
+        seen.add(
+            cnnvd_id
+        )
+
+        severity_node = row.select_one(
+            ".show-but span"
+        )
+
+        severity = normalize_text(
+            severity_node.get_text(
+                " ",
+                strip=True,
+            )
+            if severity_node
+            else ""
+        )
+
+        detail_node = row.select_one(
+            ".content-detail"
+        )
+
+        detail_text = normalize_text(
+            detail_node.get_text(
+                " ",
+                strip=True,
+            )
+            if detail_node
+            else ""
+        )
+
+        published = None
+
+        date_match = re.search(
+            r"收录时间[：:]\s*"
+            r"(20\d{2}[-/.]"
+            r"\d{1,2}[-/.]"
+            r"\d{1,2})",
+            detail_text,
+        )
+
+        if date_match:
+
+            published = try_parse_date(
+                date_match.group(
+                    1
+                )
+            )
+
+        text_parts = [
+            title
+        ]
+
+        if severity:
+
+            text_parts.append(
+                "危害等级: "
+                + severity
+            )
+
+        if detail_text:
+
+            text_parts.append(
+                detail_text
+            )
+
+        text_parts.append(
+            "CNNVD编号: "
+            + cnnvd_id
+        )
+
+        item_url = (
+            source[
+                "source_url"
+            ].rstrip("/")
+            + "/home/globalSearch?keyword="
+            + cnnvd_id
+        )
+
+        articles.append(
+            {
+                "title": (
+                    f"{cnnvd_id} - "
+                    f"{title}"
+                ),
+                "url": item_url,
+                "guid": item_url,
+                "text": "\n".join(
+                    text_parts
+                ),
+                "published": published,
+            }
+        )
+
+        if len(
+            articles
+        ) >= MAX_ITEMS_PER_SOURCE:
+
+            break
+
+    if articles:
+
+        return articles
+
+    # Preserve the prior parser as a fallback if CNNVD changes
+    # its rendered DOM structure in the future.
+    return parse_cnnvd_list(
+        rendered_text,
+        source,
+    )
+
 def run_cnnvd(source):
 
     print(
@@ -4592,8 +5443,13 @@ def run_cnnvd(source):
                 page.url,
             )
 
+            rendered_html = (
+                page.content()
+            )
+
             articles = (
-                parse_cnnvd_list(
+                parse_cnnvd_dom(
+                    rendered_html,
                     body_text,
                     source,
                 )
@@ -4687,6 +5543,12 @@ def run_source(source):
     if source_type == "cnnvd":
 
         return run_cnnvd(
+            source
+        )
+
+    if source_type == "newspaper":
+
+        return run_newspaper(
             source
         )
 
@@ -4807,6 +5669,7 @@ def write_status_report(
             "browser",
             "npc",
             "cnnvd",
+            "newspaper",
         ):
 
             lines.extend(
