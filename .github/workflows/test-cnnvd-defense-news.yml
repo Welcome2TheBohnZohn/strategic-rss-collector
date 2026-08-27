@@ -1,0 +1,59 @@
+name: Test CNNVD and Defense News
+
+on:
+  push:
+    paths:
+      - '.github/workflows/test-cnnvd-defense-news.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.13'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Run targeted collectors
+        run: |
+          python - <<'PY'
+          import xml.etree.ElementTree as ET
+          import rss_builder
+
+          wanted = {
+              'china-defense-news-cn',
+              'cnnvd-cn',
+          }
+
+          sources = [
+              source
+              for source in rss_builder.load_sources()
+              if source['slug'] in wanted
+          ]
+
+          for source in sources:
+              status = rss_builder.run_source(source)
+              print('\nTARGET STATUS', status)
+
+              feed_path = rss_builder.FEEDS_DIR / f"{source['slug']}.xml"
+              root = ET.parse(feed_path).getroot()
+              items = root.findall('./channel/item')
+              print('XML ITEMS', len(items))
+              for item in items[:12]:
+                  print('TITLE:', item.findtext('title'))
+                  print('LINK:', item.findtext('link'))
+                  print('DATE:', item.findtext('pubDate'))
+          PY
