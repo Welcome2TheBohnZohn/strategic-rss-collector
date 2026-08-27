@@ -166,8 +166,6 @@ https://www.plap.mil.cn/freecms/site/juncai/hydt/info/2025/2217937.html
   > 关于部分服装材料供应商信息的征集公告 2025-10-24
 https://www.plap.mil.cn/freecms-glht/site/juncai//cggg/index.html
   查看更多
-https://www.plap.mil.cn/
-  全部
 https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00e1a00f0b6501a03dc4e65a6cf3.html?noticeType=001021&channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
   2026年物业管理服务采购项目中标（成交）结果公示2026-JQ04-F1172 北京 公开招标 服务 2026-08-27
 https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d00c59fd53cf501a040e1858c5394.html?noticeType=001032&channel=a2399540-ac44-4c68-a612-9bdbdb3634e5
@@ -324,6 +322,7 @@ https://www.plap.mil.cn/gateway/gp-auth-center/rest/v1/user/userInfo
 https://www.plap.mil.cn/gateway/gp-auth-center/login?tenantId=Cxiangmu-001&amp;redirectUrl=
 https://www.plap.mil.cn/gateway/api/oauth/logout?&amp;logoutRedirectUrl=
 https://www.plap.mil.cn/gateway/gpc-gpcms/rest/v2/punish/public?&amp;publishType=suspend
+https://www.plap.mil.cn/
 https://www.plap.mil.cn/freecms-glht/site/juncai/resources/img/position-bg.png
 https://www.plap.mil.cn/freecms-glht/site/juncai/resources/img/1.png
 https://www.plap.mil.cn/freecms-glht/upload/404bb030-5be9-4070-85bd-c94b1473e8de/7ae1ab8f-4fa3-4a34-a27d-7be40f5d7416.png

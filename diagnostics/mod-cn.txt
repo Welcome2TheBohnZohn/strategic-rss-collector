@@ -6,7 +6,7 @@ Include regex: /gfbw/|/xwfyr/|/wzll/
 Include text regex: 
 
 Candidate links: 50
-All links discovered: 243
+All links discovered: 242
 
 === MATCHED CANDIDATES ===
 
@@ -359,8 +359,6 @@ http://www.mod.gov.cn/gfbw/jsxd/16480104.html
   执行“和谐使命-2026”任务的海军“吉祥方舟”号医院船官兵迎接中国医师节
 http://www.mod.gov.cn/gfbw/xwfyr/lxjzhzt/2026lxjzh/2026n7y/index.html
   2026年7月例行记者会专题
-http://www.mod.gov.cn/
-  实况录播
 http://www.mod.gov.cn/gfbw/xwfyr/lxjzhzt/2026lxjzh/2026n7y/16476927.html
   文字实录
 http://www.mod.gov.cn/gfbw/xwfyr/lxjzhzt/2026lxjzh/2026n6y/index.html

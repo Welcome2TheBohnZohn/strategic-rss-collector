@@ -10,9 +10,9 @@ lateOrg weblate 竞争条件问题漏洞
 |
 更新时间: 2026-08-27 16:46:31
 CNNVD编号：CNNVD-2026-30195981
-WeblateOrg weblate 信息泄露漏洞
-中危
+stalwartlabs stalwart 输入验证错误漏洞
+高危
 收录时间：2026-08-26
 |
-更新时间: 2026-08-27 16:46:31
+更新时间: 2026-08-27 16:42:42
 CNNVD编号：
