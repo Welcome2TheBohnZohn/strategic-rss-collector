@@ -11,7 +11,7 @@ permissions:
 jobs:
   probe:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -20,6 +20,8 @@ jobs:
         with:
           python-version: '3.13'
       - name: Install dependencies
-        run: pip install requests beautifulsoup4 lxml
+        run: pip install -r requirements.txt
+      - name: Install Chromium
+        run: python -m playwright install --with-deps chromium
       - name: Probe archive structure
         run: python probe_iran_mfa.py
