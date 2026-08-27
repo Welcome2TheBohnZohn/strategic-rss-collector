@@ -80,13 +80,16 @@
   {
     "slug": "npc-defense-laws-cn",
     "title": "National People's Congress Defense-Related Laws",
-    "source_url": "https://flk.npc.gov.cn/",
-    "start_url": "https://flk.npc.gov.cn/api/",
+    "source_url": "https://flk.npc.gov.cn/search",
+    "start_url": "https://flk.npc.gov.cn/law-search/search/list",
     "language": "zh-CN",
     "source_type": "npc",
-    "npc_api_url": "https://flk.npc.gov.cn/api/",
-    "npc_detail_url": "https://flk.npc.gov.cn/api/detail",
-    "npc_download_base_url": "https://wb.flk.npc.gov.cn",
+    "npc_enum_url": "https://flk.npc.gov.cn/law-search/search/enumData",
+    "npc_search_url": "https://flk.npc.gov.cn/law-search/search/list",
+    "npc_categories": [
+      "法律",
+      "行政法规"
+    ],
     "npc_keywords": [
       "国防",
       "兵役",
@@ -100,8 +103,12 @@
       "退役军人",
       "人民防空",
       "国防交通",
-      "国防教育"
+      "国防教育",
+      "现役",
+      "军队"
     ],
+    "npc_page_size": 100,
+    "npc_max_pages_per_category": 10,
     "verify_ssl": false,
     "request_timeout": 20,
     "max_retries": 2,
