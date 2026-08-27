@@ -82,12 +82,15 @@ def normalize_text(value):
 
     text = str(value)
 
-    text = text.replace(
-        "\r\n",
-        "\n",
-    ).replace(
-        "\r",
-        "\n",
+    text = (
+        text.replace(
+            "\r\n",
+            "\n",
+        )
+        .replace(
+            "\r",
+            "\n",
+        )
     )
 
     text = re.sub(
@@ -171,14 +174,9 @@ def source_retry_backoff(source):
 
 
 def source_browser_timeout_ms(source):
-    configured = (
-        source_timeout(source)
-        * 1000
-    )
-
     return max(
         DEFAULT_BROWSER_TIMEOUT_MS,
-        configured,
+        source_timeout(source) * 1000,
     )
 
 
@@ -201,7 +199,9 @@ def start_urls(source):
             value
             and value not in output
         ):
-            output.append(value)
+            output.append(
+                value
+            )
 
     return output
 
@@ -214,6 +214,7 @@ def request_headers():
             "application/xhtml+xml,"
             "application/rss+xml,"
             "application/atom+xml,"
+            "application/json,"
             "application/xml;q=0.9,"
             "*/*;q=0.8"
         ),
@@ -235,6 +236,7 @@ def fetch(
     max_retries=DEFAULT_MAX_RETRIES,
     retry_backoff=DEFAULT_RETRY_BACKOFF,
     verify_ssl=True,
+    params=None,
 ):
     if not verify_ssl:
         urllib3.disable_warnings(
@@ -266,6 +268,7 @@ def fetch(
             response = requests.get(
                 url,
                 headers=request_headers(),
+                params=params,
                 timeout=timeout,
                 allow_redirects=True,
                 verify=verify_ssl,
@@ -290,6 +293,7 @@ def fetch(
                 "text": response.text,
                 "content": response.content,
                 "error": "",
+                "response": response,
             }
 
         except Exception as exc:
@@ -332,6 +336,118 @@ def fetch(
         "text": "",
         "content": b"",
         "error": last_error,
+        "response": None,
+    }
+
+
+def post_form(
+    url,
+    data,
+    *,
+    timeout=DEFAULT_REQUEST_TIMEOUT,
+    max_retries=DEFAULT_MAX_RETRIES,
+    retry_backoff=DEFAULT_RETRY_BACKOFF,
+    verify_ssl=True,
+):
+    if not verify_ssl:
+        urllib3.disable_warnings(
+            urllib3.exceptions.InsecureRequestWarning
+        )
+
+    last_error = ""
+
+    total_attempts = (
+        max_retries + 1
+    )
+
+    for attempt_index in range(
+        total_attempts
+    ):
+        attempt_number = (
+            attempt_index + 1
+        )
+
+        try:
+            print(
+                f"    POST "
+                f"{attempt_number}/"
+                f"{total_attempts}: "
+                f"{url}",
+                flush=True,
+            )
+
+            response = requests.post(
+                url,
+                headers=request_headers(),
+                data=data,
+                timeout=timeout,
+                allow_redirects=True,
+                verify=verify_ssl,
+            )
+
+            response.raise_for_status()
+
+            if (
+                not response.encoding
+                or response.encoding.lower()
+                == "iso-8859-1"
+            ):
+                response.encoding = (
+                    response.apparent_encoding
+                    or "utf-8"
+                )
+
+            return {
+                "ok": True,
+                "url": response.url,
+                "status": response.status_code,
+                "text": response.text,
+                "content": response.content,
+                "error": "",
+                "response": response,
+            }
+
+        except Exception as exc:
+            last_error = (
+                f"{type(exc).__name__}: "
+                f"{exc}"
+            )
+
+            print(
+                f"    POST failed: "
+                f"{last_error}",
+                flush=True,
+            )
+
+            if (
+                attempt_index
+                < total_attempts - 1
+            ):
+                wait_seconds = (
+                    retry_backoff
+                    * attempt_number
+                )
+
+                if wait_seconds > 0:
+                    print(
+                        f"    Retrying POST in "
+                        f"{wait_seconds} "
+                        f"seconds...",
+                        flush=True,
+                    )
+
+                    time.sleep(
+                        wait_seconds
+                    )
+
+    return {
+        "ok": False,
+        "url": url,
+        "status": None,
+        "text": "",
+        "content": b"",
+        "error": last_error,
+        "response": None,
     }
 
 
@@ -339,6 +455,7 @@ def fetch_for_source(
     source,
     url,
     *,
+    params=None,
     override_retries=None,
 ):
     if override_retries is None:
@@ -371,13 +488,57 @@ def fetch_for_source(
             "verify_ssl",
             True,
         ),
+        params=params,
+    )
+
+
+def post_for_source(
+    source,
+    url,
+    data,
+    *,
+    override_retries=None,
+):
+    if override_retries is None:
+        max_retries = (
+            source_max_retries(
+                source
+            )
+        )
+
+    else:
+        max_retries = max(
+            0,
+            int(
+                override_retries
+            ),
+        )
+
+    return post_form(
+        url,
+        data,
+        timeout=source_timeout(
+            source
+        ),
+        max_retries=max_retries,
+        retry_backoff=(
+            source_retry_backoff(
+                source
+            )
+        ),
+        verify_ssl=source.get(
+            "verify_ssl",
+            True,
+        ),
     )
 
 
 def fetch_source(source):
     errors = []
 
-    for url in start_urls(source):
+    for url in start_urls(
+        source
+    ):
         result = fetch_for_source(
             source,
             url,
@@ -402,7 +563,37 @@ def fetch_source(source):
         "error": " | ".join(
             errors
         ),
+        "response": None,
     }
+
+
+def response_json(result):
+    if not result.get(
+        "ok"
+    ):
+        return None
+
+    response = result.get(
+        "response"
+    )
+
+    if response is not None:
+        try:
+            return response.json()
+
+        except Exception:
+            pass
+
+    try:
+        return json.loads(
+            result.get(
+                "text",
+                "",
+            )
+        )
+
+    except Exception:
+        return None
 
 
 def canonical_url(
@@ -589,13 +780,20 @@ def find_candidates(
     seen = set()
 
     for item in links:
-        url = item["url"]
-        text = item["text"]
+        url = item[
+            "url"
+        ]
+
+        text = item[
+            "text"
+        ]
 
         if url in seen:
             continue
 
-        seen.add(url)
+        seen.add(
+            url
+        )
 
         if not same_domain(
             source[
@@ -683,7 +881,9 @@ def find_candidates(
 
     candidates.sort(
         key=lambda item: (
-            -item["score"],
+            -item[
+                "score"
+            ],
             -len(
                 item[
                     "anchor_title"
@@ -718,9 +918,13 @@ def try_parse_date(value):
     )
 
     if chinese_match:
-        year, month, day, hour, minute = (
-            chinese_match.groups()
-        )
+        (
+            year,
+            month,
+            day,
+            hour,
+            minute,
+        ) = chinese_match.groups()
 
         try:
             return datetime(
@@ -876,7 +1080,10 @@ def extract_date(
         ),
     ]
 
-    for attribute, value in meta_candidates:
+    for (
+        attribute,
+        value,
+    ) in meta_candidates:
         node = soup.find(
             "meta",
             attrs={
@@ -984,9 +1191,13 @@ def extract_date(
         if not match:
             continue
 
-        year, month, day, hour, minute = (
-            match.groups()
-        )
+        (
+            year,
+            month,
+            day,
+            hour,
+            minute,
+        ) = match.groups()
 
         try:
             return datetime(
@@ -1685,7 +1896,8 @@ def populate_counts(
         "articles_with_text"
     ] = sum(
         1
-        for article in articles
+        for article
+        in articles
         if article.get(
             "text"
         )
@@ -1695,7 +1907,8 @@ def populate_counts(
         "articles_with_date"
     ] = sum(
         1
-        for article in articles
+        for article
+        in articles
         if article.get(
             "published"
         )
@@ -2470,6 +2683,702 @@ def run_browser(source):
         return status
 
 
+# ============================================================
+# NPC NATIONAL LAWS DATABASE
+# ============================================================
+
+def npc_metadata_text(
+    record,
+    detail,
+):
+    title = (
+        detail.get(
+            "title"
+        )
+        or record.get(
+            "title"
+        )
+        or ""
+    )
+
+    office = (
+        detail.get(
+            "office"
+        )
+        or record.get(
+            "office"
+        )
+        or ""
+    )
+
+    law_type = (
+        detail.get(
+            "level"
+        )
+        or detail.get(
+            "type"
+        )
+        or record.get(
+            "type"
+        )
+        or ""
+    )
+
+    publish = (
+        detail.get(
+            "publish"
+        )
+        or record.get(
+            "publish"
+        )
+        or ""
+    )
+
+    expiry = (
+        detail.get(
+            "expiry"
+        )
+        or record.get(
+            "expiry"
+        )
+        or ""
+    )
+
+    law_status = (
+        detail.get(
+            "status"
+        )
+        or record.get(
+            "status"
+        )
+        or ""
+    )
+
+    lines = []
+
+    if title:
+        lines.append(
+            title
+        )
+
+    if office:
+        lines.append(
+            f"发布机关: {office}"
+        )
+
+    if law_type:
+        lines.append(
+            f"类型: {law_type}"
+        )
+
+    if publish:
+        lines.append(
+            f"公布日期: {publish}"
+        )
+
+    if expiry:
+        lines.append(
+            f"施行/失效日期: {expiry}"
+        )
+
+    if law_status:
+        lines.append(
+            f"状态: {law_status}"
+        )
+
+    return "\n".join(
+        lines
+    )
+
+
+def npc_select_content_url(
+    detail,
+    download_base,
+):
+    body = detail.get(
+        "body"
+    ) or []
+
+    if not isinstance(
+        body,
+        list,
+    ):
+        return ""
+
+    ordered = sorted(
+        body,
+        key=lambda item: (
+            0
+            if str(
+                item.get(
+                    "type",
+                    "",
+                )
+            ).upper()
+            == "WORD"
+            else 1,
+            0
+            if item.get(
+                "url"
+            )
+            else 1,
+        ),
+    )
+
+    for item in ordered:
+        relative_url = item.get(
+            "url"
+        )
+
+        if relative_url:
+            return urljoin(
+                (
+                    download_base.rstrip(
+                        "/"
+                    )
+                    + "/"
+                ),
+                relative_url.lstrip(
+                    "/"
+                ),
+            )
+
+    for item in ordered:
+        mobile = item.get(
+            "mobile"
+        )
+
+        if mobile:
+            return urljoin(
+                (
+                    download_base.rstrip(
+                        "/"
+                    )
+                    + "/"
+                ),
+                mobile.lstrip(
+                    "/"
+                ),
+            )
+
+    return ""
+
+
+def npc_query_records(source):
+    api_url = source[
+        "npc_api_url"
+    ]
+
+    keywords = source.get(
+        "npc_keywords",
+        [],
+    )
+
+    records = {}
+    queries = []
+
+    successful_requests = 0
+    last_error = ""
+
+    for keyword in keywords:
+        params = {
+            "type": "flfg",
+            "searchType": (
+                "title;vague"
+            ),
+            "sortTr": (
+                "f_bbrq_s;desc"
+            ),
+            "gbrqStart": "",
+            "gbrqEnd": "",
+            "sxrqStart": "",
+            "sxrqEnd": "",
+            "sort": "true",
+            "page": "1",
+            "size": "20",
+            "fgbt": keyword,
+            "_": str(
+                int(
+                    time.time()
+                    * 1000
+                )
+            ),
+        }
+
+        result = fetch_for_source(
+            source,
+            api_url,
+            params=params,
+        )
+
+        query_report = {
+            "keyword": keyword,
+            "url": result.get(
+                "url",
+                api_url,
+            ),
+            "status": result.get(
+                "status"
+            ),
+            "error": result.get(
+                "error",
+                "",
+            ),
+            "returned": 0,
+            "matched": 0,
+        }
+
+        if not result[
+            "ok"
+        ]:
+            last_error = result[
+                "error"
+            ]
+
+            queries.append(
+                query_report
+            )
+
+            continue
+
+        successful_requests += 1
+
+        payload = response_json(
+            result
+        )
+
+        if not isinstance(
+            payload,
+            dict,
+        ):
+            query_report[
+                "error"
+            ] = (
+                "Response was not "
+                "valid JSON."
+            )
+
+            queries.append(
+                query_report
+            )
+
+            continue
+
+        result_object = payload.get(
+            "result"
+        )
+
+        if isinstance(
+            result_object,
+            dict,
+        ):
+            data = result_object.get(
+                "data",
+                [],
+            )
+
+        else:
+            data = []
+
+        if not isinstance(
+            data,
+            list,
+        ):
+            data = []
+
+        query_report[
+            "returned"
+        ] = len(
+            data
+        )
+
+        for record in data:
+            if not isinstance(
+                record,
+                dict,
+            ):
+                continue
+
+            title = normalize_text(
+                record.get(
+                    "title",
+                    "",
+                )
+            )
+
+            # Safety check in case the API
+            # ever ignores the search parameter.
+            if keyword not in title:
+                continue
+
+            law_id = record.get(
+                "id"
+            )
+
+            if not law_id:
+                continue
+
+            query_report[
+                "matched"
+            ] += 1
+
+            records.setdefault(
+                law_id,
+                record,
+            )
+
+        queries.append(
+            query_report
+        )
+
+    def record_date(record):
+        value = try_parse_date(
+            record.get(
+                "publish"
+            )
+        )
+
+        if value:
+            return value
+
+        return datetime(
+            1900,
+            1,
+            1,
+        )
+
+    ordered_records = sorted(
+        records.values(),
+        key=record_date,
+        reverse=True,
+    )
+
+    return {
+        "records": ordered_records,
+        "queries": queries,
+        "successful_requests": (
+            successful_requests
+        ),
+        "last_error": last_error,
+    }
+
+
+def run_npc(source):
+    print(
+        "\n==> "
+        + source[
+            "slug"
+        ]
+        + " [NPC API]: "
+        + source[
+            "start_url"
+        ],
+        flush=True,
+    )
+
+    status = base_status(
+        source
+    )
+
+    status[
+        "source_type"
+    ] = "npc"
+
+    query_result = (
+        npc_query_records(
+            source
+        )
+    )
+
+    records = query_result[
+        "records"
+    ]
+
+    status[
+        "candidate_links"
+    ] = len(
+        records
+    )
+
+    status[
+        "all_links"
+    ] = sum(
+        item.get(
+            "returned",
+            0,
+        )
+        for item
+        in query_result[
+            "queries"
+        ]
+    )
+
+    save_raw(
+        source,
+        json.dumps(
+            {
+                "queries": (
+                    query_result[
+                        "queries"
+                    ]
+                ),
+                "matched_records": (
+                    records
+                ),
+            },
+            ensure_ascii=False,
+            indent=2,
+        ),
+        "api-diagnostic.json",
+    )
+
+    if (
+        query_result[
+            "successful_requests"
+        ]
+        == 0
+    ):
+        status[
+            "error"
+        ] = (
+            query_result[
+                "last_error"
+            ]
+            or (
+                "NPC API could "
+                "not be retrieved."
+            )
+        )
+
+        return status
+
+    status[
+        "http_status"
+    ] = 200
+
+    status[
+        "resolved_url"
+    ] = source[
+        "npc_api_url"
+    ]
+
+    if not records:
+        write_feed(
+            source,
+            [],
+        )
+
+        return status
+
+    articles = []
+
+    detail_url = source[
+        "npc_detail_url"
+    ]
+
+    download_base = source[
+        "npc_download_base_url"
+    ]
+
+    for record in records:
+        if (
+            len(articles)
+            >= MAX_ITEMS_PER_SOURCE
+        ):
+            break
+
+        law_id = record.get(
+            "id"
+        )
+
+        if not law_id:
+            continue
+
+        status[
+            "attempted"
+        ] += 1
+
+        detail_result = (
+            post_for_source(
+                source,
+                detail_url,
+                {
+                    "id": law_id
+                },
+            )
+        )
+
+        detail_payload = (
+            response_json(
+                detail_result
+            )
+        )
+
+        if not isinstance(
+            detail_payload,
+            dict,
+        ):
+            print(
+                f"    NPC detail "
+                f"failed for "
+                f"{law_id}: "
+                f"{detail_result.get('error', 'invalid JSON')}",
+                flush=True,
+            )
+
+            continue
+
+        detail = (
+            detail_payload.get(
+                "result"
+            )
+            or {}
+        )
+
+        if not isinstance(
+            detail,
+            dict,
+        ):
+            continue
+
+        title = normalize_text(
+            detail.get(
+                "title"
+            )
+            or record.get(
+                "title"
+            )
+            or "Untitled"
+        )
+
+        published = (
+            try_parse_date(
+                detail.get(
+                    "publish"
+                )
+                or record.get(
+                    "publish"
+                )
+            )
+        )
+
+        article_url = (
+            record.get(
+                "url"
+            )
+            or (
+                "https://flk.npc.gov.cn/"
+                "detail2.html?"
+                + law_id
+            )
+        )
+
+        metadata = (
+            npc_metadata_text(
+                record,
+                detail,
+            )
+        )
+
+        content_url = (
+            npc_select_content_url(
+                detail,
+                download_base,
+            )
+        )
+
+        law_text = ""
+
+        if content_url:
+            content_result = (
+                fetch_for_source(
+                    source,
+                    content_url,
+                )
+            )
+
+            if content_result[
+                "ok"
+            ]:
+                soup = BeautifulSoup(
+                    content_result[
+                        "text"
+                    ],
+                    "lxml",
+                )
+
+                law_text = (
+                    extract_article_text(
+                        soup
+                    )
+                )
+
+        if law_text:
+            text = (
+                metadata
+                + "\n\n"
+                + law_text
+            )
+
+        else:
+            text = metadata
+
+        text = normalize_text(
+            text
+        )[:50000]
+
+        article = {
+            "title": title,
+            "url": article_url,
+            "guid": law_id,
+            "text": text,
+            "published": published,
+        }
+
+        save_article(
+            source[
+                "slug"
+            ],
+            article,
+        )
+
+        articles.append(
+            article
+        )
+
+    populate_counts(
+        status,
+        articles,
+    )
+
+    write_feed(
+        source,
+        articles,
+    )
+
+    if (
+        not articles
+        and not status[
+            "error"
+        ]
+    ):
+        status[
+            "error"
+        ] = (
+            "NPC API returned "
+            "matching laws, but "
+            "detail records could "
+            "not be converted into "
+            "feed items."
+        )
+
+    return status
+
+
+# ============================================================
+# CNNVD
+# ============================================================
+
 def cnnvd_title(
     cnnvd_id,
     segment,
@@ -2495,7 +3404,8 @@ def cnnvd_title(
 
     lines = [
         line
-        for line in lines
+        for line
+        in lines
         if line
     ]
 
@@ -2513,8 +3423,8 @@ def cnnvd_title(
 
             remainder = re.sub(
                 r"^(超危|高危|"
-                r"中危|低危|未知|"
-                r"严重)\s*",
+                r"中危|低危|"
+                r"未知|严重)\s*",
                 "",
                 remainder,
             )
@@ -2870,6 +3780,11 @@ def run_source(source):
             source
         )
 
+    if source_type == "npc":
+        return run_npc(
+            source
+        )
+
     if source_type == "cnnvd":
         return run_cnnvd(
             source
@@ -2985,6 +3900,7 @@ def write_status_report(
         ] in (
             "html",
             "browser",
+            "npc",
             "cnnvd",
         ):
             lines.extend(
