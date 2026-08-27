@@ -1,5 +1,5 @@
 Strategic RSS Collector Status
-Generated: 2026-08-27 13:07:32 UTC
+Generated: 2026-08-27 13:49:21 UTC
 
 Status meanings:
 OK = Feed contains one or more items
@@ -53,7 +53,7 @@ FAILED = Source could not be retrieved
   Request timeout: 12s
   Max retries: 1
   Retry backoff: 1s
-  Error: https://eng.mil.ru/ -> ConnectTimeout: HTTPSConnectionPool(host='eng.mil.ru', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='eng.mil.ru', port=443) at 0x7f2b13455950>, 'Connection to eng.mil.ru timed out. (connect timeout=12)'))
+  Error: https://eng.mil.ru/ -> ConnectTimeout: HTTPSConnectionPool(host='eng.mil.ru', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='eng.mil.ru', port=443) at 0x7f0f0c665810>, 'Connection to eng.mil.ru timed out. (connect timeout=12)'))
 
 [OK] kremlin-president-en - Kremlin President News - Official RSS
   Source type: rss
@@ -101,17 +101,17 @@ FAILED = Source could not be retrieved
   Max retries: 1
   Retry backoff: 1s
 
-[FETCHED/NO ITEMS] npc-defense-laws-cn - National People's Congress Defense-Related Laws
+[OK] npc-defense-laws-cn - National People's Congress Defense-Related Laws
   Source type: npc
-  Start URL: https://flk.npc.gov.cn/api/
-  Resolved URL: https://flk.npc.gov.cn/api/
+  Start URL: https://flk.npc.gov.cn/law-search/search/list
+  Resolved URL: https://flk.npc.gov.cn/law-search/search/list
   HTTP: 200
-  Links discovered: 0
-  Candidate links/items: 0
-  Attempted items/articles: 0
-  Items/articles with text: 0
-  Items/articles with dates: 0
-  RSS feed items: 0
+  Links discovered: 1558
+  Candidate links/items: 49
+  Attempted items/articles: 12
+  Items/articles with text: 12
+  Items/articles with dates: 12
+  RSS feed items: 12
   SSL verification: OFF
   Request timeout: 20s
   Max retries: 2
@@ -344,7 +344,7 @@ FAILED = Source could not be retrieved
   Start URL: https://www.cnnvd.org.cn/frontend/loophole
   Resolved URL: https://www.cnnvd.org.cn/frontend/loophole
   HTTP: 200
-  Links discovered: 22
+  Links discovered: 23
   Candidate links/items: 10
   Attempted items/articles: 10
   Items/articles with text: 10
@@ -356,7 +356,7 @@ FAILED = Source could not be retrieved
   Retry backoff: 1s
 
 SUMMARY
-Working: 19
-Fetched but no items: 2
+Working: 20
+Fetched but no items: 1
 Failed: 1
 Total sources: 22

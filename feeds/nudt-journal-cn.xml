@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>National University of Defense Technology Journal</title><link>https://journal.nudt.edu.cn/</link><description>Generated RSS feed for National University of Defense Technology Journal</description><language>zh-CN</language><lastBuildDate>Thu, 27 Aug 2026 13:01:52 +0000</lastBuildDate><item><title>FlatLFS:一种面向海量小文件处理优化的轻量级文件系统</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201302022?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201302022?tab=abstract</guid><pubDate>Thu, 05 Apr 2012 00:00:00 +0000</pubDate><description>海量小文件的高效存储和访问是当前分布式文件系统面临的主要挑战之一。以GFS和HDFS为代表的分布式文件系统大多面向海量大文件的高效存储和访问设计，缺乏小文件处理的针对性优化，导致访问海量小文件时效率低下。针对分布式文件系统中海量小文件访问时的数据服务器优化问题，提出了一种采用扁平式数据存储方法的轻量级文件系统FlatLFS，取代传统文件系统对上层分布式文件系统提供数据存储和访问支持，提高了数据服务器处理小数据块时的I/O性能，从而提升了整个分布式文件系统的性能。实验表明，当数据块大小设定为1M时，FlatLFS的随机读性能分别比ext3、ext4、reiserfs高135%、112%和122%。
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>National University of Defense Technology Journal</title><link>https://journal.nudt.edu.cn/</link><description>Generated RSS feed for National University of Defense Technology Journal</description><language>zh-CN</language><lastBuildDate>Thu, 27 Aug 2026 13:44:37 +0000</lastBuildDate><item><title>FlatLFS:一种面向海量小文件处理优化的轻量级文件系统</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201302022?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201302022?tab=abstract</guid><pubDate>Thu, 05 Apr 2012 00:00:00 +0000</pubDate><description>海量小文件的高效存储和访问是当前分布式文件系统面临的主要挑战之一。以GFS和HDFS为代表的分布式文件系统大多面向海量大文件的高效存储和访问设计，缺乏小文件处理的针对性优化，导致访问海量小文件时效率低下。针对分布式文件系统中海量小文件访问时的数据服务器优化问题，提出了一种采用扁平式数据存储方法的轻量级文件系统FlatLFS，取代传统文件系统对上层分布式文件系统提供数据存储和访问支持，提高了数据服务器处理小数据块时的I/O性能，从而提升了整个分布式文件系统的性能。实验表明，当数据块大小设定为1M时，FlatLFS的随机读性能分别比ext3、ext4、reiserfs高135%、112%和122%。
 
 The storage and access of massive small files are one of the challenges in the design of DFS(Distributed file system). Most of the DFSs, such as GFS and HDFS, are designed for handling massive big files. The performance of DFSs decreases greatly when accessing massive small files without special optimization for small files. This research focuses on the optimizing of the performance of data server in handling massive small files, and presents a Flat Lightweight File System called FlatLFS in which the user data are managed flat in disks. FlatLFS is supposed to substitute the traditional file system when accessing user data for upper DFSs. With the improvement of the performance of small data block processing on data servers by FlatLFS, the performance of the whole DFSs is greatly improved. The effectiveness of FlatLFS is proved with intensive experiments: when the size of data block is 1M, the performance of random read of FlatLFS is 135%, 112% and 122% higher than ext 3 ,ext4 and reiserfs respectively. 
 
@@ -1006,9 +1006,9 @@ LI Zhigang, QIU Zhinan, WANG Jiachun, et al. Study of high-power microwave prote
 Copy
 计量
 文章访问量:
-28799
+28800
 HTML全文浏览量:
-3508
+3509
 PDF下载量:
 9895
 被引次数:
@@ -1082,7 +1082,7 @@ HE W, LIU X H, XIAN R C,et al. Kinetics characteristics and bremsstrahlung of ar
 扫码关注
 官方微信
 您是今天第
-6955
+7100
 位访客
 总访问量：
 245949704
@@ -2362,12 +2362,13 @@ LUO H, ZHAO S K, ZHAO N, et al. Review of reconfiguration methods for modular se
 Copy
 计量
 文章访问量:
-453
+455
 HTML全文浏览量:
-323
+324
 PDF下载量:
 1010
 被引次数:
+0
 图
 1
 模块化机器人重构方式分类体系
@@ -2520,7 +2521,7 @@ GARCIA R F M, LYDER A, CHRISTENSEN D J,et al. Reusable electronics and adaptable
 LYDER A, GARCIA R F M, STOY K. Mechanical design of Odin,an extendable heterogeneous deformable modular robot[C]//Proceedings of IEEE/RSJ International Conference on Intelligent Robots and Systems,2008:883-888.
 ZHANG H X, GONZALEZ-GOMEZ J, ME Z Z,et al. Development of a low-cost flexible modular robot GZ-I[C]//Proceedings of IEEE/ASME International Conference on Advanced Intelligent Mechatronics,2008:223-228.
 GRANOSIK G, HANSEN M G, BORENSTEIN J. The OmniTread serpentine robot for industrial inspection and surveillance[J]. Industrial Robot,2005,32(2):139-148.
-FUKUDA T, KAWAUCHI Y. Cellular robotic system(CEBOT)as one of the realizat&lt;/pre&gt;</content:encoded></item><item><title>导弹防御系统中的雷达目标识别研究</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/200404002?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/200404002?tab=abstract</guid><pubDate>Thu, 19 Feb 2004 00:00:00 +0000</pubDate><description>以评估美国国家导弹防御(NMD)系统雷达识别能力为背景，分析了地基雷达识别弹道导弹目标的技术途径。根据弹道导弹目标群在飞行中段和再入段表现出的特性差异，提出了涉及目标结构特性、姿态特性以及再入特性的综合识别策略，并初步分析了各种识别措施的可行性。
+FUKUDA T, KAWAUCHI Y. Cellular robotic system(CEBOT)as one of the realiz&lt;/pre&gt;</content:encoded></item><item><title>导弹防御系统中的雷达目标识别研究</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/200404002?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/200404002?tab=abstract</guid><pubDate>Thu, 19 Feb 2004 00:00:00 +0000</pubDate><description>以评估美国国家导弹防御(NMD)系统雷达识别能力为背景，分析了地基雷达识别弹道导弹目标的技术途径。根据弹道导弹目标群在飞行中段和再入段表现出的特性差异，提出了涉及目标结构特性、姿态特性以及再入特性的综合识别策略，并初步分析了各种识别措施的可行性。
 
 The technology of the radar discriminating ballistic missile is analyzed so as to evaluate the discrimination capability of ground-based radars in the US National Missile Defense (NMD). According to the characteristics of the ballistic target clusters during the mid-course and re-entry phase, an integrative discrimination strategy for the missile defense system is developed which involves the structure, stance and re-entry characteristics of the target, and each discrimination measure is followed by technical evaluation.
 

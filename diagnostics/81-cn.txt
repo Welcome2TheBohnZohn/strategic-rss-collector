@@ -48,8 +48,6 @@ http://www.81.cn/yw_208727/16481522.html
   西藏日喀则市吉隆县遭受泥石流灾害 解放军和武警部队官兵紧急救援
 http://www.81.cn/hjj_208561/16477966.html
   最美新时代革命军人风采丨火箭军某部研究员周宏潮：科研向战勇攀登
-http://www.81.cn/yw_208727/16481734.html
-  钧正平：这支穿着最破旧衣衫的队伍，走出了人类史上最壮阔的征途
 http://www.81.cn/hjj_208561/jdt_208562/16474982.html
   在习近平强军思想指引下·树立和践行正确政绩观丨砺剑深山破坚垒
 http://www.81.cn/jx_208569/16479752.html
@@ -110,6 +108,8 @@ http://www.81.cn/wz_208577/16463518.html
   为何仅入职一年多的文职人员，就接连经历3个“没想到”？
 http://www.81.cn/rw_208598/16480684.html
   跟着老兵“逛军博”丨他们脱下军装，以另一种姿态“归队”
+http://www.81.cn/bq_208581/16470704.html
+  从手工粗糙刻制到微米级精密加工，走进枪械膛线技术进化史
 
 === ALL DISCOVERED LINKS ===
 
@@ -262,10 +262,12 @@ http://www.81.cn/yw_208727/16481679.html
   受习近平总书记委托，李强抵达西藏吉隆指导抢险救灾工作
 http://www.81.cn/yw_208727/16481515.html
   贯彻落实习近平总书记重要指示精神各方协力开展西藏吉隆县泥石流抢险救援
-http://www.81.cn/yw_208727/16481522.html
-  西藏日喀则市吉隆县遭受泥石流灾害 解放军和武警部队官兵紧急救援
+http://www.81.cn/yw_208727/16481744.html
+  解放军和武警部队官兵奋战西藏吉隆救援一线
 http://www.81.cn/yw_208727/16481735.html
   2026年8月国防部例行记者会文字实录
+http://www.81.cn/yw_208727/16481522.html
+  西藏日喀则市吉隆县遭受泥石流灾害 解放军和武警部队官兵紧急救援
 http://www.81.cn/yw_208727/16481619.html
   第十三届北京香山论坛将在北京国际会议中心举办
 http://www.81.cn/yw_208727/16481628.html
@@ -274,10 +276,10 @@ http://www.81.cn/yw_208727/16481648.html
   新时代征兵工作更加阳光透明
 http://www.81.cn/yw_208727/16481631.html
   中泰“鹰击-2026”空军联训深化两军务实合作
-http://www.81.cn/yw_208727/16481646.html
-  国防部介绍中白“神鹰-2026”空军联训情况
 http://www.81.cn/yw_208727/16481525.html
   八一锐评｜坚持极限思维、底线思维
+http://www.81.cn/yw_208727/16481646.html
+  国防部介绍中白“神鹰-2026”空军联训情况
 http://www.81.cn/yw_208727/16481663.html
   国防部：国际社会应切实认清日本右翼势力危险图谋
 http://www.81.cn/yw_208727/16481622.html
@@ -288,8 +290,6 @@ http://www.81.cn/yw_208727/16481517.html
   强军论坛丨牢记“靠实事求是吃饭”
 http://www.81.cn/yw_208727/16481656.html
   解放军驻澳门部队第27次建制单位轮换工作顺利完成
-http://www.81.cn/yw_208727/16481734.html
-  钧正平：这支穿着最破旧衣衫的队伍，走出了人类史上最壮阔的征途
 http://www.81.cn/syjdt/16481599.html
   胜利的方向丨幸存团长的口述，让我们得以拼凑出这位伟大师长的模样
 http://www.81.cn/syjdt/16481345.html
@@ -356,6 +356,8 @@ http://www.81.cn/fyr/16481440.html
   外交部发言人介绍习近平主席出访有关安排和中方期待
 http://www.81.cn/fyr/16481281.html
   中央组织部负责人就修订颁布《党政领导干部生态环境损害责任追究办法》答记者问
+http://www.81.cn/ss_208539/16481742.html
+  水利部针对西藏启动洪水防御Ⅳ级应急响应
 http://www.81.cn/ss_208539/16481741.html
   国家航天局协调卫星资源支持西藏吉隆县抢险救灾
 http://www.81.cn/ss_208539/16481739.html
@@ -376,8 +378,6 @@ http://www.81.cn/ss_208539/16481612.html
   中国救援队抵达吉隆县吉隆镇
 http://www.81.cn/ss_208539/16481606.html
   中方敦促维护加沙停火 缓和约旦河西岸紧张局势
-http://www.81.cn/ss_208539/16481604.html
-  中国安能专业救援力量紧急驰援西藏吉隆泥石流救援
 http://www.81.cn/zt/2023nzt/xxgcxjpxsdzgtsshzysxztjy/index.html
 http://www.81.cn/zt/2023nzt/flsxjjbnmbjkjcsjyljd/index.html
 http://www.81.cn/bz_208549/jdt_208550/16481218.html
@@ -829,8 +829,8 @@ http://www.81.cn/js_208585/16475730.html
   千里奔赴的深情，落进边关的风里也落进两个人共同的守候里
 http://www.81.cn/js_208585/16474562.html
   云南省开展边境地区拥军优属专项行动
-http://eng.chinamil.com.cn/2025xb/H_251454/F_251457/16481432.html
-  Multiple Helicopters in Take-off and Landing Training
+http://eng.chinamil.com.cn/2025xb/H_251454/F_251457/16481683.html
+  Artillery troops conduct live-fire training in Gobi desert
 http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16481476.html
   Xi urges all-out rescue, relief efforts after mudslide hits border port in Xizang
 http://eng.chinamil.com.cn/2025xb/V_251452/16481694.html
@@ -1041,7 +1041,7 @@ http://www.81.cn/wj_208604/jdt_208605/_attachment/2026/07/10/16472973_7b13b521e9
 http://www.81.cn/jy_208587/jdt_208588/_attachment/2026/08/19/16480139_ef50ff795a9fc59ae73869a0a0490d92.jpg
 http://www.81.cn/lb_208583/jdt_208584/_attachment/2026/08/20/16480295_c78afcb0ae3c79613b9069e1285ab6a1.jpg
 http://www.81.cn/js_208585/jdt_208586/_attachment/2026/05/26/16469323_1259bdded6780f0acacbf574df89b3e3.jpg
-http://www.81.cn/ChinaMilitary/tjtw/_attachment/2026/08/26/16481454_7c233e2fae24aee727800befbe0ce3fa.jpg
+http://www.81.cn/ChinaMilitary/tjtw/_attachment/2026/08/27/16481747_78d8c109d0dc3a697a1c0d8fdaeeb4dc.jpg
 http://mail.chinamil.com.cn/
 http://www.81.cn/template/tenant207/t829/css/footer.css
 http://www.81.cn/template/tenant207/t1774/js/javascript.js?v=3.0.3

@@ -1,0 +1,1606 @@
+{
+  "enum_url": "https://flk.npc.gov.cn/law-search/search/enumData",
+  "search_url": "https://flk.npc.gov.cn/law-search/search/list",
+  "requested_categories": [
+    "法律",
+    "行政法规"
+  ],
+  "keywords": [
+    "国防",
+    "兵役",
+    "军事",
+    "军人",
+    "武装",
+    "海警",
+    "预备役",
+    "国防动员",
+    "军事设施",
+    "退役军人",
+    "人民防空",
+    "国防交通",
+    "国防教育",
+    "现役",
+    "军队"
+  ],
+  "category_map": {
+    "宪法": [
+      100
+    ],
+    "法律": [
+      101,
+      102,
+      110,
+      120,
+      130,
+      140,
+      150,
+      155,
+      160,
+      170,
+      180,
+      190,
+      195,
+      200
+    ],
+    "行政法规": [
+      201,
+      210,
+      215
+    ],
+    "监察法规": [
+      220
+    ],
+    "地方法规": [
+      221,
+      222,
+      230,
+      260,
+      270,
+      290,
+      295,
+      300,
+      305,
+      310
+    ],
+    "司法解释": [
+      311,
+      320,
+      330,
+      340,
+      350
+    ]
+  },
+  "pages": [
+    {
+      "category": "法律",
+      "page": 1,
+      "status": 200,
+      "request": {
+        "searchRange": 1,
+        "sxrq": [],
+        "gbrq": [],
+        "searchType": 2,
+        "sxx": [],
+        "gbrqYear": [],
+        "flfgCodeId": [
+          101,
+          102,
+          110,
+          120,
+          130,
+          140,
+          150,
+          155,
+          160,
+          170,
+          180,
+          190,
+          195,
+          200
+        ],
+        "zdjgCodeId": [],
+        "searchContent": "",
+        "orderByParam": {
+          "order": "-1",
+          "sort": ""
+        },
+        "pageNum": 1,
+        "pageSize": 100
+      },
+      "error": "",
+      "rows": 100,
+      "total": 729,
+      "matches": 2
+    },
+    {
+      "category": "法律",
+      "page": 2,
+      "status": 200,
+      "request": {
+        "searchRange": 1,
+        "sxrq": [],
+        "gbrq": [],
+        "searchType": 2,
+        "sxx": [],
+        "gbrqYear": [],
+        "flfgCodeId": [
+          101,
+          102,
+          110,
+          120,
+          130,
+          140,
+          150,
+          155,
+          160,
+          170,
+          180,
+          190,
+          195,
+          200
+        ],
+        "zdjgCodeId": [],
+        "searchContent": "",
+        "orderByParam": {
+          "order": "-1",
+          "sort": ""
+        },
+        "pageNum": 2,
+        "pageSize": 100
+      },
+      "error": "",
+      "rows": 100,
+      "total": 729,
+      "matches": 9
+    },
+    {
+      "category": "法律",
+      "page": 3,
+      "status": 200,
+      "request": {
+        "searchRange": 1,
+        "sxrq": [],
+        "gbrq": [],
+        "searchType": 2,
+        "sxx": [],
+        "gbrqYear": [],
+        "flfgCodeId": [
+          101,
+          102,
+          110,
+          120,
+          130,
+          140,
+          150,
+          155,
+          160,
+          170,
+          180,
+          190,
+          195,
+          200
+        ],
+        "zdjgCodeId": [],
+        "searchContent": "",
+        "orderByParam": {
+          "order": "-1",
+          "sort": ""
+        },
+        "pageNum": 3,
+        "pageSize": 100
+      },
+      "error": "",
+      "rows": 100,
+      "total": 729,
+      "matches": 3
+    },
+    {
+      "category": "法律",
+      "page": 4,
+      "status": 200,
+      "request": {
+        "searchRange": 1,
+        "sxrq": [],
+        "gbrq": [],
+        "searchType": 2,
+        "sxx": [],
+        "gbrqYear": [],
+        "flfgCodeId": [
+          101,
+          102,
+          110,
+          120,
+          130,
+          140,
+          150,
+          155,
+          160,
+          170,
+          180,
+          190,
+          195,
+          200
+        ],
+        "zdjgCodeId": [],
+        "searchContent": "",
+        "orderByParam": {
+          "order": "-1",
+          "sort": ""
+        },
+        "pageNum": 4,
+        "pageSize": 100
+      },
+      "error": "",
+      "rows": 100,
+      "total": 729,
+      "matches": 3
+    },
+    {
+      "category": "法律",
+      "page": 5,
+      "status": 200,
+      "request": {
+        "searchRange": 1,
+        "sxrq": [],
+        "gbrq": [],
+        "searchType": 2,
+        "sxx": [],
+        "gbrqYear": [],
+        "flfgCodeId": [
+          101,
+          102,
+          110,
+          120,
+          130,
+          140,
+          150,
+          155,
+          160,
+          170,
+          180,
+          190,
+          195,
+          200
+        ],
+        "zdjgCodeId": [],
+        "searchContent": "",
+        "orderByParam": {
+          "order": "-1",
+          "sort": ""
+        },
+        "pageNum": 5,
+        "pageSize": 100
+      },
+      "error": "",
+      "rows": 100,
+      "total": 729,
+      "matches": 6
+    },
+    {
+      "category": "法律",
+      "page": 6,
+      "status": 200,
+      "request": {
+        "searchRange": 1,
+        "sxrq": [],
+        "gbrq": [],
+        "searchType": 2,
+        "sxx": [],
+        "gbrqYear": [],
+        "flfgCodeId": [
+          101,
+          102,
+          110,
+          120,
+          130,
+          140,
+          150,
+          155,
+          160,
+          170,
+          180,
+          190,
+          195,
+          200
+        ],
+        "zdjgCodeId": [],
+        "searchContent": "",
+        "orderByParam": {
+          "order": "-1",
+          "sort": ""
+        },
+        "pageNum": 6,
+        "pageSize": 100
+      },
+      "error": "",
+      "rows": 100,
+      "total": 729,
+      "matches": 5
+    },
+    {
+      "category": "法律",
+      "page": 7,
+      "status": 200,
+      "request": {
+        "searchRange": 1,
+        "sxrq": [],
+        "gbrq": [],
+        "searchType": 2,
+        "sxx": [],
+        "gbrqYear": [],
+        "flfgCodeId": [
+          101,
+          102,
+          110,
+          120,
+          130,
+          140,
+          150,
+          155,
+          160,
+          170,
+          180,
+          190,
+          195,
+          200
+        ],
+        "zdjgCodeId": [],
+        "searchContent": "",
+        "orderByParam": {
+          "order": "-1",
+          "sort": ""
+        },
+        "pageNum": 7,
+        "pageSize": 100
+      },
+      "error": "",
+      "rows": 100,
+      "total": 729,
+      "matches": 2
+    },
+    {
+      "category": "法律",
+      "page": 8,
+      "status": 200,
+      "request": {
+        "searchRange": 1,
+        "sxrq": [],
+        "gbrq": [],
+        "searchType": 2,
+        "sxx": [],
+        "gbrqYear": [],
+        "flfgCodeId": [
+          101,
+          102,
+          110,
+          120,
+          130,
+          140,
+          150,
+          155,
+          160,
+          170,
+          180,
+          190,
+          195,
+          200
+        ],
+        "zdjgCodeId": [],
+        "searchContent": "",
+        "orderByParam": {
+          "order": "-1",
+          "sort": ""
+        },
+        "pageNum": 8,
+        "pageSize": 100
+      },
+      "error": "",
+      "rows": 29,
+      "total": 729,
+      "matches": 2
+    },
+    {
+      "category": "行政法规",
+      "page": 1,
+      "status": 200,
+      "request": {
+        "searchRange": 1,
+        "sxrq": [],
+        "gbrq": [],
+        "searchType": 2,
+        "sxx": [],
+        "gbrqYear": [],
+        "flfgCodeId": [
+          201,
+          210,
+          215
+        ],
+        "zdjgCodeId": [],
+        "searchContent": "",
+        "orderByParam": {
+          "order": "-1",
+          "sort": ""
+        },
+        "pageNum": 1,
+        "pageSize": 100
+      },
+      "error": "",
+      "rows": 100,
+      "total": 829,
+      "matches": 3
+    },
+    {
+      "category": "行政法规",
+      "page": 2,
+      "status": 200,
+      "request": {
+        "searchRange": 1,
+        "sxrq": [],
+        "gbrq": [],
+        "searchType": 2,
+        "sxx": [],
+        "gbrqYear": [],
+        "flfgCodeId": [
+          201,
+          210,
+          215
+        ],
+        "zdjgCodeId": [],
+        "searchContent": "",
+        "orderByParam": {
+          "order": "-1",
+          "sort": ""
+        },
+        "pageNum": 2,
+        "pageSize": 100
+      },
+      "error": "",
+      "rows": 100,
+      "total": 829,
+      "matches": 0
+    },
+    {
+      "category": "行政法规",
+      "page": 3,
+      "status": 200,
+      "request": {
+        "searchRange": 1,
+        "sxrq": [],
+        "gbrq": [],
+        "searchType": 2,
+        "sxx": [],
+        "gbrqYear": [],
+        "flfgCodeId": [
+          201,
+          210,
+          215
+        ],
+        "zdjgCodeId": [],
+        "searchContent": "",
+        "orderByParam": {
+          "order": "-1",
+          "sort": ""
+        },
+        "pageNum": 3,
+        "pageSize": 100
+      },
+      "error": "",
+      "rows": 100,
+      "total": 829,
+      "matches": 2
+    },
+    {
+      "category": "行政法规",
+      "page": 4,
+      "status": 200,
+      "request": {
+        "searchRange": 1,
+        "sxrq": [],
+        "gbrq": [],
+        "searchType": 2,
+        "sxx": [],
+        "gbrqYear": [],
+        "flfgCodeId": [
+          201,
+          210,
+          215
+        ],
+        "zdjgCodeId": [],
+        "searchContent": "",
+        "orderByParam": {
+          "order": "-1",
+          "sort": ""
+        },
+        "pageNum": 4,
+        "pageSize": 100
+      },
+      "error": "",
+      "rows": 100,
+      "total": 829,
+      "matches": 1
+    },
+    {
+      "category": "行政法规",
+      "page": 5,
+      "status": 200,
+      "request": {
+        "searchRange": 1,
+        "sxrq": [],
+        "gbrq": [],
+        "searchType": 2,
+        "sxx": [],
+        "gbrqYear": [],
+        "flfgCodeId": [
+          201,
+          210,
+          215
+        ],
+        "zdjgCodeId": [],
+        "searchContent": "",
+        "orderByParam": {
+          "order": "-1",
+          "sort": ""
+        },
+        "pageNum": 5,
+        "pageSize": 100
+      },
+      "error": "",
+      "rows": 100,
+      "total": 829,
+      "matches": 1
+    },
+    {
+      "category": "行政法规",
+      "page": 6,
+      "status": 200,
+      "request": {
+        "searchRange": 1,
+        "sxrq": [],
+        "gbrq": [],
+        "searchType": 2,
+        "sxx": [],
+        "gbrqYear": [],
+        "flfgCodeId": [
+          201,
+          210,
+          215
+        ],
+        "zdjgCodeId": [],
+        "searchContent": "",
+        "orderByParam": {
+          "order": "-1",
+          "sort": ""
+        },
+        "pageNum": 6,
+        "pageSize": 100
+      },
+      "error": "",
+      "rows": 100,
+      "total": 829,
+      "matches": 4
+    },
+    {
+      "category": "行政法规",
+      "page": 7,
+      "status": 200,
+      "request": {
+        "searchRange": 1,
+        "sxrq": [],
+        "gbrq": [],
+        "searchType": 2,
+        "sxx": [],
+        "gbrqYear": [],
+        "flfgCodeId": [
+          201,
+          210,
+          215
+        ],
+        "zdjgCodeId": [],
+        "searchContent": "",
+        "orderByParam": {
+          "order": "-1",
+          "sort": ""
+        },
+        "pageNum": 7,
+        "pageSize": 100
+      },
+      "error": "",
+      "rows": 100,
+      "total": 829,
+      "matches": 3
+    },
+    {
+      "category": "行政法规",
+      "page": 8,
+      "status": 200,
+      "request": {
+        "searchRange": 1,
+        "sxrq": [],
+        "gbrq": [],
+        "searchType": 2,
+        "sxx": [],
+        "gbrqYear": [],
+        "flfgCodeId": [
+          201,
+          210,
+          215
+        ],
+        "zdjgCodeId": [],
+        "searchContent": "",
+        "orderByParam": {
+          "order": "-1",
+          "sort": ""
+        },
+        "pageNum": 8,
+        "pageSize": 100
+      },
+      "error": "",
+      "rows": 100,
+      "total": 829,
+      "matches": 2
+    },
+    {
+      "category": "行政法规",
+      "page": 9,
+      "status": 200,
+      "request": {
+        "searchRange": 1,
+        "sxrq": [],
+        "gbrq": [],
+        "searchType": 2,
+        "sxx": [],
+        "gbrqYear": [],
+        "flfgCodeId": [
+          201,
+          210,
+          215
+        ],
+        "zdjgCodeId": [],
+        "searchContent": "",
+        "orderByParam": {
+          "order": "-1",
+          "sort": ""
+        },
+        "pageNum": 9,
+        "pageSize": 100
+      },
+      "error": "",
+      "rows": 29,
+      "total": 829,
+      "matches": 1
+    }
+  ],
+  "matched_records": [
+    {
+      "bbbs": "ff8081819f12cdb7019f20e2bce8514c",
+      "title": "退役军人就业创业促进条例",
+      "gbrq": "2026-06-26",
+      "sxrq": "2026-08-01",
+      "sxx": 3,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "titleHightLightList": [
+        {
+          "value": "退役军人就业创业促进条例",
+          "highLight": false
+        }
+      ],
+      "score": 0.0
+    },
+    {
+      "bbbs": "ff80818191db55220191eba9396a08f4",
+      "title": "中华人民共和国国防教育法",
+      "gbrq": "2024-09-13",
+      "sxrq": "2024-09-21",
+      "sxx": 3,
+      "zdjgName": "全国人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "法律",
+      "zdjgCodeId": 110,
+      "flfgCodeId": 130,
+      "titleHightLightList": [
+        {
+          "value": "中华人民共和国国防教育法",
+          "highLight": false
+        }
+      ],
+      "score": 0.0
+    },
+    {
+      "bbbs": "ff8081819150415e0191735242606e87",
+      "title": "军人抚恤优待条例",
+      "gbrq": "2024-08-05",
+      "sxrq": "2024-10-01",
+      "sxx": 3,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "titleHightLightList": [
+        {
+          "value": "军人抚恤优待条例",
+          "highLight": false
+        }
+      ],
+      "score": 0.0
+    },
+    {
+      "bbbs": "ff8081819150458d019172e46a6e57be",
+      "title": "退役军人安置条例",
+      "gbrq": "2024-07-29",
+      "sxrq": "2024-09-01",
+      "sxx": 3,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "titleHightLightList": [
+        {
+          "value": "退役军人安置条例",
+          "highLight": false
+        }
+      ],
+      "score": 0.0
+    },
+    {
+      "bbbs": "ff808181865edc1401868278697809f8",
+      "title": "全国人民代表大会常务委员会关于军队战时调整适用《中华人民共和国刑事诉讼法》部分规定的决定",
+      "gbrq": "2023-02-24",
+      "sxrq": "2023-02-25",
+      "sxx": null,
+      "zdjgName": "全国人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "有关法律问题和重大问题的决定（部分）",
+      "zdjgCodeId": 110,
+      "flfgCodeId": 190,
+      "titleHightLightList": [
+        {
+          "value": "全国人民代表大会常务委员会关于军队战时调整适用《中华人民共和国刑事诉讼法》部分规定的决定",
+          "highLight": false
+        }
+      ],
+      "score": 0.0
+    },
+    {
+      "bbbs": "ff80818185567186018561163b860552",
+      "title": "中华人民共和国预备役人员法",
+      "gbrq": "2022-12-30",
+      "sxrq": "2023-03-01",
+      "sxx": 3,
+      "zdjgName": "全国人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "法律",
+      "zdjgCodeId": 110,
+      "flfgCodeId": 130,
+      "titleHightLightList": [
+        {
+          "value": "中华人民共和国预备役人员法",
+          "highLight": false
+        }
+      ],
+      "score": 0.0
+    },
+    {
+      "bbbs": "ff8081817f3acaef017f400516e50556",
+      "title": "全国人民代表大会常务委员会关于中国人民解放军现役士兵衔级制度的决定",
+      "gbrq": "2022-02-28",
+      "sxrq": "2022-03-31",
+      "sxx": 3,
+      "zdjgName": "全国人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "法律",
+      "zdjgCodeId": 110,
+      "flfgCodeId": 130,
+      "titleHightLightList": [
+        {
+          "value": "全国人民代表大会常务委员会关于中国人民解放军现役士兵衔级制度的决定",
+          "highLight": false
+        }
+      ],
+      "score": 0.0
+    },
+    {
+      "bbbs": "ff8081817cac46cf017cac746d4b03d5",
+      "title": "全国人民代表大会常务委员会关于深化国防动员体制改革期间暂时调整适用相关法律规定的决定",
+      "gbrq": "2021-10-23",
+      "sxrq": "2021-10-24",
+      "sxx": null,
+      "zdjgName": "全国人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "有关法律问题和重大问题的决定（部分）",
+      "zdjgCodeId": 110,
+      "flfgCodeId": 190,
+      "titleHightLightList": [
+        {
+          "value": "全国人民代表大会常务委员会关于深化国防动员体制改革期间暂时调整适用相关法律规定的决定",
+          "highLight": false
+        }
+      ],
+      "score": 0.0
+    },
+    {
+      "bbbs": "ff8081817b637904017b63a8db4f001b",
+      "title": "中华人民共和国兵役法",
+      "gbrq": "2021-08-20",
+      "sxrq": "2021-10-01",
+      "sxx": 3,
+      "zdjgName": "全国人民代表大会",
+      "xgzlHighLight": null,
+      "flxz": "法律",
+      "zdjgCodeId": 100,
+      "flfgCodeId": 130,
+      "titleHightLightList": [
+        {
+          "value": "中华人民共和国兵役法",
+          "highLight": false
+        }
+      ],
+      "score": 0.0
+    },
+    {
+      "bbbs": "ff80818179f5da5e0179f89835a70518",
+      "title": "中华人民共和国军人地位和权益保障法",
+      "gbrq": "2021-06-10",
+      "sxrq": "2021-08-01",
+      "sxx": 3,
+      "zdjgName": "全国人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "法律",
+      "zdjgCodeId": 110,
+      "flfgCodeId": 130,
+      "titleHightLightList": [
+        {
+          "value": "中华人民共和国军人地位和权益保障法",
+          "highLight": false
+        }
+      ],
+      "score": 0.0
+    },
+    {
+      "bbbs": "ff80818179f5dd9f0179f8a44bec063e",
+      "title": "中华人民共和国军事设施保护法",
+      "gbrq": "2021-06-10",
+      "sxrq": "2021-08-01",
+      "sxx": 3,
+      "zdjgName": "全国人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "法律",
+      "zdjgCodeId": 110,
+      "flfgCodeId": 130,
+      "titleHightLightList": [
+        {
+          "value": "中华人民共和国军事设施保护法",
+          "highLight": false
+        }
+      ],
+      "score": 0.0
+    },
+    {
+      "bbbs": "ff80808176f4df37017737360133541f",
+      "title": "中华人民共和国海警法",
+      "gbrq": "2021-01-22",
+      "sxrq": "2021-02-01",
+      "sxx": 3,
+      "zdjgName": "全国人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "法律",
+      "zdjgCodeId": 110,
+      "flfgCodeId": 130,
+      "titleHightLightList": [
+        {
+          "value": "中华人民共和国海警法",
+          "highLight": false
+        }
+      ],
+      "score": 0.0
+    },
+    {
+      "bbbs": "ff808081752b7d430176a89d613a3565",
+      "title": "中华人民共和国国防法",
+      "gbrq": "2020-12-26",
+      "sxrq": "2021-01-01",
+      "sxx": 3,
+      "zdjgName": "全国人民代表大会",
+      "xgzlHighLight": null,
+      "flxz": "法律",
+      "zdjgCodeId": 100,
+      "flfgCodeId": 110,
+      "titleHightLightList": [
+        {
+          "value": "中华人民共和国国防法",
+          "highLight": false
+        }
+      ],
+      "score": 0.0
+    },
+    {
+      "bbbs": "ff80808175265dd40175d58c08410310",
+      "title": "中华人民共和国退役军人保障法",
+      "gbrq": "2020-11-11",
+      "sxrq": "2021-01-01",
+      "sxx": 3,
+      "zdjgName": "全国人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "法律",
+      "zdjgCodeId": 110,
+      "flfgCodeId": 150,
+      "titleHightLightList": [
+        {
+          "value": "中华人民共和国退役军人保障法",
+          "highLight": false
+        }
+      ],
+      "score": 0.0
+    },
+    {
+      "bbbs": "ff80808172b5f6e30172e4f3b6df198d",
+      "title": "中华人民共和国人民武装警察法",
+      "gbrq": "2020-06-20",
+      "sxrq": "2020-06-21",
+      "sxx": 3,
+      "zdjgName": "全国人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "法律",
+      "zdjgCodeId": 110,
+      "flfgCodeId": 130,
+      "titleHightLightList": [
+        {
+          "value": "中华人民共和国人民武装警察法",
+          "highLight": false
+        }
+      ],
+      "score": 0.0
+    },
+    {
+      "bbbs": "ff8080816f3cbb3c016f40e7c6ac0a43",
+      "title": "民用运力国防动员条例",
+      "gbrq": "2019-03-02",
+      "sxrq": null,
+      "sxx": 3,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "titleHightLightList": [
+        {
+          "value": "民用运力国防动员条例",
+          "highLight": false
+        }
+      ],
+      "score": 0.0
+    },
+    {
+      "bbbs": "ff8080816f3cbb3c016f4101cc861115",
+      "title": "军人抚恤优待条例",
+      "gbrq": "2019-03-02",
+      "sxrq": null,
+      "sxx": 2,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "titleHightLightList": [
+        {
+          "value": "军人抚恤优待条例",
+          "highLight": false
+        }
+      ],
+      "score": 0.0
+    },
+    {
+      "bbbs": "ff8080816f135f46016f1cece2851197",
+      "title": "中华人民共和国防沙治沙法",
+      "gbrq": "2018-10-26",
+      "sxrq": "2018-10-26",
+      "sxx": 3,
+      "zdjgName": "全国人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "法律",
+      "zdjgCodeId": 110,
+      "flfgCodeId": 155,
+      "titleHightLightList": [
+        {
+          "value": "中华人民共和国防沙治沙法",
+          "highLight": false
+        }
+      ],
+      "score": 0.0
+    },
+    {
+      "bbbs": "2c909fdd678bf17901678bf6125b0285",
+      "title": "中华人民共和国国防教育法",
+      "gbrq": "2018-04-27",
+      "sxrq": "2018-04-27",
+      "sxx": 2,
+      "zdjgName": "全国人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "法律",
+      "zdjgCodeId": 110,
+      "flfgCodeId": 130,
+      "titleHightLightList": [
+        {
+          "value": "中华人民共和国国防教育法",
+          "highLight": false
+        }
+      ],
+      "score": 0.0
+    },
+    {
+      "bbbs": "ff8080816f3cbb3c016f408c11320409",
+      "title": "中华人民共和国防治海岸工程建设项目污染损害海洋环境管理条例",
+      "gbrq": "2018-03-19",
+      "sxrq": null,
+      "sxx": 1,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "titleHightLightList": [
+        {
+          "value": "中华人民共和国防治海岸工程建设项目污染损害海洋环境管理条例",
+          "highLight": false
+        }
+      ],
+      "score": 0.0
+    },
+    {
+      "bbbs": "ff808081774c7a3d0177712835051c88",
+      "title": "全国人民代表大会常务委员会关于中国人民武装警察部队改革期间暂时调整适用相关法律规定的决定（失效）",
+      "gbrq": "2017-11-04",
+      "sxrq": "2017-11-05",
+      "sxx": null,
+      "zdjgName": "全国人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "有关法律问题和重大问题的决定（部分）",
+      "zdjgCodeId": 110,
+      "flfgCodeId": 190,
+      "titleHightLightList": [
+        {
+          "value": "全国人民代表大会常务委员会关于中国人民武装警察部队改革期间暂时调整适用相关法律规定的决定（失效）",
+          "highLight": false
+        }
+      ],
+      "score": 0.0
+    },
+    {
+      "bbbs": "2c909fdd678bf17901678bf81f340915",
+      "title": "中华人民共和国国防交通法",
+      "gbrq": "2016-09-03",
+      "sxrq": "2017-01-01",
+      "sxx": 3,
+      "zdjgName": "全国人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "法律",
+      "zdjgCodeId": 110,
+      "flfgCodeId": 130,
+      "titleHightLightList": [
+        {
+          "value": "中华人民共和国国防交通法",
+          "highLight": false
+        }
+      ],
+      "score": 0.0
+    },
+    {
+      "bbbs": "2c909fdd678bf17901678bf8122508f7",
+      "title": "中华人民共和国防洪法",
+      "gbrq": "2016-07-02",
+      "sxrq": "2016-07-02",
+      "sxx": 3,
+      "zdjgName": "全国人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "法律",
+      "zdjgCodeId": 110,
+      "flfgCodeId": 140,
+      "titleHightLightList": [
+        {
+          "value": "中华人民共和国防洪法",
+          "highLight": false
+        }
+      ],
+      "score": 0.0
+    },
+    {
+      "bbbs": "2c909fdd678bf17901678bf76ccf0721",
+      "title": "中华人民共和国军事设施保护法",
+      "gbrq": "2014-06-27",
+      "sxrq": "2014-08-01",
+      "sxx": 2,
+      "zdjgName": "全国人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "法律",
+      "zdjgCodeId": 110,
+      "flfgCodeId": 130,
+      "titleHightLightList": [
+        {
+          "value": "中华人民共和国军事设施保护法",
+          "highLight": false
+        }
+      ],
+      "score": 0.0
+    },
+    {
+      "bbbs": "2c909fdd678bf17901678bf73e160645",
+      "title": "中华人民共和国军人保险法",
+      "gbrq": "2012-04-27",
+      "sxrq": "2012-07-01",
+      "sxx": 3,
+      "zdjgName": "全国人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "法律",
+      "zdjgCodeId": 110,
+      "flfgCodeId": 150,
+      "titleHightLightList": [
+        {
+          "value": "中华人民共和国军人保险法",
+          "highLight": false
+        }
+      ],
+      "score": 0.0
+    },
+    {
+      "bbbs": "2c909fdd678bf17901678bf7361b061d",
+      "title": "中华人民共和国兵役法",
+      "gbrq": "2011-10-29",
+      "sxrq": "2011-10-29",
+      "sxx": 2,
+      "zdjgName": "全国人民代表大会",
+      "xgzlHighLight": null,
+      "flxz": "法律",
+      "zdjgCodeId": 100,
+      "flfgCodeId": 130,
+      "titleHightLightList": [
+        {
+          "value": "中华人民共和国兵役法",
+          "highLight": false
+        }
+      ],
+      "score": 0.0
+    },
+    {
+      "bbbs": "ff8080816f3e9784016f425d72570545",
+      "title": "中华人民共和国防汛条例",
+      "gbrq": "2011-01-08",
+      "sxrq": null,
+      "sxx": 3,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "titleHightLightList": [
+        {
+          "value": "中华人民共和国防汛条例",
+          "highLight": false
+        }
+      ],
+      "score": 0.0
+    },
+    {
+      "bbbs": "ff8080816f3cbb3c016f415440e22252",
+      "title": "中国人民武装警察部队实行警官警衔制度的具体办法",
+      "gbrq": "2011-01-08",
+      "sxrq": null,
+      "sxx": 3,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "titleHightLightList": [
+        {
+          "value": "中国人民武装警察部队实行警官警衔制度的具体办法",
+          "highLight": false
+        }
+      ],
+      "score": 0.0
+    },
+    {
+      "bbbs": "ff8080816f3cbb3c016f413e55291e98",
+      "title": "国防交通条例",
+      "gbrq": "2011-01-08",
+      "sxrq": null,
+      "sxx": 3,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "titleHightLightList": [
+        {
+          "value": "国防交通条例",
+          "highLight": false
+        }
+      ],
+      "score": 0.0
+    },
+    {
+      "bbbs": "2c909fdd678bf17901678bf70f5e05a5",
+      "title": "中华人民共和国预备役军官法",
+      "gbrq": "2010-08-28",
+      "sxrq": "2010-08-28",
+      "sxx": 1,
+      "zdjgName": "全国人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "法律",
+      "zdjgCodeId": 110,
+      "flfgCodeId": 130,
+      "titleHightLightList": [
+        {
+          "value": "中华人民共和国预备役军官法",
+          "highLight": false
+        }
+      ],
+      "score": 0.0
+    },
+    {
+      "bbbs": "ff8080816f3cbb3c016f414eda7e2148",
+      "title": "中国人民解放军现役士兵服役条例",
+      "gbrq": "2010-07-26",
+      "sxrq": null,
+      "sxx": 3,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "titleHightLightList": [
+        {
+          "value": "中国人民解放军现役士兵服役条例",
+          "highLight": false
+        }
+      ],
+      "score": 0.0
+    },
+    {
+      "bbbs": "2c909fdd678bf17901678bf70aee057d",
+      "title": "中华人民共和国国防动员法",
+      "gbrq": "2010-02-26",
+      "sxrq": "2010-07-01",
+      "sxx": 3,
+      "zdjgName": "全国人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "法律",
+      "zdjgCodeId": 110,
+      "flfgCodeId": 130,
+      "titleHightLightList": [
+        {
+          "value": "中华人民共和国国防动员法",
+          "highLight": false
+        }
+      ],
+      "score": 0.0
+    },
+    {
+      "bbbs": "2c909fdd678bf17901678bf67bc90433",
+      "title": "中华人民共和国国防法",
+      "gbrq": "2009-08-27",
+      "sxrq": "2009-08-27",
+      "sxx": 2,
+      "zdjgName": "全国人民代表大会",
+      "xgzlHighLight": null,
+      "flxz": "法律",
+      "zdjgCodeId": 100,
+      "flfgCodeId": 110,
+      "titleHightLightList": [
+        {
+          "value": "中华人民共和国国防法",
+          "highLight": false
+        }
+      ],
+      "score": 0.0
+    },
+    {
+      "bbbs": "2c909fdd678bf17901678bf6fd390523",
+      "title": "中华人民共和国人民防空法",
+      "gbrq": "2009-08-27",
+      "sxrq": "2009-08-27",
+      "sxx": 3,
+      "zdjgName": "全国人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "法律",
+      "zdjgCodeId": 110,
+      "flfgCodeId": 130,
+      "titleHightLightList": [
+        {
+          "value": "中华人民共和国人民防空法",
+          "highLight": false
+        }
+      ],
+      "score": 0.0
+    },
+    {
+      "bbbs": "2c909fdd678bf17901678bf673c1040b",
+      "title": "中华人民共和国人民武装警察法",
+      "gbrq": "2009-08-27",
+      "sxrq": "2009-08-27",
+      "sxx": 2,
+      "zdjgName": "全国人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "法律",
+      "zdjgCodeId": 110,
+      "flfgCodeId": 130,
+      "titleHightLightList": [
+        {
+          "value": "中华人民共和国人民武装警察法",
+          "highLight": false
+        }
+      ],
+      "score": 0.0
+    },
+    {
+      "bbbs": "2c909fdd678bf17901678bf65fce03d9",
+      "title": "中华人民共和国防震减灾法",
+      "gbrq": "2008-12-27",
+      "sxrq": "2009-05-01",
+      "sxx": 3,
+      "zdjgName": "全国人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "法律",
+      "zdjgCodeId": 110,
+      "flfgCodeId": 130,
+      "titleHightLightList": [
+        {
+          "value": "中华人民共和国防震减灾法",
+          "highLight": false
+        }
+      ],
+      "score": 0.0
+    },
+    {
+      "bbbs": "ff8080816f3cbb3c016f4052ddb0031e",
+      "title": "现役军人和人民武装警察居民身份证申领发放办法",
+      "gbrq": "2007-10-21",
+      "sxrq": null,
+      "sxx": 3,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "titleHightLightList": [
+        {
+          "value": "现役军人和人民武装警察居民身份证申领发放办法",
+          "highLight": false
+        }
+      ],
+      "score": 0.0
+    },
+    {
+      "bbbs": "ff8080816f3cbb3c016f411d0a7c17f0",
+      "title": "军队参加抢险救灾条例",
+      "gbrq": "2005-06-07",
+      "sxrq": null,
+      "sxx": 3,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "titleHightLightList": [
+        {
+          "value": "军队参加抢险救灾条例",
+          "highLight": false
+        }
+      ],
+      "score": 0.0
+    },
+    {
+      "bbbs": "ff8080816f3cbb3c016f410da0e913e7",
+      "title": "国防专利条例",
+      "gbrq": "2004-09-17",
+      "sxrq": null,
+      "sxx": 3,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "titleHightLightList": [
+        {
+          "value": "国防专利条例",
+          "highLight": false
+        }
+      ],
+      "score": 0.0
+    },
+    {
+      "bbbs": "2c909fdd678bf17901678bf61343028f",
+      "title": "中华人民共和国防沙治沙法",
+      "gbrq": "2001-08-31",
+      "sxrq": "2002-01-01",
+      "sxx": 2,
+      "zdjgName": "全国人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "法律",
+      "zdjgCodeId": 110,
+      "flfgCodeId": 155,
+      "titleHightLightList": [
+        {
+          "value": "中华人民共和国防沙治沙法",
+          "highLight": false
+        }
+      ],
+      "score": 0.0
+    },
+    {
+      "bbbs": "ff8080816f3cbb3c016f411d9d9f1827",
+      "title": "中华人民共和国军事设施保护法实施办法",
+      "gbrq": "2001-01-12",
+      "sxrq": null,
+      "sxx": 3,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "titleHightLightList": [
+        {
+          "value": "中华人民共和国军事设施保护法实施办法",
+          "highLight": false
+        }
+      ],
+      "score": 0.0
+    },
+    {
+      "bbbs": "2c909fdd678bf17901678bf60c71025d",
+      "title": "中华人民共和国现役军官法",
+      "gbrq": "2000-12-28",
+      "sxrq": "2000-12-28",
+      "sxx": 3,
+      "zdjgName": "全国人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "法律",
+      "zdjgCodeId": 110,
+      "flfgCodeId": 130,
+      "titleHightLightList": [
+        {
+          "value": "中华人民共和国现役军官法",
+          "highLight": false
+        }
+      ],
+      "score": 0.0
+    },
+    {
+      "bbbs": "ff8080816f3e98bd016f4240e01f03f2",
+      "title": "中华人民共和国防治陆源污染物污染损害海洋环境管理条例",
+      "gbrq": "1990-06-21",
+      "sxrq": null,
+      "sxx": 1,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "titleHightLightList": [
+        {
+          "value": "中华人民共和国防治陆源污染物污染损害海洋环境管理条例",
+          "highLight": false
+        }
+      ],
+      "score": 0.0
+    },
+    {
+      "bbbs": "ff8080816f3e98bd016f4209b4b3034d",
+      "title": "国防计量监督管理条例",
+      "gbrq": "1990-04-05",
+      "sxrq": null,
+      "sxx": 3,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "titleHightLightList": [
+        {
+          "value": "国防计量监督管理条例",
+          "highLight": false
+        }
+      ],
+      "score": 0.0
+    },
+    {
+      "bbbs": "2c909fdd678bf17901678bf5bfbf00d7",
+      "title": "全国人民代表大会常务委员会关于批准中央军事委员会《关于授予军队离休干部中国人民解放军功勋荣誉章的规定》的决定",
+      "gbrq": "1988-07-01",
+      "sxrq": "1988-07-01",
+      "sxx": 3,
+      "zdjgName": "全国人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "法律",
+      "zdjgCodeId": 110,
+      "flfgCodeId": 110,
+      "titleHightLightList": [
+        {
+          "value": "全国人民代表大会常务委员会关于批准中央军事委员会《关于授予军队离休干部中国人民解放军功勋荣誉章的规定》的决定",
+          "highLight": false
+        }
+      ],
+      "score": 0.0
+    },
+    {
+      "bbbs": "ff8080817703add20177196ea2312138",
+      "title": "全国人民代表大会常务委员会关于中国海警局行使海上维权执法职权的决定",
+      "gbrq": null,
+      "sxrq": "2018-07-01",
+      "sxx": null,
+      "zdjgName": "全国人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "有关法律问题和重大问题的决定（部分）",
+      "zdjgCodeId": 110,
+      "flfgCodeId": 190,
+      "titleHightLightList": [
+        {
+          "value": "全国人民代表大会常务委员会关于中国海警局行使海上维权执法职权的决定",
+          "highLight": false
+        }
+      ],
+      "score": 0.0
+    },
+    {
+      "bbbs": "ff808081774c72b30177704362251b14",
+      "title": "全国人民代表大会常务委员会关于设立全民国防教育日的决定",
+      "gbrq": null,
+      "sxrq": "2001-08-31",
+      "sxx": null,
+      "zdjgName": "全国人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "有关法律问题和重大问题的决定（部分）",
+      "zdjgCodeId": 110,
+      "flfgCodeId": 190,
+      "titleHightLightList": [
+        {
+          "value": "全国人民代表大会常务委员会关于设立全民国防教育日的决定",
+          "highLight": false
+        }
+      ],
+      "score": 0.0
+    },
+    {
+      "bbbs": "ff808081774c72b30177711d29c21e27",
+      "title": "全国人民代表大会常务委员会关于中国人民解放军保卫部门对军队内部发生的刑事案件行使公安机关的侦查、拘留、预审和执行逮捕的职权的决定",
+      "gbrq": null,
+      "sxrq": "1993-12-29",
+      "sxx": null,
+      "zdjgName": "全国人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "有关法律问题和重大问题的决定（部分）",
+      "zdjgCodeId": 110,
+      "flfgCodeId": 190,
+      "titleHightLightList": [
+        {
+          "value": "全国人民代表大会常务委员会关于中国人民解放军保卫部门对军队内部发生的刑事案件行使公安机关的侦查、拘留、预审和执行逮捕的职权的决定",
+          "highLight": false
+        }
+      ],
+      "score": 0.0
+    },
+    {
+      "bbbs": "ff8080816f3cbb3c016f407ec5300375",
+      "title": "中国人民解放军驻铁路、水路沿线交通部门军事代表条例",
+      "gbrq": "1978-06-29",
+      "sxrq": null,
+      "sxx": 3,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "titleHightLightList": [
+        {
+          "value": "中国人民解放军驻铁路、水路沿线交通部门军事代表条例",
+          "highLight": false
+        }
+      ],
+      "score": 0.0
+    }
+  ]
+}
