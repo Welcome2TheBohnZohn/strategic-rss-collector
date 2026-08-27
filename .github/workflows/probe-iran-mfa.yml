@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - '.github/workflows/probe-iran-mfa.yml'
+      - 'probe_iran_mfa.py'
 
 permissions:
   contents: read
