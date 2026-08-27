@@ -1,5 +1,5 @@
 Strategic RSS Collector Status
-Generated: 2026-08-27 17:24:32 UTC
+Generated: 2026-08-27 22:29:15 UTC
 
 Status meanings:
 OK = Feed contains one or more items
@@ -121,7 +121,7 @@ FAILED = Source could not be retrieved
   HTTP: 200
   Links discovered: 68
   Candidate links/items: 50
-  Attempted items/articles: 18
+  Attempted items/articles: 12
   Items/articles with text: 12
   Items/articles with dates: 12
   RSS feed items: 12
@@ -145,20 +145,18 @@ FAILED = Source could not be retrieved
   Retry backoff: 2s
 
 [OK] iran-mfa-en - Iran Ministry of Foreign Affairs English
-  Source type: html
-  Start URL: https://en.mfa.ir/
-  Resolved URL: https://en.mfa.ir/
+  Source type: iran_mfa
+  Start URL: https://en.mfa.gov.ir/portal/NewsAgencyShow/699
+  Resolved URL: https://en.mfa.gov.ir/portal/NewsAgencyShow/699
   HTTP: 200
-  Links discovered: 127
-  Candidate links/items: 15
-  Attempted items/articles: 15
-  Items/articles with text: 2
-  Items/articles with dates: 2
-  RSS feed items: 2
+  Attempted items/articles: 13
+  Items/articles with text: 12
+  Items/articles with dates: 12
+  RSS feed items: 12
   SSL verification: ON
-  Request timeout: 12s
-  Max retries: 1
-  Retry backoff: 1s
+  Request timeout: 20s
+  Max retries: 2
+  Retry backoff: 2s
 
 [OK] irna-en - IRNA English
   Source type: rss
@@ -257,10 +255,10 @@ FAILED = Source could not be retrieved
 [OK] china-defense-news-cn - China National Defense News
   Source type: newspaper
   Start URL: http://www.81.cn/szb_223187/gfbszblb/index.html
-  Resolved URL: http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-08-27&paperName=zggfb&paperNumber=01
+  Resolved URL: http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-08-28&paperName=zggfb&paperNumber=01
   HTTP: 200
-  Links discovered: 278
-  Candidate links/items: 12
+  Links discovered: 284
+  Candidate links/items: 17
   Attempted items/articles: 12
   Items/articles with text: 12
   Items/articles with dates: 12
