@@ -5846,6 +5846,7 @@ def run_iran_mfa(source):
         "archives": [],
         "detail_full_text": 0,
         "archive_fallback": 0,
+        "duplicate_content_skipped": 0,
     }
 
     first_success_url = ""
@@ -5961,6 +5962,7 @@ def run_iran_mfa(source):
     )
 
     articles = []
+    seen_content_keys = set()
 
     for record in records:
 
@@ -6030,6 +6032,22 @@ def run_iran_mfa(source):
                 text_value = summary
             else:
                 text_value = title
+
+        content_key = (
+            normalize_text(title).casefold()
+            + "\n"
+            + normalize_text(text_value).casefold()
+        )
+
+        if content_key in seen_content_keys:
+            diagnostics[
+                "duplicate_content_skipped"
+            ] += 1
+            continue
+
+        seen_content_keys.add(
+            content_key
+        )
 
         articles.append(
             {
