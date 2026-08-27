@@ -1,4 +1,4 @@
-# ✉️ On August 27, President of Russia
+# ✉️ On August 27, President of Russia Vladimir Putin expressed condolences to President of Nepal
 
 Published: 2026-08-27 10:40:38
 

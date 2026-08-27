@@ -1,4 +1,4 @@
-# 💥 Gerans packed a powerful punch last night.
+# 💥 Gerans packed a powerful punch last night. Russian Defence Ministry
 
 Published: 2026-08-27 07:05:01
 

@@ -1,4 +1,4 @@
-# ❗️ During the day,
+# ❗️ During the day, the Armed Forces of the Russian Federation continued to deliver group strikes
 
 Published: 2026-08-27 16:35:22
 

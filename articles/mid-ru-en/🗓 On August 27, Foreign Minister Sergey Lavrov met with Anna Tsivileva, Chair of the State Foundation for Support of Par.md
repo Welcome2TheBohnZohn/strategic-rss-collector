@@ -1,4 +1,4 @@
-# 🗓 On August 27, Foreign Minister
+# 🗓 On August 27, Foreign Minister Sergey Lavrov met with Anna Tsivileva, Chair of the State Foundation for Support of Participants of the Special Military Operation
 
 Published: 2026-08-27 17:00:01
 

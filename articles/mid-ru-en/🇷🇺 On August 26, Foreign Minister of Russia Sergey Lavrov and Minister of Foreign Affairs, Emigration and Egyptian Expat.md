@@ -1,4 +1,4 @@
-# 🇷🇺 🇪🇬
+# 🇷🇺 On August 26, Foreign Minister of Russia Sergey Lavrov and Minister of Foreign Affairs, Emigration and Egyptian Expatriates Badr Abdelatty
 
 Published: 2026-08-27 05:02:03
 

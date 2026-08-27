@@ -1,4 +1,4 @@
-# ⚡️ On August 27, Chargé d’Affaires a.i. of Romania in Russia Liliana Burda
+# ⚡️ On August 27, Chargé d’Affaires a.i. of Romania in Russia Liliana Burda was summoned
 
 Published: 2026-08-27 08:15:35
 

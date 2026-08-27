@@ -1,4 +1,4 @@
-# ⚓️ Maloyaroslavets
+# ⚓️ Maloyaroslavets 5th in the series The Project 677 Lada diesel-electric submarine was
 
 Published: 2026-08-27 12:00:01
 

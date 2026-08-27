@@ -1,4 +1,4 @@
-# ✉️ On August 27, President of Russia
+# ✉️ On August 27, President of Russia Vladimir Putin expressed condolences to President of China
 
 Published: 2026-08-27 11:31:04
 

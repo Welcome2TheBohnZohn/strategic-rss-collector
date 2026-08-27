@@ -1,4 +1,4 @@
-# 'It's better to move in the daytime. It's more dangerous at night'
+# 💬 'It's better to move in the daytime. It's more dangerous at night' The storming soldier with the call sign 'Vysota'
 
 Published: 2026-08-27 15:04:01
 

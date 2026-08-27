@@ -1,4 +1,4 @@
-# 🚨 Road patrol
+# 🚨 Road patrol FPV drone operators of the Zapad Group of Forces burned down enemy vehicles
 
 Published: 2026-08-27 09:30:01
 

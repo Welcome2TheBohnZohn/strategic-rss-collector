@@ -5580,14 +5580,48 @@ def telegram_title(text):
     if not lines:
         return "Telegram post"
 
-    title = lines[0]
+    decorative_prefix = ""
+    substantive = []
 
-    if len(title) < 25 and len(lines) > 1:
+    for line in lines:
+
+        if re.search(
+            r"[A-Za-z0-9]",
+            line,
+        ):
+            substantive.append(line)
+        elif not decorative_prefix:
+            decorative_prefix = line
+
+    if not substantive:
+        return normalize_text(
+            " ".join(lines)
+        )[:180]
+
+    parts = []
+
+    for line in substantive:
+        parts.append(line)
+
+        if len(
+            normalize_text(
+                " ".join(parts)
+            )
+        ) >= 80:
+            break
+
+    title = normalize_text(
+        " ".join(parts)
+    )
+
+    if decorative_prefix:
         title = normalize_text(
-            title + " " + lines[1]
+            decorative_prefix
+            + " "
+            + title
         )
 
-    return title[:240]
+    return title[:180]
 
 
 def run_telegram(source):

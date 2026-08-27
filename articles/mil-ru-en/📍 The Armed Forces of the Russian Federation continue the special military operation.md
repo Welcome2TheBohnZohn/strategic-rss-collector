@@ -1,4 +1,4 @@
-# The Armed Forces of the Russian Federation continue the special military operation.
+# 📍 The Armed Forces of the Russian Federation continue the special military operation.
 
 Published: 2026-08-27 10:41:34
 

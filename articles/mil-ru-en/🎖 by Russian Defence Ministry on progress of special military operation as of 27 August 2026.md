@@ -1,4 +1,4 @@
-# 🎖 🎖
+# 🎖 by Russian Defence Ministry on progress of special military operation as of 27 August 2026
 
 Published: 2026-08-27 10:41:34
 

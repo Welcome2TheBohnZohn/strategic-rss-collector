@@ -1,4 +1,4 @@
-# ⚡️ ️ The Vostok Group of Forces
+# ⚡️ ️ The Vostok Group of Forces liberated Shevchenkovskoye in Zaporozhye region. Russian Defence Ministry
 
 Published: 2026-08-27 10:35:09
 

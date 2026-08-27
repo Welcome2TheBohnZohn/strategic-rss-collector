@@ -1,4 +1,4 @@
-# 🔴 #LIVE
+# 🔴 #LIVE : Briefing by Russia's Foreign Ministry Spokeswoman Maria Zakharova on topical foreign policy issues
 
 Published: 2026-08-27 07:57:33
 
