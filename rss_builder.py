@@ -2,9 +2,11 @@
 
 import hashlib
 import html
+import io
 import json
 import re
 import time
+import zipfile
 from datetime import datetime, timezone
 from email.utils import format_datetime
 from pathlib import Path
@@ -69,6 +71,7 @@ BAD_LINK_TEXT = {
 
 
 def load_sources():
+
     return json.loads(
         SOURCES_FILE.read_text(
             encoding="utf-8"
@@ -77,6 +80,7 @@ def load_sources():
 
 
 def normalize_text(value):
+
     if not value:
         return ""
 
@@ -109,6 +113,7 @@ def normalize_text(value):
 
 
 def strip_html(value):
+
     if not value:
         return ""
 
@@ -126,7 +131,9 @@ def strip_html(value):
 
 
 def source_timeout(source):
+
     try:
+
         return max(
             1,
             int(
@@ -138,11 +145,14 @@ def source_timeout(source):
         )
 
     except Exception:
+
         return DEFAULT_REQUEST_TIMEOUT
 
 
 def source_max_retries(source):
+
     try:
+
         return max(
             0,
             int(
@@ -154,11 +164,14 @@ def source_max_retries(source):
         )
 
     except Exception:
+
         return DEFAULT_MAX_RETRIES
 
 
 def source_retry_backoff(source):
+
     try:
+
         return max(
             0,
             int(
@@ -170,10 +183,12 @@ def source_retry_backoff(source):
         )
 
     except Exception:
+
         return DEFAULT_RETRY_BACKOFF
 
 
 def source_browser_timeout_ms(source):
+
     return max(
         DEFAULT_BROWSER_TIMEOUT_MS,
         source_timeout(source) * 1000,
@@ -181,6 +196,7 @@ def source_browser_timeout_ms(source):
 
 
 def start_urls(source):
+
     values = [
         source["start_url"]
     ]
@@ -195,10 +211,12 @@ def start_urls(source):
     output = []
 
     for value in values:
+
         if (
             value
             and value not in output
         ):
+
             output.append(
                 value
             )
@@ -206,8 +224,11 @@ def start_urls(source):
     return output
 
 
-def request_headers():
-    return {
+def request_headers(
+    json_content=False,
+):
+
+    headers = {
         "User-Agent": USER_AGENT,
         "Accept": (
             "text/html,"
@@ -228,6 +249,17 @@ def request_headers():
         "Connection": "close",
     }
 
+    if json_content:
+
+        headers[
+            "Content-Type"
+        ] = (
+            "application/json;"
+            "charset=utf-8"
+        )
+
+    return headers
+
 
 def fetch(
     url,
@@ -238,7 +270,9 @@ def fetch(
     verify_ssl=True,
     params=None,
 ):
+
     if not verify_ssl:
+
         urllib3.disable_warnings(
             urllib3.exceptions.InsecureRequestWarning
         )
@@ -252,11 +286,13 @@ def fetch(
     for attempt_index in range(
         total_attempts
     ):
+
         attempt_number = (
             attempt_index + 1
         )
 
         try:
+
             print(
                 f"    Request "
                 f"{attempt_number}/"
@@ -281,6 +317,7 @@ def fetch(
                 or response.encoding.lower()
                 == "iso-8859-1"
             ):
+
                 response.encoding = (
                     response.apparent_encoding
                     or "utf-8"
@@ -289,7 +326,9 @@ def fetch(
             return {
                 "ok": True,
                 "url": response.url,
-                "status": response.status_code,
+                "status": (
+                    response.status_code
+                ),
                 "text": response.text,
                 "content": response.content,
                 "error": "",
@@ -297,6 +336,7 @@ def fetch(
             }
 
         except Exception as exc:
+
             last_error = (
                 f"{type(exc).__name__}: "
                 f"{exc}"
@@ -312,12 +352,14 @@ def fetch(
                 attempt_index
                 < total_attempts - 1
             ):
+
                 wait_seconds = (
                     retry_backoff
                     * attempt_number
                 )
 
                 if wait_seconds > 0:
+
                     print(
                         f"    Retrying in "
                         f"{wait_seconds} "
@@ -340,16 +382,18 @@ def fetch(
     }
 
 
-def post_form(
+def post_json(
     url,
-    data,
+    payload,
     *,
     timeout=DEFAULT_REQUEST_TIMEOUT,
     max_retries=DEFAULT_MAX_RETRIES,
     retry_backoff=DEFAULT_RETRY_BACKOFF,
     verify_ssl=True,
 ):
+
     if not verify_ssl:
+
         urllib3.disable_warnings(
             urllib3.exceptions.InsecureRequestWarning
         )
@@ -363,13 +407,15 @@ def post_form(
     for attempt_index in range(
         total_attempts
     ):
+
         attempt_number = (
             attempt_index + 1
         )
 
         try:
+
             print(
-                f"    POST "
+                f"    JSON POST "
                 f"{attempt_number}/"
                 f"{total_attempts}: "
                 f"{url}",
@@ -378,8 +424,10 @@ def post_form(
 
             response = requests.post(
                 url,
-                headers=request_headers(),
-                data=data,
+                headers=request_headers(
+                    json_content=True,
+                ),
+                json=payload,
                 timeout=timeout,
                 allow_redirects=True,
                 verify=verify_ssl,
@@ -392,6 +440,7 @@ def post_form(
                 or response.encoding.lower()
                 == "iso-8859-1"
             ):
+
                 response.encoding = (
                     response.apparent_encoding
                     or "utf-8"
@@ -400,7 +449,9 @@ def post_form(
             return {
                 "ok": True,
                 "url": response.url,
-                "status": response.status_code,
+                "status": (
+                    response.status_code
+                ),
                 "text": response.text,
                 "content": response.content,
                 "error": "",
@@ -408,13 +459,14 @@ def post_form(
             }
 
         except Exception as exc:
+
             last_error = (
                 f"{type(exc).__name__}: "
                 f"{exc}"
             )
 
             print(
-                f"    POST failed: "
+                f"    JSON POST failed: "
                 f"{last_error}",
                 flush=True,
             )
@@ -423,14 +475,17 @@ def post_form(
                 attempt_index
                 < total_attempts - 1
             ):
+
                 wait_seconds = (
                     retry_backoff
                     * attempt_number
                 )
 
                 if wait_seconds > 0:
+
                     print(
-                        f"    Retrying POST in "
+                        f"    Retrying "
+                        f"JSON POST in "
                         f"{wait_seconds} "
                         f"seconds...",
                         flush=True,
@@ -458,15 +513,18 @@ def fetch_for_source(
     params=None,
     override_retries=None,
 ):
+
     if override_retries is None:
-        max_retries = (
+
+        retries = (
             source_max_retries(
                 source
             )
         )
 
     else:
-        max_retries = max(
+
+        retries = max(
             0,
             int(
                 override_retries
@@ -478,7 +536,7 @@ def fetch_for_source(
         timeout=source_timeout(
             source
         ),
-        max_retries=max_retries,
+        max_retries=retries,
         retry_backoff=(
             source_retry_backoff(
                 source
@@ -492,35 +550,38 @@ def fetch_for_source(
     )
 
 
-def post_for_source(
+def post_json_for_source(
     source,
     url,
-    data,
+    payload,
     *,
     override_retries=None,
 ):
+
     if override_retries is None:
-        max_retries = (
+
+        retries = (
             source_max_retries(
                 source
             )
         )
 
     else:
-        max_retries = max(
+
+        retries = max(
             0,
             int(
                 override_retries
             ),
         )
 
-    return post_form(
+    return post_json(
         url,
-        data,
+        payload,
         timeout=source_timeout(
             source
         ),
-        max_retries=max_retries,
+        max_retries=retries,
         retry_backoff=(
             source_retry_backoff(
                 source
@@ -534,17 +595,22 @@ def post_for_source(
 
 
 def fetch_source(source):
+
     errors = []
 
     for url in start_urls(
         source
     ):
+
         result = fetch_for_source(
             source,
             url,
         )
 
-        if result["ok"]:
+        if result[
+            "ok"
+        ]:
+
             return result
 
         errors.append(
@@ -568,9 +634,11 @@ def fetch_source(source):
 
 
 def response_json(result):
+
     if not result.get(
         "ok"
     ):
+
         return None
 
     response = result.get(
@@ -578,13 +646,17 @@ def response_json(result):
     )
 
     if response is not None:
+
         try:
+
             return response.json()
 
         except Exception:
+
             pass
 
     try:
+
         return json.loads(
             result.get(
                 "text",
@@ -593,6 +665,7 @@ def response_json(result):
         )
 
     except Exception:
+
         return None
 
 
@@ -600,7 +673,9 @@ def canonical_url(
     base_url,
     href,
 ):
+
     try:
+
         url = urljoin(
             base_url,
             href,
@@ -614,6 +689,7 @@ def canonical_url(
             "http",
             "https",
         ):
+
             return ""
 
         return parsed._replace(
@@ -621,10 +697,12 @@ def canonical_url(
         ).geturl()
 
     except Exception:
+
         return ""
 
 
 def normalized_host(url):
+
     return (
         urlparse(
             url
@@ -639,6 +717,7 @@ def same_domain(
     source_url,
     candidate_url,
 ):
+
     first = normalized_host(
         source_url
     )
@@ -651,6 +730,7 @@ def same_domain(
         not first
         or not second
     ):
+
         return False
 
     return (
@@ -668,6 +748,7 @@ def collect_links(
     page_html,
     final_url,
 ):
+
     soup = BeautifulSoup(
         page_html,
         "lxml",
@@ -679,6 +760,7 @@ def collect_links(
         "a",
         href=True,
     ):
+
         url = canonical_url(
             final_url,
             node.get(
@@ -688,6 +770,7 @@ def collect_links(
         )
 
         if not url:
+
             continue
 
         text = normalize_text(
@@ -700,11 +783,16 @@ def collect_links(
         if (
             url not in found
             or (
-                not found[url]
+                not found[
+                    url
+                ]
                 and text
             )
         ):
-            found[url] = text
+
+            found[
+                url
+            ] = text
 
     quoted_pattern = re.compile(
         r"[\"']"
@@ -717,16 +805,22 @@ def collect_links(
     for match in quoted_pattern.finditer(
         page_html
     ):
+
         url = canonical_url(
             final_url,
-            match.group(1),
+            match.group(
+                1
+            ),
         )
 
         if (
             url
             and url not in found
         ):
-            found[url] = ""
+
+            found[
+                url
+            ] = ""
 
     return [
         {
@@ -743,6 +837,7 @@ def find_candidates(
     page_html,
     final_url,
 ):
+
     links = collect_links(
         page_html,
         final_url,
@@ -769,6 +864,7 @@ def find_candidates(
     if source.get(
         "include_text_regex"
     ):
+
         text_pattern = re.compile(
             source[
                 "include_text_regex"
@@ -780,6 +876,7 @@ def find_candidates(
     seen = set()
 
     for item in links:
+
         url = item[
             "url"
         ]
@@ -789,6 +886,7 @@ def find_candidates(
         ]
 
         if url in seen:
+
             continue
 
         seen.add(
@@ -801,16 +899,19 @@ def find_candidates(
             ],
             url,
         ):
+
             continue
 
         if exclude_pattern.search(
             url
         ):
+
             continue
 
         if not include_pattern.search(
             url
         ):
+
             continue
 
         if (
@@ -819,9 +920,13 @@ def find_candidates(
                 text
             )
         ):
+
             continue
 
-        if len(text) < 4:
+        if len(
+            text
+        ) < 4:
+
             text = (
                 urlparse(
                     url
@@ -836,23 +941,29 @@ def find_candidates(
             text.lower()
             in BAD_LINK_TEXT
         ):
+
             continue
 
         score = 5
 
-        if len(text) >= 10:
+        if len(
+            text
+        ) >= 10:
+
             score += 2
 
         if re.search(
             r"20\d{2}",
             url,
         ):
+
             score += 2
 
         if re.search(
             r"\d{6,}",
             url,
         ):
+
             score += 2
 
         if any(
@@ -869,6 +980,7 @@ def find_candidates(
                 "flaw",
             )
         ):
+
             score += 2
 
         candidates.append(
@@ -901,7 +1013,9 @@ def find_candidates(
 
 
 def try_parse_date(value):
+
     if not value:
+
         return None
 
     value = normalize_text(
@@ -918,27 +1032,45 @@ def try_parse_date(value):
     )
 
     if chinese_match:
+
         (
             year,
             month,
             day,
             hour,
             minute,
-        ) = chinese_match.groups()
+        ) = (
+            chinese_match.groups()
+        )
 
         try:
+
             return datetime(
-                int(year),
-                int(month),
-                int(day),
-                int(hour or 0),
-                int(minute or 0),
+                int(
+                    year
+                ),
+                int(
+                    month
+                ),
+                int(
+                    day
+                ),
+                int(
+                    hour
+                    or 0
+                ),
+                int(
+                    minute
+                    or 0
+                ),
             )
 
         except Exception:
+
             pass
 
     try:
+
         dt = dateparser.parse(
             value,
             fuzzy=True,
@@ -950,16 +1082,20 @@ def try_parse_date(value):
             <= dt.year
             <= 2100
         ):
+
             return dt
 
     except Exception:
+
         pass
 
     return None
 
 
 def date_from_url(url):
+
     try:
+
         parsed = urlparse(
             url
         )
@@ -974,15 +1110,18 @@ def date_from_url(url):
             "pubDate",
             "publishDate",
         ):
+
             for value in query.get(
                 key,
                 [],
             ):
+
                 dt = try_parse_date(
                     value
                 )
 
                 if dt:
+
                     return dt
 
         match = re.search(
@@ -993,15 +1132,22 @@ def date_from_url(url):
         )
 
         if match:
+
             return datetime(
                 int(
-                    match.group(1)
+                    match.group(
+                        1
+                    )
                 ),
                 int(
-                    match.group(2)
+                    match.group(
+                        2
+                    )
                 ),
                 int(
-                    match.group(3)
+                    match.group(
+                        3
+                    )
                 ),
             )
 
@@ -1013,6 +1159,7 @@ def date_from_url(url):
         )
 
         if compact_match:
+
             return datetime(
                 int(
                     compact_match.group(
@@ -1032,6 +1179,7 @@ def date_from_url(url):
             )
 
     except Exception:
+
         pass
 
     return None
@@ -1041,6 +1189,7 @@ def extract_date(
     soup,
     page_text,
 ):
+
     meta_candidates = [
         (
             "property",
@@ -1084,6 +1233,7 @@ def extract_date(
         attribute,
         value,
     ) in meta_candidates:
+
         node = soup.find(
             "meta",
             attrs={
@@ -1097,6 +1247,7 @@ def extract_date(
                 "content"
             )
         ):
+
             dt = try_parse_date(
                 node.get(
                     "content"
@@ -1104,11 +1255,13 @@ def extract_date(
             )
 
             if dt:
+
                 return dt
 
     for node in soup.find_all(
         "time"
     ):
+
         dt = try_parse_date(
             node.get(
                 "datetime"
@@ -1123,6 +1276,7 @@ def extract_date(
         )
 
         if dt:
+
             return dt
 
     selectors = [
@@ -1146,9 +1300,11 @@ def extract_date(
     ]
 
     for selector in selectors:
+
         for node in soup.select(
             selector
         ):
+
             dt = try_parse_date(
                 node.get_text(
                     " ",
@@ -1157,6 +1313,7 @@ def extract_date(
             )
 
             if dt:
+
                 return dt
 
     sample = page_text[
@@ -1183,12 +1340,14 @@ def extract_date(
     ]
 
     for pattern in patterns:
+
         match = re.search(
             pattern,
             sample,
         )
 
         if not match:
+
             continue
 
         (
@@ -1200,15 +1359,29 @@ def extract_date(
         ) = match.groups()
 
         try:
+
             return datetime(
-                int(year),
-                int(month),
-                int(day),
-                int(hour or 0),
-                int(minute or 0),
+                int(
+                    year
+                ),
+                int(
+                    month
+                ),
+                int(
+                    day
+                ),
+                int(
+                    hour
+                    or 0
+                ),
+                int(
+                    minute
+                    or 0
+                ),
             )
 
         except Exception:
+
             pass
 
     return None
@@ -1218,6 +1391,7 @@ def extract_title(
     soup,
     fallback="Untitled",
 ):
+
     selectors = [
         "h1",
         ".article-title",
@@ -1232,11 +1406,13 @@ def extract_title(
     ]
 
     for selector in selectors:
+
         node = soup.select_one(
             selector
         )
 
         if not node:
+
             continue
 
         text = normalize_text(
@@ -1248,12 +1424,16 @@ def extract_title(
 
         if (
             4
-            <= len(text)
+            <= len(
+                text
+            )
             <= 300
         ):
+
             return text
 
     if soup.title:
+
         text = normalize_text(
             soup.title.get_text(
                 " ",
@@ -1262,12 +1442,14 @@ def extract_title(
         )
 
         if text:
+
             return text
 
     return fallback
 
 
 def extract_article_text(soup):
+
     for tag in soup(
         [
             "script",
@@ -1282,6 +1464,7 @@ def extract_article_text(soup):
             "aside",
         ]
     ):
+
         tag.decompose()
 
     selectors = [
@@ -1311,9 +1494,11 @@ def extract_article_text(soup):
     candidates = []
 
     for selector in selectors:
+
         for node in soup.select(
             selector
         ):
+
             text = normalize_text(
                 node.get_text(
                     "\n",
@@ -1321,12 +1506,16 @@ def extract_article_text(soup):
                 )
             )
 
-            if len(text) >= 200:
+            if len(
+                text
+            ) >= 200:
+
                 candidates.append(
                     text
                 )
 
     if candidates:
+
         return max(
             candidates,
             key=len,
@@ -1337,6 +1526,7 @@ def extract_article_text(soup):
     for paragraph in soup.find_all(
         "p"
     ):
+
         text = normalize_text(
             paragraph.get_text(
                 " ",
@@ -1344,17 +1534,24 @@ def extract_article_text(soup):
             )
         )
 
-        if len(text) >= 30:
+        if len(
+            text
+        ) >= 30:
+
             paragraphs.append(
                 text
             )
 
     if paragraphs:
+
         text = "\n\n".join(
             paragraphs
         )
 
-        if len(text) >= 200:
+        if len(
+            text
+        ) >= 200:
+
             return text[
                 :50000
             ]
@@ -1372,6 +1569,7 @@ def extract_article(
     fallback_title,
     article_url="",
 ):
+
     soup = BeautifulSoup(
         page_html,
         "lxml",
@@ -1393,6 +1591,7 @@ def extract_article(
         not published
         and article_url
     ):
+
         published = date_from_url(
             article_url
         )
@@ -1413,6 +1612,7 @@ def safe_filename(
     title,
     url,
 ):
+
     value = re.sub(
         r'[\\/:*?"<>|]+',
         "_",
@@ -1428,6 +1628,7 @@ def safe_filename(
     )
 
     if not value:
+
         value = hashlib.sha1(
             url.encode(
                 "utf-8"
@@ -1445,6 +1646,7 @@ def save_article(
     source_slug,
     article,
 ):
+
     folder = (
         ARTICLES_DIR
         / source_slug
@@ -1498,6 +1700,7 @@ def save_diagnostics(
     links,
     candidates,
 ):
+
     DIAGNOSTICS_DIR.mkdir(
         parents=True,
         exist_ok=True,
@@ -1558,14 +1761,12 @@ def save_diagnostics(
             f"{len(links)}"
         ),
         "",
-        (
-            "=== MATCHED "
-            "CANDIDATES ==="
-        ),
+        "=== MATCHED CANDIDATES ===",
         "",
     ]
 
     for item in candidates:
+
         lines.append(
             item[
                 "url"
@@ -1591,6 +1792,7 @@ def save_diagnostics(
     )
 
     for item in links:
+
         lines.append(
             item[
                 "url"
@@ -1600,6 +1802,7 @@ def save_diagnostics(
         if item[
             "text"
         ]:
+
             lines.append(
                 "  "
                 + item[
@@ -1620,6 +1823,7 @@ def save_raw(
     text,
     suffix,
 ):
+
     DIAGNOSTICS_DIR.mkdir(
         parents=True,
         exist_ok=True,
@@ -1637,7 +1841,9 @@ def save_raw(
     )
 
     path.write_text(
-        str(text)[
+        str(
+            text
+        )[
             :200000
         ],
         encoding="utf-8",
@@ -1645,10 +1851,13 @@ def save_raw(
 
 
 def normalize_datetime(value):
+
     if not value:
+
         return None
 
     if value.tzinfo is None:
+
         value = value.replace(
             tzinfo=timezone.utc
         )
@@ -1662,6 +1871,7 @@ def build_rss(
     source,
     articles,
 ):
+
     rss = ET.Element(
         "rss",
         {
@@ -1716,6 +1926,7 @@ def build_rss(
     )
 
     for article in articles:
+
         item = ET.SubElement(
             channel,
             "item",
@@ -1762,6 +1973,7 @@ def build_rss(
         )
 
         if published:
+
             ET.SubElement(
                 item,
                 "pubDate",
@@ -1819,6 +2031,7 @@ def write_feed(
     source,
     articles,
 ):
+
     FEEDS_DIR.mkdir(
         parents=True,
         exist_ok=True,
@@ -1843,6 +2056,7 @@ def write_feed(
 
 
 def base_status(source):
+
     return {
         "slug": source[
             "slug"
@@ -1892,6 +2106,7 @@ def populate_counts(
     status,
     articles,
 ):
+
     status[
         "articles_with_text"
     ] = sum(
@@ -1922,6 +2137,7 @@ def populate_counts(
 
 
 def run_rss(source):
+
     print(
         "\n==> "
         + source[
@@ -1958,6 +2174,7 @@ def run_rss(source):
     if not result[
         "ok"
     ]:
+
         status[
             "error"
         ] = result[
@@ -1977,15 +2194,16 @@ def run_rss(source):
     for entry in parsed.entries[
         :MAX_ITEMS_PER_SOURCE
     ]:
-        title = strip_html(
-            entry.get(
-                "title",
-                "",
-            )
-        )
 
-        if not title:
-            title = "Untitled"
+        title = (
+            strip_html(
+                entry.get(
+                    "title",
+                    "",
+                )
+            )
+            or "Untitled"
+        )
 
         url = (
             entry.get(
@@ -2004,6 +2222,7 @@ def run_rss(source):
         if entry.get(
             "content"
         ):
+
             text = "\n\n".join(
                 strip_html(
                     part.get(
@@ -2021,6 +2240,7 @@ def run_rss(source):
             )
 
         if not text:
+
             text = strip_html(
                 entry.get(
                     "summary"
@@ -2038,30 +2258,36 @@ def run_rss(source):
             "updated_parsed",
             "created_parsed",
         ):
+
             value = entry.get(
                 key
             )
 
-            if not value:
-                continue
+            if value:
 
-            try:
-                published = datetime(
-                    *value[:6],
-                    tzinfo=timezone.utc,
-                )
+                try:
 
-                break
+                    published = datetime(
+                        *value[
+                            :6
+                        ],
+                        tzinfo=timezone.utc,
+                    )
 
-            except Exception:
-                pass
+                    break
+
+                except Exception:
+
+                    pass
 
         if not published:
+
             for key in (
                 "published",
                 "updated",
                 "created",
             ):
+
                 published = try_parse_date(
                     entry.get(
                         key
@@ -2069,9 +2295,11 @@ def run_rss(source):
                 )
 
                 if published:
+
                     break
 
         if not published:
+
             published = date_from_url(
                 url
             )
@@ -2114,6 +2342,7 @@ def run_rss(source):
     )
 
     if not articles:
+
         save_raw(
             source,
             result[
@@ -2127,6 +2356,7 @@ def run_rss(source):
             "bozo",
             False,
         ):
+
             status[
                 "error"
             ] = (
@@ -2155,6 +2385,7 @@ def collect_html_articles(
     status,
     browser_page=None,
 ):
+
     candidates, links = (
         find_candidates(
             source,
@@ -2182,6 +2413,7 @@ def collect_html_articles(
     )
 
     if not candidates:
+
         save_raw(
             source,
             listing_html,
@@ -2196,10 +2428,14 @@ def collect_html_articles(
     seen = set()
 
     for candidate in candidates:
+
         if (
-            len(articles)
+            len(
+                articles
+            )
             >= MAX_ITEMS_PER_SOURCE
         ):
+
             break
 
         url = candidate[
@@ -2207,6 +2443,7 @@ def collect_html_articles(
         ]
 
         if url in seen:
+
             continue
 
         seen.add(
@@ -2218,7 +2455,9 @@ def collect_html_articles(
         ] += 1
 
         try:
+
             if browser_page:
+
                 browser_page.goto(
                     url,
                     wait_until=(
@@ -2236,12 +2475,14 @@ def collect_html_articles(
                 )
 
                 try:
+
                     browser_page.wait_for_load_state(
                         "networkidle",
                         timeout=4000,
                     )
 
                 except PlaywrightTimeoutError:
+
                     pass
 
                 page_html = (
@@ -2253,6 +2494,7 @@ def collect_html_articles(
                 )
 
             else:
+
                 page = fetch_for_source(
                     source,
                     url,
@@ -2261,6 +2503,7 @@ def collect_html_articles(
                 if not page[
                     "ok"
                 ]:
+
                     continue
 
                 page_html = page[
@@ -2284,6 +2527,7 @@ def collect_html_articles(
                     "text"
                 ]
             ) < 200:
+
                 continue
 
             article[
@@ -2306,6 +2550,7 @@ def collect_html_articles(
             )
 
         except Exception as exc:
+
             print(
                 f"    Article failed: "
                 f"{url} -> "
@@ -2313,8 +2558,6 @@ def collect_html_articles(
                 f"{exc}",
                 flush=True,
             )
-
-            continue
 
     populate_counts(
         status,
@@ -2330,6 +2573,7 @@ def collect_html_articles(
 
 
 def run_html(source):
+
     print(
         "\n==> "
         + source[
@@ -2366,6 +2610,7 @@ def run_html(source):
     if not listing[
         "ok"
     ]:
+
         status[
             "error"
         ] = listing[
@@ -2390,6 +2635,7 @@ def browser_context(
     playwright,
     source,
 ):
+
     browser = (
         playwright.chromium.launch(
             headless=True,
@@ -2430,6 +2676,7 @@ def browser_open(
     page,
     source,
 ):
+
     errors = []
 
     browser_timeout = (
@@ -2441,6 +2688,7 @@ def browser_open(
     for url in start_urls(
         source
     ):
+
         attempts = (
             source_max_retries(
                 source
@@ -2451,11 +2699,13 @@ def browser_open(
         for attempt_index in range(
             attempts
         ):
+
             attempt_number = (
                 attempt_index + 1
             )
 
             try:
+
                 print(
                     f"    Browser "
                     f"{attempt_number}/"
@@ -2479,12 +2729,14 @@ def browser_open(
                 )
 
                 try:
+
                     page.wait_for_load_state(
                         "networkidle",
                         timeout=5000,
                     )
 
                 except PlaywrightTimeoutError:
+
                     pass
 
                 content = (
@@ -2510,6 +2762,7 @@ def browser_open(
                     for marker
                     in challenge_markers
                 ):
+
                     page.wait_for_timeout(
                         8000
                     )
@@ -2525,10 +2778,13 @@ def browser_open(
                 )
 
                 if status_code < 400:
+
                     return {
                         "ok": True,
                         "url": page.url,
-                        "status": status_code,
+                        "status": (
+                            status_code
+                        ),
                         "text": content,
                         "error": "",
                     }
@@ -2540,6 +2796,7 @@ def browser_open(
                 )
 
             except Exception as exc:
+
                 error_message = (
                     f"{url} -> "
                     f"{type(exc).__name__}: "
@@ -2554,6 +2811,7 @@ def browser_open(
                 attempt_index
                 < attempts - 1
             ):
+
                 wait_seconds = (
                     source_retry_backoff(
                         source
@@ -2562,6 +2820,7 @@ def browser_open(
                 )
 
                 if wait_seconds > 0:
+
                     print(
                         f"    Browser "
                         f"retry in "
@@ -2588,6 +2847,7 @@ def browser_open(
 
 
 def run_browser(source):
+
     print(
         "\n==> "
         + source[
@@ -2605,7 +2865,9 @@ def run_browser(source):
     )
 
     try:
+
         with sync_playwright() as playwright:
+
             browser, context = (
                 browser_context(
                     playwright,
@@ -2644,6 +2906,7 @@ def run_browser(source):
             if not listing[
                 "ok"
             ]:
+
                 status[
                     "error"
                 ] = listing[
@@ -2673,6 +2936,7 @@ def run_browser(source):
             return result
 
     except Exception as exc:
+
         status[
             "error"
         ] = (
@@ -2684,392 +2948,545 @@ def run_browser(source):
 
 
 # ============================================================
-# NPC NATIONAL LAWS DATABASE
+# NPC NATIONAL LAWS AND REGULATIONS DATABASE
 # ============================================================
 
-def npc_metadata_text(
-    record,
-    detail,
-):
-    title = (
-        detail.get(
-            "title"
-        )
-        or record.get(
-            "title"
-        )
-        or ""
+
+def npc_fetch_category_map(source):
+
+    result = fetch_for_source(
+        source,
+        source[
+            "npc_enum_url"
+        ],
     )
 
-    office = (
-        detail.get(
-            "office"
-        )
-        or record.get(
-            "office"
-        )
-        or ""
-    )
+    if not result[
+        "ok"
+    ]:
 
-    law_type = (
-        detail.get(
-            "level"
-        )
-        or detail.get(
-            "type"
-        )
-        or record.get(
-            "type"
-        )
-        or ""
-    )
-
-    publish = (
-        detail.get(
-            "publish"
-        )
-        or record.get(
-            "publish"
-        )
-        or ""
-    )
-
-    expiry = (
-        detail.get(
-            "expiry"
-        )
-        or record.get(
-            "expiry"
-        )
-        or ""
-    )
-
-    law_status = (
-        detail.get(
-            "status"
-        )
-        or record.get(
-            "status"
-        )
-        or ""
-    )
-
-    lines = []
-
-    if title:
-        lines.append(
-            title
-        )
-
-    if office:
-        lines.append(
-            f"发布机关: {office}"
-        )
-
-    if law_type:
-        lines.append(
-            f"类型: {law_type}"
-        )
-
-    if publish:
-        lines.append(
-            f"公布日期: {publish}"
-        )
-
-    if expiry:
-        lines.append(
-            f"施行/失效日期: {expiry}"
-        )
-
-    if law_status:
-        lines.append(
-            f"状态: {law_status}"
-        )
-
-    return "\n".join(
-        lines
-    )
-
-
-def npc_select_content_url(
-    detail,
-    download_base,
-):
-    body = detail.get(
-        "body"
-    ) or []
-
-    if not isinstance(
-        body,
-        list,
-    ):
-        return ""
-
-    ordered = sorted(
-        body,
-        key=lambda item: (
-            0
-            if str(
-                item.get(
-                    "type",
-                    "",
-                )
-            ).upper()
-            == "WORD"
-            else 1,
-            0
-            if item.get(
-                "url"
-            )
-            else 1,
-        ),
-    )
-
-    for item in ordered:
-        relative_url = item.get(
-            "url"
-        )
-
-        if relative_url:
-            return urljoin(
-                (
-                    download_base.rstrip(
-                        "/"
-                    )
-                    + "/"
-                ),
-                relative_url.lstrip(
-                    "/"
-                ),
-            )
-
-    for item in ordered:
-        mobile = item.get(
-            "mobile"
-        )
-
-        if mobile:
-            return urljoin(
-                (
-                    download_base.rstrip(
-                        "/"
-                    )
-                    + "/"
-                ),
-                mobile.lstrip(
-                    "/"
-                ),
-            )
-
-    return ""
-
-
-def npc_query_records(source):
-    api_url = source[
-        "npc_api_url"
-    ]
-
-    keywords = source.get(
-        "npc_keywords",
-        [],
-    )
-
-    records = {}
-    queries = []
-
-    successful_requests = 0
-    last_error = ""
-
-    for keyword in keywords:
-        params = {
-            "type": "flfg",
-            "searchType": (
-                "title;vague"
-            ),
-            "sortTr": (
-                "f_bbrq_s;desc"
-            ),
-            "gbrqStart": "",
-            "gbrqEnd": "",
-            "sxrqStart": "",
-            "sxrqEnd": "",
-            "sort": "true",
-            "page": "1",
-            "size": "20",
-            "fgbt": keyword,
-            "_": str(
-                int(
-                    time.time()
-                    * 1000
-                )
-            ),
-        }
-
-        result = fetch_for_source(
-            source,
-            api_url,
-            params=params,
-        )
-
-        query_report = {
-            "keyword": keyword,
-            "url": result.get(
-                "url",
-                api_url,
-            ),
-            "status": result.get(
-                "status"
-            ),
-            "error": result.get(
-                "error",
-                "",
-            ),
-            "returned": 0,
-            "matched": 0,
-        }
-
-        if not result[
-            "ok"
-        ]:
-            last_error = result[
+        return (
+            None,
+            result[
                 "error"
+            ],
+            result,
+        )
+
+    payload = response_json(
+        result
+    )
+
+    try:
+
+        children = (
+            payload[
+                "data"
+            ][
+                "flfgfl"
+            ][
+                "children"
             ]
-
-            queries.append(
-                query_report
-            )
-
-            continue
-
-        successful_requests += 1
-
-        payload = response_json(
-            result
         )
 
-        if not isinstance(
-            payload,
-            dict,
-        ):
-            query_report[
-                "error"
-            ] = (
-                "Response was not "
-                "valid JSON."
-            )
+    except Exception:
 
-            queries.append(
-                query_report
-            )
-
-            continue
-
-        result_object = payload.get(
-            "result"
+        return (
+            None,
+            (
+                "NPC enumData response "
+                "did not contain "
+                "data.flfgfl.children"
+            ),
+            result,
         )
 
-        if isinstance(
-            result_object,
-            dict,
-        ):
-            data = result_object.get(
-                "data",
+    mapping = {}
+
+    for node in children:
+
+        name = normalize_text(
+            node.get(
+                "name",
+                "",
+            )
+        )
+
+        codes = [
+            code
+            for code
+            in node.get(
+                "codeIdList",
                 [],
             )
+            if code is not None
+        ]
 
-        else:
-            data = []
-
-        if not isinstance(
-            data,
-            list,
+        if (
+            name
+            and codes
         ):
-            data = []
 
-        query_report[
-            "returned"
-        ] = len(
-            data
+            mapping[
+                name
+            ] = codes
+
+    return (
+        mapping,
+        "",
+        result,
+    )
+
+
+def npc_search_page(
+    source,
+    codes,
+    page_num,
+    page_size,
+):
+
+    payload = {
+        "searchRange": 1,
+        "sxrq": [],
+        "gbrq": [],
+        "searchType": 2,
+        "sxx": [],
+        "gbrqYear": [],
+        "flfgCodeId": codes,
+        "zdjgCodeId": [],
+        "searchContent": "",
+        "orderByParam": {
+            "order": "-1",
+            "sort": "",
+        },
+        "pageNum": page_num,
+        "pageSize": page_size,
+    }
+
+    result = post_json_for_source(
+        source,
+        source[
+            "npc_search_url"
+        ],
+        payload,
+    )
+
+    data = response_json(
+        result
+    )
+
+    if not result[
+        "ok"
+    ]:
+
+        return (
+            None,
+            result[
+                "error"
+            ],
+            result,
+            payload,
         )
 
-        for record in data:
-            if not isinstance(
-                record,
-                dict,
-            ):
-                continue
+    if not isinstance(
+        data,
+        dict,
+    ):
 
-            title = normalize_text(
-                record.get(
-                    "title",
-                    "",
+        return (
+            None,
+            (
+                "NPC search response "
+                "was not JSON"
+            ),
+            result,
+            payload,
+        )
+
+    if data.get(
+        "code"
+    ) != 200:
+
+        return (
+            None,
+            (
+                "NPC search API "
+                "returned code="
+                + str(
+                    data.get(
+                        "code"
+                    )
                 )
-            )
-
-            # Safety check in case the API
-            # ever ignores the search parameter.
-            if keyword not in title:
-                continue
-
-            law_id = record.get(
-                "id"
-            )
-
-            if not law_id:
-                continue
-
-            query_report[
-                "matched"
-            ] += 1
-
-            records.setdefault(
-                law_id,
-                record,
-            )
-
-        queries.append(
-            query_report
+                + ": "
+                + str(
+                    data.get(
+                        "message"
+                    )
+                    or data
+                )
+            ),
+            result,
+            payload,
         )
 
-    def record_date(record):
-        value = try_parse_date(
+    return (
+        data,
+        "",
+        result,
+        payload,
+    )
+
+
+def npc_matches_keywords(
+    record,
+    keywords,
+):
+
+    haystack = normalize_text(
+        " ".join(
+            [
+                str(
+                    record.get(
+                        "title",
+                        "",
+                    )
+                ),
+                str(
+                    record.get(
+                        "zdjgName",
+                        "",
+                    )
+                ),
+                str(
+                    record.get(
+                        "flxz",
+                        "",
+                    )
+                ),
+            ]
+        )
+    )
+
+    return any(
+        keyword in haystack
+        for keyword
+        in keywords
+    )
+
+
+def npc_record_date(record):
+
+    return (
+        try_parse_date(
             record.get(
-                "publish"
+                "gbrq"
             )
         )
-
-        if value:
-            return value
-
-        return datetime(
+        or datetime(
             1900,
             1,
             1,
         )
-
-    ordered_records = sorted(
-        records.values(),
-        key=record_date,
-        reverse=True,
     )
 
-    return {
-        "records": ordered_records,
-        "queries": queries,
-        "successful_requests": (
-            successful_requests
+
+def npc_record_text(
+    record,
+    law_text="",
+):
+
+    lines = [
+        normalize_text(
+            record.get(
+                "title",
+                "",
+            )
+        )
+    ]
+
+    fields = [
+        (
+            "发布机关",
+            record.get(
+                "zdjgName"
+            ),
         ),
-        "last_error": last_error,
-    }
+        (
+            "法律性质",
+            record.get(
+                "flxz"
+            ),
+        ),
+        (
+            "公布日期",
+            record.get(
+                "gbrq"
+            ),
+        ),
+        (
+            "施行日期",
+            record.get(
+                "sxrq"
+            ),
+        ),
+        (
+            "状态",
+            record.get(
+                "sxx"
+            ),
+        ),
+        (
+            "数据库标识",
+            record.get(
+                "bbbs"
+            ),
+        ),
+    ]
+
+    for (
+        label,
+        value,
+    ) in fields:
+
+        value = normalize_text(
+            value
+        )
+
+        if value:
+
+            lines.append(
+                f"{label}: "
+                f"{value}"
+            )
+
+    metadata = "\n".join(
+        line
+        for line in lines
+        if line
+    )
+
+    if law_text:
+
+        return normalize_text(
+            metadata
+            + "\n\n"
+            + law_text
+        )[:50000]
+
+    return metadata[
+        :50000
+    ]
+
+
+def npc_extract_docx_text(content):
+
+    try:
+
+        with zipfile.ZipFile(
+            io.BytesIO(
+                content
+            )
+        ) as archive:
+
+            xml_bytes = archive.read(
+                "word/document.xml"
+            )
+
+        root = ET.fromstring(
+            xml_bytes
+        )
+
+        namespace = (
+            "{http://schemas.openxmlformats.org/"
+            "wordprocessingml/2006/main}"
+        )
+
+        paragraphs = []
+
+        for paragraph in root.iter(
+            namespace
+            + "p"
+        ):
+
+            parts = []
+
+            for node in paragraph.iter(
+                namespace
+                + "t"
+            ):
+
+                if node.text:
+
+                    parts.append(
+                        node.text
+                    )
+
+            text = normalize_text(
+                "".join(
+                    parts
+                )
+            )
+
+            if text:
+
+                paragraphs.append(
+                    text
+                )
+
+        return normalize_text(
+            "\n\n".join(
+                paragraphs
+            )
+        )[:50000]
+
+    except Exception:
+
+        return ""
+
+
+def npc_batch_download_urls(
+    source,
+    records,
+):
+
+    bbbs_records = [
+        record
+        for record in records
+        if record.get(
+            "bbbs"
+        )
+    ]
+
+    if not bbbs_records:
+
+        return {}
+
+    endpoint = (
+        source.get(
+            "npc_batch_url"
+        )
+        or (
+            "https://flk.npc.gov.cn/"
+            "law-search/download/batch"
+        )
+    )
+
+    payload = [
+        {
+            "bbbs": record[
+                "bbbs"
+            ],
+            "format": "docx",
+        }
+        for record
+        in bbbs_records
+    ]
+
+    result = post_json_for_source(
+        source,
+        endpoint,
+        payload,
+    )
+
+    data = response_json(
+        result
+    )
+
+    if (
+        not result[
+            "ok"
+        ]
+        or not isinstance(
+            data,
+            dict,
+        )
+        or data.get(
+            "code"
+        ) != 200
+    ):
+
+        return {}
+
+    items = (
+        data.get(
+            "data"
+        )
+        or []
+    )
+
+    output = {}
+
+    if len(
+        items
+    ) == len(
+        bbbs_records
+    ):
+
+        for (
+            record,
+            item,
+        ) in zip(
+            bbbs_records,
+            items,
+        ):
+
+            if (
+                isinstance(
+                    item,
+                    dict,
+                )
+                and item.get(
+                    "url"
+                )
+            ):
+
+                output[
+                    record[
+                        "bbbs"
+                    ]
+                ] = item[
+                    "url"
+                ]
+
+        return output
+
+    for item in items:
+
+        if (
+            not isinstance(
+                item,
+                dict,
+            )
+            or not item.get(
+                "url"
+            )
+        ):
+
+            continue
+
+        bbbs = item.get(
+            "bbbs"
+        )
+
+        if bbbs:
+
+            output[
+                bbbs
+            ] = item[
+                "url"
+            ]
+
+    return output
 
 
 def run_npc(source):
+
     print(
         "\n==> "
         + source[
             "slug"
         ]
-        + " [NPC API]: "
+        + " [NPC LAW-SEARCH API]: "
         + source[
             "start_url"
         ],
@@ -3084,15 +3501,312 @@ def run_npc(source):
         "source_type"
     ] = "npc"
 
-    query_result = (
-        npc_query_records(
-            source
+    (
+        category_map,
+        enum_error,
+        enum_result,
+    ) = npc_fetch_category_map(
+        source
+    )
+
+    status[
+        "resolved_url"
+    ] = source.get(
+        "npc_enum_url",
+        source[
+            "start_url"
+        ],
+    )
+
+    status[
+        "http_status"
+    ] = (
+        enum_result.get(
+            "status"
+        )
+        if enum_result
+        else None
+    )
+
+    diagnostic = {
+        "enum_url": source.get(
+            "npc_enum_url"
+        ),
+        "search_url": source.get(
+            "npc_search_url"
+        ),
+        "requested_categories": (
+            source.get(
+                "npc_categories",
+                [],
+            )
+        ),
+        "keywords": source.get(
+            "npc_keywords",
+            [],
+        ),
+        "category_map": (
+            category_map
+            or {}
+        ),
+        "pages": [],
+        "matched_records": [],
+    }
+
+    if not category_map:
+
+        status[
+            "error"
+        ] = (
+            enum_error
+            or (
+                "NPC category map "
+                "could not be loaded."
+            )
+        )
+
+        save_raw(
+            source,
+            json.dumps(
+                diagnostic,
+                ensure_ascii=False,
+                indent=2,
+            ),
+            "law-search-diagnostic.json",
+        )
+
+        return status
+
+    categories = source.get(
+        "npc_categories",
+        [
+            "法律",
+            "行政法规",
+        ],
+    )
+
+    keywords = source.get(
+        "npc_keywords",
+        [],
+    )
+
+    page_size = int(
+        source.get(
+            "npc_page_size",
+            100,
         )
     )
 
-    records = query_result[
-        "records"
+    max_pages = int(
+        source.get(
+            "npc_max_pages_per_category",
+            10,
+        )
+    )
+
+    records_by_id = {}
+
+    total_rows_seen = 0
+    successful_pages = 0
+
+    for category in categories:
+
+        codes = category_map.get(
+            category
+        )
+
+        if not codes:
+
+            diagnostic[
+                "pages"
+            ].append(
+                {
+                    "category": (
+                        category
+                    ),
+                    "error": (
+                        "Category not "
+                        "found in enumData"
+                    ),
+                }
+            )
+
+            continue
+
+        page_num = 1
+        category_seen = 0
+        category_total = None
+
+        while (
+            page_num
+            <= max_pages
+        ):
+
+            (
+                page,
+                error,
+                result,
+                request_payload,
+            ) = npc_search_page(
+                source,
+                codes,
+                page_num,
+                page_size,
+            )
+
+            page_diag = {
+                "category": category,
+                "page": page_num,
+                "status": (
+                    result.get(
+                        "status"
+                    )
+                    if result
+                    else None
+                ),
+                "request": request_payload,
+                "error": error,
+                "rows": 0,
+                "total": None,
+                "matches": 0,
+            }
+
+            if page is None:
+
+                diagnostic[
+                    "pages"
+                ].append(
+                    page_diag
+                )
+
+                break
+
+            successful_pages += 1
+
+            rows = (
+                page.get(
+                    "rows",
+                    [],
+                )
+                or []
+            )
+
+            total = page.get(
+                "total",
+                len(
+                    rows
+                ),
+            )
+
+            category_total = total
+
+            page_diag[
+                "rows"
+            ] = len(
+                rows
+            )
+
+            page_diag[
+                "total"
+            ] = total
+
+            total_rows_seen += len(
+                rows
+            )
+
+            category_seen += len(
+                rows
+            )
+
+            for row in rows:
+
+                if not isinstance(
+                    row,
+                    dict,
+                ):
+
+                    continue
+
+                if (
+                    keywords
+                    and not npc_matches_keywords(
+                        row,
+                        keywords,
+                    )
+                ):
+
+                    continue
+
+                key = (
+                    row.get(
+                        "bbbs"
+                    )
+                    or row.get(
+                        "id"
+                    )
+                    or (
+                        normalize_text(
+                            row.get(
+                                "title",
+                                "",
+                            )
+                        )
+                        + str(
+                            row.get(
+                                "gbrq",
+                                "",
+                            )
+                        )
+                    )
+                )
+
+                if not key:
+
+                    continue
+
+                records_by_id.setdefault(
+                    key,
+                    row,
+                )
+
+                page_diag[
+                    "matches"
+                ] += 1
+
+            diagnostic[
+                "pages"
+            ].append(
+                page_diag
+            )
+
+            if (
+                not rows
+                or category_seen
+                >= (
+                    category_total
+                    or 0
+                )
+            ):
+
+                break
+
+            page_num += 1
+
+    records = sorted(
+        records_by_id.values(),
+        key=npc_record_date,
+        reverse=True,
+    )
+
+    diagnostic[
+        "matched_records"
+    ] = records[
+        :100
     ]
+
+    status[
+        "all_links"
+    ] = total_rows_seen
 
     status[
         "candidate_links"
@@ -3100,54 +3814,24 @@ def run_npc(source):
         records
     )
 
-    status[
-        "all_links"
-    ] = sum(
-        item.get(
-            "returned",
-            0,
-        )
-        for item
-        in query_result[
-            "queries"
-        ]
-    )
+    if successful_pages == 0:
 
-    save_raw(
-        source,
-        json.dumps(
-            {
-                "queries": (
-                    query_result[
-                        "queries"
-                    ]
-                ),
-                "matched_records": (
-                    records
-                ),
-            },
-            ensure_ascii=False,
-            indent=2,
-        ),
-        "api-diagnostic.json",
-    )
-
-    if (
-        query_result[
-            "successful_requests"
-        ]
-        == 0
-    ):
         status[
             "error"
         ] = (
-            query_result[
-                "last_error"
-            ]
-            or (
-                "NPC API could "
-                "not be retrieved."
-            )
+            "NPC enumData loaded, "
+            "but no law-search pages "
+            "could be retrieved."
+        )
+
+        save_raw(
+            source,
+            json.dumps(
+                diagnostic,
+                ensure_ascii=False,
+                indent=2,
+            ),
+            "law-search-diagnostic.json",
         )
 
         return status
@@ -3159,179 +3843,110 @@ def run_npc(source):
     status[
         "resolved_url"
     ] = source[
-        "npc_api_url"
+        "npc_search_url"
     ]
 
-    if not records:
-        write_feed(
-            source,
-            [],
-        )
+    selected = records[
+        :MAX_ITEMS_PER_SOURCE
+    ]
 
-        return status
+    download_urls = (
+        npc_batch_download_urls(
+            source,
+            selected,
+        )
+    )
 
     articles = []
 
-    detail_url = source[
-        "npc_detail_url"
-    ]
-
-    download_base = source[
-        "npc_download_base_url"
-    ]
-
-    for record in records:
-        if (
-            len(articles)
-            >= MAX_ITEMS_PER_SOURCE
-        ):
-            break
-
-        law_id = record.get(
-            "id"
-        )
-
-        if not law_id:
-            continue
+    for record in selected:
 
         status[
             "attempted"
         ] += 1
 
-        detail_result = (
-            post_for_source(
-                source,
-                detail_url,
-                {
-                    "id": law_id
-                },
+        bbbs = (
+            record.get(
+                "bbbs"
             )
+            or ""
         )
 
-        detail_payload = (
-            response_json(
-                detail_result
-            )
-        )
-
-        if not isinstance(
-            detail_payload,
-            dict,
-        ):
-            print(
-                f"    NPC detail "
-                f"failed for "
-                f"{law_id}: "
-                f"{detail_result.get('error', 'invalid JSON')}",
-                flush=True,
-            )
-
-            continue
-
-        detail = (
-            detail_payload.get(
-                "result"
-            )
-            or {}
-        )
-
-        if not isinstance(
-            detail,
-            dict,
-        ):
-            continue
-
-        title = normalize_text(
-            detail.get(
-                "title"
-            )
-            or record.get(
-                "title"
+        title = (
+            normalize_text(
+                record.get(
+                    "title",
+                    "",
+                )
             )
             or "Untitled"
         )
 
-        published = (
-            try_parse_date(
-                detail.get(
-                    "publish"
-                )
-                or record.get(
-                    "publish"
-                )
-            )
-        )
-
-        article_url = (
+        published = try_parse_date(
             record.get(
-                "url"
-            )
-            or (
-                "https://flk.npc.gov.cn/"
-                "detail2.html?"
-                + law_id
-            )
-        )
-
-        metadata = (
-            npc_metadata_text(
-                record,
-                detail,
-            )
-        )
-
-        content_url = (
-            npc_select_content_url(
-                detail,
-                download_base,
+                "gbrq"
             )
         )
 
         law_text = ""
 
-        if content_url:
-            content_result = (
+        download_url = (
+            download_urls.get(
+                bbbs
+            )
+        )
+
+        if download_url:
+
+            doc_result = (
                 fetch_for_source(
                     source,
-                    content_url,
+                    download_url,
+                    override_retries=0,
                 )
             )
 
-            if content_result[
+            if doc_result[
                 "ok"
             ]:
-                soup = BeautifulSoup(
-                    content_result[
-                        "text"
-                    ],
-                    "lxml",
-                )
 
                 law_text = (
-                    extract_article_text(
-                        soup
+                    npc_extract_docx_text(
+                        doc_result[
+                            "content"
+                        ]
                     )
                 )
 
-        if law_text:
-            text = (
-                metadata
-                + "\n\n"
-                + law_text
+        article_url = source[
+            "source_url"
+        ]
+
+        if bbbs:
+
+            article_url = (
+                source[
+                    "source_url"
+                ].rstrip("/")
+                + "?bbbs="
+                + str(
+                    bbbs
+                )
             )
-
-        else:
-            text = metadata
-
-        text = normalize_text(
-            text
-        )[:50000]
 
         article = {
             "title": title,
             "url": article_url,
-            "guid": law_id,
-            "text": text,
+            "guid": (
+                bbbs
+                or article_url
+            ),
+            "text": (
+                npc_record_text(
+                    record,
+                    law_text,
+                )
+            ),
             "published": published,
         }
 
@@ -3356,21 +3971,15 @@ def run_npc(source):
         articles,
     )
 
-    if (
-        not articles
-        and not status[
-            "error"
-        ]
-    ):
-        status[
-            "error"
-        ] = (
-            "NPC API returned "
-            "matching laws, but "
-            "detail records could "
-            "not be converted into "
-            "feed items."
-        )
+    save_raw(
+        source,
+        json.dumps(
+            diagnostic,
+            ensure_ascii=False,
+            indent=2,
+        ),
+        "law-search-diagnostic.json",
+    )
 
     return status
 
@@ -3379,10 +3988,12 @@ def run_npc(source):
 # CNNVD
 # ============================================================
 
+
 def cnnvd_title(
     cnnvd_id,
     segment,
 ):
+
     ignore = {
         cnnvd_id,
         "超危",
@@ -3404,16 +4015,18 @@ def cnnvd_title(
 
     lines = [
         line
-        for line
-        in lines
+        for line in lines
         if line
     ]
 
     for line in lines:
+
         if line in ignore:
+
             continue
 
         if cnnvd_id in line:
+
             remainder = normalize_text(
                 line.replace(
                     cnnvd_id,
@@ -3432,6 +4045,7 @@ def cnnvd_title(
             if len(
                 remainder
             ) >= 4:
+
                 return remainder[
                     :240
                 ]
@@ -3444,9 +4058,13 @@ def cnnvd_title(
             r"\d{1,2}",
             line,
         ):
+
             continue
 
-        if len(line) >= 4:
+        if len(
+            line
+        ) >= 4:
+
             return line[
                 :240
             ]
@@ -3458,6 +4076,7 @@ def parse_cnnvd_list(
     rendered_text,
     source,
 ):
+
     text = normalize_text(
         rendered_text
     )
@@ -3473,9 +4092,13 @@ def parse_cnnvd_list(
     articles = []
     seen = set()
 
-    for index, match in enumerate(
+    for (
+        index,
+        match,
+    ) in enumerate(
         matches
     ):
+
         cnnvd_id = (
             match.group(
                 0
@@ -3483,6 +4106,7 @@ def parse_cnnvd_list(
         )
 
         if cnnvd_id in seen:
+
             continue
 
         seen.add(
@@ -3537,7 +4161,9 @@ def parse_cnnvd_list(
         )
 
         if date_match:
+
             try:
+
                 published = datetime(
                     int(
                         date_match.group(
@@ -3557,6 +4183,7 @@ def parse_cnnvd_list(
                 )
 
             except Exception:
+
                 pass
 
         article = {
@@ -3588,15 +4215,19 @@ def parse_cnnvd_list(
         )
 
         if (
-            len(articles)
+            len(
+                articles
+            )
             >= MAX_ITEMS_PER_SOURCE
         ):
+
             break
 
     return articles
 
 
 def run_cnnvd(source):
+
     print(
         "\n==> "
         + source[
@@ -3618,7 +4249,9 @@ def run_cnnvd(source):
     ] = "cnnvd"
 
     try:
+
         with sync_playwright() as playwright:
+
             browser, context = (
                 browser_context(
                     playwright,
@@ -3657,6 +4290,7 @@ def run_cnnvd(source):
             if not listing[
                 "ok"
             ]:
+
                 status[
                     "error"
                 ] = listing[
@@ -3673,6 +4307,7 @@ def run_cnnvd(source):
             )
 
             try:
+
                 body_text = (
                     page.locator(
                         "body"
@@ -3683,6 +4318,7 @@ def run_cnnvd(source):
                 )
 
             except Exception:
+
                 body_text = (
                     BeautifulSoup(
                         page.content(),
@@ -3736,6 +4372,7 @@ def run_cnnvd(source):
             )
 
             for article in articles:
+
                 save_article(
                     source[
                         "slug"
@@ -3754,6 +4391,7 @@ def run_cnnvd(source):
             return status
 
     except Exception as exc:
+
         status[
             "error"
         ] = (
@@ -3765,27 +4403,32 @@ def run_cnnvd(source):
 
 
 def run_source(source):
+
     source_type = source.get(
         "source_type",
         "html",
     ).lower()
 
     if source_type == "rss":
+
         return run_rss(
             source
         )
 
     if source_type == "browser":
+
         return run_browser(
             source
         )
 
     if source_type == "npc":
+
         return run_npc(
             source
         )
 
     if source_type == "cnnvd":
+
         return run_cnnvd(
             source
         )
@@ -3798,6 +4441,7 @@ def run_source(source):
 def write_status_report(
     statuses,
 ):
+
     FEEDS_DIR.mkdir(
         parents=True,
         exist_ok=True,
@@ -3835,17 +4479,20 @@ def write_status_report(
     failed = 0
 
     for status in statuses:
+
         if (
             status[
                 "feed_items"
             ] > 0
         ):
+
             state = "OK"
             working += 1
 
         elif status[
             "http_status"
         ]:
+
             state = (
                 "FETCHED/NO ITEMS"
             )
@@ -3853,6 +4500,7 @@ def write_status_report(
             no_items += 1
 
         else:
+
             state = "FAILED"
             failed += 1
 
@@ -3903,6 +4551,7 @@ def write_status_report(
             "npc",
             "cnnvd",
         ):
+
             lines.extend(
                 [
                     (
@@ -4004,6 +4653,7 @@ def write_status_report(
         if status[
             "error"
         ]:
+
             lines.append(
                 "  Error: "
                 + status[
@@ -4052,6 +4702,7 @@ def write_status_report(
 
 
 def main():
+
     FEEDS_DIR.mkdir(
         parents=True,
         exist_ok=True,
@@ -4104,12 +4755,15 @@ def main():
     statuses = []
 
     for source in sources:
+
         try:
+
             status = run_source(
                 source
             )
 
         except Exception as exc:
+
             status = base_status(
                 source
             )
@@ -4145,4 +4799,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
