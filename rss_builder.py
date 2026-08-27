@@ -676,10 +676,27 @@ def canonical_url(
 
     try:
 
+        # Some source pages publish href values with stray leading
+        # or trailing whitespace. Strip that before urljoin so a
+        # valid URL does not become a request ending in %20/%20%20.
+        clean_base = str(
+            base_url
+            or ""
+        ).strip()
+
+        clean_href = str(
+            href
+            or ""
+        ).strip()
+
+        if not clean_href:
+
+            return ""
+
         url = urljoin(
-            base_url,
-            href,
-        )
+            clean_base,
+            clean_href,
+        ).strip()
 
         parsed = urlparse(
             url
@@ -694,7 +711,7 @@ def canonical_url(
 
         return parsed._replace(
             fragment=""
-        ).geturl()
+        ).geturl().strip()
 
     except Exception:
 
@@ -1446,6 +1463,161 @@ def extract_title(
             return text
 
     return fallback
+
+
+def norinco_article_title(
+    page_html,
+    fallback_title,
+    extracted_title,
+):
+
+    generic_titles = {
+        "新闻中心",
+        "首页",
+        "中国兵器工业集团有限公司",
+        "NORINCO Group",
+    }
+
+    current = normalize_text(
+        extracted_title
+    )
+
+    if (
+        current
+        and current not in generic_titles
+    ):
+
+        return current
+
+    soup = BeautifulSoup(
+        page_html,
+        "lxml",
+    )
+
+    # NORINCO article pages often expose a generic H1/page title,
+    # while the actual story headline appears in another heading
+    # or metadata field. Prefer those before falling back to the
+    # listing-page anchor text.
+    meta_checks = [
+        (
+            "property",
+            "og:title",
+        ),
+        (
+            "name",
+            "ArticleTitle",
+        ),
+        (
+            "name",
+            "articleTitle",
+        ),
+        (
+            "name",
+            "title",
+        ),
+    ]
+
+    for attribute, value in meta_checks:
+
+        node = soup.find(
+            "meta",
+            attrs={
+                attribute: value
+            },
+        )
+
+        if not node:
+
+            continue
+
+        title_text = normalize_text(
+            node.get(
+                "content",
+                "",
+            )
+        )
+
+        if (
+            4 <= len(
+                title_text
+            ) <= 300
+            and title_text not in generic_titles
+        ):
+
+            return title_text
+
+    fallback = normalize_text(
+        fallback_title
+    )
+
+    fallback_prefix = re.sub(
+        r"(?:\.{3,}|…+)$",
+        "",
+        fallback,
+    ).strip()
+
+    heading_candidates = []
+
+    for node in soup.find_all(
+        [
+            "h1",
+            "h2",
+            "h3",
+            "h4",
+        ]
+    ):
+
+        title_text = normalize_text(
+            node.get_text(
+                " ",
+                strip=True,
+            )
+        )
+
+        if (
+            4 <= len(
+                title_text
+            ) <= 300
+            and title_text not in generic_titles
+        ):
+
+            heading_candidates.append(
+                title_text
+            )
+
+    if (
+        fallback_prefix
+        and len(
+            fallback_prefix
+        ) >= 6
+    ):
+
+        for title_text in heading_candidates:
+
+            if title_text.startswith(
+                fallback_prefix
+            ):
+
+                return title_text
+
+    if heading_candidates:
+
+        return heading_candidates[
+            0
+        ]
+
+    if (
+        fallback
+        and fallback not in generic_titles
+    ):
+
+        return fallback
+
+    return (
+        current
+        or fallback
+        or "Untitled"
+    )
 
 
 def extract_article_text(soup):
@@ -2588,6 +2760,23 @@ def collect_html_articles(
                 ],
                 final_url,
             )
+
+            if source.get(
+                "slug"
+            ) == "norinco-cn":
+
+                article[
+                    "title"
+                ] = norinco_article_title(
+                    page_html,
+                    candidate[
+                        "anchor_title"
+                    ],
+                    article.get(
+                        "title",
+                        "",
+                    ),
+                )
 
             if len(
                 article[
