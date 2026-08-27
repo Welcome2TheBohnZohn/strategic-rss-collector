@@ -5583,6 +5583,51 @@ def iran_mfa_clean_title(value):
     return title.strip() or "Iran MFA update"
 
 
+def iran_mfa_detail_text(page_html):
+
+    soup = BeautifulSoup(
+        page_html,
+        "lxml",
+    )
+
+    container = soup.select_one(
+        ".news-text-full"
+    )
+
+    if container is None:
+        return ""
+
+    paragraphs = []
+
+    for node in container.find_all(
+        "p"
+    ):
+
+        value = normalize_text(
+            node.get_text(
+                " ",
+                strip=True,
+            )
+        )
+
+        if (
+            value
+            and value not in paragraphs
+        ):
+            paragraphs.append(
+                value
+            )
+
+    if paragraphs:
+        return normalize_text(
+            "\n\n".join(
+                paragraphs
+            )
+        )
+
+    return ""
+
+
 def iran_mfa_archive_records(
     archive_html,
     archive_url,
@@ -5952,20 +5997,8 @@ def run_iran_mfa(source):
             "ok"
         ):
 
-            extracted = extract_article(
-                detail["text"],
-                title,
-                detail.get(
-                    "url",
-                    record["url"],
-                ),
-            )
-
-            candidate_text = normalize_text(
-                extracted.get(
-                    "text",
-                    "",
-                )
+            candidate_text = iran_mfa_detail_text(
+                detail["text"]
             )
 
             word_count = len(
@@ -5973,12 +6006,8 @@ def run_iran_mfa(source):
             )
 
             if (
-                word_count >= 40
-                and len(candidate_text)
-                >= max(
-                    300,
-                    len(title) + 120,
-                )
+                word_count >= 12
+                and len(candidate_text) >= 80
             ):
                 text_value = candidate_text
                 diagnostics[

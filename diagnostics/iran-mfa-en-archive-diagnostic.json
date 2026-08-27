@@ -13,8 +13,8 @@
       "records": 24
     }
   ],
-  "detail_full_text": 0,
-  "archive_fallback": 12,
+  "detail_full_text": 12,
+  "archive_fallback": 0,
   "unique_records": 48,
   "feed_items": 12
 }
