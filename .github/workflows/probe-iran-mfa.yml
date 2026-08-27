@@ -1,0 +1,25 @@
+name: Probe Iran MFA Archive
+
+on:
+  push:
+    paths:
+      - '.github/workflows/probe-iran-mfa.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.13'
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 lxml
+      - name: Probe archive structure
+        run: python probe_iran_mfa.py
