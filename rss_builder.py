@@ -2266,10 +2266,58 @@ def build_rss(
     )
 
 
+
+def replace_saved_articles(
+    source_slug,
+    articles,
+):
+
+    # Only replace saved articles after a source produced usable
+    # items. A temporary failure therefore does not erase the last
+    # successful saved article set.
+    if not articles:
+        return
+
+    folder = (
+        ARTICLES_DIR
+        / source_slug
+    )
+
+    folder.mkdir(
+        parents=True,
+        exist_ok=True,
+    )
+
+    for path in folder.glob(
+        "*.md"
+    ):
+
+        try:
+            path.unlink()
+        except Exception as exc:
+            print(
+                f"    Could not remove stale article {path}: {exc}",
+                flush=True,
+            )
+
+    for article in articles:
+        save_article(
+            source_slug,
+            article,
+        )
+
+
 def write_feed(
     source,
     articles,
 ):
+
+    replace_saved_articles(
+        source[
+            "slug"
+        ],
+        articles,
+    )
 
     FEEDS_DIR.mkdir(
         parents=True,
@@ -5515,6 +5563,160 @@ def run_cnnvd(source):
         return status
 
 
+
+# ============================================================
+# TELEGRAM PUBLIC CHANNEL PREVIEWS
+# ============================================================
+
+
+def telegram_title(text):
+
+    lines = [
+        normalize_text(line)
+        for line in str(text).splitlines()
+        if normalize_text(line)
+    ]
+
+    if not lines:
+        return "Telegram post"
+
+    title = lines[0]
+
+    if len(title) < 25 and len(lines) > 1:
+        title = normalize_text(
+            title + " " + lines[1]
+        )
+
+    return title[:240]
+
+
+def run_telegram(source):
+
+    print(
+        "\n==> "
+        + source["slug"]
+        + " [TELEGRAM]: "
+        + source["start_url"],
+        flush=True,
+    )
+
+    status = base_status(source)
+    status["source_type"] = "telegram"
+
+    result = fetch_source(source)
+    status["http_status"] = result["status"]
+    status["resolved_url"] = result.get("url", "")
+
+    if not result["ok"]:
+        status["error"] = result["error"]
+        return status
+
+    soup = BeautifulSoup(
+        result["text"],
+        "lxml",
+    )
+
+    wraps = soup.select(
+        ".tgme_widget_message_wrap"
+    )
+
+    status["all_links"] = len(
+        soup.find_all("a", href=True)
+    )
+    status["candidate_links"] = len(wraps)
+
+    articles = []
+    seen = set()
+
+    for wrap in wraps:
+
+        status["attempted"] += 1
+
+        message = wrap.select_one(
+            ".tgme_widget_message"
+        )
+        text_node = wrap.select_one(
+            ".tgme_widget_message_text"
+        )
+
+        if not message or not text_node:
+            continue
+
+        post_id = normalize_text(
+            message.get("data-post", "")
+        )
+        text_value = normalize_text(
+            text_node.get_text("\n", strip=True)
+        )
+
+        if len(text_value) < 10:
+            continue
+
+        link_node = wrap.select_one(
+            "a.tgme_widget_message_date"
+        )
+
+        url = ""
+        if link_node:
+            url = canonical_url(
+                result["url"],
+                link_node.get("href", ""),
+            )
+
+        if not url and post_id:
+            url = "https://t.me/" + post_id
+
+        if not url or url in seen:
+            continue
+
+        seen.add(url)
+
+        published = None
+        time_node = wrap.select_one(
+            "time[datetime]"
+        )
+
+        if time_node:
+            published = try_parse_date(
+                time_node.get("datetime", "")
+            )
+
+        articles.append(
+            {
+                "title": telegram_title(text_value),
+                "url": url,
+                "guid": url,
+                "text": text_value[:50000],
+                "published": published,
+            }
+        )
+
+    articles.sort(
+        key=lambda article: (
+            normalize_datetime(article.get("published"))
+            or datetime.min.replace(tzinfo=timezone.utc)
+        ),
+        reverse=True,
+    )
+
+    articles = articles[:MAX_ITEMS_PER_SOURCE]
+
+    populate_counts(status, articles)
+
+    if not articles:
+        status["error"] = (
+            "Telegram public preview loaded, but no text posts were extracted."
+        )
+        save_raw(
+            source,
+            result["text"],
+            "telegram-preview.html",
+        )
+
+    write_feed(source, articles)
+    return status
+
+
 def run_source(source):
 
     source_type = source.get(
@@ -5525,6 +5727,12 @@ def run_source(source):
     if source_type == "rss":
 
         return run_rss(
+            source
+        )
+
+    if source_type == "telegram":
+
+        return run_telegram(
             source
         )
 

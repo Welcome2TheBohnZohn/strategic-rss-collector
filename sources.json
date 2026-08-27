@@ -31,12 +31,14 @@
   },
   {
     "slug": "mil-ru-en",
-    "title": "Russian Ministry of Defence English",
-    "source_url": "https://eng.mil.ru/",
-    "start_url": "https://eng.mil.ru/",
+    "title": "Russian Ministry of Defence English - Official Telegram",
+    "source_url": "https://t.me/mod_russia_en",
+    "start_url": "https://t.me/s/mod_russia_en",
     "language": "en",
-    "include_regex": "mil\\.ru/.+",
-    "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4|pdf)$"
+    "source_type": "telegram",
+    "request_timeout": 20,
+    "max_retries": 2,
+    "retry_backoff": 2
   },
   {
     "slug": "kremlin-president-en",
@@ -125,12 +127,14 @@
   },
   {
     "slug": "mid-ru-en",
-    "title": "Russian Ministry of Foreign Affairs News",
-    "source_url": "https://mid.ru/en/foreign_policy/news/",
-    "start_url": "https://mid.ru/en/foreign_policy/news/",
+    "title": "Russian Ministry of Foreign Affairs English - Official Telegram",
+    "source_url": "https://t.me/MFARussia",
+    "start_url": "https://t.me/s/MFARussia",
     "language": "en",
-    "include_regex": "mid\\.ru/en/.+",
-    "exclude_regex": "\\.(jpg|jpeg|png|gif|mp4|pdf)$"
+    "source_type": "telegram",
+    "request_timeout": 20,
+    "max_retries": 2,
+    "retry_backoff": 2
   },
   {
     "slug": "iran-mfa-en",
