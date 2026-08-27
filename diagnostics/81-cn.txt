@@ -6,7 +6,7 @@ Include regex: 81\.cn/.+/(content|article|index).*|81\.cn/.*\d{6,}
 Include text regex: 
 
 Candidate links: 50
-All links discovered: 532
+All links discovered: 531
 
 === MATCHED CANDIDATES ===
 
@@ -14,30 +14,28 @@ http://www.81.cn/ll_208543/16479721.html
   深入学习贯彻习近平新时代中国特色社会主义思想丨引领全面建设社会主义现代化强国的历史性跨越
 http://www.81.cn/yw_208727/16481502.html
   写在习近平主席出席2026年上海合作组织峰会并对吉尔吉斯斯坦、埃及进行国事访问之际
-http://www.81.cn/tp_207717/jdt_207718/16481412.html
-  学习卡·长征百问（45）丨遵义会议之后党中央在扎西境内召开的一系列会议统称是什么？
 http://www.81.cn/wj_208604/16477968.html
   从传统的集体安全共同体，向利益绑定的交易型联盟转变——“北约3.0”架构加速形成
 http://www.81.cn/jw_208551/16448544.html
   中央军委办公厅发出通知要求解放军和武警部队 传达学习十四届全国人大四次会议精神
 http://www.81.cn/pl_208541/16481473.html
   钧评：手莫伸，伸手必被捉。党与人民在监督，万目睽睽难逃脱——这是他一生的座右铭
-http://www.81.cn/yw_208727/16481362.html
-  习近平总书记重要指示激励广大党员干部努力创造经得起实践、人民、历史检验的实绩
 http://www.81.cn/bg_208596/16480520.html
   “深山寒哨”变“钢铁前哨”，“六张网”让战士们守边更有底气、巡逻执勤更有干劲
+http://www.81.cn/pl_208541/16481687.html
+  钧正平：坚持极限思维、底线思维防灾减灾救灾，是树立和践行正确政绩观的应有之义
 http://www.81.cn/yw_208727/16481406.html
   习近平将出席2026年上海合作组织峰会并对吉尔吉斯斯坦、埃及进行国事访问
-http://www.81.cn/yw_208727/16481311.html
-  中共中央办公厅 国务院办公厅印发《党政领导干部生态环境损害责任追究办法》
 http://www.81.cn/jw_208551/16471442.html
   中央军委发出通报 表彰全军优秀共产党员、优秀党务工作者和先进基层党组织
 http://www.81.cn/wz_208577/16459656.html
   2026年军队文职人员公开招考第二批免笔试直接面试岗位招考工作全面展开
-http://www.81.cn/yw_208727/16481315.html
-  强降雨致广西多地发生洪涝灾害，解放军和武警部队官兵、民兵持续展开救援
+http://www.81.cn/yw_208727/16481515.html
+  贯彻落实习近平总书记重要指示精神各方协力开展西藏吉隆县泥石流抢险救援
 http://www.81.cn/hj_208557/16481199.html
   “老教头”输给“小徒弟”后欣慰点赞：“你们超越我，是我最大的成就！”
+http://www.81.cn/tp_207717/jdt_207718/16481501.html
+  学习卡·长征百问（46）丨长征中哪次会议发布了《告全体红色战士书》？
 http://www.81.cn/jy_208587/16480385.html
   刀尖上的守护 初心下的深耕 ——记第一医学中心神经外科副主任医师韩聪
 http://www.81.cn/lb_208583/16480740.html
@@ -46,6 +44,8 @@ http://www.81.cn/zq_208553/16475889.html
   南部战区新闻发言人就菲律宾拉拢域外国家组织所谓“联合巡航”发表谈话
 http://www.81.cn/lb_208583/16481079.html
   百年荣光·我见证丨百岁老兵的峥嵘岁月：一叠战地日记，一卷百年赤诚
+http://www.81.cn/yw_208727/16481522.html
+  西藏日喀则市吉隆县遭受泥石流灾害 解放军和武警部队官兵紧急救援
 http://www.81.cn/hjj_208561/16477966.html
   最美新时代革命军人风采丨火箭军某部研究员周宏潮：科研向战勇攀登
 http://www.81.cn/hjj_208561/jdt_208562/16474982.html
@@ -62,14 +62,8 @@ http://www.81.cn/wj_208567/jdt_208568/16479797.html
   武警北京总队机动五大队与西藏总队唐古拉中队开展结对共建活动
 http://www.81.cn/nb_208573/16474930.html
   不做解说词"复读机"而是时空"链接者"，她找到属于自己的光
-http://www.81.cn/js_208592/jdt_208593/16480923.html
-  政治建军专刊·光荣传统丨2930枚银元：“红色家底”见初心
-http://www.81.cn/yw_208727/16481307.html
-  "跟我上、看我的"，全军基层党员领导干部练兵备战挺膺担当
-http://www.81.cn/yw_208727/16481309.html
-  从"管理者"到"服务者"，海军某部机关转变作风带来新气象
-http://www.81.cn/xx_207779/16481160.html
-  此行间·以文塑旅、以旅彰文，总书记为何强调文和旅的融合？
+http://www.81.cn/xx_207779/16481578.html
+  学习·知行丨“努力创造经得起实践、人民、历史检验的实绩”
 http://www.81.cn/bz_208549/16481393.html
   "跟我上、看我的"，全军基层党员领导干部练兵备战挺膺担当
 http://www.81.cn/zq_208553/16475314.html
@@ -92,8 +86,8 @@ http://www.81.cn/nb_208573/16476253.html
   联勤保障部队941医院重症医学科主任张瑛：人民军医为人民
 http://www.81.cn/tj_208608/16469267.html
   总书记"推动海洋经济高质量发展"重要论述引领海洋强国建设
-http://www.81.cn/ss_208539/16481456.html
-  全国政协十四届常委会第十八次会议闭幕 王沪宁主持并讲话
+http://www.81.cn/xx_207779/16481574.html
+  习近平主席出席上合组织峰会并访问吉尔吉斯斯坦、埃及前瞻
 http://www.81.cn/lj_208555/16480999.html
   树立和践行正确政绩观丨高原驻训场有了军地“联合诊疗室”
 http://www.81.cn/lj_208555/jdt_208556/16480304.html
@@ -102,14 +96,20 @@ http://www.81.cn/nb_208573/16471131.html
   新闻播报 | 2026年下半年女兵应征报名7月1日启动
 http://www.81.cn/bg_208596/16475727.html
   十五载戍边岁月相依相守，依依惜别最信赖最亲密的无言战友
-http://www.81.cn/pl_208541/16481370.html
-  钧正平：巩固政绩观教育成果，切莫在“快活三里”歇脚松劲
 http://www.81.cn/wh_208575/16480769.html
   我赴南苏丹（朱巴）维和步兵营通过联合国第三季度装备核查
-http://www.81.cn/js_208592/16480429.html
-  万水千山只等闲之翻越老山界——长征中的军事地理解读之二
 http://www.81.cn/yd_208600/16481389.html
   倾听真正属于大地的声音，“人民的文学”就有了体温与重量
+http://www.81.cn/dy_208579/jdt_208580/16481226.html
+  大手牵小手 青春齐步走——来自暑期军事夏令营的一组见闻
+http://www.81.cn/wz_208577/16463518.html
+  为何仅入职一年多的文职人员，就接连经历3个“没想到”？
+http://www.81.cn/rw_208598/16480684.html
+  跟着老兵“逛军博”丨他们脱下军装，以另一种姿态“归队”
+http://www.81.cn/bq_208581/16470704.html
+  从手工粗糙刻制到微米级精密加工，走进枪械膛线技术进化史
+http://www.81.cn/js_208585/jdt_208586/16469323.html
+  随军家属安置工作持续提质增效，一系列务实举措为军属解忧
 
 === ALL DISCOVERED LINKS ===
 
@@ -254,42 +254,42 @@ http://www.81.cn/yw_208727/16481406.html
   习近平将出席2026年上海合作组织峰会并对吉尔吉斯斯坦、埃及进行国事访问
 http://www.81.cn/yw_208727/16481502.html
   写在习近平主席出席2026年上海合作组织峰会并对吉尔吉斯斯坦、埃及进行国事访问之际
-http://www.81.cn/yw_208727/16481362.html
-  习近平总书记重要指示激励广大党员干部努力创造经得起实践、人民、历史检验的实绩
-http://www.81.cn/yw_208727/16481441.html
-  外交部发言人介绍习近平主席出访有关安排和中方期待
-http://www.81.cn/yw_208727/16481311.html
-  中共中央办公厅 国务院办公厅印发《党政领导干部生态环境损害责任追究办法》
-http://www.81.cn/ss_208539/16481263.html
-  中组部答记者问
-http://www.81.cn/yw_208727/16481499.html
-  吉隆县遭受泥石流灾害 解放军和武警官兵紧急投入救援
-http://www.81.cn/yw_208727/16481314.html
-  纪念中国工农红军长征胜利90周年｜理想信念的伟大远征
-http://www.81.cn/yw_208727/16481496.html
-  中印边界问题特别代表第25次会晤达成8点成果共识
-http://www.81.cn/yw_208727/16481379.html
-  南部战区新闻发言人翟士臣海军大校发表谈话
-http://www.81.cn/yw_208727/16481464.html
-  人民子弟兵投入西藏日喀则市吉隆县泥石流灾害救援
-http://www.81.cn/yw_208727/16481307.html
-  "跟我上、看我的"，全军基层党员领导干部练兵备战挺膺担当
-http://www.81.cn/yw_208727/16481309.html
-  从"管理者"到"服务者"，海军某部机关转变作风带来新气象
-http://www.81.cn/yw_208727/16481313.html
-  聚焦基层部队士兵考学，佳讯传来共启新程
-http://www.81.cn/yw_208727/16481310.html
-  八一锐评｜坚持常态化查改问题
-http://www.81.cn/yw_208727/16481317.html
-  强军论坛丨让思想活泼起来
-http://www.81.cn/yw_208727/16481315.html
-  强降雨致广西多地发生洪涝灾害，解放军和武警部队官兵、民兵持续展开救援
-http://www.81.cn/yw_208727/16481318.html
-  驻香港部队组织第29次建制单位轮换
-http://www.81.cn/yw_208727/16481326.html
-  我赴阿卜耶伊维和直升机分队开辟野外起降点和新航线
-http://www.81.cn/yw_208727/16481328.html
-  多国驻华海军武官赴海军航空大学参观访问
+http://www.81.cn/yw_208727/16481690.html
+  《习近平文化文选》第一卷、第二卷出版发行
+http://www.81.cn/yw_208727/16481715.html
+  《习近平文化文选》第一卷、第二卷主要篇目介绍
+http://www.81.cn/yw_208727/16481679.html
+  受习近平总书记委托，李强抵达西藏吉隆指导抢险救灾工作
+http://www.81.cn/yw_208727/16481515.html
+  贯彻落实习近平总书记重要指示精神各方协力开展西藏吉隆县泥石流抢险救援
+http://www.81.cn/yw_208727/16481525.html
+  八一锐评｜坚持极限思维、底线思维
+http://www.81.cn/yw_208727/16481522.html
+  西藏日喀则市吉隆县遭受泥石流灾害 解放军和武警部队官兵紧急救援
+http://www.81.cn/yw_208727/16481619.html
+  第十三届北京香山论坛将在北京国际会议中心举办
+http://www.81.cn/yw_208727/16481628.html
+  中东（帝汶）、中印尼将进一步深化防务合作
+http://www.81.cn/yw_208727/16481648.html
+  新时代征兵工作更加阳光透明
+http://www.81.cn/yw_208727/16481631.html
+  中泰“鹰击-2026”空军联训深化两军务实合作
+http://www.81.cn/yw_208727/16481533.html
+  纪念红军长征胜利90周年丨遵义三日 伟大转折
+http://www.81.cn/yw_208727/16481646.html
+  国防部介绍中白“神鹰-2026”空军联训情况
+http://www.81.cn/yw_208727/16481663.html
+  国防部：国际社会应切实认清日本右翼势力危险图谋
+http://www.81.cn/yw_208727/16481622.html
+  国防部：赖清德当局穷兵黩武 掏空台湾家底
+http://www.81.cn/yw_208727/16481674.html
+  国防部：菲方应尽快拖走非法“坐滩”的57号舰
+http://www.81.cn/yw_208727/16481517.html
+  强军论坛丨牢记“靠实事求是吃饭”
+http://www.81.cn/yw_208727/16481656.html
+  解放军驻澳门部队第27次建制单位轮换工作顺利完成
+http://www.81.cn/syjdt/16481599.html
+  胜利的方向丨幸存团长的口述，让我们得以拼凑出这位伟大师长的模样
 http://www.81.cn/syjdt/16481345.html
   万里边疆行丨界江深处的守望
 http://www.81.cn/syjdt/16481447.html
@@ -302,8 +302,12 @@ http://www.81.cn/syjdt/16481444.html
   万水千山只等闲之强渡乌江——长征中的军事地理解读之三
 http://www.81.cn/syjdt/16481234.html
   长征精神薪火传，红韵泾川焕新颜
-http://www.81.cn/syjdt/16481217.html
-  一箭7星 长征六号丙遥一运载火箭发射成功
+http://www.81.cn/xx_207779/16481578.html
+  学习·知行丨“努力创造经得起实践、人民、历史检验的实绩”
+http://www.81.cn/xx_207779/16481577.html
+  镜观中国｜思想之光领航 实干书写答卷
+http://www.81.cn/xx_207779/16481574.html
+  习近平主席出席上合组织峰会并访问吉尔吉斯斯坦、埃及前瞻
 http://www.81.cn/xx_207779/16481365.html
   领航丨为民造福是最大政绩
 http://www.81.cn/xx_207779/16481363.html
@@ -312,72 +316,66 @@ http://www.81.cn/xx_207779/16481290.html
   大国外交最前线丨共叙友谊、携手发展 中约元首会谈释放新信号
 http://www.81.cn/xx_207779/16481289.html
   天天学习｜创新不问出身
-http://www.81.cn/xx_207779/16481228.html
-  拾光纪·约旦国王第九次访华，习主席同他谈了这些大事
-http://www.81.cn/xx_207779/16481182.html
-  学习快评丨树立和践行正确政绩观必须久久为功
-http://www.81.cn/xx_207779/16481160.html
-  此行间·以文塑旅、以旅彰文，总书记为何强调文和旅的融合？
 http://www.81.cn/?big=jian
   中国国防报
-http://tv.81.cn/jbmtd_211970/16481369.html
+http://tv.81.cn/jbmtd_211970/16481580.html
 https://weibo.com/jfjb
-http://www.81.cn/byds_206407/byds_206410/16480175.html
-  争气！我国运载火箭实现海陆双回收
+http://www.81.cn/byds_206407/byds_206410/16481554.html
+  “龙吸水”丨看子母排水抢险车丝滑作业
 http://www.81.cn/byds_206407/byds_206410/16480351.html
   远火精准打击
+http://www.81.cn/byds_206407/byds_206410/16480175.html
+  争气！我国运载火箭实现海陆双回收
 http://www.81.cn/byds_206407/byds_206410/16478606.html
   主播说国防丨画皮之下的阴谋
 http://www.81.cn/byds_206407/byds_206410/16478520.html
   奋楫之“陆”丨第五集《斩无影》
 http://www.81.cn/byds_206407/byds_206410/16478454.html
   奋楫之“陆”丨第四集《惊风雷》
-http://www.81.cn/byds_206407/byds_206410/16478337.html
-  奋楫之“陆”丨第三集《射天狼》
+http://www.81.cn/fyr/16481675.html
+  国防部：菲方应尽快拖走非法“坐滩”的57号舰
+http://www.81.cn/fyr/16481662.html
+  国防部：国际社会应切实认清日本右翼势力危险图谋
+http://www.81.cn/fyr/16481647.html
+  新时代征兵工作更加阳光透明
+http://www.81.cn/fyr/16481645.html
+  国防部介绍中白“神鹰-2026”空军联训情况
+http://www.81.cn/fyr/16481633.html
+  中泰“鹰击-2026”空军联训深化两军务实合作
+http://www.81.cn/fyr/16481634.html
+  中东（帝汶）、中印尼将进一步深化防务合作
+http://www.81.cn/fyr/16481635.html
+  国防部：赖清德当局穷兵黩武 掏空台湾家底
+http://www.81.cn/fyr/16481636.html
+  第十三届北京香山论坛将在北京国际会议中心举办
 http://www.81.cn/fyr/16481466.html
   国台办：加强两岸青年交流是利在当下、功在千秋的“希望工程”
 http://www.81.cn/fyr/16481440.html
   外交部发言人介绍习近平主席出访有关安排和中方期待
 http://www.81.cn/fyr/16481281.html
   中央组织部负责人就修订颁布《党政领导干部生态环境损害责任追究办法》答记者问
-http://www.81.cn/fyr/16481278.html
-  商务部：跨国公司对华投资呈现“三个转变”
-http://www.81.cn/fyr/16481245.html
-  外交部：愿同各国一道推动创新红利更多惠及全人类
-http://www.81.cn/fyr/16481089.html
-  外交部：愿推动人工智能开放、包容、普惠、向善发展
-http://www.81.cn/fyr/16481062.html
-  外交部：美官员攻击中国科技企业言论颠倒黑白
-http://www.81.cn/fyr/16481046.html
-  外交部：中方祝贺哈萨克斯坦库鲁尔泰选举顺利举行
-http://www.81.cn/fyr/16481020.html
-  中印边界问题特别代表第25次会晤将在北京举行
-http://www.81.cn/fyr/16480604.html
-  外交部发言人就日本议员计划访华答记者问
-http://www.81.cn/fyr/16480591.html
-  南部战区空军新闻发言人李健健空军大校发表谈话
-http://www.81.cn/ss_208539/16481495.html
-  西藏吉隆泥石流灾害已造成3人遇难 265人失联
-http://www.81.cn/ss_208539/16481494.html
-  西藏启动自治区自然灾害一级救助应急响应
-http://www.81.cn/ss_208539/16481493.html
-  吉隆口岸为何频遭泥石流？问题藏在喜马拉雅深谷
-http://www.81.cn/ss_208539/16481481.html
-  西藏多方力量赶赴吉隆口岸救援
-http://www.81.cn/ss_208539/16481480.html
-  李强在黑龙江、吉林调研
-http://www.81.cn/ss_208539/16481469.html
-  丁薛祥在安徽合肥出席财政科学管理试点座谈
-http://www.81.cn/ss_208539/16481463.html
-  两部门拨付1.2亿元支持西藏做好应急抢险救灾工作
-http://www.81.cn/ss_208539/16481462.html
-  两部门针对西藏吉隆泥石流灾害启动国家二级救灾应急响应
-http://www.81.cn/ss_208539/16481461.html
-  自然资源部对西藏启动地质灾害防御Ⅱ级响应
-http://www.81.cn/ss_208539/16481456.html
-  全国政协十四届常委会第十八次会议闭幕 王沪宁主持并讲话
-http://www.81.cn/ss_208539/16481453.html
-  防灾减灾救灾一线见闻｜广西宁明县抗洪救灾一线见闻
+http://www.81.cn/ss_208539/16481713.html
+  南部非洲侨界纪念孙中山诞辰160周年活动在南非举行
+http://www.81.cn/ss_208539/16481637.html
+  王毅会见美国驻华大使庞德伟
+http://www.81.cn/ss_208539/16481612.html
+  中国救援队抵达吉隆县吉隆镇
+http://www.81.cn/ss_208539/16481606.html
+  中方敦促维护加沙停火 缓和约旦河西岸紧张局势
+http://www.81.cn/ss_208539/16481604.html
+  中国安能专业救援力量紧急驰援西藏吉隆泥石流救援
+http://www.81.cn/ss_208539/16481605.html
+  中国红十字会总会紧急向西藏日喀则调拨救灾物资
+http://www.81.cn/ss_208539/16481603.html
+  西藏吉隆泥石流灾害搜救出2人，遇难3人、失联558人
+http://www.81.cn/ss_208539/16481598.html
+  台风“沙德尔”预计28日登陆 警惕多地大暴雨
+http://www.81.cn/ss_208539/16481597.html
+  奥地利国民议会议长将访华
+http://www.81.cn/ss_208539/16481595.html
+  视频丨搭载西部战区指导组 运-20已抵达西藏驰援吉隆
+http://www.81.cn/ss_208539/16481591.html
+  金融监管总局对西藏灾情启动保险业二级救灾应急响应
 http://www.81.cn/zt/2023nzt/xxgcxjpxsdzgtsshzysxztjy/index.html
 http://www.81.cn/zt/2023nzt/flsxjjbnmbjkjcsjyljd/index.html
 http://www.81.cn/bz_208549/jdt_208550/16481218.html
@@ -584,18 +582,18 @@ http://www.81.cn/ll_208543/16478639.html
   坚持建设堪当民族复兴重任的高素质干部队伍
 http://www.81.cn/ll_208543/16478511.html
   政治干部要当好深化政治整训的表率
-http://www.81.cn/pl_208541/jdt_208542/16480146.html
-  漫评丨“冷战化石”重披战袍？不过是场自我感动的政治秀
+http://www.81.cn/pl_208541/jdt_208542/16481607.html
+  漫评丨只说“终战”不提罪愆，日本右翼一直寄生在谎言中
+http://www.81.cn/pl_208541/16481687.html
+  钧正平：坚持极限思维、底线思维防灾减灾救灾，是树立和践行正确政绩观的应有之义
+http://www.81.cn/pl_208541/16481584.html
+  做好下半年经济工作，钟才文这些表述值得重点关注
 http://www.81.cn/pl_208541/16481474.html
   钧评：在我们这支军队，群众会通过什么评价党员干部？
 http://www.81.cn/pl_208541/16481473.html
   钧评：手莫伸，伸手必被捉。党与人民在监督，万目睽睽难逃脱——这是他一生的座右铭
 http://www.81.cn/pl_208541/16481391.html
   绿色情缘，见证中美民间友好薪火相传（和音）
-http://www.81.cn/pl_208541/16481370.html
-  钧正平：巩固政绩观教育成果，切莫在“快活三里”歇脚松劲
-http://www.81.cn/pl_208541/16481299.html
-  新华社评论员：树立和践行正确政绩观是一项长期任务
 http://www.81.cn/wh_208575/jdt_208576/16480768.html
   中国第24批赴黎维和部队向当地机构捐赠人道主义物资
 http://www.81.cn/wh_208575/16480769.html
@@ -608,18 +606,18 @@ http://www.81.cn/wh_208575/16477212.html
   为了和平的使命——记中国驻南苏丹维和部队忠诚履职
 http://www.81.cn/wh_208575/16475556.html
   我维和医疗分队一线巡诊为官兵筑牢健康防线
-http://www.81.cn/js_208592/jdt_208593/16480923.html
-  政治建军专刊·光荣传统丨2930枚银元：“红色家底”见初心
-http://www.81.cn/js_208592/16481190.html
-  八十余载回望：那场含泪的抉择，是最动人的家国大义
-http://www.81.cn/js_208592/16480924.html
-  从黄崖洞到黄洋界，寻根小队一路寻访前身部队革命旧址
-http://www.81.cn/js_208592/16480930.html
-  《可爱的中国》写尽家国期盼，今天我们格外怀念他！
-http://www.81.cn/js_208592/16480929.html
-  纪念中国工农红军长征胜利90周年丨通道问“道”
-http://www.81.cn/js_208592/16480429.html
-  万水千山只等闲之翻越老山界——长征中的军事地理解读之二
+http://www.81.cn/js_208592/jdt_208593/16481559.html
+  今天，一起致敬千里跃进大别山的英雄壮举！
+http://www.81.cn/js_208592/16481600.html
+  没有后方、没有补给，12万大军如何千里跃进大别山？
+http://www.81.cn/js_208592/16481564.html
+  一纸布告聚民心
+http://www.81.cn/js_208592/16481563.html
+  纪念中国工农红军长征胜利90周年丨一城红韵 满目光华
+http://www.81.cn/js_208592/16481562.html
+  一纸文告背后的胜战密码——6个“有时”道出运动战真谛
+http://www.81.cn/js_208592/16481561.html
+  清风正气歌丨风雪侵衣见高洁
 http://www.81.cn/wh_208594/jdt_208595/16480294.html
   铁血丹青丨马灯长明照征程
 http://www.81.cn/wh_208594/16481384.html
@@ -634,18 +632,18 @@ http://www.81.cn/wh_208594/16478121.html
   士说心语｜小院里的桂花树
 http://www.81.cn/yd_208600/jdt_208601/16481019.html
   当马克思开始“说”中国话……
+http://www.81.cn/yd_208600/16481714.html
+  回望延安十三年历史，解读延安精神、领悟毛泽东思想
+http://www.81.cn/yd_208600/16481711.html
+  突破足球赛事表层，充分展现优秀传统文化的生命活力
+http://www.81.cn/yd_208600/16481704.html
+  五十年扎根田野考古，为大众打开五千年红山文化宝库
 http://www.81.cn/yd_208600/16481389.html
   倾听真正属于大地的声音，“人民的文学”就有了体温与重量
 http://www.81.cn/yd_208600/16481388.html
   用最纯粹的人格，书写着“爱国”两个字最厚重的注释
-http://www.81.cn/yd_208600/16481387.html
-  一颗陨落的诗坛星辰，被重新接引回孕育他生长的土地
-http://www.81.cn/yd_208600/16481292.html
-  当新闻老兵遇上AI：一个见证者的记录
-http://www.81.cn/yd_208600/16481159.html
-  无塔也无山的塔山，有着优良传统之宝塔、战斗精神之高山
-http://www.81.cn/tp_207717/jdt_207718/16481412.html
-  学习卡·长征百问（45）丨遵义会议之后党中央在扎西境内召开的一系列会议统称是什么？
+http://www.81.cn/tp_207717/jdt_207718/16481501.html
+  学习卡·长征百问（46）丨长征中哪次会议发布了《告全体红色战士书》？
 http://www.81.cn/tp_207717/16481471.html
   万水千山只等闲之强渡乌江——长征中的军事地理解读之三
 http://www.81.cn/tp_207717/16481446.html
@@ -833,16 +831,16 @@ http://eng.chinamil.com.cn/2025xb/H_251454/F_251457/16481432.html
   Multiple Helicopters in Take-off and Landing Training
 http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16481476.html
   Xi urges all-out rescue, relief efforts after mudslide hits border port in Xizang
+http://eng.chinamil.com.cn/2025xb/V_251452/16481694.html
+  The Philippines Should Tow Away Its Illegally Grounded Vessel at Ren'ai Jiao as Soon as Possible: Defense Spokesperson
+http://eng.chinamil.com.cn/2025xb/M_251449/V_251467/16481613.html
+  All-out Rescue, Relief Efforts after Mudslide Hits Border Port in Xizang
+http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16481688.html
+  Chinese peacekeepers to Abyei participate in specialized casualty evacuation training
+http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16481581.html
+  PLA sends group to coordinate rescue efforts in mudslide-hit county in SW China's Xizang
 http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16481400.html
   PLA conducts routine naval-air patrol in South China Sea
-http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16481428.html
-  Foreign Naval Attachés to China Visit PLA Naval Aviation University
-http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16481425.html
-  PLA Hong Kong Garrison Completes 29th Rotation
-http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16481266.html
-  Chinese peacekeepers to South Sudan (Wau) provide humanitarian assistance to local school
-http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16481303.html
-  China, India hold special representatives talks on boundary question in Beijing
 http://eng.chinamil.com.cn/2025xb/B/16481468.html
   12th Chinese peacekeeping infantry battalion to South Sudan (Juba) participates in UN military-police joint exercise
 http://eng.chinamil.com.cn/2025xb/B/16481268.html
@@ -967,13 +965,13 @@ http://www.81.cn/zt/sytj/_attachment/2024/07/01/16320548_39951b88bfbca27c04f8973
 http://www.81.cn/zt/sytj/_attachment/2026/08/19/16480218_018e94f4d9e9b13d8941825dcc1cc8e6.jpg
 http://www.81.cn/wzsy/Banner_207703/ztyc/_attachment/2020/03/03/9757973_0800279e7f7f1fc839f401.jpg
 http://www.81.cn/template/tenant207/t1774/img/xxqj.jpg
+http://www.81.cn/syjdt/_attachment/2026/08/27/16481599_4c8da325229109d92cb417edec1f731c.jpg
 http://www.81.cn/syjdt/_attachment/2026/08/26/16481345_b7dd49e4e98a3f8f62c02fd34eeb99e0.png
 http://www.81.cn/syjdt/_attachment/2026/08/26/16481447_43159cfb189ba1a22e9b82081abdd48d.jpg
 http://www.81.cn/syjdt/_attachment/2026/08/26/16481448_201e9840cf4734463c9f7992f3a58967.jpg
 http://www.81.cn/syjdt/_attachment/2026/08/26/16481445_87613200acbf518f6495c13bfffb681b.png
 http://www.81.cn/syjdt/_attachment/2026/08/26/16481444_2a1d1b0c7c3448ab3847adc55ecc2b34.png
 http://www.81.cn/syjdt/_attachment/2026/08/25/16481234_0fc9a5609c7f4412eafdcc9161f60057.jpg
-http://www.81.cn/syjdt/_attachment/2026/08/25/16481217_8ba361f89e8ad80ef3dcf3a170db0ac1.jpg
 http://www.81.cn/template/tenant207/t1774/img/brief.jpg
 http://www.plapic.com.cn/jfjhb/wqhg/_attachment/2026/08/07/16478243_0f95d232beea9a014576eccd5abfcb78.jpg
 http://www.81.cn/template/tenant207/t1774/img/gfb.jpg
@@ -985,7 +983,7 @@ http://www.81.cn/template/tenant207/t1774/img/jfjbcbs.png
 http://www.81.cn/template/tenant207/t1774/img/jh-145-70.jpg
 http://www.81.cn/template/tenant207/t1774/img/newspaper-video1.jpg
 http://www.81.cn/template/tenant207/t1774/img/jfjb-weibo1.jpg
-http://www.81.cn/byds_206407/byds_206410/_attachment/2026/08/19/16480175_ed556ebcb8c7c888bae3b07790967e72.jpg
+http://www.81.cn/byds_206407/byds_206410/_attachment/2026/08/27/16481554_6fb41723d2de60869997fd0c112e6a64.jpg
 http://www.81.cn/wzsy/Banner_207703/ljy/_attachment/2023/04/14/16217016_2535c332a2450a31c2e8310a2331320d.png
 http://www.81.cn/wzsy/Banner_207703/ljy/_attachment/2023/08/31/16217015_5171ca201142e820b17b49869c704001.jpg
 http://www.81.cn/bz_208549/jdt_208550/_attachment/2026/08/25/16481218_ebfe9ac675bacf262a7e5e79907a1994.png
@@ -1018,12 +1016,12 @@ http://www.81.cn/wzsy/Banner_207703/lje/_attachment/2023/04/19/16218176_cb99f52b
 http://www.81.cn/wzsy/Banner_207703/lje/_attachment/2023/04/14/16218177_c6c90fe2611dd6e14cbfbcbc1f22ed9c.png
 http://www.81.cn/wzsy/Banner_207703/lje/_attachment/2023/04/19/16218178_3b48f432e3f63e96ef0b850770963ac9.jpg
 http://www.81.cn/ll_208543/jdt_208544/_attachment/2026/05/20/16462484_0742a3d94ea178cc792be56b7c2acf12.jpg
-http://www.81.cn/pl_208541/jdt_208542/_attachment/2026/08/19/16480146_49f74c3d7d9894479bae65a0dcd26778.png
+http://www.81.cn/pl_208541/jdt_208542/_attachment/2026/08/27/16481607_25144fc4c44b59cbdd0e93fefbb637e5.jpg
 http://www.81.cn/wh_208575/jdt_208576/_attachment/2026/08/22/16480768_3705c4deb1d52489da8be86d1525f3bf.png
-http://www.81.cn/js_208592/jdt_208593/_attachment/2026/08/24/16480923_3359e658bf2493fa312e27cf60b12718.jpg
+http://www.81.cn/js_208592/jdt_208593/_attachment/2026/08/27/16481559_2ad40d39ab0fdff27d69358a577f200f.jpg
 http://www.81.cn/wh_208594/jdt_208595/_attachment/2026/08/20/16480294_ed6b752b16ea09922df7890e48af7147.jpg
 http://www.81.cn/yd_208600/jdt_208601/_attachment/2026/08/24/16481019_eee4d1726412b21b24316f4547f42c6a.jpg
-http://www.81.cn/tp_207717/jdt_207718/_attachment/2026/08/17/16481412_330204c11f46860bb49cd1e54de7cb25.jpg
+http://www.81.cn/tp_207717/jdt_207718/_attachment/2026/08/17/16481501_330204c11f46860bb49cd1e54de7cb25.jpg
 http://www.81.cn/pk/jdt_208611/_attachment/2026/08/23/16480862_251e510cf176f2a74811743437d969e7.jpg
 http://www.81.cn/tj_208608/jdt_208609/_attachment/2026/07/23/16475418_f403e777ad55b3b7d864de8d71f6e34c.png
 http://www.81.cn/tj_208608/jdt_208609/_attachment/2026/06/18/16469262_13be2166427829116dbed2e2f6a00962.jpg

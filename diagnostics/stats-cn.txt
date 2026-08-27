@@ -10,8 +10,8 @@ All links discovered: 227
 
 === MATCHED CANDIDATES ===
 
-https://www.stats.gov.cn/sj/zxfb/202607/t20260730_1964247.html
-  2025年我国“三新”经济增加值占国内生产总值比重为18.39%
+https://www.stats.gov.cn/sj/zxfb/202608/t20260827_1965126.html
+  2026年1—7月份全国规模以上工业企业利润增长17.6%
 https://www.stats.gov.cn/sj/zxfb/202608/t20260821_1965093.html
   2026年8月中旬流通领域重要生产资料市场价格变动情况
 https://www.stats.gov.cn/sj/zxfb/202608/t20260817_1965050.html
@@ -32,12 +32,12 @@ https://www.stats.gov.cn/sj/zxfb/202608/t20260817_1965054.html
   2026年1—7月份全国固定资产投资基本情况
 https://www.stats.gov.cn/sj/zxfb/202608/t20260809_1965008.html
   2026年7月份居民消费价格同比上涨0.5%
+https://www.stats.gov.cn/sj/zxfb/202608/t20260827_1965129.html
+  2025年经济发展新动能指数增长12.5%
 https://www.stats.gov.cn/sj/zxfb/202608/t20260821_1965086.html
   国家统计局关于2026年早稻产量数据的公告
 https://www.stats.gov.cn/sj/zxfb/202608/t20260817_1965053.html
   2026年1—7月份全国房地产市场基本情况
-https://www.stats.gov.cn/sj/zxfb/202607/t20260731_1964253.html
-  2026年7月中国采购经理指数运行情况
 https://www.stats.gov.cn/sj/zxfb/202608/t20260817_1965051.html
   2026年7月份能源生产情况
 
@@ -71,6 +71,10 @@ https://www.stats.gov.cn/zt_18555/
   专题
 https://www.stats.gov.cn/sj/zxfb/
   数据发布
+https://www.stats.gov.cn/sj/zxfb/202608/t20260827_1965129.html
+  2025年经济发展新动能指数增长12.5%
+https://www.stats.gov.cn/sj/zxfb/202608/t20260827_1965126.html
+  2026年1—7月份全国规模以上工业企业利润增长17.6%
 https://www.stats.gov.cn/sj/zxfb/202608/t20260821_1965093.html
   2026年8月中旬流通领域重要生产资料市场价格变动情况
 https://www.stats.gov.cn/sj/zxfb/202608/t20260821_1965086.html
@@ -97,10 +101,6 @@ https://www.stats.gov.cn/sj/zxfb/202608/t20260809_1965007.html
   2026年7月份工业生产者出厂价格同比上涨3.5%
 https://www.stats.gov.cn/sj/zxfb/202608/t20260803_1964273.html
   2026年7月下旬流通领域重要生产资料市场价格变动情况
-https://www.stats.gov.cn/sj/zxfb/202607/t20260731_1964253.html
-  2026年7月中国采购经理指数运行情况
-https://www.stats.gov.cn/sj/zxfb/202607/t20260730_1964247.html
-  2025年我国“三新”经济增加值占国内生产总值比重为18.39%
 http://www.gov.cn/
   中央人民政府门户网站
 http://www.fmprc.gov.cn/

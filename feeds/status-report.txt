@@ -1,5 +1,5 @@
 Strategic RSS Collector Status
-Generated: 2026-08-26 21:03:03 UTC
+Generated: 2026-08-27 10:19:14 UTC
 
 Status meanings:
 OK = Feed contains one or more items
@@ -27,7 +27,7 @@ FAILED = Source could not be retrieved
   Start URL: http://www.81.cn/?big=jian
   Resolved URL: http://www.81.cn/?big=jian
   HTTP: 200
-  Links discovered: 532
+  Links discovered: 531
   Candidate links/items: 50
   Attempted items/articles: 12
   Items/articles with text: 12
@@ -53,7 +53,7 @@ FAILED = Source could not be retrieved
   Request timeout: 12s
   Max retries: 1
   Retry backoff: 1s
-  Error: https://eng.mil.ru/ -> ConnectTimeout: HTTPSConnectionPool(host='eng.mil.ru', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='eng.mil.ru', port=443) at 0x7f086e339590>, 'Connection to eng.mil.ru timed out. (connect timeout=12)'))
+  Error: https://eng.mil.ru/ -> ConnectTimeout: HTTPSConnectionPool(host='eng.mil.ru', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='eng.mil.ru', port=443) at 0x7f7781a5a210>, 'Connection to eng.mil.ru timed out. (connect timeout=12)'))
 
 [OK] kremlin-president-en - Kremlin President News - Official RSS
   Source type: rss
@@ -202,7 +202,7 @@ FAILED = Source could not be retrieved
   HTTP: 200
   Links discovered: 188
   Candidate links/items: 50
-  Attempted items/articles: 13
+  Attempted items/articles: 12
   Items/articles with text: 12
   Items/articles with dates: 12
   RSS feed items: 12
@@ -298,7 +298,7 @@ FAILED = Source could not be retrieved
   HTTP: 200
   Links discovered: 1889
   Candidate links/items: 50
-  Attempted items/articles: 14
+  Attempted items/articles: 12
   Items/articles with text: 12
   Items/articles with dates: 10
   RSS feed items: 12
