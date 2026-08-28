@@ -1,62 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Thu, 27 Aug 2026 22:29:15 +0000</lastBuildDate><item><title>CNNVD-2026-40029130 - GNOME Dia 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-40029130</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-40029130</guid><pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate><description>GNOME Dia 缓冲区错误漏洞
-危害等级: 高危
-收录时间：2026-08-26 | 更新时间: 2026-08-27 16:46:30
-CNNVD编号: CNNVD-2026-40029130</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-40029130&lt;/p&gt;&lt;pre&gt;GNOME Dia 缓冲区错误漏洞
-危害等级: 高危
-收录时间：2026-08-26 | 更新时间: 2026-08-27 16:46:30
-CNNVD编号: CNNVD-2026-40029130&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-30195981 - WeblateOrg weblate 竞争条件问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-30195981</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-30195981</guid><pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate><description>WeblateOrg weblate 竞争条件问题漏洞
-危害等级: 低危
-收录时间：2026-08-26 | 更新时间: 2026-08-27 16:46:31
-CNNVD编号: CNNVD-2026-30195981</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-30195981&lt;/p&gt;&lt;pre&gt;WeblateOrg weblate 竞争条件问题漏洞
-危害等级: 低危
-收录时间：2026-08-26 | 更新时间: 2026-08-27 16:46:31
-CNNVD编号: CNNVD-2026-30195981&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-11500481 - stalwartlabs stalwart 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-11500481</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-11500481</guid><pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate><description>stalwartlabs stalwart 输入验证错误漏洞
-危害等级: 高危
-收录时间：2026-08-26 | 更新时间: 2026-08-27 16:42:42
-CNNVD编号: CNNVD-2026-11500481</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-11500481&lt;/p&gt;&lt;pre&gt;stalwartlabs stalwart 输入验证错误漏洞
-危害等级: 高危
-收录时间：2026-08-26 | 更新时间: 2026-08-27 16:42:42
-CNNVD编号: CNNVD-2026-11500481&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-90786521 - InsydeH2O 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-90786521</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-90786521</guid><pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate><description>InsydeH2O 缓冲区错误漏洞
-危害等级: 低危
-收录时间：2026-08-26 | 更新时间: 2026-08-27 16:42:45
-CNNVD编号: CNNVD-2026-90786521</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-90786521&lt;/p&gt;&lt;pre&gt;InsydeH2O 缓冲区错误漏洞
-危害等级: 低危
-收录时间：2026-08-26 | 更新时间: 2026-08-27 16:42:45
-CNNVD编号: CNNVD-2026-90786521&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-15497938 - Midday 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-15497938</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-15497938</guid><pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate><description>Midday 授权问题漏洞
-危害等级: 高危
-收录时间：2026-08-26 | 更新时间: 2026-08-27 16:42:45
-CNNVD编号: CNNVD-2026-15497938</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-15497938&lt;/p&gt;&lt;pre&gt;Midday 授权问题漏洞
-危害等级: 高危
-收录时间：2026-08-26 | 更新时间: 2026-08-27 16:42:45
-CNNVD编号: CNNVD-2026-15497938&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-22793691 - itsourcecode Payroll System 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22793691</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22793691</guid><pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate><description>itsourcecode Payroll System 授权问题漏洞
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Fri, 28 Aug 2026 11:40:27 +0000</lastBuildDate><item><title>CNNVD-2026-84956994 - flowintel 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-84956994</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-84956994</guid><pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate><description>flowintel 授权问题漏洞
 危害等级: 中危
-收录时间：2026-08-26 | 更新时间: 2026-08-27 16:42:46
-CNNVD编号: CNNVD-2026-22793691</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22793691&lt;/p&gt;&lt;pre&gt;itsourcecode Payroll System 授权问题漏洞
+收录时间：2026-08-27 | 更新时间: 2026-08-28 16:06:20
+CNNVD编号: CNNVD-2026-84956994</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-84956994&lt;/p&gt;&lt;pre&gt;flowintel 授权问题漏洞
 危害等级: 中危
-收录时间：2026-08-26 | 更新时间: 2026-08-27 16:42:46
-CNNVD编号: CNNVD-2026-22793691&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-27207087 - Nathan Friedly bestzip 命令注入漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-27207087</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-27207087</guid><pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate><description>Nathan Friedly bestzip 命令注入漏洞
+收录时间：2026-08-27 | 更新时间: 2026-08-28 16:06:20
+CNNVD编号: CNNVD-2026-84956994&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-97132472 - flowintel 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-97132472</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-97132472</guid><pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate><description>flowintel 授权问题漏洞
 危害等级: 高危
-收录时间：2026-08-26 | 更新时间: 2026-08-27 16:46:25
-CNNVD编号: CNNVD-2026-27207087</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-27207087&lt;/p&gt;&lt;pre&gt;Nathan Friedly bestzip 命令注入漏洞
+收录时间：2026-08-27 | 更新时间: 2026-08-28 16:06:20
+CNNVD编号: CNNVD-2026-97132472</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-97132472&lt;/p&gt;&lt;pre&gt;flowintel 授权问题漏洞
 危害等级: 高危
-收录时间：2026-08-26 | 更新时间: 2026-08-27 16:46:25
-CNNVD编号: CNNVD-2026-27207087&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-30110492 - TP-Link HS103P3 / HS103P4 v5 加密问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-30110492</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-30110492</guid><pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate><description>TP-Link HS103P3 / HS103P4 v5 加密问题漏洞
-危害等级: 高危
-收录时间：2026-08-26 | 更新时间: 2026-08-27 16:46:29
-CNNVD编号: CNNVD-2026-30110492</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-30110492&lt;/p&gt;&lt;pre&gt;TP-Link HS103P3 / HS103P4 v5 加密问题漏洞
-危害等级: 高危
-收录时间：2026-08-26 | 更新时间: 2026-08-27 16:46:29
-CNNVD编号: CNNVD-2026-30110492&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-80395239 - RabbitMQ Go RabbitMQ Client Library 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-80395239</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-80395239</guid><pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate><description>RabbitMQ Go RabbitMQ Client Library 资源管理错误漏洞
-危害等级: 高危
-收录时间：2026-08-26 | 更新时间: 2026-08-27 16:46:28
-CNNVD编号: CNNVD-2026-80395239</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-80395239&lt;/p&gt;&lt;pre&gt;RabbitMQ Go RabbitMQ Client Library 资源管理错误漏洞
-危害等级: 高危
-收录时间：2026-08-26 | 更新时间: 2026-08-27 16:46:28
-CNNVD编号: CNNVD-2026-80395239&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-89906549 - Automatisch 侧信道信息泄露漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-89906549</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-89906549</guid><pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate><description>Automatisch 侧信道信息泄露漏洞
+收录时间：2026-08-27 | 更新时间: 2026-08-28 16:06:20
+CNNVD编号: CNNVD-2026-97132472&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-74311773 - Natural Language Toolkit 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-74311773</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-74311773</guid><pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate><description>Natural Language Toolkit 资源管理错误漏洞
 危害等级: 中危
-收录时间：2026-08-26 | 更新时间: 2026-08-27 16:45:45
-CNNVD编号: CNNVD-2026-89906549</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-89906549&lt;/p&gt;&lt;pre&gt;Automatisch 侧信道信息泄露漏洞
+收录时间：2026-08-27 | 更新时间: 2026-08-28 16:06:20
+CNNVD编号: CNNVD-2026-74311773</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-74311773&lt;/p&gt;&lt;pre&gt;Natural Language Toolkit 资源管理错误漏洞
 危害等级: 中危
-收录时间：2026-08-26 | 更新时间: 2026-08-27 16:45:45
-CNNVD编号: CNNVD-2026-89906549&lt;/pre&gt;</content:encoded></item></channel></rss>
+收录时间：2026-08-27 | 更新时间: 2026-08-28 16:06:20
+CNNVD编号: CNNVD-2026-74311773&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-83968243 - GNOME gdk-pixbuf 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-83968243</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-83968243</guid><pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate><description>GNOME gdk-pixbuf 缓冲区错误漏洞
+危害等级: 中危
+收录时间：2026-08-27 | 更新时间: 2026-08-28 16:06:13
+CNNVD编号: CNNVD-2026-83968243</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-83968243&lt;/p&gt;&lt;pre&gt;GNOME gdk-pixbuf 缓冲区错误漏洞
+危害等级: 中危
+收录时间：2026-08-27 | 更新时间: 2026-08-28 16:06:13
+CNNVD编号: CNNVD-2026-83968243&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-14160910 - Roomote Roo Code 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-14160910</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-14160910</guid><pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate><description>Roomote Roo Code 输入验证错误漏洞
+危害等级: 低危
+收录时间：2026-08-27 | 更新时间: 2026-08-28 16:06:13
+CNNVD编号: CNNVD-2026-14160910</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-14160910&lt;/p&gt;&lt;pre&gt;Roomote Roo Code 输入验证错误漏洞
+危害等级: 低危
+收录时间：2026-08-27 | 更新时间: 2026-08-28 16:06:13
+CNNVD编号: CNNVD-2026-14160910&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-83558464 - flowintel 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-83558464</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-83558464</guid><pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate><description>flowintel 输入验证错误漏洞
+危害等级: 中危
+收录时间：2026-08-27 | 更新时间: 2026-08-28 16:06:14
+CNNVD编号: CNNVD-2026-83558464</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-83558464&lt;/p&gt;&lt;pre&gt;flowintel 输入验证错误漏洞
+危害等级: 中危
+收录时间：2026-08-27 | 更新时间: 2026-08-28 16:06:14
+CNNVD编号: CNNVD-2026-83558464&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-64953761 - flowintel 会话机制问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-64953761</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-64953761</guid><pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate><description>flowintel 会话机制问题漏洞
+危害等级: 超危
+收录时间：2026-08-27 | 更新时间: 2026-08-28 16:06:14
+CNNVD编号: CNNVD-2026-64953761</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-64953761&lt;/p&gt;&lt;pre&gt;flowintel 会话机制问题漏洞
+危害等级: 超危
+收录时间：2026-08-27 | 更新时间: 2026-08-28 16:06:14
+CNNVD编号: CNNVD-2026-64953761&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-24372786 - WordPress WP w3all phpBB 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-24372786</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-24372786</guid><pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate><description>WordPress WP w3all phpBB 跨站脚本漏洞
+危害等级: 高危
+收录时间：2026-08-27 | 更新时间: 2026-08-28 16:05:36
+CNNVD编号: CNNVD-2026-24372786</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-24372786&lt;/p&gt;&lt;pre&gt;WordPress WP w3all phpBB 跨站脚本漏洞
+危害等级: 高危
+收录时间：2026-08-27 | 更新时间: 2026-08-28 16:05:36
+CNNVD编号: CNNVD-2026-24372786&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-23456573 - WordPress CP Media Player 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-23456573</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-23456573</guid><pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate><description>WordPress CP Media Player 跨站脚本漏洞
+危害等级: 高危
+收录时间：2026-08-27 | 更新时间: 2026-08-28 16:05:36
+CNNVD编号: CNNVD-2026-23456573</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-23456573&lt;/p&gt;&lt;pre&gt;WordPress CP Media Player 跨站脚本漏洞
+危害等级: 高危
+收录时间：2026-08-27 | 更新时间: 2026-08-28 16:05:36
+CNNVD编号: CNNVD-2026-23456573&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-11423760 - roskus Prospero Flow CRM 任意文件上传漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-11423760</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-11423760</guid><pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate><description>roskus Prospero Flow CRM 任意文件上传漏洞
+危害等级: 中危
+收录时间：2026-08-27 | 更新时间: 2026-08-28 16:06:12
+CNNVD编号: CNNVD-2026-11423760</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-11423760&lt;/p&gt;&lt;pre&gt;roskus Prospero Flow CRM 任意文件上传漏洞
+危害等级: 中危
+收录时间：2026-08-27 | 更新时间: 2026-08-28 16:06:12
+CNNVD编号: CNNVD-2026-11423760&lt;/pre&gt;</content:encoded></item></channel></rss>

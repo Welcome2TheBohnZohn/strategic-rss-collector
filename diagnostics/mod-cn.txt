@@ -6,20 +6,18 @@ Include regex: /gfbw/|/xwfyr/|/wzll/
 Include text regex: 
 
 Candidate links: 50
-All links discovered: 242
+All links discovered: 240
 
 === MATCHED CANDIDATES ===
 
-http://www.mod.gov.cn/gfbw/qwfb/16481055.html
-  习近平作出重要指示强调 巩固拓展树立和践行正确政绩观学习教育成果 努力创造经得起实践人民历史检验的实绩
 http://www.mod.gov.cn/gfbw/fgwx/16444625.html
   中央军委政治工作部等6部门联合印发《关于做好边远艰苦地区和大龄未婚官兵婚恋服务工作的意见》
 http://www.mod.gov.cn/gfbw/sy/rt/16474290.html
   习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话
+http://www.mod.gov.cn/gfbw/qwfb/16481912.html
+  习近平主持中共中央政治局会议 研究部署西藏日喀则市吉隆县泥石流灾害抢险救援工作
 http://www.mod.gov.cn/gfbw/jsxd/16480104.html
   执行“和谐使命-2026”任务的海军“吉祥方舟”号医院船官兵迎接中国医师节
-http://www.mod.gov.cn/gfbw/qwfb/16481409.html
-  习近平将出席2026年上海合作组织峰会并对吉尔吉斯斯坦、埃及进行国事访问
 http://www.mod.gov.cn/gfbw/gfjy_index/16481170.html
   让思政课“入耳”更“入心”——湖北省军区探索新时代思想政治教育新路径纪事
 http://www.mod.gov.cn/gfbw/sy/rt/16479804.html
@@ -28,15 +26,15 @@ http://www.mod.gov.cn/gfbw/fgwx/16441583.html
   中央军委印发新修订的《军队党组织实施党纪处分批准权限和程序规定》
 http://www.mod.gov.cn/gfbw/gffw/16475448.html
   三部门联合下发通知要求做好"八一"期间拥军优属拥政爱民工作
+http://www.mod.gov.cn/gfbw/qwfb/16481903.html
+  习近平就尼泊尔遭受泥石流灾害向尼泊尔总统鲍德尔致慰问电
 http://www.mod.gov.cn/gfbw/gffw/16469120.html
   速览！2026年军校招生政策解读，你想知道的都在这里→
-http://www.mod.gov.cn/gfbw/jmsd/16481356.html
-  祖国的召唤，是广大官兵的行动罗盘，是奋斗奋进的力量源泉
 http://www.mod.gov.cn/gfbw/gfdy/16479634.html
   闻“汛”而动 全力以赴——各地多措并举筑牢防汛安全屏障
 http://www.mod.gov.cn/gfbw/gfdy/16476639.html
   江苏省淮安市探索退役军人国防教育辅导员进校园任教新路径
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16481458.html
+http://www.mod.gov.cn/gfbw/qwfb/16481414.html
   习近平对西藏日喀则市吉隆县遭受泥石流灾害作出重要指示
 http://www.mod.gov.cn/gfbw/gffw/16479274.html
   全国兵役机关聚焦练兵备战，严把兵役关口，提高兵员质量
@@ -44,22 +42,20 @@ http://www.mod.gov.cn/gfbw/gfdy/16475976.html
   唐山大地震幸存者田金芳的拥军故事：一顶军帽 半世追寻
 http://www.mod.gov.cn/gfbw/tp_214132/16472263.html
   那一排排看似单薄的身躯，正是守护祖国和人民坚实的防线
+http://www.mod.gov.cn/gfbw/qwfb/16481892.html
+  陈武同志遗体在京火化 习近平等到八宝山革命公墓送别
+http://www.mod.gov.cn/gfbw/wzll/16481829.html
+  军营观察丨英雄“归队”：跨越7000公里的精神链接
 http://www.mod.gov.cn/gfbw/tp_214132/16473226.html
   振翅远航！空军航空兵某团官兵驾驭“鲲鹏”奋飞新时代
 http://www.mod.gov.cn/gfbw/jsxd/16480355.html
   中国船舶“艾琳娜”轮致信感谢海军第48批护航编队
 http://www.mod.gov.cn/gfbw/tp_214132/16475831.html
   凌云出击！东部战区空军航空兵某旅开展空战对抗训练
-http://www.mod.gov.cn/gfbw/qwfb/16481630.html
-  中泰“鹰击-2026”空军联训深化两军务实合作
-http://www.mod.gov.cn/gfbw/qwfb/16481664.html
-  国防部：国际社会应切实认清日本右翼势力危险图谋
 http://www.mod.gov.cn/gfbw/jsxd/16475312.html
   中国海军“吉祥方舟”号医院船首次赴海外执行任务
 http://www.mod.gov.cn/gfbw/qwfb/16481616.html
   第十三届北京香山论坛将在北京国际会议中心举办
-http://www.mod.gov.cn/gfbw/qwfb/16481638.html
-  国防部介绍中白“神鹰-2026”空军联训情况
 http://www.mod.gov.cn/gfbw/jsxd/16481085.html
   中白“神鹰-2026”空降兵联合训练圆满结束
 http://www.mod.gov.cn/gfbw/xwfyr/16481666.html
@@ -70,8 +66,6 @@ http://www.mod.gov.cn/gfbw/jswj/16479884.html
   海军83舰编队圆满完成远海综合实习访问任务
 http://www.mod.gov.cn/gfbw/wzll/16478501.html
   中部战区空军航空兵某团：淬炼“精神的刀锋”
-http://www.mod.gov.cn/gfbw/wzll/16481225.html
-  山谷深处，一场复杂环境下的反恐训练紧张展开
 http://www.mod.gov.cn/gfbw/qwfb/16481625.html
   中东（帝汶）、中印尼将进一步深化防务合作
 http://www.mod.gov.cn/gfbw/qwfb/16481745.html
@@ -86,14 +80,16 @@ http://www.mod.gov.cn/gfbw/jmsd/16479740.html
   八一锐评丨把“问题清单”变成“实效清单”
 http://www.mod.gov.cn/gfbw/gfdy/16478974.html
   辽宁省铁岭军分区以实战为牵引锤炼应急硬功
+http://www.mod.gov.cn/gfbw/qwfb/16481712.html
+  2026年8月国防部例行记者会文字实录
 http://www.mod.gov.cn/gfbw/gfjy_index/16480956.html
   国防视野丨来自暑期军事夏令营的一组见闻
 http://www.mod.gov.cn/gfbw/gfjy_index/16480945.html
   挂牌不是“终身荣誉”，严进严出成为常态
+http://www.mod.gov.cn/gfbw/sy/tt_214026/16481908.html
+  习近平在吉尔吉斯斯坦媒体发表署名文章
 http://www.mod.gov.cn/gfbw/wzll/16481353.html
   全军基层党员领导干部练兵备战挺膺担当
-http://www.mod.gov.cn/gfbw/wzll/16480953.html
-  空军雷达某旅优化偏远点位官兵办事流程
 http://www.mod.gov.cn/gfbw/sy/rt/16476331.html
   习近平同斯洛伐克总统佩列格里尼会谈
 http://www.mod.gov.cn/gfbw/jswj/16474858.html
@@ -104,12 +100,16 @@ http://www.mod.gov.cn/gfbw/sy/jt_214028/16480356.html
   海军某勤务船大队开展海上搜救训练
 http://www.mod.gov.cn/gfbw/sy/rt/16481053.html
   习近平同约旦国王阿卜杜拉二世会谈
-http://www.mod.gov.cn/gfbw/qwfb/16481065.html
-  习近平同约旦国王阿卜杜拉二世会谈
 http://www.mod.gov.cn/gfbw/fgwx/16448582.html
   中华人民共和国民族团结进步促进法
 http://www.mod.gov.cn/gfbw/jmsd/16481589.html
   八一锐评｜坚持极限思维、底线思维
+http://www.mod.gov.cn/gfbw/jmsd/16481585.html
+  强军论坛丨牢记“靠实事求是吃饭”
+http://www.mod.gov.cn/gfbw/tp_214132/16477668.html
+  第82集团军某旅开展实弹射击训练
+http://www.mod.gov.cn/gfbw/sy/rt/16474313.html
+  习近平会见联合国秘书长古特雷斯
 
 === ALL DISCOVERED LINKS ===
 
@@ -299,8 +299,8 @@ http://www.mod.gov.cn/gfbw/sy/jt_214028/16480356.html
   海军某勤务船大队开展海上搜救训练
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16479769.html
   海军某支队开展训练
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16481458.html
-  习近平对西藏日喀则市吉隆县遭受泥石流灾害作出重要指示
+http://www.mod.gov.cn/gfbw/sy/tt_214026/16481908.html
+  习近平在吉尔吉斯斯坦媒体发表署名文章
 http://www.mod.gov.cn/gfbw/sy/rt/16481053.html
   习近平同约旦国王阿卜杜拉二世会谈
 http://www.mod.gov.cn/gfbw/sy/rt/16479804.html
@@ -311,28 +311,26 @@ http://www.mod.gov.cn/gfbw/sy/rt/16474290.html
   习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话
 http://www.mod.gov.cn/gfbw/sy/rt/16474313.html
   习近平会见联合国秘书长古特雷斯
-http://www.mod.gov.cn/gfbw/qwfb/16481409.html
-  习近平将出席2026年上海合作组织峰会并对吉尔吉斯斯坦、埃及进行国事访问
-http://www.mod.gov.cn/gfbw/qwfb/16481055.html
-  习近平作出重要指示强调 巩固拓展树立和践行正确政绩观学习教育成果 努力创造经得起实践人民历史检验的实绩
-http://www.mod.gov.cn/gfbw/qwfb/16481065.html
-  习近平同约旦国王阿卜杜拉二世会谈
-http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16481082.html
-  中约联合声明
+http://www.mod.gov.cn/gfbw/qwfb/16481912.html
+  习近平主持中共中央政治局会议 研究部署西藏日喀则市吉隆县泥石流灾害抢险救援工作
+http://www.mod.gov.cn/gfbw/qwfb/16481903.html
+  习近平就尼泊尔遭受泥石流灾害向尼泊尔总统鲍德尔致慰问电
+http://www.mod.gov.cn/gfbw/qwfb/16481979.html
+  国家主席习近平任免驻外大使
+http://www.mod.gov.cn/gfbw/qwfb/16481892.html
+  陈武同志遗体在京火化 习近平等到八宝山革命公墓送别
+http://www.mod.gov.cn/gfbw/qwfb/16481414.html
+  习近平对西藏日喀则市吉隆县遭受泥石流灾害作出重要指示
+http://www.mod.gov.cn/gfbw/qwfb/16481712.html
+  2026年8月国防部例行记者会文字实录
+http://www.mod.gov.cn/gfbw/qwfb/16481616.html
+  第十三届北京香山论坛将在北京国际会议中心举办
 http://www.mod.gov.cn/gfbw/qwfb/16481625.html
   中东（帝汶）、中印尼将进一步深化防务合作
 http://www.mod.gov.cn/gfbw/qwfb/16481745.html
   解放军和武警部队官兵奋战西藏吉隆救援一线
-http://www.mod.gov.cn/gfbw/qwfb/16481616.html
-  第十三届北京香山论坛将在北京国际会议中心举办
 http://www.mod.gov.cn/gfbw/qwfb/16481640.html
   新时代征兵工作更加阳光透明
-http://www.mod.gov.cn/gfbw/qwfb/16481630.html
-  中泰“鹰击-2026”空军联训深化两军务实合作
-http://www.mod.gov.cn/gfbw/qwfb/16481638.html
-  国防部介绍中白“神鹰-2026”空军联训情况
-http://www.mod.gov.cn/gfbw/qwfb/16481664.html
-  国防部：国际社会应切实认清日本右翼势力危险图谋
 http://www.mod.gov.cn/gfbw/jswj/16474858.html
   越南海军“陈兴道”号护卫舰访问广州
 http://www.mod.gov.cn/gfbw/jswj/16479884.html
@@ -343,12 +341,12 @@ http://www.mod.gov.cn/gfbw/jswj/16475665.html
   海军83舰编队抵达文莱进行友好访问
 http://www.mod.gov.cn/gfbw/wzll/16478501.html
   中部战区空军航空兵某团：淬炼“精神的刀锋”
+http://www.mod.gov.cn/gfbw/wzll/16481829.html
+  军营观察丨英雄“归队”：跨越7000公里的精神链接
+http://www.mod.gov.cn/gfbw/wzll/16481825.html
+  万里边疆行丨草原上的“连心站”
 http://www.mod.gov.cn/gfbw/wzll/16481353.html
   全军基层党员领导干部练兵备战挺膺担当
-http://www.mod.gov.cn/gfbw/wzll/16481225.html
-  山谷深处，一场复杂环境下的反恐训练紧张展开
-http://www.mod.gov.cn/gfbw/wzll/16480953.html
-  空军雷达某旅优化偏远点位官兵办事流程
 http://www.mod.gov.cn/gfbw/jsxd/16475312.html
   中国海军“吉祥方舟”号医院船首次赴海外执行任务
 http://www.mod.gov.cn/gfbw/jsxd/16481085.html
@@ -357,14 +355,12 @@ http://www.mod.gov.cn/gfbw/jsxd/16480355.html
   中国船舶“艾琳娜”轮致信感谢海军第48批护航编队
 http://www.mod.gov.cn/gfbw/jsxd/16480104.html
   执行“和谐使命-2026”任务的海军“吉祥方舟”号医院船官兵迎接中国医师节
+http://www.mod.gov.cn/gfbw/xwfyr/lxjzhzt/2026lxjzh/2026n8y/index.html
+  2026年8月例行记者会专题
 http://www.mod.gov.cn/gfbw/xwfyr/lxjzhzt/2026lxjzh/2026n7y/index.html
-  2026年7月例行记者会专题
-http://www.mod.gov.cn/gfbw/xwfyr/lxjzhzt/2026lxjzh/2026n7y/16476927.html
-  文字实录
+  7月
 http://www.mod.gov.cn/gfbw/xwfyr/lxjzhzt/2026lxjzh/2026n6y/index.html
   6月
-http://www.mod.gov.cn/gfbw/xwfyr/lxjzhzt/2026lxjzh/2026n5y/index.html
-  5月
 http://www.mod.gov.cn/gfbw/xwfyr/16481666.html
   第十三届北京香山论坛将在北京国际会议中心举办
 http://www.mod.gov.cn/gfbw/xwfyr/16481668.html
@@ -406,12 +402,12 @@ http://www.mod.gov.cn/gfbw/jmsd/index.html
   军媒视点
 http://www.mod.gov.cn/gfbw/jmsd/16479740.html
   八一锐评丨把“问题清单”变成“实效清单”
+http://www.mod.gov.cn/gfbw/jmsd/16481828.html
+  八一锐评｜分秒必争 科学施救
 http://www.mod.gov.cn/gfbw/jmsd/16481589.html
   八一锐评｜坚持极限思维、底线思维
 http://www.mod.gov.cn/gfbw/jmsd/16481585.html
   强军论坛丨牢记“靠实事求是吃饭”
-http://www.mod.gov.cn/gfbw/jmsd/16481356.html
-  祖国的召唤，是广大官兵的行动罗盘，是奋斗奋进的力量源泉
 http://www.mod.gov.cn/gfbw/gfdy/16479634.html
   闻“汛”而动 全力以赴——各地多措并举筑牢防汛安全屏障
 http://www.mod.gov.cn/gfbw/gfdy/16478974.html
@@ -512,7 +508,7 @@ http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/07/17/16474313_719869349e9ca06
 http://www.mod.gov.cn/gfbw/jswj/_attachment/2026/07/20/16474858_2d8b662d2e7011d5f926fd70b2598d77.jpg
 http://www.mod.gov.cn/gfbw/wzll/_attachment/2026/08/09/16478501_c8618d2085e1ac7605661be11131cbf2.jpg
 http://www.mod.gov.cn/gfbw/jsxd/_attachment/2026/07/23/16475312_4960d123b76d7093f76cd73357d3e570.jpg
-http://www.mod.gov.cn/gfbw/xwfyr/lxjzhzt/_attachment/2026/07/31/16476973_06432b75391aa06b74515d278346ec35.jpg
+http://www.mod.gov.cn/gfbw/xwfyr/lxjzhzt/_attachment/2026/08/28/16481861_c37bd3d3c52cf21eee98cc79812efe09.jpg
 http://www.mod.gov.cn/gfbw/spbb_214126/_attachment/2026/08/01/16477140_ba9a3c83cdacc5371aeaca4aea2b91ad.jpg
 http://www.mod.gov.cn/template/tenant207/t179/img/brief.jpg
 http://www.plapic.com.cn/jfjhb/wqhg/_attachment/2026/08/07/16478243_0f95d232beea9a014576eccd5abfcb78.jpg
