@@ -6,10 +6,18 @@ Include regex: /gfbw/|/xwfyr/|/wzll/
 Include text regex: 
 
 Candidate links: 50
-All links discovered: 240
+All links discovered: 245
 
 === MATCHED CANDIDATES ===
 
+http://www.mod.gov.cn/gfbw/qwfb/16482052.html
+  解放军和武警部队官兵持续奋战在西藏吉隆救援一线
+http://www.mod.gov.cn/gfbw/fgwx/16482016.html
+  全国人大常委会表决通过新修订的国防动员法
+http://www.mod.gov.cn/gfbw/qwfb/16482002.html
+  中华人民共和国主席令第80号
+http://www.mod.gov.cn/gfbw/fgwx/16482045.html
+  中华人民共和国国防动员法
 http://www.mod.gov.cn/gfbw/fgwx/16444625.html
   中央军委政治工作部等6部门联合印发《关于做好边远艰苦地区和大龄未婚官兵婚恋服务工作的意见》
 http://www.mod.gov.cn/gfbw/sy/rt/16474290.html
@@ -22,8 +30,6 @@ http://www.mod.gov.cn/gfbw/gfjy_index/16481170.html
   让思政课“入耳”更“入心”——湖北省军区探索新时代思想政治教育新路径纪事
 http://www.mod.gov.cn/gfbw/sy/rt/16479804.html
   纪念江泽民同志诞辰100周年大会隆重举行 习近平出席大会并发表重要讲话
-http://www.mod.gov.cn/gfbw/fgwx/16441583.html
-  中央军委印发新修订的《军队党组织实施党纪处分批准权限和程序规定》
 http://www.mod.gov.cn/gfbw/gffw/16475448.html
   三部门联合下发通知要求做好"八一"期间拥军优属拥政爱民工作
 http://www.mod.gov.cn/gfbw/qwfb/16481903.html
@@ -34,8 +40,6 @@ http://www.mod.gov.cn/gfbw/gfdy/16479634.html
   闻“汛”而动 全力以赴——各地多措并举筑牢防汛安全屏障
 http://www.mod.gov.cn/gfbw/gfdy/16476639.html
   江苏省淮安市探索退役军人国防教育辅导员进校园任教新路径
-http://www.mod.gov.cn/gfbw/qwfb/16481414.html
-  习近平对西藏日喀则市吉隆县遭受泥石流灾害作出重要指示
 http://www.mod.gov.cn/gfbw/gffw/16479274.html
   全国兵役机关聚焦练兵备战，严把兵役关口，提高兵员质量
 http://www.mod.gov.cn/gfbw/gfdy/16475976.html
@@ -68,8 +72,6 @@ http://www.mod.gov.cn/gfbw/wzll/16478501.html
   中部战区空军航空兵某团：淬炼“精神的刀锋”
 http://www.mod.gov.cn/gfbw/qwfb/16481625.html
   中东（帝汶）、中印尼将进一步深化防务合作
-http://www.mod.gov.cn/gfbw/qwfb/16481745.html
-  解放军和武警部队官兵奋战西藏吉隆救援一线
 http://www.mod.gov.cn/gfbw/jswj/16477419.html
   海军83舰编队抵达印度尼西亚进行友好访问
 http://www.mod.gov.cn/gfbw/xwfyr/16481668.html
@@ -108,8 +110,6 @@ http://www.mod.gov.cn/gfbw/jmsd/16481585.html
   强军论坛丨牢记“靠实事求是吃饭”
 http://www.mod.gov.cn/gfbw/tp_214132/16477668.html
   第82集团军某旅开展实弹射击训练
-http://www.mod.gov.cn/gfbw/sy/rt/16474313.html
-  习近平会见联合国秘书长古特雷斯
 
 === ALL DISCOVERED LINKS ===
 
@@ -317,18 +317,28 @@ http://www.mod.gov.cn/gfbw/qwfb/16481903.html
   习近平就尼泊尔遭受泥石流灾害向尼泊尔总统鲍德尔致慰问电
 http://www.mod.gov.cn/gfbw/qwfb/16481979.html
   国家主席习近平任免驻外大使
+http://www.mod.gov.cn/gfbw/qwfb/16482002.html
+  中华人民共和国主席令第80号
+http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16481969.html
+  第81号
+http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16481970.html
+  第82号
+http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16481972.html
+  第83号
+http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16481975.html
+  第84号
+http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16481977.html
+  第85号
 http://www.mod.gov.cn/gfbw/qwfb/16481892.html
   陈武同志遗体在京火化 习近平等到八宝山革命公墓送别
-http://www.mod.gov.cn/gfbw/qwfb/16481414.html
-  习近平对西藏日喀则市吉隆县遭受泥石流灾害作出重要指示
 http://www.mod.gov.cn/gfbw/qwfb/16481712.html
   2026年8月国防部例行记者会文字实录
+http://www.mod.gov.cn/gfbw/qwfb/16482052.html
+  解放军和武警部队官兵持续奋战在西藏吉隆救援一线
 http://www.mod.gov.cn/gfbw/qwfb/16481616.html
   第十三届北京香山论坛将在北京国际会议中心举办
 http://www.mod.gov.cn/gfbw/qwfb/16481625.html
   中东（帝汶）、中印尼将进一步深化防务合作
-http://www.mod.gov.cn/gfbw/qwfb/16481745.html
-  解放军和武警部队官兵奋战西藏吉隆救援一线
 http://www.mod.gov.cn/gfbw/qwfb/16481640.html
   新时代征兵工作更加阳光透明
 http://www.mod.gov.cn/gfbw/jswj/16474858.html
@@ -390,14 +400,14 @@ http://www.mod.gov.cn/gfbw/gffw/16478518.html
   国防部征兵办公室印发征兵工作人员职业道德准则
 http://www.mod.gov.cn/gfbw/gffw/16475448.html
   三部门联合下发通知要求做好"八一"期间拥军优属拥政爱民工作
-http://www.mod.gov.cn/gfbw/fgwx/16441582.html
-  新版《军队卫生监督规定》出台
+http://www.mod.gov.cn/gfbw/fgwx/16482045.html
+  中华人民共和国国防动员法
+http://www.mod.gov.cn/gfbw/fgwx/16482016.html
+  全国人大常委会表决通过新修订的国防动员法
 http://www.mod.gov.cn/gfbw/fgwx/16448582.html
   中华人民共和国民族团结进步促进法
 http://www.mod.gov.cn/gfbw/fgwx/16444625.html
   中央军委政治工作部等6部门联合印发《关于做好边远艰苦地区和大龄未婚官兵婚恋服务工作的意见》
-http://www.mod.gov.cn/gfbw/fgwx/16441583.html
-  中央军委印发新修订的《军队党组织实施党纪处分批准权限和程序规定》
 http://www.mod.gov.cn/gfbw/jmsd/index.html
   军媒视点
 http://www.mod.gov.cn/gfbw/jmsd/16479740.html
@@ -520,7 +530,7 @@ http://www.mod.gov.cn/template/tenant207/t179/img/jfjcc.jpg
 http://www.mod.gov.cn/template/tenant207/t179/img/jfjbcbs.png
 http://www.mod.gov.cn/template/tenant207/t179/img/weibo.jpg
 http://www.mod.gov.cn/gfbw/gffw/_attachment/2026/06/23/16469120_2c1b5255a439fe6918704199b50df0e3.jpg
-http://www.mod.gov.cn/gfbw/fgwx/_attachment/2026/02/07/16441582_2675c7960d7157fd7be6af9aa92de8c4.jpg
+http://www.mod.gov.cn/gfbw/fgwx/_attachment/2026/08/29/16482045_39fe87031f5e43b702cd40c766cbb855.jpg
 http://www.mod.gov.cn/gfbw/jmsd/_attachment/2024/05/03/16479740_fcc63f9d3c23f59e44389284e2a65ae6.jpeg
 http://www.mod.gov.cn/gfbw/gfdy/_attachment/2026/08/16/16479634_9a2dcdda9d92d470a6dea05811517aa3.jpg
 http://www.mod.gov.cn/gfbw/gfjy_index/_attachment/2026/08/22/16480732_5988db2ec07581479190aaca3be00ab3.jpg

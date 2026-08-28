@@ -1,5 +1,5 @@
 Strategic RSS Collector Status
-Generated: 2026-08-28 11:40:27 UTC
+Generated: 2026-08-28 22:33:51 UTC
 
 Status meanings:
 OK = Feed contains one or more items
@@ -11,7 +11,7 @@ FAILED = Source could not be retrieved
   Start URL: https://www.mod.gov.cn/
   Resolved URL: http://www.mod.gov.cn/
   HTTP: 200
-  Links discovered: 240
+  Links discovered: 245
   Candidate links/items: 50
   Attempted items/articles: 12
   Items/articles with text: 12
@@ -27,7 +27,7 @@ FAILED = Source could not be retrieved
   Start URL: http://www.81.cn/?big=jian
   Resolved URL: http://www.81.cn/?big=jian
   HTTP: 200
-  Links discovered: 530
+  Links discovered: 536
   Candidate links/items: 50
   Attempted items/articles: 12
   Items/articles with text: 12
@@ -71,7 +71,7 @@ FAILED = Source could not be retrieved
   Start URL: https://www.mod.gov.cn/gfbw/fgwx/bps/index.html
   Resolved URL: http://www.mod.gov.cn/gfbw/fgwx/bps/index.html
   HTTP: 200
-  Links discovered: 178
+  Links discovered: 183
   Candidate links/items: 28
   Attempted items/articles: 12
   Items/articles with text: 12
@@ -87,7 +87,7 @@ FAILED = Source could not be retrieved
   Start URL: https://www.mod.gov.cn/gfbw/fgwx/flfg/index.html
   Resolved URL: http://www.mod.gov.cn/gfbw/fgwx/flfg/index.html
   HTTP: 200
-  Links discovered: 171
+  Links discovered: 176
   Candidate links/items: 31
   Attempted items/articles: 12
   Items/articles with text: 12
@@ -135,10 +135,10 @@ FAILED = Source could not be retrieved
   Start URL: https://t.me/s/MFARussia
   Resolved URL: https://t.me/s/MFARussia
   HTTP: 200
-  Attempted items/articles: 10
-  Items/articles with text: 10
-  Items/articles with dates: 10
-  RSS feed items: 10
+  Attempted items/articles: 11
+  Items/articles with text: 11
+  Items/articles with dates: 11
+  RSS feed items: 11
   SSL verification: ON
   Request timeout: 20s
   Max retries: 2

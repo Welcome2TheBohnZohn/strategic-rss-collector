@@ -6,7 +6,7 @@ Include regex: /gfbw/fgwx/bps/
 Include text regex: 
 
 Candidate links: 28
-All links discovered: 178
+All links discovered: 183
 
 === MATCHED CANDIDATES ===
 
@@ -299,10 +299,20 @@ http://www.mod.gov.cn/gfbw/qwfb/16481903.html
   习近平就尼泊尔遭受泥石流灾害向尼泊尔总统鲍德尔致慰问电
 http://www.mod.gov.cn/gfbw/qwfb/16481979.html
   国家主席习近平任免驻外大使
+http://www.mod.gov.cn/gfbw/qwfb/16482002.html
+  中华人民共和国主席令第80号
+http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16481969.html
+  第81号
+http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16481970.html
+  第82号
+http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16481972.html
+  第83号
+http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16481975.html
+  第84号
+http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16481977.html
+  第85号
 http://www.mod.gov.cn/gfbw/qwfb/16481892.html
   陈武同志遗体在京火化 习近平等到八宝山革命公墓送别
-http://www.mod.gov.cn/gfbw/qwfb/16481414.html
-  习近平对西藏日喀则市吉隆县遭受泥石流灾害作出重要指示
 http://www.mod.gov.cn/gfbw/spbb_214126/16477140.html
   何为承诺
 http://www.mod.gov.cn/gfbw/spbb_214126/16477755.html

@@ -713,7 +713,7 @@ Fig.
 Test results in condition of emission power 144 kW, plasma turned on
 下载:
 全尺寸图片
-(66)
+(67)
 表
 1
 氩等离子体内部碰撞反应方程及类型
@@ -891,9 +891,9 @@ LI Zhigang, QIU Zhinan, WANG Jiachun, et al. Study of high-power microwave prote
 Copy
 计量
 文章访问量:
-28816
+28817
 HTML全文浏览量:
-3522
+3524
 PDF下载量:
 9898
 被引次数:
@@ -967,7 +967,7 @@ HE W, LIU X H, XIAN R C,et al. Kinetics characteristics and bremsstrahlung of ar
 扫码关注
 官方微信
 您是今天第
-12150
+4832
 位访客
 总访问量：
 245949704
