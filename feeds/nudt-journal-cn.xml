@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>National University of Defense Technology Journal</title><link>https://journal.nudt.edu.cn/</link><description>Generated RSS feed for National University of Defense Technology Journal</description><language>zh-CN</language><lastBuildDate>Fri, 28 Aug 2026 22:30:00 +0000</lastBuildDate><item><title>多核数字信号处理器矩阵乘卷积算法性能评测</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/202301009?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/202301009?tab=abstract</guid><pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate><description>(1. 国防科技大学 计算机学院, 湖南 长沙 410073;2. 国防科技大学 并行与分布处理国防科技重点实验室, 湖南 长沙 410073)
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>National University of Defense Technology Journal</title><link>https://journal.nudt.edu.cn/</link><description>Generated RSS feed for National University of Defense Technology Journal</description><language>zh-CN</language><lastBuildDate>Sat, 29 Aug 2026 07:16:10 +0000</lastBuildDate><item><title>多核数字信号处理器矩阵乘卷积算法性能评测</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/202301009?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/202301009?tab=abstract</guid><pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate><description>(1. 国防科技大学 计算机学院, 湖南 长沙 410073;2. 国防科技大学 并行与分布处理国防科技重点实验室, 湖南 长沙 410073)
 
 王庆林(1987—),男,贵州思南人,副研究员,博士,硕士生导师,E-mail:wangqinglin_thu@163.com; 裴向东(通信作者),男,山西长治人,博士研究生,E-mail:18903588277@163.com
 
@@ -25,7 +25,15 @@ For the demand of structural enhancement and backwards compatibility of modern B
 
 For the demand of structural enhancement and backwards compatibility of modern BDS navigation signal which is represented by the pilot channel, BDS has proposed several new constant envelope modulations recently, including QMBOC and ADualQPSK modulations applied to B1 band, TD-AltBOC and ACE-BOC modulations applied to B2 band, DualQPSK modulation applied to B3 band, GCE-BOC modulation that multiplexes arbitrary signals at two different carrier frequencies. All the new modulations were systematically analyzed and a unified analytical expression of constant envelope modulation and multiplexing was summarized on the basis of the GCE-BOC modulation, which can provide an important reference for the comprehensive understanding of the signal design of the BDS global navigation satellite system and the development of new type of constant envelope modulation and multiplexing technology on this basis.
 
-朱祥维,黄新明,宿晨庚,等.北斗全球系统导航信号恒包络调制和复用技术[J].国防科技大学学报,2017,39(5):6-13. ZHU Xiangwei, HUANG Xinming, SU Chengeng, et al. Constant envelope modulation and multiplexing technologies for BDS global navigation signals[J]. Journal of National University of Defense Technology,2017,39(5):6-13.&lt;/pre&gt;</content:encoded></item><item><title>高超声速飞行器滑翔制导方法综述</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201703003?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201703003?tab=abstract</guid><pubDate>Sun, 10 Jan 2016 00:00:00 +0000</pubDate><description>阐明高超声速飞行器滑翔制导的基本问题，分析滑翔制导过程面临的复杂多约束、机动任务要求、参数扰动等研究难点；分别就国内外标准轨迹制导方法和预测-校正制导方法相关研究现状展开综述，指出了这两类方法中存在的问题。在此基础上，提出高超声速飞行器滑翔制导研究中亟待解决的关键问题，并指出未来滑翔制导方法的研究热点。
+朱祥维,黄新明,宿晨庚,等.北斗全球系统导航信号恒包络调制和复用技术[J].国防科技大学学报,2017,39(5):6-13. ZHU Xiangwei, HUANG Xinming, SU Chengeng, et al. Constant envelope modulation and multiplexing technologies for BDS global navigation signals[J]. Journal of National University of Defense Technology,2017,39(5):6-13.&lt;/pre&gt;</content:encoded></item><item><title>多传感器信息融合理论在无人机相对导航中的应用</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201705015?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201705015?tab=abstract</guid><pubDate>Mon, 20 Jun 2016 00:00:00 +0000</pubDate><description>为提升无人机的作战效能和作战指标，提升无人机的相对导航精度和导航系统可靠性，以无人机编队的相对导航系统为研究背景，基于容积卡尔曼滤波算法和信息滤波算法，研究容积信息滤波算法。此外，还采用多传感器信息融合理论，利用分布式信息融合结构构建了无人机相对导航滤波器，对来自惯导、视觉和卫星的信息进行融合，获取无人机间的相对位置、速度和姿态信息。该方法提升了无人机相对导航的导航精度、导航可靠性和滤波稳定性，容积信息滤波算法的应用避免了传统滤波算法在高维系统中出现的数值不稳定以及精度降低等问题。数学仿真结果表明，该方法提高了无人机编队之间相对导航的精度和可靠性，证明了算法的有效性。
+
+In order to improve the operational effectiveness and operational indicators of the UAV (unmanned aerial vehicle), and to enhance the accuracy and reliability of the UAV relative navigation system, a novel relative navigation method was proposed. Under the background of relative navigation system, the cubature information filter based on the cubature Kalman filter and information filter was studied. Moreover, an INS/GPS/VisNav relative navigation filter was designed by making use of the multi-sensor information fusion theory and distributed information fusion structure to fuse the information from INS, VisNav and GPS, and then the relative position, velocity and attitude were obtained. By making use of this algorithm, the accuracy, reliability and stability of the reliability navigation system were all improved. In addition, the accuracy decrease and numerical instability which often occur to traditional filter were avoided by cubature information filter. Mathematical simulation results indicate that the method can improve the accuracy and reliability of the UAV relative navigation system, and the proposed algorithm is verified.
+
+金红新,杨涛,王小刚,等.多传感器信息融合理论在无人机相对导航中的应用[J].国防科技大学学报,2017,39(5):90-9</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201705015?tab=abstract&lt;/p&gt;&lt;pre&gt;为提升无人机的作战效能和作战指标，提升无人机的相对导航精度和导航系统可靠性，以无人机编队的相对导航系统为研究背景，基于容积卡尔曼滤波算法和信息滤波算法，研究容积信息滤波算法。此外，还采用多传感器信息融合理论，利用分布式信息融合结构构建了无人机相对导航滤波器，对来自惯导、视觉和卫星的信息进行融合，获取无人机间的相对位置、速度和姿态信息。该方法提升了无人机相对导航的导航精度、导航可靠性和滤波稳定性，容积信息滤波算法的应用避免了传统滤波算法在高维系统中出现的数值不稳定以及精度降低等问题。数学仿真结果表明，该方法提高了无人机编队之间相对导航的精度和可靠性，证明了算法的有效性。
+
+In order to improve the operational effectiveness and operational indicators of the UAV (unmanned aerial vehicle), and to enhance the accuracy and reliability of the UAV relative navigation system, a novel relative navigation method was proposed. Under the background of relative navigation system, the cubature information filter based on the cubature Kalman filter and information filter was studied. Moreover, an INS/GPS/VisNav relative navigation filter was designed by making use of the multi-sensor information fusion theory and distributed information fusion structure to fuse the information from INS, VisNav and GPS, and then the relative position, velocity and attitude were obtained. By making use of this algorithm, the accuracy, reliability and stability of the reliability navigation system were all improved. In addition, the accuracy decrease and numerical instability which often occur to traditional filter were avoided by cubature information filter. Mathematical simulation results indicate that the method can improve the accuracy and reliability of the UAV relative navigation system, and the proposed algorithm is verified.
+
+金红新,杨涛,王小刚,等.多传感器信息融合理论在无人机相对导航中的应用[J].国防科技大学学报,2017,39(5):90-95. JIN Hongxin, YANG Tao, WANG Xiaogang, et al. Application of multisensor information fusion in UAV relative navigation method[J]. Journal of National University of Defense Technology,2017,39(5):90-95.&lt;/pre&gt;</content:encoded></item><item><title>高超声速飞行器滑翔制导方法综述</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201703003?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201703003?tab=abstract</guid><pubDate>Sun, 10 Jan 2016 00:00:00 +0000</pubDate><description>阐明高超声速飞行器滑翔制导的基本问题，分析滑翔制导过程面临的复杂多约束、机动任务要求、参数扰动等研究难点；分别就国内外标准轨迹制导方法和预测-校正制导方法相关研究现状展开综述，指出了这两类方法中存在的问题。在此基础上，提出高超声速飞行器滑翔制导研究中亟待解决的关键问题，并指出未来滑翔制导方法的研究热点。
 
 The basic problem of gliding guidance for hypersonic vehicles was proposed, and the difficulties of complicated multiple constraints, maneuver requirements, and parameter perturbation in the course of gliding guidance were analyzed. The corresponding research status at home and abroad was surveyed, and the problems were also pointed out. On this basis, the key problems required to be solved at present in the research of gliding guidance for hypersonic vehicles were presented, and the research hotspots in the methods of future gliding guidance were also pointed out. 
 
@@ -45,15 +53,7 @@ To reduce remote cache transfer latency and improve the performance of shared me
 
 To reduce remote cache transfer latency and improve the performance of shared memory systems, a new last-write-touch prediction scheme that exploits the inherent write characteristics of a program is proposed and a directory protocol to support the scheme is adapted. By predicting a last-write-touch and self downgrading a cache block in advance, a processor can get the data from the memory directly and one network hop can be saved for a remote cache access. Compared with the existing instruction-based prediction technique, much storage overhead can be reduced. Experimental results show that it can achieve an average prediction accuracy of 83.1%, leading to improvements up to average 8.57% on the final application performance. Moreover, compared with the instruction-based prediction scheme, the scheme can reduce the storage overheads of the history table by 69% and the storage overheads of the signature table by 36%.
 
-夏军,徐炜遐,庞征斌,等.用于减少远程Cache访问延迟的最后一次写访问预测方法[J].国防科技大学学报,2015,37(1):14-20. XIA Jun, XU Weixia, PANG Zhengbin, et al. A last-write-touch prediction scheme used to reduce remote Cache miss latency[J]. Journal of National University of Defense Technology,2015,37(1):14-20.&lt;/pre&gt;</content:encoded></item><item><title>用光测图像确定空间目标俯仰角和偏航角的中轴线法</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/200002004?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/200002004?tab=abstract</guid><pubDate>Mon, 18 Nov 2013 00:00:00 +0000</pubDate><description>提出了一种用电影经纬仪等光测设备获得的图像确定火箭等空间轴对称目标的俯仰角和偏航角的新方法——中轴线法; 并对此方法进行了误差分析。此方法利用了目标图像上的大量信息, 测量精度高。采用了间接的方法提取目标的中轴线, 避免了多相机目标匹配的问题。
-
-A new method for measurement of the pitching angle and yaw angle of an axes-symmetric object through the optical images is presented, and the accuracy of the method is analyzed. This method is highly accurate because a large amount of information of the object image is used. The difficulty of object matching among several images is avoided since the object's axis is measured in an indirect way.
-
-于起峰,孙祥一,陈国军.用光测图像确定空间目标俯仰角和偏航角的中轴线法[J].国防科技大学学报,2000,22(2):15-19. YU Qifeng, SUN Xiangyi, CHEN Guojun. A New Method of Measure the Pitching and Yaw of the Axes Symmetry Object through the Optical Image[J]. Journal of National University of Defense Technology,2000,22(2):15-19.</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/200002004?tab=abstract&lt;/p&gt;&lt;pre&gt;提出了一种用电影经纬仪等光测设备获得的图像确定火箭等空间轴对称目标的俯仰角和偏航角的新方法——中轴线法; 并对此方法进行了误差分析。此方法利用了目标图像上的大量信息, 测量精度高。采用了间接的方法提取目标的中轴线, 避免了多相机目标匹配的问题。
-
-A new method for measurement of the pitching angle and yaw angle of an axes-symmetric object through the optical images is presented, and the accuracy of the method is analyzed. This method is highly accurate because a large amount of information of the object image is used. The difficulty of object matching among several images is avoided since the object&amp;#x27;s axis is measured in an indirect way.
-
-于起峰,孙祥一,陈国军.用光测图像确定空间目标俯仰角和偏航角的中轴线法[J].国防科技大学学报,2000,22(2):15-19. YU Qifeng, SUN Xiangyi, CHEN Guojun. A New Method of Measure the Pitching and Yaw of the Axes Symmetry Object through the Optical Image[J]. Journal of National University of Defense Technology,2000,22(2):15-19.&lt;/pre&gt;</content:encoded></item><item><title>基于用户相关反馈的排序学习算法研究</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201302024?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201302024?tab=abstract</guid><pubDate>Mon, 20 Aug 2012 00:00:00 +0000</pubDate><description>在信息检索中，系统需要根据用户查询将文档按照相似度大小进行排序，吸引了众多信息检索和机器学习领域研究者的眼球，并形成了诸多排序算法模型。然而并未考虑到查询短语与文档构成的特征对与用户相关反馈之间存在的同质性。在机器学习算法基础上，通过提取训练样本的主要特征进行有效聚类，并结合用户的相关反馈获取各个类中相关度判断的置信值，形成相似度判定模型，应用该模型来对测试样本进行相关度排序。算法对LETOR数据集进行了测试，实验表明，信息检索性能指标比其他排序算法有了进一步提高，并且无需复杂的数据预处理工作和手动设定算法参数。
+夏军,徐炜遐,庞征斌,等.用于减少远程Cache访问延迟的最后一次写访问预测方法[J].国防科技大学学报,2015,37(1):14-20. XIA Jun, XU Weixia, PANG Zhengbin, et al. A last-write-touch prediction scheme used to reduce remote Cache miss latency[J]. Journal of National University of Defense Technology,2015,37(1):14-20.&lt;/pre&gt;</content:encoded></item><item><title>基于用户相关反馈的排序学习算法研究</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201302024?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201302024?tab=abstract</guid><pubDate>Mon, 20 Aug 2012 00:00:00 +0000</pubDate><description>在信息检索中，系统需要根据用户查询将文档按照相似度大小进行排序，吸引了众多信息检索和机器学习领域研究者的眼球，并形成了诸多排序算法模型。然而并未考虑到查询短语与文档构成的特征对与用户相关反馈之间存在的同质性。在机器学习算法基础上，通过提取训练样本的主要特征进行有效聚类，并结合用户的相关反馈获取各个类中相关度判断的置信值，形成相似度判定模型，应用该模型来对测试样本进行相关度排序。算法对LETOR数据集进行了测试，实验表明，信息检索性能指标比其他排序算法有了进一步提高，并且无需复杂的数据预处理工作和手动设定算法参数。
 
 Many information retrieval applications have to present their results in the form of ranked lists, in which documents must be sorted in a descending order according to their relevance to a given query. This has led the interest of the information retrieval community in methods that automatically learn effective ranking models, and recently machine learning techniques have also been applied to model construction. Most of the existing methods do not take into consideration the fact that significant homogeneity exists between query-document pairs related to user’s feedback. In this research, a novel method which clusters patterns in the training data with their relevance from the user, and then uses the discovered rules to rank documents at query-time. A systematic evaluation of the proposed method using the LETOR benchmark dataset is posposed. The experimental results show that the proposed method outperforms the state-of-the-art methods with no need of time-consuming and laborious pre-processing.
 
@@ -1038,9 +1038,9 @@ LI Zhigang, QIU Zhinan, WANG Jiachun, et al. Study of high-power microwave prote
 Copy
 计量
 文章访问量:
-28817
+28823
 HTML全文浏览量:
-3524
+3528
 PDF下载量:
 9898
 被引次数:
@@ -1114,10 +1114,10 @@ HE W, LIU X H, XIAN R C,et al. Kinetics characteristics and bremsstrahlung of ar
 扫码关注
 官方微信
 您是今天第
-4832
+12374
 位访客
 总访问量：
-245949704
+253744728
 电话：
 0731-87028030
 邮箱:journal@nudt.edu.cn
@@ -2378,11 +2378,11 @@ LUO H, ZHAO S K, ZHAO N, et al. Review of reconfiguration methods for modular se
 Copy
 计量
 文章访问量:
-472
+474
 HTML全文浏览量:
-338
+340
 PDF下载量:
-1016
+1017
 被引次数:
 0
 图
