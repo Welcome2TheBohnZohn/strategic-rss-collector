@@ -10,8 +10,6 @@ All links discovered: 245
 
 === MATCHED CANDIDATES ===
 
-http://www.mod.gov.cn/gfbw/qwfb/16482052.html
-  解放军和武警部队官兵持续奋战在西藏吉隆救援一线
 http://www.mod.gov.cn/gfbw/fgwx/16482016.html
   全国人大常委会表决通过新修订的国防动员法
 http://www.mod.gov.cn/gfbw/wzll/16482095.html
@@ -60,6 +58,8 @@ http://www.mod.gov.cn/gfbw/tp_214132/16475831.html
   凌云出击！东部战区空军航空兵某旅开展空战对抗训练
 http://www.mod.gov.cn/gfbw/jsxd/16475312.html
   中国海军“吉祥方舟”号医院船首次赴海外执行任务
+http://www.mod.gov.cn/gfbw/qwfb/16482181.html
+  解放军和武警部队官兵持续投入西藏吉隆抢险救援
 http://www.mod.gov.cn/gfbw/qwfb/16481616.html
   第十三届北京香山论坛将在北京国际会议中心举办
 http://www.mod.gov.cn/gfbw/jsxd/16481085.html
@@ -333,8 +333,8 @@ http://www.mod.gov.cn/gfbw/qwfb/16481892.html
   陈武同志遗体在京火化 习近平等到八宝山革命公墓送别
 http://www.mod.gov.cn/gfbw/qwfb/16481712.html
   2026年8月国防部例行记者会文字实录
-http://www.mod.gov.cn/gfbw/qwfb/16482052.html
-  解放军和武警部队官兵持续奋战在西藏吉隆救援一线
+http://www.mod.gov.cn/gfbw/qwfb/16482181.html
+  解放军和武警部队官兵持续投入西藏吉隆抢险救援
 http://www.mod.gov.cn/gfbw/qwfb/16481616.html
   第十三届北京香山论坛将在北京国际会议中心举办
 http://www.mod.gov.cn/gfbw/qwfb/16481625.html
