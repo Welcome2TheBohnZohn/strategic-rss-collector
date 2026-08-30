@@ -6,7 +6,7 @@ Include regex: /gfbw/fgwx/bps/
 Include text regex: 
 
 Candidate links: 28
-All links discovered: 183
+All links discovered: 178
 
 === MATCHED CANDIDATES ===
 
@@ -293,26 +293,16 @@ http://www.mod.gov.cn/gfbw/fgwx/bps/4850789.html
   《平等 发展 共享：新中国70年妇女事业的发展与进步》白皮书发表 2019-09-20 10:34
 http://www.mod.gov.cn/gfbw/fgwx/bps/4846424.html
   《新时代的中国国防》白皮书（全文） 2019-07-24 11:24
+http://www.mod.gov.cn/gfbw/qwfb/16481899.html
+  习近平在吉尔吉斯斯坦媒体发表署名文章
+http://www.mod.gov.cn/gfbw/qwfb/16482301.html
+  习近平抵达吉尔吉斯斯坦比什凯克玛纳斯国际机场发表书面讲话
 http://www.mod.gov.cn/gfbw/qwfb/16481912.html
   习近平主持中共中央政治局会议 研究部署西藏日喀则市吉隆县泥石流灾害抢险救援工作
 http://www.mod.gov.cn/gfbw/qwfb/16481903.html
   习近平就尼泊尔遭受泥石流灾害向尼泊尔总统鲍德尔致慰问电
 http://www.mod.gov.cn/gfbw/qwfb/16481979.html
   国家主席习近平任免驻外大使
-http://www.mod.gov.cn/gfbw/qwfb/16482002.html
-  中华人民共和国主席令第80号
-http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16481969.html
-  第81号
-http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16481970.html
-  第82号
-http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16481972.html
-  第83号
-http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16481975.html
-  第84号
-http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16481977.html
-  第85号
-http://www.mod.gov.cn/gfbw/qwfb/16481892.html
-  陈武同志遗体在京火化 习近平等到八宝山革命公墓送别
 http://www.mod.gov.cn/gfbw/spbb_214126/16477140.html
   何为承诺
 http://www.mod.gov.cn/gfbw/spbb_214126/16477755.html

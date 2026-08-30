@@ -1,5 +1,5 @@
 Strategic RSS Collector Status
-Generated: 2026-08-30 05:39:49 UTC
+Generated: 2026-08-30 12:09:22 UTC
 
 Status meanings:
 OK = Feed contains one or more items
@@ -71,7 +71,7 @@ FAILED = Source could not be retrieved
   Start URL: https://www.mod.gov.cn/gfbw/fgwx/bps/index.html
   Resolved URL: http://www.mod.gov.cn/gfbw/fgwx/bps/index.html
   HTTP: 200
-  Links discovered: 183
+  Links discovered: 178
   Candidate links/items: 28
   Attempted items/articles: 12
   Items/articles with text: 12
@@ -87,7 +87,7 @@ FAILED = Source could not be retrieved
   Start URL: https://www.mod.gov.cn/gfbw/fgwx/flfg/index.html
   Resolved URL: http://www.mod.gov.cn/gfbw/fgwx/flfg/index.html
   HTTP: 200
-  Links discovered: 176
+  Links discovered: 171
   Candidate links/items: 31
   Attempted items/articles: 12
   Items/articles with text: 12
@@ -135,7 +135,7 @@ FAILED = Source could not be retrieved
   Start URL: https://t.me/s/MFARussia
   Resolved URL: https://t.me/s/MFARussia
   HTTP: 200
-  Attempted items/articles: 13
+  Attempted items/articles: 14
   Items/articles with text: 12
   Items/articles with dates: 12
   RSS feed items: 12
@@ -236,22 +236,21 @@ FAILED = Source could not be retrieved
   Max retries: 1
   Retry backoff: 1s
 
-[FAILED] plap-cn - PLA Military Procurement Network
+[OK] plap-cn - PLA Military Procurement Network
   Source type: browser
   Start URL: http://www.plap.mil.cn/
-  Resolved URL: http://www.plap.mil.cn/
-  HTTP: None
-  Links discovered: 0
-  Candidate links/items: 0
-  Attempted items/articles: 0
-  Items/articles with text: 0
-  Items/articles with dates: 0
-  RSS feed items: 0
+  Resolved URL: https://www.plap.mil.cn/
+  HTTP: 200
+  Links discovered: 243
+  Candidate links/items: 50
+  Attempted items/articles: 12
+  Items/articles with text: 12
+  Items/articles with dates: 12
+  RSS feed items: 12
   SSL verification: OFF
   Request timeout: 12s
   Max retries: 1
   Retry backoff: 1s
-  Error: http://www.plap.mil.cn/ -> HTTP 502 | http://www.plap.mil.cn/ -> HTTP 502 | https://www.plap.mil.cn/ -> HTTP 502 | https://www.plap.mil.cn/ -> HTTP 502
 
 [OK] china-defense-news-cn - China National Defense News
   Source type: newspaper
@@ -350,7 +349,7 @@ FAILED = Source could not be retrieved
   Retry backoff: 1s
 
 SUMMARY
-Working: 21
+Working: 22
 Fetched but no items: 0
-Failed: 1
+Failed: 0
 Total sources: 22
