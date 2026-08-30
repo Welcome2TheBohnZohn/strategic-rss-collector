@@ -1,99 +1,87 @@
 {
-  "issue_date": "2026-08-28",
+  "issue_date": "2026-08-31",
   "issue_pages": [
     {
       "paper_number": "01",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-08-28&paperName=zggfb&paperNumber=01",
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-08-31&paperName=zggfb&paperNumber=01",
       "links": 71,
-      "article_links": 4
+      "article_links": 3
     },
     {
       "paper_number": "02",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-08-28&paperName=zggfb&paperNumber=02",
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-08-31&paperName=zggfb&paperNumber=02",
       "links": 73,
       "article_links": 4
     },
     {
       "paper_number": "03",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-08-28&paperName=zggfb&paperNumber=03",
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-08-31&paperName=zggfb&paperNumber=03",
       "links": 71,
-      "article_links": 5
+      "article_links": 4
     },
     {
       "paper_number": "04",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-08-28&paperName=zggfb&paperNumber=04",
-      "links": 69,
-      "article_links": 4
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-08-31&paperName=zggfb&paperNumber=04",
+      "links": 67,
+      "article_links": 3
     }
   ],
   "candidates": [
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-08-28&paperNumber=01&articleid=985486",
-      "anchor_title": "赤水河畔的红色回响"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-08-31&paperNumber=01&articleid=985637",
+      "anchor_title": "乌蒙磅礴万象新"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-08-28&paperNumber=01&articleid=985485",
-      "anchor_title": "“接过爸爸的枪，为祖国站岗”"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-08-31&paperNumber=01&articleid=985636",
+      "anchor_title": "“小课堂”温暖“大后方”"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-08-28&paperNumber=01&articleid=985487",
-      "anchor_title": "羊城街头驶来“双拥先锋号”"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-08-31&paperNumber=01&articleid=985639",
+      "anchor_title": "军嫂身边有个“帮帮团”"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-08-28&paperNumber=01&articleid=985489",
-      "anchor_title": "打造优质海训场地"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-08-31&paperNumber=02&articleid=985646",
+      "anchor_title": "徒骇河畔燃起“红色星火”"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-08-28&paperNumber=02&articleid=985491",
-      "anchor_title": "青山传唱红军谣"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-08-31&paperNumber=02&articleid=985647",
+      "anchor_title": "“当年要是有这个设备就好了”"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-08-28&paperNumber=02&articleid=985490",
-      "anchor_title": "“爸爸，我终于找到你”"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-08-31&paperNumber=02&articleid=985651",
+      "anchor_title": "标准讲清楚 解开心中结"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-08-28&paperNumber=02&articleid=985493",
-      "anchor_title": "跟班轮训 补齐短板"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-08-31&paperNumber=02&articleid=985649",
+      "anchor_title": "启 事"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-08-28&paperNumber=02&articleid=985494",
-      "anchor_title": "“哪里群众有需要就奔赴哪里”"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-08-31&paperNumber=03&articleid=985641",
+      "anchor_title": "少年逐梦书写“国防答卷”"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-08-28&paperNumber=03&articleid=985480",
-      "anchor_title": "遵义城头赤帜竖"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-08-31&paperNumber=03&articleid=985642",
+      "anchor_title": "当我登上开山岛"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-08-28&paperNumber=03&articleid=985481",
-      "anchor_title": "长征路上（组诗）"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-08-31&paperNumber=03&articleid=985643",
+      "anchor_title": "见证女儿的成长"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-08-28&paperNumber=03&articleid=985482",
-      "anchor_title": "与风相约"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-08-31&paperNumber=03&articleid=985644",
+      "anchor_title": "一个人的防空洞"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-08-28&paperNumber=03&articleid=985483",
-      "anchor_title": "红都瑞金"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-08-31&paperNumber=04&articleid=985653",
+      "anchor_title": "借势北约，波兰地缘权重日显"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-08-28&paperNumber=03&articleid=985484",
-      "anchor_title": "明月照故乡"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-08-31&paperNumber=04&articleid=985652",
+      "anchor_title": "美拟扩充多管火箭炮弹药产能"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-08-28&paperNumber=04&articleid=985496",
-      "anchor_title": "军演“缩水”凸显美韩两国分歧"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-08-28&paperNumber=04&articleid=985497",
-      "anchor_title": "防务资讯"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-08-28&paperNumber=04&articleid=985499",
-      "anchor_title": "日澳防务合作加速“同盟化”"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-08-28&paperNumber=04&articleid=985498",
-      "anchor_title": "萨博展示无人战机概念模型"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-08-31&paperNumber=04&articleid=985654",
+      "anchor_title": "塞浦路斯酝酿升级装甲部队"
     }
   ]
 }
