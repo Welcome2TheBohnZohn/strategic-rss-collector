@@ -1,62 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Sat, 29 Aug 2026 21:08:01 +0000</lastBuildDate><item><title>CNNVD-2026-52050033 - WordPress Booking and Rental Manager 反序列化注入漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-52050033</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-52050033</guid><pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate><description>WordPress Booking and Rental Manager 反序列化注入漏洞
-危害等级: 高危
-收录时间：2026-08-27 | 更新时间: 2026-08-28 16:02:50
-CNNVD编号: CNNVD-2026-52050033</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-52050033&lt;/p&gt;&lt;pre&gt;WordPress Booking and Rental Manager 反序列化注入漏洞
-危害等级: 高危
-收录时间：2026-08-27 | 更新时间: 2026-08-28 16:02:50
-CNNVD编号: CNNVD-2026-52050033&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-24253970 - Unitree G1 EDU 路径遍历漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-24253970</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-24253970</guid><pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate><description>Unitree G1 EDU 路径遍历漏洞
-危害等级: 高危
-收录时间：2026-08-27 | 更新时间: 2026-08-28 16:02:51
-CNNVD编号: CNNVD-2026-24253970</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-24253970&lt;/p&gt;&lt;pre&gt;Unitree G1 EDU 路径遍历漏洞
-危害等级: 高危
-收录时间：2026-08-27 | 更新时间: 2026-08-28 16:02:51
-CNNVD编号: CNNVD-2026-24253970&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-92992549 - WIBU-SYSTEMS CodeMeter Runtime 权限许可和访问控制问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-92992549</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-92992549</guid><pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate><description>WIBU-SYSTEMS CodeMeter Runtime 权限许可和访问控制问题漏洞
-危害等级: 高危
-收录时间：2026-08-27 | 更新时间: 2026-08-28 16:01:43
-CNNVD编号: CNNVD-2026-92992549</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-92992549&lt;/p&gt;&lt;pre&gt;WIBU-SYSTEMS CodeMeter Runtime 权限许可和访问控制问题漏洞
-危害等级: 高危
-收录时间：2026-08-27 | 更新时间: 2026-08-28 16:01:43
-CNNVD编号: CNNVD-2026-92992549&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-69771509 - WIBU-SYSTEMS CodeMeter Runtime 格式化字符串错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-69771509</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-69771509</guid><pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate><description>WIBU-SYSTEMS CodeMeter Runtime 格式化字符串错误漏洞
-危害等级: 高危
-收录时间：2026-08-27 | 更新时间: 2026-08-28 16:01:43
-CNNVD编号: CNNVD-2026-69771509</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-69771509&lt;/p&gt;&lt;pre&gt;WIBU-SYSTEMS CodeMeter Runtime 格式化字符串错误漏洞
-危害等级: 高危
-收录时间：2026-08-27 | 更新时间: 2026-08-28 16:01:43
-CNNVD编号: CNNVD-2026-69771509&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-87056496 - WIBU-SYSTEMS WibuKey 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-87056496</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-87056496</guid><pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate><description>WIBU-SYSTEMS WibuKey 缓冲区错误漏洞
-危害等级: 高危
-收录时间：2026-08-27 | 更新时间: 2026-08-28 16:01:41
-CNNVD编号: CNNVD-2026-87056496</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-87056496&lt;/p&gt;&lt;pre&gt;WIBU-SYSTEMS WibuKey 缓冲区错误漏洞
-危害等级: 高危
-收录时间：2026-08-27 | 更新时间: 2026-08-28 16:01:41
-CNNVD编号: CNNVD-2026-87056496&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-91790475 - WIBU-SYSTEMS CodeMeter Runtime 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-91790475</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-91790475</guid><pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate><description>WIBU-SYSTEMS CodeMeter Runtime 授权问题漏洞
-危害等级: 高危
-收录时间：2026-08-27 | 更新时间: 2026-08-28 16:01:42
-CNNVD编号: CNNVD-2026-91790475</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-91790475&lt;/p&gt;&lt;pre&gt;WIBU-SYSTEMS CodeMeter Runtime 授权问题漏洞
-危害等级: 高危
-收录时间：2026-08-27 | 更新时间: 2026-08-28 16:01:42
-CNNVD编号: CNNVD-2026-91790475&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-27111772 - WWBN AVideo 服务端请求伪造漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-27111772</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-27111772</guid><pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate><description>WWBN AVideo 服务端请求伪造漏洞
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Sun, 30 Aug 2026 05:39:49 +0000</lastBuildDate><item><title>CNNVD-2026-84956994 - flowintel 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-84956994</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-84956994</guid><pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate><description>flowintel 授权问题漏洞
 危害等级: 中危
-收录时间：2026-08-27 | 更新时间: 2026-08-28 16:01:38
-CNNVD编号: CNNVD-2026-27111772</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-27111772&lt;/p&gt;&lt;pre&gt;WWBN AVideo 服务端请求伪造漏洞
+收录时间：2026-08-27 | 更新时间: 2026-08-28 16:06:20
+CNNVD编号: CNNVD-2026-84956994</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-84956994&lt;/p&gt;&lt;pre&gt;flowintel 授权问题漏洞
 危害等级: 中危
-收录时间：2026-08-27 | 更新时间: 2026-08-28 16:01:38
-CNNVD编号: CNNVD-2026-27111772&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-43385653 - WordPress Realtyna Organic IDX plugin 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-43385653</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-43385653</guid><pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate><description>WordPress Realtyna Organic IDX plugin 跨站脚本漏洞
+收录时间：2026-08-27 | 更新时间: 2026-08-28 16:06:20
+CNNVD编号: CNNVD-2026-84956994&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-97132472 - flowintel 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-97132472</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-97132472</guid><pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate><description>flowintel 授权问题漏洞
 危害等级: 高危
-收录时间：2026-08-27 | 更新时间: 2026-08-28 16:02:50
-CNNVD编号: CNNVD-2026-43385653</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-43385653&lt;/p&gt;&lt;pre&gt;WordPress Realtyna Organic IDX plugin 跨站脚本漏洞
+收录时间：2026-08-27 | 更新时间: 2026-08-28 16:06:20
+CNNVD编号: CNNVD-2026-97132472</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-97132472&lt;/p&gt;&lt;pre&gt;flowintel 授权问题漏洞
 危害等级: 高危
-收录时间：2026-08-27 | 更新时间: 2026-08-28 16:02:50
-CNNVD编号: CNNVD-2026-43385653&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-47683006 - OpenFaaS 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-47683006</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-47683006</guid><pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate><description>OpenFaaS 授权问题漏洞
+收录时间：2026-08-27 | 更新时间: 2026-08-28 16:06:20
+CNNVD编号: CNNVD-2026-97132472&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-74311773 - Natural Language Toolkit 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-74311773</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-74311773</guid><pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate><description>Natural Language Toolkit 资源管理错误漏洞
 危害等级: 中危
-收录时间：2026-08-27 | 更新时间: 2026-08-28 16:01:39
-CNNVD编号: CNNVD-2026-47683006</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-47683006&lt;/p&gt;&lt;pre&gt;OpenFaaS 授权问题漏洞
+收录时间：2026-08-27 | 更新时间: 2026-08-28 16:06:20
+CNNVD编号: CNNVD-2026-74311773</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-74311773&lt;/p&gt;&lt;pre&gt;Natural Language Toolkit 资源管理错误漏洞
 危害等级: 中危
-收录时间：2026-08-27 | 更新时间: 2026-08-28 16:01:39
-CNNVD编号: CNNVD-2026-47683006&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-33974209 - WordPress FluentBoards Pro 反序列化注入漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-33974209</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-33974209</guid><pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate><description>WordPress FluentBoards Pro 反序列化注入漏洞
+收录时间：2026-08-27 | 更新时间: 2026-08-28 16:06:20
+CNNVD编号: CNNVD-2026-74311773&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-83968243 - GNOME gdk-pixbuf 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-83968243</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-83968243</guid><pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate><description>GNOME gdk-pixbuf 缓冲区错误漏洞
+危害等级: 中危
+收录时间：2026-08-27 | 更新时间: 2026-08-28 16:06:13
+CNNVD编号: CNNVD-2026-83968243</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-83968243&lt;/p&gt;&lt;pre&gt;GNOME gdk-pixbuf 缓冲区错误漏洞
+危害等级: 中危
+收录时间：2026-08-27 | 更新时间: 2026-08-28 16:06:13
+CNNVD编号: CNNVD-2026-83968243&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-14160910 - Roomote Roo Code 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-14160910</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-14160910</guid><pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate><description>Roomote Roo Code 输入验证错误漏洞
+危害等级: 低危
+收录时间：2026-08-27 | 更新时间: 2026-08-28 16:06:13
+CNNVD编号: CNNVD-2026-14160910</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-14160910&lt;/p&gt;&lt;pre&gt;Roomote Roo Code 输入验证错误漏洞
+危害等级: 低危
+收录时间：2026-08-27 | 更新时间: 2026-08-28 16:06:13
+CNNVD编号: CNNVD-2026-14160910&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-83558464 - flowintel 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-83558464</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-83558464</guid><pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate><description>flowintel 输入验证错误漏洞
+危害等级: 中危
+收录时间：2026-08-27 | 更新时间: 2026-08-28 16:06:14
+CNNVD编号: CNNVD-2026-83558464</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-83558464&lt;/p&gt;&lt;pre&gt;flowintel 输入验证错误漏洞
+危害等级: 中危
+收录时间：2026-08-27 | 更新时间: 2026-08-28 16:06:14
+CNNVD编号: CNNVD-2026-83558464&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-64953761 - flowintel 会话机制问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-64953761</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-64953761</guid><pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate><description>flowintel 会话机制问题漏洞
+危害等级: 超危
+收录时间：2026-08-27 | 更新时间: 2026-08-28 16:06:14
+CNNVD编号: CNNVD-2026-64953761</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-64953761&lt;/p&gt;&lt;pre&gt;flowintel 会话机制问题漏洞
+危害等级: 超危
+收录时间：2026-08-27 | 更新时间: 2026-08-28 16:06:14
+CNNVD编号: CNNVD-2026-64953761&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-24372786 - WordPress WP w3all phpBB 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-24372786</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-24372786</guid><pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate><description>WordPress WP w3all phpBB 跨站脚本漏洞
 危害等级: 高危
-收录时间：2026-08-27 | 更新时间: 2026-08-28 16:02:49
-CNNVD编号: CNNVD-2026-33974209</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-33974209&lt;/p&gt;&lt;pre&gt;WordPress FluentBoards Pro 反序列化注入漏洞
+收录时间：2026-08-27 | 更新时间: 2026-08-28 16:05:36
+CNNVD编号: CNNVD-2026-24372786</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-24372786&lt;/p&gt;&lt;pre&gt;WordPress WP w3all phpBB 跨站脚本漏洞
 危害等级: 高危
-收录时间：2026-08-27 | 更新时间: 2026-08-28 16:02:49
-CNNVD编号: CNNVD-2026-33974209&lt;/pre&gt;</content:encoded></item></channel></rss>
+收录时间：2026-08-27 | 更新时间: 2026-08-28 16:05:36
+CNNVD编号: CNNVD-2026-24372786&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-23456573 - WordPress CP Media Player 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-23456573</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-23456573</guid><pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate><description>WordPress CP Media Player 跨站脚本漏洞
+危害等级: 高危
+收录时间：2026-08-27 | 更新时间: 2026-08-28 16:05:36
+CNNVD编号: CNNVD-2026-23456573</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-23456573&lt;/p&gt;&lt;pre&gt;WordPress CP Media Player 跨站脚本漏洞
+危害等级: 高危
+收录时间：2026-08-27 | 更新时间: 2026-08-28 16:05:36
+CNNVD编号: CNNVD-2026-23456573&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-11423760 - roskus Prospero Flow CRM 任意文件上传漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-11423760</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-11423760</guid><pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate><description>roskus Prospero Flow CRM 任意文件上传漏洞
+危害等级: 中危
+收录时间：2026-08-27 | 更新时间: 2026-08-28 16:06:12
+CNNVD编号: CNNVD-2026-11423760</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-11423760&lt;/p&gt;&lt;pre&gt;roskus Prospero Flow CRM 任意文件上传漏洞
+危害等级: 中危
+收录时间：2026-08-27 | 更新时间: 2026-08-28 16:06:12
+CNNVD编号: CNNVD-2026-11423760&lt;/pre&gt;</content:encoded></item></channel></rss>
