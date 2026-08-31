@@ -6,7 +6,7 @@ Include regex: 81\.cn/.+/(content|article|index).*|81\.cn/.*\d{6,}
 Include text regex: 
 
 Candidate links: 50
-All links discovered: 531
+All links discovered: 532
 
 === MATCHED CANDIDATES ===
 
@@ -16,6 +16,8 @@ http://www.81.cn/wj_208604/16477968.html
   从传统的集体安全共同体，向利益绑定的交易型联盟转变——“北约3.0”架构加速形成
 http://www.81.cn/jw_208551/16448544.html
   中央军委办公厅发出通知要求解放军和武警部队 传达学习十四届全国人大四次会议精神
+http://www.81.cn/yw_208727/16482622.html
+  中华人民共和国和吉尔吉斯共和国关于高质量发展新时代全面战略伙伴关系的联合宣言
 http://www.81.cn/bg_208596/16480520.html
   “深山寒哨”变“钢铁前哨”，“六张网”让战士们守边更有底气、巡逻执勤更有干劲
 http://www.81.cn/tp_207717/jdt_207718/16482373.html
@@ -108,8 +110,6 @@ http://www.81.cn/hj_208557/jdt_208558/16480614.html
   并肩练应急，看这两个单位开展联合训练锤炼卫勤保障能力
 http://www.81.cn/pl_208541/jdt_208542/16481607.html
   漫评丨只说“终战”不提罪愆，日本右翼一直寄生在谎言中
-http://www.81.cn/tp_207717/16481471.html
-  万水千山只等闲之强渡乌江——长征中的军事地理解读之三
 
 === ALL DISCOVERED LINKS ===
 
@@ -248,16 +248,18 @@ http://www.81.cn/zt/2024nzt/dqzjcyxggpy/index.html
 http://www.81.cn/zt/2026nzt/wlbjx/index.html
 https://www.xuexi.cn/
 http://www.81.cn/xxqj_207719/index.html
-http://www.81.cn/jwtt/16482563.html
+http://www.81.cn/jwtt/16482585.html
   习近平会见俄罗斯总统普京
-http://www.81.cn/yw_208727/16482548.html
+http://www.81.cn/yw_208727/16482581.html
   习近平会见蒙古国总统呼日勒苏赫
-http://www.81.cn/yw_208727/16482530.html
+http://www.81.cn/yw_208727/16482576.html
   习近平会见乌兹别克斯坦总统米尔济约耶夫
 http://www.81.cn/yw_208727/16482463.html
   习近平同吉尔吉斯斯坦总统扎帕罗夫会谈
 http://www.81.cn/yw_208727/16482417.html
   习近平出席扎帕罗夫举行的欢迎仪式
+http://www.81.cn/yw_208727/16482628.html
+  习近平在埃及媒体发表署名文章
 http://www.81.cn/yw_208727/16482434.html
   埃及各界期待习近平主席对埃进行国事访问
 http://www.81.cn/yw_208727/16482447.html
@@ -266,44 +268,46 @@ http://www.81.cn/yw_208727/16482457.html
   《坚持落实管党治党政治责任》
 http://www.81.cn/yw_208727/16482350.html
   人民子弟兵持续奋战在吉隆抢险一线 全力抢通救援通道、妥善安置受灾群众
+http://www.81.cn/yw_208727/16482622.html
+  中华人民共和国和吉尔吉斯共和国关于高质量发展新时代全面战略伙伴关系的联合宣言
+http://www.81.cn/yw_208727/16482604.html
+  中华人民共和国和吉尔吉斯共和国永久睦邻友好合作条约
+http://www.81.cn/yw_208727/16482588.html
+  解放军和武警部队官兵持续坚守西藏吉隆抢险救援一线
 http://www.81.cn/yw_208727/16482346.html
   正确政绩观 践行在军营丨七年落子一盘“棋”
 http://www.81.cn/yw_208727/16482349.html
   “强军胜战·奋斗有我”巡回报告首场报告会在京举行
+http://www.81.cn/yw_208727/16482347.html
+  强军论坛丨以理论创新推动我军高质量发展
 http://www.81.cn/yw_208727/16482348.html
   信息支援部队某部集中淬火锻造教育管理骨干队伍
 http://www.81.cn/yw_208727/16482354.html
   军营观察丨督导检查：不能只“督”不“导”
 http://www.81.cn/yw_208727/16482358.html
   深化政治整训·一线见闻丨一次军士选晋的导向之变
-http://www.81.cn/yw_208727/16482347.html
-  强军论坛丨以理论创新推动我军高质量发展
 http://www.81.cn/yw_208727/16482520.html
   冲锋不止的科研尖兵
 http://www.81.cn/yw_208727/16482452.html
   驻港部队官兵与香港社会各界代表共同瞻仰香港抗日英烈纪念碑
 http://www.81.cn/yw_208727/16482361.html
   少“拍脑门”多“沉下去”，湖南衡阳警备区督导机关干部端正工作作风
-http://www.81.cn/yw_208727/16482359.html
-  政治建军专刊·淬火要论丨政治工作威信威力从何而来
-http://www.81.cn/yw_208727/16482352.html
-  全国青少年国防素养大赛总决赛侧记
-http://www.81.cn/yw_208727/16482353.html
-  一个人的防空洞：回忆父亲守护地下国防工事的40年
+http://www.81.cn/syjdt/16482590.html
+  图讯丨习近平会见俄罗斯总统普京
+http://www.81.cn/syjdt/16482592.html
+  图讯丨习近平会见蒙古国总统呼日勒苏赫
+http://www.81.cn/syjdt/16482594.html
+  图讯丨习近平会见乌兹别克斯坦总统米尔济约耶夫
 http://www.81.cn/syjdt/16482490.html
   图讯丨习近平同吉尔吉斯斯坦总统扎帕罗夫会谈
-http://www.81.cn/syjdt/16482325.html
-  习近平抵达比什凯克
-http://www.81.cn/syjdt/16482432.html
-  高清大图丨扎帕罗夫总统为习近平举行欢迎仪式
 http://www.81.cn/syjdt/16482537.html
   彭丽媛同吉尔吉斯斯坦总统扎帕罗夫夫人扎帕罗娃参观吉尔吉斯共和国国家历史博物馆
 http://www.81.cn/syjdt/16482214.html
   身教重于言传，那些他藏在日常里的红色家风
 http://www.81.cn/syjdt/16482110.html
   胜利的方向丨错位时空里，当少年遇见少年
-http://www.81.cn/syjdt/16482092.html
-  任务官兵争分夺秒全力救援
+http://www.81.cn/xx_207779/16482624.html
+  第一观察·瞬间｜永久的友好近邻　真诚的合作伙伴
 http://www.81.cn/xx_207779/16482575.html
   时政Vlog丨在比什凯克和谐宫见证中吉合作
 http://www.81.cn/xx_207779/16482574.html
@@ -316,8 +320,6 @@ http://www.81.cn/xx_207779/16482437.html
   近镜头丨习近平主席到访 吉总统举行盛大欢迎仪式
 http://www.81.cn/xx_207779/16482398.html
   习近平主席署名文章深深打动吉尔吉斯斯坦民众
-http://www.81.cn/xx_207779/16482391.html
-  时政新闻眼丨习近平开启亚非之行，这些细节值得关注
 http://tv.81.cn/jbmtd_211970/16482401.html
 https://weibo.com/jfjb
 http://www.81.cn/byds_206407/byds_206410/16481554.html
@@ -332,6 +334,8 @@ http://www.81.cn/byds_206407/byds_206410/16478606.html
   主播说国防丨画皮之下的阴谋
 http://www.81.cn/byds_206407/byds_206410/16478520.html
   奋楫之“陆”丨第五集《斩无影》
+http://www.81.cn/fyr/16482578.html
+  外交部：中方同尼方就人员搜救等保持顺畅沟通
 http://www.81.cn/fyr/16482533.html
   外交部介绍亚太经合组织第三次高官会成果
 http://www.81.cn/fyr/16482528.html
@@ -352,8 +356,14 @@ http://www.81.cn/fyr/16481675.html
   国防部：菲方应尽快拖走非法“坐滩”的57号舰
 http://www.81.cn/fyr/16481662.html
   国防部：国际社会应切实认清日本右翼势力危险图谋
-http://www.81.cn/fyr/16481647.html
-  新时代征兵工作更加阳光透明
+http://www.81.cn/ss_208539/16482617.html
+  2026年《开学第一课》聚焦“我们的长征路”主题
+http://www.81.cn/ss_208539/16482615.html
+  沙土巴三国举行共同防务协议首次委员会会议
+http://www.81.cn/ss_208539/16482614.html
+  特写：“困难再大，日子也要过下去”
+http://www.81.cn/ss_208539/16482587.html
+  两部门对福建启动防汛防台风四级应急响应
 http://www.81.cn/ss_208539/16482572.html
   抗日航空史实陈列展在澳门展出
 http://www.81.cn/ss_208539/16482571.html
@@ -368,14 +378,6 @@ http://www.81.cn/ss_208539/16482551.html
   王沪宁会见奥地利国民议会议长罗森克兰茨
 http://www.81.cn/ss_208539/16482547.html
   石泰峰：学好用好《习近平党建文选》
-http://www.81.cn/ss_208539/16482542.html
-  张庆伟会见密克罗尼西亚联邦国会议长摩西斯
-http://www.81.cn/ss_208539/16482540.html
-  刘海星会见奥地利国民议会议长罗森克兰茨
-http://www.81.cn/ss_208539/16482512.html
-  丁薛祥将赴俄罗斯出席第十一届东方经济论坛
-http://www.81.cn/ss_208539/16482486.html
-  2026上合组织国家人文交流活动在比什凯克举行
 http://www.81.cn/zt/2023nzt/xxgcxjpxsdzgtsshzysxztjy/index.html
 http://www.81.cn/zt/2023nzt/flsxjjbnmbjkjcsjyljd/index.html
 http://www.81.cn/bz_208549/jdt_208550/16482150.html
@@ -584,6 +586,8 @@ http://www.81.cn/ll_208543/16478511.html
   政治干部要当好深化政治整训的表率
 http://www.81.cn/pl_208541/jdt_208542/16481607.html
   漫评丨只说“终战”不提罪愆，日本右翼一直寄生在谎言中
+http://www.81.cn/pl_208541/16482580.html
+  新华时评丨中埃是携手发展共同繁荣的好伙伴
 http://www.81.cn/pl_208541/16482483.html
   社评：中吉友谊沿“上合快轨”驶入“黄金期”
 http://www.81.cn/pl_208541/16482446.html
@@ -592,8 +596,6 @@ http://www.81.cn/pl_208541/16482387.html
   金观平：用好规划这台“导航仪”
 http://www.81.cn/pl_208541/16482269.html
   钧正平：这支队伍何以在重重包围中，孤军千里，向党而行？
-http://www.81.cn/pl_208541/16482394.html
-  八一锐评｜增强“时时放心不下”的政治责任感
 http://www.81.cn/wh_208575/jdt_208576/16480768.html
   中国第24批赴黎维和部队向当地机构捐赠人道主义物资
 http://www.81.cn/wh_208575/16481754.html
@@ -606,18 +608,18 @@ http://www.81.cn/wh_208575/16477230.html
   36年来，他们一直在为世界和平贡献中国力量
 http://www.81.cn/wh_208575/16477212.html
   为了和平的使命——记中国驻南苏丹维和部队忠诚履职
-http://www.81.cn/js_208592/jdt_208593/16481559.html
-  今天，一起致敬千里跃进大别山的英雄壮举！
+http://www.81.cn/js_208592/jdt_208593/16482627.html
+  百年荣光・我见证｜一张旧报上的十七个名字
 http://www.81.cn/js_208592/16482372.html
   钧正平：如果当年苟坝的那盏马灯没有亮起，中国的历史可能被改写
-http://www.81.cn/js_208592/16482411.html
-  百年荣光・我见证｜一张旧报上的十七个名字
 http://www.81.cn/js_208592/16481773.html
   走进贵州省四渡赤水战役旧址——赤水河畔的红色回响
 http://www.81.cn/js_208592/16481600.html
   没有后方、没有补给，12万大军如何千里跃进大别山？
 http://www.81.cn/js_208592/16481564.html
   一纸布告聚民心
+http://www.81.cn/js_208592/16481563.html
+  纪念中国工农红军长征胜利90周年丨一城红韵 满目光华
 http://www.81.cn/wh_208594/jdt_208595/16480294.html
   铁血丹青丨马灯长明照征程
 http://www.81.cn/wh_208594/16481384.html
@@ -827,10 +829,12 @@ http://www.81.cn/js_208585/16475738.html
   姥爷坚定、有力的脚步声给了他前行的力量
 http://www.81.cn/js_208585/16475730.html
   千里奔赴的深情，落进边关的风里也落进两个人共同的守候里
-http://eng.chinamil.com.cn/2025xb/H_251454/F_251457/16482323.html
-  Xi says China-Kyrgyzstan cooperation entering "golden period" of rapid development
-http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16482449.html
-  Xi says China ready to work with Kyrgyzstan to enhance alignment of development strategies
+http://eng.chinamil.com.cn/2025xb/H_251454/F_251457/16482618.html
+  Xi expects stronger foundation, brighter future for China-Russia ties
+http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16482596.html
+  Xi, Japarov chart new course for China-Kyrgyzstan ties
+http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16482598.html
+  Xi expects stronger foundation, brighter future for China-Russia ties
 http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16482541.html
   3rd Chinese Peacekeeping Quick Reaction Force to Abyei passes UN equipment inspection
 http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16482284.html
@@ -839,8 +843,6 @@ http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16482273.html
   China Coast Guard patrols Huangyan Dao
 http://eng.chinamil.com.cn/2025xb/M_251449/V_251467/16482177.html
   Rescue Ramps up near Mudslide-stricken Gyirong Port in SW China's Xizang
-http://eng.chinamil.com.cn/2025xb/M_251449/V_251467/16481954.html
-  Military Rescue Team Approaches Mudslide-hit Gyirong Port in SW China's Xizang
 http://eng.chinamil.com.cn/2025xb/B/16482523.html
   Long-range Rocket Artillery Troops Conduct Live-fire Exercise
 http://eng.chinamil.com.cn/2025xb/B/16482529.html
@@ -965,13 +967,13 @@ http://www.81.cn/zt/sytj/_attachment/2024/07/01/16320548_39951b88bfbca27c04f8973
 http://www.81.cn/zt/sytj/_attachment/2026/08/19/16480218_018e94f4d9e9b13d8941825dcc1cc8e6.jpg
 http://www.81.cn/wzsy/Banner_207703/ztyc/_attachment/2020/03/03/9757973_0800279e7f7f1fc839f401.jpg
 http://www.81.cn/template/tenant207/t1774/img/xxqj.jpg
+http://www.81.cn/syjdt/_attachment/2026/08/31/16482590_25837db725675828c96662ffb2fad580.jpg
+http://www.81.cn/syjdt/_attachment/2026/08/31/16482592_53ba4ebec97b57abbe8a8c98ddf264a3.jpg
+http://www.81.cn/syjdt/_attachment/2026/08/31/16482594_c0ef8b4d9b7f9a7386d8930bbb9b9f35.jpg
 http://www.81.cn/syjdt/_attachment/2026/08/31/16482490_ceaa748519b651870b95166362c4223b.jpg
-http://www.81.cn/syjdt/_attachment/2026/08/30/16482325_05be5628bcc03a451af888a3bd282b6d.jpg
-http://www.81.cn/syjdt/_attachment/2026/08/31/16482432_d0f3fea1f871f50cefc79f9b028de342.jpg
 http://www.81.cn/syjdt/_attachment/2026/08/31/16482537_a17579aa9c0e6a5dd70d3700be6c0a47.jpg
 http://www.81.cn/syjdt/_attachment/2026/08/29/16482214_520c9cdca9b62a3c01d87d9ed00a608b.jpg
 http://www.81.cn/syjdt/_attachment/2026/08/29/16482110_7d76f84223ca9c0b44b71161ca4e0b11.jpg
-http://www.81.cn/syjdt/_attachment/2026/08/29/16482092_7729c1b7e83cc9c86c0f18b3caf4d5bc.jpg
 http://www.81.cn/template/tenant207/t1774/img/brief.jpg
 http://www.plapic.com.cn/jfjhb/wqhg/_attachment/2026/08/07/16478243_0f95d232beea9a014576eccd5abfcb78.jpg
 http://www.81.cn/template/tenant207/t1774/img/gfb.jpg
@@ -1018,7 +1020,7 @@ http://www.81.cn/wzsy/Banner_207703/lje/_attachment/2023/04/19/16218178_3b48f432
 http://www.81.cn/ll_208543/jdt_208544/_attachment/2026/05/20/16462484_0742a3d94ea178cc792be56b7c2acf12.jpg
 http://www.81.cn/pl_208541/jdt_208542/_attachment/2026/08/27/16481607_25144fc4c44b59cbdd0e93fefbb637e5.jpg
 http://www.81.cn/wh_208575/jdt_208576/_attachment/2026/08/22/16480768_3705c4deb1d52489da8be86d1525f3bf.png
-http://www.81.cn/js_208592/jdt_208593/_attachment/2026/08/27/16481559_2ad40d39ab0fdff27d69358a577f200f.jpg
+http://www.81.cn/js_208592/jdt_208593/_attachment/2026/08/31/16482627_13038cec5a6e3bfa15bd7a40e1391025.jpg
 http://www.81.cn/wh_208594/jdt_208595/_attachment/2026/08/20/16480294_ed6b752b16ea09922df7890e48af7147.jpg
 http://www.81.cn/yd_208600/jdt_208601/_attachment/2026/08/24/16481019_eee4d1726412b21b24316f4547f42c6a.jpg
 http://www.81.cn/tp_207717/jdt_207718/_attachment/2026/08/28/16482373_dcbbb5ea670b78b291cb8ea29260b97f.jpg
@@ -1039,7 +1041,7 @@ http://www.81.cn/wj_208604/jdt_208605/_attachment/2026/07/10/16472973_7b13b521e9
 http://www.81.cn/jy_208587/jdt_208588/_attachment/2026/08/31/16482510_089ed1797ef7b4da19b1b432b3fcbe6e.jpg
 http://www.81.cn/lb_208583/jdt_208584/_attachment/2026/08/20/16480295_c78afcb0ae3c79613b9069e1285ab6a1.jpg
 http://www.81.cn/js_208585/jdt_208586/_attachment/2026/05/26/16469323_1259bdded6780f0acacbf574df89b3e3.jpg
-http://www.81.cn/ChinaMilitary/tjtw/_attachment/2026/08/30/16482327_5b2f8f1fecbe3b0f1fa8ee7fa2a512d4.jpg
+http://www.81.cn/ChinaMilitary/tjtw/_attachment/2026/08/31/16482620_98435499ce94bbdc173ebdeddc2a5f3a.jpg
 http://mail.chinamil.com.cn/
 http://www.81.cn/template/tenant207/t829/css/footer.css
 http://www.81.cn/template/tenant207/t1774/js/javascript.js?v=3.0.3
