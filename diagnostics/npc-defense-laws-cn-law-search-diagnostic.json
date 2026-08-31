@@ -109,7 +109,7 @@
       },
       "error": "",
       "rows": 100,
-      "total": 729,
+      "total": 734,
       "matches": 2
     },
     {
@@ -150,7 +150,7 @@
       },
       "error": "",
       "rows": 100,
-      "total": 729,
+      "total": 734,
       "matches": 9
     },
     {
@@ -191,8 +191,8 @@
       },
       "error": "",
       "rows": 100,
-      "total": 729,
-      "matches": 3
+      "total": 734,
+      "matches": 4
     },
     {
       "category": "法律",
@@ -232,7 +232,7 @@
       },
       "error": "",
       "rows": 100,
-      "total": 729,
+      "total": 734,
       "matches": 3
     },
     {
@@ -273,8 +273,8 @@
       },
       "error": "",
       "rows": 100,
-      "total": 729,
-      "matches": 6
+      "total": 734,
+      "matches": 5
     },
     {
       "category": "法律",
@@ -314,8 +314,8 @@
       },
       "error": "",
       "rows": 100,
-      "total": 729,
-      "matches": 5
+      "total": 734,
+      "matches": 6
     },
     {
       "category": "法律",
@@ -355,7 +355,7 @@
       },
       "error": "",
       "rows": 100,
-      "total": 729,
+      "total": 734,
       "matches": 2
     },
     {
@@ -395,8 +395,8 @@
         "pageSize": 100
       },
       "error": "",
-      "rows": 29,
-      "total": 729,
+      "rows": 34,
+      "total": 734,
       "matches": 2
     },
     {
@@ -671,6 +671,25 @@
     }
   ],
   "matched_records": [
+    {
+      "bbbs": "7d951fed0e964a509d223ebd47af0f5a",
+      "title": "中华人民共和国国防动员法",
+      "gbrq": "2026-08-28",
+      "sxrq": "2026-10-01",
+      "sxx": 4,
+      "zdjgName": "全国人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "法律",
+      "zdjgCodeId": 110,
+      "flfgCodeId": 130,
+      "titleHightLightList": [
+        {
+          "value": "中华人民共和国国防动员法",
+          "highLight": false
+        }
+      ],
+      "score": 0.0
+    },
     {
       "bbbs": "ff8081819f12cdb7019f20e2bce8514c",
       "title": "退役军人就业创业促进条例",

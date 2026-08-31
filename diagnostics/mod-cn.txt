@@ -6,7 +6,7 @@ Include regex: /gfbw/|/xwfyr/|/wzll/
 Include text regex: 
 
 Candidate links: 50
-All links discovered: 240
+All links discovered: 241
 
 === MATCHED CANDIDATES ===
 
@@ -20,12 +20,12 @@ http://www.mod.gov.cn/gfbw/fgwx/16444625.html
   中央军委政治工作部等6部门联合印发《关于做好边远艰苦地区和大龄未婚官兵婚恋服务工作的意见》
 http://www.mod.gov.cn/gfbw/qwfb/16481912.html
   习近平主持中共中央政治局会议 研究部署西藏日喀则市吉隆县泥石流灾害抢险救援工作
+http://www.mod.gov.cn/gfbw/sy/rt/16482538.html
+  彭丽媛同吉尔吉斯斯坦总统扎帕罗夫夫人扎帕罗娃参观吉尔吉斯共和国国家历史博物馆
 http://www.mod.gov.cn/gfbw/jsxd/16480104.html
   执行“和谐使命-2026”任务的海军“吉祥方舟”号医院船官兵迎接中国医师节
 http://www.mod.gov.cn/gfbw/gfjy_index/16481170.html
   让思政课“入耳”更“入心”——湖北省军区探索新时代思想政治教育新路径纪事
-http://www.mod.gov.cn/gfbw/sy/rt/16479804.html
-  纪念江泽民同志诞辰100周年大会隆重举行 习近平出席大会并发表重要讲话
 http://www.mod.gov.cn/gfbw/gffw/16475448.html
   三部门联合下发通知要求做好"八一"期间拥军优属拥政爱民工作
 http://www.mod.gov.cn/gfbw/gffw/16469120.html
@@ -42,22 +42,18 @@ http://www.mod.gov.cn/gfbw/tp_214132/16472263.html
   那一排排看似单薄的身躯，正是守护祖国和人民坚实的防线
 http://www.mod.gov.cn/gfbw/tp_214132/16473226.html
   振翅远航！空军航空兵某团官兵驾驭“鲲鹏”奋飞新时代
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16482430.html
-  国家主席习近平同吉尔吉斯斯坦总统扎帕罗夫举行会谈
 http://www.mod.gov.cn/gfbw/jsxd/16480355.html
   中国船舶“艾琳娜”轮致信感谢海军第48批护航编队
 http://www.mod.gov.cn/gfbw/jmsd/16482396.html
   读原著 学原文 悟原理丨在鉴往知来中提升履职本领
 http://www.mod.gov.cn/gfbw/tp_214132/16475831.html
   凌云出击！东部战区空军航空兵某旅开展空战对抗训练
-http://www.mod.gov.cn/gfbw/qwfb/16481630.html
-  中泰“鹰击-2026”空军联训深化两军务实合作
 http://www.mod.gov.cn/gfbw/jsxd/16475312.html
   中国海军“吉祥方舟”号医院船首次赴海外执行任务
+http://www.mod.gov.cn/gfbw/qwfb/16482443.html
+  习近平同吉尔吉斯斯坦总统扎帕罗夫出席签字仪式
 http://www.mod.gov.cn/gfbw/qwfb/16481616.html
   第十三届北京香山论坛将在北京国际会议中心举办
-http://www.mod.gov.cn/gfbw/qwfb/16481638.html
-  国防部介绍中白“神鹰-2026”空军联训情况
 http://www.mod.gov.cn/gfbw/wzll/16482383.html
   信息支援部队某部集中淬火锻造教育管理骨干队伍
 http://www.mod.gov.cn/gfbw/jsxd/16481085.html
@@ -66,6 +62,8 @@ http://www.mod.gov.cn/gfbw/xwfyr/16481666.html
   第十三届北京香山论坛将在北京国际会议中心举办
 http://www.mod.gov.cn/gfbw/gffw/16478518.html
   国防部征兵办公室印发征兵工作人员职业道德准则
+http://www.mod.gov.cn/gfbw/sy/rt/16482491.html
+  图讯丨习近平同吉尔吉斯斯坦总统扎帕罗夫会谈
 http://www.mod.gov.cn/gfbw/sy/rt/16482433.html
   高清大图丨扎帕罗夫总统为习近平举行欢迎仪式
 http://www.mod.gov.cn/gfbw/jswj/16479884.html
@@ -96,10 +94,12 @@ http://www.mod.gov.cn/gfbw/jmsd/16482395.html
   思想战线丨推动全党不断提高思想理论水平
 http://www.mod.gov.cn/gfbw/gfjy_index/16480956.html
   国防视野丨来自暑期军事夏令营的一组见闻
+http://www.mod.gov.cn/gfbw/qwfb/16482464.html
+  习近平同吉尔吉斯斯坦总统扎帕罗夫会谈
+http://www.mod.gov.cn/gfbw/qwfb/16482448.html
+  《求是》杂志发表习近平总书记重要文章
 http://www.mod.gov.cn/gfbw/qwfb/16481899.html
   习近平在吉尔吉斯斯坦媒体发表署名文章
-http://www.mod.gov.cn/gfbw/sy/rt/16476331.html
-  习近平同斯洛伐克总统佩列格里尼会谈
 http://www.mod.gov.cn/gfbw/jswj/16474858.html
   越南海军“陈兴道”号护卫舰访问广州
 http://www.mod.gov.cn/gfbw/jswj/16475665.html
@@ -108,8 +108,8 @@ http://www.mod.gov.cn/gfbw/sy/jt_214028/16480356.html
   海军某勤务船大队开展海上搜救训练
 http://www.mod.gov.cn/gfbw/sy/rt/16481053.html
   习近平同约旦国王阿卜杜拉二世会谈
-http://www.mod.gov.cn/gfbw/qwfb/16482431.html
-  习近平出席扎帕罗夫举行的欢迎仪式
+http://www.mod.gov.cn/gfbw/fgwx/16448582.html
+  中华人民共和国民族团结进步促进法
 
 === ALL DISCOVERED LINKS ===
 
@@ -299,38 +299,40 @@ http://www.mod.gov.cn/gfbw/sy/jt_214028/16480356.html
   海军某勤务船大队开展海上搜救训练
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16479769.html
   海军某支队开展训练
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16482430.html
-  国家主席习近平同吉尔吉斯斯坦总统扎帕罗夫举行会谈
+http://www.mod.gov.cn/gfbw/sy/tt_214026/16482564.html
+  习近平会见俄罗斯总统普京
+http://www.mod.gov.cn/gfbw/sy/rt/16482491.html
+  图讯丨习近平同吉尔吉斯斯坦总统扎帕罗夫会谈
 http://www.mod.gov.cn/gfbw/sy/rt/16482326.html
   习近平抵达比什凯克
 http://www.mod.gov.cn/gfbw/sy/rt/16482433.html
   高清大图丨扎帕罗夫总统为习近平举行欢迎仪式
 http://www.mod.gov.cn/gfbw/sy/rt/16481053.html
   习近平同约旦国王阿卜杜拉二世会谈
-http://www.mod.gov.cn/gfbw/sy/rt/16479804.html
-  纪念江泽民同志诞辰100周年大会隆重举行 习近平出席大会并发表重要讲话
-http://www.mod.gov.cn/gfbw/sy/rt/16476331.html
-  习近平同斯洛伐克总统佩列格里尼会谈
-http://www.mod.gov.cn/gfbw/qwfb/16482431.html
-  习近平出席扎帕罗夫举行的欢迎仪式
+http://www.mod.gov.cn/gfbw/sy/rt/16482538.html
+  彭丽媛同吉尔吉斯斯坦总统扎帕罗夫夫人扎帕罗娃参观吉尔吉斯共和国国家历史博物馆
+http://www.mod.gov.cn/gfbw/qwfb/16482464.html
+  习近平同吉尔吉斯斯坦总统扎帕罗夫会谈
+http://www.mod.gov.cn/gfbw/qwfb/16482443.html
+  习近平同吉尔吉斯斯坦总统扎帕罗夫出席签字仪式
+http://www.mod.gov.cn/gfbw/qwfb/16482448.html
+  《求是》杂志发表习近平总书记重要文章
+http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16482458.html
+  《坚持落实管党治党政治责任》
 http://www.mod.gov.cn/gfbw/qwfb/16481899.html
   习近平在吉尔吉斯斯坦媒体发表署名文章
 http://www.mod.gov.cn/gfbw/qwfb/16481912.html
   习近平主持中共中央政治局会议 研究部署西藏日喀则市吉隆县泥石流灾害抢险救援工作
+http://www.mod.gov.cn/gfbw/qwfb/16481712.html
+  2026年8月国防部例行记者会文字实录
 http://www.mod.gov.cn/gfbw/qwfb/16482317.html
   人民子弟兵持续奋战在西藏吉隆抢险救援一线
 http://www.mod.gov.cn/gfbw/qwfb/16481616.html
   第十三届北京香山论坛将在北京国际会议中心举办
-http://www.mod.gov.cn/gfbw/qwfb/16481712.html
-  2026年8月国防部例行记者会文字实录
 http://www.mod.gov.cn/gfbw/qwfb/16481625.html
   中东（帝汶）、中印尼将进一步深化防务合作
 http://www.mod.gov.cn/gfbw/qwfb/16481640.html
   新时代征兵工作更加阳光透明
-http://www.mod.gov.cn/gfbw/qwfb/16481630.html
-  中泰“鹰击-2026”空军联训深化两军务实合作
-http://www.mod.gov.cn/gfbw/qwfb/16481638.html
-  国防部介绍中白“神鹰-2026”空军联训情况
 http://www.mod.gov.cn/gfbw/jswj/16474858.html
   越南海军“陈兴道”号护卫舰访问广州
 http://www.mod.gov.cn/gfbw/jswj/16479884.html
@@ -500,11 +502,11 @@ http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/08/21/16480490_e2f81552
 http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/08/20/16480331_edb0268bba5002c77ebc1e8b97e1308c.jpg
 http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/08/20/16480356_44ef8bda1b1f67f6e7350f94f2e4977e.jpg
 http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/08/17/16479769_2a8bb00776301d6ccf3f5a24c9257af4.jpg
+http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/08/31/16482491_ceaa748519b651870b95166362c4223b.jpg
 http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/08/30/16482326_05be5628bcc03a451af888a3bd282b6d.jpg
 http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/08/31/16482433_d0f3fea1f871f50cefc79f9b028de342.jpg
 http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/08/24/16481053_3c228d15bb277c806794e8db2f4870e4.jpg
-http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/08/17/16479804_9e41e93e94d1516a7658c6c7b43f78c4.jpg
-http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/07/28/16476331_8a6ce2c30e63fc1fc6f2d6450742d3c4.jpg
+http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/08/31/16482538_a17579aa9c0e6a5dd70d3700be6c0a47.jpg
 http://www.mod.gov.cn/gfbw/jswj/_attachment/2026/07/20/16474858_2d8b662d2e7011d5f926fd70b2598d77.jpg
 http://www.mod.gov.cn/gfbw/wzll/_attachment/2026/08/09/16478501_c8618d2085e1ac7605661be11131cbf2.jpg
 http://www.mod.gov.cn/gfbw/jsxd/_attachment/2026/07/23/16475312_4960d123b76d7093f76cd73357d3e570.jpg

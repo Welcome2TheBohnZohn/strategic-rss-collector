@@ -13,9 +13,9 @@
       "records": 24
     }
   ],
-  "detail_full_text": 13,
+  "detail_full_text": 12,
   "archive_fallback": 0,
-  "duplicate_content_skipped": 1,
+  "duplicate_content_skipped": 0,
   "unique_records": 48,
   "feed_items": 12
 }

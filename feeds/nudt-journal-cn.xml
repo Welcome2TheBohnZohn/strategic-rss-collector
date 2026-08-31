@@ -1,2 +1,3077 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>National University of Defense Technology Journal</title><link>https://journal.nudt.edu.cn/</link><description>Generated RSS feed for National University of Defense Technology Journal</description><language>zh-CN</language><lastBuildDate>Mon, 31 Aug 2026 05:49:10 +0000</lastBuildDate></channel></rss>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>National University of Defense Technology Journal</title><link>https://journal.nudt.edu.cn/</link><description>Generated RSS feed for National University of Defense Technology Journal</description><language>zh-CN</language><lastBuildDate>Mon, 31 Aug 2026 14:04:13 +0000</lastBuildDate><item><title>多核数字信号处理器矩阵乘卷积算法性能评测</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/202301009?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/202301009?tab=abstract</guid><pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate><description>(1. 国防科技大学 计算机学院, 湖南 长沙 410073;2. 国防科技大学 并行与分布处理国防科技重点实验室, 湖南 长沙 410073)
+
+王庆林(1987—),男,贵州思南人,副研究员,博士,硕士生导师,E-mail:wangqinglin_thu@163.com; 裴向东(通信作者),男,山西长治人,博士研究生,E-mail:18903588277@163.com
+
+(1. College of Computer Science and Technology, National University of Defense Technology, Changsha 410073, China;2. Science and Technology on Parallel and Distributed Processing Laboratory, National University of Defense Technology, Changsha 410073, China)
+
+矩阵乘卷积算法能够为各种卷积配置提供高性能基础实现,是面向给定芯片进行卷积性能优化的首要选择。针对国防科技大学自主研制的飞腾异构多核数字信号处理器(digital signal processor, DSP)芯片的特征以及矩阵乘卷积算法自身的特点,提出了一种面向多核DSP架构的高性能并行矩阵乘卷积实现算法ftmEConv。该算法由输入特征图转换、卷积核转换、矩阵乘以及输出特征图转换这四个均运行在通用多核DSP上的并行化部分构成,通过有效挖掘通用DSP核中功能单元的潜力来提升各个部分的性能。实验结果表明,ftmEConv实现了高达42.90%的计算效率,与芯片上的其他矩阵乘卷积算法实现相比,获得了高达7.79倍的性能加速。
+
+The matrix multiplication-based convolutional algorithm, which can efficiently implement convolutions with different parameters, is the first choice of convolution performance optimization for a given chip. Based on the architecture of Phytium heterogeneous multi-core DSPs(digital signal processors) developed by National University of Defense Technology and the characteristic of the matrix multiplication-based convolutional algorithm, a parallel implementation of the matrix multiplication-based convolutional algorithm (called ftmEConv) for different convolutions on multi-core DSPs was proposed. The ftmEConv consists of four parallelized parts(input feature maps transformation, filter transformation, matrix multiplication, an</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/202301009?tab=abstract&lt;/p&gt;&lt;pre&gt;(1. 国防科技大学 计算机学院, 湖南 长沙 410073;2. 国防科技大学 并行与分布处理国防科技重点实验室, 湖南 长沙 410073)
+
+王庆林(1987—),男,贵州思南人,副研究员,博士,硕士生导师,E-mail:wangqinglin_thu@163.com; 裴向东(通信作者),男,山西长治人,博士研究生,E-mail:18903588277@163.com
+
+(1. College of Computer Science and Technology, National University of Defense Technology, Changsha 410073, China;2. Science and Technology on Parallel and Distributed Processing Laboratory, National University of Defense Technology, Changsha 410073, China)
+
+矩阵乘卷积算法能够为各种卷积配置提供高性能基础实现,是面向给定芯片进行卷积性能优化的首要选择。针对国防科技大学自主研制的飞腾异构多核数字信号处理器(digital signal processor, DSP)芯片的特征以及矩阵乘卷积算法自身的特点,提出了一种面向多核DSP架构的高性能并行矩阵乘卷积实现算法ftmEConv。该算法由输入特征图转换、卷积核转换、矩阵乘以及输出特征图转换这四个均运行在通用多核DSP上的并行化部分构成,通过有效挖掘通用DSP核中功能单元的潜力来提升各个部分的性能。实验结果表明,ftmEConv实现了高达42.90%的计算效率,与芯片上的其他矩阵乘卷积算法实现相比,获得了高达7.79倍的性能加速。
+
+The matrix multiplication-based convolutional algorithm, which can efficiently implement convolutions with different parameters, is the first choice of convolution performance optimization for a given chip. Based on the architecture of Phytium heterogeneous multi-core DSPs(digital signal processors) developed by National University of Defense Technology and the characteristic of the matrix multiplication-based convolutional algorithm, a parallel implementation of the matrix multiplication-based convolutional algorithm (called ftmEConv) for different convolutions on multi-core DSPs was proposed. The ftmEConv consists of four parallelized parts(input feature maps transformation, filter transformation, matrix multiplication, and output feature maps transformation), all of which were optimized for multi-core DSPs, and the performance of each part was improved by effectively exploiting the potential of all functional units in DSP cores. The experimental results demonstrate that ftmEConv achieves computational efficiency of up to 42.90%. Compared with other implementations of the matrix multiplication-based convolutional algorithm on heterogeneous chips, ftmEConv gets a speedup of up to 7.79 times.
+
+王庆林,裴向东,廖林玉,等.多核数字信号处理器矩阵乘卷积算法性能评测[J].国防科技大学学报,2023,45(1):86-94. WANG Qinglin, PEI Xiangdong, LIAO Linyu, et al. Evaluating matrix multiplication-based convolution algorithm on multi-core digital signal processors[J]. Journal of National University of Defense Technology,2023,45(1):86-94.&lt;/pre&gt;</content:encoded></item><item><title>北斗全球系统导航信号恒包络调制和复用技术</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201705002?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201705002?tab=abstract</guid><pubDate>Fri, 08 Jul 2016 00:00:00 +0000</pubDate><description>出于以导频通道为代表的北斗全球导航卫星系统现代化信号结构升级以及后向兼容的需求，北斗系统近几年提出了多种新型恒包络调制和复用技术，包括适用于北斗系统B1频点的正交复用二进制偏移载波（QMBOC）调制和非对称双正交相移键控（ADualQPSK）调制，适用于B2频点的时分复用AltBOC（TD-AltBOC）调制与非对称恒包络二进制偏移载波（ACE-BOC）调制，适用于B3频点的双正交相移键控（DualQPSK）调制，适用于双边带任意信号路数、任意功率配比的广义恒包络二进制偏移载波（GCE-BOC）调制。本文系统性地论述了北斗全球系统中提出的多种新型恒包络调制和复用技术，在此基础上基于GCE-BOC调制总结出了一种恒包络调制的统一解析表示形式，对全面理解北斗全球系统信号设计思路及在此基础上发展设计新型的恒包络调制和复用技术均能提供重要的借鉴。
+
+For the demand of structural enhancement and backwards compatibility of modern BDS navigation signal which is represented by the pilot channel, BDS has proposed several new constant envelope modulations recently, including QMBOC and ADualQPSK modulations applied to B1 band, TD-AltBOC and ACE-BOC modulations applied to B2 band, DualQPSK modulation applied to B3 band, GCE-BOC modulation that multiplexes arbitrary signals at two different carrier frequencies. All the new modulations were systematically analyzed and a unified analytical expression of constant envelope modulation and multiplexing was summarized on the basis of the GCE-BOC modulation, which can provide an important reference for the comprehensive understanding of the signal design of the BDS global navigation satellite system and the development of new type of constant envelope modulation and multiplexing technology on this basis.
+
+朱祥维,黄新明,宿晨庚,等.北斗全球系统导航信号恒包络调制和复用技术[J].国防科技大学学报,2017,39(5):6-13. ZHU Xiangwei, HUANG Xinming, SU Chengeng, et al. Constant envelope modulation and multiplexing technologies for BDS global navigation signals[J]. Journal</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201705002?tab=abstract&lt;/p&gt;&lt;pre&gt;出于以导频通道为代表的北斗全球导航卫星系统现代化信号结构升级以及后向兼容的需求，北斗系统近几年提出了多种新型恒包络调制和复用技术，包括适用于北斗系统B1频点的正交复用二进制偏移载波（QMBOC）调制和非对称双正交相移键控（ADualQPSK）调制，适用于B2频点的时分复用AltBOC（TD-AltBOC）调制与非对称恒包络二进制偏移载波（ACE-BOC）调制，适用于B3频点的双正交相移键控（DualQPSK）调制，适用于双边带任意信号路数、任意功率配比的广义恒包络二进制偏移载波（GCE-BOC）调制。本文系统性地论述了北斗全球系统中提出的多种新型恒包络调制和复用技术，在此基础上基于GCE-BOC调制总结出了一种恒包络调制的统一解析表示形式，对全面理解北斗全球系统信号设计思路及在此基础上发展设计新型的恒包络调制和复用技术均能提供重要的借鉴。
+
+For the demand of structural enhancement and backwards compatibility of modern BDS navigation signal which is represented by the pilot channel, BDS has proposed several new constant envelope modulations recently, including QMBOC and ADualQPSK modulations applied to B1 band, TD-AltBOC and ACE-BOC modulations applied to B2 band, DualQPSK modulation applied to B3 band, GCE-BOC modulation that multiplexes arbitrary signals at two different carrier frequencies. All the new modulations were systematically analyzed and a unified analytical expression of constant envelope modulation and multiplexing was summarized on the basis of the GCE-BOC modulation, which can provide an important reference for the comprehensive understanding of the signal design of the BDS global navigation satellite system and the development of new type of constant envelope modulation and multiplexing technology on this basis.
+
+朱祥维,黄新明,宿晨庚,等.北斗全球系统导航信号恒包络调制和复用技术[J].国防科技大学学报,2017,39(5):6-13. ZHU Xiangwei, HUANG Xinming, SU Chengeng, et al. Constant envelope modulation and multiplexing technologies for BDS global navigation signals[J]. Journal of National University of Defense Technology,2017,39(5):6-13.&lt;/pre&gt;</content:encoded></item><item><title>多传感器信息融合理论在无人机相对导航中的应用</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201705015?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201705015?tab=abstract</guid><pubDate>Mon, 20 Jun 2016 00:00:00 +0000</pubDate><description>为提升无人机的作战效能和作战指标，提升无人机的相对导航精度和导航系统可靠性，以无人机编队的相对导航系统为研究背景，基于容积卡尔曼滤波算法和信息滤波算法，研究容积信息滤波算法。此外，还采用多传感器信息融合理论，利用分布式信息融合结构构建了无人机相对导航滤波器，对来自惯导、视觉和卫星的信息进行融合，获取无人机间的相对位置、速度和姿态信息。该方法提升了无人机相对导航的导航精度、导航可靠性和滤波稳定性，容积信息滤波算法的应用避免了传统滤波算法在高维系统中出现的数值不稳定以及精度降低等问题。数学仿真结果表明，该方法提高了无人机编队之间相对导航的精度和可靠性，证明了算法的有效性。
+
+In order to improve the operational effectiveness and operational indicators of the UAV (unmanned aerial vehicle), and to enhance the accuracy and reliability of the UAV relative navigation system, a novel relative navigation method was proposed. Under the background of relative navigation system, the cubature information filter based on the cubature Kalman filter and information filter was studied. Moreover, an INS/GPS/VisNav relative navigation filter was designed by making use of the multi-sensor information fusion theory and distributed information fusion structure to fuse the information from INS, VisNav and GPS, and then the relative position, velocity and attitude were obtained. By making use of this algorithm, the accuracy, reliability and stability of the reliability navigation system were all improved. In addition, the accuracy decrease and numerical instability which often occur to traditional filter were avoided by cubature information filter. Mathematical simulation results indicate that the method can improve the accuracy and reliability of the UAV relative navigation system, and the proposed algorithm is verified.
+
+金红新,杨涛,王小刚,等.多传感器信息融合理论在无人机相对导航中的应用[J].国防科技大学学报,2017,39(5):90-9</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201705015?tab=abstract&lt;/p&gt;&lt;pre&gt;为提升无人机的作战效能和作战指标，提升无人机的相对导航精度和导航系统可靠性，以无人机编队的相对导航系统为研究背景，基于容积卡尔曼滤波算法和信息滤波算法，研究容积信息滤波算法。此外，还采用多传感器信息融合理论，利用分布式信息融合结构构建了无人机相对导航滤波器，对来自惯导、视觉和卫星的信息进行融合，获取无人机间的相对位置、速度和姿态信息。该方法提升了无人机相对导航的导航精度、导航可靠性和滤波稳定性，容积信息滤波算法的应用避免了传统滤波算法在高维系统中出现的数值不稳定以及精度降低等问题。数学仿真结果表明，该方法提高了无人机编队之间相对导航的精度和可靠性，证明了算法的有效性。
+
+In order to improve the operational effectiveness and operational indicators of the UAV (unmanned aerial vehicle), and to enhance the accuracy and reliability of the UAV relative navigation system, a novel relative navigation method was proposed. Under the background of relative navigation system, the cubature information filter based on the cubature Kalman filter and information filter was studied. Moreover, an INS/GPS/VisNav relative navigation filter was designed by making use of the multi-sensor information fusion theory and distributed information fusion structure to fuse the information from INS, VisNav and GPS, and then the relative position, velocity and attitude were obtained. By making use of this algorithm, the accuracy, reliability and stability of the reliability navigation system were all improved. In addition, the accuracy decrease and numerical instability which often occur to traditional filter were avoided by cubature information filter. Mathematical simulation results indicate that the method can improve the accuracy and reliability of the UAV relative navigation system, and the proposed algorithm is verified.
+
+金红新,杨涛,王小刚,等.多传感器信息融合理论在无人机相对导航中的应用[J].国防科技大学学报,2017,39(5):90-95. JIN Hongxin, YANG Tao, WANG Xiaogang, et al. Application of multisensor information fusion in UAV relative navigation method[J]. Journal of National University of Defense Technology,2017,39(5):90-95.&lt;/pre&gt;</content:encoded></item><item><title>高超声速飞行器滑翔制导方法综述</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201703003?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201703003?tab=abstract</guid><pubDate>Sun, 10 Jan 2016 00:00:00 +0000</pubDate><description>阐明高超声速飞行器滑翔制导的基本问题，分析滑翔制导过程面临的复杂多约束、机动任务要求、参数扰动等研究难点；分别就国内外标准轨迹制导方法和预测-校正制导方法相关研究现状展开综述，指出了这两类方法中存在的问题。在此基础上，提出高超声速飞行器滑翔制导研究中亟待解决的关键问题，并指出未来滑翔制导方法的研究热点。
+
+The basic problem of gliding guidance for hypersonic vehicles was proposed, and the difficulties of complicated multiple constraints, maneuver requirements, and parameter perturbation in the course of gliding guidance were analyzed. The corresponding research status at home and abroad was surveyed, and the problems were also pointed out. On this basis, the key problems required to be solved at present in the research of gliding guidance for hypersonic vehicles were presented, and the research hotspots in the methods of future gliding guidance were also pointed out. 
+
+潘亮,谢愈,彭双春,等.高超声速飞行器滑翔制导方法综述[J].国防科技大学学报,2017,39(3):15-22. PAN Liang, XIE Yu, PENG Shuangchun, et al. A survey of gliding guidance methods for hypersonic vehicles[J]. Journal of National University of Defense Technology,2017,39(3):15-22.</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201703003?tab=abstract&lt;/p&gt;&lt;pre&gt;阐明高超声速飞行器滑翔制导的基本问题，分析滑翔制导过程面临的复杂多约束、机动任务要求、参数扰动等研究难点；分别就国内外标准轨迹制导方法和预测-校正制导方法相关研究现状展开综述，指出了这两类方法中存在的问题。在此基础上，提出高超声速飞行器滑翔制导研究中亟待解决的关键问题，并指出未来滑翔制导方法的研究热点。
+
+The basic problem of gliding guidance for hypersonic vehicles was proposed, and the difficulties of complicated multiple constraints, maneuver requirements, and parameter perturbation in the course of gliding guidance were analyzed. The corresponding research status at home and abroad was surveyed, and the problems were also pointed out. On this basis, the key problems required to be solved at present in the research of gliding guidance for hypersonic vehicles were presented, and the research hotspots in the methods of future gliding guidance were also pointed out. 
+
+潘亮,谢愈,彭双春,等.高超声速飞行器滑翔制导方法综述[J].国防科技大学学报,2017,39(3):15-22. PAN Liang, XIE Yu, PENG Shuangchun, et al. A survey of gliding guidance methods for hypersonic vehicles[J]. Journal of National University of Defense Technology,2017,39(3):15-22.&lt;/pre&gt;</content:encoded></item><item><title>用于减少远程Cache访问延迟的最后一次写访问预测方法</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201501003?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201501003?tab=abstract</guid><pubDate>Wed, 11 Jun 2014 00:00:00 +0000</pubDate><description>国家自然科学基金资助项目（61202119）；国家863计划资助项目(2013AA014301)
+
+为减少远程Cache访问延迟，提高共享存储系统的性能，提出了一种新的基于程序内在写突发特性的最后一次写访问预测方法，并对一个具体的目录协议进行了改造，以支持该预测方法。通过预测Cache块的最后一次写访问并提前对其进行降级，处理器能直接从主存中读取数据，从而减少了远程Cache访问所需的一个网络跳步数。与当前基于指令的预测方法相比，该方法能极大减少存储开销。基准测试程序的评测结果表明，该方法能获得83.1%的预测准确率，并且能提高8.57%的程序执行性能，同时与基于指令的预测方法相比，该方法能分别减少历史踪迹表69%的存储开销和签名表36%的存储开销。
+
+To reduce remote cache transfer latency and improve the performance of shared memory systems, a new last-write-touch prediction scheme that exploits the inherent write characteristics of a program is proposed and a directory protocol to support the scheme is adapted. By predicting a last-write-touch and self downgrading a cache block in advance, a processor can get the data from the memory directly and one network hop can be saved for a remote cache access. Compared with the existing instruction-based prediction technique, much storage overhead can be reduced. Experimental results show that it can achieve an average prediction accuracy of 83.1%, leading to improvements up to average 8.57% on the final application performance. Moreover, compared with the instruction-based prediction scheme, the scheme can reduce the storage overheads of the history table by 69% and the storage overheads of the signature table by 36%.
+
+夏军,徐炜遐,庞征斌,等.用于减少远程Cache访问延迟的最后一次写访问预测方法[J].国防科技大学学报,2015,37(1):14-20. XIA Jun, XU Weixia, PANG Zhengbin, et al. A last-write-touch prediction scheme used to reduce remote Cache miss latency[J]. Journal of National University of Defense T</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201501003?tab=abstract&lt;/p&gt;&lt;pre&gt;国家自然科学基金资助项目（61202119）；国家863计划资助项目(2013AA014301)
+
+为减少远程Cache访问延迟，提高共享存储系统的性能，提出了一种新的基于程序内在写突发特性的最后一次写访问预测方法，并对一个具体的目录协议进行了改造，以支持该预测方法。通过预测Cache块的最后一次写访问并提前对其进行降级，处理器能直接从主存中读取数据，从而减少了远程Cache访问所需的一个网络跳步数。与当前基于指令的预测方法相比，该方法能极大减少存储开销。基准测试程序的评测结果表明，该方法能获得83.1%的预测准确率，并且能提高8.57%的程序执行性能，同时与基于指令的预测方法相比，该方法能分别减少历史踪迹表69%的存储开销和签名表36%的存储开销。
+
+To reduce remote cache transfer latency and improve the performance of shared memory systems, a new last-write-touch prediction scheme that exploits the inherent write characteristics of a program is proposed and a directory protocol to support the scheme is adapted. By predicting a last-write-touch and self downgrading a cache block in advance, a processor can get the data from the memory directly and one network hop can be saved for a remote cache access. Compared with the existing instruction-based prediction technique, much storage overhead can be reduced. Experimental results show that it can achieve an average prediction accuracy of 83.1%, leading to improvements up to average 8.57% on the final application performance. Moreover, compared with the instruction-based prediction scheme, the scheme can reduce the storage overheads of the history table by 69% and the storage overheads of the signature table by 36%.
+
+夏军,徐炜遐,庞征斌,等.用于减少远程Cache访问延迟的最后一次写访问预测方法[J].国防科技大学学报,2015,37(1):14-20. XIA Jun, XU Weixia, PANG Zhengbin, et al. A last-write-touch prediction scheme used to reduce remote Cache miss latency[J]. Journal of National University of Defense Technology,2015,37(1):14-20.&lt;/pre&gt;</content:encoded></item><item><title>基于用户相关反馈的排序学习算法研究</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201302024?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201302024?tab=abstract</guid><pubDate>Mon, 20 Aug 2012 00:00:00 +0000</pubDate><description>在信息检索中，系统需要根据用户查询将文档按照相似度大小进行排序，吸引了众多信息检索和机器学习领域研究者的眼球，并形成了诸多排序算法模型。然而并未考虑到查询短语与文档构成的特征对与用户相关反馈之间存在的同质性。在机器学习算法基础上，通过提取训练样本的主要特征进行有效聚类，并结合用户的相关反馈获取各个类中相关度判断的置信值，形成相似度判定模型，应用该模型来对测试样本进行相关度排序。算法对LETOR数据集进行了测试，实验表明，信息检索性能指标比其他排序算法有了进一步提高，并且无需复杂的数据预处理工作和手动设定算法参数。
+
+Many information retrieval applications have to present their results in the form of ranked lists, in which documents must be sorted in a descending order according to their relevance to a given query. This has led the interest of the information retrieval community in methods that automatically learn effective ranking models, and recently machine learning techniques have also been applied to model construction. Most of the existing methods do not take into consideration the fact that significant homogeneity exists between query-document pairs related to user’s feedback. In this research, a novel method which clusters patterns in the training data with their relevance from the user, and then uses the discovered rules to rank documents at query-time. A systematic evaluation of the proposed method using the LETOR benchmark dataset is posposed. The experimental results show that the proposed method outperforms the state-of-the-art methods with no need of time-consuming and laborious pre-processing.
+
+蔡 飞,陈洪辉,舒 振.基于用户相关反馈的排序学习算法研究[J].国防科技大学学报,2013,35(2):132-136. CAI Fei, CHEN Honghui, SHU Zhen. Learning to rank based on user relevance feedback[J]. Journal of National University of Defense Technology,2013,35(2):132-136.</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201302024?tab=abstract&lt;/p&gt;&lt;pre&gt;在信息检索中，系统需要根据用户查询将文档按照相似度大小进行排序，吸引了众多信息检索和机器学习领域研究者的眼球，并形成了诸多排序算法模型。然而并未考虑到查询短语与文档构成的特征对与用户相关反馈之间存在的同质性。在机器学习算法基础上，通过提取训练样本的主要特征进行有效聚类，并结合用户的相关反馈获取各个类中相关度判断的置信值，形成相似度判定模型，应用该模型来对测试样本进行相关度排序。算法对LETOR数据集进行了测试，实验表明，信息检索性能指标比其他排序算法有了进一步提高，并且无需复杂的数据预处理工作和手动设定算法参数。
+
+Many information retrieval applications have to present their results in the form of ranked lists, in which documents must be sorted in a descending order according to their relevance to a given query. This has led the interest of the information retrieval community in methods that automatically learn effective ranking models, and recently machine learning techniques have also been applied to model construction. Most of the existing methods do not take into consideration the fact that significant homogeneity exists between query-document pairs related to user’s feedback. In this research, a novel method which clusters patterns in the training data with their relevance from the user, and then uses the discovered rules to rank documents at query-time. A systematic evaluation of the proposed method using the LETOR benchmark dataset is posposed. The experimental results show that the proposed method outperforms the state-of-the-art methods with no need of time-consuming and laborious pre-processing.
+
+蔡 飞,陈洪辉,舒 振.基于用户相关反馈的排序学习算法研究[J].国防科技大学学报,2013,35(2):132-136. CAI Fei, CHEN Honghui, SHU Zhen. Learning to rank based on user relevance feedback[J]. Journal of National University of Defense Technology,2013,35(2):132-136.&lt;/pre&gt;</content:encoded></item><item><title>FlatLFS:一种面向海量小文件处理优化的轻量级文件系统</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201302022?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201302022?tab=abstract</guid><pubDate>Thu, 05 Apr 2012 00:00:00 +0000</pubDate><description>海量小文件的高效存储和访问是当前分布式文件系统面临的主要挑战之一。以GFS和HDFS为代表的分布式文件系统大多面向海量大文件的高效存储和访问设计，缺乏小文件处理的针对性优化，导致访问海量小文件时效率低下。针对分布式文件系统中海量小文件访问时的数据服务器优化问题，提出了一种采用扁平式数据存储方法的轻量级文件系统FlatLFS，取代传统文件系统对上层分布式文件系统提供数据存储和访问支持，提高了数据服务器处理小数据块时的I/O性能，从而提升了整个分布式文件系统的性能。实验表明，当数据块大小设定为1M时，FlatLFS的随机读性能分别比ext3、ext4、reiserfs高135%、112%和122%。
+
+The storage and access of massive small files are one of the challenges in the design of DFS(Distributed file system). Most of the DFSs, such as GFS and HDFS, are designed for handling massive big files. The performance of DFSs decreases greatly when accessing massive small files without special optimization for small files. This research focuses on the optimizing of the performance of data server in handling massive small files, and presents a Flat Lightweight File System called FlatLFS in which the user data are managed flat in disks. FlatLFS is supposed to substitute the traditional file system when accessing user data for upper DFSs. With the improvement of the performance of small data block processing on data servers by FlatLFS, the performance of the whole DFSs is greatly improved. The effectiveness of FlatLFS is proved with intensive experiments: when the size of data block is 1M, the performance of random read of FlatLFS is 135%, 112% and 122% higher than ext 3 ,ext4 and reiserfs respectively. 
+
+付松龄,廖湘科,黄辰林,等. FlatLFS:一种面向海量小文件处理优化的轻量级文件系统[J].国防科技大学学报,2013,35(2):120-126. FU Songling, LIAO Xiangke, HUANG Chenlin, et al. FlatLFS: a lightweight file system for optimizing</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201302022?tab=abstract&lt;/p&gt;&lt;pre&gt;海量小文件的高效存储和访问是当前分布式文件系统面临的主要挑战之一。以GFS和HDFS为代表的分布式文件系统大多面向海量大文件的高效存储和访问设计，缺乏小文件处理的针对性优化，导致访问海量小文件时效率低下。针对分布式文件系统中海量小文件访问时的数据服务器优化问题，提出了一种采用扁平式数据存储方法的轻量级文件系统FlatLFS，取代传统文件系统对上层分布式文件系统提供数据存储和访问支持，提高了数据服务器处理小数据块时的I/O性能，从而提升了整个分布式文件系统的性能。实验表明，当数据块大小设定为1M时，FlatLFS的随机读性能分别比ext3、ext4、reiserfs高135%、112%和122%。
+
+The storage and access of massive small files are one of the challenges in the design of DFS(Distributed file system). Most of the DFSs, such as GFS and HDFS, are designed for handling massive big files. The performance of DFSs decreases greatly when accessing massive small files without special optimization for small files. This research focuses on the optimizing of the performance of data server in handling massive small files, and presents a Flat Lightweight File System called FlatLFS in which the user data are managed flat in disks. FlatLFS is supposed to substitute the traditional file system when accessing user data for upper DFSs. With the improvement of the performance of small data block processing on data servers by FlatLFS, the performance of the whole DFSs is greatly improved. The effectiveness of FlatLFS is proved with intensive experiments: when the size of data block is 1M, the performance of random read of FlatLFS is 135%, 112% and 122% higher than ext 3 ,ext4 and reiserfs respectively. 
+
+付松龄,廖湘科,黄辰林,等. FlatLFS:一种面向海量小文件处理优化的轻量级文件系统[J].国防科技大学学报,2013,35(2):120-126. FU Songling, LIAO Xiangke, HUANG Chenlin, et al. FlatLFS: a lightweight file system for optimizing the performance of accessing massive small files[J]. Journal of National University of Defense Technology,2013,35(2):120-126.&lt;/pre&gt;</content:encoded></item><item><title>网络舆情中一种基于OLDA的在线话题演化方法</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201201029?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201201029?tab=abstract</guid><pubDate>Tue, 30 Aug 2011 00:00:00 +0000</pubDate><description>研究网络舆情分析中话题演化方法。首先分析网络舆情信息的特点；在此基础上，建立网络舆情信息模型，基于话题模型抽象描述文本内容的隐含语义，进而建立文本流在时间序列上的关联模型；进一步，提出基于OLDA的话题演化方法，针对舆情信息的特点，建立不同时间片话题间的关联。实验结果表明，该方法能够有效检测话题演化，为网络舆情分析提供了有效途径。
+
+The topic evolution was investigated for network public opinion analysis. The properties of network public opinion information were analyzed firstly. Based on the properties, the latent semantics of textual data for network public opinion was described by using the topic model, and the text streams are modeled with a consideration of time for online analysis. Furthermore, a topic evolution method based on OLDA was proposed by incorporating the correlation of topics among time slices. The proposed method was experimentally verified to be efficient for detecting topic evolution of network public opinion. 
+
+胡艳丽,白亮,张维明.网络舆情中一种基于OLDA的在线话题演化方法[J].国防科技大学学报,2012,34(1):150-154. HU Yanli, BAI Liang, ZHANG Weiming. OLDA-based method for online topic evolution  in network public opinion analysis[J]. Journal of National University of Defense Technology,2012,34(1):150-154.</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201201029?tab=abstract&lt;/p&gt;&lt;pre&gt;研究网络舆情分析中话题演化方法。首先分析网络舆情信息的特点；在此基础上，建立网络舆情信息模型，基于话题模型抽象描述文本内容的隐含语义，进而建立文本流在时间序列上的关联模型；进一步，提出基于OLDA的话题演化方法，针对舆情信息的特点，建立不同时间片话题间的关联。实验结果表明，该方法能够有效检测话题演化，为网络舆情分析提供了有效途径。
+
+The topic evolution was investigated for network public opinion analysis. The properties of network public opinion information were analyzed firstly. Based on the properties, the latent semantics of textual data for network public opinion was described by using the topic model, and the text streams are modeled with a consideration of time for online analysis. Furthermore, a topic evolution method based on OLDA was proposed by incorporating the correlation of topics among time slices. The proposed method was experimentally verified to be efficient for detecting topic evolution of network public opinion. 
+
+胡艳丽,白亮,张维明.网络舆情中一种基于OLDA的在线话题演化方法[J].国防科技大学学报,2012,34(1):150-154. HU Yanli, BAI Liang, ZHANG Weiming. OLDA-based method for online topic evolution  in network public opinion analysis[J]. Journal of National University of Defense Technology,2012,34(1):150-154.&lt;/pre&gt;</content:encoded></item><item><title>高超声速滑翔飞行器气动性能的数值模拟研究</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201204005?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201204005?tab=abstract</guid><pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate><description>国家自然科学基金资助项目(90916016);湖南省研究生科研创新及国防科技大学优秀研究生创新资助项目(B110102)
+
+由于具有高的升阻比，乘波构型被认为是高超声速滑翔飞行器的重点参考外形。考虑到高超声速条件下严重的气动加热问题，乘波构型的尖锐前缘需要进行钝化处理，其表面流动特征及气动性能也随之发生变化。基于参考弹道，本文分析了高超声速滑翔飞行器沿飞行轨迹的表面流场特征，并对其在典型飞行工况下的气动性能开展了数值模拟研究。结果表明：对于采用乘波布局设计的高超声速滑翔飞行器，其驻点流动存在三维效应，不能简单视为球头或圆柱绕流；钝化可以缓和严峻的受热形势，同时对其气动力性能造成影响：在2cm钝化半径条件下，其升阻比下降12.34%；高超声速滑翔飞行器的表面受热存在明显的分区特征，不同区域可采用不同的防热处理方法。
+
+The waverider is considered as an important candidate for the configuration of hypersonic glide vehicle (HGV) in terms of its high lift-to-drag ratio. Due to the severe aerodynamic heating, the sharp leading edge of waverider need be blunted, and the flow characteristics and the aerodynamic performance along the trajectory will change. In the current research, the flow characteristic of a HGV was studied based on a reference trajectory, and a numerical simulation was carried out to evaluate the performance of HGV with a blunt leading edge under a typical condition. The result indicates that the flow near the stagnation point exhibits three-dimensionality which cannot be approximated as a flow around a sphere or cylinder; the heat flux can be reduced and the aerodynamic performance of HGV may decrease as well when the leading edge is blunted: under the condition of 2 cm radii, the lift-to-drag ratio reduces by 12.34%, and different thermal protection methods can be used in different places of HGV.
+
+刘建霞,侯中喜,陈小庆,等.高超声速滑翔飞行器气动性能的数值模拟研究[J].国防科技大学学报,2012,34(4):22-27. LIU Jianxia, HOU Zhongxi, CHEN Xiaoqing, et al. Numerical </description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201204005?tab=abstract&lt;/p&gt;&lt;pre&gt;国家自然科学基金资助项目(90916016);湖南省研究生科研创新及国防科技大学优秀研究生创新资助项目(B110102)
+
+由于具有高的升阻比，乘波构型被认为是高超声速滑翔飞行器的重点参考外形。考虑到高超声速条件下严重的气动加热问题，乘波构型的尖锐前缘需要进行钝化处理，其表面流动特征及气动性能也随之发生变化。基于参考弹道，本文分析了高超声速滑翔飞行器沿飞行轨迹的表面流场特征，并对其在典型飞行工况下的气动性能开展了数值模拟研究。结果表明：对于采用乘波布局设计的高超声速滑翔飞行器，其驻点流动存在三维效应，不能简单视为球头或圆柱绕流；钝化可以缓和严峻的受热形势，同时对其气动力性能造成影响：在2cm钝化半径条件下，其升阻比下降12.34%；高超声速滑翔飞行器的表面受热存在明显的分区特征，不同区域可采用不同的防热处理方法。
+
+The waverider is considered as an important candidate for the configuration of hypersonic glide vehicle (HGV) in terms of its high lift-to-drag ratio. Due to the severe aerodynamic heating, the sharp leading edge of waverider need be blunted, and the flow characteristics and the aerodynamic performance along the trajectory will change. In the current research, the flow characteristic of a HGV was studied based on a reference trajectory, and a numerical simulation was carried out to evaluate the performance of HGV with a blunt leading edge under a typical condition. The result indicates that the flow near the stagnation point exhibits three-dimensionality which cannot be approximated as a flow around a sphere or cylinder; the heat flux can be reduced and the aerodynamic performance of HGV may decrease as well when the leading edge is blunted: under the condition of 2 cm radii, the lift-to-drag ratio reduces by 12.34%, and different thermal protection methods can be used in different places of HGV.
+
+刘建霞,侯中喜,陈小庆,等.高超声速滑翔飞行器气动性能的数值模拟研究[J].国防科技大学学报,2012,34(4):22-27. LIU Jianxia, HOU Zhongxi, CHEN Xiaoqing, et al. Numerical simulation on the aerodynamic performance of hypersonic glide vehicle[J]. Journal of National University of Defense Technology,2012,34(4):22-27.&lt;/pre&gt;</content:encoded></item><item><title>软件定义的无人机集群弹性组网架构</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260408?st=search&amp;tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260408?st=search&amp;tab=abstract</guid><description>软件定义的无人机集群弹性组网架构
+EI•CA•INSPEC•JST•SCOPUS
+中文核心期刊•CSCD•WJCI
+首页
+期刊介绍
+投稿指南
+来稿须知
+稿件要求
+录用修订
+稿件流程
+相关下载
+编委会
+出版声明
+出版道德声明
+出版伦理声明
+开放获取声明
+联系我们
+期刊订阅
+纸刊订阅
+E-mail订阅
+Rss
+AI检索
+Deepseek
+豆包
+文心一言
+通义
+讯飞星火
+Kimi
+English
+引用本文:
+甘良棋, 董超, 朱小军, 等. 软件定义的无人机集群弹性组网架构[J]. 国防科技大学学报, 2026, 48(4): 89 - 96.
+Citation:
+Gan Liangqi, Dong Chao, Zhu Xiaojun, et al. Software-defined resilient networking architecture for UAV swarms[J]. Journal of National University of Defense Technology, 2026, 48(4): 89-96.
+软件定义的无人机集群弹性组网架构
+doi:
+10.11887/j.issn.1001-2486.25060024
+甘良棋
+1,2
+角色:
+第一作者
+机构:
+1. 南京航空航天大学 电子信息工程学院, 江苏 南京 211106
+2. 南京航空航天大学 电磁频谱空间认知动态系统重点实验室, 江苏 南京 211106
+邮箱:
+liangqi-gan@nuaa.edu.cn
+简介:
+甘良棋（1992—），男，湖北咸宁人，博士研究生，E-mail: liangqi-gan@nuaa.edu.cn
+，
+ 董超
+1,2
+角色:
+通信作者
+机构:
+1. 南京航空航天大学 电子信息工程学院, 江苏 南京 211106
+2. 南京航空航天大学 电磁频谱空间认知动态系统重点实验室, 江苏 南京 211106
+邮箱:
+dch@nuaa.edu.cn
+简介:
+董超（1980—），男，山东滨州人，教授，博士，博士生导师，E-mail: dch@nuaa.edu.cn
+，
+ 朱小军
+3
+机构:
+3. 南京航空航天大学 计算机科学与技术学院, 江苏 南京 211106
+，
+ 王蔚
+1
+机构:
+1. 南京航空航天大学 电子信息工程学院, 江苏 南京 211106
+1. 南京航空航天大学 电子信息工程学院, 江苏 南京 211106
+2. 南京航空航天大学 电磁频谱空间认知动态系统重点实验室, 江苏 南京 211106
+3. 南京航空航天大学 计算机科学与技术学院, 江苏 南京 211106
+基金项目:
+国家自然科学基金资助项目（61931011）
+详细信息
+收起信息
+作者简介
+甘良棋（1992—），男，湖北咸宁人，博士研究生，E-mail: liangqi-gan@nuaa.edu.cn
+通信作者
+董超（1980—），男，山东滨州人，教授，博士，博士生导师，E-mail: dch@nuaa.edu.cn
+中图分类号:
+TN929.5;V279
+文献标志码:
+A
+文章编号:
+1001-2486(2026)04-089-08
+Software-defined resilient networking architecture for UAV swarms
+Gan Liangqi
+1,2
+Role:
+First Author
+Affiliation:
+1. College of Electronic and Information Engineering, Na</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260408?st=search&amp;amp;tab=abstract&lt;/p&gt;&lt;pre&gt;软件定义的无人机集群弹性组网架构
+EI•CA•INSPEC•JST•SCOPUS
+中文核心期刊•CSCD•WJCI
+首页
+期刊介绍
+投稿指南
+来稿须知
+稿件要求
+录用修订
+稿件流程
+相关下载
+编委会
+出版声明
+出版道德声明
+出版伦理声明
+开放获取声明
+联系我们
+期刊订阅
+纸刊订阅
+E-mail订阅
+Rss
+AI检索
+Deepseek
+豆包
+文心一言
+通义
+讯飞星火
+Kimi
+English
+引用本文:
+甘良棋, 董超, 朱小军, 等. 软件定义的无人机集群弹性组网架构[J]. 国防科技大学学报, 2026, 48(4): 89 - 96.
+Citation:
+Gan Liangqi, Dong Chao, Zhu Xiaojun, et al. Software-defined resilient networking architecture for UAV swarms[J]. Journal of National University of Defense Technology, 2026, 48(4): 89-96.
+软件定义的无人机集群弹性组网架构
+doi:
+10.11887/j.issn.1001-2486.25060024
+甘良棋
+1,2
+角色:
+第一作者
+机构:
+1. 南京航空航天大学 电子信息工程学院, 江苏 南京 211106
+2. 南京航空航天大学 电磁频谱空间认知动态系统重点实验室, 江苏 南京 211106
+邮箱:
+liangqi-gan@nuaa.edu.cn
+简介:
+甘良棋（1992—），男，湖北咸宁人，博士研究生，E-mail: liangqi-gan@nuaa.edu.cn
+，
+ 董超
+1,2
+角色:
+通信作者
+机构:
+1. 南京航空航天大学 电子信息工程学院, 江苏 南京 211106
+2. 南京航空航天大学 电磁频谱空间认知动态系统重点实验室, 江苏 南京 211106
+邮箱:
+dch@nuaa.edu.cn
+简介:
+董超（1980—），男，山东滨州人，教授，博士，博士生导师，E-mail: dch@nuaa.edu.cn
+，
+ 朱小军
+3
+机构:
+3. 南京航空航天大学 计算机科学与技术学院, 江苏 南京 211106
+，
+ 王蔚
+1
+机构:
+1. 南京航空航天大学 电子信息工程学院, 江苏 南京 211106
+1. 南京航空航天大学 电子信息工程学院, 江苏 南京 211106
+2. 南京航空航天大学 电磁频谱空间认知动态系统重点实验室, 江苏 南京 211106
+3. 南京航空航天大学 计算机科学与技术学院, 江苏 南京 211106
+基金项目:
+国家自然科学基金资助项目（61931011）
+详细信息
+收起信息
+作者简介
+甘良棋（1992—），男，湖北咸宁人，博士研究生，E-mail: liangqi-gan@nuaa.edu.cn
+通信作者
+董超（1980—），男，山东滨州人，教授，博士，博士生导师，E-mail: dch@nuaa.edu.cn
+中图分类号:
+TN929.5;V279
+文献标志码:
+A
+文章编号:
+1001-2486(2026)04-089-08
+Software-defined resilient networking architecture for UAV swarms
+Gan Liangqi
+1,2
+Role:
+First Author
+Affiliation:
+1. College of Electronic and Information Engineering, Nanjing University of Aeronautics and Astronautics, Nanjing 211106 , China
+2. Key Laboratory of Dynamic Cognitive System of Electromagnetic Spectrum Space, Nanjing University of Aeronautics and Astronautics， Nanjing 211106 , China
+Email:
+liangqi-gan@nuaa.edu.cn
+，
+ Dong Chao
+1,2
+Role:
+Corresponding Author
+Affiliation:
+1. College of Electronic and Information Engineering, Nanjing University of Aeronautics and Astronautics, Nanjing 211106 , China
+2. Key Laboratory of Dynamic Cognitive System of Electromagnetic Spectrum Space, Nanjing University of Aeronautics and Astronautics， Nanjing 211106 , China
+Email:
+dch@nuaa.edu.cn
+，
+ Zhu Xiaojun
+3
+Affiliation:
+3. College of Computer Science and Technology, Nanjing University of Aeronautics and Astronautics, Nanjing 211106 , China
+，
+ Wang Wei
+1
+Affiliation:
+1. College of Electronic and Information Engineering, Nanjing University of Aeronautics and Astronautics, Nanjing 211106 , China
+1. College of Electronic and Information Engineering, Nanjing University of Aeronautics and Astronautics, Nanjing 211106 , China
+2. Key Laboratory of Dynamic Cognitive System of Electromagnetic Spectrum Space, Nanjing University of Aeronautics and Astronautics， Nanjing 211106 , China
+3. College of Computer Science and Technology, Nanjing University of Aeronautics and Astronautics, Nanjing 211106 , China
+摘要
+HTML全文
+图(12)表(0)
+参考文献(22)
+相似文献
+出版信息
+访问统计
+资源附件
+摘要
+为了提升大规模无人机集群在软硬杀伤威胁下的持续任务能力，重点研究了集群的拓扑重构方法。针对节点失效问题，提出集中式-分布式混合控制架构下的控制权动态迁移机制，提升重构效率；并设计基于软件定义网络的弹性组网架构，融合意图驱动实现网络资源智能动态配置。通过仿真对比邻居自主补位和资源池动态调度双模态重构策略：当小规模节点损失时，邻居补位凭借本地决策优势，其平均重构时延较资源池调度缩短38.5%；然而，当失效节点增多时，集中式-分布式控制器组合的重构时间最短；尤其在持续电磁干扰环境下，该组合策略优势显著，较纯分布式方案时延缩短18.03%。研究成果为大规模无人机集群拓扑重构提供了一定的理论支撑和实践参考。
+关键词
+无人机集群
+/
+软硬杀伤
+/
+软件定义网络
+/
+拓扑重构
+/
+意图驱动
+Abstract
+To enhance the sustained mission capability of large-scale UAV(unmanned aerial vehicle) swarms facing both soft and hard-kill threats, this research focused on swarm topology reconstruction methods. Addressing the issue of node failures, a dynamic control authority migration mechanism under a centralized-distributed hybrid control architecture was proposed to improve reconstruction efficiency; concurrently, an SDN(software-defined network)-based elastic networking architecture was designed, integrating intent-driven principles to enable intelligent and dynamic configuration of network resources. Simulation comparisons were conducted between dual-mode reconstruction strategies: neighbor autonomous compensation and resource-pool dynamic scheduling. When facing small-scale node loss, neighbor compensation leverages its advantage in local decision-making, reducing the average reconstruction latency by 38.5% compared to resource-pool scheduling. However, as the number of failed nodes increases, the combined centralized-distributed controller strategy achieves the shortest reconstruction time; notably, under persistent electromagnetic interference environments, this combined strategy demonstrates significant advantages, reducing latency by 18.3% compared to a purely distributed approach. This research provides theoretical support and practical reference for topology reconstruction in large-scale UAV swarms.
+Keywords
+unmanned aerial vehicle swarms
+/
+soft and hard kill
+/
+software-defined network
+/
+topology reconfiguration
+/
+intent-driven
+1 无人机集群组网应用
+2 网络资源动态智能配置
+3 集中式-分布式控制权动态迁移机制
+4 复杂任务场景下拓扑重构仿真
+5 结论
+在“分布式杀伤”（distributed lethality）与“马赛克战”（mosaic warfare）等新型作战理念的驱动下，战场态势正加速向分布式、异构化方向演进。无人智能集群系统依托其动态部署能力、多域协同及自主决策等优势，已成为重构未来战场博弈规则的重要技术
+[
+1
+]
+。然而，现有集群系统在复杂环境下存在抗毁性差和无人机节点易损毁引发集群拓扑结构瓦解的风险，严重威胁任务的连续性与体系稳定性。为此，亟须解决无人机集群在复杂环境下的任务鲁棒性。
+当前无人机集群控制架构研究主要围绕集中式与分布式展开理论探索与工程实践。集中式架构依托全局信息感知的中央控制器，通过全局优化算法实现全局优化，但是抗毁性差
+[
+2
+]
+。分布式控制器基于局部交互实现群体涌现行为，更加符合工程需求
+[
+3
+]
+。文献
+[
+4
+]
+指出目前系统多依赖预设的编队规则，在动态环境中面临重构困难等挑战。文献
+[
+5
+]
+针对多个软件定义网络（software-defined network，SDN）控制器之间信息协调困难，提出一种SDN控制器分级部署方案，将控制器分为全局控制器、区域控制器及协同控制器三级。文献
+[
+6
+]
+针对SDN控制器采用集中式部署方案，提出一种负载均衡算法，利用OpenFlow协议设计了无线场景下的SDN框架。文献
+[
+7
+]
+提出一种基于禁忌搜索的无人机定位算法，有效提升了网络吞吐量。文献
+[
+8
+]
+提出了软件定义无人机网络（software-defined unmanned aerial vehicle network，SD-UAVNet）体系架构，通过考虑无人机位置、运动轨迹和剩余电量等参数，实现实时视频服务和避障。文献
+[
+9
+]
+提出一种基于集群的控制平面消息管理软件定义飞行自组织网络。在网络中设置一个集中控制器，可以在不需要控制信息下发的情况下对无人机状态信息进行预测。以上都是采用集中控制器实现网络管理，缺点是存在网络规模限制的局限性等挑战。文献
+[
+10
+]
+提出基于移动边缘计算（mobile edge computing，MEC）融合软件定义的飞行自组网（software-defined flying ad-hoc network，SD-FANET）架构的云边端模型，该模型分为云服务器层、MEC服务器层及用户终端层。文献
+[
+11
+]
+提出一种基于SDN的无人机辅助车载计算卸载优化框架，以实现最小化车载计算任务。文献
+[
+12
+]
+提出一种基于SDN架构和区块链技术的分布式无人机飞行自组网（flying ad-hoc network，FANET）。具体做法是利用抵御拜占庭攻击的算法，有效防止分布式控制平面中部分控制器失效导致网络瘫痪。
+文献
+[
+13
+]
+提出一种SDN控制器和协同控制器的新型分簇飞行自组网（flying ad-hoc sensor network，FASNET）架构。文献
+[
+14
+]
+强调通过增强情境感知（situation awareness）提升响应速度，避免复杂认知模型的计算开销。文献
+[
+15
+]
+展示了将模型预测结果整合到决策中，支持异构集群的动态场景适应性。文献
+[
+16
+]
+提出分层多智能体强化学习（hierarchical multi-agent reinforcement learning，HMARL）框架，将异构无人机集群的协同决策解耦为目标分配中的混合注意力
+Q
+网络（hybrid attentive deep
+Q
+-network，HADQN）与协同攻击中的独立优势近端策略优化（independent advantage proximal policy optimization，IAPPO）两个子问题，通过动态调整策略实现分布式协作。文献
+[
+17
+]
+提出异构无人机集群通过深度态势感知与分布式决策机制，有效提升作战效能，并运用SDN构建时敏型战术边缘云架构。文献
+[
+18
+]
+提出基于链路位置的SDN数据平面故障检测方法，设计了主动式链路故障恢复（link backup and recovery，LBR）方案，通过分治策略设计备份路径，减少恢复时延34%~44%，并优化备份资源利用率。同时提出一种无人机集群智能化指挥控制概念模型，该模型通过集成人工智能技术加速“观察—调整—决策—行动”（observe-orient-decide-act，OODA）环，实现自主决策与动态流量控制。文献
+[
+19
+]
+基于对象过程方法论（object-process methodology，OPM）的无人机集群智能化指挥控制概念模型提出了一种分层控制架构，将SDN控制器分为顶层概念模型（策略生成）、SD1级放大模型（动态任务分解）和SD2级子过程模型（实时路径优化）。但是，以上都是基于集中控制的方式，存在系统信息上报缓慢，网络拓扑重构困难等缺点。
+在“空-天-低空-陆地-海-网”多维协同组网中，无人机作为末端高动态移动设备，对于任务现场的信息收集与指令执行起到关键作用。“空-天-低空-陆地-海-网”多维协同组网架构如
+图1
+所示。
+陆地域，即城市/城镇通信基站、车载移动节点组成的动态自组网；低空域，即无人机集群、飞艇及热气球构成的弹性中继网络节点层；天基域，即民航飞机、飞艇与战机等高速平台搭载的定向通信模块；太空域，即低轨卫星编队与高轨卫星协同的广域覆盖网络；海域，即各类舰艇组成的编队。该架构通过分布式共识协议与动态拓扑重构算法实现跨域资源调度，面对复杂环境时可构建抗毁性强、低时延的通信“一张网”。当末端无人机节点失效时，集中式控制器和分布式控制器协同处理，快速实现末端无人机集群网络拓扑重构。相较于传统分布式网络，具备以下优势：
+1）强鲁棒性：部分节点失效时，可通过邻居智能体的自主任务接管机制快速恢复拓扑。
+图
+1
+“空-天-低空-陆地-海-网” 多维协同组网架构
+Fig.
+1
+Multidimensional collaborative networking architecture integrating &amp;quot;air-space-low altitude-land-sea-network domains&amp;quot;
+2）高可靠性：基于强化学习的信道分配策略动态优化网络吞吐量。
+3）跨域协同：“空-天-低空-陆地-海-网”多维协同组网，多源数据通过智能体协商实现无缝融合与按需分配。
+无人机集群网络中，无人机节点需要同时承担数据转发与动态路由交换任务，然而受限于机载能源与算力资源不足，传统分布式路由协议面临计算开销大、收敛效率低的问题。SDN通过以下机制可有效突破此限制：
+1）控制层-转发解耦架构：将复杂路由逻辑抽象至集中式控制器，无人机节点仅需执行轻量化转发代理功能，有效降低本地计算负载。
+2）全局资源智能管控：SDN控制器实时采集全网拓扑状态、链路质量及节点剩余能量等多维数据，基于强化学习算法动态生成最优路由策略，实现跨节点流量调度与路径优化，完成拓扑快速重构。
+3）动态适应性增强：通过可编程接口实现流表更新，支持节点损耗环境下的路由快速重构。为无人机集群提供高可靠、低能耗的智能弹性组网能力。
+1 无人机集群组网应用
+无人机编队飞行（coordinated formation flight，CFF）通过局部动态感知与分布式协同控制，实现编队稳定、动态重构及自适应避障，其典型应用于环境监测、灾害应急响应与精准农业管理等场景，如
+图2
+所示。异构无人机集群搭载多光谱传感器与气体检测仪，通过对待检测的森林与河流等进行立体化扫描，实时生成植被覆盖率、水质参数及碳排放值等数据，为环境治理提供全域动态监测能力。在灾区通信中断场景下，无人机集群快速构建临时通信中继网络，为保障网络通畅提供有力手段。比如，2023年北京昌平洪灾时，中国电信陕西无线机动通信局使用系留式无人机搭载4G基站，在百米高空悬停12 h，通信半径覆盖3 km，支持200余名用户语音和数据通信，突破地形限制快速搭建临时网络
+[
+20
+]
+。同年，河北涿州洪灾时，中国移动启用中型无人机应急通信系统，单机可实现30 km
+2
+有效信号覆盖，支持200个用户并发业务，为灾区指挥部和热源密集区提供基础通信服务。高效适应洪涝、山地等复杂地形，快速响应通信恢复任务需求
+[
+21
+]
+。2021年，河南暴雨灾害时
+[
+22
+]
+，中国航空工业集团“翼龙-2H应急救灾型”无人机在灾区上空盘旋，恢复50 km
+2
+内通信覆盖，并构建了15 000 km
+2
+的临时网络覆盖区域，为指挥救援和通信提供关键支持。
+图
+2
+软件定义网络的无人机集群组网应用
+Fig.
+2
+Software-defined networking application for UAV swarms
+2 网络资源动态智能配置
+为了收集无人机集群系统网络的资源信息，提出一种SDN与意图驱动网络融合赋能的无人机集群弹性组网架构。通过控制平面与数据平面解耦，将应用层任务意图自动转化为控制层的策略；基于实时收集的全局资源节点位置、链路质量及剩余能量等信息，动态生成拓扑重构方案，实现网络资源动态智能配置。SDN与意图驱动网络融合赋能的无人机集群弹性组网架构包含三层协同控制体系。
+1）控制层对应决策层，采用集中式-分布式混合控制模式，由SDN控制器动态生成网络策略并优化流量路径，结合全局意图与实时网络状态生成控制指令。其中，关键在于其北向接口接收到的意图，在意图编译器中完成意图解析，包含执行的任务和执行的时间等；之后，进行情景化解码和任务规划，包含网络信道资源分配和航迹规划等；然后动态生成配置，包含各传感器配置和解析任务指令；最后，在子意图解析阶段，部署于无人机节点的智能策略映射引擎与中心意图解析引擎构成协同转译机制，通过融合网络拓扑状态、资源负载及环境传感器数据对子意图语义进行动态适配，生成面向集群动态拓扑重构的网络配置策略与协同编队指令，最终通过轻量化南向接口协议栈实现策略下发，形成“意图感知—决策—执行”的闭环控制链路，支持无人机节点在动态环境下自主完成策略适配与分布式协同。
+2）管理平面负责系统的自动化配置、状态监控及维护任务，通过多维度数据采集实现网络健康度评估与异常自愈。
+3）数据平面基于可编程转发规则执行物理层流量调度，实现策略响应与自适应报文处理。为应对天气监测、智慧农业、环境监测与救灾救援等场景，无人机集群根据控制层下发的策略，即通过异构无人机集群进行网络路径和编队重构，以持续完成任务。
+通过SDN与意图驱动的融合，构建“意图感知—决策—执行”的闭环，可充分利用现有网络资源，实时收集节点算力、信道资源及剩余能量等资源信息，结合应用层任务意图动态优化拓扑结构，改进传统静态资源分配瓶颈，实现网络资源利用率最大化，达成资源池的全局动态调度。软件定义的无人机集群弹性组网架构如
+图3
+所示。
+图
+3
+软件定义的无人机集群弹性组网架构
+Fig.
+3
+Software-defined resilient networking architecture for UAV swarms
+系统采用意图驱动技术处理用户的自然语言输入，自然语言指令经过意图编排器进行关键字提取与语义挖掘，解析生成目标网络指令。为提升意图识别精度，设计闭环反馈机制。当下发意图至意图引擎后，通过负载态势感知模块实时监测资源状态，经意图保证流程验证可行性，最终将关键数据反馈回意图编排器。编排器同步与UAV-1、UAV-2、UAV-3等集群节点保持实时数据交互，确保网络指令动态适配实际环境。其中，完整意图输入流程如
+图4
+所示。
+图
+4
+意图输入流程
+Fig.
+4
+Intent input process
+用户新任务指令经北向接口接入控制层后，由意图编译器完成双重优化，实施资源分配优化和航迹规划优化，解析输出任务主体、执行时序与配置参数；优化指令由SDN控制器分发至传感器网络，并驱动UAV集群节点执行任务；同时SDN控制器实时采集无人机集群的状态数据，且将节点信息反馈至意图编译器，实现策略实时校准。自然语言输入处理流程如
+图5
+所示。
+图
+5
+自然语言输入处理流程
+Fig.
+5
+Natural language input processing flow
+为了提升意图识别的准确性，系统设计了一套闭环反馈机制。当意图编译器下发初始意图后，依次经过策略映射引擎进行逻辑转化、负载态势感知模块实时监测资源状态，并由意图保证流程验证可行性；最终处理结果将反馈至意图编排器，形成持续化的意图执行闭环。意图反馈处理机制如
+图6
+所示。
+图
+6
+意图反馈处理机制
+Fig.
+6
+Intent feedback handing mechanism
+3 集中式-分布式控制权动态迁移机制
+集中式-分布式控制权动态迁移机制是一种结合集中控制全局优化能力与分布式控制灵活性的混合架构，通过SDN实现控制平面与数据平面解耦，根据实时任务需求、网络状态或故障场景动态切换控制权归属，实现高效韧性的无人机集群管理。
+在“空-天-低空-陆地-海-网”多维协同组网架构中，低空无人机集群作为立体化信息网络的动态末端网络，承担着“端-用户”与“边缘计算中枢”双重使命。无人机集群作为“端”，在遭受到软硬杀伤时，传感器通过电磁频谱监测与链路质量分析实时监测节点失效态势。中心控制器进行网络韧性动态评估，触发基于多目标拓扑重构算法，将应急决策权限分级迁移至存活节点，构成分布式智能体联盟。当传感器检测到部分网络节点失效时，中心控制器基于网络资源评估结果，对整个网络系统进行统一控制，且立即激活资源池备用无人机，进行网络资源全局调度。备用无人机节点接收到执行任务指令后，依次进行航迹规划、根据任务指令及时飞抵目标位置，开展目标指令的任务实施，有效保证网络拓扑的完整性，为任务的可持续性提供有力保障。当传感器检测到大规模网络节点失效时，中心控制器基于实时资源评估结果，动态将局部决策权迁移至邻近无人机边缘计算节点，或者将控制权迁移至分布式控制器。目标无人机立即激活其搭载的分布式智能控制器，通过融合感知节点状态、信道质量及任务优先级等数据，生成实时态势图谱，快速生成拓扑重构方案，实施动态路由优化与资源重分配，在确保网络连通性的同时维持最低能耗路径，有效维持任务的延续性。
+通过软件定义网络实现控制平面与数据平面解耦，末端无人机集群依托空-天资源调度指令及地面任务需求等，在集中式-分布式混合控制架构下建立控制权动态迁移机制，完成网络拓扑重构以均衡通信效能与机动能耗。针对节点失效，建立分类响应机制：小规模失效时，优先从邻居节点（邻近子群）或混合资源池快速调取无人机进行补位；大规模失效时，中心控制器依据全局资源评估，按功能精准匹配，侦察资源池补位侦察节点、干扰资源池补位干扰节点及打击资源池补位打击节点，实现大规模节点失效后无人机集群拓扑重构。
+此外，支持子集群间协同重构。当某个子集群因规模较小或能力不足难以满足当前任务需求时，系统启动“邻居节点补位重构”机制，即依据任务优先级和空间邻近原则，动态调度地理位置最近的相邻子集群中的无人机资源，快速补充至该子集群，以增强其任务执行能力。当子集群A、子集群B及子集群C组成的大集群中，子集群A和子集群B抵近任务边缘，但能力不足时，可调度远处子集群C的无人机就近跨集群补位，实现子集群补位重构，提升整体网络的韧性。资源池动态调度模型如
+图7
+所示。
+图
+7
+资源池动态调度
+Fig.
+7
+Resource pool dynamic scheduling
+4 复杂任务场景下拓扑重构仿真
+仿真环境使用AirSim插件构建无人机集群仿真的运行环境，使用PyCharm编写程序代码，使用msgpack-rpc网络通信协议实现跨语言通信，使用EXata网络仿真软件构建网络拓扑。
+实验一：在网络拓扑动态重构机制中，当检测到邻近无人机节点失效，如
+图8
+所示，具备多维度网络参数感知能力的相邻无人机节点将自主触发分布式路由修复算法。通过实时评估链路质量、节点负载及空间位置等参数，系统采用自适应拓扑调整策略。由最优候选节点快速接管失效节点的路由转发职能，同时启动多跳接力机制，在局部区域内完成链路重构。这种基于动态权值评估的分布式决策算法，通过最优路径维持端到端通信可靠性，并在重构过程中同步优化网络负载均衡与冗余路径规划。
+图
+8
+部分节点失效时拓扑重构
+Fig.
+8
+Topology reconfiguration under partial node failures
+实验二：当检测到大规模无人机节点失效，如
+图9
+所示，预部署的备用资源池无人机将基于动态优先级算法启动弹性资源调度。系统通过多层级故障检测模块同步分析网络连通度、业务优先级及能耗约束，触发协同式拓扑重构策略。由资源池内匹配度最高的冗余节点无人机集群接替失效节点，采用全局-局部联动的跨层优化方法，实现快速响应。该过程深度融合分布式决策与集中式调度优势，通过多目标优化算法在拓扑重构中同步完成负载再分配、能耗均衡及多重路径冗余配置，实现动态资源最优配置。
+图
+9
+大规模节点失效时拓扑重构
+Fig.
+9
+Topology reconfiguration under large-scale node failures
+在网络拓扑重构时延对比实验中，针对部分节点失效与大规模节点失效两种场景，分别采用邻居无人机自主补位和资源池动态调度两种重构策略进行仿真分析，如
+图10
+所示。实验结果表明：在损失相同数量节点的条件下，基于本地实时感知的邻居补位机制凭借分布式决策优势，平均重构时延较资源池调度模式缩短了38.5%。经分析，由于资源池调度需经历全局拓扑感知、资源匹配计算及跨层部署等流程，尤其在三维空间路径规划阶段产生的多维约束求解时时延显著增加。仿真数据揭示了分布式局部重构与全局调度在时间敏感性上的本质差异，为后续优化混合式拓扑控制算法提供了量化依据。
+图
+10
+无人机补位拓扑重构时间
+Fig.
+10
+UAV replacement topology reconstruction time
+实验三：理想状态下且无持续电磁干扰时，模拟了节点失效后的控制权动态迁移机制，即轻量级任务由分布式边缘控制器处理，复杂任务迁移至集中式控制器处理，大规模任务则启动集中式-分布式控制器组合处理。为统一条件，仿真分别测试了10、20、40、60及80个节点失效时，三种控制方式的重构耗时对比，如
+图11
+所示。结果表明，随着失效节点增加，集中式-分布式控制器组合的重构时间最短；当失效节点达到40个时，三种控制方式的重构时间趋于相近。
+实验四：在持续电磁干扰环境下，基于实验三的控制权迁移机制进行仿真，仿真结果如
+图12
+所示。结果表明，相较于理想状态，持续电磁干扰导致拓扑重构时间整体延长。但是，采用集中式-分布式组合控制策略时，拓扑重构时间为18 s，较纯分布式方案缩短18.03%，验证了该混合架构在干扰环境下的最优时效性。
+5 结论
+本文研究无人机集群遭受软硬杀伤引发节点失效场景下的网络拓扑重构机制。针对部分节点失效和大规模节点失效两类问题，在软件定义网络架构基础上，进一步提出了集中式-分布式混合控制架构下的控制权动态迁移机制，有效提升拓扑重构效率。仿真实验结果表明：在相同节点损失条件下，基于本地实时感知的邻居补位机制凭借分布式决策优势，平均重构时延较资源池调度模式缩短了38.5%；在持续电磁干扰环境下，集中式-分布式组合控制策略重构耗时较纯分布式方案缩短18.03%，体现了混合架构抗干扰优势。
+图
+11
+理想状态下控制权动态迁移拓扑重构时间
+Fig.
+11
+Control handover time for dynamic topology reconstruction under ideal conditions
+图
+12
+干扰持续控制权动态迁移拓扑重构时间
+Fig.
+12
+Topology reconstruction time during dynamic control handover under persistent interference
+图
+1
+“空-天-低空-陆地-海-网” 多维协同组网架构
+Fig.
+1
+Multidimensional collaborative networking architecture integrating &amp;quot;air-space-low altitude-land-sea-network domains&amp;quot;
+下载:
+全尺寸图片
+图
+2
+软件定义网络的无人机集群组网应用
+Fig.
+2
+Software-defined networking application for UAV swarms
+下载:
+全尺寸图片
+图
+3
+软件定义的无人机集群弹性组网架构
+Fig.
+3
+Software-defined resilient networking architecture for UAV swarms
+下载:
+全尺寸图片
+图
+4
+意图输入流程
+Fig.
+4
+Intent input process
+下载:
+全尺寸图片
+图
+5
+自然语言输入处理流程
+Fig.
+5
+Natural language input processing flow
+下载:
+全尺寸图片
+图
+6
+意图反馈处理机制
+Fig.
+6
+Intent feedback handing mechanism
+下载:
+全尺寸图片
+图
+7
+资源池动态调度
+Fig.
+7
+Resource pool dynamic scheduling
+下载:
+全尺寸图片
+图
+8
+部分节点失效时拓扑重构
+Fig.
+8
+Topology reconfiguration under partial node failures
+下载:
+全尺寸图片
+图
+9
+大规模节点失效时拓扑重构
+Fig.
+9
+Topology reconfiguration under large-scale node failures
+下载:
+全尺寸图片
+图
+10
+无人机补位拓扑重构时间
+Fig.
+10
+UAV replacement topology reconstruction time
+下载:
+全尺寸图片
+图
+11
+理想状态下控制权动态迁移拓扑重构时间
+Fig.
+11
+Control handover time for dynamic topology reconstruction under ideal conditions
+下载:
+全尺寸图片
+图
+12
+干扰持续控制权动态迁移拓扑重构时间
+Fig.
+12
+Topology reconstruction time during dynamic control handover under persistent interference
+下载:
+全尺寸图片
+图
+1
+“空-天-低空-陆地-海-网” 多维协同组网架构
+Fig.
+1
+Multidimensional collaborative networking architecture integrating &amp;quot;air-space-low altitude-land-sea-network domains&amp;quot;
+图
+2
+软件定义网络的无人机集群组网应用
+Fig.
+2
+Software-defined networking application for UAV swarms
+图
+3
+软件定义的无人机集群弹性组网架构
+Fig.
+3
+Software-defined resilient networking architecture for UAV swarms
+图
+4
+意图输入流程
+Fig.
+4
+Intent input process
+图
+5
+自然语言输入处理流程
+Fig.
+5
+Natural language input processing flow
+图
+6
+意图反馈处理机制
+Fig.
+6
+Intent feedback handing mechanism
+图
+7
+资源池动态调度
+Fig.
+7
+Resource pool dynamic scheduling
+图
+8
+部分节点失效时拓扑重构
+Fig.
+8
+Topology reconfiguration under partial node failures
+图
+9
+大规模节点失效时拓扑重构
+Fig.
+9
+Topology reconfiguration under large-scale node failures
+图
+10
+无人机补位拓扑重构时间
+Fig.
+10
+UAV replacement topology reconstruction time
+图
+11
+理想状态下控制权动态迁移拓扑重构时间
+Fig.
+11
+Control handover time for dynamic topology reconstruction under ideal conditions
+图
+12
+干扰持续控制权动态迁移拓扑重构时间
+Fig.
+12
+Topology reconstruction time during dynamic control handover under persistent interference
+[1]
+Singh J, Kaur N. A review of swarm intelligence and its applications to cloud computing[C]//2025 International Conference on Inventive Computation Technologies(ICICT), 2025: 260-266.
+[2]
+费陈, 郑晗, 赵亮. 无人机集群控制技术研究[J]. 弹箭与制导学报, 2023, 43(3): 45-55.
+Fei Chen, Zheng Han, Zhao Liang. Research on UAV cluster control technology[J]. Journal of Projectiles, Rockets, Missiles and Guidance, 2023, 43(3): 45-55.(in Chinese)
+[3]
+Wang Jianan, Wang Chunyan, Xin Ming, et al. Cooperative control of multi-agent systems[M]. London: Academic Press, 2020.
+[4]
+Su Lingfei, Lin Zhi, Hua Yongzhao, et al. Resilient time-varying formation optimal tracking for heterogeneous multi-agent systems with coupled constraints[J]. IEEE Transactions on Automation Science and Engineering, 2025, 22: 15274-15285.
+[5]
+潘乐炳, 陈炜民, 贾继鹏, 等. SDN技术在战术MANET中的应用[J]. 电讯技术, 2019, 59(5): 532-537.
+Pan Lebing, Chen Weimin, Jia Jipeng, et al. Application of SDN in tactical MANET[J]. Telecommunication Engineering, 2019, 59(5): 532-537.(in Chinese)
+[6]
+Singhal C, Rahul K. Efficient QoS provisioning using SDN for end-to-end data delivery in UAV assisted network[C]//2019 IEEE International Conference on Advanced Networks and Telecommunications Systems(ANTS), 2019: 1-6.
+[7]
+Rahman S U, Kim G-H, Cho Y-Z, et al. Positioning of UAVs for throughput maximization in software-defined disaster area UAV communication networks[J]. Journal of Communications and Networks, 2018, 20(5): 452-463.
+[8]
+Zhao Zhongliang, Cumino P, Souza A, et al. Software-defined unmanned aerial vehicles networking for video dissemination services[J]. Ad Hoc Networks, 2019, 83: 68-77.
+[9]
+Cumino P, Maciel K, Tavares T, et al. Cluster-based control plane messages management in software-defined flying ad-hoc network[J]. Sensors(Basel), 2020, 20(1): 67.
+[10]
+Peng Haixia, Ye Qiang, Shen Xuemin. SDN-based resource management for autonomous vehicular networks: a multi-access edge computing approach[J]. IEEE Wireless Communications, 2019, 26(4): 156-162.
+[11]
+Zhao Liang, Yang Kaiqi, Tan Zhiyuan, et al. A novel cost optimization strategy for SDN-enabled UAV-assisted vehicular computation offloading[J]. IEEE Transactions on Intelligent Transportation Systems, 2021, 22(6): 3664-3674.
+[12]
+Hu Ning, Tian Zhihong, Sun Yanbin, et al. Building agile and resilient UAV networks based on SDN and blockchain[J]. IEEE Network, 2021, 35(1): 57-63.
+[13]
+Qi Weijing, Song Qingyang, Kong Xiangjie, et al. A traffic-differentiated routing algorithm in flying ad hoc sensor networks with SDN cluster controllers[J]. Journal of the Franklin Institute, 2019, 356(2): 766-790.
+[14]
+Hepworth A J, Hussein A S M, Reid D J, et al. Contextually aware intelligent control agents for heterogeneous swarms[J]. Swarm Intelligence, 2024, 18(4): 275-310.
+[15]
+Gu Yue, Hunt W, Archibald B, et al. Successful swarms: operator situational awareness with modelling and verification at runtime[C]//2023 32nd IEEE International Conference on Robot and Human Interactive Communication(RO-MAN), 2023: 541-548.
+[16]
+Yue Longfei, Yang Rennong, Zuo Jialiang, et al. Unmanned aerial vehicle swarm cooperative decision-making for SEAD mission: a hierarchical multiagent reinforcement learning approach[J]. IEEE Access, 2022, 10: 92177-92191.
+[17]
+Gao Yang, Li Dongsheng. Unmanned aerial vehicle swarm distributed cooperation method based on situation awareness consensus and its information processing mechanism[J]. Knowledge-Based Systems, 2020, 188: 105034.
+[18]
+蓝俊伟, 张奇支, 郑伟平, 等. 基于链路位置的SDN数据平面故障恢复方法[J]. 华南师范大学学报(自然科学版), 2023, 55(5): 111-120.
+Lan Junwei, Zhang Qizhi, Zheng Weiping, et al. A failure recovery algorithm of SDN data plane based on link location[J]. Journal of South China Normal University(Natural Science Edition), 2023, 55(5): 111-120.(in Chinese)
+[19]
+周欢欢, 赵国林, 都兴霖. 基于OPM的无人机集群智能化指挥控制概念模型[J]. 指挥控制与仿真, 2025, 47(1): 1-9.
+Zhou Huanhuan, Zhao Guolin, Du Xinglin. Conceptual model of intelligent command and control for UAV cluster based on OPM[J]. Command Control &amp;amp; Simulation, 2025, 47(1): 1-9.(in Chinese)
+[20]
+中国电信陕西无线电机动通信局搭建空中临时基站科技手段助力背景受灾区域复联[EB/OL].(2023-08-16)[2025-06-01].https: //www.ixian.cn/thread-1826717-1-1.html.
+China telecom Shaanxi radio mobile communications bureau deploys airborne temporary base stations using advanced technology to restore communication connectivity in disaster-affected areas[EB/OL].(2023-08-16)[2025-06-01].https: //www.ixian.cn/thread-1826717-1-1.html.(in Chinese)
+[21]
+甘良棋, 董超. 基于多智能体协同的无人机编队控制研究[J]. 计算机科学, 2024, 51(11A): 240100105.
+Gan Liangqi, Dong Chao. Study on unmanned aircraft formation control based on multi-agent collaboration[J]. Computer Science, 2024, 51(11A): 240100105.(in Chinese)
+[22]
+一架无人机就恢复河南灾区50 km
+2
+通信: “翼龙”成功助小镇通网5小时[EB/OL].(2021-07-22)[2025-06-01].https: //blog.ytso.com/industrynews/28554.html.
+A single drone restores 50 km
+2
+of communication coverage in Henan disaster zone: &amp;quot;Wing Loong&amp;quot; UAV successfully provides 5-hour internet connectivity to small town.[EB/OL].(2021-07-22)[2025-06-01].https: //blog.ytso.com/industrynews/28554.html.(in Chinese)
+[1]
+梁俊,孙伟超,肖楠,陈威龙,郭子桢.
+基于切比雪夫神经网络的软件定义卫星网络智能路由策略
+[J].国防科技大学学报,2020,42(5):23-30.
+[2]
+赵海涛,王海军,陈海涛,张亦弛,魏急波.
+面向无人机集群的通信与组网技术
+[J].国防科技大学学报,2026,48(3):12-35.
+[3]
+王海军,王洁,张姣,赵海涛,任保全,尹浩.
+无人机自组网SPMA协议智能退避技术:DDQN驱动的多维决策
+[J].国防科技大学学报,2026,48(3):96-106.
+[4]
+江元龙,王世练,张尔扬.
+战术移动Ad Hoc网络下的分布式位置辅助功率控制算法
+[J].国防科技大学学报,2005,27(1):78-83.
+[5]
+曹继军,吴宗明,汤强,李小玉.
+深度强化学习和负载中心性理论融合的分段路由优化算法
+[J].国防科技大学学报,2025,47(6):46-59.
+[6]
+陈士涛,张海林.
+基于作战网络模型的异构无人机集群作战能力评估
+[J].军事运筹与系统工程,2019,33(1).
+[7]
+赵荣黎.
+跳频通信的技术体制与发展
+[J].现代军事通信,2003,11(3):33-37.
+[8]
+梁俊,丁然,肖楠,刘玉磊,张振浩.
+基于信息战的软件定义天地一体化网络与关键技术
+[J].火力与指挥控制,2018,43(6):162-166.
+[9]
+袁国栋,何明,韩伟,禹明刚,成铭洋.
+无人机集群社团网络弹性重构研究北大核心
+[J].现代防御技术,2023(5):50-58.
+[10]
+杨同智,党建成,张新,刘镒,王杰,周云涛.
+软件定义的航天器测试网络技术
+[J].国防科技,2021,42(5):22-27.
+[11]
+刘思远,杜海燕,李丽,彭丽娟,方欣欣.
+基于SDN与传统路由相结合的网络架构设计
+[J].火力与指挥控制,2022(4):126-130+137.
+[12]
+高航航,王翔,赵尚弘,彭聪.
+基于时延的软件定义航空网络控制器部署策略
+[J].火力与指挥控制,2019,44(11):67-72.
+[13]
+董帅,张安琳,黄道颖,王宣立,刘江豪.
+基于OpenFlow的SDN中链路层拓扑发现的优化
+[J].火力与指挥控制,2020,45(8):148-153.
+[14]
+王涛;谢添乐;唐勇;张强;许新爽;高琛.
+认知模型驱动的无人机集群混合智能协同决策方法研究
+[J].无人系统技术,2025(3):109-121.
+[15]
+孙利娜,陈永禄,陈志伟.
+基于杀伤链的动态重构作战网络抗毁性分析
+[J].火力与指挥控制,2023,48(2):12-18.
+[16]
+王巍振,张安琳,黄道颖,谢兆贤,陈慧.
+一种基于吞吐量变化的OpenFlow网络自适应测量算法
+[J].火力与指挥控制,2019,44(2):139-143.
+[17]
+王坤;付钰;段雪源;刘涛涛;周静华.
+基于动态限制策略的SDN中IP欺骗攻击缓解技术
+[J].海军工程大学学报,2025(2):9-16+25.
+[18]
+祁江鑫,吴玲,卢发兴,史浩然,许俊飞.
+基于改进YOLOv4算法的无人机目标检测
+[J].兵器装备工程学报,2022(6):210-217.
+[19]
+丁鹏,宋亚飞,夏智权.
+意图驱动的防空武器-目标动态分配方法
+[J].火力与指挥控制,2023,48(12):17-26.
+[20]
+杨思,李小民,谢志刚,席雷平.
+无人机虚拟维修训练系统及其HLA设计
+[J].军械工程学院学报,2007,19(1):12-15.
+PDF下载
+XML下载
+导出引用
+引用提醒
+图(12)
+手机扫码阅读
+引用本文
+甘良棋, 董超, 朱小军, 等. 软件定义的无人机集群弹性组网架构[J]. 国防科技大学学报, 2026, 48(4): 89 - 96.
+复制
+Gan Liangqi, Dong Chao, Zhu Xiaojun, et al. Software-defined resilient networking architecture for UAV swarms[J]. Journal of National University of Defense Technology, 2026, 48(4): 89-96.
+Copy
+计量
+文章访问量:
+HTML全文浏览量:
+PDF下载量:
+被引次数:
+图
+1
+“空-天-低空-陆地-海-网” 多维协同组网架构
+Fig.
+1
+Multidimensional collaborative networking architecture integrating &amp;quot;air-space-low altitude-land-sea-network domains&amp;quot;
+图
+2
+软件定义网络的无人机集群组网应用
+Fig.
+2
+Software-defined networking application for UAV swarms
+图
+3
+软件定义的无人机集群弹性组网架构
+Fig.
+3
+Software-defined resilient networking architecture for UAV swarms
+图
+4
+意图输入流程
+Fig.
+4
+Intent input process
+图
+5
+自然语言输入处理流程
+Fig.
+5
+Natural language input processing flow
+图
+6
+意图反馈处理机制
+Fig.
+6
+Intent feedback handing mechanism
+图
+7
+资源池动态调度
+Fig.
+7
+Resource pool dynamic scheduling
+图
+8
+部分节点失效时拓扑重构
+Fig.
+8
+Topology reconfiguration under partial node failures
+图
+9
+大规模节点失效时拓扑重构
+Fig.
+9
+Topology reconfiguration under large-scale node failures
+图
+10
+无人机补位拓扑重构时间
+Fig.
+10
+UAV replacement topology reconstruction time
+图
+11
+理想状态下控制权动态迁移拓扑重构时间
+Fig.
+11
+Control handover time for dynamic topology reconstruction under ideal conditions
+图
+12
+干扰持续控制权动态迁移拓扑重构时间
+Fig.
+12
+Topology reconstruction time during dynamic control handover under persistent interference
+Singh J, Kaur N. A review of swarm intelligence and its applications to cloud computing[C]//2025 International Conference on Inventive Computation Technologies(ICICT),2025:260-266.
+费陈, 郑晗, 赵亮. 无人机集群控制技术研究[J]. 弹箭与制导学报,2023,43(3):45-55.
+Fei Chen, Zheng Han, Zhao Liang. Research on UAV cluster control technology[J]. Journal of Projectiles, Rockets, Missiles and Guidance,2023,43(3):45-55.(in Chinese)
+Wang Jianan, Wang Chunyan, Xin Ming,et al. Cooperative control of multi-agent systems[M]. London: Academic Press,2020.
+Su Lingfei, Lin Zhi, Hua Yongzhao,et al. Resilient time-varying formation optimal tracking for heterogeneous multi-agent systems with coupled constraints[J]. IEEE Transactions on Automation Science and Engineering,2025,22:15274-15285.
+潘乐炳, 陈炜民, 贾继鹏, 等. SDN技术在战术MANET中的应用[J]. 电讯技术,2019,59(5):532-537.
+Pan Lebing, Chen Weimin, Jia Jipeng,et al. Application of SDN in tactical MANET[J]. Telecommunication Engineering,2019,59(5):532-537.(in Chinese)
+Singhal C, Rahul K. Efficient QoS provisioning using SDN for end-to-end data delivery in UAV assisted network[C]//2019 IEEE International Conference on Advanced Networks and Telecommunications Systems(ANTS),2019:1-6.
+Rahman S U, Kim G-H, Cho Y-Z,et al. Positioning of UAVs for throughput maximization in software-defined disaster area UAV communication networks[J]. Journal of Communications and Networks,2018,20(5):452-463.
+Zhao Zhongliang, Cumino P, Souza A,et al. Software-defined unmanned aerial vehicles networking for video dissemination services[J]. Ad Hoc Networks,2019,83:68-77.
+Cumino P, Maciel K, Tavares T,et al. Cluster-based control plane messages management in software-defined flying ad-hoc network[J]. Sensors(Basel),2020,20(1):67.
+Peng Haixia, Ye Qiang, Shen Xuemin. SDN-based resource management for autonomous vehicular networks:a multi-access edge computing approach[J]. IEEE Wireless Communications,2019,26(4):156-162.
+Zhao Liang, Yang Kaiqi, Tan Zhiyuan,et al. A novel cost optimization strategy for SDN-enabled UAV-assisted vehicular computation offloading[J]. IEEE Transactions on Intelligent Transportation Systems,2021,22(6):3664-3674.
+Hu Ning, Tian Zhihong, Sun Yanbin,et al. Building agile and resilient UAV networks based on SDN and blockchain[J]. IEEE Network,2021,35(1):57-63.
+Qi Weijing, Song Qingyang, Kong Xiangjie,et al. A traffic-differentiated routing algorithm in flying ad hoc sensor networks with SDN cluster controllers[J]. Journal of the Franklin Institute,2019,356(2):766-790.
+Hepworth A J, Hussein A S M, Reid D J,et al. Contextually aware intelligent control agents for heterogeneous swarms[J]. Swarm Intelligence,2024,18(4):275-310.
+Gu Yue, Hunt W, Archibald B,et al. Successful swarms:operator situational awareness with modelling and verification at runtime[C]//2023 32nd IEEE International Conference on Robot and Human Interactive Communication(RO-MAN),2023:541-548.
+Yue Longfei, Yang Rennong, Zuo Jialiang,et al. Unmanned aerial vehicle swarm cooperative decision-making for SEAD mission:a hierarchical multiagent reinforcement learning approach[J]. IEEE Access,2022,10:92177-92191.
+Gao Yang, Li Dongsheng. Unmanned aerial vehicle swarm distributed cooperation method based on situation awareness consensus and its information processing mechanism[J]. Knowledge-Based Systems,2020,188:105034.
+蓝俊伟, 张奇支, 郑伟平, 等. 基于链路位置的SDN数据平面故障恢复方法[J]. 华南师范大学学报(自然科学版),2023,55(5):111-120.
+Lan Junwei, Zhang Qizhi, Zheng Weiping,et al. A failure recovery algorithm of SDN data plane based on link location[J]. Journal of South China Normal University(Natural Science Edition),2023,55(5):111-120.(in Chinese)
+周欢欢, 赵国林, 都兴霖. 基于OPM的无人机集群智能化指挥控制概念模型[J]. 指挥控制与仿真,2025,47(1):1-9.
+Zhou Huanhuan, Zhao Guolin, Du Xinglin. Conceptual model of intelligent command and control for UAV cluster based on OPM[J]. Command Control &amp;amp; Simulation,2025,47(1):1-9.(in Chinese)
+中国电信陕西无线电机动通信局搭建空中临时基站科技手段助力背景受灾区域复联[EB/OL].(2023-08-16)[2025-06-01].https://www.ixian.cn/thread-1826717-1-1.html.
+China telecom Shaanxi radio mobile communications bureau deploys airborne temporary base stations using advanced technology to restore communication connectivity in disaster-affected areas[EB/OL].(2023-08-16)[2025-06-01].https://www.ixian.cn/thread-1826717-1-1.html.(in Chinese)
+甘良棋, 董超. 基于多智能体协同的无人机编队控制研究[J]. 计算机科学,2024,51(11A):240100105.
+Gan Liangqi, Dong Chao. Study on unmanned aircraft formation control based on multi-agent collaboration[J]. Computer Science,2024,51(11A):240100105.(in Chinese)
+一架无人机就恢复河南灾区50 km
+2
+通信:“翼龙”成功助小镇通网5小时[EB/OL].(2021-07-22)[2025-06-01].https://blog.ytso.com/industrynews/28554.html.
+A single drone restores 50 km
+2
+of communication coverage in Henan disaster zone:&amp;quot;Wing Loong&amp;quot; UAV successfully provides 5-hour internet connectivity to small town.[EB/OL].(2021-07-22)[2025-06-01].https://blog.ytso.com/industrynews/28554.html.(in Chinese)
+作者投稿
+投稿指南
+联系我们
+公众号
+返回顶部
+扫码关注
+官方微信
+您是今天第
+11857
+位访客
+总访问量：
+254740590
+电话：
+0731-87028030
+邮箱:journal@nudt.edu.cn
+地址：湖南省长沙市开福区德雅路109号
+邮政编码：410073
+备案号 
+：
+湘ICP备09019258号
+技术支持：北京勤云科技发展有限公司&lt;/pre&gt;</content:encoded></item><item><title>电磁频谱空间具身智能认知:概念、框架和关键技术</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260402?st=search&amp;tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260402?st=search&amp;tab=abstract</guid><description>电磁频谱空间具身智能认知:概念、框架和关键技术
+EI•CA•INSPEC•JST•SCOPUS
+中文核心期刊•CSCD•WJCI
+首页
+期刊介绍
+投稿指南
+来稿须知
+稿件要求
+录用修订
+稿件流程
+相关下载
+编委会
+出版声明
+出版道德声明
+出版伦理声明
+开放获取声明
+联系我们
+期刊订阅
+纸刊订阅
+E-mail订阅
+Rss
+AI检索
+Deepseek
+豆包
+文心一言
+通义
+讯飞星火
+Kimi
+English
+引用本文:
+林云, 查浩然, 尚佳颖, 等. 电磁频谱空间具身智能认知：概念、框架和关键技术[J]. 国防科技大学学报, 2026, 48(4)：17-28.
+Citation:
+Lin Yun, Zha Haoran, Shang Jiaying, et al. Embodied intelligence cognition in electromagnetic spectrum space: concepts, frameworks, and key technologies[J]. Journal of National University of Defense Technology, 2026, 48(4)： 17-28.
+电磁频谱空间具身智能认知：概念、框架和关键技术
+doi:
+10.11887/j.issn.1001-2486.25050025
+林云
+1
+角色:
+第一作者
+机构:
+1. 哈尔滨工程大学 信息与通信工程学院，黑龙江 哈尔滨 150001
+邮箱:
+linyun@hrbeu.edu.cn
+简介:
+林云（1979—），男，黑龙江哈尔滨人，教授，博士，博士生导师，E-mail: linyun@hrbeu.edu.cn
+，
+ 查浩然
+1
+机构:
+1. 哈尔滨工程大学 信息与通信工程学院，黑龙江 哈尔滨 150001
+，
+ 尚佳颖
+1
+机构:
+1. 哈尔滨工程大学 信息与通信工程学院，黑龙江 哈尔滨 150001
+，
+ 田乔
+2
+机构:
+2. 哈尔滨工程大学 计算机科学与技术学院，黑龙江 哈尔滨 150001
+，
+ 王巍
+3
+机构:
+3. 中国电子科技集团公司 第三十六研究所，浙江 嘉兴 314000
+，
+ 郭兰图
+4
+机构:
+4. 中国电子科技集团公司 第二十二研究所, 山东 青岛 266107
+1. 哈尔滨工程大学 信息与通信工程学院，黑龙江 哈尔滨 150001
+2. 哈尔滨工程大学 计算机科学与技术学院，黑龙江 哈尔滨 150001
+3. 中国电子科技集团公司 第三十六研究所，浙江 嘉兴 314000
+4. 中国电子科技集团公司 第二十二研究所, 山东 青岛 266107
+基金项目:
+国家自然科学基金资助项目（62201172，U23A20271）
+ ；
+ 国家重点研发计划资助项目（2022YFE0136800）
+详细信息
+收起信息
+作者简介
+林云（1979—），男，黑龙江哈尔滨人，教授，博士，博士生导师，E-mail: linyun@hrbeu.edu.cn
+中图分类号:
+TM15;TP18
+文献标识码:
+A
+文章编号:
+1001-2486(2026)04-017-12
+Embodied intelligence cognition in electromagnetic spectrum space: concepts, frameworks, and key technologies
+Lin Yun
+1
+Role:
+First Author
+Affiliation:
+1. College of Information </description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260402?st=search&amp;amp;tab=abstract&lt;/p&gt;&lt;pre&gt;电磁频谱空间具身智能认知:概念、框架和关键技术
+EI•CA•INSPEC•JST•SCOPUS
+中文核心期刊•CSCD•WJCI
+首页
+期刊介绍
+投稿指南
+来稿须知
+稿件要求
+录用修订
+稿件流程
+相关下载
+编委会
+出版声明
+出版道德声明
+出版伦理声明
+开放获取声明
+联系我们
+期刊订阅
+纸刊订阅
+E-mail订阅
+Rss
+AI检索
+Deepseek
+豆包
+文心一言
+通义
+讯飞星火
+Kimi
+English
+引用本文:
+林云, 查浩然, 尚佳颖, 等. 电磁频谱空间具身智能认知：概念、框架和关键技术[J]. 国防科技大学学报, 2026, 48(4)：17-28.
+Citation:
+Lin Yun, Zha Haoran, Shang Jiaying, et al. Embodied intelligence cognition in electromagnetic spectrum space: concepts, frameworks, and key technologies[J]. Journal of National University of Defense Technology, 2026, 48(4)： 17-28.
+电磁频谱空间具身智能认知：概念、框架和关键技术
+doi:
+10.11887/j.issn.1001-2486.25050025
+林云
+1
+角色:
+第一作者
+机构:
+1. 哈尔滨工程大学 信息与通信工程学院，黑龙江 哈尔滨 150001
+邮箱:
+linyun@hrbeu.edu.cn
+简介:
+林云（1979—），男，黑龙江哈尔滨人，教授，博士，博士生导师，E-mail: linyun@hrbeu.edu.cn
+，
+ 查浩然
+1
+机构:
+1. 哈尔滨工程大学 信息与通信工程学院，黑龙江 哈尔滨 150001
+，
+ 尚佳颖
+1
+机构:
+1. 哈尔滨工程大学 信息与通信工程学院，黑龙江 哈尔滨 150001
+，
+ 田乔
+2
+机构:
+2. 哈尔滨工程大学 计算机科学与技术学院，黑龙江 哈尔滨 150001
+，
+ 王巍
+3
+机构:
+3. 中国电子科技集团公司 第三十六研究所，浙江 嘉兴 314000
+，
+ 郭兰图
+4
+机构:
+4. 中国电子科技集团公司 第二十二研究所, 山东 青岛 266107
+1. 哈尔滨工程大学 信息与通信工程学院，黑龙江 哈尔滨 150001
+2. 哈尔滨工程大学 计算机科学与技术学院，黑龙江 哈尔滨 150001
+3. 中国电子科技集团公司 第三十六研究所，浙江 嘉兴 314000
+4. 中国电子科技集团公司 第二十二研究所, 山东 青岛 266107
+基金项目:
+国家自然科学基金资助项目（62201172，U23A20271）
+ ；
+ 国家重点研发计划资助项目（2022YFE0136800）
+详细信息
+收起信息
+作者简介
+林云（1979—），男，黑龙江哈尔滨人，教授，博士，博士生导师，E-mail: linyun@hrbeu.edu.cn
+中图分类号:
+TM15;TP18
+文献标识码:
+A
+文章编号:
+1001-2486(2026)04-017-12
+Embodied intelligence cognition in electromagnetic spectrum space: concepts, frameworks, and key technologies
+Lin Yun
+1
+Role:
+First Author
+Affiliation:
+1. College of Information and Communication Engineering, Harbin Engineering University, Harbin 150001 , China
+Email:
+linyun@hrbeu.edu.cn
+，
+ Zha Haoran
+1
+Affiliation:
+1. College of Information and Communication Engineering, Harbin Engineering University, Harbin 150001 , China
+，
+ Shang Jiaying
+1
+Affiliation:
+1. College of Information and Communication Engineering, Harbin Engineering University, Harbin 150001 , China
+，
+ Tian Qiao
+2
+Affiliation:
+2. College of Computer Science and Technology, Harbin Engineering University, Harbin 150001 , China
+，
+ Wang Wei
+3
+Affiliation:
+3. The 36th Research Institute of China Electronics Technology Group Corporation, Jiaxing 314000 , China
+，
+ Guo Lantu
+4
+Affiliation:
+4. The 22nd Research Institute of China Electronics Technology Group Corporation, Qingdao 266107 , China
+1. College of Information and Communication Engineering, Harbin Engineering University, Harbin 150001 , China
+2. College of Computer Science and Technology, Harbin Engineering University, Harbin 150001 , China
+3. The 36th Research Institute of China Electronics Technology Group Corporation, Jiaxing 314000 , China
+4. The 22nd Research Institute of China Electronics Technology Group Corporation, Qingdao 266107 , China
+摘要
+HTML全文
+图(7)表(0)
+参考文献
+相似文献
+出版信息
+访问统计
+资源附件
+摘要
+随着电磁空间应用的持续拓展和任务需求的不断升级，频谱资源呈现高度动态化、信号体制多样化和环境复杂化的趋势，给传统频谱认知与管理体系带来严峻挑战。本文梳理了当前电磁频谱认知在环境适应、自主决策与协同感知等方面存在的部署静态、知识孤立、认知封闭等核心问题。为应对这些挑战，提出“电磁频谱空间具身智能认知”概念，融合具身智能体的分布式移动部署与可编程射频前端，实现对复杂电磁环境的多模态感知与结构化理解；引入大模型与Agent机制支撑任务导向的推理决策；结合联邦学习与持续学习技术，构建具备进化能力的知识优化机制，赋予系统“电磁肌肉记忆”。最后，深入分析了三大模块间的协同机制与关键技术，阐述具身智能在复杂电磁频谱空间实时感知、主动调控和持续优化中的核心价值，为电磁空间中多场景、多任务的智能认知与频谱调控提供理论支撑与工程启示。
+关键词
+电磁频谱空间
+/
+具身智能
+/
+认知电子战
+/
+频谱感知
+/
+闭环认知
+/
+智能管控
+Abstract
+With the continuous expansion of electromagnetic space applications and increasing operational complexity, spectrum resources show growing dynamism, diverse signal structures, and complex environments—posing serious challenges to traditional spectrum sensing and management. This paper reviewed key limitations in current electromagnetic spectrum cognition, such as static deployment, isolated knowledge, and closed-loop cognition, which restrict adaptability, autonomous decision-making, and collaborative perception. To address these challenges, the embodied intelligent cognition for electromagnetic spectrum space was proposed. This framework integrates distributed mobile embodied agents with programmable RF front-ends to enable multimodal perception and structured understanding of complex environments. It incorporated large models and agent-based mechanisms for task-driven reasoning and decision-making, using federated and continual learning to build an evolving knowledge system, granting “electromagnetic muscle memory”. Finally, coordination mechanisms and key technologies across three core modules were analyzed, emphasizing embodied intelligence′s role in real-time perception, proactive regulation, and continuous optimization in complex spectrum spaces, providing theoretical foundations and engineering insights for intelligent cognition and spectrum management across multi-scenario, multi-task environments.
+Keywords
+electromagnetic spectrum space
+/
+embodied intelligence
+/
+cognitive electronic warfare
+/
+spectrum sensing
+/
+closed-loop cognition
+/
+intelligent control
+1 电磁频谱空间认知
+1.1 电磁频谱空间认知概念
+1.2 电磁频谱空间认知研究现状
+1.3 电磁频谱空间认知主要挑战
+1.3.1 环境动态性与实时适应性
+1.3.2 多任务协调与资源分配
+1.3.3 智能感知与自适应决策
+2 具身智能赋能的电磁频谱空间认知
+2.1 具身智能概述
+2.2 电磁频谱空间具身智能认知概念与框架
+3 电磁频谱空间具身智能认知关键技术
+3.1 具身电磁感知与语义理解
+3.1.1 信号采集与特征提取
+3.1.2 语义映射与理解形成
+3.2 具身电磁决策与执行调控
+3.2.1 认知决策与推理
+3.2.2 执行调控与行动实施
+3.3 具身电磁知识演化与优化
+3.3.1 环境感知与记忆更新
+3.3.2 自我演化与持续优化
+4 结论
+随着人工智能技术的发展，以及人工智能与无线通信技术的深度融合，电磁频谱空间正从传统的信号传输载体向具有环境交互与自主决策能力的智能实体方向进行演化。在军用和民用多个领域，对电磁频谱空间智能化的需求日益增长，催生了具身智能体与智能频谱系统的广泛探索与应用。其中，在军事领域，频谱环境复杂多变，对电磁感知系统的机动性、自主性与抗干扰能力提出了更高的要求，促使具身无人集群、认知电子战平台等成为关键载体；而在民用方面，智慧城市、车联网、应急通信与工业物联网等场景对频谱资源动态管理和通信质量保障的需求同样迫切，推动了具身智能在实时频谱调度、自适应通信与环境协同感知等方面的快速发展。
+然而，目前电磁频谱空间领域仍面临动态环境适应不足，跨域协同困难等挑战，这些挑战揭示了传统的离线建模体系在用户行为突变、多径效应交织的动态场景中已经开始逐渐显现其劣势
+[
+1
+]
+。并且，随着军民融合的发展趋势，以分布式无人集群、可编程射频前端等为代表的具身智能体日益成为电磁频谱空间认知的关键载体。这些智能体通过在空间中自主移动、协同部署，构建了一个分布式、动态演化的电磁频谱空间观测系统。在此背景下，传统静态、中心化的电磁认知模型已难以满足快速响应与鲁棒认知的需求
+[
+2
+]
+。目前亟须突破传统认知无线电的静态分析框架，寻找更符合真实世界复杂性的智能决策范式。
+具身智能技术的兴起为这一领域提供了全新的技术路线，具身智能与环境的实时交互特性及其闭环优化机制，与电磁频谱空间的动态特性具有天然的适配性。电磁波传播受物理环境直接影响，而频谱决策又需要实时响应多变的作战任务需求，这种动态特性使得具身智能成为提升电磁频谱空间认知能力的理想技术路径
+[
+3
+]
+。同时，在公共安全通信、高密度城区网络优化等民用场景中，具身智能体也展现出通过“边移动、边认知、边决策”的方式，快速适配非静态频谱环境的潜力。基于具身智能的电磁频谱空间认知系统可通过智能体与先进算法的深度协同，推动认知系统向全自主化方向演进，能够在无人干预的条件下实现复杂电磁频谱空间的感知与语义理解、决策与执行调控以及知识演化等，实现电磁频谱空间从被动适应到主动调控的技术升级。
+本文立足具身智能的核心思想和认知电子战的技术需求，提出电磁频谱空间具身智能认知的概念和框架。该概念着眼于如何将具身智能技术融入电磁频谱空间认知领域，从而提升电磁频谱空间认知系统的泛化性、鲁棒性。具身智能通过先进的传感器与物理世界交互，并通过先进的人工智能算法以及搭载大模型的决策框架，自主完成综合学习任务，实现智能体在复杂电磁环境中的精度感知、自主决策、实时调控与动态管理等，提升电磁频谱空间认知系统对开放空间的长期适应能力。
+基于电磁频谱空间具身智能认知概念与框架，本文进一步阐述了其中涉及的核心技术，旨在推进电磁频谱空间具身智能认知领域的工程化落地，并为相关领域的学者和从业人员提供一定的借鉴和思路。
+1 电磁频谱空间认知
+1.1 电磁频谱空间认知概念
+电磁频谱空间认知是指认知主体在动态异构的电磁环境中，通过对频谱资源在时间、频率、空间和用户维度的联合感知、建模与理解，实现对频谱使用行为、资源状态及其演化趋势的智能认知与优化决策能力。其核心在于构建频谱资源、频谱行为、空间场景的多维联合表征模型，融合频谱状态感知、信号特征提取、使用模式识别与资源调度优化等关键技术，揭示频谱资源的动态占用结构、使用意图与协同模式
+[
+4
+]
+。该认知过程融合电磁物理学、信息科学和认知科学原理，旨在形成对电磁频谱资源、电磁对抗关系和电磁安全风险的动态化、可解释性知识表达，为电磁频谱管理、电子战决策和无线通信优化提供理论支撑。
+1.2 电磁频谱空间认知研究现状
+当前，电磁频谱空间认知技术在应对复杂电磁环境、支撑动态频谱管理以及服务现代电子战系统方面取得了显著进展
+[
+5
+]
+。传统的频谱感知方法，如能量检测和基于特征的检测手段，已难以满足未来战争场景中对高精度、高鲁棒性频谱识别与态势感知的需求
+[
+6
+]
+。为此，研究者开始引入机器学习、深度学习等智能技术
+[
+7
+-
+8
+]
+，推动频谱感知从静态检测向动态理解演进，以实现复杂环境下的目标识别、干扰识别和行为推理，增强认知系统的智能化水平和电磁优势获取能力
+[
+9
+]
+。
+近年来的研究正致力于构建一个更加灵活、可协同的频谱认知架构，其中“数据—语义—行为”一体化模型受到关注。该模型通过多层级部署，实现从传感器采集、边缘融合到语义理解和行为推理的连续处理
+[
+10
+]
+。例如，通过构建“端—边—云”结构的频谱态势图，可以在战术环境中快速捕捉频谱动态，为高效决策提供支撑。在国外，美军的全球电磁频谱信息系统（global electromagnetic spectrum information system，GEMSIS）与国防高级研究计划局（defense advanced research projects agency，DARPA）的RadioMap平台已具备频谱感知、敌我识别和行为监测能力，能够为战场行动提供实时频谱图景
+[
+11
+]
+。然而，这些系统多建立在非具身认知模型之上，频谱认知仍主要依赖静态部署、离散节点和集中处理，缺乏与环境实时交互、闭环反馈的能力，难以应对机动性强、反馈周期短的战术需求。
+频谱语义建模是理解电磁活动背后含义的核心。现有工作通过对通信和雷达辐射源的信号特征建模，从调制方式、波形结构、频率变化等维度构建电磁特征空间
+[
+12
+-
+15
+]
+。针对异构、高动态信号的融合问题，有研究提出集中式与分布式多节点感知机制，结合统计建模和神经网络技术提升融合精度与鲁棒性
+[
+16
+-
+17
+]
+。然而，尽管这些技术为语义推理奠定了基础，但它们在语义演化、跨模态理解和未知语义构建方面仍存在明显短板，尤其在面对陌生波形、突发干扰或策略性欺骗行为时，语义模型缺乏自我解释与修正能力。
+当前研究还在积极探索频谱态势的补全与预测，以提升对未来电磁活动的掌控能力。在数据不完整或干扰严重的环境中，通过空间插值方法重构缺失区域信息，或利用卷积网络与双向长短时记忆等深度网络建模频谱序列，实现时间维度上的趋势预测
+[
+18
+]
+。这些模型有助于提前识别异常频段、感知频谱占用动态，从而支撑战术部署与频谱干扰管理。然而，这类推理过程仍局限于系统内嵌、静态运行，缺乏与物理环境联动的能力，难以根据实时反馈进行主动调控。
+与此同时，频谱行为推理与意图识别研究也逐步展开。研究者开始通过构建频谱行为知识图谱，挖掘不同设备、网络或战术实体在频谱空间中的交互关系，并结合图神经网络和语义嵌入技术，推理频谱使用模式、攻击路径或协同作战意图
+[
+19
+-
+22
+]
+。例如，集群无人系统在协同通信过程中呈现的频谱使用同步性，可能指示集群攻击行为的预备状态；而在频谱空洞中异常出现的新型波形，可能是电子欺骗或诱饵信号。这些技术在美军频谱挑战赛和战术试验场中已得到初步验证
+[
+23
+]
+，频谱认知正在从辅助态势判断走向主动作战能力的构建。
+综上所述，尽管电磁频谱空间认知技术已初步构建起从感知、理解到推理的闭环路径，并展现出广泛的电子战应用潜力，但当前大多数系统依然运行在“非具身”的模式下，缺乏基于认知体的交互、反馈和行动能力。如何打破静态结构的限制，引入面向任务的具身认知智能体，使其具备机动部署、自主感知、自我优化和任务导向推理能力，将成为未来构建新型认知电子战体系的关键方向。
+1.3 电磁频谱空间认知主要挑战
+在现代信息化作战和泛在无线通信环境中，电磁空间正逐渐演化为继陆、海、空、天、网之后的第六作战域与战略资源空间。尤其是在电子战背景下，电磁频谱空间已经成为信息对抗的主战场。在5G/6G通信、智能交通、应急救援、工业物联网等民用场景中，对频谱资源的高效利用、动态管理与安全保障也提出了前所未有的挑战和需求。电磁频谱空间的智能化认知能力，不仅关乎战时通信对抗的制胜关键，也直接影响到城市基础设施运行效率、灾害响应速度与民用通信系统的鲁棒性。
+与此同时，随着智能通信、无人系统、自主感知网络等技术的发展，电磁空间的利用已广泛扩展至军事与民用融合的多个领域。在这一更广泛的背景下，如何在复杂动态的电磁环境中实施全面感知、快速认知决策与高效任务执行，已成为提升系统智能化与作战能力的关键。无论是应对战场电磁压制，还是保障城市无线基础设施的高可靠运行，均需依赖电磁频谱空间中具备自适应、自主优化能力的认知系统。在此背景下，当前传统电磁频谱空间认知主要面临以下挑战，如
+图1
+所示。
+1.3.1 环境动态性与实时适应性
+电磁环境高度动态复杂，干扰源、通信频段及传感器状态持续变化，要求频谱认知系统具备实时感知与快速响应能力。传统静态网络配置固定，灵活性不足
+[
+24
+]
+，在复杂干扰下响应迟缓，限制了任务效率。
+虽然分布式无人集群和可编程射频前端提升了机动性和鲁棒性，实现动态策略调整和频段重构，但在深层环境理解与主动协同决策方面仍显不足。尤其在多任务多目标环境中，系统缺乏自主学习与在线演化能力，难以实现全面环境感知和实时最优调控。如何突破这些技术瓶颈，实现高效智能的电磁频谱认知，是当前的关键挑战。
+1.3.2 多任务协调与资源分配
+电磁空间中的任务通常需多个异构设备协同完成，对频谱资源利用与多任务调度提出挑战。传统静态网络依赖固定链路与中心化控制，调度效率低，难以应对动态任务需求。分布式无人集群通过去中心化协作，实现信息共享与自主执行，显著提升系统灵活性与适应性
+[
+25
+]
+。
+图
+1
+电磁频谱空间认知背景
+Fig.
+1
+Background of spatial awareness of the electromagnetic spectrum
+但去中心化也带来新挑战：在频谱拥挤或干扰复杂的环境下，如何实现资源的动态优化分配、保障通信稳定、满足异构任务实时需求，成为系统设计的关键。这要求具备高效的频谱感知与状态共享能力，同时解决信息不完全、资源冲突与协同决策复杂度等问题，以实现系统整体性能优化。
+1.3.3 智能感知与自适应决策
+在复杂电磁环境中，认知系统不仅需感知环境变化，更应具备主动决策与自适应执行能力。然而，传统静态网络灵活性不足，难以应对电磁态势的快速演化。基于分布式无人集群与可编程射频前端的系统通过融合感知、控制与智能决策模块，实现了高度自适应的认知功能。
+尽管如此，智能感知与自适应决策仍面临挑战：一是电磁环境复杂且非线性，导致感知存在盲区与不确定性；二是大规模动态数据的实时处理对算力与算法提出更高要求
+[
+26
+]
+；三是多设备协同中，信息不对称、决策冲突与资源优化问题仍待解决。因此，实现更深入的环境理解与高效的自适应决策，仍有赖于技术突破。
+2 具身智能赋能的电磁频谱空间认知
+2.1 具身智能概述
+具身智能作为人工智能发展的重要方向，强调智能体应具备与物理世界交互的能力，其认知过程不仅依赖于内部模型，更深植于对环境的感知、理解与反应之中。相比传统依赖离线训练与静态数据的“离身智能”，具身智能构建了“感知—决策—行动”的自主闭环，促使智能体在真实世界中不断调整策略、积累经验并实现进化式学习
+[
+27
+]
+，具身智能系统应用架构如
+图2
+所示。这一特性赋予系统高度的适应性与鲁棒性，尤其适用于动态、多变甚至对抗性强的环境。
+图
+2
+具身智能系统应用架构示意图
+Fig.
+2
+Schematic diagram of the application framework of the embodied intelligence system
+在分布式智能体系统如无人机集群、电磁态势感知网络中，具身智能展现出独特的潜力。每一节点通过多模态感知单元实时获取环境信息，配合本地决策机制与任务协同调度，在无集中控制的前提下实现全局有序响应。随着以ChatGPT为代表的大语言模型不断拓展至跨模态推理与任务规划领域，具身智能的认知层获得了类人水平的语言理解和复杂推理能力
+[
+28
+-
+32
+]
+，使得智能体不仅“能动”，更“能懂”。这一融合为电磁频谱空间中的动态任务响应、信号识别与协同认知等应用提供了新的范式支撑，也推动具身智能从实验验证走向实用部署
+[
+33
+]
+。这一发展不仅重构了当前人工智能的研究范式，更被写入了2025年《政府工作报告》，成为国家培育未来产业的核心方向之一
+[
+34
+]
+。
+2.2 电磁频谱空间具身智能认知概念与框架
+电磁频谱空间具身智能认知是指一种集感知、语义理解、认知推理、执行调控与知识演化于一体的电磁频谱智能体认知体系，如
+图3
+所示，其中具身智能体以类生物体“感觉—神经—肌肉”式的闭环结构，通过与电磁环境的实时交互与闭环反馈，实现对电磁频谱资源的动态感知、自主决策与持续适应。
+图
+3
+电磁频谱空间具身智能认知概念示意图
+Fig.
+3
+Schematic diagram of the concept of embodied intelligence cognition in electromagnetic spectrum space
+本文所提出的“具身智能认知”不仅强调具身智能体对物理环境的主动感知与行为控制能力，更指代其在电磁频谱空间中完成“感知—理解—推理—决策—演化”的全过程认知闭环。该系统通过具身交互实现频谱动态感知，通过语义理解支撑电磁态势推理，并结合联邦学习与任务反馈优化实现持续演化，构成一个面向电磁复杂环境的泛智能认知体系。
+电磁频谱空间具身智能认知核心在于打破传统电磁认知系统中感知、认知与执行模块分离的静态结构，赋予系统更强的实时性、自适应性与环境交互能力
+[
+35
+-
+38
+]
+。电磁频谱空间具身智能认知结构如
+图4
+所示，该框架由以下三部分协同构成：
+1）感知与语义理解：作为整个系统的“感知神经系统”，负责从电磁环境中收集原始信号并进行初步的处理与语义转化。系统通过分布式无人集群与可编程射频前端构成灵活机动、可重构的硬件设备，这些设备构成电磁频谱空间具身智能认知的“身体”，实时采集电磁信号。在采集电磁信号的过程中智能体通过传感器主动感知电磁环境状态，利用内置的学习算法和决策机制分析环境信息，然后有目的地执行探索行动（如调整传感器参数等），并根据电磁环境实时反馈不断探索策略，这个过程不是简单的被动接收，而是智能体根据任务目标主动选择最优的探索路径和方式，通过持续的交互学习来适应环境变化，最终实现对复杂电磁环境的高效认知和适应。该部分的核心任务是将这些实时采集的原始信号转化为能够为上层决策提供语义信息的特征。其中感知部分通过分布式传感器和射频硬件实时采集电磁信号，提供“感觉”功能；而语义理解部分负责利用高效算法对信号进行特征提取与转换，将原始信号转化为能够支持后续智能决策的任务信息，相当于生物体中的“神经”系统。
+图
+4
+电磁频谱空间具身智能认知框架
+Fig.
+4
+Electromagnetic spectrum space embodied intelligent cognition overall framework
+2）决策与执行调控：对应生物体中的“大脑”和“肌肉”系统，负责基于感知与语义理解部分提供的任务信息，进行高效的决策推理，并执行相应的操作。在这一部分，系统根据获得的语义特征判断“这是什么信号”，推理信号背后的意图、来源以及潜在威胁，并基于这些推理结果做出实时的决策。其中决策部分作为整个系统的“中枢大脑”，其基于从语义理解中获得的信息，以大模型为基础、环境记忆库为长期记忆、主动学习调度器为前额叶做出决策推理，而执行调控部分则将决策转化为实际的电磁操作，通过波形、波束的调控和设备指令的执行，相当于生物体的“运动神经”与“肌肉”，实现实时反应
+[
+39
+]
+。
+3）知识演化与优化：确保系统能够在实际环境中不断学习和适应，从而提升其长期自适应能力和鲁棒性。系统能够在多个节点之间共享学习经验，将新环境写入“电磁肌肉记忆”，并通过增量训练不断优化模型，使其能够适应电磁环境的变化和多变的作战任务。在这一部分，系统的学习过程能够借助实时的环境反馈进行不断优化，使得模型能够逐渐积累更多的环境记忆并更新决策机制。这样，系统不仅具备即刻的反应能力，还能够在长期的作战过程中不断进化，提升其应对未知威胁和环境变化的能力。
+从系统整体性能来看，具身智能认知体系相较传统认知模型，在以下几个方面展现出明显优势：首先，具身智能体具备移动部署与环境交互能力，可根据频谱环境的动态变化自适应调整感知策略，实现更高效的空间覆盖与目标识别。其次，其“感知—决策—执行”的闭环结构使得响应速度显著提升，可在电磁干扰突发或任务突变时实现秒级策略更新。再次，结合联邦学习与记忆增强网络，系统可实现不同节点间的知识迁移与经验共享，降低模型训练成本，提高长期适应性与鲁棒性。以典型具身平台（如嵌入式Jetson模块）为例，在边缘环境中实现小规模模型的增量训练可控制在2~3 s，满足战术环境下快速响应的时间要求。此外，具身智能体在实际部署中还具备设备冗余、路径优化与任务重构能力，具备在复杂任务场景中持续运作与自我进化的潜力。总之，具身智能不仅为电磁频谱认知系统赋予了更强的实时性、智能性与可扩展性，也为认知电子战等高对抗领域提供了全新的技术路径。
+综上，电磁频谱空间具身智能认知通过“感知理解—决策执行—演化优化”的闭环机制，强化电磁频谱认知系统对环境的响应速度、自主性与适应性，为未来智能化电磁作战提供全新的认知范式。
+3 电磁频谱空间具身智能认知关键技术
+3.1 具身电磁感知与语义理解
+在电磁频谱空间具身智能认知体系中，“感知与语义理解”模块是连接低层信号感知与高层任务决策的桥梁，核心任务是从原始电磁信号中提取语义信息，以支持认知行为的智能执行。不同于传统被动感知方式，该模块依赖具身智能体的交互能力，通过动态调整感知行为，实现电磁环境中信号的主动采集、精确表征与深层语义理解。
+具身智能体通过多模态传感器在时变环境中进行信号采样，并借助深度学习与自适应策略，从复杂信号中自动提取高阶特征。这些特征不仅描述信号本身，还承载其在特定任务语境中的语义与功能作用，为后续决策提供认知依据。具身电磁感知与语义理解示意图如
+图5
+所示。
+3.1.1 信号采集与特征提取
+本阶段聚焦于两个核心子任务：主动信号采集与高维特征提取。其目标是在动态电磁环境中获取高质量信号输入，并挖掘关键特征以支撑认知建模。
+（1）主动信号采集
+具身智能体具备环境交互能力，可通过控制其运动状态、接收方向和频率配置等方式，主动寻找最优感知点位，增强信号获取质量。优化目标函数如下：
+(1)
+其中，
+为可行采样动作集合，
+s
+和
+s
+′|
+s
+分别表示采样前后的环境状态，
+I
+（
+x
+;
+s
+′）为动作
+a
+下信号
+x
+与状态
+s
+′之间的互信息，
+ε
+表示环境状态空间。
+（2）高维特征提取
+在完成信号采集后，系统需对原始信号进行多尺度特征提取，以实现对其结构性与语义属性的深度解析。传统方法如快速傅里叶变换（fast Fourier transform，FFT）、小波变换（wavelet transform）可获取时频域特征，而深度神经网络结构则可自动学习高维特征表示，例如采用复合模型对特征进行提取，表达如下：
+图
+5
+具身电磁感知与语义理解示意图
+Fig.
+5
+Schematic diagram of embodied electromagnetic perception and semantic understanding
+F
+=
+ϕ
+(
+x
+)
+=
+N
+(
+D
+(
+x
+)
+)
+(2)
+其中，
+x
+表示输入信号，
+D
+（·）表示短时傅里叶变换，
+N
+（·）为特征提取卷积网络，
+φ
+（·）为总体特征映射函数，
+F
+为输出的特征向量。
+此类深度学习模型不仅能够在有噪声的复杂环境中提取稳定特征，还具备持续学习与适应能力，可随环境变化动态优化参数，提升整体感知鲁棒性。
+3.1.2 语义映射与理解形成
+在完成信号特征提取之后，系统需进一步将这些多维度特征向量映射为语义符号，并结合任务目标与环境语境进行认知解释，以支持后续推理与行为规划。
+（1）语义映射机制
+在语义映射阶段，系统需构建从信号特征到语义标签的映射机制
+[
+40
+]
+，这一机制不是静态模板匹配，而是融合当前电磁环境状态、历史感知经验与认知任务目标的动态建模过程。具身智能体通过与环境持续交互，不断完善这一映射关系，使其具备对复杂电磁现象进行上下文建模与结构化理解的能力。
+(3)
+其中，
+F
+∈
+R
+n
+为提取的信号特征向量，
+S
+为语义标签集合，
+s
+i
+为具体语义单元。与传统静态匹配方式不同，具身智能系统通过引入环境状态
+C
+t
+、历史轨迹
+以及任务目标
+G
+构建动态条件概率模型：
+(4)
+其中，
+W
+为权重矩阵，
+b
+为偏置向量，下标
+t
+表示时刻。模型利用上下文信息增强语义映射的针对性与解释力。
+（2）语义理解
+系统不仅要判断“是什么信号”，更重要的是理解“这个信号意味着什么、与哪个任务相关、如何对其做出反应”。语义理解阶段旨在建立信号结构、任务意图与环境语境之间的三重语义关系，支持智能体对信号进行行为导向性的理解与响应。
+系统构建如下三元关系图谱：
+(5)
+其中，
+为信号特征空间，
+为语义空间，
+为任务意图空间。该图谱结构可随任务场景与学习反馈动态演化，逐步从“信号—标签”单层映射扩展为“信号—语义—任务”的多模态认知图谱。
+这种具身感知下的语义理解机制，显著提升了系统对电磁信号的抽象能力，使其具备在不确定、动态和高干扰环境中理解任务语义并生成适应性行为响应的能力，构建起具身认知智能的语义基础。
+3.2 具身电磁决策与执行调控
+在复杂的电磁环境中，具身智能体不仅需要对电磁信号进行准确感知和语义理解，还需要具备任务驱动下的认知推理与行为执行能力。具身电磁决策与执行调控模块实现了从“认知”到“行动”的闭环控制，是具身智能体系实现自适应反应、任务动态规划和环境实时响应的核心支撑。其示意图如
+图6
+所示。
+图
+6
+具身电磁决策与执行调控示意图
+Fig.
+6
+Schematic diagram of embossed electromagnetic decision-making and execution regulation
+3.2.1 认知决策与推理
+传统认知推理方法（如规则引擎、模糊推理、贝叶斯网络）在静态、单一任务环境中具有效果，但面对高维动态频谱环境和多任务并行需求时，难以胜任复杂任务建模与长期策略优化。为此，本文引入基于大模型（large language model，LLM）与Agent架构的认知推理机制，构建具备上下文理解、自主规划与语义决策能力的智能体模型。
+（1）大模型驱动的电磁语义推理
+预训练大模型具备从大规模语料和多模态数据中学习语义关联和上下文推理能力，可作为具身智能体的大脑引擎，对感知输入进行语义解释与任务意图识别。对于输入的特征
+F
+和语境
+C
+，大模型基于Transformer结构可生成任务响应策略
+π
+*
+：
+(6)
+其中：
+P
+（·）为构建输入序列的嵌入函数；
+L
+（·）表示大模型主体，例如LLaMA、Qwen、DeepSeek等。
+与传统模型相比，LLM具备强上下文建模能力，能够处理电磁信号与任务环境间复杂语义关系强泛化能力，可适应新任务和环境而无须重新训练；还可与外部知识库（如频谱图谱、信号特征库）动态交互，提升推理解释性。
+（2）Agent架构下的任务规划与反应控制
+在大模型的基础上，具身电磁系统进一步引入基于Agent的智能体结构，通过感知—记忆—推理—行动的循环体系，实现面向任务目标的连续决策与规划。该Agent结构定义如下：
+(7)
+其中，
+为环境感知模块，
+为长期记忆模块（包含历史经验与环境知识），
+π
+为策略生成器。
+在每一轮决策中，Agent根据当前状态
+s
+t
+和记忆
+生成最优动作
+a
+t
+：
+(8)
+该策略生成过程可由强化学习增强，或通过语言模型的计划生成能力直接导出。
+（3）计划—执行—反馈的策略闭环
+大模型与Agent架构可构建“计划—执行—反馈”闭环，通过自然语言生成行为序列：
+Plan
+t
+=
+{
+observe ⟶ analyze ⟶ respond ⟶ monitor
+}
+(9)
+系统通过行动执行（act）和结果评估（reflect），持续优化策略
+π
+并更新知识记忆
+，实现多轮感知—推理—调整的演化闭环。该认知推理机制极大提升了系统在不确定、复杂电磁场景下的任务规划能力、行为适应性与语义响应灵活性。
+3.2.2 执行调控与行动实施
+认知系统生成高层策略后，需通过底层控制系统将其落地为具体的物理行为。在电磁频谱空间中，这意味着动态调配感知设备、射频资源、通信链路等硬件组件，实现对电磁环境的实时调控与行为执行。“执行调控与行动实施”模块是连接认知决策与物理世界的关键桥梁，通过对策略指令的映射执行、行为反馈调节与资源智能调度，保障具身智能系统在实际电磁环境中稳定、高效地完成任务响应与动态适配。
+（1）认知指令的行为映射机制
+在接收到认知决策与推理模块生成的高层次任务指令后，执行调控与行动实施模块首先通过解析具身电磁决策部分输出的决策结果，将抽象的任务目标细化为具体的操作指令。举例来说，高层认知策略
+a
+t
+需映射为可执行的硬件控制信号
+u
+t
+：
+a
+t
+=
+d
+s
+t
+,
+π
+T
+i
+⇒
+u
+t
+=
+f
+a
+t
+(10)
+其中：
+u
+t
+包括调整频率扫描范围、重定向天线波束、改变接收带宽、移动智能体等指令，支持动态适配电磁环境；
+d
+（·）表示决策函数。
+（2）环境感知驱动的实时反馈控制
+系统对控制行为执行效果进行监测，并根据反馈信号质量
+q
+t
+调整控制策略，实现环境自适应：
+u
+t
++
+1
+=
+u
+t
++
+λ
+⋅
+∇
+q
+L
+q
+t
+(11)
+其中，
+L
+（
+q
+t
+）为信号失真或任务损失函数，
+λ
+为反馈调整步长。系统在信号衰减或干扰突发时能迅速调整接收策略以保持稳定性。
+（3）多执行单元的资源调度与协同控制
+具身系统通常由多个控制模块（如多接收端、天线阵列、射频链路）组成，需协同调度其资源以同时完成多个任务。调度目标函数如下：
+(12)
+其中，
+U
+（
+T
+i
+，
+A
+i
+）为任务
+T
+i
+在资源
+A
+i
+分配下的效能评价，
+w
+i
+为任务优先级，
+为资源分配策略。系统可通过图优化、边缘调度算法或多目标规划方法实现高效的资源管理，确保系统执行效率与任务完成质量的双重最优。
+3.3 具身电磁知识演化与优化
+具身智能系统在高动态、强干扰的电磁环境中，仅依赖静态模型与规则驱动的认知机制难以实现长期适应性与泛化能力。为了赋予系统“持续学习—知识更新—行为优化”的能力，提出具身电磁知识演化与优化机制。该机制强调智能体在与环境持续交互过程中，动态更新内部知识结构，实现从感知行为到策略执行的持续演进
+[
+41
+]
+，其示意图如
+图7
+所示。
+图
+7
+具身电磁知识演化与优化示意图
+Fig.
+7
+Schematic diagram of the evolution of embodied electromagnetic knowledge
+3.3.1 环境感知与记忆更新
+该模块关注如何将具身系统在感知过程中的信息积累为结构化知识，并以此支撑未来任务的认知推理与策略生成。
+（1）信号动态建模与趋势学习
+具身智能系统首先需对电磁环境中信号的时序变化与规律进行建模，从而在环境变化之前形成预测机制。设
+t
+时刻的信号状态为
+x
+t
+，构建非线性序列预测模型：
+x
+t
++
+1
+=
+f
+x
+t
+,
+x
+t
+-
+1
+,
+⋯
+,
+x
+t
+-
+n
++
+ϵ
+(13)
+其中，
+f
+（·）为信号演化函数（可通过循环神经网络、长短时记忆网络等实现），
+ϵ
+为系统噪声。系统通过序列学习模型实现对信号频谱迁移、强度波动、干扰出现的趋势预测。
+（2）基于记忆增强的知识结构构建
+智能体需构建可持续更新的长期知识表示，以记录电磁环境中的观测、反馈与执行结果。引入记忆增强神经网络（memory-augmented neural network，MANN），构建知识记忆矩阵：
+M
+t
+=
+M
+t
+-
+1
++
+ϕ
+x
+t
+,
+y
+t
+(14)
+其中，
+ϕ
+x
+t
+，
+y
+t
+表示将信号特征
+x
+t
+与任务反馈
+y
+t
+的嵌入写入记忆单元。该机制支持智能体对任务成功/失败结果进行存储与归因，形成环境—行为—结果之间的长期关联。
+（3）联邦分布式学习与跨节点共享
+在多具身节点场景下，不同智能体在不同地理或频谱环境中形成异构知识。通过联邦学习框架，系统可实现本地模型共享而不传输原始数据，保持隐私的同时提升系统泛化能力。
+采用联邦平均算法：
+θ
+(
+t
++
+1
+)
+=
+Σ
+i
+=
+1
+K
+n
+i
+n
+⋅
+θ
+i
+(
+t
+)
+(15)
+其中，
+K
+为参与聚合的节点（客户端）数目，
+θ
+i
+（
+t
+）
+为第
+i
+个节点本地模型参数，
+n
+i
+为样本数量，
+θ
+（
+t
++1）
+为聚合后的全局模型。该机制支持系统在面对多任务多环境时快速扩展认知能力。
+在分布式无人集群场景中，节点之间的学习经验共享与模型同步需面对通信带宽限制和任务执行同步等挑战。在实际部署中，节点间使用自组网或无线链路（如特高频/甚高频）进行通信时，单轮模型参数同步的通信时延一般为数百毫秒至数秒（10
+2
+~10
+3
+ms），例如在1 Mbit/s链路上传输1 MB参数量模型约需8 s，若结合模型剪枝、量化压缩等优化方法，则可将通信延迟降为1~2 s。
+同时，节点本地的增量训练过程对资源计算效率具有要求。当前主流的嵌入式AI平台（如NVIDIA Jetson Nano或国产智能处理芯片）支持轻量级模型在小批量数据（100~500个样本）上于1~3 s内完成一轮更新。这样的时延与电磁环境动态变化的时域特性基本匹配：实际战场中电磁干扰的发生频率多为0.1~10 s，频谱突变响应时间多为1~30 s不等，系统可在可接受时延范围内实现认知调整和策略更新。
+为了进一步降低模型同步与训练延迟，在设计中引入以下机制：一是采用异步联邦学习与分层聚合架构，实现局部快速同步与全局慢更新并存；二是引入模型蒸馏与轻量学生网络，使得骨干节点在保持性能的同时，快速向边缘节点分发可适配模型；三是结合基于记忆的任务筛选机制，优先对变化剧烈或关键频段进行快速增量更新，从而提升系统对关键环境变化的响应效率与适应能力。上述机制保证了系统即便在低带宽、计算受限的条件下，仍具备对电磁环境变化和多变作战任务的自适应能力。
+3.3.2 自我演化与持续优化
+具身电磁智能体需要具备在长期运行中不断自我提升的能力，即在每一轮任务执行中进行反馈学习—策略更新—知识迭代，实现从短期感知到长期优化的智能进化。
+（1）基于反馈的策略动态调整
+具身智能体在完成每轮任务执行后，可基于结果对当前策略进行强化学习式调整。策略更新目标为最大化长期累计奖励，采用策略梯度优化：
+θ
+t
++
+1
+=
+θ
+t
++
+η
+⋅
+∇
+θ
+E
+π
+θ
+R
+t
+(16)
+其中，
+π
+θ
+为当前策略，
+R
+t
+为累计任务奖励，
+η
+为学习率。该机制使系统可根据任务成功率、响应延迟、信号识别准确率等评价指标进行优化。
+（2）任务迁移与策略复用机制
+为了支持不同电磁任务之间的知识迁移与策略共享，系统构建跨任务迁移函数
+T
+ij
+，用于将已有任务
+T
+i
+的策略映射到新任务
+T
+j
+上：
+π
+j
+(
+s
+)
+=
+T
+i
+j
+π
+i
+(
+s
+)
+(17)
+该映射函数可通过元学习或表示学习方法训练获得，实现“见过类似任务，快速适配”的迁移能力。具身电磁智能系统通过对环境感知的长期积累、联邦协同的知识共享以及反馈驱动的策略演化，构建了一个具备“持续学习—知识更新—行为优化”的自演化智能体，为系统在复杂、多变、分布式电磁空间中长期稳定运行提供了坚实支撑。
+4 结论
+本文立足具身智能理论与电磁空间智能化需求，探讨了电磁频谱空间具身智能认知的概念、框架及其关键技术，通过智能体与电磁频谱空间的实时闭环交互，实现频谱态势的动态理解与主动调控，为电磁频谱空间智能化升级提供理论支撑与技术路径。本文提出的框架旨在实现精准的电磁感知与语义理解、决策与执行调控以及知识演化。本文总结了电磁频谱空间具身智能认知框架的组成部分及其各自的优势与实际应用所需的关键技术，指向具身智能体在电磁频谱空间认知中的智能化应用。这些研究不仅为具身智能体在复杂环境中的操作提供了理论基础，也为未来技术的发展提供了新的方向，推动具身智能在实际应用中的落地。
+综上所述，具身智能认知体系突破了传统电磁频谱认知模型在感知孤立、响应滞后和任务适应性差等方面的技术瓶颈。具身智能体具备“感知—决策—执行—优化”的闭环控制能力，可主动适应动态电磁环境，并通过机动部署与持续交互快速完成感知策略更新，展现出卓越的环境适应性和响应灵活性。结合联邦学习与边缘计算等机制，该体系还可实现多节点间的知识共享与协同优化，提升了系统的鲁棒性与长期演化能力。在动态频谱重构、干扰规避、低通信资源部署等关键场景中，具身智能体表现出明显优势，具备良好的工程落地潜力和任务泛化能力。
+通过深入分析具身智能的特性和电磁频谱空间认知的挑战，本文希望为相关领域的研究者提供启示，促进具身智能技术的进一步发展与应用。
+图
+1
+电磁频谱空间认知背景
+Fig.
+1
+Background of spatial awareness of the electromagnetic spectrum
+下载:
+全尺寸图片
+图
+2
+具身智能系统应用架构示意图
+Fig.
+2
+Schematic diagram of the application framework of the embodied intelligence system
+下载:
+全尺寸图片
+图
+3
+电磁频谱空间具身智能认知概念示意图
+Fig.
+3
+Schematic diagram of the concept of embodied intelligence cognition in electromagnetic spectrum space
+下载:
+全尺寸图片
+图
+4
+电磁频谱空间具身智能认知框架
+Fig.
+4
+Electromagnetic spectrum space embodied intelligent cognition overall framework
+下载:
+全尺寸图片
+图
+5
+具身电磁感知与语义理解示意图
+Fig.
+5
+Schematic diagram of embodied electromagnetic perception and semantic understanding
+下载:
+全尺寸图片
+图
+6
+具身电磁决策与执行调控示意图
+Fig.
+6
+Schematic diagram of embossed electromagnetic decision-making and execution regulation
+下载:
+全尺寸图片
+图
+7
+具身电磁知识演化与优化示意图
+Fig.
+7
+Schematic diagram of the evolution of embodied electromagnetic knowledge
+下载:
+全尺寸图片
+图
+1
+电磁频谱空间认知背景
+Fig.
+1
+Background of spatial awareness of the electromagnetic spectrum
+图
+2
+具身智能系统应用架构示意图
+Fig.
+2
+Schematic diagram of the application framework of the embodied intelligence system
+图
+3
+电磁频谱空间具身智能认知概念示意图
+Fig.
+3
+Schematic diagram of the concept of embodied intelligence cognition in electromagnetic spectrum space
+图
+4
+电磁频谱空间具身智能认知框架
+Fig.
+4
+Electromagnetic spectrum space embodied intelligent cognition overall framework
+图
+5
+具身电磁感知与语义理解示意图
+Fig.
+5
+Schematic diagram of embodied electromagnetic perception and semantic understanding
+图
+6
+具身电磁决策与执行调控示意图
+Fig.
+6
+Schematic diagram of embossed electromagnetic decision-making and execution regulation
+图
+7
+具身电磁知识演化与优化示意图
+Fig.
+7
+Schematic diagram of the evolution of embodied electromagnetic knowledge
+PDF下载
+XML下载
+导出引用
+引用提醒
+图(7)
+手机扫码阅读
+引用本文
+林云, 查浩然, 尚佳颖, 等. 电磁频谱空间具身智能认知：概念、框架和关键技术[J]. 国防科技大学学报, 2026, 48(4)：17-28.
+复制
+Lin Yun, Zha Haoran, Shang Jiaying, et al. Embodied intelligence cognition in electromagnetic spectrum space: concepts, frameworks, and key technologies[J]. Journal of National University of Defense Technology, 2026, 48(4)： 17-28.
+Copy
+计量
+文章访问量:
+HTML全文浏览量:
+PDF下载量:
+被引次数:
+图
+1
+电磁频谱空间认知背景
+Fig.
+1
+Background of spatial awareness of the electromagnetic spectrum
+图
+2
+具身智能系统应用架构示意图
+Fig.
+2
+Schematic diagram of the application framework of the embodied intelligence system
+图
+3
+电磁频谱空间具身智能认知概念示意图
+Fig.
+3
+Schematic diagram of the concept of embodied intelligence cognition in electromagnetic spectrum space
+图
+4
+电磁频谱空间具身智能认知框架
+Fig.
+4
+Electromagnetic spectrum space embodied intelligent cognition overall framework
+图
+5
+具身电磁感知与语义理解示意图
+Fig.
+5
+Schematic diagram of embodied electromagnetic perception and semantic understanding
+图
+6
+具身电磁决策与执行调控示意图
+Fig.
+6
+Schematic diagram of embossed electromagnetic decision-making and execution regulation
+图
+7
+具身电磁知识演化与优化示意图
+Fig.
+7
+Schematic diagram of the evolution of embodied electromagnetic knowledge
+崔翠梅, 殷昌永, 杨德智. 未来复杂网络环境下动态频谱高效感知技术研究进展[J]. 电讯技术,2025,65(4):634-641.
+Cui Cuimei, Yin Changyong, Yang Dezhi. Dynamic spectrum efficient sensing under future complex network environments:state-of-the-art and recent advances[J]. Telecommunication Engineering,2025,65(4):634-641.(in Chinese)
+李增艺. 基于视觉反馈和行为树的无人机具身智能控制算法[J]. 铁道建筑技术,2025(4):214-218.
+Li Zengyi. A visual feedback and behavior tree-based embodied intelligence control algorithm for UAVs[J]. Railway Construction Technology,2025(4):214-218.(in Chinese)
+金立民, 王海超, 谷江春, 等. 低空具身智能频谱管控技术研究[J]. 数据采集与处理,2025,40(1):45-55.
+Jin Limin, Wang Haichao, Gu Jiangchun,et al. Research on low-altitude embodied artificial intelligence-enabled spectrum management and control technology[J]. Journal of Data Acquisition and Processing,2025,40(1):45-55.(in Chinese)
+王雪松, 李健兵, 徐丰, 等. 电磁空间信息资源的认知与利用[J]. 中国科学基金,2021,35(5):682-687.
+Wang Xuesong, Li Jianbing, Xu Feng,et al. Cognition and utilization of electromagnetic space information resources[J]. Bulletin of National Natural Science Foundation of China,2021,35(5):682-687.(in Chinese)
+吕伟, 王劲松, 李强. 复杂电磁环境下海战场电磁频谱战问题探析[C]//第十二届中国指挥控制大会论文集（上册）,2024:111-115.
+Lü Wei, Wang Jinsong, Li Qiang. Analysis of the electromagnetic spectrum operations problem on the sea battlefield in the complex electromagnetic environment[C]//The Twelfth Chinese Institute of Command and Control(Upper Volume),2024:111-115.(in Chinese)
+谢春茂, 张川, 黄明, 等. 电磁频谱空间应用及发展趋势综述[J]. 电子科技大学学报,2024,53(2):161-173.
+Xie Chunmao, Zhang Chuan, Huang Ming,et al. A review of the applications and development trends of electromagnetic spectrum space[J]. Journal of University of Electronic Science and Technology of China,2024,53(2):161-173.(in Chinese)
+张思成, 林云, 涂涯, 等. 基于轻量级深度神经网络的电磁信号调制识别技术[J]. 通信学报,2020,41(11):12-21.
+Zhang Sicheng, Lin Yun, Tu Ya,et al. Electromagnetic signal modulation recognition technology based on lightweight deep neural network[J]. Journal on Communications,2020,41(11):12-21.(in Chinese)
+查浩然, 刘畅, 王巨震, 等. 面向无人机辐射源个体识别的域适应模型设计[J]. 信号处理,2024,40(4):650-660.
+Zha Haoran, Liu Chang, Wang Juzhen,et al. Design of domain-adaptation model for specific emitter identification of UAV signal[J]. Journal of Signal Processing,2024,40(4):650-660.(in Chinese)
+Zhang Yixuan, Luo Zhongqiang. A review of research on spectrum sensing based on deep learning[J]. Electronics,2023,12(21):4514.
+周博, 马欣怡, 况婷妍, 等. 电磁频谱空间态势认知新范式: 频谱语义和频谱行为[J]. 数据采集与处理,2022,37(6):1198-1207.
+Zhou Bo, Ma Xinyi, Kuang Tingyan,et al. New paradigm of electromagnetic spectrum space situation cognition:spectrum semantic and spectrum behavior[J]. Journal of Data Acquisition and Processing,2022,37(6):1198-1207.(in Chinese)
+张宁, 周正廉, 张祖尧. 美军全球电磁频谱信息系统发展现状与趋势[J]. 电讯技术,2021,61(6):780-784.
+Zhang Ning, Zhou Zhenglian, Zhang Zuyao. Developing progress and trends of U. S.global electromagnetic spectrum information system(GEMSIS)[J]. Telecommunication Engineering,2021,61(6):780-784.(in Chinese)
+Ji Hao, Wan Tao, Xiong Wan′an,et al. A method for specific emitter identification based on surrounding-line bispectrum and convolutional neural network[C]//2020 IEEE 3rd International Conference on Automation, Electronics and Electrical Engineering(AUTEEE),2020:328-332.
+李昆, 朱卫纲. 一种深度学习的雷达辐射源识别方法[J]. 电子设计工程,2020,28(12):99-104.
+Li Kun, Zhu Weigang. Radar emitter identification method based on deep learning[J]. Electronic Design Engineering,2020,28(12):99-104.(in Chinese)
+Jain A, Ahmad Awan A, Anthony Q,et al. Performance characterization of DNN training using TensorFlow and PyTorch on modern clusters[C]//2019 IEEE International Conference on Cluster Computing(CLUSTER),2019:1-11.
+张彦龙, 张登福, 王世强, 等. 基于S变换的雷达脉内调制特征提取方法[J]. 电子技术应用,2012,38(10):112-115.
+Zhang Yanlong, Zhang Dengfu, Wang Shiqiang,et al. Extraction of the in-pulse features of radar signal based on S transform[J]. Application of Electronic Technique,2012,38(10):112-115.(in Chinese)
+Wang Liu, Chen Guifen. An efficient implementation method for distributed fusion in sensor networks based on CPHD filters[J]. Sensors,2023,24(1):117.
+Lan Lan, Wei Guolian, Ding Derui. Distributed fusion with unknown inputs under bandwidth-aware event-triggered mechanisms:monotonicity and boundedness[J]. IEEE Transactions on Signal and Information Processing over Networks,2023,9:521-530.
+Ding Xiaojin, Feng Lijie, Zou Yulong,et al. Deep learning aided spectrum prediction for satellite communication systems[J]. IEEE Transactions on Vehicular Technology,2020,69(12):16314-16319.
+王金龙, 徐煜华, 陈瑾. 无线通信网络智能频谱协同与对抗[J]. 中国科学: 信息科学,2020,50(11):1767-1780.
+Wang Jinlong, Xu Yuhua, Chen Jin. Intelligent spectrum collaboration and confrontation in wireless communication networks[J]. Scientia Sinica(Informationis),2020,50(11):1767-1780.(in Chinese)
+Li Daofeng, Xu Yamei, Zhao Ming,et al. Knowledge-driven machine learning and applications in wireless communications[J]. IEEE Transactions on Cognitive Communications and Networking,2021,8(2):454-467.
+Ding Guoru, Jiao Yutao, Wang Jinlong,et al. Spectrum inference in cognitive radio networks:algorithms and applications[J]. IEEE Communications Surveys &amp;amp; Tutorials,2018,20(1):150-182.
+Han Mingjing, Zhang Han, Li Wei,et al. Semantic-guided graph neural network for heterogeneous graph embedding[J]. Expert Systems with Applications,2023,232:120810.
+Clark B, Mcnamara W M, Walton T A. Winning the invisible war:gaining an enduring US advantage in the electromagnetic spectrum[EB/OL].(2019-11-20)[2025-05-01].https://csbaonline.org/research/publications/winning-the-invisible-war-gaining-an-enduring-u.s-advantage-in-the-electromagnetic-spectrum.
+Shang Bodong, Marojevic V, Yi Yang,et al. Spectrum sharing for UAV communications:spatial spectrum sensing and open issues[J]. IEEE Vehicular Technology Magazine,2020,15(2):104-112.
+Gul N, Been G, Kim S M,et al. Unmanned aerial vehicle based adaptive spectrum sensing for cognitive radio systems[C]//2024 IEEE VTS Asia Pacific Wireless Communications Symposium(APWCS),2024:1-6.
+周伟江, 秦大国, 刘甲. 复杂电磁环境中智能决策对抗技术的应用[J]. 航天电子对抗,2020,36(2):45-50.
+Zhou Weijiang, Qin Daguo, Liu Jia. Application of intelligent decision countermeasure technology in complex electromagnetic environment[J]. Aerospace Electronic Warfare,2020,36(2):45-50.(in Chinese)
+Ren Lei, Dong Jiabao, Liu Shuai,et al. Embodied intelligence toward future smart manufacturing in the era of AI foundation model[J]. IEEE/ASME Transactions on Mechatronics,2025,30(4):2632-2642.
+Krop P, Obremski D, Carolus A,et al. My co-worker ChatGPT:development of an XR application for embodied artificial intelligence in work environments[C]//2025 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops(VRW),2025:1646-1647.
+Li Wei, Wu Wenjun, Wang Huaimin,et al. Crowd intelligence in AI 2.0 era[J]. Frontiers of Information Technology &amp;amp; Electronic Engineering,2017,18(1):15-43.
+Tian Yonglin, Li Xuan, Zhang Hui,et al. VistaGPT:generative parallel transformers for vehicles with intelligent systems for transport automation[J]. IEEE Transactions on Intelligent Vehicles,2023,8(9):4198-4207.
+Wang Feiyue, Miao Qinghai, Li Xuan,et al. What does ChatGPT say:the DAO from algorithmic intelligence to linguistic intelligence[J]. IEEE/CAA Journal of Automatica Sinica,2023,10(3):575-579.
+Wang Yutong, Wang Xiao, Wang Xingxia,et al. The ChatGPT after:building knowledge factories for knowledge workers with knowledge automation[J]. IEEE/CAA Journal of Automatica Sinica,2023,10(11):2041-2044.
+Mcneely-White D G, Ortega F R, Beveridge J R,et al. User-aware shared perception for embodied agents[C]//The IEEE International Conference on Humanized Computing and Communication(HCC),2019:46-51.
+胡安华. 首入《政府工作报告》, 具身智能何以竞速未来[J]. 城市周刊,2025(18):4-6.
+HU Anhua. First entry into the government work report,how embodied intelligence competes for the future[J]. City Weekly,2025(18):4-6.(in Chinese)
+陶永, 万嘉昊, 王田苗, 等. 构建具身智能新范式: 人形机器人技术现状及发展趋势综述[J]. 机械工程学报,2025,61(15):121-147.
+Tao Yong, Wan Jiahao, Wang Tianmiao,et al. Establishing a new paradigm of embodied intelligence:a review of the current status and development trends in humanoid robot technology[J]. Journal of Mechanical Engineering,2025,61(15):121-147.(in Chinese)
+李颂元, 朱祥维, 李玺. 基座模型技术背景下的具身智能体综述[J]. 浙江大学学报(工学版),2025,59(2):213-226,268.
+Li Songyuan, Zhu Xiangwei, Li Xi. Survey of embodied agent in context of foundation model[J]. Journal of Zhejiang University(Engineering Science),2025,59(2):213-226,268.(in Chinese)
+陈铂垒, 康嘉绪, 钟萍, 等. 面向具身人工智能的物体目标导航综述[J]. 软件学报,2025,36(4):1715-1757.
+Chen Bolei, Kang Jiaxu, Zhong Ping,et al. Survey on object goal navigation for embodied AI[J]. Journal of Software,2025,36(4):1715-1757.(in Chinese)
+王文晟, 谭宁, 黄凯, 等. 基于大模型的具身智能系统综述[J]. 自动化学报,2025,51(1):1-19.
+Wang Wensheng, Tan Ning, Huang Kai,et al. Embodied intelligence systems based on large models:a survey[J]. Acta Automatica Sinica,2025,51(1):1-19.(in Chinese)
+Liu Huaping, Guo Di, Cangelosi A. Embodied intelligence:a synergy of morphology,action,perception and learning[J]. ACM Computing Surveys,2025,57(7):186.
+He Qi, Zhang Yue, Chen Zhi. Joint transmission and understanding of semantics with edge intelligence[C]//ICC 2023-IEEE International Conference on Communications,2023:858-863.
+沈甜雨, 陶子锐, 王亚东, 等. 具身智能研究的关键问题: 自主感知、行动与进化[J]. 自动化学报,2025,51(1):43-71.
+Shen Tianyu, Tao Zirui, Wang Yadong,et al. Key problems of embodied intelligence research:autonomous perception,action,and evolution[J]. Acta Automatica Sinica,2025,51(1):43-71.(in Chinese)
+作者投稿
+投稿指南
+联系我们
+公众号
+返回顶部
+扫码关注
+官方微信&lt;/pre&gt;</content:encoded></item><item><title>低温等离子体用于高功率微波防护研究&lt;sup&gt;&lt;/sup&gt;</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/html/202306011?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/html/202306011?tab=abstract</guid><description>低温等离子体用于高功率微波防护研究&lt;sup&gt;&lt;/sup&gt;
+EI•CA•INSPEC•JST•SCOPUS
+中文核心期刊•CSCD•WJCI
+首页
+期刊介绍
+投稿指南
+来稿须知
+稿件要求
+录用修订
+稿件流程
+相关下载
+编委会
+出版声明
+出版道德声明
+出版伦理声明
+开放获取声明
+联系我们
+期刊订阅
+纸刊订阅
+E-mail订阅
+Rss
+AI检索
+Deepseek
+豆包
+文心一言
+通义
+讯飞星火
+Kimi
+English
+引用本文:
+李志刚,邱志楠,汪家春,等.低温等离子体用于高功率微波防护研究&lt;sup&gt;&lt;/sup&gt;[J].国防科技大学学报,2023,45(6):84-89.
+Citation:
+LI Zhigang, QIU Zhinan, WANG Jiachun, et al. Study of high-power microwave protection technology based on low-temperature plasma[J]. Journal of National University of Defense Technology,2023,45(6):84-89.
+低温等离子体用于高功率微波防护研究
+*
+doi:
+10.11887/j.cn.202306012
+李志刚
+角色:
+第一作者
+机构:
+国防科技大学 脉冲功率激光技术国家重点实验室, 安徽 合肥 230037
+邮箱:
+class1_48@163.com；
+简介:
+李志刚（1990—），男，山东济宁人，副研究员，博士，E-mail: class1_48@163.com；
+，
+ 邱志楠
+机构:
+国防科技大学 脉冲功率激光技术国家重点实验室, 安徽 合肥 230037
+，
+ 汪家春
+机构:
+国防科技大学 脉冲功率激光技术国家重点实验室, 安徽 合肥 230037
+，
+ 刘丽萍
+机构:
+国防科技大学 脉冲功率激光技术国家重点实验室, 安徽 合肥 230037
+，
+ 王俊儒
+机构:
+国防科技大学 脉冲功率激光技术国家重点实验室, 安徽 合肥 230037
+，
+ 陈宗胜
+角色:
+通信作者
+机构:
+国防科技大学 脉冲功率激光技术国家重点实验室, 安徽 合肥 230037
+邮箱:
+chenzongsh12@163.com
+简介:
+陈宗胜，男，安徽合肥人，副研究员，博士，E-mail: chenzongsh12@163.com
+国防科技大学 脉冲功率激光技术国家重点实验室, 安徽 合肥 230037
+基金项目:
+安徽省自然科学基金面上资助项目（1908085MF205）
+详细信息
+收起信息
+作者简介
+李志刚（1990—），男，山东济宁人，副研究员，博士，E-mail: class1_48@163.com；
+通信作者
+陈宗胜，男，安徽合肥人，副研究员，博士，E-mail: chenzongsh12@163.com
+中图分类号:
+TN01
+文献标志码:
+A
+文章编号:
+1001-2486(2023)06-084-06
+Study of high-power microwave protection technology based on low-temperature plasma
+LI Zhigang
+Role:
+First Author
+Affiliation:
+State Key Laboratory of Pulsed Power Laser Technology, National University of Defense Technology, Hefei 230037 ,</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; http://journal.nudt.edu.cn/gfkjdxxb/article/html/202306011?tab=abstract&lt;/p&gt;&lt;pre&gt;低温等离子体用于高功率微波防护研究&amp;lt;sup&amp;gt;&amp;lt;/sup&amp;gt;
+EI•CA•INSPEC•JST•SCOPUS
+中文核心期刊•CSCD•WJCI
+首页
+期刊介绍
+投稿指南
+来稿须知
+稿件要求
+录用修订
+稿件流程
+相关下载
+编委会
+出版声明
+出版道德声明
+出版伦理声明
+开放获取声明
+联系我们
+期刊订阅
+纸刊订阅
+E-mail订阅
+Rss
+AI检索
+Deepseek
+豆包
+文心一言
+通义
+讯飞星火
+Kimi
+English
+引用本文:
+李志刚,邱志楠,汪家春,等.低温等离子体用于高功率微波防护研究&amp;lt;sup&amp;gt;&amp;lt;/sup&amp;gt;[J].国防科技大学学报,2023,45(6):84-89.
+Citation:
+LI Zhigang, QIU Zhinan, WANG Jiachun, et al. Study of high-power microwave protection technology based on low-temperature plasma[J]. Journal of National University of Defense Technology,2023,45(6):84-89.
+低温等离子体用于高功率微波防护研究
+*
+doi:
+10.11887/j.cn.202306012
+李志刚
+角色:
+第一作者
+机构:
+国防科技大学 脉冲功率激光技术国家重点实验室, 安徽 合肥 230037
+邮箱:
+class1_48@163.com；
+简介:
+李志刚（1990—），男，山东济宁人，副研究员，博士，E-mail: class1_48@163.com；
+，
+ 邱志楠
+机构:
+国防科技大学 脉冲功率激光技术国家重点实验室, 安徽 合肥 230037
+，
+ 汪家春
+机构:
+国防科技大学 脉冲功率激光技术国家重点实验室, 安徽 合肥 230037
+，
+ 刘丽萍
+机构:
+国防科技大学 脉冲功率激光技术国家重点实验室, 安徽 合肥 230037
+，
+ 王俊儒
+机构:
+国防科技大学 脉冲功率激光技术国家重点实验室, 安徽 合肥 230037
+，
+ 陈宗胜
+角色:
+通信作者
+机构:
+国防科技大学 脉冲功率激光技术国家重点实验室, 安徽 合肥 230037
+邮箱:
+chenzongsh12@163.com
+简介:
+陈宗胜，男，安徽合肥人，副研究员，博士，E-mail: chenzongsh12@163.com
+国防科技大学 脉冲功率激光技术国家重点实验室, 安徽 合肥 230037
+基金项目:
+安徽省自然科学基金面上资助项目（1908085MF205）
+详细信息
+收起信息
+作者简介
+李志刚（1990—），男，山东济宁人，副研究员，博士，E-mail: class1_48@163.com；
+通信作者
+陈宗胜，男，安徽合肥人，副研究员，博士，E-mail: chenzongsh12@163.com
+中图分类号:
+TN01
+文献标志码:
+A
+文章编号:
+1001-2486(2023)06-084-06
+Study of high-power microwave protection technology based on low-temperature plasma
+LI Zhigang
+Role:
+First Author
+Affiliation:
+State Key Laboratory of Pulsed Power Laser Technology, National University of Defense Technology, Hefei 230037 , China
+Email:
+class1_48@163.com；
+，
+ QIU Zhinan
+Affiliation:
+State Key Laboratory of Pulsed Power Laser Technology, National University of Defense Technology, Hefei 230037 , China
+，
+ WANG Jiachun
+Affiliation:
+State Key Laboratory of Pulsed Power Laser Technology, National University of Defense Technology, Hefei 230037 , China
+，
+ LIU Liping
+Affiliation:
+State Key Laboratory of Pulsed Power Laser Technology, National University of Defense Technology, Hefei 230037 , China
+，
+ WANG Junru
+Affiliation:
+State Key Laboratory of Pulsed Power Laser Technology, National University of Defense Technology, Hefei 230037 , China
+，
+ CHEN Zongsheng
+Role:
+Corresponding Author
+Affiliation:
+State Key Laboratory of Pulsed Power Laser Technology, National University of Defense Technology, Hefei 230037 , China
+Email:
+chenzongsh12@163.com
+State Key Laboratory of Pulsed Power Laser Technology, National University of Defense Technology, Hefei 230037 , China
+摘要
+HTML全文
+图(6)表(1)
+参考文献(12)
+相似文献
+出版信息
+访问统计
+资源附件
+摘要
+等离子体对于高功率微波的攻击具有独特的防护效果。基于等离子体流体近似方法，利用COMSOL软件研究了高功率微波与柱状等离子体阵列相互作用过程中入射电场随时间的演变过程，分析了等离子体防护高功率微波的物理过程和作用机理。研究结果表明，入射的高功率微波会使等离子体参数发生剧烈变化，特别是其电子密度将急剧增加，从而使等离子体对入射的高功率微波表现出类似金属的电磁特性，最终实现对入射高功率微波的有效防护。此外，利用高频辉光放电产生柱状等离子体阵列，通过实验验证了等离子体对高功率微波的防护作用。最后，总结了基于等离子体的高功率微波防护技术需解决的主要问题。
+关键词
+高功率微波
+/
+防护技术
+/
+柱状等离子体阵列
+Abstract
+Plasma has a unique protective effect against high-power microwave attack. Based on the plasma fluid approximation method, the time dependent evolution of the incident electric field during the interaction between high-power microwaves and columnar plasma arrays was studied by using COMSOL software, and the physical process and mechanism of plasma protection against high-power microwaves were analyzed. The results show that the incident high-power microwave will change the plasma parameters drastically, especially the electron density will increase sharply, so that the plasma will show metal-like electromagnetic properties to the incident high-power microwave, and finally realize the effective protection against the incident high-power microwave. In addition, the plasma protection against high-power microwaves was experimentally verified by using columnar plasma arrays generated by high-frequency glow discharge. Finally, the main problems to be solved for plasma-based high-power microwave protection technology were summarized.
+Keywords
+high-power microwave
+/
+protection technology
+/
+columnar plasma arrays
+1 基本理论
+1.1 波动方程
+1.2 电子传递方程
+1.3 重物质传递方程
+2 仿真计算模型
+3 仿真计算结果分析
+4 实验验证
+4.1 实验方案
+4.2 实验结果
+5 结论
+高功率微波攻击方式的出现给电子信息系统安全带来了巨大的威胁。在未来信息化条件下，电子信息系统一旦遭受破坏，再强大的武器装备也会变成“瞎子”“聋子”，甚至变为一堆废铁。可见，高功率微波攻击或将改变未来战争的作战样式，对未来战争形态产生重大影响
+[
+1
+]
+。
+正是认识到高功率微波攻击的强大作战效能，美、俄、英、日、法等国都非常重视，并已有相关装备报道。以美国为例，已投入使用的装备有主动拒止系统、警惕鹰系统、携带高功率微波弹头的AGM-86巡航导弹以及用于空域封锁的高功率微波炮等
+[
+2
+]
+。目前，美军在这一领域仍在继续加大投入。因此，提升装备对高功率微波的防护能力具有重要的军事效益和现实意义。
+目前基于固态半导体器件的电路级防护，其能防护的最大脉冲功率一般在数千瓦以内（具体数值与微波脉冲的宽度有关）。对于更高功率的微波脉冲，可能的防护方法主要有频率选择表面、能量选择表面和等离子体
+[
+3
+-
+5
+]
+。其中等离子体对高功率微波的能量具有敏感性，能够随着入射高功率微波的强弱改变自身的状态，进而影响入射波的传输，兼具了频率选择表面和能量选择表面的优点，具有很好的研究价值和应用前景
+[
+6
+-
+8
+]
+。
+本文针对等离子体对高功率微波的防护效果开展了仿真与实验分析，研究了高功率微波与柱状等离子体阵列相互作用过程中入射电场随时间的演变过程，分析了等离子体防护高功率微波的物理过程和作用机理；在此基础上，通过实验验证了等离子体对高功率微波的防护效果；最后结合相关研究工作，对基于等离子体的高功率微波防护技术需解决的主要问题进行了总结。
+1 基本理论
+为了研究在高功率微波作用下等离子体产生的电磁屏蔽作用，本文采用流体近似方法
+[
+9
+-
+10
+]
+进行仿真分析，分别采用等离子体中的波动方程、电子传递方程和重物质传递方程，对高功率微波在等离子体中的传播过程和等离子体内部电子及其他带电粒子受入射电磁能量的影响进行表征。
+1.1 波动方程
+当电磁波入射到密度均匀的等离子体上时，电磁波在等离子体中的麦克斯韦方程
+[
+11
+]
+为：
+∇
+×
+H
+=
+j
+ω
+ε
+0
+ε
+r
+⋅
+E
+(1)
+∇
+×
+E
+=
+-
+j
+ω
+μ
+0
+H
+(2)
+可得波动方程：
+∇
+×
+∇
+×
+E
+-
+k
+0
+2
+ε
+r
+⋅
+E
+=
+0
+(3)
+其中：
+H
+为磁场强度；
+E
+为电场强度；
+ω
+为入射波的角频率；
+ε
+0
+、
+μ
+0
+、
+k
+0
+分别为真空中的介电常数、磁导率和波数；
+ε
+r
+为等离子体的相对介电常数，可通过式（4）求解。
+ε
+r
+=
+1
+-
+ω
+p
+ω
+(
+ω
+-
+i
+v
+)
+(4)
+式中，
+ω
+p
+为等离子频率，
+υ
+为电子碰撞频率，
+i
+为复数标号。
+1.2 电子传递方程
+在外加电磁场的作用下，等离子体内部电子密度的变化可通过电子传递方程来进行分析，方程可表示为：
+∂
+∂
+t
+n
+e
++
+∇
+⋅
+Γ
+e
+=
+R
+e
+(5)
+Γ
+e
+=
+-
+μ
+e
+⋅
+E
+n
+e
+-
+D
+e
+⋅
+∇
+n
+e
+(6)
+其中：
+n
+e
+为电子数密度；
+μ
+e
+、
+D
+e
+为电子迁移率和电子扩散率；
+R
+e
+为电子源项，表征了内部碰撞反应导致的电子的产生与消失，可通过式（7）求得。
+R
+e
+=
+∑
+j
+=
+1
+M
+x
+j
+k
+j
+N
+n
+n
+e
+(7)
+式中，
+x
+j
+为
+j
+反应中碰撞粒子的摩尔质量分数，
+k
+j
+为
+j
+反应的反应速率，
+N
+n
+为等离子体中总的粒子数密度。
+1.3 重物质传递方程
+外加电磁场还会引发等离子体内部其他带电粒子的分布产生变化，可通过重物质传递方程来进行分析，方程为：
+ρ
+∂
+∂
+t
+ω
+k
++
+ρ
+(
+u
+⋅
+∇
+)
+ω
+k
+=
+∇
+⋅
+j
+k
++
+R
+k
+(8)
+式中：
+ω
+k
+为第
+k
+种粒子的摩尔分数；
+ρ
+为气体密度；
+u
+为平均流体速率；
+j
+k
+为第
+k
+种粒子的扩散通量，可通过式（9）表示。
+j
+k
+=
+ρ
+ω
+k
+V
+k
+(9)
+V
+k
+=
+D
+k
+,
+m
+∇
+ω
+k
+ω
+k
++
+D
+k
+,
+m
+∇
+M
+n
+M
+n
++
+D
+k
+T
+ρ
+ω
+k
+∇
+T
+T
+-
+z
+k
+μ
+k
+,
+m
+E
+(10)
+式中，
+D
+k
+，
+m
+为重物质平均扩散系数，
+M
+n
+为重物质平均摩尔质量，
+D
+T
+k
+、
+z
+k
+、
+μ
+k，m
+分别为第
+k
+种粒子的热扩散系数、电荷数以及平均迁移率，
+T
+为气体温度。
+2 仿真计算模型
+采用COMSOL软件进行计算，具体模型如
+图1
+所示。模型模拟的物理过程为：电磁波从上边界进入模型，向下传播，经空气介质和等离子体介质后，传输至设置的完美匹配层（避免波反射产生的二次激励）被完全吸收。等离子体层由多根前后延伸的柱状等离子体单元紧密排列组成，假设每根等离子体单元的参数完全一致。
+图
+1
+高功率微波与柱状等离子体阵列相互作用的仿真计算模型示意图
+Fig.
+1
+Simulation schematic diagram of the interactions between high-power microwave and columnar plasma arrays
+假设入射电磁波场强为
+E
+0
+，电磁波频率为
+f
+，选择常用的惰性气体Ar作为工作气体，所涉及的粒子种类和碰撞反应在
+表1
+给出
+[
+12
+]
+，气体压强为
+P
+。
+表
+1
+氩等离子体内部碰撞反应方程及类型
+Table
+1
+Collision reaction functions and types inside Ar plasma
+3 仿真计算结果分析
+假设初始时刻气体温度为300 K，压强为400 Pa，电子初始为均匀分布，密度为1.0×10
+16
+m
+-3
+，等离子体直径为25 mm，玻璃管壁厚度为0.3 mm，初始电子能为3 eV，碰撞频率为5×10
+9
+Hz，高功率微波频率为6 GHz，电场强度为2×10
+6
+V/m，极化方向与等离子体管轴向方向一致，计算时间设置为0~0.001 s。
+图2
+为不同时刻计算模型中的电场分布，图中采用统一的颜色图例（
+E
+：0~4×10
+6
+V/m）。高功率微波脉冲从上边界入射，经空气层和等离子体层后被完美匹配层吸收。
+从
+图2
+可以看出，在
+t
+=2.15×10
+-10
+s时刻，等离子体区域的电场值与上下空气区域基本一致，说明在初始时刻入射波几乎可以无损透过等离子体区域。从
+t
+=3.98×10
+-10
+s到
+t
+=5.99×10
+-10
+s，可以明显看到等离子体下方空气区域的电场值越来越小，上方空气电场峰值不断增大。说明这一时间内，等离子体与高功率微波发生了剧烈的相互作用。从
+t
+=9.03×10
+-10
+s到
+t
+=0.001 s可以看到，等离子体上方区域存在明显的驻波场，下方区域仅有很少的能量透过，电场值接近于零，等离子体类似于金属，对入射电磁波表现出较强的屏蔽特性。
+为了更好地解释上述结果的产生原因，
+图3
+给出了计算模型中轴线电子密度和电场分布的演变曲线，图中灰色区域代表玻璃放电管的物理尺寸。
+图3
+中表征的物理过程可描述为：①初始阶段，等离子体内部电子受到高功率微波的加速作用，由低能电子转化为高能电子，并通过弹性碰撞反应，将吸收的电磁能量传递给中性粒子，提高等离子体的内能，在这一阶段非弹性碰撞反应并不显著，电子密度增加缓慢，等离子体本身的电磁参数基本保持不变，入射波几乎无损透过等离子体区域；②随着高能电子不断积累和等离子体内能不断增加，等离子体中非弹性碰撞反应速率显著增大，大量的高能电子被消耗，平均电子能急剧下降，电子雪崩效应产生，大量新生电子参与到等离子体振荡中，等离子体电导率急剧增大，对入射波的衰减急剧增大，等离子体电磁特性发生较大改变，其对入射波的屏蔽作用开始显现，透过等离子体区域的电磁能量不断减小；③当高能电子被大量消耗，直接电离反应（见
+表1
+中反应4）开始减弱，间接电离反应（见
+表1
+中反应5）增强，激发态氩原子被大量消耗用于继续产生新的带电粒子，等离子体电磁特性进一步发生改变，电导率继续增大，入射波在等离子体中趋肤深度不断减小，等离子体对入射波的屏蔽性能更为显著，透过等离子体区域的电磁能量进一步减小；④随着等离子体区域电子密度不断增加，入射的电磁能量除小部分被吸收外，大部分被反射，等离子体内部碰撞反应趋于缓和，电子密度增加速率变缓，空间分布开始变得均匀，等离子体内部逐渐达到新的平衡。
+图
+2
+计算模型中电场强度空间分布随激励时间的演变过程
+Fig.
+2
+Time dependence of the electric field intensity in simulation calculation model
+图
+3
+模型中轴线电子密度和电场分布随激励时间的演变过程
+Fig.
+3
+Time dependence of the axial electron density and electric field distribution in simulation calculation model
+从粒子平衡角度对这一过程进行解释：等离子体与高功率微波之间的相互作用是通过状态改变来维持粒子平衡的。等离子体作为特殊的介质，内部存在一定的粒子平衡，并且具有强烈维持这一平衡的意愿。高功率微波的入射破坏了等离子体中的粒子平衡，等离子体内部随之产生强烈的振荡和碰撞反应，建立新的状态来平衡外加电磁场产生的影响。
+从上面的物理过程分析可知，入射的高功率微波会使等离子体的参数发生剧烈变化，特别是其电子密度将急剧增加，这会引起等离子体电磁参数发生同步改变，从而使等离子体对入射的高功率微波表现出类似金属的电磁特性，最终实现对入射高功率微波的有效防护。
+4 实验验证
+4.1 实验方案
+图4
+为实验设备连接示意图。实验中，高功率微波信号由L波段高功率微波源产生，经定向耦合器后分成两路信号：一路信号经同轴线缆接入高精度示波器，作为参考信号；另一路信号通过同轴线缆传输至发射喇叭以产生高功率微波辐射信号，高功率辐射波传输通过等离子体阵列后被接收喇叭接收，而后经衰减器、检波器、同轴线缆接入高精度示波器，作为接收信号。柱状等离子体阵列与收发喇叭口面平行，距离发射喇叭3 m（满足远场条件），紧贴接收喇叭并使等离子体单元完全覆盖整个接收喇叭口面，从而能够保证到达等离子体阵列处的高功率微波功率密度与到达接收口面的功率密度相一致。等离子体采用高频辉光放电方式产生，其初始平均电子密度约为1.2×10
+16
+m
+-3
+。
+图
+4
+实验测试示意图
+Fig.
+4
+Schematic diagram of the experimental test
+4.2 实验结果
+实验采用1.3 GHz高功率微波源，脉冲宽度为1 000 ns。
+图5
+为脉冲源发射功率为170 kW时（此时辐照到等离子体上的电场强度约为8 100 V/m），等离子体未开启情况下的测试结果，其中黄色线为发射端输入的参考信号测试结果，绿色线为接收信号测试结果。
+图6
+为脉冲源发射功率约为144 kW时（此时辐照到等离子体上的电场强度约为7 450 V/m），等离子体开启情况下的测试结果。对比
+图5
+和
+图6
+可以看出，等离子体对1.3 GHz高功率微波产生了明显的防护作用（透射衰减大于20 dB）。
+图
+5
+发射功率为170 kW、等离子体未开启情况下的测试结果
+Fig.
+5
+Test results in condition of emission power 170 kW, plasma turned off
+实验过程中还对同样条件下的双层等离子体进行了防护验证，高功率微波透射衰减值超过26 dB，显然，等离子体厚度越大，防护效果越好。另外，由于是初步探索实验，在设置上缺少了对极化方式、微波频率、等离子体状态等多因素的考虑，在后续的研究工作中将进一步完善。
+图
+6
+发射功率为144 kW、等离子体开启情况下的测试结果
+Fig.
+6
+Test results in condition of emission power 144 kW, plasma turned on
+5 结论
+本文基于等离子体流体近似方法，建立了高功率微波与等离子体相互作用仿真计算模型，研究了高功率微波与柱状等离子体阵列相互作用过程中入射电场随时间的演变过程，分析了等离子体防护高功率微波的机理和物理过程。仿真结果表明，高功率微波通过等离子体时，会被后者吸收造成电子雪崩，产生更高电子密度的等离子体，使得等离子体对高功率微波的反射效应不断增强。这一过程不断发生，直至仅能有少量的微波能量进入等离子体，用于后产生电子的维持。此后，当进入等离子体中的微波能量继续增大时，电子雪崩效应再次发生，电子密度也会相应继续增大，直至达到新的动态平衡；而当高功率微波消失时，由于缺乏外界能量维持，电子和离子迅速复合，等离子体迅速恢复到与高功率微波相互作用前的状态。同时，利用本文建立的模型，还可以对高功率微波与等离子体相互作用过程中的影响因素（如高功率微波频率、脉宽、等离子体初始电子密度、初始电子能量、放电气体种类和气压等）进行分析。
+此外，利用高频辉光放电产生柱状等离子体阵列，通过实验证实了等离子体对高功率微波具有很好的防护作用。目前正在开展基于等离子体的高功率微波小型化防护器件研究，主要解决的问题有：①对于被保护电子系统工作频带内的小功率电磁信号，防护器件不能影响其正常传输；②在高功率微波作用下，等离子体发生非线性效应的时间尽可能短，以免造成漏过微波功率过大问题；③等离子体产生非线性效应的响应频率要尽可能宽；④等离子体产生装置自身能经得起高功率微波的攻击，同时其体积、质量和功耗满足使用要求。
+图
+1
+高功率微波与柱状等离子体阵列相互作用的仿真计算模型示意图
+Fig.
+1
+Simulation schematic diagram of the interactions between high-power microwave and columnar plasma arrays
+下载:
+全尺寸图片
+(44)
+图
+2
+计算模型中电场强度空间分布随激励时间的演变过程
+Fig.
+2
+Time dependence of the electric field intensity in simulation calculation model
+下载:
+全尺寸图片
+(81)
+图
+3
+模型中轴线电子密度和电场分布随激励时间的演变过程
+Fig.
+3
+Time dependence of the axial electron density and electric field distribution in simulation calculation model
+下载:
+全尺寸图片
+(82)
+图
+4
+实验测试示意图
+Fig.
+4
+Schematic diagram of the experimental test
+下载:
+全尺寸图片
+(94)
+图
+5
+发射功率为170 kW、等离子体未开启情况下的测试结果
+Fig.
+5
+Test results in condition of emission power 170 kW, plasma turned off
+下载:
+全尺寸图片
+(46)
+图
+6
+发射功率为144 kW、等离子体开启情况下的测试结果
+Fig.
+6
+Test results in condition of emission power 144 kW, plasma turned on
+下载:
+全尺寸图片
+(67)
+表
+1
+氩等离子体内部碰撞反应方程及类型
+Table
+1
+Collision reaction functions and types inside Ar plasma
+下载:
+全尺寸图片
+(49)
+图
+1
+高功率微波与柱状等离子体阵列相互作用的仿真计算模型示意图
+Fig.
+1
+Simulation schematic diagram of the interactions between high-power microwave and columnar plasma arrays
+图
+2
+计算模型中电场强度空间分布随激励时间的演变过程
+Fig.
+2
+Time dependence of the electric field intensity in simulation calculation model
+图
+3
+模型中轴线电子密度和电场分布随激励时间的演变过程
+Fig.
+3
+Time dependence of the axial electron density and electric field distribution in simulation calculation model
+图
+4
+实验测试示意图
+Fig.
+4
+Schematic diagram of the experimental test
+图
+5
+发射功率为170 kW、等离子体未开启情况下的测试结果
+Fig.
+5
+Test results in condition of emission power 170 kW, plasma turned off
+图
+6
+发射功率为144 kW、等离子体开启情况下的测试结果
+Fig.
+6
+Test results in condition of emission power 144 kW, plasma turned on
+表
+1
+氩等离子体内部碰撞反应方程及类型
+Table
+1
+Collision reaction functions and types inside Ar plasma
+[1]
+刘振林, 杨光, 段难, 等. 高功率微波导弹对战场环境的影响及对抗技术研究[J]. 微波学报, 2020, 36(增刊1): 358-361.
+LIU Z L, YANG G, DUAN N, et al. Research on the impact of CHAMP on the battlefield environment and the countermeasure technology[J]. Journal of Microwaves, 2020, 36(Suppl 1): 358-361.(in Chinese)
+[2]
+冯奇, 傅镇波. 高功率微波武器典型场景应用分析[J]. 中国电子科学研究院学报, 2021, 16(9): 916-920.
+FENG Q, FU Z B. Application analysis of HPM weapon in typical scenarios[J]. Journal of China Academy of Electronics and Information Technology, 2021, 16(9): 916-920.(in Chinese)
+[3]
+刘洋, 程立. 电磁脉冲防护技术研究现状[J]. 材料导报, 2016, 30(增刊2): 272-275.
+LIU Y, CHENG L. Research status of electromagnetic pulse weapon and its protection technology[J]. Materials Review, 2016, 30(Suppl 2): 272-275.(in Chinese)
+[4]
+宋玮, 邵浩, 张治强, 等. 射频击穿等离子体对高功率微波传输特性的影响[J]. 物理学报, 2014, 63(6): 158-162.
+SONG W, SHAO H, ZHANG Z Q, et al. High power microwave propagation properties in radio frequency breakdown plasma[J]. Acta Physica Sinica, 2014, 63(6): 158-162.(in Chinese)
+[5]
+KOURTZANIDIS K, BOEUF J P, ROGIER F. Three dimensional simulations of pattern formation during high-pressure, freely localized microwave breakdown in air[J]. Physics of Plasmas, 2014, 21(12): 123513.
+[6]
+赵朋程, 郭立新, 李慧敏.110 GHz高功率微波在大气击穿等离子体中的传输、反射和吸收[J]. 电波科学学报, 2016, 31(3): 512-515.
+ZHAO P C, GUO L X, LI H M. Transmission, reflection and absorption of 110 GHz high-power microwave in air breakdown plasma[J]. Chinese Journal of Radio Science, 2016, 31(3): 512-515.(in Chinese)
+[7]
+PAYNE K, XU K, CHOI J H, et al. Multiphysics analysis of plasma-based tunable absorber for high-power microwave applications[J]. IEEE Transactions on Antennas and Propagation, 2021, 69(11): 7624-7636.
+[8]
+WANG H Y, HU F, HU B, et al. Characteristics of microwave breakdown in cavity filter under high power microwave environment[C]//Proceedings of 2020 IEEE MTT-S International Conference on Numerical Electromagnetic and Multiphysics Modeling and Optimization(NEMO), 2020.
+[9]
+郑灵, 赵青, 罗先刚, 等. 等离子体中电磁波传输特性理论与实验研究[J]. 物理学报, 2012, 61(15): 343-349.
+ZHENG L, ZHAO Q, LUO X G, et al. Theoretical and experimental studies of electromagnetic wave transmission in plasma[J]. Acta Physica Sinica, 2012, 61(15): 343-349.(in Chinese)
+[10]
+李志刚, 陈宗胜. 等离子体与高功率微波相互作用中电子分布特性[J]. 国防科技大学学报, 2020, 42(1): 10-17.
+LI Z G, CHEN Z S. Distributions of the electron in the interactions between high power microwave and plasma[J]. Journal of National University of Defense Technology, 2020, 42(1): 10-17.(in Chinese)
+[11]
+袁忠才, 时家明. 高功率微波与等离子体相互作用理论和数值研究[J]. 物理学报, 2014, 63(9): 255-264.
+YUAN Z C, SHI J M. Theoretical and numerical studies on interactions between high-power microwave and plasma[J]. Acta Physica Sinica, 2014, 63(9): 255-264.(in Chinese)
+[12]
+HE W, LIU X H, XIAN R C, et al. Kinetics characteristics and bremsstrahlung of argon DC discharge under atmospheric pressure[J]. Plasma Science and Technology, 2013, 15(4): 335-342.
+PDF下载
+XML下载
+导出引用
+引用提醒
+图(6)
+/
+表(1)
+手机扫码阅读
+引用本文
+李志刚,邱志楠,汪家春,等.低温等离子体用于高功率微波防护研究&amp;lt;sup&amp;gt;&amp;lt;/sup&amp;gt;[J].国防科技大学学报,2023,45(6):84-89.
+复制
+LI Zhigang, QIU Zhinan, WANG Jiachun, et al. Study of high-power microwave protection technology based on low-temperature plasma[J]. Journal of National University of Defense Technology,2023,45(6):84-89.
+Copy
+计量
+文章访问量:
+28842
+HTML全文浏览量:
+3546
+PDF下载量:
+9901
+被引次数:
+0
+图
+1
+高功率微波与柱状等离子体阵列相互作用的仿真计算模型示意图
+Fig.
+1
+Simulation schematic diagram of the interactions between high-power microwave and columnar plasma arrays
+图
+2
+计算模型中电场强度空间分布随激励时间的演变过程
+Fig.
+2
+Time dependence of the electric field intensity in simulation calculation model
+图
+3
+模型中轴线电子密度和电场分布随激励时间的演变过程
+Fig.
+3
+Time dependence of the axial electron density and electric field distribution in simulation calculation model
+图
+4
+实验测试示意图
+Fig.
+4
+Schematic diagram of the experimental test
+图
+5
+发射功率为170 kW、等离子体未开启情况下的测试结果
+Fig.
+5
+Test results in condition of emission power 170 kW, plasma turned off
+图
+6
+发射功率为144 kW、等离子体开启情况下的测试结果
+Fig.
+6
+Test results in condition of emission power 144 kW, plasma turned on
+表
+1
+氩等离子体内部碰撞反应方程及类型
+Table
+1
+Collision reaction functions and types inside Ar plasma
+刘振林, 杨光, 段难, 等. 高功率微波导弹对战场环境的影响及对抗技术研究[J]. 微波学报,2020,36(增刊1):358-361.
+LIU Z L, YANG G, DUAN N,et al. Research on the impact of CHAMP on the battlefield environment and the countermeasure technology[J]. Journal of Microwaves,2020,36(Suppl 1):358-361.(in Chinese)
+冯奇, 傅镇波. 高功率微波武器典型场景应用分析[J]. 中国电子科学研究院学报,2021,16(9):916-920.
+FENG Q, FU Z B. Application analysis of HPM weapon in typical scenarios[J]. Journal of China Academy of Electronics and Information Technology,2021,16(9):916-920.(in Chinese)
+刘洋, 程立. 电磁脉冲防护技术研究现状[J]. 材料导报,2016,30(增刊2):272-275.
+LIU Y, CHENG L. Research status of electromagnetic pulse weapon and its protection technology[J]. Materials Review,2016,30(Suppl 2):272-275.(in Chinese)
+宋玮, 邵浩, 张治强, 等. 射频击穿等离子体对高功率微波传输特性的影响[J]. 物理学报,2014,63(6):158-162.
+SONG W, SHAO H, ZHANG Z Q,et al. High power microwave propagation properties in radio frequency breakdown plasma[J]. Acta Physica Sinica,2014,63(6):158-162.(in Chinese)
+KOURTZANIDIS K, BOEUF J P, ROGIER F. Three dimensional simulations of pattern formation during high-pressure,freely localized microwave breakdown in air[J]. Physics of Plasmas,2014,21(12):123513.
+赵朋程, 郭立新, 李慧敏.110 GHz高功率微波在大气击穿等离子体中的传输、反射和吸收[J]. 电波科学学报,2016,31(3):512-515.
+ZHAO P C, GUO L X, LI H M. Transmission,reflection and absorption of 110 GHz high-power microwave in air breakdown plasma[J]. Chinese Journal of Radio Science,2016,31(3):512-515.(in Chinese)
+PAYNE K, XU K, CHOI J H,et al. Multiphysics analysis of plasma-based tunable absorber for high-power microwave applications[J]. IEEE Transactions on Antennas and Propagation,2021,69(11):7624-7636.
+WANG H Y, HU F, HU B,et al. Characteristics of microwave breakdown in cavity filter under high power microwave environment[C]//Proceedings of 2020 IEEE MTT-S International Conference on Numerical Electromagnetic and Multiphysics Modeling and Optimization(NEMO),2020.
+郑灵, 赵青, 罗先刚, 等. 等离子体中电磁波传输特性理论与实验研究[J]. 物理学报,2012,61(15):343-349.
+ZHENG L, ZHAO Q, LUO X G,et al. Theoretical and experimental studies of electromagnetic wave transmission in plasma[J]. Acta Physica Sinica,2012,61(15):343-349.(in Chinese)
+李志刚, 陈宗胜. 等离子体与高功率微波相互作用中电子分布特性[J]. 国防科技大学学报,2020,42(1):10-17.
+LI Z G, CHEN Z S. Distributions of the electron in the interactions between high power microwave and plasma[J]. Journal of National University of Defense Technology,2020,42(1):10-17.(in Chinese)
+袁忠才, 时家明. 高功率微波与等离子体相互作用理论和数值研究[J]. 物理学报,2014,63(9):255-264.
+YUAN Z C, SHI J M. Theoretical and numerical studies on interactions between high-power microwave and plasma[J]. Acta Physica Sinica,2014,63(9):255-264.(in Chinese)
+HE W, LIU X H, XIAN R C,et al. Kinetics characteristics and bremsstrahlung of argon DC discharge under atmospheric pressure[J]. Plasma Science and Technology,2013,15(4):335-342.
+作者投稿
+投稿指南
+联系我们
+公众号
+返回顶部
+扫码关注
+官方微信
+您是今天第
+11867
+位访客
+总访问量：
+254740590
+电话：
+0731-87028030
+邮箱:journal@nudt.edu.cn
+地址：湖南省长沙市开福区德雅路109号
+邮政编码：410073
+备案号 
+：
+湘ICP备09019258号
+技术支持：北京勤云科技发展有限公司&lt;/pre&gt;</content:encoded></item></channel></rss>

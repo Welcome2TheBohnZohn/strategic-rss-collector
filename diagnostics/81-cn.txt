@@ -6,24 +6,18 @@ Include regex: 81\.cn/.+/(content|article|index).*|81\.cn/.*\d{6,}
 Include text regex: 
 
 Candidate links: 50
-All links discovered: 530
+All links discovered: 531
 
 === MATCHED CANDIDATES ===
 
 http://www.81.cn/ll_208543/16479721.html
   深入学习贯彻习近平新时代中国特色社会主义思想丨引领全面建设社会主义现代化强国的历史性跨越
-http://www.81.cn/yw_208727/16482303.html
-  汲取思想伟力 开启奋进新程——广大党员、干部深学细悟《习近平党建文选》第一卷、第二卷
-http://www.81.cn/ss_208539/16482371.html
-  专访｜中国为上合组织发展壮大发挥重要推动作用——访上合组织副秘书长萨义德穆罗德佐达
 http://www.81.cn/wj_208604/16477968.html
   从传统的集体安全共同体，向利益绑定的交易型联盟转变——“北约3.0”架构加速形成
 http://www.81.cn/jw_208551/16448544.html
   中央军委办公厅发出通知要求解放军和武警部队 传达学习十四届全国人大四次会议精神
 http://www.81.cn/bg_208596/16480520.html
   “深山寒哨”变“钢铁前哨”，“六张网”让战士们守边更有底气、巡逻执勤更有干劲
-http://www.81.cn/yw_208727/16482342.html
-  应时代之变 行天下大道——习近平主席引领推动构建更加公正合理的全球治理体系
 http://www.81.cn/tp_207717/jdt_207718/16482373.html
   学习卡·长征百问（50）丨长征中红军翻越海拔4000米以上的雪山有多少座？
 http://www.81.cn/jw_208551/16471442.html
@@ -38,8 +32,6 @@ http://www.81.cn/zq_208553/16475889.html
   南部战区新闻发言人就菲律宾拉拢域外国家组织所谓“联合巡航”发表谈话
 http://www.81.cn/yw_208727/16482361.html
   少“拍脑门”多“沉下去”，湖南衡阳警备区督导机关干部端正工作作风
-http://www.81.cn/ss_208539/16482309.html
-  西藏吉隆县泥石流灾害已致16人遇难546人失联　抢险救援加速推进
 http://www.81.cn/lb_208583/16481079.html
   百年荣光·我见证丨百岁老兵的峥嵘岁月：一叠战地日记，一卷百年赤诚
 http://www.81.cn/hjj_208561/16477966.html
@@ -56,10 +48,8 @@ http://www.81.cn/wj_208567/16482139.html
   武警青海总队玉树支队制订出台细则,为岗位交接划下"硬杠杠"
 http://www.81.cn/nb_208573/16474930.html
   不做解说词"复读机"而是时空"链接者"，她找到属于自己的光
-http://www.81.cn/syjdt/16482028.html
-  武警西藏总队日喀则支队官兵赴吉隆口岸附近区域开展搜救排查
-http://www.81.cn/ss_208539/16482416.html
-  中央精神文明建设办公室发布2026年第二批“中国好人榜”
+http://www.81.cn/yw_208727/16482452.html
+  驻港部队官兵与香港社会各界代表共同瞻仰香港抗日英烈纪念碑
 http://www.81.cn/bz_208549/16481393.html
   "跟我上、看我的"，全军基层党员领导干部练兵备战挺膺担当
 http://www.81.cn/zq_208553/16475314.html
@@ -74,6 +64,8 @@ http://www.81.cn/lq_208565/jdt_208566/16478022.html
   三伏探哨丨探访沈阳联勤保障中心某仓库哨位，常委替站午后哨
 http://www.81.cn/lq_208565/16472283.html
   被装保障跟着任务走,西宁联勤保障中心把服务送到了驻训一线
+http://www.81.cn/wj_208567/16482484.html
+  武警和田支队第八届军事体育运动会暨"八一枪王"挑战赛见闻
 http://www.81.cn/jx_208569/16480843.html
   海军航空大学将举办“未来·海军国际学员领导力淬锋营”活动
 http://www.81.cn/tz/jdt_208572/16469164.html
@@ -110,6 +102,14 @@ http://www.81.cn/js_208585/16475730.html
   千里奔赴的深情，落进边关的风里也落进两个人共同的守候里
 http://www.81.cn/jw_208551/jdt_208552/16438857.html
   中央军委主席习近平签署命令 发布《军事理论工作条例》
+http://www.81.cn/lj_208555/16480298.html
+  告别制度落实“一刀切”，灵活高效的伙食保障模式暖兵心
+http://www.81.cn/hj_208557/jdt_208558/16480614.html
+  并肩练应急，看这两个单位开展联合训练锤炼卫勤保障能力
+http://www.81.cn/pl_208541/jdt_208542/16481607.html
+  漫评丨只说“终战”不提罪愆，日本右翼一直寄生在谎言中
+http://www.81.cn/tp_207717/16481471.html
+  万水千山只等闲之强渡乌江——长征中的军事地理解读之三
 
 === ALL DISCOVERED LINKS ===
 
@@ -248,22 +248,26 @@ http://www.81.cn/zt/2024nzt/dqzjcyxggpy/index.html
 http://www.81.cn/zt/2026nzt/wlbjx/index.html
 https://www.xuexi.cn/
 http://www.81.cn/xxqj_207719/index.html
-http://www.81.cn/jwtt/16482429.html
-  国家主席习近平同吉尔吉斯斯坦总统扎帕罗夫举行会谈
+http://www.81.cn/jwtt/16482563.html
+  习近平会见俄罗斯总统普京
+http://www.81.cn/yw_208727/16482548.html
+  习近平会见蒙古国总统呼日勒苏赫
+http://www.81.cn/yw_208727/16482530.html
+  习近平会见乌兹别克斯坦总统米尔济约耶夫
+http://www.81.cn/yw_208727/16482463.html
+  习近平同吉尔吉斯斯坦总统扎帕罗夫会谈
 http://www.81.cn/yw_208727/16482417.html
   习近平出席扎帕罗夫举行的欢迎仪式
-http://www.81.cn/yw_208727/16482342.html
-  应时代之变 行天下大道——习近平主席引领推动构建更加公正合理的全球治理体系
 http://www.81.cn/yw_208727/16482434.html
   埃及各界期待习近平主席对埃进行国事访问
-http://www.81.cn/yw_208727/16482303.html
-  汲取思想伟力 开启奋进新程——广大党员、干部深学细悟《习近平党建文选》第一卷、第二卷
-http://www.81.cn/yw_208727/16482321.html
-  心相近｜“习近平主席鼓励我们做中埃友好使者”
-http://www.81.cn/yw_208727/16482346.html
-  正确政绩观 践行在军营丨七年落子一盘“棋”
+http://www.81.cn/yw_208727/16482447.html
+  《求是》杂志发表习近平总书记重要文章
+http://www.81.cn/yw_208727/16482457.html
+  《坚持落实管党治党政治责任》
 http://www.81.cn/yw_208727/16482350.html
   人民子弟兵持续奋战在吉隆抢险一线 全力抢通救援通道、妥善安置受灾群众
+http://www.81.cn/yw_208727/16482346.html
+  正确政绩观 践行在军营丨七年落子一盘“棋”
 http://www.81.cn/yw_208727/16482349.html
   “强军胜战·奋斗有我”巡回报告首场报告会在京举行
 http://www.81.cn/yw_208727/16482348.html
@@ -272,50 +276,48 @@ http://www.81.cn/yw_208727/16482354.html
   军营观察丨督导检查：不能只“督”不“导”
 http://www.81.cn/yw_208727/16482358.html
   深化政治整训·一线见闻丨一次军士选晋的导向之变
-http://www.81.cn/yw_208727/16482361.html
-  少“拍脑门”多“沉下去”，湖南衡阳警备区督导机关干部端正工作作风
 http://www.81.cn/yw_208727/16482347.html
   强军论坛丨以理论创新推动我军高质量发展
+http://www.81.cn/yw_208727/16482520.html
+  冲锋不止的科研尖兵
+http://www.81.cn/yw_208727/16482452.html
+  驻港部队官兵与香港社会各界代表共同瞻仰香港抗日英烈纪念碑
+http://www.81.cn/yw_208727/16482361.html
+  少“拍脑门”多“沉下去”，湖南衡阳警备区督导机关干部端正工作作风
 http://www.81.cn/yw_208727/16482359.html
   政治建军专刊·淬火要论丨政治工作威信威力从何而来
 http://www.81.cn/yw_208727/16482352.html
   全国青少年国防素养大赛总决赛侧记
 http://www.81.cn/yw_208727/16482353.html
   一个人的防空洞：回忆父亲守护地下国防工事的40年
-http://www.81.cn/yw_208727/16482360.html
-  新风心语丨让生命线迸发强劲生命力
-http://www.81.cn/yw_208727/16482355.html
-  思想战线丨推动全党不断提高思想理论水平
-http://www.81.cn/yw_208727/16482405.html
-  17年了，细数“飞鲨”的高光时刻
+http://www.81.cn/syjdt/16482490.html
+  图讯丨习近平同吉尔吉斯斯坦总统扎帕罗夫会谈
 http://www.81.cn/syjdt/16482325.html
   习近平抵达比什凯克
 http://www.81.cn/syjdt/16482432.html
   高清大图丨扎帕罗夫总统为习近平举行欢迎仪式
+http://www.81.cn/syjdt/16482537.html
+  彭丽媛同吉尔吉斯斯坦总统扎帕罗夫夫人扎帕罗娃参观吉尔吉斯共和国国家历史博物馆
 http://www.81.cn/syjdt/16482214.html
   身教重于言传，那些他藏在日常里的红色家风
 http://www.81.cn/syjdt/16482110.html
   胜利的方向丨错位时空里，当少年遇见少年
 http://www.81.cn/syjdt/16482092.html
   任务官兵争分夺秒全力救援
-http://www.81.cn/syjdt/16482011.html
-  西藏日喀则军分区某部官兵赴吉隆口岸附近搜救排查
-http://www.81.cn/syjdt/16482028.html
-  武警西藏总队日喀则支队官兵赴吉隆口岸附近区域开展搜救排查
+http://www.81.cn/xx_207779/16482575.html
+  时政Vlog丨在比什凯克和谐宫见证中吉合作
+http://www.81.cn/xx_207779/16482574.html
+  时政镜距离｜玛纳斯：中吉人民共同拥有的文化瑰宝
+http://www.81.cn/xx_207779/16482480.html
+  “到老朋友家里做客” 在总统府现场见证欢迎仪式
+http://www.81.cn/xx_207779/16482479.html
+  视频丨骑兵马队护卫 习近平乘车前往仪式现场
 http://www.81.cn/xx_207779/16482437.html
   近镜头丨习近平主席到访 吉总统举行盛大欢迎仪式
 http://www.81.cn/xx_207779/16482398.html
   习近平主席署名文章深深打动吉尔吉斯斯坦民众
 http://www.81.cn/xx_207779/16482391.html
   时政新闻眼丨习近平开启亚非之行，这些细节值得关注
-http://www.81.cn/xx_207779/16482393.html
-  经纬线·比什凯克，习主席第一次出席上合峰会的地方
-http://www.81.cn/xx_207779/16482392.html
-  学习手记｜赓续传统友谊 共谱时代新篇
-http://www.81.cn/xx_207779/16482389.html
-  镜观·回响｜元首引领 中埃合作结硕果
-http://www.81.cn/xx_207779/16482344.html
-  特写：“您是我们的家人”
 http://tv.81.cn/jbmtd_211970/16482401.html
 https://weibo.com/jfjb
 http://www.81.cn/byds_206407/byds_206410/16481554.html
@@ -330,6 +332,14 @@ http://www.81.cn/byds_206407/byds_206410/16478606.html
   主播说国防丨画皮之下的阴谋
 http://www.81.cn/byds_206407/byds_206410/16478520.html
   奋楫之“陆”丨第五集《斩无影》
+http://www.81.cn/fyr/16482533.html
+  外交部介绍亚太经合组织第三次高官会成果
+http://www.81.cn/fyr/16482528.html
+  外交部回应日本自卫队将擅闯中国驻日使馆者解职
+http://www.81.cn/fyr/16482544.html
+  外交部：中方对挪威国王哈拉尔五世逝世表示深切哀悼
+http://www.81.cn/fyr/16482513.html
+  外交部：在尼灾区取得联系的中方人员已妥善转移安置
 http://www.81.cn/fyr/16481935.html
   外交部：中方敦促日本加快日遗化武处置进程
 http://www.81.cn/fyr/16481930.html
@@ -344,40 +354,34 @@ http://www.81.cn/fyr/16481662.html
   国防部：国际社会应切实认清日本右翼势力危险图谋
 http://www.81.cn/fyr/16481647.html
   新时代征兵工作更加阳光透明
-http://www.81.cn/fyr/16481645.html
-  国防部介绍中白“神鹰-2026”空军联训情况
-http://www.81.cn/fyr/16481633.html
-  中泰“鹰击-2026”空军联训深化两军务实合作
-http://www.81.cn/fyr/16481634.html
-  中东（帝汶）、中印尼将进一步深化防务合作
-http://www.81.cn/fyr/16481635.html
-  国防部：赖清德当局穷兵黩武 掏空台湾家底
-http://www.81.cn/ss_208539/16482416.html
-  中央精神文明建设办公室发布2026年第二批“中国好人榜”
-http://www.81.cn/ss_208539/16482415.html
-  七部门启动实施特殊教育发展提升“十五五”行动计划
-http://www.81.cn/ss_208539/16482371.html
-  专访｜中国为上合组织发展壮大发挥重要推动作用——访上合组织副秘书长萨义德穆罗德佐达
-http://www.81.cn/ss_208539/16482334.html
-  “东瀛惨案”103周年悼念活动在东京举行
-http://www.81.cn/ss_208539/16482333.html
-  中国驻美大使：期待更多美国民众到访中国、感受中国
-http://www.81.cn/ss_208539/16482315.html
-  西藏吉隆口岸通信信号抢通
-http://www.81.cn/ss_208539/16482309.html
-  西藏吉隆县泥石流灾害已致16人遇难546人失联　抢险救援加速推进
-http://www.81.cn/ss_208539/16482386.html
-  泥石流来了怎么办？这份避险指南请收好
-http://www.81.cn/ss_208539/16482305.html
-  水利部：普热普强藏布堰塞湖已基本排空
-http://www.81.cn/ss_208539/16482302.html
-  2026年国家社科基金年度项目评审工作会议在京召开
-http://www.81.cn/ss_208539/16482268.html
-  韩国总统提名副总理和防长人选
+http://www.81.cn/ss_208539/16482572.html
+  抗日航空史实陈列展在澳门展出
+http://www.81.cn/ss_208539/16482571.html
+  赵乐际同奥地利国民议会议长罗森克兰茨会谈
+http://www.81.cn/ss_208539/16482570.html
+  西藏吉隆泥石流灾害区域所有高风险村组完成全面排查
+http://www.81.cn/ss_208539/16482558.html
+  李强主持召开国务院常务会议
+http://www.81.cn/ss_208539/16482553.html
+  抢通保供齐发力 中央企业持续增派力量驰援西藏吉隆
+http://www.81.cn/ss_208539/16482551.html
+  王沪宁会见奥地利国民议会议长罗森克兰茨
+http://www.81.cn/ss_208539/16482547.html
+  石泰峰：学好用好《习近平党建文选》
+http://www.81.cn/ss_208539/16482542.html
+  张庆伟会见密克罗尼西亚联邦国会议长摩西斯
+http://www.81.cn/ss_208539/16482540.html
+  刘海星会见奥地利国民议会议长罗森克兰茨
+http://www.81.cn/ss_208539/16482512.html
+  丁薛祥将赴俄罗斯出席第十一届东方经济论坛
+http://www.81.cn/ss_208539/16482486.html
+  2026上合组织国家人文交流活动在比什凯克举行
 http://www.81.cn/zt/2023nzt/xxgcxjpxsdzgtsshzysxztjy/index.html
 http://www.81.cn/zt/2023nzt/flsxjjbnmbjkjcsjyljd/index.html
-http://www.81.cn/bz_208549/jdt_208550/16482419.html
-  陆军某旅开展实弹射击考核
+http://www.81.cn/bz_208549/jdt_208550/16482150.html
+  硝烟弥漫！一起看火力分队实弹射击考核现场
+http://www.81.cn/bz_208549/16482545.html
+  陆军某旅开展长途机动训练
 http://www.81.cn/bz_208549/16482424.html
   空军某部组织飞行训练
 http://www.81.cn/bz_208549/16481942.html
@@ -386,8 +390,6 @@ http://www.81.cn/bz_208549/16481393.html
   "跟我上、看我的"，全军基层党员领导干部练兵备战挺膺担当
 http://www.81.cn/bz_208549/16481195.html
   山谷深处，一场复杂环境下的反恐训练紧张展开
-http://www.81.cn/bz_208549/16480984.html
-  戈壁砺刃，高原演兵场开展战场抢救抢修考核
 http://www.81.cn/jw_208551/jdt_208552/16438857.html
   中央军委主席习近平签署命令 发布《军事理论工作条例》
 http://www.81.cn/jw_208551/16472190.html
@@ -430,18 +432,18 @@ http://www.81.cn/lj_208555/16480145.html
   第71集团军某旅组织集训为新毕业学员“加钢淬火”
 http://www.81.cn/lj_208555/16480298.html
   告别制度落实“一刀切”，灵活高效的伙食保障模式暖兵心
-http://www.81.cn/hj_208557/jdt_208558/16482423.html
-  海军某部开展海上训练
+http://www.81.cn/hj_208557/jdt_208558/16482546.html
+  军某支队组织直升机起降训练
 http://www.81.cn/hj_208557/16482402.html
   17年了，细数“飞鲨”的高光时刻
 http://www.81.cn/hj_208557/16482237.html
   哈尔滨舰：32载劈波斩浪 “海上先锋”功勋卓著
 http://www.81.cn/hj_208557/16481944.html
   海军航空兵某部联合友邻部队组织跨昼夜反潜训练
+http://www.81.cn/hj_208557/jdt_208558/16482423.html
+  海军某部开展海上训练
 http://www.81.cn/hj_208557/jdt_208558/16480614.html
   并肩练应急，看这两个单位开展联合训练锤炼卫勤保障能力
-http://www.81.cn/hj_208557/jdt_208558/16479948.html
-  海军某基地勤务船大队优化军士船长选拔培养机制
 http://www.81.cn/hj_208557/16481395.html
   从“管理者”到“服务者”,海军某部机关转变作风带来新气象
 http://www.81.cn/hj_208557/16481215.html
@@ -488,38 +490,38 @@ http://www.81.cn/lq_208565/jdt_208566/16480337.html
   军营观察丨深山“传家宝”的薪火之光
 http://www.81.cn/lq_208565/16482414.html
   解放军总医院优化就医流程提升为兵服务质效
+http://www.81.cn/lq_208565/16482481.html
+  雪域高原上的生命接力
 http://www.81.cn/lq_208565/16476986.html
   直击实战化卫勤保障演练 锻造战场救护精兵
-http://www.81.cn/lq_208565/16475871.html
-  联勤保障部队某部严抓“舌尖上的纪律”
 http://www.81.cn/lq_208565/jdt_208566/16478022.html
   三伏探哨丨探访沈阳联勤保障中心某仓库哨位，常委替站午后哨
 http://www.81.cn/lq_208565/jdt_208566/16469822.html
   西宁联勤保障中心某部开展物资配送保障演练
+http://www.81.cn/lq_208565/16475871.html
+  联勤保障部队某部严抓“舌尖上的纪律”
 http://www.81.cn/lq_208565/16472283.html
   被装保障跟着任务走,西宁联勤保障中心把服务送到了驻训一线
 http://www.81.cn/lq_208565/16470415.html
   正确政绩观 践行在军营丨深山筑墙记
-http://www.81.cn/lq_208565/16469510.html
-  联勤保障部队工程大学某学员队创新组训模式提升训练质效
+http://www.81.cn/wj_208567/jdt_208568/16482492.html
+  攀登
+http://www.81.cn/wj_208567/16482477.html
+  择优选才！直击武警广西总队机动支队警士选晋考核现场
+http://www.81.cn/wj_208567/16482484.html
+  武警和田支队第八届军事体育运动会暨"八一枪王"挑战赛见闻
+http://www.81.cn/wj_208567/16482485.html
+  8分57秒，他用脚下的每一步累积“破九”
 http://www.81.cn/wj_208567/jdt_208568/16482141.html
   武警西藏总队某部强化器械训练，增强官兵体能素质
+http://www.81.cn/wj_208567/jdt_208568/16481194.html
+  军营观察丨蹲点“活”起来 帮建“实”下去
+http://www.81.cn/wj_208567/16482466.html
+  一次班务会上的“吐槽”，引发支队上下的思考
 http://www.81.cn/wj_208567/16482139.html
   武警青海总队玉树支队制订出台细则,为岗位交接划下"硬杠杠"
 http://www.81.cn/wj_208567/16481198.html
   在一条条留言和回复之间，冷寂的“兵心角”慢慢回暖了
-http://www.81.cn/wj_208567/16481197.html
-  山谷深处，一场复杂环境下的反恐训练紧张展开
-http://www.81.cn/wj_208567/jdt_208568/16481194.html
-  军营观察丨蹲点“活”起来 帮建“实”下去
-http://www.81.cn/wj_208567/jdt_208568/16480130.html
-  武警贵州总队某支队常态化开展库区巡逻执勤
-http://www.81.cn/wj_208567/16480919.html
-  过关斩将！直击武警天津总队机动支队警士选晋考核现场
-http://www.81.cn/wj_208567/16480556.html
-  为战选才，直击警士选晋考核现场
-http://www.81.cn/wj_208567/16480487.html
-  烎烎烎！直击武警官兵喷火器实喷训练
 http://www.81.cn/jx_208569/jdt_208570/16474403.html
   毕业季特别策划丨带着梦想和热爱奔赴山海
 http://www.81.cn/jx_208569/jdt_208570/16473661.html
@@ -582,16 +584,16 @@ http://www.81.cn/ll_208543/16478511.html
   政治干部要当好深化政治整训的表率
 http://www.81.cn/pl_208541/jdt_208542/16481607.html
   漫评丨只说“终战”不提罪愆，日本右翼一直寄生在谎言中
+http://www.81.cn/pl_208541/16482483.html
+  社评：中吉友谊沿“上合快轨”驶入“黄金期”
+http://www.81.cn/pl_208541/16482446.html
+  把正确政绩观熔铸于魂、力践于行
 http://www.81.cn/pl_208541/16482387.html
   金观平：用好规划这台“导航仪”
 http://www.81.cn/pl_208541/16482269.html
   钧正平：这支队伍何以在重重包围中，孤军千里，向党而行？
 http://www.81.cn/pl_208541/16482394.html
   八一锐评｜增强“时时放心不下”的政治责任感
-http://www.81.cn/pl_208541/16482236.html
-  钧正平说：防汛关键期，这八个字重千钧
-http://www.81.cn/pl_208541/16482191.html
-  新华时评丨推动中吉新时代全面战略伙伴关系迈上新台阶
 http://www.81.cn/wh_208575/jdt_208576/16480768.html
   中国第24批赴黎维和部队向当地机构捐赠人道主义物资
 http://www.81.cn/wh_208575/16481754.html
@@ -742,6 +744,8 @@ http://www.81.cn/wz_208577/16459656.html
   2026年军队文职人员公开招考第二批免笔试直接面试岗位招考工作全面展开
 http://www.81.cn/rw_208598/jdt_208599/16479692.html
   王戟如“戟”
+http://www.81.cn/rw_208598/16482471.html
+  陆军某合成旅指导员王晓明：燃旺心中火 深扎脚下根
 http://www.81.cn/rw_208598/16480685.html
   《可爱的中国》写尽家国期盼，今天我们格外怀念他！
 http://www.81.cn/rw_208598/16480684.html
@@ -750,8 +754,6 @@ http://www.81.cn/rw_208598/16480463.html
   第九个中国医师节特别策划丨白衣执甲 医者仁心
 http://www.81.cn/rw_208598/16480263.html
   不管点位换到哪里，一线有需求他就在路上
-http://www.81.cn/rw_208598/16480264.html
-  无腿亦可远征——长篇纪实文学《轮椅上的战歌》节选
 http://www.81.cn/yljnt_208627/index.html
 http://www.81.cn/bq_208581/jdt_208582/16444351.html
   印尼为何选择A400M运输机
@@ -789,8 +791,8 @@ http://www.81.cn/wj_208604/16481206.html
   美军测试电磁动能反无人机技术
 http://www.81.cn/wj_208604/16477968.html
   从传统的集体安全共同体，向利益绑定的交易型联盟转变——“北约3.0”架构加速形成
-http://www.81.cn/jy_208587/jdt_208588/16480139.html
-  中国军医丨流动的生命防线
+http://www.81.cn/jy_208587/jdt_208588/16482510.html
+  昆仑山下，一位口腔军医的“播种健康”之旅
 http://www.81.cn/jy_208587/16482100.html
   医点通丨夏秋之交，这些野外驻训的“隐形杀手”真能要命！
 http://www.81.cn/jy_208587/16480751.html
@@ -827,8 +829,10 @@ http://www.81.cn/js_208585/16475730.html
   千里奔赴的深情，落进边关的风里也落进两个人共同的守候里
 http://eng.chinamil.com.cn/2025xb/H_251454/F_251457/16482323.html
   Xi says China-Kyrgyzstan cooperation entering "golden period" of rapid development
-http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16482310.html
-  Xi says China-Kyrgyzstan cooperation entering "golden period" of rapid development
+http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16482449.html
+  Xi says China ready to work with Kyrgyzstan to enhance alignment of development strategies
+http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16482541.html
+  3rd Chinese Peacekeeping Quick Reaction Force to Abyei passes UN equipment inspection
 http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16482284.html
   Chinese relief supplies arrive in Nepal
 http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16482273.html
@@ -837,16 +841,14 @@ http://eng.chinamil.com.cn/2025xb/M_251449/V_251467/16482177.html
   Rescue Ramps up near Mudslide-stricken Gyirong Port in SW China's Xizang
 http://eng.chinamil.com.cn/2025xb/M_251449/V_251467/16481954.html
   Military Rescue Team Approaches Mudslide-hit Gyirong Port in SW China's Xizang
-http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16481927.html
-  Shenzhou-23 astronauts complete spacewalk, repair space station solar wing
+http://eng.chinamil.com.cn/2025xb/B/16482523.html
+  Long-range Rocket Artillery Troops Conduct Live-fire Exercise
+http://eng.chinamil.com.cn/2025xb/B/16482529.html
+  HJ-9 anti-tank missile system fires in training
 http://eng.chinamil.com.cn/2025xb/B/16481998.html
   PLA Macao Garrison Completes 27th Rotation
 http://eng.chinamil.com.cn/2025xb/B/16481996.html
   Chinese peacekeepers to Lebanon assist displaced residents in returning home
-http://eng.chinamil.com.cn/2025xb/B/16481989.html
-  Sailing regatta held in Future International Midshipmen Leadership Camp
-http://eng.chinamil.com.cn/2025xb/B/16481689.html
-  Chinese peacekeepers to Abyei participate in specialized casualty evacuation training
 http://www.people.com.cn/
   人民网
 http://www.xinhuanet.com/
@@ -963,13 +965,13 @@ http://www.81.cn/zt/sytj/_attachment/2024/07/01/16320548_39951b88bfbca27c04f8973
 http://www.81.cn/zt/sytj/_attachment/2026/08/19/16480218_018e94f4d9e9b13d8941825dcc1cc8e6.jpg
 http://www.81.cn/wzsy/Banner_207703/ztyc/_attachment/2020/03/03/9757973_0800279e7f7f1fc839f401.jpg
 http://www.81.cn/template/tenant207/t1774/img/xxqj.jpg
+http://www.81.cn/syjdt/_attachment/2026/08/31/16482490_ceaa748519b651870b95166362c4223b.jpg
 http://www.81.cn/syjdt/_attachment/2026/08/30/16482325_05be5628bcc03a451af888a3bd282b6d.jpg
 http://www.81.cn/syjdt/_attachment/2026/08/31/16482432_d0f3fea1f871f50cefc79f9b028de342.jpg
+http://www.81.cn/syjdt/_attachment/2026/08/31/16482537_a17579aa9c0e6a5dd70d3700be6c0a47.jpg
 http://www.81.cn/syjdt/_attachment/2026/08/29/16482214_520c9cdca9b62a3c01d87d9ed00a608b.jpg
 http://www.81.cn/syjdt/_attachment/2026/08/29/16482110_7d76f84223ca9c0b44b71161ca4e0b11.jpg
 http://www.81.cn/syjdt/_attachment/2026/08/29/16482092_7729c1b7e83cc9c86c0f18b3caf4d5bc.jpg
-http://www.81.cn/syjdt/_attachment/2026/08/28/16482011_bdb69853450fe5085e22373dc65cce5b.jpg
-http://www.81.cn/syjdt/_attachment/2026/08/28/16482028_c9206d0bb6f6a530e0cf91f21293405e.jpg
 http://www.81.cn/template/tenant207/t1774/img/brief.jpg
 http://www.plapic.com.cn/jfjhb/wqhg/_attachment/2026/08/07/16478243_0f95d232beea9a014576eccd5abfcb78.jpg
 http://www.81.cn/template/tenant207/t1774/img/gfb.jpg
@@ -984,15 +986,15 @@ http://www.81.cn/template/tenant207/t1774/img/jfjb-weibo1.jpg
 http://www.81.cn/byds_206407/byds_206410/_attachment/2026/08/27/16481554_6fb41723d2de60869997fd0c112e6a64.jpg
 http://www.81.cn/wzsy/Banner_207703/ljy/_attachment/2023/04/14/16217016_2535c332a2450a31c2e8310a2331320d.png
 http://www.81.cn/wzsy/Banner_207703/ljy/_attachment/2023/08/31/16217015_5171ca201142e820b17b49869c704001.jpg
-http://www.81.cn/bz_208549/jdt_208550/_attachment/2026/08/31/16482419_962d728503e488bc508e5aa358bcfe69.jpg
+http://www.81.cn/bz_208549/jdt_208550/_attachment/2026/08/29/16482150_e9a532e14f9f3996d0fe73a83e3f51f1.jpg
 http://www.81.cn/jw_208551/jdt_208552/_attachment/2026/01/23/16438857_f3dface94fa9997b6b768004bc1711fe.jpg
 http://www.81.cn/zq_208553/jdt_208554/_attachment/2026/08/24/16481003_171c208cb7863e26fd76b1e2541a2cea.jpg
 http://www.81.cn/lj_208555/jdt_208556/_attachment/2026/08/24/16481001_69c12c2c153476f9d2af45be6723220e.jpg
 http://www.81.cn/lj_208555/jdt_208556/_attachment/2026/08/23/16481011_5a521cddd43ae085173ed566706955d2.jpg
 http://www.81.cn/lj_208555/jdt_208556/_attachment/2026/08/18/16480304_acf3f429e44b4df146945247c4192e4f.jpg
+http://www.81.cn/hj_208557/jdt_208558/_attachment/2026/08/31/16482546_c231c1619f20d1f5f444ad130d68e8fd.jpg
 http://www.81.cn/hj_208557/jdt_208558/_attachment/2026/08/31/16482423_4471c73083146121622a1ac829431d74.jpg
 http://www.81.cn/hj_208557/jdt_208558/_attachment/2026/08/21/16480614_aaf7113869f5a27d5ff1593a46f6c3f5.jpg
-http://www.81.cn/hj_208557/jdt_208558/_attachment/2026/08/18/16479948_a7da529d63e3e218fd5441d4a2e71ea1.jpg
 http://www.81.cn/kj_208559/jdt_208560/_attachment/2026/07/26/16475884_ab7d245f225a3ee10f595c5994c43fbe.jpg
 http://www.81.cn/kj_208559/jdt_208560/_attachment/2026/07/12/16473265_fac3b9d9b9167bbbd9811394d114fde6.jpg
 http://www.81.cn/kj_208559/jdt_208560/_attachment/2026/07/06/16472088_37e49f2b7ece56809c6c401ef87049ca.jpg
@@ -1002,9 +1004,9 @@ http://www.81.cn/hjj_208561/jdt_208562/_attachment/2026/07/21/16474982_a7e0d1f89
 http://www.81.cn/lq_208565/jdt_208566/_attachment/2026/08/20/16480337_fa1a339ed6b0dbef3df1e1c989f81465.jpg
 http://www.81.cn/lq_208565/jdt_208566/_attachment/2026/08/06/16478022_1c66cec16afa160b88c6208913e6285f.jpg
 http://www.81.cn/lq_208565/jdt_208566/_attachment/2026/06/26/16469822_164d7a0be57c880c16667e6ea76ea84f.jpg
+http://www.81.cn/wj_208567/jdt_208568/_attachment/2026/08/31/16482492_cd21ef3417c0257a2daea30d687eea51.jpg
 http://www.81.cn/wj_208567/jdt_208568/_attachment/2026/08/29/16482141_0b385dca28a048d533310c4e05c4bfab.jpg
 http://www.81.cn/wj_208567/jdt_208568/_attachment/2026/08/25/16481194_5da0d519eb0e987ab0b92c7a33f1c019.png
-http://www.81.cn/wj_208567/jdt_208568/_attachment/2026/08/19/16480130_a2b26f07f1030aeb299ec82160fb921b.png
 http://www.81.cn/jx_208569/jdt_208570/_attachment/2026/07/18/16474403_82e63d082f1d6d3fb22db5775bd20c51.jpg
 http://www.81.cn/jx_208569/jdt_208570/_attachment/2026/07/14/16473661_7890de1157680c1c4b4ff508e4776a5f.jpg
 http://www.81.cn/tz/jdt_208572/_attachment/2026/06/07/16469164_138940c8cd4474b8c5990b31f26ac841.jpg
@@ -1034,7 +1036,7 @@ http://www.81.cn/wzsy/Banner_207703/ljs/_attachment/2019/04/16/9958360_17697cedc
 http://www.81.cn/bq_208581/jdt_208582/_attachment/2026/02/25/16444351_a43a54c39b0c0d0e08b94ed527f0259c.jpg
 http://www.81.cn/kt/jdt_208603/_attachment/2026/08/25/16481223_8ba361f89e8ad80ef3dcf3a170db0ac1.jpg
 http://www.81.cn/wj_208604/jdt_208605/_attachment/2026/07/10/16472973_7b13b521e9913ef9fcc3b8f0613284b6.jpg
-http://www.81.cn/jy_208587/jdt_208588/_attachment/2026/08/19/16480139_ef50ff795a9fc59ae73869a0a0490d92.jpg
+http://www.81.cn/jy_208587/jdt_208588/_attachment/2026/08/31/16482510_089ed1797ef7b4da19b1b432b3fcbe6e.jpg
 http://www.81.cn/lb_208583/jdt_208584/_attachment/2026/08/20/16480295_c78afcb0ae3c79613b9069e1285ab6a1.jpg
 http://www.81.cn/js_208585/jdt_208586/_attachment/2026/05/26/16469323_1259bdded6780f0acacbf574df89b3e3.jpg
 http://www.81.cn/ChinaMilitary/tjtw/_attachment/2026/08/30/16482327_5b2f8f1fecbe3b0f1fa8ee7fa2a512d4.jpg

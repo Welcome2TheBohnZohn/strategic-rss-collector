@@ -6,7 +6,7 @@ Include regex: /gfbw/fgwx/flfg/
 Include text regex: 
 
 Candidate links: 31
-All links discovered: 171
+All links discovered: 172
 
 === MATCHED CANDIDATES ===
 
@@ -303,16 +303,18 @@ http://www.mod.gov.cn/gfbw/fgwx/flfg/4927099.html
   关于调整规范军人家属随军及落户有关政策意见 2022-11-27 13:46
 http://www.mod.gov.cn/gfbw/fgwx/flfg/16126326.html
   中共中央　国务院　中央军委印发《关于加强和改进新时代全民国防教育工作的意见》 2022-09-01 18:22
-http://www.mod.gov.cn/gfbw/qwfb/16482431.html
-  习近平出席扎帕罗夫举行的欢迎仪式
+http://www.mod.gov.cn/gfbw/qwfb/16482464.html
+  习近平同吉尔吉斯斯坦总统扎帕罗夫会谈
+http://www.mod.gov.cn/gfbw/qwfb/16482443.html
+  习近平同吉尔吉斯斯坦总统扎帕罗夫出席签字仪式
+http://www.mod.gov.cn/gfbw/qwfb/16482448.html
+  《求是》杂志发表习近平总书记重要文章
+http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16482458.html
+  《坚持落实管党治党政治责任》
 http://www.mod.gov.cn/gfbw/qwfb/16481899.html
   习近平在吉尔吉斯斯坦媒体发表署名文章
 http://www.mod.gov.cn/gfbw/qwfb/16481912.html
   习近平主持中共中央政治局会议 研究部署西藏日喀则市吉隆县泥石流灾害抢险救援工作
-http://www.mod.gov.cn/gfbw/qwfb/16481712.html
-  2026年8月国防部例行记者会文字实录
-http://www.mod.gov.cn/gfbw/qwfb/16482317.html
-  人民子弟兵持续奋战在西藏吉隆抢险救援一线
 http://www.mod.gov.cn/gfbw/spbb_214126/16477140.html
   何为承诺
 http://www.mod.gov.cn/gfbw/spbb_214126/16477755.html
