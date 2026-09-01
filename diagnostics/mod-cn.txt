@@ -6,7 +6,7 @@ Include regex: /gfbw/|/xwfyr/|/wzll/
 Include text regex: 
 
 Candidate links: 50
-All links discovered: 242
+All links discovered: 241
 
 === MATCHED CANDIDATES ===
 
@@ -20,28 +20,34 @@ http://www.mod.gov.cn/gfbw/fgwx/16444625.html
   中央军委政治工作部等6部门联合印发《关于做好边远艰苦地区和大龄未婚官兵婚恋服务工作的意见》
 http://www.mod.gov.cn/gfbw/jsxd/16480104.html
   执行“和谐使命-2026”任务的海军“吉祥方舟”号医院船官兵迎接中国医师节
+http://www.mod.gov.cn/gfbw/gfdy/16482670.html
+  河南省临颍籍退役军人张国伟利用祖宅建成红色展览馆——铭记革命先辈的浴血荣光
 http://www.mod.gov.cn/gfbw/gfjy_index/16481170.html
   让思政课“入耳”更“入心”——湖北省军区探索新时代思想政治教育新路径纪事
+http://www.mod.gov.cn/gfbw/gfdy/16482641.html
+  江苏省南京市六合区推动拥军工作转型升级 “订单式”服务精准对接需求
+http://www.mod.gov.cn/gfbw/gfdy/16482638.html
+  江西省吉安市军地携手提升涉军事项办理质效 搭建涉军征询数字化平台
 http://www.mod.gov.cn/gfbw/gffw/16475448.html
   三部门联合下发通知要求做好"八一"期间拥军优属拥政爱民工作
 http://www.mod.gov.cn/gfbw/gffw/16469120.html
   速览！2026年军校招生政策解读，你想知道的都在这里→
-http://www.mod.gov.cn/gfbw/gfdy/16479634.html
-  闻“汛”而动 全力以赴——各地多措并举筑牢防汛安全屏障
-http://www.mod.gov.cn/gfbw/gfdy/16482240.html
-  寻根铸魂向百年·重走长征路丨“出发”：铿锵足音永不休止
-http://www.mod.gov.cn/gfbw/gfdy/16476639.html
-  江苏省淮安市探索退役军人国防教育辅导员进校园任教新路径
+http://www.mod.gov.cn/gfbw/sy/tt_214026/16482709.html
+  习近平出席上海合作组织成员国元首理事会第二十六次会议
 http://www.mod.gov.cn/gfbw/gffw/16479274.html
   全国兵役机关聚焦练兵备战，严把兵役关口，提高兵员质量
 http://www.mod.gov.cn/gfbw/tp_214132/16472263.html
   那一排排看似单薄的身躯，正是守护祖国和人民坚实的防线
+http://www.mod.gov.cn/gfbw/jmsd/16482633.html
+  关注“数据算不出的东西”——以红军长征四渡赤水为例
 http://www.mod.gov.cn/gfbw/tp_214132/16473226.html
   振翅远航！空军航空兵某团官兵驾驭“鲲鹏”奋飞新时代
+http://www.mod.gov.cn/gfbw/qwfb/16482676.html
+  解放军和武警部队官兵持续坚守西藏吉隆抢险救援一线
+http://www.mod.gov.cn/gfbw/qwfb/16482701.html
+  吉隆“8·26”泥石流灾害哀悼活动在西藏吉隆举行
 http://www.mod.gov.cn/gfbw/jsxd/16480355.html
   中国船舶“艾琳娜”轮致信感谢海军第48批护航编队
-http://www.mod.gov.cn/gfbw/jmsd/16482396.html
-  读原著 学原文 悟原理丨在鉴往知来中提升履职本领
 http://www.mod.gov.cn/gfbw/tp_214132/16475831.html
   凌云出击！东部战区空军航空兵某旅开展空战对抗训练
 http://www.mod.gov.cn/gfbw/jsxd/16475312.html
@@ -66,8 +72,8 @@ http://www.mod.gov.cn/gfbw/wzll/16478501.html
   中部战区空军航空兵某团：淬炼“精神的刀锋”
 http://www.mod.gov.cn/gfbw/jmsd/16482246.html
   八一锐评｜增强“时时放心不下”的政治责任感
-http://www.mod.gov.cn/gfbw/qwfb/16482317.html
-  人民子弟兵持续奋战在西藏吉隆抢险救援一线
+http://www.mod.gov.cn/gfbw/gfdy/16482668.html
+  九十九岁老红军陈大国与妻子拍下第一张结婚照
 http://www.mod.gov.cn/gfbw/qwfb/16481625.html
   中东（帝汶）、中印尼将进一步深化防务合作
 http://www.mod.gov.cn/gfbw/jswj/16477419.html
@@ -78,26 +84,18 @@ http://www.mod.gov.cn/gfbw/xwfyr/16481668.html
   中东（帝汶）、中印尼将进一步深化防务合作
 http://www.mod.gov.cn/gfbw/xwfyr/16481667.html
   国防部：赖清德当局穷兵黩武 掏空台湾家底
-http://www.mod.gov.cn/gfbw/gfdy/16478974.html
-  辽宁省铁岭军分区以实战为牵引锤炼应急硬功
 http://www.mod.gov.cn/gfbw/qwfb/16482577.html
   习近平会见乌兹别克斯坦总统米尔济约耶夫
 http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16482441.html
   埃及各界期待习近平主席对埃进行国事访问
 http://www.mod.gov.cn/gfbw/qwfb/16481712.html
   2026年8月国防部例行记者会文字实录
-http://www.mod.gov.cn/gfbw/jmsd/16482397.html
-  思想战线丨从党的优秀特质中汲取强军力量
-http://www.mod.gov.cn/gfbw/jmsd/16482395.html
-  思想战线丨推动全党不断提高思想理论水平
 http://www.mod.gov.cn/gfbw/gfjy_index/16480956.html
   国防视野丨来自暑期军事夏令营的一组见闻
 http://www.mod.gov.cn/gfbw/sy/rt/16482593.html
   图讯丨习近平会见蒙古国总统呼日勒苏赫
 http://www.mod.gov.cn/gfbw/qwfb/16482464.html
   习近平同吉尔吉斯斯坦总统扎帕罗夫会谈
-http://www.mod.gov.cn/gfbw/qwfb/16482448.html
-  《求是》杂志发表习近平总书记重要文章
 http://www.mod.gov.cn/gfbw/jswj/16474858.html
   越南海军“陈兴道”号护卫舰访问广州
 http://www.mod.gov.cn/gfbw/jswj/16475665.html
@@ -110,6 +108,8 @@ http://www.mod.gov.cn/gfbw/gfjy_index/16482382.html
   全国青少年国防素养大赛总决赛侧记
 http://www.mod.gov.cn/gfbw/tp_214132/16477668.html
   第82集团军某旅开展实弹射击训练
+http://www.mod.gov.cn/gfbw/sy/rt/16482591.html
+  图讯丨习近平会见俄罗斯总统普京
 
 === ALL DISCOVERED LINKS ===
 
@@ -299,8 +299,8 @@ http://www.mod.gov.cn/gfbw/sy/jt_214028/16480356.html
   海军某勤务船大队开展海上搜救训练
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16479769.html
   海军某支队开展训练
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16482586.html
-  习近平会见俄罗斯总统普京
+http://www.mod.gov.cn/gfbw/sy/tt_214026/16482709.html
+  习近平出席上海合作组织成员国元首理事会第二十六次会议
 http://www.mod.gov.cn/gfbw/sy/rt/16482591.html
   图讯丨习近平会见俄罗斯总统普京
 http://www.mod.gov.cn/gfbw/sy/rt/16482593.html
@@ -311,6 +311,8 @@ http://www.mod.gov.cn/gfbw/sy/rt/16482491.html
   图讯丨习近平同吉尔吉斯斯坦总统扎帕罗夫会谈
 http://www.mod.gov.cn/gfbw/sy/rt/16482326.html
   习近平抵达比什凯克
+http://www.mod.gov.cn/gfbw/qwfb/16482584.html
+  习近平会见俄罗斯总统普京
 http://www.mod.gov.cn/gfbw/qwfb/16482582.html
   习近平会见蒙古国总统呼日勒苏赫
 http://www.mod.gov.cn/gfbw/qwfb/16482577.html
@@ -321,20 +323,16 @@ http://www.mod.gov.cn/gfbw/qwfb/16482629.html
   习近平在埃及媒体发表署名文章
 http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16482441.html
   埃及各界期待习近平主席对埃进行国事访问
-http://www.mod.gov.cn/gfbw/qwfb/16482448.html
-  《求是》杂志发表习近平总书记重要文章
-http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16482458.html
-  《坚持落实管党治党政治责任》
 http://www.mod.gov.cn/gfbw/qwfb/16481712.html
   2026年8月国防部例行记者会文字实录
-http://www.mod.gov.cn/gfbw/qwfb/16482317.html
-  人民子弟兵持续奋战在西藏吉隆抢险救援一线
+http://www.mod.gov.cn/gfbw/qwfb/16482676.html
+  解放军和武警部队官兵持续坚守西藏吉隆抢险救援一线
+http://www.mod.gov.cn/gfbw/qwfb/16482701.html
+  吉隆“8·26”泥石流灾害哀悼活动在西藏吉隆举行
 http://www.mod.gov.cn/gfbw/qwfb/16481616.html
   第十三届北京香山论坛将在北京国际会议中心举办
 http://www.mod.gov.cn/gfbw/qwfb/16481625.html
   中东（帝汶）、中印尼将进一步深化防务合作
-http://www.mod.gov.cn/gfbw/qwfb/16481640.html
-  新时代征兵工作更加阳光透明
 http://www.mod.gov.cn/gfbw/jswj/16474858.html
   越南海军“陈兴道”号护卫舰访问广州
 http://www.mod.gov.cn/gfbw/jswj/16479884.html
@@ -406,20 +404,20 @@ http://www.mod.gov.cn/gfbw/jmsd/index.html
   军媒视点
 http://www.mod.gov.cn/gfbw/jmsd/16482246.html
   八一锐评｜增强“时时放心不下”的政治责任感
-http://www.mod.gov.cn/gfbw/jmsd/16482397.html
-  思想战线丨从党的优秀特质中汲取强军力量
-http://www.mod.gov.cn/gfbw/jmsd/16482396.html
-  读原著 学原文 悟原理丨在鉴往知来中提升履职本领
-http://www.mod.gov.cn/gfbw/jmsd/16482395.html
-  思想战线丨推动全党不断提高思想理论水平
-http://www.mod.gov.cn/gfbw/gfdy/16479634.html
-  闻“汛”而动 全力以赴——各地多措并举筑牢防汛安全屏障
-http://www.mod.gov.cn/gfbw/gfdy/16482240.html
-  寻根铸魂向百年·重走长征路丨“出发”：铿锵足音永不休止
-http://www.mod.gov.cn/gfbw/gfdy/16478974.html
-  辽宁省铁岭军分区以实战为牵引锤炼应急硬功
-http://www.mod.gov.cn/gfbw/gfdy/16476639.html
-  江苏省淮安市探索退役军人国防教育辅导员进校园任教新路径
+http://www.mod.gov.cn/gfbw/jmsd/16482633.html
+  关注“数据算不出的东西”——以红军长征四渡赤水为例
+http://www.mod.gov.cn/gfbw/jmsd/16482632.html
+  论坛丨科学统筹提升征兵宣传质效
+http://www.mod.gov.cn/gfbw/jmsd/16482631.html
+  论坛丨不断提高政治领悟力
+http://www.mod.gov.cn/gfbw/gfdy/16482668.html
+  九十九岁老红军陈大国与妻子拍下第一张结婚照
+http://www.mod.gov.cn/gfbw/gfdy/16482670.html
+  河南省临颍籍退役军人张国伟利用祖宅建成红色展览馆——铭记革命先辈的浴血荣光
+http://www.mod.gov.cn/gfbw/gfdy/16482641.html
+  江苏省南京市六合区推动拥军工作转型升级 “订单式”服务精准对接需求
+http://www.mod.gov.cn/gfbw/gfdy/16482638.html
+  江西省吉安市军地携手提升涉军事项办理质效 搭建涉军征询数字化平台
 http://www.mod.gov.cn/gfbw/gfjy_index/16480732.html
   海拔五五九二：爱在云端绽放
 http://www.mod.gov.cn/gfbw/gfjy_index/16482382.html
@@ -526,7 +524,7 @@ http://www.mod.gov.cn/template/tenant207/t179/img/weibo.jpg
 http://www.mod.gov.cn/gfbw/gffw/_attachment/2026/06/23/16469120_2c1b5255a439fe6918704199b50df0e3.jpg
 http://www.mod.gov.cn/gfbw/fgwx/_attachment/2026/08/29/16482045_39fe87031f5e43b702cd40c766cbb855.jpg
 http://www.mod.gov.cn/gfbw/jmsd/_attachment/2024/05/03/16482246_fcc63f9d3c23f59e44389284e2a65ae6.jpeg
-http://www.mod.gov.cn/gfbw/gfdy/_attachment/2026/08/16/16479634_9a2dcdda9d92d470a6dea05811517aa3.jpg
+http://www.mod.gov.cn/gfbw/gfdy/_attachment/2026/09/01/16482668_1149ba0e40d90b0b4196253eeaf2caec.png
 http://www.mod.gov.cn/gfbw/gfjy_index/_attachment/2026/08/22/16480732_5988db2ec07581479190aaca3be00ab3.jpg
 http://www.mod.gov.cn/gfbw/zt/_attachment/2026/08/20/16479151_1572281a51f5ab63ef863d55fdea15e0.jpg
 http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/08/26/16481398_9a401760378212eb923949975e9818d8.png

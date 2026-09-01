@@ -668,7 +668,7 @@ Fig.
 Simulation schematic diagram of the interactions between high-power microwave and columnar plasma arrays
 下载:
 全尺寸图片
-(44)
+(45)
 图
 2
 计算模型中电场强度空间分布随激励时间的演变过程
@@ -677,7 +677,7 @@ Fig.
 Time dependence of the electric field intensity in simulation calculation model
 下载:
 全尺寸图片
-(81)
+(82)
 图
 3
 模型中轴线电子密度和电场分布随激励时间的演变过程
@@ -695,7 +695,7 @@ Fig.
 Schematic diagram of the experimental test
 下载:
 全尺寸图片
-(94)
+(95)
 图
 5
 发射功率为170 kW、等离子体未开启情况下的测试结果
@@ -704,7 +704,7 @@ Fig.
 Test results in condition of emission power 170 kW, plasma turned off
 下载:
 全尺寸图片
-(46)
+(47)
 图
 6
 发射功率为144 kW、等离子体开启情况下的测试结果
@@ -713,7 +713,7 @@ Fig.
 Test results in condition of emission power 144 kW, plasma turned on
 下载:
 全尺寸图片
-(67)
+(68)
 表
 1
 氩等离子体内部碰撞反应方程及类型
@@ -722,7 +722,7 @@ Table
 Collision reaction functions and types inside Ar plasma
 下载:
 全尺寸图片
-(49)
+(50)
 图
 1
 高功率微波与柱状等离子体阵列相互作用的仿真计算模型示意图
@@ -812,9 +812,9 @@ LI Zhigang, QIU Zhinan, WANG Jiachun, et al. Study of high-power microwave prote
 Copy
 计量
 文章访问量:
-28847
+28853
 HTML全文浏览量:
-3551
+3553
 PDF下载量:
 9901
 被引次数:
@@ -889,10 +889,10 @@ HE W, LIU X H, XIAN R C,et al. Kinetics characteristics and bremsstrahlung of ar
 扫码关注
 官方微信
 您是今天第
-10859
+40624
 位访客
 总访问量：
-254740590
+255389239
 电话：
 0731-87028030
 邮箱:journal@nudt.edu.cn
