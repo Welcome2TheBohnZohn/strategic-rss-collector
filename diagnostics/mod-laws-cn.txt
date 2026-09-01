@@ -6,7 +6,7 @@ Include regex: /gfbw/fgwx/flfg/
 Include text regex: 
 
 Candidate links: 31
-All links discovered: 175
+All links discovered: 174
 
 === MATCHED CANDIDATES ===
 
@@ -303,24 +303,22 @@ http://www.mod.gov.cn/gfbw/fgwx/flfg/4927099.html
   关于调整规范军人家属随军及落户有关政策意见 2022-11-27 13:46
 http://www.mod.gov.cn/gfbw/fgwx/flfg/16126326.html
   中共中央　国务院　中央军委印发《关于加强和改进新时代全民国防教育工作的意见》 2022-09-01 18:22
+http://www.mod.gov.cn/gfbw/qwfb/16482817.html
+  习近平圆满结束出席2026年上海合作组织峰会和对吉尔吉斯斯坦的国事访问
+http://www.mod.gov.cn/gfbw/qwfb/16482836.html
+  习近平出席“上海合作组织+”会议并发表重要讲话
+http://www.mod.gov.cn/gfbw/qwfb/16482796.html
+  讲话全文
 http://www.mod.gov.cn/gfbw/qwfb/16482767.html
   习近平出席上海合作组织成员国元首理事会第二十六次会议并发表重要讲话
 http://www.mod.gov.cn/gfbw/qwfb/16482742.html
   讲话全文
-http://www.mod.gov.cn/gfbw/qwfb/16482817.html
-  习近平圆满结束出席2026年上海合作组织峰会和对吉尔吉斯斯坦的国事访问
-http://www.mod.gov.cn/gfbw/qwfb/16482584.html
-  习近平会见俄罗斯总统普京
-http://www.mod.gov.cn/gfbw/qwfb/16482582.html
-  蒙古国总统呼日勒苏赫
-http://www.mod.gov.cn/gfbw/qwfb/16482577.html
-  乌兹别克斯坦总统米尔济约耶夫
-http://www.mod.gov.cn/gfbw/qwfb/16482464.html
-  习近平同吉尔吉斯斯坦总统扎帕罗夫会谈
 http://www.mod.gov.cn/gfbw/qwfb/16482629.html
   习近平在埃及媒体发表署名文章
 http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16482441.html
   埃及各界期待习近平主席对埃进行国事访问
+http://www.mod.gov.cn/gfbw/qwfb/16482848.html
+  解放军和武警部队官兵持续奋战西藏吉隆抢险救援一线
 http://www.mod.gov.cn/gfbw/spbb_214126/16477140.html
   何为承诺
 http://www.mod.gov.cn/gfbw/spbb_214126/16477755.html
