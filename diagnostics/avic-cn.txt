@@ -10,6 +10,8 @@ All links discovered: 179
 
 === MATCHED CANDIDATES ===
 
+https://www.avic.com/c/2026-09-01/647493.shtml
+  国务院国资委党委传达学习习近平总书记重要指示和中央政治局会议精神 部署推动中央企业进一步做好西藏日喀则市吉隆县泥石流灾害抢险救援工作
 https://www.avic.com/c/2026-08-27/647353.shtml
   国务院国资委党委传达学习习近平总书记重要指示精神 巩固拓展学习教育成果 以正确政绩观推进国资央企高质量发展
 https://www.avic.com/c/2026-08-18/647053.shtml
@@ -20,16 +22,18 @@ https://www.avic.com/c/2026-08-26/647304.shtml
   中国航空工业集团党组认真学习贯彻习近平总书记关于全面从严治党的重要讲话和重要指示批示精神
 https://www.avic.com/c/2026-08-14/646877.shtml
   中国航空工业集团党组认真学习贯彻习近平总书记近期重要讲话和重要指示批示精神
-https://www.avic.com/c/2026-08-21/647179.shtml
-  国务院国资委党委组织开展中央企业基层党组织落实基本培训机制第三季度集中学习
 https://www.avic.com/c/2026-08-27/647352.shtml
   中国航空工业集团召开进一步深化改革动员部署会暨全面深化改革领导小组会议
+https://www.avic.com/c/2026-09-01/647492.shtml
+  国务院国资委举办中央企业“AI for Science”人才特训班
+https://www.avic.com/c/2026-09-01/647500.shtml
+  《求是》杂志发表习近平总书记重要文章《坚持落实管党治党政治责任》
 https://www.avic.com/c/2026-08-21/647163.shtml
   中国航空工业集团习近平党建思想专题培训班暨卓越政工师培训班开班
-https://www.avic.com/c/2026-07-31/646660.shtml
-  中国航空工业集团党组认真学习贯彻习近平总书记近期重要指示精神
 https://www.avic.com/c/2026-08-25/647300.shtml
   国务院国资委党委传达学习二十届中央纪委第六次全体会议精神
+https://www.avic.com/c/2026-09-01/647494.shtml
+  中国航空工业集团党组传达学习习近平总书记重要指示精神
 https://www.avic.com/c/2026-08-14/646927.shtml
   中国航空工业集团召开质量专项整治工作例会第一次会议
 https://www.avic.com/c/2026-08-28/647385.shtml
@@ -40,12 +44,8 @@ https://www.avic.com/c/2026-08-31/647455.shtml
   中国航空工业集团有限公司董事长、党组书记任职
 https://www.avic.com/c/2026-08-14/646882.shtml
   中国航空工业集团召开改革发展情况老领导通报会
-https://www.avic.com/c/2026-07-31/646659.shtml
-  中国航空工业集团党组听取防汛救灾工作专题汇报
 https://www.avic.com/c/2026-08-21/647176.shtml
   中国航空工业集团与西北工业大学开展座谈交流
-https://www.avic.com/c/2026-08-25/647260.shtml
-  国务院国资委召开中央企业6G未来产业推进会
 https://www.avic.com/c/2026-08-31/647431.shtml
   陈一坚同志遗体告别仪式在西安举行
 https://www.avic.com/c/2026-08-25/647271.shtml
@@ -272,6 +272,10 @@ https://www.avic.com/sycd/xxgk/qyjygl/
 https://www.avic.com/c/2025-02-05/608382.shtml
 https://www.avic.com/c/2025-02-05/608381.shtml
 https://www.avic.com/c/2023-11-27/589490.shtml
+https://www.avic.com/c/2026-09-01/647500.shtml
+  《求是》杂志发表习近平总书记重要文章《坚持落实管党治党政治责任》
+https://www.avic.com/c/2026-09-01/647494.shtml
+  中国航空工业集团党组传达学习习近平总书记重要指示精神
 https://www.avic.com/c/2026-08-31/647455.shtml
   中国航空工业集团有限公司董事长、党组书记任职
 https://www.avic.com/c/2026-08-31/647431.shtml
@@ -298,20 +302,16 @@ https://www.avic.com/c/2026-08-14/646877.shtml
   中国航空工业集团党组认真学习贯彻习近平总书记近期重要讲话和重要指示批示精神
 https://www.avic.com/c/2026-08-10/646820.shtml
   中国航空工业集团党组传达学习贯彻中央政治局会议精神和习近平总书记近期重要讲话、重要指示精神
-https://www.avic.com/c/2026-07-31/646660.shtml
-  中国航空工业集团党组认真学习贯彻习近平总书记近期重要指示精神
-https://www.avic.com/c/2026-07-31/646659.shtml
-  中国航空工业集团党组听取防汛救灾工作专题汇报
+https://www.avic.com/c/2026-09-01/647492.shtml
+  国务院国资委举办中央企业“AI for Science”人才特训班
+https://www.avic.com/c/2026-09-01/647493.shtml
+  国务院国资委党委传达学习习近平总书记重要指示和中央政治局会议精神 部署推动中央企业进一步做好西藏日喀则市吉隆县泥石流灾害抢险救援工作
 https://www.avic.com/c/2026-08-27/647353.shtml
   国务院国资委党委传达学习习近平总书记重要指示精神 巩固拓展学习教育成果 以正确政绩观推进国资央企高质量发展
 https://www.avic.com/c/2026-08-25/647300.shtml
   国务院国资委党委传达学习二十届中央纪委第六次全体会议精神
 https://www.avic.com/c/2026-08-25/647262.shtml
   国务院国资委举办中央企业未来能源领域人才特训班
-https://www.avic.com/c/2026-08-25/647260.shtml
-  国务院国资委召开中央企业6G未来产业推进会
-https://www.avic.com/c/2026-08-21/647179.shtml
-  国务院国资委党委组织开展中央企业基层党组织落实基本培训机制第三季度集中学习
 https://www.avic.com/ztjj/slhjxzqzjgxxjy/
 https://www.avic.com/ztjj/srxxgcxjpdjsx/
 https://www.avic.com/ztjj/qzzggcdcl105zn/

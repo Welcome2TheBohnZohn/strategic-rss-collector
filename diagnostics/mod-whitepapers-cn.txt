@@ -6,7 +6,7 @@ Include regex: /gfbw/fgwx/bps/
 Include text regex: 
 
 Candidate links: 28
-All links discovered: 179
+All links discovered: 182
 
 === MATCHED CANDIDATES ===
 
@@ -293,12 +293,18 @@ http://www.mod.gov.cn/gfbw/fgwx/bps/4850789.html
   《平等 发展 共享：新中国70年妇女事业的发展与进步》白皮书发表 2019-09-20 10:34
 http://www.mod.gov.cn/gfbw/fgwx/bps/4846424.html
   《新时代的中国国防》白皮书（全文） 2019-07-24 11:24
+http://www.mod.gov.cn/gfbw/qwfb/16482767.html
+  习近平出席上海合作组织成员国元首理事会第二十六次会议并发表重要讲话
+http://www.mod.gov.cn/gfbw/qwfb/16482742.html
+  讲话全文
+http://www.mod.gov.cn/gfbw/qwfb/16482817.html
+  习近平圆满结束出席2026年上海合作组织峰会和对吉尔吉斯斯坦的国事访问
 http://www.mod.gov.cn/gfbw/qwfb/16482584.html
   习近平会见俄罗斯总统普京
 http://www.mod.gov.cn/gfbw/qwfb/16482582.html
-  习近平会见蒙古国总统呼日勒苏赫
+  蒙古国总统呼日勒苏赫
 http://www.mod.gov.cn/gfbw/qwfb/16482577.html
-  习近平会见乌兹别克斯坦总统米尔济约耶夫
+  乌兹别克斯坦总统米尔济约耶夫
 http://www.mod.gov.cn/gfbw/qwfb/16482464.html
   习近平同吉尔吉斯斯坦总统扎帕罗夫会谈
 http://www.mod.gov.cn/gfbw/qwfb/16482629.html

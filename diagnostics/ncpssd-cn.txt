@@ -82,6 +82,10 @@ https://www.ncpssd.cn/topics/detailsList?id=4&wfColumn=1&resourceType=0
   建设中国特色新型智库
 https://www.ncpssd.cn/message?id=18622
   积极助力现代公共文化服务体系建设 ——国家哲学社会科学文献中心走进贵州省“两会”
+https://www.ncpssd.cn/message?id=22208
+  习近平出席上海合作组织成员国元首理事会第二十六次会议并发表重要讲话
+https://www.ncpssd.cn/message?id=22207
+  习近平在上海合作组织成员国元首理事会第二十六次会议上的讲话
 https://www.ncpssd.cn/message?id=18580
   国家哲学社会科学文献中心为贵阳市“两会”提供学术资源服务
 https://www.ncpssd.cn/message?id=19563
@@ -92,8 +96,6 @@ https://www.ncpssd.cn/message?id=18273
   国家哲学社会科学文献中心走进贵州省图书馆学会
 https://www.ncpssd.cn/js/jquery-1.11.1.min.js
   jquery-1.11.1.min.js
-https://www.ncpssd.cn/message?id=22203
-  习近平会见乌兹别克斯坦总统米尔济约耶夫
 https://www.ncpssd.cn/css/jquery.hiSlider.css
   jquery.hiSlider.css
 https://www.ncpssd.cn/sso/getTokenCurrentUser?ssoClient=xwkEN
@@ -102,8 +104,6 @@ https://www.ncpssd.cn/sso/getTokenCurrentUser?ssoClient=wxEN
   getTokenCurrentUser
 https://www.ncpssd.cn/Literature/ancientbooklistNew?nav=5
   ancientbooklistNew
-https://www.ncpssd.cn/message?id=22202
-  习近平同吉尔吉斯斯坦总统扎帕罗夫会谈
 https://www.ncpssd.cn/js/jquery.hiSlider.js
   jquery.hiSlider.js
 https://www.ncpssd.cn/js/sensorsdata.min.js
@@ -161,16 +161,16 @@ https://www.ncpssd.cn/messages
 https://www.ncpssd.cn/message?id=22107
 https://www.ncpssd.cn/message?id=21968
 https://www.ncpssd.cn/message?id=21942
+https://www.ncpssd.cn/message?id=22208
+  习近平出席上海合作组织成员国元首理事会第二十六次会议并发表重要讲话
+https://www.ncpssd.cn/message?id=22207
+  习近平在上海合作组织成员国元首理事会第二十六次会议上的讲话
 https://www.ncpssd.cn/message?id=22206
   习近平在埃及媒体发表署名文章
 https://www.ncpssd.cn/message?id=22205
   习近平会见俄罗斯总统普京
 https://www.ncpssd.cn/message?id=22204
   习近平会见蒙古国总统呼日勒苏赫
-https://www.ncpssd.cn/message?id=22203
-  习近平会见乌兹别克斯坦总统米尔济约耶夫
-https://www.ncpssd.cn/message?id=22202
-  习近平同吉尔吉斯斯坦总统扎帕罗夫会谈
 https://www.ncpssd.cn/message?id=19563
   国家哲学社会科学文献中心发布最受欢迎期刊报告
 https://www.ncpssd.cn/message?id=19564
@@ -280,6 +280,7 @@ https://beian.miit.gov.cn/
   京ICP备09037430号-3
 https://tongji.baidu.com/web5/welcome/login
 http://www.w3.org/1999/xhtml
+https://www.ncpssd.cn/ICSMSG
 https://www.ncpssd.cn/images/favicon.ico
 https://www.ncpssd.cn/js/layui/css/layui.css
 https://www.ncpssd.cn/css/jquery.hiSlider.css
@@ -376,7 +377,6 @@ https://ft.ncpssd.cn/image/get/npssd/address?url=img/1650081428558.jpg
 https://ft.ncpssd.cn/image/get/npssd/address?url=img/1644548423505.jpg
 https://ft.ncpssd.cn/image/get/npssd/address?url=img/1730881808693.jpg
 https://hmcdn.baidu.com/static/hmt/icon/21.gif
-https://www.ncpssd.cn/ICSMSG
 https://m.ncpssd.cn
 https://www.ncpssd.cn/ajax/userinfo.ashx
 https://www.ncpssd.cn/common/restPassword
