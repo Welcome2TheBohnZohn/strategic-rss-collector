@@ -1,62 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Wed, 02 Sep 2026 04:54:23 +0000</lastBuildDate><item><title>CNNVD-2026-55579781 - ToolJet 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-55579781</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-55579781</guid><pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate><description>ToolJet 授权问题漏洞
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Wed, 02 Sep 2026 11:35:10 +0000</lastBuildDate><item><title>CNNVD-2026-23979356 - Apostrophe Technologies ApostropheCMS 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-23979356</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-23979356</guid><pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate><description>Apostrophe Technologies ApostropheCMS 跨站脚本漏洞
 危害等级: 中危
-收录时间：2026-08-31 | 更新时间: 2026-09-01 16:40:31
-CNNVD编号: CNNVD-2026-55579781</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-55579781&lt;/p&gt;&lt;pre&gt;ToolJet 授权问题漏洞
+收录时间：2026-09-01 | 更新时间: 2026-09-02 17:10:35
+CNNVD编号: CNNVD-2026-23979356</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-23979356&lt;/p&gt;&lt;pre&gt;Apostrophe Technologies ApostropheCMS 跨站脚本漏洞
 危害等级: 中危
-收录时间：2026-08-31 | 更新时间: 2026-09-01 16:40:31
-CNNVD编号: CNNVD-2026-55579781&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-59441630 - ToolJet 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-59441630</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-59441630</guid><pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate><description>ToolJet 授权问题漏洞
+收录时间：2026-09-01 | 更新时间: 2026-09-02 17:10:35
+CNNVD编号: CNNVD-2026-23979356&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-21262173 - argneshu Appium MCP Server 路径遍历漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-21262173</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-21262173</guid><pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate><description>argneshu Appium MCP Server 路径遍历漏洞
 危害等级: 中危
-收录时间：2026-08-31 | 更新时间: 2026-09-01 16:40:31
-CNNVD编号: CNNVD-2026-59441630</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-59441630&lt;/p&gt;&lt;pre&gt;ToolJet 授权问题漏洞
+收录时间：2026-09-01 | 更新时间: 2026-09-02 17:10:36
+CNNVD编号: CNNVD-2026-21262173</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-21262173&lt;/p&gt;&lt;pre&gt;argneshu Appium MCP Server 路径遍历漏洞
 危害等级: 中危
-收录时间：2026-08-31 | 更新时间: 2026-09-01 16:40:31
-CNNVD编号: CNNVD-2026-59441630&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-47714147 - pdfme common 服务端请求伪造漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-47714147</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-47714147</guid><pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate><description>pdfme common 服务端请求伪造漏洞
-危害等级: 高危
-收录时间：2026-08-31 | 更新时间: 2026-09-01 16:40:31
-CNNVD编号: CNNVD-2026-47714147</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-47714147&lt;/p&gt;&lt;pre&gt;pdfme common 服务端请求伪造漏洞
-危害等级: 高危
-收录时间：2026-08-31 | 更新时间: 2026-09-01 16:40:31
-CNNVD编号: CNNVD-2026-47714147&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-26170314 - ToolJet 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-26170314</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-26170314</guid><pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate><description>ToolJet 授权问题漏洞
-危害等级: 高危
-收录时间：2026-08-31 | 更新时间: 2026-09-01 16:40:32
-CNNVD编号: CNNVD-2026-26170314</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-26170314&lt;/p&gt;&lt;pre&gt;ToolJet 授权问题漏洞
-危害等级: 高危
-收录时间：2026-08-31 | 更新时间: 2026-09-01 16:40:32
-CNNVD编号: CNNVD-2026-26170314&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-52416428 - pdfme schemas 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-52416428</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-52416428</guid><pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate><description>pdfme schemas 跨站脚本漏洞
+收录时间：2026-09-01 | 更新时间: 2026-09-02 17:10:36
+CNNVD编号: CNNVD-2026-21262173&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-92426024 - Ash Framework 权限许可和访问控制问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-92426024</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-92426024</guid><pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate><description>Ash Framework 权限许可和访问控制问题漏洞
 危害等级: 中危
-收录时间：2026-08-31 | 更新时间: 2026-09-01 16:40:32
-CNNVD编号: CNNVD-2026-52416428</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-52416428&lt;/p&gt;&lt;pre&gt;pdfme schemas 跨站脚本漏洞
+收录时间：2026-09-01 | 更新时间: 2026-09-02 17:10:40
+CNNVD编号: CNNVD-2026-92426024</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-92426024&lt;/p&gt;&lt;pre&gt;Ash Framework 权限许可和访问控制问题漏洞
 危害等级: 中危
-收录时间：2026-08-31 | 更新时间: 2026-09-01 16:40:32
-CNNVD编号: CNNVD-2026-52416428&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-94370743 - Nodemailer 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-94370743</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-94370743</guid><pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate><description>Nodemailer 输入验证错误漏洞
-危害等级: 中危
-收录时间：2026-08-31 | 更新时间: 2026-09-01 16:43:35
-CNNVD编号: CNNVD-2026-94370743</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-94370743&lt;/p&gt;&lt;pre&gt;Nodemailer 输入验证错误漏洞
-危害等级: 中危
-收录时间：2026-08-31 | 更新时间: 2026-09-01 16:43:35
-CNNVD编号: CNNVD-2026-94370743&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-96552738 - flvmeta 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-96552738</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-96552738</guid><pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate><description>flvmeta 缓冲区错误漏洞
+收录时间：2026-09-01 | 更新时间: 2026-09-02 17:10:40
+CNNVD编号: CNNVD-2026-92426024&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-24831752 - Ash Framework 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-24831752</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-24831752</guid><pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate><description>Ash Framework 资源管理错误漏洞
 危害等级: 低危
-收录时间：2026-08-31 | 更新时间: 2026-09-01 16:43:36
-CNNVD编号: CNNVD-2026-96552738</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-96552738&lt;/p&gt;&lt;pre&gt;flvmeta 缓冲区错误漏洞
+收录时间：2026-09-01 | 更新时间: 2026-09-02 17:10:41
+CNNVD编号: CNNVD-2026-24831752</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-24831752&lt;/p&gt;&lt;pre&gt;Ash Framework 资源管理错误漏洞
 危害等级: 低危
-收录时间：2026-08-31 | 更新时间: 2026-09-01 16:43:36
-CNNVD编号: CNNVD-2026-96552738&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-41358903 - QVidium opera11 firmware 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-41358903</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-41358903</guid><pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate><description>QVidium opera11 firmware 输入验证错误漏洞
-危害等级: 超危
-收录时间：2026-08-31 | 更新时间: 2026-09-01 16:40:26
-CNNVD编号: CNNVD-2026-41358903</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-41358903&lt;/p&gt;&lt;pre&gt;QVidium opera11 firmware 输入验证错误漏洞
-危害等级: 超危
-收录时间：2026-08-31 | 更新时间: 2026-09-01 16:40:26
-CNNVD编号: CNNVD-2026-41358903&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-21099998 - WebKitGTK 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-21099998</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-21099998</guid><pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate><description>WebKitGTK 缓冲区错误漏洞
+收录时间：2026-09-01 | 更新时间: 2026-09-02 17:10:41
+CNNVD编号: CNNVD-2026-24831752&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-45546192 - Ash Framework 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-45546192</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-45546192</guid><pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate><description>Ash Framework 授权问题漏洞
+危害等级: 中危
+收录时间：2026-09-01 | 更新时间: 2026-09-02 17:10:39
+CNNVD编号: CNNVD-2026-45546192</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-45546192&lt;/p&gt;&lt;pre&gt;Ash Framework 授权问题漏洞
+危害等级: 中危
+收录时间：2026-09-01 | 更新时间: 2026-09-02 17:10:39
+CNNVD编号: CNNVD-2026-45546192&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-11685634 - Ash Framework 数字错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-11685634</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-11685634</guid><pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate><description>Ash Framework 数字错误漏洞
+危害等级: 中危
+收录时间：2026-09-01 | 更新时间: 2026-09-02 17:10:40
+CNNVD编号: CNNVD-2026-11685634</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-11685634&lt;/p&gt;&lt;pre&gt;Ash Framework 数字错误漏洞
+危害等级: 中危
+收录时间：2026-09-01 | 更新时间: 2026-09-02 17:10:40
+CNNVD编号: CNNVD-2026-11685634&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-18435245 - Ash Framework 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-18435245</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-18435245</guid><pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate><description>Ash Framework 输入验证错误漏洞
+危害等级: 低危
+收录时间：2026-09-01 | 更新时间: 2026-09-02 17:10:42
+CNNVD编号: CNNVD-2026-18435245</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-18435245&lt;/p&gt;&lt;pre&gt;Ash Framework 输入验证错误漏洞
+危害等级: 低危
+收录时间：2026-09-01 | 更新时间: 2026-09-02 17:10:42
+CNNVD编号: CNNVD-2026-18435245&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-57933549 - Ash Framework 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-57933549</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-57933549</guid><pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate><description>Ash Framework 授权问题漏洞
+危害等级: 中危
+收录时间：2026-09-01 | 更新时间: 2026-09-02 17:10:39
+CNNVD编号: CNNVD-2026-57933549</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-57933549&lt;/p&gt;&lt;pre&gt;Ash Framework 授权问题漏洞
+危害等级: 中危
+收录时间：2026-09-01 | 更新时间: 2026-09-02 17:10:39
+CNNVD编号: CNNVD-2026-57933549&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-31541391 - Hewlett Packard Enterprise AOS-CX 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-31541391</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-31541391</guid><pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate><description>Hewlett Packard Enterprise AOS-CX 安全漏洞
 危害等级: 高危
-收录时间：2026-08-31 | 更新时间: 2026-09-01 16:40:26
-CNNVD编号: CNNVD-2026-21099998</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-21099998&lt;/p&gt;&lt;pre&gt;WebKitGTK 缓冲区错误漏洞
+收录时间：2026-09-01 | 更新时间: 2026-09-02 17:11:20
+CNNVD编号: CNNVD-2026-31541391</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-31541391&lt;/p&gt;&lt;pre&gt;Hewlett Packard Enterprise AOS-CX 安全漏洞
 危害等级: 高危
-收录时间：2026-08-31 | 更新时间: 2026-09-01 16:40:26
-CNNVD编号: CNNVD-2026-21099998&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-33632476 - ZHOU Jie Sdcb Chats 服务端请求伪造漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-33632476</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-33632476</guid><pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate><description>ZHOU Jie Sdcb Chats 服务端请求伪造漏洞
-危害等级: 低危
-收录时间：2026-08-31 | 更新时间: 2026-09-01 16:40:28
-CNNVD编号: CNNVD-2026-33632476</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-33632476&lt;/p&gt;&lt;pre&gt;ZHOU Jie Sdcb Chats 服务端请求伪造漏洞
-危害等级: 低危
-收录时间：2026-08-31 | 更新时间: 2026-09-01 16:40:28
-CNNVD编号: CNNVD-2026-33632476&lt;/pre&gt;</content:encoded></item></channel></rss>
+收录时间：2026-09-01 | 更新时间: 2026-09-02 17:11:20
+CNNVD编号: CNNVD-2026-31541391&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-82740446 - Hewlett Packard Enterprise AOS-CX 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-82740446</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-82740446</guid><pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate><description>Hewlett Packard Enterprise AOS-CX 安全漏洞
+危害等级: 高危
+收录时间：2026-09-01 | 更新时间: 2026-09-02 17:11:20
+CNNVD编号: CNNVD-2026-82740446</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-82740446&lt;/p&gt;&lt;pre&gt;Hewlett Packard Enterprise AOS-CX 安全漏洞
+危害等级: 高危
+收录时间：2026-09-01 | 更新时间: 2026-09-02 17:11:20
+CNNVD编号: CNNVD-2026-82740446&lt;/pre&gt;</content:encoded></item></channel></rss>

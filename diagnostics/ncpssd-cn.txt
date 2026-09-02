@@ -26,7 +26,7 @@ https://www.ncpssd.cn/journal/secure/details?params=bzFsRHE1ZnM2cWkxK3pMQjl0RS8w
   / 4
 https://www.ncpssd.cn/journal/secure/details?params=M05hQnZHbkUzajFJdmFOcDF2WGNFdkVJUE8yTmpKZDFHMElFUUNUR0MyWT0
   中国文学批评 2026
-  / 1
+  / 2
 https://www.ncpssd.cn/journal/secure/details?params=b0toMkFxRjZpMGxKa09pNHZGblZhdkVJUE8yTmpKZDFHMElFUUNUR0MyWT0
   社会保障研究 2026
   / 3
@@ -82,8 +82,8 @@ https://www.ncpssd.cn/topics/detailsList?id=4&wfColumn=1&resourceType=0
   建设中国特色新型智库
 https://www.ncpssd.cn/message?id=18622
   积极助力现代公共文化服务体系建设 ——国家哲学社会科学文献中心走进贵州省“两会”
-https://www.ncpssd.cn/message?id=22208
-  习近平出席上海合作组织成员国元首理事会第二十六次会议并发表重要讲话
+https://www.ncpssd.cn/message?id=22207
+  习近平在上海合作组织成员国元首理事会第二十六次会议上的讲话
 https://www.ncpssd.cn/message?id=18580
   国家哲学社会科学文献中心为贵阳市“两会”提供学术资源服务
 https://www.ncpssd.cn/message?id=22209
@@ -158,9 +158,9 @@ http://wpa.b.qq.com/cgi/wpa.php?ln=1&key=XzgwMDE4NTkzM180NzUyOThfODAwMTg1OTMzXzJ
   在线咨询
 https://www.ncpssd.cn/messages
   查看更多
+https://www.ncpssd.cn/message?id=22214
+https://www.ncpssd.cn/message?id=22213
 https://www.ncpssd.cn/message?id=22107
-https://www.ncpssd.cn/message?id=21968
-https://www.ncpssd.cn/message?id=21942
 https://www.ncpssd.cn/message?id=22212
   习近平抵达埃及开罗国际机场发表书面讲话
 https://www.ncpssd.cn/message?id=22211
@@ -169,8 +169,8 @@ https://www.ncpssd.cn/message?id=22210
   习近平在“上海合作组织+”会议上的讲话
 https://www.ncpssd.cn/message?id=22209
   习近平出席“上海合作组织+”会议并发表重要讲话
-https://www.ncpssd.cn/message?id=22208
-  习近平出席上海合作组织成员国元首理事会第二十六次会议并发表重要讲话
+https://www.ncpssd.cn/message?id=22207
+  习近平在上海合作组织成员国元首理事会第二十六次会议上的讲话
 https://www.ncpssd.cn/message?id=19563
   国家哲学社会科学文献中心发布最受欢迎期刊报告
 https://www.ncpssd.cn/message?id=19564
@@ -186,7 +186,7 @@ https://www.ncpssd.cn/journal/secure/details?params=bzFsRHE1ZnM2cWkxK3pMQjl0RS8w
   / 4
 https://www.ncpssd.cn/journal/secure/details?params=M05hQnZHbkUzajFJdmFOcDF2WGNFdkVJUE8yTmpKZDFHMElFUUNUR0MyWT0
   中国文学批评 2026
-  / 1
+  / 2
 https://www.ncpssd.cn/journal/secure/details?params=WGtvYU16TDdwY0VsUkFFdVJDVExiL0VJUE8yTmpKZDFHMElFUUNUR0MyWT0
   情报理论与实践 2026
   / 8
@@ -317,14 +317,14 @@ https://ft.ncpssd.cn/image/get/npssd/pageStyle?url=img/1717135759278.jpg
 https://www.ncpssd.cn/images/close2.png
 https://www.ncpssd.cn/images/qu.png
 https://www.ncpssd.cn/images/add1.png
+https://ft.ncpssd.cn/image/get/npssd/column?url=img/1788330298661.jpg
+https://ft.ncpssd.cn/image/get/npssd/column?url=img/1788330247386.jpg
 https://ft.ncpssd.cn/image/get/npssd/column?url=img/1787031214596.jpg
-https://ft.ncpssd.cn/image/get/npssd/column?url=img/1784619617191.jpg
-https://ft.ncpssd.cn/image/get/npssd/column?url=img/1784181616426.jpg
 https://ft.ncpssd.cn/image/get/npssd/topic?url=img/1758001813519.jpg
 https://ft.ncpssd.cn/image/get/npssd/topic?url=img/1763085826266.jpg
 https://www.ncpssd.cn/images/word1.png
 https://ft.ncpssd.cn/image/get/qwcover/2026/4/82031X.jpg
-https://ft.ncpssd.cn/image/get/qwcover/2026/1/71951X.jpg
+https://ft.ncpssd.cn/image/get/qwcover/2026/2/71951X.jpg
 https://ft.ncpssd.cn/image/get/qwcover/2026/8/95770X.jpg
 https://ft.ncpssd.cn/image/get/qwcover/2026/3/89528X.jpg
 https://ft.ncpssd.cn/image/get/qwcover/2026/2/70461X.jpg

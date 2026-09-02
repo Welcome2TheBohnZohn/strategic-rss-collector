@@ -6,7 +6,7 @@ Include regex: /gfbw/|/xwfyr/|/wzll/
 Include text regex: 
 
 Candidate links: 50
-All links discovered: 243
+All links discovered: 241
 
 === MATCHED CANDIDATES ===
 
@@ -26,11 +26,7 @@ http://www.mod.gov.cn/gfbw/gfjy_index/16481170.html
   让思政课“入耳”更“入心”——湖北省军区探索新时代思想政治教育新路径纪事
 http://www.mod.gov.cn/gfbw/sy/rt/16482846.html
   习近平圆满结束出席2026年上海合作组织峰会和对吉尔吉斯斯坦的国事访问
-http://www.mod.gov.cn/gfbw/qwfb/16482817.html
-  习近平圆满结束出席2026年上海合作组织峰会和对吉尔吉斯斯坦的国事访问
 http://www.mod.gov.cn/gfbw/sy/rt/16482793.html
-  习近平出席上海合作组织成员国元首理事会第二十六次会议并发表重要讲话
-http://www.mod.gov.cn/gfbw/qwfb/16482767.html
   习近平出席上海合作组织成员国元首理事会第二十六次会议并发表重要讲话
 http://www.mod.gov.cn/gfbw/gfdy/16482641.html
   江苏省南京市六合区推动拥军工作转型升级 “订单式”服务精准对接需求
@@ -92,24 +88,28 @@ http://www.mod.gov.cn/gfbw/xwfyr/16481667.html
   国防部：赖清德当局穷兵黩武 掏空台湾家底
 http://www.mod.gov.cn/gfbw/qwfb/16482906.html
   习近平抵达埃及开罗国际机场发表书面讲话
-http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16482441.html
-  埃及各界期待习近平主席对埃进行国事访问
 http://www.mod.gov.cn/gfbw/qwfb/16481712.html
   2026年8月国防部例行记者会文字实录
+http://www.mod.gov.cn/gfbw/qwfb/16483030.html
+  习近平出席埃及总统塞西举行的欢迎仪式
+http://www.mod.gov.cn/gfbw/qwfb/16482993.html
+  习近平致电祝贺挪威国王哈康八世即位
 http://www.mod.gov.cn/gfbw/jswj/16474858.html
   越南海军“陈兴道”号护卫舰访问广州
 http://www.mod.gov.cn/gfbw/jswj/16475665.html
   海军83舰编队抵达文莱进行友好访问
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16480356.html
   海军某勤务船大队开展海上搜救训练
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16482900.html
-  习近平抵达开罗对埃及进行国事访问
 http://www.mod.gov.cn/gfbw/sy/rt/16482908.html
   习近平抵达开罗对埃及进行国事访问
+http://www.mod.gov.cn/gfbw/qwfb/16483074.html
+  习近平同埃及总统塞西出席签字仪式
 http://www.mod.gov.cn/gfbw/wzll/16482953.html
   特刊丨210天：在星河深处的日子
 http://www.mod.gov.cn/gfbw/fgwx/16448582.html
   中华人民共和国民族团结进步促进法
+http://www.mod.gov.cn/gfbw/gfjy_index/16482382.html
+  全国青少年国防素养大赛总决赛侧记
 
 === ALL DISCOVERED LINKS ===
 
@@ -299,8 +299,8 @@ http://www.mod.gov.cn/gfbw/sy/jt_214028/16480356.html
   海军某勤务船大队开展海上搜救训练
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16479769.html
   海军某支队开展训练
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16482900.html
-  习近平抵达开罗对埃及进行国事访问
+http://www.mod.gov.cn/gfbw/sy/tt_214026/16483086.html
+  习近平同埃及总统塞西会谈
 http://www.mod.gov.cn/gfbw/sy/rt/16482908.html
   习近平抵达开罗对埃及进行国事访问
 http://www.mod.gov.cn/gfbw/sy/rt/16482814.html
@@ -311,22 +311,18 @@ http://www.mod.gov.cn/gfbw/sy/rt/16482846.html
   习近平圆满结束出席2026年上海合作组织峰会和对吉尔吉斯斯坦的国事访问
 http://www.mod.gov.cn/gfbw/sy/rt/16482591.html
   图讯丨习近平会见俄罗斯总统普京
+http://www.mod.gov.cn/gfbw/qwfb/16483030.html
+  习近平出席埃及总统塞西举行的欢迎仪式
+http://www.mod.gov.cn/gfbw/qwfb/16483074.html
+  习近平同埃及总统塞西出席签字仪式
 http://www.mod.gov.cn/gfbw/qwfb/16482906.html
   习近平抵达埃及开罗国际机场发表书面讲话
-http://www.mod.gov.cn/gfbw/qwfb/16482817.html
-  习近平圆满结束出席2026年上海合作组织峰会和对吉尔吉斯斯坦的国事访问
+http://www.mod.gov.cn/gfbw/qwfb/16482993.html
+  习近平致电祝贺挪威国王哈康八世即位
 http://www.mod.gov.cn/gfbw/qwfb/16482836.html
   习近平出席“上海合作组织+”会议并发表重要讲话
 http://www.mod.gov.cn/gfbw/qwfb/16482796.html
   讲话全文
-http://www.mod.gov.cn/gfbw/qwfb/16482767.html
-  习近平出席上海合作组织成员国元首理事会第二十六次会议并发表重要讲话
-http://www.mod.gov.cn/gfbw/qwfb/16482742.html
-  讲话全文
-http://www.mod.gov.cn/gfbw/qwfb/16482629.html
-  习近平在埃及媒体发表署名文章
-http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16482441.html
-  埃及各界期待习近平主席对埃进行国事访问
 http://www.mod.gov.cn/gfbw/qwfb/16481712.html
   2026年8月国防部例行记者会文字实录
 http://www.mod.gov.cn/gfbw/qwfb/16482951.html
