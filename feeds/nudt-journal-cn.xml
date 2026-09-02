@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>National University of Defense Technology Journal</title><link>https://journal.nudt.edu.cn/</link><description>Generated RSS feed for National University of Defense Technology Journal</description><language>zh-CN</language><lastBuildDate>Tue, 01 Sep 2026 21:12:46 +0000</lastBuildDate><item><title>多核数字信号处理器矩阵乘卷积算法性能评测</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/202301009?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/202301009?tab=abstract</guid><pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate><description>(1. 国防科技大学 计算机学院, 湖南 长沙 410073;2. 国防科技大学 并行与分布处理国防科技重点实验室, 湖南 长沙 410073)
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>National University of Defense Technology Journal</title><link>https://journal.nudt.edu.cn/</link><description>Generated RSS feed for National University of Defense Technology Journal</description><language>zh-CN</language><lastBuildDate>Wed, 02 Sep 2026 04:47:59 +0000</lastBuildDate><item><title>多核数字信号处理器矩阵乘卷积算法性能评测</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/202301009?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/202301009?tab=abstract</guid><pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate><description>(1. 国防科技大学 计算机学院, 湖南 长沙 410073;2. 国防科技大学 并行与分布处理国防科技重点实验室, 湖南 长沙 410073)
 
 王庆林(1987—),男,贵州思南人,副研究员,博士,硕士生导师,E-mail:wangqinglin_thu@163.com; 裴向东(通信作者),男,山西长治人,博士研究生,E-mail:18903588277@163.com
 
@@ -119,7 +119,7 @@ Deepseek
 Kimi
 English
 引用本文:
-甘良棋, 董超, 朱小军, 等. 软件定义的无人机集群弹性组网架构[J]. 国防科技大学学报, 2026, 48(4): 89 - 96.
+甘良棋, 董超, 朱小军, 等. 软件定义的无人机集群弹性组网架构[J]. 国防科技大学学报, 2026, 48(4): 89-96.
 Citation:
 Gan Liangqi, Dong Chao, Zhu Xiaojun, et al. Software-defined resilient networking architecture for UAV swarms[J]. Journal of National University of Defense Technology, 2026, 48(4): 89-96.
 软件定义的无人机集群弹性组网架构
@@ -140,7 +140,7 @@ liangqi-gan@nuaa.edu.cn
  董超
 1,2
 角色:
-通信作者
+通讯作者
 机构:
 1. 南京航空航天大学 电子信息工程学院, 江苏 南京 211106
 2. 南京航空航天大学 电磁频谱空间认知动态系统重点实验室, 江苏 南京 211106
@@ -167,11 +167,11 @@ dch@nuaa.edu.cn
 收起信息
 作者简介
 甘良棋（1992—），男，湖北咸宁人，博士研究生，E-mail: liangqi-gan@nuaa.edu.cn
-通信作者
+通讯作者
 董超（1980—），男，山东滨州人，教授，博士，博士生导师，E-mail: dch@nuaa.edu.cn
 中图分类号:
 TN929.5;V279
-文献标志码:
+文献标识码:
 A
 文章编号:
 1001-2486(2026)04-089-08
@@ -181,7 +181,7 @@ Gan Liangqi
 Role:
 First Author
 Affiliation:
-1. College of Electronic and Information Engineering, Na</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260408?st=search&amp;amp;tab=abstract&lt;/p&gt;&lt;pre&gt;软件定义的无人机集群弹性组网架构
+1. College of Electronic and Information Engineering, Nanj</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260408?st=search&amp;amp;tab=abstract&lt;/p&gt;&lt;pre&gt;软件定义的无人机集群弹性组网架构
 EI•CA•INSPEC•JST•SCOPUS
 中文核心期刊•CSCD•WJCI
 首页
@@ -211,7 +211,7 @@ Deepseek
 Kimi
 English
 引用本文:
-甘良棋, 董超, 朱小军, 等. 软件定义的无人机集群弹性组网架构[J]. 国防科技大学学报, 2026, 48(4): 89 - 96.
+甘良棋, 董超, 朱小军, 等. 软件定义的无人机集群弹性组网架构[J]. 国防科技大学学报, 2026, 48(4): 89-96.
 Citation:
 Gan Liangqi, Dong Chao, Zhu Xiaojun, et al. Software-defined resilient networking architecture for UAV swarms[J]. Journal of National University of Defense Technology, 2026, 48(4): 89-96.
 软件定义的无人机集群弹性组网架构
@@ -232,7 +232,7 @@ liangqi-gan@nuaa.edu.cn
  董超
 1,2
 角色:
-通信作者
+通讯作者
 机构:
 1. 南京航空航天大学 电子信息工程学院, 江苏 南京 211106
 2. 南京航空航天大学 电磁频谱空间认知动态系统重点实验室, 江苏 南京 211106
@@ -259,11 +259,11 @@ dch@nuaa.edu.cn
 收起信息
 作者简介
 甘良棋（1992—），男，湖北咸宁人，博士研究生，E-mail: liangqi-gan@nuaa.edu.cn
-通信作者
+通讯作者
 董超（1980—），男，山东滨州人，教授，博士，博士生导师，E-mail: dch@nuaa.edu.cn
 中图分类号:
 TN929.5;V279
-文献标志码:
+文献标识码:
 A
 文章编号:
 1001-2486(2026)04-089-08
@@ -303,7 +303,7 @@ Affiliation:
 摘要
 HTML全文
 图(12)表(0)
-参考文献(22)
+参考文献
 相似文献
 出版信息
 访问统计
@@ -736,141 +736,6 @@ Control handover time for dynamic topology reconstruction under ideal conditions
 Fig.
 12
 Topology reconstruction time during dynamic control handover under persistent interference
-[1]
-Singh J, Kaur N. A review of swarm intelligence and its applications to cloud computing[C]//2025 International Conference on Inventive Computation Technologies(ICICT), 2025: 260-266.
-[2]
-费陈, 郑晗, 赵亮. 无人机集群控制技术研究[J]. 弹箭与制导学报, 2023, 43(3): 45-55.
-Fei Chen, Zheng Han, Zhao Liang. Research on UAV cluster control technology[J]. Journal of Projectiles, Rockets, Missiles and Guidance, 2023, 43(3): 45-55.(in Chinese)
-[3]
-Wang Jianan, Wang Chunyan, Xin Ming, et al. Cooperative control of multi-agent systems[M]. London: Academic Press, 2020.
-[4]
-Su Lingfei, Lin Zhi, Hua Yongzhao, et al. Resilient time-varying formation optimal tracking for heterogeneous multi-agent systems with coupled constraints[J]. IEEE Transactions on Automation Science and Engineering, 2025, 22: 15274-15285.
-[5]
-潘乐炳, 陈炜民, 贾继鹏, 等. SDN技术在战术MANET中的应用[J]. 电讯技术, 2019, 59(5): 532-537.
-Pan Lebing, Chen Weimin, Jia Jipeng, et al. Application of SDN in tactical MANET[J]. Telecommunication Engineering, 2019, 59(5): 532-537.(in Chinese)
-[6]
-Singhal C, Rahul K. Efficient QoS provisioning using SDN for end-to-end data delivery in UAV assisted network[C]//2019 IEEE International Conference on Advanced Networks and Telecommunications Systems(ANTS), 2019: 1-6.
-[7]
-Rahman S U, Kim G-H, Cho Y-Z, et al. Positioning of UAVs for throughput maximization in software-defined disaster area UAV communication networks[J]. Journal of Communications and Networks, 2018, 20(5): 452-463.
-[8]
-Zhao Zhongliang, Cumino P, Souza A, et al. Software-defined unmanned aerial vehicles networking for video dissemination services[J]. Ad Hoc Networks, 2019, 83: 68-77.
-[9]
-Cumino P, Maciel K, Tavares T, et al. Cluster-based control plane messages management in software-defined flying ad-hoc network[J]. Sensors(Basel), 2020, 20(1): 67.
-[10]
-Peng Haixia, Ye Qiang, Shen Xuemin. SDN-based resource management for autonomous vehicular networks: a multi-access edge computing approach[J]. IEEE Wireless Communications, 2019, 26(4): 156-162.
-[11]
-Zhao Liang, Yang Kaiqi, Tan Zhiyuan, et al. A novel cost optimization strategy for SDN-enabled UAV-assisted vehicular computation offloading[J]. IEEE Transactions on Intelligent Transportation Systems, 2021, 22(6): 3664-3674.
-[12]
-Hu Ning, Tian Zhihong, Sun Yanbin, et al. Building agile and resilient UAV networks based on SDN and blockchain[J]. IEEE Network, 2021, 35(1): 57-63.
-[13]
-Qi Weijing, Song Qingyang, Kong Xiangjie, et al. A traffic-differentiated routing algorithm in flying ad hoc sensor networks with SDN cluster controllers[J]. Journal of the Franklin Institute, 2019, 356(2): 766-790.
-[14]
-Hepworth A J, Hussein A S M, Reid D J, et al. Contextually aware intelligent control agents for heterogeneous swarms[J]. Swarm Intelligence, 2024, 18(4): 275-310.
-[15]
-Gu Yue, Hunt W, Archibald B, et al. Successful swarms: operator situational awareness with modelling and verification at runtime[C]//2023 32nd IEEE International Conference on Robot and Human Interactive Communication(RO-MAN), 2023: 541-548.
-[16]
-Yue Longfei, Yang Rennong, Zuo Jialiang, et al. Unmanned aerial vehicle swarm cooperative decision-making for SEAD mission: a hierarchical multiagent reinforcement learning approach[J]. IEEE Access, 2022, 10: 92177-92191.
-[17]
-Gao Yang, Li Dongsheng. Unmanned aerial vehicle swarm distributed cooperation method based on situation awareness consensus and its information processing mechanism[J]. Knowledge-Based Systems, 2020, 188: 105034.
-[18]
-蓝俊伟, 张奇支, 郑伟平, 等. 基于链路位置的SDN数据平面故障恢复方法[J]. 华南师范大学学报(自然科学版), 2023, 55(5): 111-120.
-Lan Junwei, Zhang Qizhi, Zheng Weiping, et al. A failure recovery algorithm of SDN data plane based on link location[J]. Journal of South China Normal University(Natural Science Edition), 2023, 55(5): 111-120.(in Chinese)
-[19]
-周欢欢, 赵国林, 都兴霖. 基于OPM的无人机集群智能化指挥控制概念模型[J]. 指挥控制与仿真, 2025, 47(1): 1-9.
-Zhou Huanhuan, Zhao Guolin, Du Xinglin. Conceptual model of intelligent command and control for UAV cluster based on OPM[J]. Command Control &amp;amp; Simulation, 2025, 47(1): 1-9.(in Chinese)
-[20]
-中国电信陕西无线电机动通信局搭建空中临时基站科技手段助力背景受灾区域复联[EB/OL].(2023-08-16)[2025-06-01].https: //www.ixian.cn/thread-1826717-1-1.html.
-China telecom Shaanxi radio mobile communications bureau deploys airborne temporary base stations using advanced technology to restore communication connectivity in disaster-affected areas[EB/OL].(2023-08-16)[2025-06-01].https: //www.ixian.cn/thread-1826717-1-1.html.(in Chinese)
-[21]
-甘良棋, 董超. 基于多智能体协同的无人机编队控制研究[J]. 计算机科学, 2024, 51(11A): 240100105.
-Gan Liangqi, Dong Chao. Study on unmanned aircraft formation control based on multi-agent collaboration[J]. Computer Science, 2024, 51(11A): 240100105.(in Chinese)
-[22]
-一架无人机就恢复河南灾区50 km
-2
-通信: “翼龙”成功助小镇通网5小时[EB/OL].(2021-07-22)[2025-06-01].https: //blog.ytso.com/industrynews/28554.html.
-A single drone restores 50 km
-2
-of communication coverage in Henan disaster zone: &amp;quot;Wing Loong&amp;quot; UAV successfully provides 5-hour internet connectivity to small town.[EB/OL].(2021-07-22)[2025-06-01].https: //blog.ytso.com/industrynews/28554.html.(in Chinese)
-[1]
-梁俊,孙伟超,肖楠,陈威龙,郭子桢.
-基于切比雪夫神经网络的软件定义卫星网络智能路由策略
-[J].国防科技大学学报,2020,42(5):23-30.
-[2]
-赵海涛,王海军,陈海涛,张亦弛,魏急波.
-面向无人机集群的通信与组网技术
-[J].国防科技大学学报,2026,48(3):12-35.
-[3]
-王海军,王洁,张姣,赵海涛,任保全,尹浩.
-无人机自组网SPMA协议智能退避技术:DDQN驱动的多维决策
-[J].国防科技大学学报,2026,48(3):96-106.
-[4]
-江元龙,王世练,张尔扬.
-战术移动Ad Hoc网络下的分布式位置辅助功率控制算法
-[J].国防科技大学学报,2005,27(1):78-83.
-[5]
-曹继军,吴宗明,汤强,李小玉.
-深度强化学习和负载中心性理论融合的分段路由优化算法
-[J].国防科技大学学报,2025,47(6):46-59.
-[6]
-陈士涛,张海林.
-基于作战网络模型的异构无人机集群作战能力评估
-[J].军事运筹与系统工程,2019,33(1).
-[7]
-赵荣黎.
-跳频通信的技术体制与发展
-[J].现代军事通信,2003,11(3):33-37.
-[8]
-梁俊,丁然,肖楠,刘玉磊,张振浩.
-基于信息战的软件定义天地一体化网络与关键技术
-[J].火力与指挥控制,2018,43(6):162-166.
-[9]
-袁国栋,何明,韩伟,禹明刚,成铭洋.
-无人机集群社团网络弹性重构研究北大核心
-[J].现代防御技术,2023(5):50-58.
-[10]
-杨同智,党建成,张新,刘镒,王杰,周云涛.
-软件定义的航天器测试网络技术
-[J].国防科技,2021,42(5):22-27.
-[11]
-刘思远,杜海燕,李丽,彭丽娟,方欣欣.
-基于SDN与传统路由相结合的网络架构设计
-[J].火力与指挥控制,2022(4):126-130+137.
-[12]
-高航航,王翔,赵尚弘,彭聪.
-基于时延的软件定义航空网络控制器部署策略
-[J].火力与指挥控制,2019,44(11):67-72.
-[13]
-董帅,张安琳,黄道颖,王宣立,刘江豪.
-基于OpenFlow的SDN中链路层拓扑发现的优化
-[J].火力与指挥控制,2020,45(8):148-153.
-[14]
-王涛;谢添乐;唐勇;张强;许新爽;高琛.
-认知模型驱动的无人机集群混合智能协同决策方法研究
-[J].无人系统技术,2025(3):109-121.
-[15]
-孙利娜,陈永禄,陈志伟.
-基于杀伤链的动态重构作战网络抗毁性分析
-[J].火力与指挥控制,2023,48(2):12-18.
-[16]
-王巍振,张安琳,黄道颖,谢兆贤,陈慧.
-一种基于吞吐量变化的OpenFlow网络自适应测量算法
-[J].火力与指挥控制,2019,44(2):139-143.
-[17]
-王坤;付钰;段雪源;刘涛涛;周静华.
-基于动态限制策略的SDN中IP欺骗攻击缓解技术
-[J].海军工程大学学报,2025(2):9-16+25.
-[18]
-祁江鑫,吴玲,卢发兴,史浩然,许俊飞.
-基于改进YOLOv4算法的无人机目标检测
-[J].兵器装备工程学报,2022(6):210-217.
-[19]
-丁鹏,宋亚飞,夏智权.
-意图驱动的防空武器-目标动态分配方法
-[J].火力与指挥控制,2023,48(12):17-26.
-[20]
-杨思,李小民,谢志刚,席雷平.
-无人机虚拟维修训练系统及其HLA设计
-[J].军械工程学院学报,2007,19(1):12-15.
 PDF下载
 XML下载
 导出引用
@@ -878,17 +743,14 @@ XML下载
 图(12)
 手机扫码阅读
 引用本文
-甘良棋, 董超, 朱小军, 等. 软件定义的无人机集群弹性组网架构[J]. 国防科技大学学报, 2026, 48(4): 89 - 96.
+甘良棋, 董超, 朱小军, 等. 软件定义的无人机集群弹性组网架构[J]. 国防科技大学学报, 2026, 48(4): 89-96.
 复制
 Gan Liangqi, Dong Chao, Zhu Xiaojun, et al. Software-defined resilient networking architecture for UAV swarms[J]. Journal of National University of Defense Technology, 2026, 48(4): 89-96.
 Copy
 计量
 文章访问量:
-202
 HTML全文浏览量:
-212
 PDF下载量:
-303
 被引次数:
 图
 1
@@ -1003,10 +865,10 @@ of communication coverage in Henan disaster zone:&amp;quot;Wing Loong&amp;quot; 
 扫码关注
 官方微信
 您是今天第
-4116
+14627
 位访客
 总访问量：
-255389239
+256101823
 电话：
 0731-87028030
 邮箱:journal@nudt.edu.cn
@@ -2140,11 +2002,11 @@ Lin Yun, Zha Haoran, Shang Jiaying, et al. Embodied intelligence cognition in el
 Copy
 计量
 文章访问量:
-292
+295
 HTML全文浏览量:
-272
+275
 PDF下载量:
-372
+375
 被引次数:
 0
 图
@@ -2258,10 +2120,10 @@ Shen Tianyu, Tao Zirui, Wang Yadong,et al. Key problems of embodied intelligence
 扫码关注
 官方微信
 您是今天第
-4116
+14663
 位访客
 总访问量：
-255389239
+256101823
 电话：
 0731-87028030
 邮箱:journal@nudt.edu.cn
@@ -2988,7 +2850,7 @@ Fig.
 Simulation schematic diagram of the interactions between high-power microwave and columnar plasma arrays
 下载:
 全尺寸图片
-(46)
+(47)
 图
 2
 计算模型中电场强度空间分布随激励时间的演变过程
@@ -2997,7 +2859,7 @@ Fig.
 Time dependence of the electric field intensity in simulation calculation model
 下载:
 全尺寸图片
-(83)
+(84)
 图
 3
 模型中轴线电子密度和电场分布随激励时间的演变过程
@@ -3006,7 +2868,7 @@ Fig.
 Time dependence of the axial electron density and electric field distribution in simulation calculation model
 下载:
 全尺寸图片
-(83)
+(84)
 图
 4
 实验测试示意图
@@ -3015,7 +2877,7 @@ Fig.
 Schematic diagram of the experimental test
 下载:
 全尺寸图片
-(96)
+(97)
 图
 5
 发射功率为170 kW、等离子体未开启情况下的测试结果
@@ -3024,7 +2886,7 @@ Fig.
 Test results in condition of emission power 170 kW, plasma turned off
 下载:
 全尺寸图片
-(48)
+(49)
 图
 6
 发射功率为144 kW、等离子体开启情况下的测试结果
@@ -3033,7 +2895,7 @@ Fig.
 Test results in condition of emission power 144 kW, plasma turned on
 下载:
 全尺寸图片
-(69)
+(70)
 表
 1
 氩等离子体内部碰撞反应方程及类型
@@ -3042,7 +2904,7 @@ Table
 Collision reaction functions and types inside Ar plasma
 下载:
 全尺寸图片
-(51)
+(52)
 图
 1
 高功率微波与柱状等离子体阵列相互作用的仿真计算模型示意图
@@ -3132,9 +2994,9 @@ LI Zhigang, QIU Zhinan, WANG Jiachun, et al. Study of high-power microwave prote
 Copy
 计量
 文章访问量:
-28866
+28871
 HTML全文浏览量:
-3570
+3574
 PDF下载量:
 9901
 被引次数:
@@ -3209,10 +3071,10 @@ HE W, LIU X H, XIAN R C,et al. Kinetics characteristics and bremsstrahlung of ar
 扫码关注
 官方微信
 您是今天第
-4116
+14665
 位访客
 总访问量：
-255389239
+256101823
 电话：
 0731-87028030
 邮箱:journal@nudt.edu.cn

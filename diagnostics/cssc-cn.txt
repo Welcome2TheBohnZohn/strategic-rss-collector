@@ -6,7 +6,7 @@ Include regex: cssc\.net\.cn/n5/n18/c\d+/content\.html
 Include text regex: 
 
 Candidate links: 10
-All links discovered: 306
+All links discovered: 307
 
 === MATCHED CANDIDATES ===
 
@@ -18,10 +18,10 @@ http://www.cssc.net.cn/n5/n18/c34076/content.html
   徐鹏拜访中国中煤党委书记、董事长王树东 进一步深化优势互补 推动资源共享
 http://www.cssc.net.cn/n5/n18/c34082/content.html
   中船集团大连造船开展“牢记嘱托铸国之重器 砥砺奋进做国之重企”主题活动
-http://www.cssc.net.cn/n5/n18/c34059/content.html
-  中船集团举办2026年新员工入职培训暨入职典礼 徐鹏讲授第一课
 http://www.cssc.net.cn/n5/n18/c34090/content.html
   质量强基攻坚！一图看懂2026年中船集团“质量月”系列活动
+http://www.cssc.net.cn/n5/n18/c34095/content.html
+  智行深蓝 舰启新程 中船集团2027届校园招聘启动
 http://www.cssc.net.cn/n5/n18/c34089/content.html
   征稿啦！“创青春·绘中船” 创意海报等你来投！
 http://www.cssc.net.cn/n5/n18/c34067/content.html
@@ -77,6 +77,8 @@ http://www.cssc.net.cn/n5/n1255/index.html
   头条新闻
 http://www.cssc.net.cn/n5/n1390/index.html
   上市公司
+http://www.cssc.net.cn/n5/n18/c34095/content.html
+  智行深蓝 舰启新程 中船集团2027届校园招聘启动
 http://www.cssc.net.cn/n5/n18/c34090/content.html
   质量强基攻坚！一图看懂2026年中船集团“质量月”系列活动
 http://www.cssc.net.cn/n5/n18/c34089/content.html
@@ -95,8 +97,6 @@ http://www.cssc.net.cn/n5/n18/c34062/content.html
   以研学传军工精神 以暖心筑幸福中船——2026年暑期船舶研学带动全学段育人实践落...
 http://www.cssc.net.cn/n5/n18/c34061/content.html
   今日处暑｜秋色染荷香 船行水云深
-http://www.cssc.net.cn/n5/n18/c34059/content.html
-  中船集团举办2026年新员工入职培训暨入职典礼 徐鹏讲授第一课
 http://www.cssc.net.cn/n5/n18/index_6204_1.html
 http://www.cssc.net.cn/n5/n18/index_6204_2.html
 http://www.cssc.net.cn/n5/n18/index_6204_3.html
@@ -330,6 +330,7 @@ http://www.cssc.net.cn/n5/n18/index_6204_230.html
 http://www.cssc.net.cn/n5/n18/index_6204_231.html
 http://www.cssc.net.cn/n5/n18/index_6204_232.html
 http://www.cssc.net.cn/n5/n18/index_6204_233.html
+http://www.cssc.net.cn/n5/n18/index_6204_234.html
 http://www.cssc.net.cn/n129/n131/index.html
   联系我们
 http://www.cssc.net.cn/n129/n133/index.html
