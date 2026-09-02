@@ -1,95 +1,83 @@
 {
-  "issue_date": "2026-09-02",
+  "issue_date": "2026-09-03",
   "issue_pages": [
     {
       "paper_number": "01",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-02&paperName=zggfb&paperNumber=01",
-      "links": 69,
-      "article_links": 3
-    },
-    {
-      "paper_number": "02",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-02&paperName=zggfb&paperNumber=02",
-      "links": 77,
-      "article_links": 6
-    },
-    {
-      "paper_number": "03",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-02&paperName=zggfb&paperNumber=03",
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-03&paperName=zggfb&paperNumber=01",
       "links": 73,
       "article_links": 4
     },
     {
+      "paper_number": "02",
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-03&paperName=zggfb&paperNumber=02",
+      "links": 75,
+      "article_links": 5
+    },
+    {
+      "paper_number": "03",
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-03&paperName=zggfb&paperNumber=03",
+      "links": 63,
+      "article_links": 1
+    },
+    {
       "paper_number": "04",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-02&paperName=zggfb&paperNumber=04",
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-03&paperName=zggfb&paperNumber=04",
       "links": 67,
       "article_links": 3
     }
   ],
   "candidates": [
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-02&paperNumber=01&articleid=985787",
-      "anchor_title": "“红军渡”驶出新航船"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-03&paperNumber=01&articleid=985861",
+      "anchor_title": "葡藤硕果醉金秋"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-02&paperNumber=01&articleid=985786",
-      "anchor_title": "“回望伤痛是为了守护和平”"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-03&paperNumber=01&articleid=985862",
+      "anchor_title": "秋茶飘香满茶园"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-02&paperNumber=01&articleid=985789",
-      "anchor_title": "让应战应急的底气硬起来"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-03&paperNumber=01&articleid=985860",
+      "anchor_title": "“开学第一课”传承长征精神"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-02&paperNumber=02&articleid=985797",
-      "anchor_title": "传唱英烈事迹 赓续红色基因"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-03&paperNumber=01&articleid=985864",
+      "anchor_title": "“新生力量”向“行家里手”加速转变"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-02&paperNumber=02&articleid=985799",
-      "anchor_title": "讲好红色故事 播撒国防星火"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-03&paperNumber=02&articleid=985868",
+      "anchor_title": "老兵再出发 丹心育新人"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-02&paperNumber=02&articleid=985798",
-      "anchor_title": "“当过兵的人，就该冲在最前面”"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-03&paperNumber=02&articleid=985867",
+      "anchor_title": "一匹布 两条裙 三段情"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-02&paperNumber=02&articleid=985801",
-      "anchor_title": "指挥所有了救援“千里眼”"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-03&paperNumber=02&articleid=985870",
+      "anchor_title": "爱心接力点燃生命希望"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-02&paperNumber=02&articleid=985802",
-      "anchor_title": "“群众遇困伸手相助，是本能也是责任”"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-03&paperNumber=02&articleid=985872",
+      "anchor_title": "“挠头事”变“暖心事”"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-02&paperNumber=02&articleid=985803",
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-03&paperNumber=02&articleid=985873",
       "anchor_title": "启 事"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-02&paperNumber=03&articleid=985791",
-      "anchor_title": "青瓦屋檐下，红色根脉在赓续"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-03&paperNumber=03&articleid=985866",
+      "anchor_title": "厚植爱国情 薪火永相传"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-02&paperNumber=03&articleid=985792",
-      "anchor_title": "“电子哨兵”守护地下长城"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-03&paperNumber=04&articleid=985874",
+      "anchor_title": "烽火岁月里的铁纪荣光"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-02&paperNumber=03&articleid=985793",
-      "anchor_title": "搭建军供保障的桥梁"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-03&paperNumber=04&articleid=985875",
+      "anchor_title": "论为将之道 明治军要义"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-02&paperNumber=03&articleid=985794",
-      "anchor_title": "针头线脚连着牵挂"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-02&paperNumber=04&articleid=985804",
-      "anchor_title": "欧洲在北约框架下强化军工合作"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-02&paperNumber=04&articleid=985806",
-      "anchor_title": "日本民用设施军事化改造进程提速"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-02&paperNumber=04&articleid=985805",
-      "anchor_title": "防务资讯"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-03&paperNumber=04&articleid=985876",
+      "anchor_title": "南横套河见证：夜幕下的血色突围"
     }
   ]
 }

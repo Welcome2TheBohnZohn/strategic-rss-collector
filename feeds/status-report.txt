@@ -1,5 +1,5 @@
 Strategic RSS Collector Status
-Generated: 2026-09-02 16:51:49 UTC
+Generated: 2026-09-02 21:18:01 UTC
 
 Status meanings:
 OK = Feed contains one or more items
@@ -135,10 +135,10 @@ FAILED = Source could not be retrieved
   Start URL: https://t.me/s/MFARussia
   Resolved URL: https://t.me/s/MFARussia
   HTTP: 200
-  Attempted items/articles: 10
-  Items/articles with text: 10
-  Items/articles with dates: 10
-  RSS feed items: 10
+  Attempted items/articles: 12
+  Items/articles with text: 12
+  Items/articles with dates: 12
+  RSS feed items: 12
   SSL verification: ON
   Request timeout: 20s
   Max retries: 2
@@ -255,10 +255,10 @@ FAILED = Source could not be retrieved
 [OK] china-defense-news-cn - China National Defense News
   Source type: newspaper
   Start URL: http://www.81.cn/szb_223187/gfbszblb/index.html
-  Resolved URL: http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-02&paperName=zggfb&paperNumber=01
+  Resolved URL: http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-03&paperName=zggfb&paperNumber=01
   HTTP: 200
-  Links discovered: 286
-  Candidate links/items: 16
+  Links discovered: 278
+  Candidate links/items: 13
   Attempted items/articles: 12
   Items/articles with text: 12
   Items/articles with dates: 12
