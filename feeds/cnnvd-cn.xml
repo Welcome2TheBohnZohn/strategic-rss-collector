@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Wed, 02 Sep 2026 11:35:10 +0000</lastBuildDate><item><title>CNNVD-2026-23979356 - Apostrophe Technologies ApostropheCMS 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-23979356</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-23979356</guid><pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate><description>Apostrophe Technologies ApostropheCMS 跨站脚本漏洞
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Wed, 02 Sep 2026 16:51:49 +0000</lastBuildDate><item><title>CNNVD-2026-23979356 - Apostrophe Technologies ApostropheCMS 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-23979356</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-23979356</guid><pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate><description>Apostrophe Technologies ApostropheCMS 跨站脚本漏洞
 危害等级: 中危
 收录时间：2026-09-01 | 更新时间: 2026-09-02 17:10:35
 CNNVD编号: CNNVD-2026-23979356</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-23979356&lt;/p&gt;&lt;pre&gt;Apostrophe Technologies ApostropheCMS 跨站脚本漏洞
@@ -47,16 +47,16 @@ CNNVD编号: CNNVD-2026-18435245&lt;/pre&gt;</content:encoded></item><item><titl
 CNNVD编号: CNNVD-2026-57933549</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-57933549&lt;/p&gt;&lt;pre&gt;Ash Framework 授权问题漏洞
 危害等级: 中危
 收录时间：2026-09-01 | 更新时间: 2026-09-02 17:10:39
-CNNVD编号: CNNVD-2026-57933549&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-31541391 - Hewlett Packard Enterprise AOS-CX 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-31541391</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-31541391</guid><pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate><description>Hewlett Packard Enterprise AOS-CX 安全漏洞
+CNNVD编号: CNNVD-2026-57933549&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-57305473 - Erlang/OTP 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-57305473</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-57305473</guid><pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate><description>Erlang/OTP 资源管理错误漏洞
 危害等级: 高危
-收录时间：2026-09-01 | 更新时间: 2026-09-02 17:11:20
-CNNVD编号: CNNVD-2026-31541391</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-31541391&lt;/p&gt;&lt;pre&gt;Hewlett Packard Enterprise AOS-CX 安全漏洞
+收录时间：2026-09-01 | 更新时间: 2026-09-02 17:11:06
+CNNVD编号: CNNVD-2026-57305473</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-57305473&lt;/p&gt;&lt;pre&gt;Erlang/OTP 资源管理错误漏洞
 危害等级: 高危
-收录时间：2026-09-01 | 更新时间: 2026-09-02 17:11:20
-CNNVD编号: CNNVD-2026-31541391&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-82740446 - Hewlett Packard Enterprise AOS-CX 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-82740446</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-82740446</guid><pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate><description>Hewlett Packard Enterprise AOS-CX 安全漏洞
+收录时间：2026-09-01 | 更新时间: 2026-09-02 17:11:06
+CNNVD编号: CNNVD-2026-57305473&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-20062916 - GitHub Enterprise Server 服务端请求伪造漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-20062916</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-20062916</guid><pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate><description>GitHub Enterprise Server 服务端请求伪造漏洞
 危害等级: 高危
-收录时间：2026-09-01 | 更新时间: 2026-09-02 17:11:20
-CNNVD编号: CNNVD-2026-82740446</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-82740446&lt;/p&gt;&lt;pre&gt;Hewlett Packard Enterprise AOS-CX 安全漏洞
+收录时间：2026-09-01 | 更新时间: 2026-09-02 17:11:13
+CNNVD编号: CNNVD-2026-20062916</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-20062916&lt;/p&gt;&lt;pre&gt;GitHub Enterprise Server 服务端请求伪造漏洞
 危害等级: 高危
-收录时间：2026-09-01 | 更新时间: 2026-09-02 17:11:20
-CNNVD编号: CNNVD-2026-82740446&lt;/pre&gt;</content:encoded></item></channel></rss>
+收录时间：2026-09-01 | 更新时间: 2026-09-02 17:11:13
+CNNVD编号: CNNVD-2026-20062916&lt;/pre&gt;</content:encoded></item></channel></rss>
