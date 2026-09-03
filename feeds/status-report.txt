@@ -1,5 +1,5 @@
 Strategic RSS Collector Status
-Generated: 2026-09-03 04:49:52 UTC
+Generated: 2026-09-03 11:31:49 UTC
 
 Status meanings:
 OK = Feed contains one or more items
@@ -11,7 +11,7 @@ FAILED = Source could not be retrieved
   Start URL: https://www.mod.gov.cn/
   Resolved URL: http://www.mod.gov.cn/
   HTTP: 200
-  Links discovered: 241
+  Links discovered: 240
   Candidate links/items: 50
   Attempted items/articles: 12
   Items/articles with text: 12
@@ -135,10 +135,10 @@ FAILED = Source could not be retrieved
   Start URL: https://t.me/s/MFARussia
   Resolved URL: https://t.me/s/MFARussia
   HTTP: 200
-  Attempted items/articles: 13
-  Items/articles with text: 12
-  Items/articles with dates: 12
-  RSS feed items: 12
+  Attempted items/articles: 8
+  Items/articles with text: 8
+  Items/articles with dates: 8
+  RSS feed items: 8
   SSL verification: ON
   Request timeout: 20s
   Max retries: 2
@@ -332,24 +332,24 @@ FAILED = Source could not be retrieved
   Max retries: 1
   Retry backoff: 1s
 
-[OK] cnnvd-cn - China National Vulnerability Database CNNVD
+[FETCHED/NO ITEMS] cnnvd-cn - China National Vulnerability Database CNNVD
   Source type: cnnvd
   Start URL: https://www.cnnvd.org.cn/frontend/loophole
   Resolved URL: https://www.cnnvd.org.cn/frontend/loophole
   HTTP: 200
   Links discovered: 23
-  Candidate links/items: 10
-  Attempted items/articles: 10
-  Items/articles with text: 10
-  Items/articles with dates: 10
-  RSS feed items: 10
+  Candidate links/items: 0
+  Attempted items/articles: 0
+  Items/articles with text: 0
+  Items/articles with dates: 0
+  RSS feed items: 0
   SSL verification: ON
   Request timeout: 12s
   Max retries: 1
   Retry backoff: 1s
 
 SUMMARY
-Working: 22
-Fetched but no items: 0
+Working: 21
+Fetched but no items: 1
 Failed: 0
 Total sources: 22
