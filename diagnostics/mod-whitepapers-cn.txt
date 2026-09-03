@@ -6,7 +6,7 @@ Include regex: /gfbw/fgwx/bps/
 Include text regex: 
 
 Candidate links: 28
-All links discovered: 179
+All links discovered: 178
 
 === MATCHED CANDIDATES ===
 
@@ -293,18 +293,16 @@ http://www.mod.gov.cn/gfbw/fgwx/bps/4850789.html
   《平等 发展 共享：新中国70年妇女事业的发展与进步》白皮书发表 2019-09-20 10:34
 http://www.mod.gov.cn/gfbw/fgwx/bps/4846424.html
   《新时代的中国国防》白皮书（全文） 2019-07-24 11:24
+http://www.mod.gov.cn/gfbw/qwfb/16483182.html
+  习近平同埃及总统塞西会谈
+http://www.mod.gov.cn/gfbw/qwfb/16483169.html
+  习近平和彭丽媛同埃及总统塞西夫妇共同参观大埃及博物馆
 http://www.mod.gov.cn/gfbw/qwfb/16483030.html
   习近平出席埃及总统塞西举行的欢迎仪式
 http://www.mod.gov.cn/gfbw/qwfb/16483074.html
   习近平同埃及总统塞西出席签字仪式
-http://www.mod.gov.cn/gfbw/qwfb/16482906.html
-  习近平抵达埃及开罗国际机场发表书面讲话
 http://www.mod.gov.cn/gfbw/qwfb/16482993.html
   习近平致电祝贺挪威国王哈康八世即位
-http://www.mod.gov.cn/gfbw/qwfb/16482836.html
-  习近平出席“上海合作组织+”会议并发表重要讲话
-http://www.mod.gov.cn/gfbw/qwfb/16482796.html
-  讲话全文
 http://www.mod.gov.cn/gfbw/spbb_214126/16477140.html
   何为承诺
 http://www.mod.gov.cn/gfbw/spbb_214126/16477755.html

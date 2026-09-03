@@ -6,7 +6,7 @@ Include regex: /gfbw/fgwx/flfg/
 Include text regex: 
 
 Candidate links: 31
-All links discovered: 172
+All links discovered: 171
 
 === MATCHED CANDIDATES ===
 
@@ -303,18 +303,16 @@ http://www.mod.gov.cn/gfbw/fgwx/flfg/4927099.html
   关于调整规范军人家属随军及落户有关政策意见 2022-11-27 13:46
 http://www.mod.gov.cn/gfbw/fgwx/flfg/16126326.html
   中共中央　国务院　中央军委印发《关于加强和改进新时代全民国防教育工作的意见》 2022-09-01 18:22
+http://www.mod.gov.cn/gfbw/qwfb/16483182.html
+  习近平同埃及总统塞西会谈
+http://www.mod.gov.cn/gfbw/qwfb/16483169.html
+  习近平和彭丽媛同埃及总统塞西夫妇共同参观大埃及博物馆
 http://www.mod.gov.cn/gfbw/qwfb/16483030.html
   习近平出席埃及总统塞西举行的欢迎仪式
 http://www.mod.gov.cn/gfbw/qwfb/16483074.html
   习近平同埃及总统塞西出席签字仪式
-http://www.mod.gov.cn/gfbw/qwfb/16482906.html
-  习近平抵达埃及开罗国际机场发表书面讲话
 http://www.mod.gov.cn/gfbw/qwfb/16482993.html
   习近平致电祝贺挪威国王哈康八世即位
-http://www.mod.gov.cn/gfbw/qwfb/16482836.html
-  习近平出席“上海合作组织+”会议并发表重要讲话
-http://www.mod.gov.cn/gfbw/qwfb/16482796.html
-  讲话全文
 http://www.mod.gov.cn/gfbw/spbb_214126/16477140.html
   何为承诺
 http://www.mod.gov.cn/gfbw/spbb_214126/16477755.html
