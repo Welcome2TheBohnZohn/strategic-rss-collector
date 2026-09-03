@@ -1,8 +1,8 @@
 # 🎖 by Russian Defence Ministry on progress of special military operation as of 3 September 2026
 
-Published: 2026-09-03 11:01:01
+Published: 2026-09-03 11:41:14
 
-Source: https://t.me/mod_russia_en/29189
+Source: https://t.me/mod_russia_en/29191
 
 🎖
 🎖

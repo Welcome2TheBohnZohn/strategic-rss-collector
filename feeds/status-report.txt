@@ -1,5 +1,5 @@
 Strategic RSS Collector Status
-Generated: 2026-09-03 11:31:49 UTC
+Generated: 2026-09-03 16:41:03 UTC
 
 Status meanings:
 OK = Feed contains one or more items
@@ -332,24 +332,24 @@ FAILED = Source could not be retrieved
   Max retries: 1
   Retry backoff: 1s
 
-[FETCHED/NO ITEMS] cnnvd-cn - China National Vulnerability Database CNNVD
+[OK] cnnvd-cn - China National Vulnerability Database CNNVD
   Source type: cnnvd
   Start URL: https://www.cnnvd.org.cn/frontend/loophole
   Resolved URL: https://www.cnnvd.org.cn/frontend/loophole
   HTTP: 200
   Links discovered: 23
-  Candidate links/items: 0
-  Attempted items/articles: 0
-  Items/articles with text: 0
-  Items/articles with dates: 0
-  RSS feed items: 0
+  Candidate links/items: 10
+  Attempted items/articles: 10
+  Items/articles with text: 10
+  Items/articles with dates: 10
+  RSS feed items: 10
   SSL verification: ON
   Request timeout: 12s
   Max retries: 1
   Retry backoff: 1s
 
 SUMMARY
-Working: 21
-Fetched but no items: 1
+Working: 22
+Fetched but no items: 0
 Failed: 0
 Total sources: 22
