@@ -92,6 +92,10 @@ Exit fullscreen
 Enter fullscreen
 Play
 * 以上内容由AI自动生成，内容仅供参考。对于因使用本网站以上内容产生的相关后果，本网站不承担任何商业和法律责任
+AI思维导图
+导出Markdown
+导出图片
+* 以上内容由AI自动生成，内容仅供参考。对于因使用本网站以上内容产生的相关后果，本网站不承担任何商业和法律责任
 引用本文:
 李志刚,邱志楠,汪家春,等.低温等离子体用于高功率微波防护研究<sup></sup>[J].国防科技大学学报,2023,45(6):84-89.
 Citation:
@@ -812,11 +816,11 @@ LI Zhigang, QIU Zhinan, WANG Jiachun, et al. Study of high-power microwave prote
 Copy
 计量
 文章访问量:
-28898
+28902
 HTML全文浏览量:
-3599
+3600
 PDF下载量:
-9907
+9908
 被引次数:
 0
 图
@@ -889,7 +893,7 @@ HE W, LIU X H, XIAN R C,et al. Kinetics characteristics and bremsstrahlung of ar
 扫码关注
 官方微信
 您是今天第
-16867
+214
 位访客
 总访问量：
 256260297

@@ -1,10 +1,9 @@
-# ❗️ The Armed Forces of the Russian Federation continue the special military operation.
+# ❗️ From 29 August to 4 September, the Armed Forces of the Russian Federation carried out one massive and 17 group strikes with high-precision weapons and long-range drones,
 
 Published: 2026-09-04 10:55:01
 
 Source: https://t.me/mod_russia_en/29213
 
-The Armed Forces of the Russian Federation continue the special military operation.
 ❗️
 From 29 August to 4 September, the Armed Forces of the Russian Federation carried out one massive and 17 group strikes with high-precision weapons and long-range drones,
 which hit enterprises of defence industry of Ukraine, logistics centres, fuel-power and transport infrastructure facilities used by the Armed Forces of Ukraine, drone manufacturing workshops and warehouses, ammunition, fuel and materiel depots, as well as temporary deployment areas of Ukrainian armed formations and foreign mercenaries.

@@ -1,5 +1,5 @@
 Strategic RSS Collector Status
-Generated: 2026-09-04 11:35:24 UTC
+Generated: 2026-09-04 16:39:22 UTC
 
 Status meanings:
 OK = Feed contains one or more items
@@ -114,32 +114,31 @@ FAILED = Source could not be retrieved
   Max retries: 2
   Retry backoff: 3s
 
-[FAILED] sastind-cn - SASTIND
+[OK] sastind-cn - SASTIND
   Source type: html
   Start URL: https://www.sastind.gov.cn/
   Resolved URL: https://www.sastind.gov.cn/
-  HTTP: None
-  Links discovered: 0
-  Candidate links/items: 0
-  Attempted items/articles: 0
-  Items/articles with text: 0
-  Items/articles with dates: 0
-  RSS feed items: 0
+  HTTP: 200
+  Links discovered: 68
+  Candidate links/items: 50
+  Attempted items/articles: 13
+  Items/articles with text: 12
+  Items/articles with dates: 12
+  RSS feed items: 12
   SSL verification: ON
   Request timeout: 12s
   Max retries: 1
   Retry backoff: 1s
-  Error: https://www.sastind.gov.cn/ -> ReadTimeout: HTTPSConnectionPool(host='www.sastind.gov.cn', port=443): Read timed out. (read timeout=12)
 
 [OK] mid-ru-en - Russian Ministry of Foreign Affairs English - Official Telegram
   Source type: telegram
   Start URL: https://t.me/s/MFARussia
   Resolved URL: https://t.me/s/MFARussia
   HTTP: 200
-  Attempted items/articles: 11
-  Items/articles with text: 11
-  Items/articles with dates: 11
-  RSS feed items: 11
+  Attempted items/articles: 12
+  Items/articles with text: 12
+  Items/articles with dates: 12
+  RSS feed items: 12
   SSL verification: ON
   Request timeout: 20s
   Max retries: 2
@@ -350,7 +349,7 @@ FAILED = Source could not be retrieved
   Retry backoff: 1s
 
 SUMMARY
-Working: 21
+Working: 22
 Fetched but no items: 0
-Failed: 1
+Failed: 0
 Total sources: 22
