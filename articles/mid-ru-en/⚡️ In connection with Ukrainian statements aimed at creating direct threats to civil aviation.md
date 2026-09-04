@@ -16,8 +16,8 @@ the International Civil Aviation Organization
 ) in Montreal.
 An
 urgent appeal
-on the matter
-has been sent
+on the
+matter has been sent
 to ICAO Secretary General
 Juan Carlos Salazar
 .

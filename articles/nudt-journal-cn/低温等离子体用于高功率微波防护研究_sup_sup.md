@@ -818,7 +818,7 @@ Copy
 文章访问量:
 28902
 HTML全文浏览量:
-3600
+3601
 PDF下载量:
 9908
 被引次数:
@@ -893,7 +893,7 @@ HE W, LIU X H, XIAN R C,et al. Kinetics characteristics and bremsstrahlung of ar
 扫码关注
 官方微信
 您是今天第
-214
+2820
 位访客
 总访问量：
 256260297
