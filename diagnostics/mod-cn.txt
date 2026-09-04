@@ -6,7 +6,7 @@ Include regex: /gfbw/|/xwfyr/|/wzll/
 Include text regex: 
 
 Candidate links: 50
-All links discovered: 240
+All links discovered: 241
 
 === MATCHED CANDIDATES ===
 
@@ -14,11 +14,9 @@ http://www.mod.gov.cn/gfbw/fgwx/16482016.html
   全国人大常委会表决通过新修订的国防动员法
 http://www.mod.gov.cn/gfbw/fgwx/16482045.html
   中华人民共和国国防动员法
-http://www.mod.gov.cn/gfbw/qwfb/16482951.html
-  解放军和武警部队官兵持续奋战在西藏吉隆抢险救援一线 开展道路清淤、预警监测、卫生防疫等工作
 http://www.mod.gov.cn/gfbw/fgwx/16444625.html
   中央军委政治工作部等6部门联合印发《关于做好边远艰苦地区和大龄未婚官兵婚恋服务工作的意见》
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16483253.html
+http://www.mod.gov.cn/gfbw/qwfb/16483628.html
   习近平结束出席2026年上海合作组织峰会和对吉尔吉斯斯坦、埃及的国事访问回到北京
 http://www.mod.gov.cn/gfbw/jsxd/16480104.html
   执行“和谐使命-2026”任务的海军“吉祥方舟”号医院船官兵迎接中国医师节
@@ -26,33 +24,39 @@ http://www.mod.gov.cn/gfbw/jmsd/16483272.html
   党性强才能炼就“金刚不坏之身”——推动学习贯彻习近平党建思想走深走实系列谈
 http://www.mod.gov.cn/gfbw/gfdy/16482670.html
   河南省临颍籍退役军人张国伟利用祖宅建成红色展览馆——铭记革命先辈的浴血荣光
+http://www.mod.gov.cn/gfbw/qwfb/16483546.html
+  中老（挝）“和平列车－2026”人道主义医学救援联合演习将在老挝举行
 http://www.mod.gov.cn/gfbw/wzll/16483490.html
   武警南阳支队即将退役老兵专项招聘会，“精准匹配”解决官兵“后路”问题
-http://www.mod.gov.cn/gfbw/sy/rt/16482793.html
-  习近平出席上海合作组织成员国元首理事会第二十六次会议并发表重要讲话
+http://www.mod.gov.cn/gfbw/xwfyr/16483544.html
+  中老（挝）“和平列车－2026”人道主义医学救援联合演习将在老挝举行
 http://www.mod.gov.cn/gfbw/gfjy_index/16483525.html
   重庆市綦江区王良民兵应急连民兵走进“开学第一课”——长征路上话传统
 http://www.mod.gov.cn/gfbw/qwfb/16483292.html
   纪念中国人民抗日战争暨世界反法西斯战争胜利81周年座谈会在京举行
-http://www.mod.gov.cn/gfbw/qwfb/16482970.html
-  中国人民解放军南部战区位中国黄岩岛领海领空及周边区域组织战备警巡
 http://www.mod.gov.cn/gfbw/gfjy_index/16483528.html
   黑龙江省黑河市孙吴县第三小学组织“军事体验课”——迷彩课堂收获多
 http://www.mod.gov.cn/gfbw/gfjy_index/16483513.html
   “全国模范退役军人”江建军负伤失明后笔耕不辍，回馈关爱、奉献社会
 http://www.mod.gov.cn/gfbw/wzll/16483500.html
   海军某大队探索建立标准化岗位交接模式——“家底旧账”明白又清爽
+http://www.mod.gov.cn/gfbw/sy/rt/16483639.html
+  第十三届北京香山论坛暨二十周年纪念宣传片《对话·合作·和平》
+http://www.mod.gov.cn/gfbw/qwfb/16483635.html
+  第十三届北京香山论坛暨二十周年纪念宣传片《对话·合作·和平》
 http://www.mod.gov.cn/gfbw/gfdy/16483505.html
   河南省军区新乡第一离职干部休养所实行“一对一”结对服务老干部
+http://www.mod.gov.cn/gfbw/qwfb/16483547.html
+  中方将赴俄罗斯参加东盟防长扩大会人道主义扫雷专家组实兵演习
 http://www.mod.gov.cn/gfbw/gffw/16483518.html
   浙江省仙居县探索政银联动新机制 打通惠军服务“最后一公里”
+http://www.mod.gov.cn/gfbw/sy/tt_214026/16483637.html
+  习近平致信祝贺中央广播电视总台《小喇叭》节目开播70周年
 http://www.mod.gov.cn/gfbw/gffw/16469120.html
   速览！2026年军校招生政策解读，你想知道的都在这里→
 http://www.mod.gov.cn/gfbw/gfdy/16483508.html
   辽宁省沈阳市铁西区军地为军校新生举行录取通知书颁发仪式
 http://www.mod.gov.cn/gfbw/sy/rt/16483337.html
-  习近平和彭丽媛同埃及总统塞西夫妇共同参观大埃及博物馆
-http://www.mod.gov.cn/gfbw/qwfb/16483169.html
   习近平和彭丽媛同埃及总统塞西夫妇共同参观大埃及博物馆
 http://www.mod.gov.cn/gfbw/wzll/16483502.html
   深入推进实战化军事训练丨“空中之眼”引导“陆上利剑”
@@ -68,48 +72,44 @@ http://www.mod.gov.cn/gfbw/jsxd/16480355.html
   中国船舶“艾琳娜”轮致信感谢海军第48批护航编队
 http://www.mod.gov.cn/gfbw/tp_214132/16475831.html
   凌云出击！东部战区空军航空兵某旅开展空战对抗训练
-http://www.mod.gov.cn/gfbw/sy/rt/16482814.html
-  习近平出席“上海合作组织+”会议并发表重要讲话
 http://www.mod.gov.cn/gfbw/jsxd/16475312.html
   中国海军“吉祥方舟”号医院船首次赴海外执行任务
-http://www.mod.gov.cn/gfbw/qwfb/16481616.html
-  第十三届北京香山论坛将在北京国际会议中心举办
 http://www.mod.gov.cn/gfbw/jsxd/16481085.html
   中白“神鹰-2026”空降兵联合训练圆满结束
-http://www.mod.gov.cn/gfbw/xwfyr/16481666.html
-  第十三届北京香山论坛将在北京国际会议中心举办
 http://www.mod.gov.cn/gfbw/gffw/16478518.html
   国防部征兵办公室印发征兵工作人员职业道德准则
-http://www.mod.gov.cn/gfbw/qwfb/16482801.html
-  中俄蒙将举行“边防合作-2026”联合演练
 http://www.mod.gov.cn/gfbw/jswj/16479884.html
   海军83舰编队圆满完成远海综合实习访问任务
 http://www.mod.gov.cn/gfbw/jmsd/16482246.html
   八一锐评｜增强“时时放心不下”的政治责任感
 http://www.mod.gov.cn/gfbw/gfjy_index/16483520.html
   贵州省剑河县老兵连续20年照顾已故战友双亲
+http://www.mod.gov.cn/gfbw/qwfb/16483559.html
+  国防部：任何“以武谋独”的企图都注定失败
 http://www.mod.gov.cn/gfbw/jswj/16477419.html
   海军83舰编队抵达印度尼西亚进行友好访问
 http://www.mod.gov.cn/gfbw/wzll/16483493.html
   军营观察丨呵护官兵“那股敢闯敢试的劲头”
-http://www.mod.gov.cn/gfbw/xwfyr/16481668.html
-  中东（帝汶）、中印尼将进一步深化防务合作
-http://www.mod.gov.cn/gfbw/xwfyr/16481667.html
-  国防部：赖清德当局穷兵黩武 掏空台湾家底
-http://www.mod.gov.cn/gfbw/qwfb/16481712.html
-  2026年8月国防部例行记者会文字实录
-http://www.mod.gov.cn/gfbw/qwfb/16483256.html
-  中新将举行“海上合作-2026”联演
+http://www.mod.gov.cn/gfbw/qwfb/16483553.html
+  人民军队持续奋战在西藏吉隆抢险救援一线
+http://www.mod.gov.cn/gfbw/xwfyr/16483552.html
+  人民军队持续奋战在西藏吉隆抢险救援一线
+http://www.mod.gov.cn/gfbw/sy/rt/16483577.html
+  2026年9月上旬国防部例行新闻发布
+http://www.mod.gov.cn/gfbw/qwfb/16483603.html
+  习近平向第八届中俄能源商务论坛致贺信
+http://www.mod.gov.cn/gfbw/qwfb/16483562.html
+  2026年9月上旬国防部例行新闻发布
 http://www.mod.gov.cn/gfbw/gfdy/16483522.html
   辽宁省沈阳警备区机关重心下移抓建基层
-http://www.mod.gov.cn/gfbw/qwfb/16482993.html
-  习近平致电祝贺挪威国王哈康八世即位
 http://www.mod.gov.cn/gfbw/jswj/16474858.html
   越南海军“陈兴道”号护卫舰访问广州
 http://www.mod.gov.cn/gfbw/jswj/16475665.html
   海军83舰编队抵达文莱进行友好访问
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16480356.html
   海军某勤务船大队开展海上搜救训练
+http://www.mod.gov.cn/gfbw/qwfb/16483550.html
+  上合组织持续拓展深化防务安全合作
 
 === ALL DISCOVERED LINKS ===
 
@@ -299,38 +299,40 @@ http://www.mod.gov.cn/gfbw/sy/jt_214028/16480356.html
   海军某勤务船大队开展海上搜救训练
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16479769.html
   海军某支队开展训练
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16483253.html
-  习近平结束出席2026年上海合作组织峰会和对吉尔吉斯斯坦、埃及的国事访问回到北京
+http://www.mod.gov.cn/gfbw/sy/tt_214026/16483637.html
+  习近平致信祝贺中央广播电视总台《小喇叭》节目开播70周年
+http://www.mod.gov.cn/gfbw/qwfb/16483633.html
+  贺信全文
 http://www.mod.gov.cn/gfbw/sy/rt/16483173.html
   习近平圆满结束对埃及的国事访问
 http://www.mod.gov.cn/gfbw/sy/rt/16483094.html
   习近平同埃及总统塞西会谈
 http://www.mod.gov.cn/gfbw/sy/rt/16483337.html
   习近平和彭丽媛同埃及总统塞西夫妇共同参观大埃及博物馆
-http://www.mod.gov.cn/gfbw/sy/rt/16482814.html
-  习近平出席“上海合作组织+”会议并发表重要讲话
-http://www.mod.gov.cn/gfbw/sy/rt/16482793.html
-  习近平出席上海合作组织成员国元首理事会第二十六次会议并发表重要讲话
-http://www.mod.gov.cn/gfbw/qwfb/16483182.html
-  习近平同埃及总统塞西会谈
-http://www.mod.gov.cn/gfbw/qwfb/16483169.html
-  习近平和彭丽媛同埃及总统塞西夫妇共同参观大埃及博物馆
-http://www.mod.gov.cn/gfbw/qwfb/16482993.html
-  习近平致电祝贺挪威国王哈康八世即位
+http://www.mod.gov.cn/gfbw/sy/rt/16483577.html
+  2026年9月上旬国防部例行新闻发布
+http://www.mod.gov.cn/gfbw/sy/rt/16483639.html
+  第十三届北京香山论坛暨二十周年纪念宣传片《对话·合作·和平》
+http://www.mod.gov.cn/gfbw/qwfb/16483603.html
+  习近平向第八届中俄能源商务论坛致贺信
+http://www.mod.gov.cn/gfbw/qwfb/16483628.html
+  习近平结束出席2026年上海合作组织峰会和对吉尔吉斯斯坦、埃及的国事访问回到北京
 http://www.mod.gov.cn/gfbw/qwfb/16483292.html
   纪念中国人民抗日战争暨世界反法西斯战争胜利81周年座谈会在京举行
-http://www.mod.gov.cn/gfbw/qwfb/16482951.html
-  解放军和武警部队官兵持续奋战在西藏吉隆抢险救援一线 开展道路清淤、预警监测、卫生防疫等工作
-http://www.mod.gov.cn/gfbw/qwfb/16481712.html
-  2026年8月国防部例行记者会文字实录
-http://www.mod.gov.cn/gfbw/qwfb/16483256.html
-  中新将举行“海上合作-2026”联演
-http://www.mod.gov.cn/gfbw/qwfb/16482801.html
-  中俄蒙将举行“边防合作-2026”联合演练
-http://www.mod.gov.cn/gfbw/qwfb/16482970.html
-  中国人民解放军南部战区位中国黄岩岛领海领空及周边区域组织战备警巡
-http://www.mod.gov.cn/gfbw/qwfb/16481616.html
-  第十三届北京香山论坛将在北京国际会议中心举办
+http://www.mod.gov.cn/gfbw/qwfb/16483550.html
+  上合组织持续拓展深化防务安全合作
+http://www.mod.gov.cn/gfbw/qwfb/16483553.html
+  人民军队持续奋战在西藏吉隆抢险救援一线
+http://www.mod.gov.cn/gfbw/qwfb/16483562.html
+  2026年9月上旬国防部例行新闻发布
+http://www.mod.gov.cn/gfbw/qwfb/16483546.html
+  中老（挝）“和平列车－2026”人道主义医学救援联合演习将在老挝举行
+http://www.mod.gov.cn/gfbw/qwfb/16483547.html
+  中方将赴俄罗斯参加东盟防长扩大会人道主义扫雷专家组实兵演习
+http://www.mod.gov.cn/gfbw/qwfb/16483635.html
+  第十三届北京香山论坛暨二十周年纪念宣传片《对话·合作·和平》
+http://www.mod.gov.cn/gfbw/qwfb/16483559.html
+  国防部：任何“以武谋独”的企图都注定失败
 http://www.mod.gov.cn/gfbw/jswj/16474858.html
   越南海军“陈兴道”号护卫舰访问广州
 http://www.mod.gov.cn/gfbw/jswj/16479884.html
@@ -361,12 +363,12 @@ http://www.mod.gov.cn/gfbw/xwfyr/lxjzhzt/2026lxjzh/2026n7y/index.html
   7月
 http://www.mod.gov.cn/gfbw/xwfyr/lxjzhzt/2026lxjzh/2026n6y/index.html
   6月
-http://www.mod.gov.cn/gfbw/xwfyr/16481666.html
-  第十三届北京香山论坛将在北京国际会议中心举办
-http://www.mod.gov.cn/gfbw/xwfyr/16481668.html
-  中东（帝汶）、中印尼将进一步深化防务合作
-http://www.mod.gov.cn/gfbw/xwfyr/16481667.html
-  国防部：赖清德当局穷兵黩武 掏空台湾家底
+http://www.mod.gov.cn/gfbw/xwfyr/16483548.html
+  上合组织持续拓展深化防务安全合作
+http://www.mod.gov.cn/gfbw/xwfyr/16483552.html
+  人民军队持续奋战在西藏吉隆抢险救援一线
+http://www.mod.gov.cn/gfbw/xwfyr/16483544.html
+  中老（挝）“和平列车－2026”人道主义医学救援联合演习将在老挝举行
 http://www.mod.gov.cn/gfbw/spbb_214126/16477140.html
   何为承诺
 http://www.mod.gov.cn/gfbw/spbb_214126/16477755.html
@@ -503,15 +505,15 @@ http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/08/17/16479769_2a8bb007
 http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/09/03/16483173_689433f9670d5887051155797d44bc07.jpg
 http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/09/02/16483094_05df581b9c5d00868bcf978efcb755c9.jpg
 http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/09/03/16483337_35e9dd08b249a057bdbb17c17b076c2a.JPG
-http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/09/01/16482814_5c58af6d53e781bd78c5418b0614e495.jpg
-http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/09/01/16482793_56721ee8594cf2417ea2704f867338c6.jpg
+http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/09/04/16483577_0b81c642f6ad0c1b5876f668f96f7aa7.jpg
+http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/09/04/16483639_b1942655010f3b7be1c0e1eab4ab59da.jpg
 http://www.mod.gov.cn/gfbw/jswj/_attachment/2026/07/20/16474858_2d8b662d2e7011d5f926fd70b2598d77.jpg
 http://www.mod.gov.cn/gfbw/wzll/_attachment/2026/09/04/16483502_fd3906df32a115756beca7ab14a30014.png
 http://www.mod.gov.cn/gfbw/jsxd/_attachment/2026/07/23/16475312_4960d123b76d7093f76cd73357d3e570.jpg
 http://www.mod.gov.cn/gfbw/xwfyr/lxjzhzt/_attachment/2026/08/28/16481861_c37bd3d3c52cf21eee98cc79812efe09.jpg
 http://www.mod.gov.cn/gfbw/spbb_214126/_attachment/2026/08/01/16477140_ba9a3c83cdacc5371aeaca4aea2b91ad.jpg
 http://www.mod.gov.cn/template/tenant207/t179/img/brief.jpg
-http://www.plapic.com.cn/jfjhb/wqhg/_attachment/2026/08/07/16478243_0f95d232beea9a014576eccd5abfcb78.jpg
+http://www.plapic.com.cn/jfjhb/wqhg/_attachment/2026/09/03/16483310_d73f966d3b4f4e2e1e0e6e519257b599.jpg
 http://www.mod.gov.cn/template/tenant207/t179/img/gfb.jpg
 http://www.81.cn/rmjz_203219/jsjz/_attachment/2026/06/22/16468893_98ef11c90d1bfe6cdf02c316f4db441b.png
 http://www.81.cn/rmjz_203219/zgmb/_attachment/2026/08/07/16478185_6391bdf9da5e89238d1aa9f9d66f8a11.jpg

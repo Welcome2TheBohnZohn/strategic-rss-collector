@@ -6,7 +6,7 @@ Include regex: norincogroup\.com\.cn/.+
 Include text regex: 
 
 Candidate links: 50
-All links discovered: 188
+All links discovered: 189
 
 === MATCHED CANDIDATES ===
 
@@ -191,6 +191,14 @@ http://www.norincogroup.com.cn/art/2026/8/24/art_85_575462.html
   第十二届中国兵器工业集团有限公司职业技能竞赛在西...
 http://www.norincogroup.com.cn/art/2026/8/21/art_85_575390.html
   兵工“萌新”，筑梦启航！
+https://dj.jxnews.com.cn/webDetails/newsPc?id=14793491&tenantId=312&uid=6846d7604c6dff00192fba43&sign=1
+  大江新闻 | 从官田到世界：一家军工央企的95年...
+https://www.chinanews.com.cn/cj/shipin/2026/08-31/news1067157.shtml
+  中国新闻网：企步新长征 | 阅兵场上先进装备的摇...
+https://m.jiemian.com/article/14999229.html
+  界面新闻 | 官田村里的兵工厂：人民军工摇篮和一...
+https://mp.weixin.qq.com/s/MbnMuQoiwDTyZ7fmDwQWnQ
+  新经济学家 | 兴国官田中央兵工厂：“中央企业”...
 https://app.gmdaily.cn/as/opened/n/dbdee8da109b4763b6a3305c7b96384c?wx=1&date=&page=15
   《光明日报》：开启“作业模式”机器人加速走向千行...
 https://fhfxshare.183read.cc/sharearticle/article/article_id/6771254/app_key/4dcd348ac15f30373c392edbf09043b2
@@ -199,14 +207,6 @@ http://www.rmzxw.com.cn/c/2026-08-24/3964661.shtml?n2m=1
   人民政协网：专业度与泛化力多维提升 2026世界...
 https://www.stdaily.com/web/gdxw/2026-08/21/content_567688.html
   《科技日报》：智启重器，技惠民生——兵器工业集团...
-https://vod-finance.cctv.cn/cctv/cctvh5/cctv2/2021/share/index.html?pageId=app://ARTI1787483903869444
-  央视财经：现实版钢铁侠来了！消防机器狗火场打前站
-https://so.html5.qq.com/page/real/search_news?docid=70000021_9796a85735379552
-  央广网：48家央企首次联合亮相世界机器人大会
-https://so.html5.qq.com/page/real/search_news?docid=70000021_9716a858cf958252
-  中国新闻网：央企展团首次联合亮相2026世界机器...
-https://business.cctv.com/2026/08/20/ARTIGpGsZ2oMqQ86tYOYycuS260820.shtml
-  央视网：硬核科技走进民生应用，多款智能装备亮相世...
 http://www.sasac.gov.cn/n2588025/n2643314/c35714759/content.html
   国务院国资委党委传达学习贯彻中央政治局会议精神和...
 http://www.sasac.gov.cn/n2588025/n2643314/c35662862/content.html
@@ -394,6 +394,7 @@ http://www.norincogroup.com.cn/picture/0/s_b522cee4dd8d4ea99da33bfede03bd00.jpg
 http://www.norincogroup.com.cn/picture/0/s_682ad87660764229a4f93b4188642a26.jpg
 http://www.norincogroup.com.cn/picture/0/s_2058b858623f4f9586aa2684e22f95cd.jpg
 http://www.norincogroup.com.cn/picture/0/s_4161a1675dfe4f6eb12e099be53e0f78.png
+https://dj.jxnews.com.cn/webDetails/newsPc?id=14793491&amp;tenantId=312&amp;uid=6846d7604c6dff00192fba43&amp;sign=1
 https://app.gmdaily.cn/as/opened/n/dbdee8da109b4763b6a3305c7b96384c?wx=1&amp;date=&amp;page=15
 http://www.norincogroup.com.cn/picture/0/1610091647122417824.png
 http://www.norincogroup.com.cn/picture/0/515b3dc48fee4d239034c9beb643c20b.jpg

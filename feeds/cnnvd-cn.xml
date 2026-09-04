@@ -1,62 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Fri, 04 Sep 2026 04:51:52 +0000</lastBuildDate><item><title>CNNVD-2026-10930200 - Tencent AI-Infra-Guard 处理逻辑错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-10930200</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-10930200</guid><pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate><description>Tencent AI-Infra-Guard 处理逻辑错误漏洞
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Fri, 04 Sep 2026 11:35:24 +0000</lastBuildDate><item><title>CNNVD-2026-91389606 - Lightstar SmartIT Desktop Manager 权限许可和访问控制问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-91389606</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-91389606</guid><pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate><description>Lightstar SmartIT Desktop Manager 权限许可和访问控制问题漏洞
 危害等级: 高危
-收录时间：2026-09-02 | 更新时间: 2026-09-03 14:05:33
-CNNVD编号: CNNVD-2026-10930200</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-10930200&lt;/p&gt;&lt;pre&gt;Tencent AI-Infra-Guard 处理逻辑错误漏洞
+收录时间：2026-09-04 | 更新时间: 2026-09-04 16:50:13
+CNNVD编号: CNNVD-2026-91389606</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-91389606&lt;/p&gt;&lt;pre&gt;Lightstar SmartIT Desktop Manager 权限许可和访问控制问题漏洞
 危害等级: 高危
-收录时间：2026-09-02 | 更新时间: 2026-09-03 14:05:33
-CNNVD编号: CNNVD-2026-10930200&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-53751060 - RPM 命令注入漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-53751060</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-53751060</guid><pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate><description>RPM 命令注入漏洞
-危害等级: 高危
-收录时间：2026-09-02 | 更新时间: 2026-09-03 14:05:31
-CNNVD编号: CNNVD-2026-53751060</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-53751060&lt;/p&gt;&lt;pre&gt;RPM 命令注入漏洞
-危害等级: 高危
-收录时间：2026-09-02 | 更新时间: 2026-09-03 14:05:31
-CNNVD编号: CNNVD-2026-53751060&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-75631434 - TSI Coop TSI DPDP Consent Management System 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75631434</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75631434</guid><pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate><description>TSI Coop TSI DPDP Consent Management System 授权问题漏洞
-危害等级: 中危
-收录时间：2026-09-02 | 更新时间: 2026-09-03 14:05:43
-CNNVD编号: CNNVD-2026-75631434</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75631434&lt;/p&gt;&lt;pre&gt;TSI Coop TSI DPDP Consent Management System 授权问题漏洞
-危害等级: 中危
-收录时间：2026-09-02 | 更新时间: 2026-09-03 14:05:43
-CNNVD编号: CNNVD-2026-75631434&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-17211199 - TSI Coop TSI DPDP Consent Management System 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-17211199</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-17211199</guid><pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate><description>TSI Coop TSI DPDP Consent Management System 授权问题漏洞
-危害等级: 中危
-收录时间：2026-09-02 | 更新时间: 2026-09-03 14:05:42
-CNNVD编号: CNNVD-2026-17211199</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-17211199&lt;/p&gt;&lt;pre&gt;TSI Coop TSI DPDP Consent Management System 授权问题漏洞
-危害等级: 中危
-收录时间：2026-09-02 | 更新时间: 2026-09-03 14:05:42
-CNNVD编号: CNNVD-2026-17211199&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-99975399 - RowBoat Labs rowboat 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-99975399</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-99975399</guid><pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate><description>RowBoat Labs rowboat 资源管理错误漏洞
-危害等级: 中危
-收录时间：2026-09-02 | 更新时间: 2026-09-03 14:05:31
-CNNVD编号: CNNVD-2026-99975399</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-99975399&lt;/p&gt;&lt;pre&gt;RowBoat Labs rowboat 资源管理错误漏洞
-危害等级: 中危
-收录时间：2026-09-02 | 更新时间: 2026-09-03 14:05:31
-CNNVD编号: CNNVD-2026-99975399&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-75602609 - DPlugins DevKit Pro 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75602609</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75602609</guid><pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate><description>DPlugins DevKit Pro 授权问题漏洞
-危害等级: 高危
-收录时间：2026-09-02 | 更新时间: 2026-09-03 14:04:45
-CNNVD编号: CNNVD-2026-75602609</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75602609&lt;/p&gt;&lt;pre&gt;DPlugins DevKit Pro 授权问题漏洞
-危害等级: 高危
-收录时间：2026-09-02 | 更新时间: 2026-09-03 14:04:45
-CNNVD编号: CNNVD-2026-75602609&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-73314921 - ZOHO ManageEngine Password Manager Pro SQL注入漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-73314921</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-73314921</guid><pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate><description>ZOHO ManageEngine Password Manager Pro SQL注入漏洞
-危害等级: 高危
-收录时间：2026-09-02 | 更新时间: 2026-09-03 14:20:19
-CNNVD编号: CNNVD-2026-73314921</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-73314921&lt;/p&gt;&lt;pre&gt;ZOHO ManageEngine Password Manager Pro SQL注入漏洞
-危害等级: 高危
-收录时间：2026-09-02 | 更新时间: 2026-09-03 14:20:19
-CNNVD编号: CNNVD-2026-73314921&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-79994272 - Motorola Smart Connect Application 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-79994272</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-79994272</guid><pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate><description>Motorola Smart Connect Application 授权问题漏洞
-危害等级: 高危
-收录时间：2026-09-02 | 更新时间: 2026-09-03 14:19:06
-CNNVD编号: CNNVD-2026-79994272</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-79994272&lt;/p&gt;&lt;pre&gt;Motorola Smart Connect Application 授权问题漏洞
-危害等级: 高危
-收录时间：2026-09-02 | 更新时间: 2026-09-03 14:19:06
-CNNVD编号: CNNVD-2026-79994272&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-44204797 - Grafana OSS 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-44204797</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-44204797</guid><pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate><description>Grafana OSS 资源管理错误漏洞
-危害等级: 中危
-收录时间：2026-09-02 | 更新时间: 2026-09-03 14:15:53
-CNNVD编号: CNNVD-2026-44204797</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-44204797&lt;/p&gt;&lt;pre&gt;Grafana OSS 资源管理错误漏洞
-危害等级: 中危
-收录时间：2026-09-02 | 更新时间: 2026-09-03 14:15:53
-CNNVD编号: CNNVD-2026-44204797&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-50451772 - Cisco IOS XR Software 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-50451772</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-50451772</guid><pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate><description>Cisco IOS XR Software 资源管理错误漏洞
+收录时间：2026-09-04 | 更新时间: 2026-09-04 16:50:13
+CNNVD编号: CNNVD-2026-91389606&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-92390283 - Lightstar SmartIT Desktop Manager 信任管理问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-92390283</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-92390283</guid><pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate><description>Lightstar SmartIT Desktop Manager 信任管理问题漏洞
 危害等级: 超危
-收录时间：2026-09-02 | 更新时间: 2026-09-03 14:15:46
-CNNVD编号: CNNVD-2026-50451772</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-50451772&lt;/p&gt;&lt;pre&gt;Cisco IOS XR Software 资源管理错误漏洞
+收录时间：2026-09-04 | 更新时间: 2026-09-04 16:50:12
+CNNVD编号: CNNVD-2026-92390283</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-92390283&lt;/p&gt;&lt;pre&gt;Lightstar SmartIT Desktop Manager 信任管理问题漏洞
 危害等级: 超危
-收录时间：2026-09-02 | 更新时间: 2026-09-03 14:15:46
-CNNVD编号: CNNVD-2026-50451772&lt;/pre&gt;</content:encoded></item></channel></rss>
+收录时间：2026-09-04 | 更新时间: 2026-09-04 16:50:12
+CNNVD编号: CNNVD-2026-92390283&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-14991217 - light0011 cms 服务端请求伪造漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-14991217</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-14991217</guid><pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate><description>light0011 cms 服务端请求伪造漏洞
+危害等级: 中危
+收录时间：2026-09-04 | 更新时间: 2026-09-04 16:50:09
+CNNVD编号: CNNVD-2026-14991217</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-14991217&lt;/p&gt;&lt;pre&gt;light0011 cms 服务端请求伪造漏洞
+危害等级: 中危
+收录时间：2026-09-04 | 更新时间: 2026-09-04 16:50:09
+CNNVD编号: CNNVD-2026-14991217&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-95247126 - light0011 cms 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-95247126</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-95247126</guid><pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate><description>light0011 cms 跨站脚本漏洞
+危害等级: 低危
+收录时间：2026-09-04 | 更新时间: 2026-09-04 16:50:07
+CNNVD编号: CNNVD-2026-95247126</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-95247126&lt;/p&gt;&lt;pre&gt;light0011 cms 跨站脚本漏洞
+危害等级: 低危
+收录时间：2026-09-04 | 更新时间: 2026-09-04 16:50:07
+CNNVD编号: CNNVD-2026-95247126&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-56883055 - Code-Projects Hospital Information System 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-56883055</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-56883055</guid><pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate><description>Code-Projects Hospital Information System 输入验证错误漏洞
+危害等级: 中危
+收录时间：2026-09-04 | 更新时间: 2026-09-04 16:50:05
+CNNVD编号: CNNVD-2026-56883055</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-56883055&lt;/p&gt;&lt;pre&gt;Code-Projects Hospital Information System 输入验证错误漏洞
+危害等级: 中危
+收录时间：2026-09-04 | 更新时间: 2026-09-04 16:50:05
+CNNVD编号: CNNVD-2026-56883055&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-67897102 - Code-Projects doctor appointment system 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-67897102</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-67897102</guid><pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate><description>Code-Projects doctor appointment system 输入验证错误漏洞
+危害等级: 中危
+收录时间：2026-09-04 | 更新时间: 2026-09-04 16:50:05
+CNNVD编号: CNNVD-2026-67897102</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-67897102&lt;/p&gt;&lt;pre&gt;Code-Projects doctor appointment system 输入验证错误漏洞
+危害等级: 中危
+收录时间：2026-09-04 | 更新时间: 2026-09-04 16:50:05
+CNNVD编号: CNNVD-2026-67897102&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-78040743 - WebPros Plesk 路径遍历漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-78040743</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-78040743</guid><pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate><description>WebPros Plesk 路径遍历漏洞
+危害等级: 高危
+收录时间：2026-09-04 | 更新时间: 2026-09-04 16:50:14
+CNNVD编号: CNNVD-2026-78040743</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-78040743&lt;/p&gt;&lt;pre&gt;WebPros Plesk 路径遍历漏洞
+危害等级: 高危
+收录时间：2026-09-04 | 更新时间: 2026-09-04 16:50:14
+CNNVD编号: CNNVD-2026-78040743&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-43468033 - WebPros WHMCS 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-43468033</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-43468033</guid><pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate><description>WebPros WHMCS 授权问题漏洞
+危害等级: 高危
+收录时间：2026-09-04 | 更新时间: 2026-09-04 16:50:13
+CNNVD编号: CNNVD-2026-43468033</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-43468033&lt;/p&gt;&lt;pre&gt;WebPros WHMCS 授权问题漏洞
+危害等级: 高危
+收录时间：2026-09-04 | 更新时间: 2026-09-04 16:50:13
+CNNVD编号: CNNVD-2026-43468033&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-39365226 - Imagination Technologies Graphics DDK 竞争条件问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-39365226</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-39365226</guid><pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate><description>Imagination Technologies Graphics DDK 竞争条件问题漏洞
+危害等级: 高危
+收录时间：2026-09-04 | 更新时间: 2026-09-04 16:50:15
+CNNVD编号: CNNVD-2026-39365226</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-39365226&lt;/p&gt;&lt;pre&gt;Imagination Technologies Graphics DDK 竞争条件问题漏洞
+危害等级: 高危
+收录时间：2026-09-04 | 更新时间: 2026-09-04 16:50:15
+CNNVD编号: CNNVD-2026-39365226&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-19286564 - ASUS Control Center 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-19286564</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-19286564</guid><pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate><description>ASUS Control Center 授权问题漏洞
+危害等级: 超危
+收录时间：2026-09-04 | 更新时间: 2026-09-04 16:50:13
+CNNVD编号: CNNVD-2026-19286564</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-19286564&lt;/p&gt;&lt;pre&gt;ASUS Control Center 授权问题漏洞
+危害等级: 超危
+收录时间：2026-09-04 | 更新时间: 2026-09-04 16:50:13
+CNNVD编号: CNNVD-2026-19286564&lt;/pre&gt;</content:encoded></item></channel></rss>

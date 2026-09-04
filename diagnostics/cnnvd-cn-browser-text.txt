@@ -24,68 +24,68 @@ CNNVD动态
 重置
 收起 
 漏洞信息
-Tencent AI-Infra-Guard 处理逻辑错误漏洞
+Lightstar SmartIT Desktop Manager 权限许可和访问控制问题漏洞
 高危
-收录时间：2026-09-02
+收录时间：2026-09-04
 |
-更新时间: 2026-09-03 14:05:33
-CNNVD编号：CNNVD-2026-10930200
-RPM 命令注入漏洞
-高危
-收录时间：2026-09-02
-|
-更新时间: 2026-09-03 14:05:31
-CNNVD编号：CNNVD-2026-53751060
-TSI Coop TSI DPDP Consent Management System 授权问题漏洞
-中危
-收录时间：2026-09-02
-|
-更新时间: 2026-09-03 14:05:43
-CNNVD编号：CNNVD-2026-75631434
-TSI Coop TSI DPDP Consent Management System 授权问题漏洞
-中危
-收录时间：2026-09-02
-|
-更新时间: 2026-09-03 14:05:42
-CNNVD编号：CNNVD-2026-17211199
-RowBoat Labs rowboat 资源管理错误漏洞
-中危
-收录时间：2026-09-02
-|
-更新时间: 2026-09-03 14:05:31
-CNNVD编号：CNNVD-2026-99975399
-DPlugins DevKit Pro 授权问题漏洞
-高危
-收录时间：2026-09-02
-|
-更新时间: 2026-09-03 14:04:45
-CNNVD编号：CNNVD-2026-75602609
-ZOHO ManageEngine Password Manager Pro SQL注入漏洞
-高危
-收录时间：2026-09-02
-|
-更新时间: 2026-09-03 14:20:19
-CNNVD编号：CNNVD-2026-73314921
-Motorola Smart Connect Application 授权问题漏洞
-高危
-收录时间：2026-09-02
-|
-更新时间: 2026-09-03 14:19:06
-CNNVD编号：CNNVD-2026-79994272
-Grafana OSS 资源管理错误漏洞
-中危
-收录时间：2026-09-02
-|
-更新时间: 2026-09-03 14:15:53
-CNNVD编号：CNNVD-2026-44204797
-Cisco IOS XR Software 资源管理错误漏洞
+更新时间: 2026-09-04 16:50:13
+CNNVD编号：CNNVD-2026-91389606
+Lightstar SmartIT Desktop Manager 信任管理问题漏洞
 超危
-收录时间：2026-09-02
+收录时间：2026-09-04
 |
-更新时间: 2026-09-03 14:15:46
-CNNVD编号：CNNVD-2026-50451772
-共 380616 条
-12345638062
+更新时间: 2026-09-04 16:50:12
+CNNVD编号：CNNVD-2026-92390283
+light0011 cms 服务端请求伪造漏洞
+中危
+收录时间：2026-09-04
+|
+更新时间: 2026-09-04 16:50:09
+CNNVD编号：CNNVD-2026-14991217
+light0011 cms 跨站脚本漏洞
+低危
+收录时间：2026-09-04
+|
+更新时间: 2026-09-04 16:50:07
+CNNVD编号：CNNVD-2026-95247126
+Code-Projects Hospital Information System 输入验证错误漏洞
+中危
+收录时间：2026-09-04
+|
+更新时间: 2026-09-04 16:50:05
+CNNVD编号：CNNVD-2026-56883055
+Code-Projects doctor appointment system 输入验证错误漏洞
+中危
+收录时间：2026-09-04
+|
+更新时间: 2026-09-04 16:50:05
+CNNVD编号：CNNVD-2026-67897102
+WebPros Plesk 路径遍历漏洞
+高危
+收录时间：2026-09-04
+|
+更新时间: 2026-09-04 16:50:14
+CNNVD编号：CNNVD-2026-78040743
+WebPros WHMCS 授权问题漏洞
+高危
+收录时间：2026-09-04
+|
+更新时间: 2026-09-04 16:50:13
+CNNVD编号：CNNVD-2026-43468033
+Imagination Technologies Graphics DDK 竞争条件问题漏洞
+高危
+收录时间：2026-09-04
+|
+更新时间: 2026-09-04 16:50:15
+CNNVD编号：CNNVD-2026-39365226
+ASUS Control Center 授权问题漏洞
+超危
+收录时间：2026-09-04
+|
+更新时间: 2026-09-04 16:50:13
+CNNVD编号：CNNVD-2026-19286564
+共 381039 条
+12345638104
 前往页
 快速导航
 首页
