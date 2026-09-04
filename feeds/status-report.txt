@@ -1,5 +1,5 @@
 Strategic RSS Collector Status
-Generated: 2026-09-03 21:18:00 UTC
+Generated: 2026-09-04 04:51:52 UTC
 
 Status meanings:
 OK = Feed contains one or more items
@@ -188,21 +188,46 @@ FAILED = Source could not be retrieved
   Max retries: 1
   Retry backoff: 1s
 
-[OK] norinco-cn - NORINCO Group
+[FAILED] norinco-cn - NORINCO Group
   Source type: browser
   Start URL: http://www.norincogroup.com.cn/
   Resolved URL: http://www.norincogroup.com.cn/
-  HTTP: 200
-  Links discovered: 188
-  Candidate links/items: 50
-  Attempted items/articles: 12
-  Items/articles with text: 12
-  Items/articles with dates: 12
-  RSS feed items: 12
+  HTTP: None
+  Links discovered: 0
+  Candidate links/items: 0
+  Attempted items/articles: 0
+  Items/articles with text: 0
+  Items/articles with dates: 0
+  RSS feed items: 0
   SSL verification: OFF
   Request timeout: 12s
   Max retries: 1
   Retry backoff: 1s
+  Error: http://www.norincogroup.com.cn/ -> Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.norincogroup.com.cn/
+Call log:
+  - navigating to "http://www.norincogroup.com.cn/", waiting until "domcontentloaded"
+ | http://www.norincogroup.com.cn/ -> Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.norincogroup.com.cn/
+Call log:
+  - navigating to "http://www.norincogroup.com.cn/", waiting until "domcontentloaded"
+ | http://norincogroup.com.cn/ -> Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at http://norincogroup.com.cn/
+Call log:
+  - navigating to "http://norincogroup.com.cn/", waiting until "domcontentloaded"
+ | http://norincogroup.com.cn/ -> Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at http://norincogroup.com.cn/
+Call log:
+  - navigating to "http://norincogroup.com.cn/", waiting until "domcontentloaded"
+ | https://www.norincogroup.com.cn/ -> Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.norincogroup.com.cn/
+Call log:
+  - navigating to "https://www.norincogroup.com.cn/", waiting until "domcontentloaded"
+ | https://www.norincogroup.com.cn/ -> TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.norincogroup.com.cn/", waiting until "domcontentloaded"
+ | https://norincogroup.com.cn/ -> Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://norincogroup.com.cn/
+Call log:
+  - navigating to "https://norincogroup.com.cn/", waiting until "domcontentloaded"
+ | https://norincogroup.com.cn/ -> Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://norincogroup.com.cn/
+Call log:
+  - navigating to "https://norincogroup.com.cn/", waiting until "domcontentloaded"
+
 
 [OK] cssc-cn - China State Shipbuilding Corporation
   Source type: browser
@@ -212,9 +237,9 @@ FAILED = Source could not be retrieved
   Links discovered: 307
   Candidate links/items: 10
   Attempted items/articles: 10
-  Items/articles with text: 10
-  Items/articles with dates: 10
-  RSS feed items: 10
+  Items/articles with text: 9
+  Items/articles with dates: 9
+  RSS feed items: 9
   SSL verification: OFF
   Request timeout: 12s
   Max retries: 1
@@ -225,7 +250,7 @@ FAILED = Source could not be retrieved
   Start URL: https://www.spacechina.com/n25/n2014789/index.html
   Resolved URL: https://www.spacechina.com/n25/n2014789/index.html
   HTTP: 200
-  Links discovered: 172
+  Links discovered: 173
   Candidate links/items: 50
   Attempted items/articles: 12
   Items/articles with text: 12
@@ -349,7 +374,7 @@ FAILED = Source could not be retrieved
   Retry backoff: 1s
 
 SUMMARY
-Working: 22
+Working: 21
 Fetched but no items: 0
-Failed: 0
+Failed: 1
 Total sources: 22

@@ -6,7 +6,7 @@ Include regex: spacechina\.com/n25/n2014789/.+
 Include text regex: 
 
 Candidate links: 50
-All links discovered: 172
+All links discovered: 173
 
 === MATCHED CANDIDATES ===
 
@@ -16,6 +16,12 @@ https://www.spacechina.com/n25/n2014789/n2014799/c4697461/content.html
   航天科技集团党组传达学习习近平总书记关于树立和践行正确政绩观学习教育的重要指示精神
 https://www.spacechina.com/n25/n2014789/n2014809/c4697861/content.html
   航天科技八院八部深化推进“知成本、降成本、优价格”试点建设侧记
+https://www.spacechina.com/n25/n2014789/n2014809/c4699303/content.html
+  航天科技一院万源科技承建北京市首个沼气直通天然气管网工程投运
+https://www.spacechina.com/n25/n2014789/n2014809/c4699361/content.html
+  航天科技九院航天飞鸿投资建设的延庆无人系统产业基地投入运营
+https://www.spacechina.com/n25/n2014789/n2014809/c4699317/content.html
+  航天科技六院高能煤油型谱化产品GN-2研制验证取得重要突破
 https://www.spacechina.com/n25/n2014789/n2014819/c4452901/content.html
   中国航天科技集团有限公司2026年研究生招生专业目录发布
 https://www.spacechina.com/n25/n2014789/n2014809/c4697796/content.html
@@ -24,8 +30,6 @@ https://www.spacechina.com/n25/n2014789/n2014814/c4593148/content.html
   航天科技集团资源卫星中心接待南非代表团深化双方沟通合作
 https://www.spacechina.com/n25/n2014789/n2014814/c4547665/content.html
   援纳米比亚卫星地面数据接收站和处理系统建设项目正式移交
-https://www.spacechina.com/n25/n2014789/n2014809/c4695949/content.html
-  航天科技九院704所风场探测雷达机载飞行验证试验完成
 https://www.spacechina.com/n25/n2014789/n2014814/c4624996/content.html
   航天科技集团长城公司高质量履约书写中巴航天合作新篇章
 https://www.spacechina.com/n25/n2014789/n2014804/c4692265/content.html
@@ -52,28 +56,28 @@ https://www.spacechina.com/n25/n2014789/n2014809/c4697781/content.html
   航天科技七院7111厂精研产品助力火箭精确入轨
 https://www.spacechina.com/n25/n2014789/n2014809/c4698503/content.html
   航天科技八院804所新一代扩跳频应答机首飞成功
-https://www.spacechina.com/n25/n2014789/n2014809/c4695861/content.html
-  航天科技九院7107厂地面射频开关项目量产纪实
+https://www.spacechina.com/n25/n2014789/n2014814/c4699641/content.html
+  航天科技集团新研产品亮相2026世界机器人大会
 https://www.spacechina.com/n25/n2014789/n2014819/c2793422/content.html
   关于清理拖欠民营企业账款线索信访联系方式的通知
-https://www.spacechina.com/n25/n2014789/n2014809/c4695821/content.html
-  航天科技七院7102厂获评省级先进级智能工厂
+https://www.spacechina.com/n25/n2014789/n2014809/c4699331/content.html
+  航天科技八院802所前瞻智能试验团队攻坚侧记
 https://www.spacechina.com/n25/n2014789/n2014814/c4605995/content.html
   航天科技九院最新产业成果亮相汉诺威工业博览会
 https://www.spacechina.com/n25/n2014789/n2014814/c4600529/content.html
   长六火箭成功发射巴基斯坦PRSC-EO3卫星
-https://www.spacechina.com/n25/n2014789/n2014809/c4695841/content.html
-  航天科技五院西安分院获班组建设大赛多项荣誉
 https://www.spacechina.com/n25/n2014789/n2014814/c4533791/content.html
   航天科技集团长征国际亮相阿布扎比无人系统展
 https://www.spacechina.com/n25/n2014789/n2014819/c3566705/content.html
   关于公布打击假冒国企专项行动举报方式的公告
+https://www.spacechina.com/n25/n2014789/n2014804/c4699501/content.html
+  YF-75DB新型氢氧末级发动机研制侧记
+https://www.spacechina.com/n25/n2014789/n2014804/c4699481/content.html
+  2026年深空探测（天都）国际会议...
 https://www.spacechina.com/n25/n2014789/n2014804/c4696501/content.html
   神舟二十三号航天员乘组圆满完成出舱...
 https://www.spacechina.com/n25/n2014789/n2014804/c4696001/content.html
   航天科技集团深入学习贯彻习近平总书...
-https://www.spacechina.com/n25/n2014789/n2014804/c4695981/content.html
-  航天力量驰援西藏吉隆泥石流灾害抢险...
 https://www.spacechina.com/n25/n2014789/n2014799/c4659321/content.html
   航天科技集团党组与驻航天科技纪检监...
 https://www.spacechina.com/n25/n2014789/n2014799/c4655161/content.html
@@ -82,8 +86,6 @@ https://www.spacechina.com/n25/n2014789/n2014799/c4648721/content.html
   党组成员指导长征十号乙火箭发射回收...
 https://www.spacechina.com/n25/n2014789/n2014799/c4642281/content.html
   党组开展老党员老干部和烈士遗属代表...
-https://www.spacechina.com/n25/n2014789/n2014814/c4523459/content.html
-  航天科技中国乐凯乐凯化学亮相国际会展
 https://www.spacechina.com/n25/n2014789/n2014804/c4689821/content.html
   长二丙火箭成功发射SEO卫星
 https://www.spacechina.com/n25/n2014789/n2014804/c4696743/content.html
@@ -108,8 +110,6 @@ https://www.spacechina.com/n25/n2014789/n2014829/c4066394/content.html
   《太空探索》
 https://www.spacechina.com/n25/n2014789/index.html
   新闻中心
-https://www.spacechina.com/n25/n2014789/n2014804/index.html
-  集团要闻
 
 === ALL DISCOVERED LINKS ===
 
@@ -234,6 +234,8 @@ https://www.spacechina.com/n25/n1995122/n1997293/index.html
   企业信息
 https://www.spacechina.com/n25/n1995122/n1997298/index.html
   人才招聘
+https://www.spacechina.com/n25/n2014789/n2014804/c4699501/content.html
+  YF-75DB新型氢氧末级发动机研制侧记
 https://www.spacechina.com/n25/n2014789/n2014804/c4696743/content.html
   刘纪原同志送别仪式在京举行
 https://www.spacechina.com/n25/n2014789/n2014804/c4693741/content.html
@@ -244,12 +246,12 @@ https://www.spacechina.com/n25/n2014789/n2014804/c4691521/content.html
   嫦娥七号和长五遥十四火箭组合体垂直转运至发射...
 https://www.spacechina.com/n25/n2014789/n2014804/c4689821/content.html
   长二丙火箭成功发射SEO卫星
+https://www.spacechina.com/n25/n2014789/n2014804/c4699481/content.html
+  2026年深空探测（天都）国际会议...
 https://www.spacechina.com/n25/n2014789/n2014804/c4696501/content.html
   神舟二十三号航天员乘组圆满完成出舱...
 https://www.spacechina.com/n25/n2014789/n2014804/c4696001/content.html
   航天科技集团深入学习贯彻习近平总书...
-https://www.spacechina.com/n25/n2014789/n2014804/c4695981/content.html
-  航天力量驰援西藏吉隆泥石流灾害抢险...
 https://www.spacechina.com/n25/n2014789/n2014799/c4697461/content.html
   航天科技集团党组传达学习习近平总书记关于树立和践行正确政绩观学习教育的重要指示精神
 https://www.spacechina.com/n25/n2014789/n2014799/c4641081/content.html
@@ -270,6 +272,14 @@ https://www.spacechina.com/n25/n2014789/n2014799/c4648721/content.html
   党组成员指导长征十号乙火箭发射回收...
 https://www.spacechina.com/n25/n2014789/n2014799/c4642281/content.html
   党组开展老党员老干部和烈士遗属代表...
+https://www.spacechina.com/n25/n2014789/n2014809/c4699361/content.html
+  航天科技九院航天飞鸿投资建设的延庆无人系统产业基地投入运营
+https://www.spacechina.com/n25/n2014789/n2014809/c4699331/content.html
+  航天科技八院802所前瞻智能试验团队攻坚侧记
+https://www.spacechina.com/n25/n2014789/n2014809/c4699317/content.html
+  航天科技六院高能煤油型谱化产品GN-2研制验证取得重要突破
+https://www.spacechina.com/n25/n2014789/n2014809/c4699303/content.html
+  航天科技一院万源科技承建北京市首个沼气直通天然气管网工程投运
 https://www.spacechina.com/n25/n2014789/n2014809/c4697861/content.html
   航天科技八院八部深化推进“知成本、降成本、优价格”试点建设侧记
 https://www.spacechina.com/n25/n2014789/n2014809/c4697796/content.html
@@ -282,14 +292,8 @@ https://www.spacechina.com/n25/n2014789/n2014809/c4698517/content.html
   航天科技九院704所商业小卫星测雨雷达载荷顺利交付
 https://www.spacechina.com/n25/n2014789/n2014809/c4698503/content.html
   航天科技八院804所新一代扩跳频应答机首飞成功
-https://www.spacechina.com/n25/n2014789/n2014809/c4695949/content.html
-  航天科技九院704所风场探测雷达机载飞行验证试验完成
-https://www.spacechina.com/n25/n2014789/n2014809/c4695861/content.html
-  航天科技九院7107厂地面射频开关项目量产纪实
-https://www.spacechina.com/n25/n2014789/n2014809/c4695841/content.html
-  航天科技五院西安分院获班组建设大赛多项荣誉
-https://www.spacechina.com/n25/n2014789/n2014809/c4695821/content.html
-  航天科技七院7102厂获评省级先进级智能工厂
+https://www.spacechina.com/n25/n2014789/n2014814/c4699641/content.html
+  航天科技集团新研产品亮相2026世界机器人大会
 https://mp.weixin.qq.com/s/Yt3B7WiOp9SW3Cy7KSVNBQ
   航天煤气化技术助力高质量共建“一带一路”
 https://www.spacechina.com/n25/n2014789/n2014814/c4624996/content.html
@@ -308,32 +312,30 @@ https://www.spacechina.com/n25/n2014789/n2014814/c4547665/content.html
   援纳米比亚卫星地面数据接收站和处理系统建设项目正式移交
 https://www.spacechina.com/n25/n2014789/n2014814/c4533791/content.html
   航天科技集团长征国际亮相阿布扎比无人系统展
-https://www.spacechina.com/n25/n2014789/n2014814/c4523459/content.html
-  航天科技中国乐凯乐凯化学亮相国际会展
 https://mp.weixin.qq.com/s/lxhF_k_4B92kP4EovY77yQ
 https://mp.weixin.qq.com/s/Sp6vBhWNvf-INQQ4RUtJNw
 https://www.news.cn/photo/20260730/57c05645ad7d4eb6af7647385e128048/c.html
 http://gd.news.cn/20260706/6ae067203bb14d75aa9d615a3a548841/c.html
 https://www.stdaily.com/web/gdxw/2026-07/06/content_542450.html
 https://www.stdaily.com/web/gdxw/2026-07/02/content_540799.html
+https://www.news.cn/20260901/247f4ffdcd8e425f8817c558df3b406b/c.html
+  新华网：中国空间站动态丨沉浸式俯瞰蓝色星球
 https://www.news.cn/tech/20260901/c50cb2cdcafc40c89f33545eef29f85f/c.html
   科技日报：全国首个开放式商业航天测运控共享平台启用
 https://www.news.cn/politics/20260828/b17dd49d83834636938d430b6f6a815a/c.html
   新华社：神舟二十三号航天员乘组圆满完成出舱活动
-https://www.stdaily.com/web/gdxw/2026-08/25/content_569367.html
-  科技日报：长六丙“一箭七星”发射成功
 http://www.sasac.gov.cn/n2588025/n2643314/c35392672/content.html
 http://www.sasac.gov.cn/n2588025/n2643314/c35351188/content.html
 http://www.sasac.gov.cn/n2588025/n2643314/c34380965/content.html
 http://www.sasac.gov.cn/n2588025/n2643314/c34041102/content.html
 http://www.sasac.gov.cn/n2588025/n2643314/c33954662/content.html
 http://www.sasac.gov.cn/n2588025/n2643314/c33667926/content.html
+http://www.sasac.gov.cn/n2588025/n2643314/c35859745/content.html
+  国务院国资委党委召开2026年第二、第三轮巡视动员部署会
 http://www.sasac.gov.cn/n2588025/n2643314/c35847444/content.html
   国务院国资委党委传达学习习近平总书记重要指示和中央政治局会议...
 http://www.sasac.gov.cn/n2588025/n2643314/c35808434/content.html
   国务院国资委举办中央企业未来能源领域人才特训班
-http://www.sasac.gov.cn/n2588025/n2643314/c35809045/content.html
-  国务院国资委召开中央企业6G未来产业推进会
 http://zhuanti.spacechina.com/n4615143/index.html
 http://zhuanti.spacechina.com/n4591921/
 http://zhuanti.spacechina.com/n4553881/

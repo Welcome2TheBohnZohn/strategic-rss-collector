@@ -96,8 +96,6 @@ https://www.ncpssd.cn/js/jquery-1.11.1.min.js
   jquery-1.11.1.min.js
 https://www.ncpssd.cn/message?id=22212
   习近平抵达埃及开罗国际机场发表书面讲话
-https://www.ncpssd.cn/message?id=22210
-  习近平在“上海合作组织+”会议上的讲话
 https://www.ncpssd.cn/css/jquery.hiSlider.css
   jquery.hiSlider.css
 https://www.ncpssd.cn/sso/getTokenCurrentUser?ssoClient=xwkEN
@@ -112,6 +110,8 @@ https://www.ncpssd.cn/js/sensorsdata.min.js
   sensorsdata.min.js
 https://www.ncpssd.cn/Literature/ancientbooklistNew
   ancientbooklistNew
+https://www.ncpssd.cn/message?id=22218
+  习近平致电祝贺挪威国王哈康八世即位
 https://www.ncpssd.cn/message?id=22211
   习近平抵达开罗对埃及进行国事访问
 https://www.ncpssd.cn/js/jquery.base64.js
@@ -161,6 +161,8 @@ https://www.ncpssd.cn/messages
 https://www.ncpssd.cn/message?id=22214
 https://www.ncpssd.cn/message?id=22213
 https://www.ncpssd.cn/message?id=22107
+https://www.ncpssd.cn/message?id=22218
+  习近平致电祝贺挪威国王哈康八世即位
 https://www.ncpssd.cn/message?id=22216
   习近平和彭丽媛同埃及总统塞西夫妇共同参观大埃及博物馆
 https://www.ncpssd.cn/message?id=22215
@@ -169,8 +171,6 @@ https://www.ncpssd.cn/message?id=22212
   习近平抵达埃及开罗国际机场发表书面讲话
 https://www.ncpssd.cn/message?id=22211
   习近平抵达开罗对埃及进行国事访问
-https://www.ncpssd.cn/message?id=22210
-  习近平在“上海合作组织+”会议上的讲话
 https://www.ncpssd.cn/message?id=19563
   国家哲学社会科学文献中心发布最受欢迎期刊报告
 https://www.ncpssd.cn/message?id=19564
