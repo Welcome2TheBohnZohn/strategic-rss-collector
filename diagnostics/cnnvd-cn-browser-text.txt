@@ -24,6 +24,18 @@ CNNVD动态
 重置
 收起 
 漏洞信息
+WebPros Plesk 路径遍历漏洞
+高危
+收录时间：2026-09-04
+|
+更新时间: 2026-09-04 16:50:14
+CNNVD编号：CNNVD-2026-78040743
+WebPros WHMCS 授权问题漏洞
+高危
+收录时间：2026-09-04
+|
+更新时间: 2026-09-04 16:50:13
+CNNVD编号：CNNVD-2026-43468033
 Lightstar SmartIT Desktop Manager 权限许可和访问控制问题漏洞
 高危
 收录时间：2026-09-04
@@ -60,18 +72,6 @@ Code-Projects doctor appointment system 输入验证错误漏洞
 |
 更新时间: 2026-09-04 16:50:05
 CNNVD编号：CNNVD-2026-67897102
-WebPros Plesk 路径遍历漏洞
-高危
-收录时间：2026-09-04
-|
-更新时间: 2026-09-04 16:50:14
-CNNVD编号：CNNVD-2026-78040743
-WebPros WHMCS 授权问题漏洞
-高危
-收录时间：2026-09-04
-|
-更新时间: 2026-09-04 16:50:13
-CNNVD编号：CNNVD-2026-43468033
 Imagination Technologies Graphics DDK 竞争条件问题漏洞
 高危
 收录时间：2026-09-04

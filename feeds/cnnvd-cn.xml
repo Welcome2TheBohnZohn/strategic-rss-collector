@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Sat, 05 Sep 2026 04:47:07 +0000</lastBuildDate><item><title>CNNVD-2026-91389606 - Lightstar SmartIT Desktop Manager 权限许可和访问控制问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-91389606</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-91389606</guid><pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate><description>Lightstar SmartIT Desktop Manager 权限许可和访问控制问题漏洞
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Sat, 05 Sep 2026 10:50:07 +0000</lastBuildDate><item><title>CNNVD-2026-78040743 - WebPros Plesk 路径遍历漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-78040743</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-78040743</guid><pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate><description>WebPros Plesk 路径遍历漏洞
+危害等级: 高危
+收录时间：2026-09-04 | 更新时间: 2026-09-04 16:50:14
+CNNVD编号: CNNVD-2026-78040743</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-78040743&lt;/p&gt;&lt;pre&gt;WebPros Plesk 路径遍历漏洞
+危害等级: 高危
+收录时间：2026-09-04 | 更新时间: 2026-09-04 16:50:14
+CNNVD编号: CNNVD-2026-78040743&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-43468033 - WebPros WHMCS 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-43468033</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-43468033</guid><pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate><description>WebPros WHMCS 授权问题漏洞
+危害等级: 高危
+收录时间：2026-09-04 | 更新时间: 2026-09-04 16:50:13
+CNNVD编号: CNNVD-2026-43468033</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-43468033&lt;/p&gt;&lt;pre&gt;WebPros WHMCS 授权问题漏洞
+危害等级: 高危
+收录时间：2026-09-04 | 更新时间: 2026-09-04 16:50:13
+CNNVD编号: CNNVD-2026-43468033&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-91389606 - Lightstar SmartIT Desktop Manager 权限许可和访问控制问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-91389606</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-91389606</guid><pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate><description>Lightstar SmartIT Desktop Manager 权限许可和访问控制问题漏洞
 危害等级: 高危
 收录时间：2026-09-04 | 更新时间: 2026-09-04 16:50:13
 CNNVD编号: CNNVD-2026-91389606</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-91389606&lt;/p&gt;&lt;pre&gt;Lightstar SmartIT Desktop Manager 权限许可和访问控制问题漏洞
@@ -35,19 +47,7 @@ CNNVD编号: CNNVD-2026-56883055&lt;/pre&gt;</content:encoded></item><item><titl
 CNNVD编号: CNNVD-2026-67897102</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-67897102&lt;/p&gt;&lt;pre&gt;Code-Projects doctor appointment system 输入验证错误漏洞
 危害等级: 中危
 收录时间：2026-09-04 | 更新时间: 2026-09-04 16:50:05
-CNNVD编号: CNNVD-2026-67897102&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-78040743 - WebPros Plesk 路径遍历漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-78040743</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-78040743</guid><pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate><description>WebPros Plesk 路径遍历漏洞
-危害等级: 高危
-收录时间：2026-09-04 | 更新时间: 2026-09-04 16:50:14
-CNNVD编号: CNNVD-2026-78040743</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-78040743&lt;/p&gt;&lt;pre&gt;WebPros Plesk 路径遍历漏洞
-危害等级: 高危
-收录时间：2026-09-04 | 更新时间: 2026-09-04 16:50:14
-CNNVD编号: CNNVD-2026-78040743&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-43468033 - WebPros WHMCS 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-43468033</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-43468033</guid><pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate><description>WebPros WHMCS 授权问题漏洞
-危害等级: 高危
-收录时间：2026-09-04 | 更新时间: 2026-09-04 16:50:13
-CNNVD编号: CNNVD-2026-43468033</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-43468033&lt;/p&gt;&lt;pre&gt;WebPros WHMCS 授权问题漏洞
-危害等级: 高危
-收录时间：2026-09-04 | 更新时间: 2026-09-04 16:50:13
-CNNVD编号: CNNVD-2026-43468033&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-39365226 - Imagination Technologies Graphics DDK 竞争条件问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-39365226</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-39365226</guid><pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate><description>Imagination Technologies Graphics DDK 竞争条件问题漏洞
+CNNVD编号: CNNVD-2026-67897102&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-39365226 - Imagination Technologies Graphics DDK 竞争条件问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-39365226</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-39365226</guid><pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate><description>Imagination Technologies Graphics DDK 竞争条件问题漏洞
 危害等级: 高危
 收录时间：2026-09-04 | 更新时间: 2026-09-04 16:50:15
 CNNVD编号: CNNVD-2026-39365226</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-39365226&lt;/p&gt;&lt;pre&gt;Imagination Technologies Graphics DDK 竞争条件问题漏洞
