@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>National University of Defense Technology Journal</title><link>https://journal.nudt.edu.cn/</link><description>Generated RSS feed for National University of Defense Technology Journal</description><language>zh-CN</language><lastBuildDate>Sat, 05 Sep 2026 15:26:58 +0000</lastBuildDate><item><title>多核数字信号处理器矩阵乘卷积算法性能评测</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/202301009?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/202301009?tab=abstract</guid><pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate><description>(1. 国防科技大学 计算机学院, 湖南 长沙 410073;2. 国防科技大学 并行与分布处理国防科技重点实验室, 湖南 长沙 410073)
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>National University of Defense Technology Journal</title><link>https://journal.nudt.edu.cn/</link><description>Generated RSS feed for National University of Defense Technology Journal</description><language>zh-CN</language><lastBuildDate>Sat, 05 Sep 2026 20:32:14 +0000</lastBuildDate><item><title>多核数字信号处理器矩阵乘卷积算法性能评测</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/202301009?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/202301009?tab=abstract</guid><pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate><description>(1. 国防科技大学 计算机学院, 湖南 长沙 410073;2. 国防科技大学 并行与分布处理国防科技重点实验室, 湖南 长沙 410073)
 
 王庆林(1987—),男,贵州思南人,副研究员,博士,硕士生导师,E-mail:wangqinglin_thu@163.com; 裴向东(通信作者),男,山西长治人,博士研究生,E-mail:18903588277@163.com
 
@@ -119,7 +119,7 @@ Deepseek
 Kimi
 English
 引用本文:
-甘良棋, 董超, 朱小军, 等. 软件定义的无人机集群弹性组网架构[J]. 国防科技大学学报, 2026, 48(4): 89 - 96.
+甘良棋, 董超, 朱小军, 等. 软件定义的无人机集群弹性组网架构[J]. 国防科技大学学报, 2026, 48(4): 89-96.
 Citation:
 Gan Liangqi, Dong Chao, Zhu Xiaojun, et al. Software-defined resilient networking architecture for UAV swarms[J]. Journal of National University of Defense Technology, 2026, 48(4): 89-96.
 软件定义的无人机集群弹性组网架构
@@ -140,7 +140,7 @@ liangqi-gan@nuaa.edu.cn
  董超
 1,2
 角色:
-通信作者
+通讯作者
 机构:
 1. 南京航空航天大学 电子信息工程学院, 江苏 南京 211106
 2. 南京航空航天大学 电磁频谱空间认知动态系统重点实验室, 江苏 南京 211106
@@ -167,11 +167,11 @@ dch@nuaa.edu.cn
 收起信息
 作者简介
 甘良棋（1992—），男，湖北咸宁人，博士研究生，E-mail: liangqi-gan@nuaa.edu.cn
-通信作者
+通讯作者
 董超（1980—），男，山东滨州人，教授，博士，博士生导师，E-mail: dch@nuaa.edu.cn
 中图分类号:
 TN929.5;V279
-文献标志码:
+文献标识码:
 A
 文章编号:
 1001-2486(2026)04-089-08
@@ -181,7 +181,7 @@ Gan Liangqi
 Role:
 First Author
 Affiliation:
-1. College of Electronic and Information Engineering, Na</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260408?st=search&amp;amp;tab=abstract&lt;/p&gt;&lt;pre&gt;软件定义的无人机集群弹性组网架构
+1. College of Electronic and Information Engineering, Nanj</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260408?st=search&amp;amp;tab=abstract&lt;/p&gt;&lt;pre&gt;软件定义的无人机集群弹性组网架构
 EI•CA•INSPEC•JST•SCOPUS
 中文核心期刊•CSCD•WJCI
 首页
@@ -211,7 +211,7 @@ Deepseek
 Kimi
 English
 引用本文:
-甘良棋, 董超, 朱小军, 等. 软件定义的无人机集群弹性组网架构[J]. 国防科技大学学报, 2026, 48(4): 89 - 96.
+甘良棋, 董超, 朱小军, 等. 软件定义的无人机集群弹性组网架构[J]. 国防科技大学学报, 2026, 48(4): 89-96.
 Citation:
 Gan Liangqi, Dong Chao, Zhu Xiaojun, et al. Software-defined resilient networking architecture for UAV swarms[J]. Journal of National University of Defense Technology, 2026, 48(4): 89-96.
 软件定义的无人机集群弹性组网架构
@@ -232,7 +232,7 @@ liangqi-gan@nuaa.edu.cn
  董超
 1,2
 角色:
-通信作者
+通讯作者
 机构:
 1. 南京航空航天大学 电子信息工程学院, 江苏 南京 211106
 2. 南京航空航天大学 电磁频谱空间认知动态系统重点实验室, 江苏 南京 211106
@@ -259,11 +259,11 @@ dch@nuaa.edu.cn
 收起信息
 作者简介
 甘良棋（1992—），男，湖北咸宁人，博士研究生，E-mail: liangqi-gan@nuaa.edu.cn
-通信作者
+通讯作者
 董超（1980—），男，山东滨州人，教授，博士，博士生导师，E-mail: dch@nuaa.edu.cn
 中图分类号:
 TN929.5;V279
-文献标志码:
+文献标识码:
 A
 文章编号:
 1001-2486(2026)04-089-08
@@ -303,7 +303,7 @@ Affiliation:
 摘要
 HTML全文
 图(12)表(0)
-参考文献(22)
+参考文献
 相似文献
 出版信息
 访问统计
@@ -736,141 +736,6 @@ Control handover time for dynamic topology reconstruction under ideal conditions
 Fig.
 12
 Topology reconstruction time during dynamic control handover under persistent interference
-[1]
-Singh J, Kaur N. A review of swarm intelligence and its applications to cloud computing[C]//2025 International Conference on Inventive Computation Technologies(ICICT), 2025: 260-266.
-[2]
-费陈, 郑晗, 赵亮. 无人机集群控制技术研究[J]. 弹箭与制导学报, 2023, 43(3): 45-55.
-Fei Chen, Zheng Han, Zhao Liang. Research on UAV cluster control technology[J]. Journal of Projectiles, Rockets, Missiles and Guidance, 2023, 43(3): 45-55.(in Chinese)
-[3]
-Wang Jianan, Wang Chunyan, Xin Ming, et al. Cooperative control of multi-agent systems[M]. London: Academic Press, 2020.
-[4]
-Su Lingfei, Lin Zhi, Hua Yongzhao, et al. Resilient time-varying formation optimal tracking for heterogeneous multi-agent systems with coupled constraints[J]. IEEE Transactions on Automation Science and Engineering, 2025, 22: 15274-15285.
-[5]
-潘乐炳, 陈炜民, 贾继鹏, 等. SDN技术在战术MANET中的应用[J]. 电讯技术, 2019, 59(5): 532-537.
-Pan Lebing, Chen Weimin, Jia Jipeng, et al. Application of SDN in tactical MANET[J]. Telecommunication Engineering, 2019, 59(5): 532-537.(in Chinese)
-[6]
-Singhal C, Rahul K. Efficient QoS provisioning using SDN for end-to-end data delivery in UAV assisted network[C]//2019 IEEE International Conference on Advanced Networks and Telecommunications Systems(ANTS), 2019: 1-6.
-[7]
-Rahman S U, Kim G-H, Cho Y-Z, et al. Positioning of UAVs for throughput maximization in software-defined disaster area UAV communication networks[J]. Journal of Communications and Networks, 2018, 20(5): 452-463.
-[8]
-Zhao Zhongliang, Cumino P, Souza A, et al. Software-defined unmanned aerial vehicles networking for video dissemination services[J]. Ad Hoc Networks, 2019, 83: 68-77.
-[9]
-Cumino P, Maciel K, Tavares T, et al. Cluster-based control plane messages management in software-defined flying ad-hoc network[J]. Sensors(Basel), 2020, 20(1): 67.
-[10]
-Peng Haixia, Ye Qiang, Shen Xuemin. SDN-based resource management for autonomous vehicular networks: a multi-access edge computing approach[J]. IEEE Wireless Communications, 2019, 26(4): 156-162.
-[11]
-Zhao Liang, Yang Kaiqi, Tan Zhiyuan, et al. A novel cost optimization strategy for SDN-enabled UAV-assisted vehicular computation offloading[J]. IEEE Transactions on Intelligent Transportation Systems, 2021, 22(6): 3664-3674.
-[12]
-Hu Ning, Tian Zhihong, Sun Yanbin, et al. Building agile and resilient UAV networks based on SDN and blockchain[J]. IEEE Network, 2021, 35(1): 57-63.
-[13]
-Qi Weijing, Song Qingyang, Kong Xiangjie, et al. A traffic-differentiated routing algorithm in flying ad hoc sensor networks with SDN cluster controllers[J]. Journal of the Franklin Institute, 2019, 356(2): 766-790.
-[14]
-Hepworth A J, Hussein A S M, Reid D J, et al. Contextually aware intelligent control agents for heterogeneous swarms[J]. Swarm Intelligence, 2024, 18(4): 275-310.
-[15]
-Gu Yue, Hunt W, Archibald B, et al. Successful swarms: operator situational awareness with modelling and verification at runtime[C]//2023 32nd IEEE International Conference on Robot and Human Interactive Communication(RO-MAN), 2023: 541-548.
-[16]
-Yue Longfei, Yang Rennong, Zuo Jialiang, et al. Unmanned aerial vehicle swarm cooperative decision-making for SEAD mission: a hierarchical multiagent reinforcement learning approach[J]. IEEE Access, 2022, 10: 92177-92191.
-[17]
-Gao Yang, Li Dongsheng. Unmanned aerial vehicle swarm distributed cooperation method based on situation awareness consensus and its information processing mechanism[J]. Knowledge-Based Systems, 2020, 188: 105034.
-[18]
-蓝俊伟, 张奇支, 郑伟平, 等. 基于链路位置的SDN数据平面故障恢复方法[J]. 华南师范大学学报(自然科学版), 2023, 55(5): 111-120.
-Lan Junwei, Zhang Qizhi, Zheng Weiping, et al. A failure recovery algorithm of SDN data plane based on link location[J]. Journal of South China Normal University(Natural Science Edition), 2023, 55(5): 111-120.(in Chinese)
-[19]
-周欢欢, 赵国林, 都兴霖. 基于OPM的无人机集群智能化指挥控制概念模型[J]. 指挥控制与仿真, 2025, 47(1): 1-9.
-Zhou Huanhuan, Zhao Guolin, Du Xinglin. Conceptual model of intelligent command and control for UAV cluster based on OPM[J]. Command Control &amp;amp; Simulation, 2025, 47(1): 1-9.(in Chinese)
-[20]
-中国电信陕西无线电机动通信局搭建空中临时基站科技手段助力背景受灾区域复联[EB/OL].(2023-08-16)[2025-06-01].https: //www.ixian.cn/thread-1826717-1-1.html.
-China telecom Shaanxi radio mobile communications bureau deploys airborne temporary base stations using advanced technology to restore communication connectivity in disaster-affected areas[EB/OL].(2023-08-16)[2025-06-01].https: //www.ixian.cn/thread-1826717-1-1.html.(in Chinese)
-[21]
-甘良棋, 董超. 基于多智能体协同的无人机编队控制研究[J]. 计算机科学, 2024, 51(11A): 240100105.
-Gan Liangqi, Dong Chao. Study on unmanned aircraft formation control based on multi-agent collaboration[J]. Computer Science, 2024, 51(11A): 240100105.(in Chinese)
-[22]
-一架无人机就恢复河南灾区50 km
-2
-通信: “翼龙”成功助小镇通网5小时[EB/OL].(2021-07-22)[2025-06-01].https: //blog.ytso.com/industrynews/28554.html.
-A single drone restores 50 km
-2
-of communication coverage in Henan disaster zone: &amp;quot;Wing Loong&amp;quot; UAV successfully provides 5-hour internet connectivity to small town.[EB/OL].(2021-07-22)[2025-06-01].https: //blog.ytso.com/industrynews/28554.html.(in Chinese)
-[1]
-梁俊,孙伟超,肖楠,陈威龙,郭子桢.
-基于切比雪夫神经网络的软件定义卫星网络智能路由策略
-[J].国防科技大学学报,2020,42(5):23-30.
-[2]
-赵海涛,王海军,陈海涛,张亦弛,魏急波.
-面向无人机集群的通信与组网技术
-[J].国防科技大学学报,2026,48(3):12-35.
-[3]
-王海军,王洁,张姣,赵海涛,任保全,尹浩.
-无人机自组网SPMA协议智能退避技术:DDQN驱动的多维决策
-[J].国防科技大学学报,2026,48(3):96-106.
-[4]
-江元龙,王世练,张尔扬.
-战术移动Ad Hoc网络下的分布式位置辅助功率控制算法
-[J].国防科技大学学报,2005,27(1):78-83.
-[5]
-曹继军,吴宗明,汤强,李小玉.
-深度强化学习和负载中心性理论融合的分段路由优化算法
-[J].国防科技大学学报,2025,47(6):46-59.
-[6]
-陈士涛,张海林.
-基于作战网络模型的异构无人机集群作战能力评估
-[J].军事运筹与系统工程,2019,33(1).
-[7]
-赵荣黎.
-跳频通信的技术体制与发展
-[J].现代军事通信,2003,11(3):33-37.
-[8]
-梁俊,丁然,肖楠,刘玉磊,张振浩.
-基于信息战的软件定义天地一体化网络与关键技术
-[J].火力与指挥控制,2018,43(6):162-166.
-[9]
-袁国栋,何明,韩伟,禹明刚,成铭洋.
-无人机集群社团网络弹性重构研究北大核心
-[J].现代防御技术,2023(5):50-58.
-[10]
-杨同智,党建成,张新,刘镒,王杰,周云涛.
-软件定义的航天器测试网络技术
-[J].国防科技,2021,42(5):22-27.
-[11]
-刘思远,杜海燕,李丽,彭丽娟,方欣欣.
-基于SDN与传统路由相结合的网络架构设计
-[J].火力与指挥控制,2022(4):126-130+137.
-[12]
-高航航,王翔,赵尚弘,彭聪.
-基于时延的软件定义航空网络控制器部署策略
-[J].火力与指挥控制,2019,44(11):67-72.
-[13]
-董帅,张安琳,黄道颖,王宣立,刘江豪.
-基于OpenFlow的SDN中链路层拓扑发现的优化
-[J].火力与指挥控制,2020,45(8):148-153.
-[14]
-王涛;谢添乐;唐勇;张强;许新爽;高琛.
-认知模型驱动的无人机集群混合智能协同决策方法研究
-[J].无人系统技术,2025(3):109-121.
-[15]
-孙利娜,陈永禄,陈志伟.
-基于杀伤链的动态重构作战网络抗毁性分析
-[J].火力与指挥控制,2023,48(2):12-18.
-[16]
-王巍振,张安琳,黄道颖,谢兆贤,陈慧.
-一种基于吞吐量变化的OpenFlow网络自适应测量算法
-[J].火力与指挥控制,2019,44(2):139-143.
-[17]
-王坤;付钰;段雪源;刘涛涛;周静华.
-基于动态限制策略的SDN中IP欺骗攻击缓解技术
-[J].海军工程大学学报,2025(2):9-16+25.
-[18]
-祁江鑫,吴玲,卢发兴,史浩然,许俊飞.
-基于改进YOLOv4算法的无人机目标检测
-[J].兵器装备工程学报,2022(6):210-217.
-[19]
-丁鹏,宋亚飞,夏智权.
-意图驱动的防空武器-目标动态分配方法
-[J].火力与指挥控制,2023,48(12):17-26.
-[20]
-杨思,李小民,谢志刚,席雷平.
-无人机虚拟维修训练系统及其HLA设计
-[J].军械工程学院学报,2007,19(1):12-15.
 PDF下载
 XML下载
 导出引用
@@ -878,7 +743,7 @@ XML下载
 图(12)
 手机扫码阅读
 引用本文
-甘良棋, 董超, 朱小军, 等. 软件定义的无人机集群弹性组网架构[J]. 国防科技大学学报, 2026, 48(4): 89 - 96.
+甘良棋, 董超, 朱小军, 等. 软件定义的无人机集群弹性组网架构[J]. 国防科技大学学报, 2026, 48(4): 89-96.
 复制
 Gan Liangqi, Dong Chao, Zhu Xiaojun, et al. Software-defined resilient networking architecture for UAV swarms[J]. Journal of National University of Defense Technology, 2026, 48(4): 89-96.
 Copy
@@ -1000,7 +865,7 @@ of communication coverage in Henan disaster zone:&amp;quot;Wing Loong&amp;quot; 
 扫码关注
 官方微信
 您是今天第
-16372
+711
 位访客
 总访问量：
 256260297
@@ -1042,7 +907,7 @@ Deepseek
 Kimi
 English
 引用本文:
-林云,查浩然,尚佳颖,等. 电磁频谱空间具身智能认知:概念、框架和关键技术[J]. 国防科技大学学报,2026,48(4):17-28.
+林云, 查浩然, 尚佳颖, 等. 电磁频谱空间具身智能认知：概念、框架和关键技术[J]. 国防科技大学学报, 2026, 48(4)：17-28.
 Citation:
 Lin Yun, Zha Haoran, Shang Jiaying, et al. Embodied intelligence cognition in electromagnetic spectrum space: concepts, frameworks, and key technologies[J]. Journal of National University of Defense Technology, 2026, 48(4)： 17-28.
 电磁频谱空间具身智能认知：概念、框架和关键技术
@@ -1097,7 +962,7 @@ linyun@hrbeu.edu.cn
 林云（1979—），男，黑龙江哈尔滨人，教授，博士，博士生导师，E-mail: linyun@hrbeu.edu.cn
 中图分类号:
 TM15;TP18
-文献标志码:
+文献标识码:
 A
 文章编号:
 1001-2486(2026)04-017-12
@@ -1107,7 +972,7 @@ Lin Yun
 Role:
 First Author
 Affiliation:
-1. College of Information and C</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260402?st=search&amp;amp;tab=abstract&lt;/p&gt;&lt;pre&gt;电磁频谱空间具身智能认知:概念、框架和关键技术
+1. College of Information </description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260402?st=search&amp;amp;tab=abstract&lt;/p&gt;&lt;pre&gt;电磁频谱空间具身智能认知:概念、框架和关键技术
 EI•CA•INSPEC•JST•SCOPUS
 中文核心期刊•CSCD•WJCI
 首页
@@ -1137,7 +1002,7 @@ Deepseek
 Kimi
 English
 引用本文:
-林云,查浩然,尚佳颖,等. 电磁频谱空间具身智能认知:概念、框架和关键技术[J]. 国防科技大学学报,2026,48(4):17-28.
+林云, 查浩然, 尚佳颖, 等. 电磁频谱空间具身智能认知：概念、框架和关键技术[J]. 国防科技大学学报, 2026, 48(4)：17-28.
 Citation:
 Lin Yun, Zha Haoran, Shang Jiaying, et al. Embodied intelligence cognition in electromagnetic spectrum space: concepts, frameworks, and key technologies[J]. Journal of National University of Defense Technology, 2026, 48(4)： 17-28.
 电磁频谱空间具身智能认知：概念、框架和关键技术
@@ -1192,7 +1057,7 @@ linyun@hrbeu.edu.cn
 林云（1979—），男，黑龙江哈尔滨人，教授，博士，博士生导师，E-mail: linyun@hrbeu.edu.cn
 中图分类号:
 TM15;TP18
-文献标志码:
+文献标识码:
 A
 文章编号:
 1001-2486(2026)04-017-12
@@ -2023,107 +1888,107 @@ Fig.
 7
 Schematic diagram of the evolution of embodied electromagnetic knowledge
 [1]
-崔翠梅, 殷昌永, 杨德智. 未来复杂网络环境下动态频谱高效感知技术研究进展[J]. 电讯技术, 2025, 65(4): 634-641.
-Cui Cuimei, Yin Changyong, Yang Dezhi. Dynamic spectrum efficient sensing under future complex network environments: state-of-the-art and recent advances[J]. Telecommunication Engineering, 2025, 65(4): 634-641.(in Chinese)
+崔翠梅, 殷昌永, 杨德智. 未来复杂网络环境下动态频谱高效感知技术研究进展[J]. 电讯技术,2025,65(4):634-641.
+Cui Cuimei, Yin Changyong, Yang Dezhi. Dynamic spectrum efficient sensing under future complex network environments:state-of-the-art and recent advances[J]. Telecommunication Engineering,2025,65(4):634-641.(in Chinese)
 [2]
-李增艺. 基于视觉反馈和行为树的无人机具身智能控制算法[J]. 铁道建筑技术, 2025(4): 214-218.
-Li Zengyi. A visual feedback and behavior tree-based embodied intelligence control algorithm for UAVs[J]. Railway Construction Technology, 2025(4): 214-218.(in Chinese)
+李增艺. 基于视觉反馈和行为树的无人机具身智能控制算法[J]. 铁道建筑技术,2025(4):214-218.
+Li Zengyi. A visual feedback and behavior tree-based embodied intelligence control algorithm for UAVs[J]. Railway Construction Technology,2025(4):214-218.(in Chinese)
 [3]
-金立民, 王海超, 谷江春, 等. 低空具身智能频谱管控技术研究[J]. 数据采集与处理, 2025, 40(1): 45-55.
-Jin Limin, Wang Haichao, Gu Jiangchun, et al. Research on low-altitude embodied artificial intelligence-enabled spectrum management and control technology[J]. Journal of Data Acquisition and Processing, 2025, 40(1): 45-55.(in Chinese)
+金立民, 王海超, 谷江春, 等. 低空具身智能频谱管控技术研究[J]. 数据采集与处理,2025,40(1):45-55.
+Jin Limin, Wang Haichao, Gu Jiangchun,et al. Research on low-altitude embodied artificial intelligence-enabled spectrum management and control technology[J]. Journal of Data Acquisition and Processing,2025,40(1):45-55.(in Chinese)
 [4]
-王雪松, 李健兵, 徐丰, 等. 电磁空间信息资源的认知与利用[J]. 中国科学基金, 2021, 35(5): 682-687.
-Wang Xuesong, Li Jianbing, Xu Feng, et al. Cognition and utilization of electromagnetic space information resources[J]. Bulletin of National Natural Science Foundation of China, 2021, 35(5): 682-687.(in Chinese)
+王雪松, 李健兵, 徐丰, 等. 电磁空间信息资源的认知与利用[J]. 中国科学基金,2021,35(5):682-687.
+Wang Xuesong, Li Jianbing, Xu Feng,et al. Cognition and utilization of electromagnetic space information resources[J]. Bulletin of National Natural Science Foundation of China,2021,35(5):682-687.(in Chinese)
 [5]
-吕伟, 王劲松, 李强. 复杂电磁环境下海战场电磁频谱战问题探析[C]//第十二届中国指挥控制大会论文集（上册）, 2024: 111-115.
-Lü Wei, Wang Jinsong, Li Qiang. Analysis of the electromagnetic spectrum operations problem on the sea battlefield in the complex electromagnetic environment[C]//The Twelfth Chinese Institute of Command and Control(Upper Volume), 2024: 111-115.(in Chinese)
+吕伟, 王劲松, 李强. 复杂电磁环境下海战场电磁频谱战问题探析[C]//第十二届中国指挥控制大会论文集（上册）,2024:111-115.
+Lü Wei, Wang Jinsong, Li Qiang. Analysis of the electromagnetic spectrum operations problem on the sea battlefield in the complex electromagnetic environment[C]//The Twelfth Chinese Institute of Command and Control(Upper Volume),2024:111-115.(in Chinese)
 [6]
-谢春茂, 张川, 黄明, 等. 电磁频谱空间应用及发展趋势综述[J]. 电子科技大学学报, 2024, 53(2): 161-173.
-Xie Chunmao, Zhang Chuan, Huang Ming, et al. A review of the applications and development trends of electromagnetic spectrum space[J]. Journal of University of Electronic Science and Technology of China, 2024, 53(2): 161-173.(in Chinese)
+谢春茂, 张川, 黄明, 等. 电磁频谱空间应用及发展趋势综述[J]. 电子科技大学学报,2024,53(2):161-173.
+Xie Chunmao, Zhang Chuan, Huang Ming,et al. A review of the applications and development trends of electromagnetic spectrum space[J]. Journal of University of Electronic Science and Technology of China,2024,53(2):161-173.(in Chinese)
 [7]
-张思成, 林云, 涂涯, 等. 基于轻量级深度神经网络的电磁信号调制识别技术[J]. 通信学报, 2020, 41(11): 12-21.
-Zhang Sicheng, Lin Yun, Tu Ya, et al. Electromagnetic signal modulation recognition technology based on lightweight deep neural network[J]. Journal on Communications, 2020, 41(11): 12-21.(in Chinese)
+张思成, 林云, 涂涯, 等. 基于轻量级深度神经网络的电磁信号调制识别技术[J]. 通信学报,2020,41(11):12-21.
+Zhang Sicheng, Lin Yun, Tu Ya,et al. Electromagnetic signal modulation recognition technology based on lightweight deep neural network[J]. Journal on Communications,2020,41(11):12-21.(in Chinese)
 [8]
-查浩然, 刘畅, 王巨震, 等. 面向无人机辐射源个体识别的域适应模型设计[J]. 信号处理, 2024, 40(4): 650-660.
-Zha Haoran, Liu Chang, Wang Juzhen, et al. Design of domain-adaptation model for specific emitter identification of UAV signal[J]. Journal of Signal Processing, 2024, 40(4): 650-660.(in Chinese)
+查浩然, 刘畅, 王巨震, 等. 面向无人机辐射源个体识别的域适应模型设计[J]. 信号处理,2024,40(4):650-660.
+Zha Haoran, Liu Chang, Wang Juzhen,et al. Design of domain-adaptation model for specific emitter identification of UAV signal[J]. Journal of Signal Processing,2024,40(4):650-660.(in Chinese)
 [9]
-Zhang Yixuan, Luo Zhongqiang. A review of research on spectrum sensing based on deep learning[J]. Electronics, 2023, 12(21): 4514.
+Zhang Yixuan, Luo Zhongqiang. A review of research on spectrum sensing based on deep learning[J]. Electronics,2023,12(21):4514.
 [10]
-周博, 马欣怡, 况婷妍, 等. 电磁频谱空间态势认知新范式: 频谱语义和频谱行为[J]. 数据采集与处理, 2022, 37(6): 1198-1207.
-Zhou Bo, Ma Xinyi, Kuang Tingyan, et al. New paradigm of electromagnetic spectrum space situation cognition: spectrum semantic and spectrum behavior[J]. Journal of Data Acquisition and Processing, 2022, 37(6): 1198-1207.(in Chinese)
+周博, 马欣怡, 况婷妍, 等. 电磁频谱空间态势认知新范式: 频谱语义和频谱行为[J]. 数据采集与处理,2022,37(6):1198-1207.
+Zhou Bo, Ma Xinyi, Kuang Tingyan,et al. New paradigm of electromagnetic spectrum space situation cognition:spectrum semantic and spectrum behavior[J]. Journal of Data Acquisition and Processing,2022,37(6):1198-1207.(in Chinese)
 [11]
-张宁, 周正廉, 张祖尧. 美军全球电磁频谱信息系统发展现状与趋势[J]. 电讯技术, 2021, 61(6): 780-784.
-Zhang Ning, Zhou Zhenglian, Zhang Zuyao. Developing progress and trends of U. S.global electromagnetic spectrum information system(GEMSIS)[J]. Telecommunication Engineering, 2021, 61(6): 780-784.(in Chinese)
+张宁, 周正廉, 张祖尧. 美军全球电磁频谱信息系统发展现状与趋势[J]. 电讯技术,2021,61(6):780-784.
+Zhang Ning, Zhou Zhenglian, Zhang Zuyao. Developing progress and trends of U. S.global electromagnetic spectrum information system(GEMSIS)[J]. Telecommunication Engineering,2021,61(6):780-784.(in Chinese)
 [12]
-Ji Hao, Wan Tao, Xiong Wan′an, et al. A method for specific emitter identification based on surrounding-line bispectrum and convolutional neural network[C]//2020 IEEE 3rd International Conference on Automation, Electronics and Electrical Engineering(AUTEEE), 2020: 328-332.
+Ji Hao, Wan Tao, Xiong Wan′an,et al. A method for specific emitter identification based on surrounding-line bispectrum and convolutional neural network[C]//2020 IEEE 3rd International Conference on Automation, Electronics and Electrical Engineering(AUTEEE),2020:328-332.
 [13]
-李昆, 朱卫纲. 一种深度学习的雷达辐射源识别方法[J]. 电子设计工程, 2020, 28(12): 99-104.
-Li Kun, Zhu Weigang. Radar emitter identification method based on deep learning[J]. Electronic Design Engineering, 2020, 28(12): 99-104.(in Chinese)
+李昆, 朱卫纲. 一种深度学习的雷达辐射源识别方法[J]. 电子设计工程,2020,28(12):99-104.
+Li Kun, Zhu Weigang. Radar emitter identification method based on deep learning[J]. Electronic Design Engineering,2020,28(12):99-104.(in Chinese)
 [14]
-Jain A, Ahmad Awan A, Anthony Q, et al. Performance characterization of DNN training using TensorFlow and PyTorch on modern clusters[C]//2019 IEEE International Conference on Cluster Computing(CLUSTER), 2019: 1-11.
+Jain A, Ahmad Awan A, Anthony Q,et al. Performance characterization of DNN training using TensorFlow and PyTorch on modern clusters[C]//2019 IEEE International Conference on Cluster Computing(CLUSTER),2019:1-11.
 [15]
-张彦龙, 张登福, 王世强, 等. 基于S变换的雷达脉内调制特征提取方法[J]. 电子技术应用, 2012, 38(10): 112-115.
-Zhang Yanlong, Zhang Dengfu, Wang Shiqiang, et al. Extraction of the in-pulse features of radar signal based on S transform[J]. Application of Electronic Technique, 2012, 38(10): 112-115.(in Chinese)
+张彦龙, 张登福, 王世强, 等. 基于S变换的雷达脉内调制特征提取方法[J]. 电子技术应用,2012,38(10):112-115.
+Zhang Yanlong, Zhang Dengfu, Wang Shiqiang,et al. Extraction of the in-pulse features of radar signal based on S transform[J]. Application of Electronic Technique,2012,38(10):112-115.(in Chinese)
 [16]
-Wang Liu, Chen Guifen. An efficient implementation method for distributed fusion in sensor networks based on CPHD filters[J]. Sensors, 2023, 24(1): 117.
+Wang Liu, Chen Guifen. An efficient implementation method for distributed fusion in sensor networks based on CPHD filters[J]. Sensors,2023,24(1):117.
 [17]
-Lan Lan, Wei Guolian, Ding Derui. Distributed fusion with unknown inputs under bandwidth-aware event-triggered mechanisms: monotonicity and boundedness[J]. IEEE Transactions on Signal and Information Processing over Networks, 2023, 9: 521-530.
+Lan Lan, Wei Guolian, Ding Derui. Distributed fusion with unknown inputs under bandwidth-aware event-triggered mechanisms:monotonicity and boundedness[J]. IEEE Transactions on Signal and Information Processing over Networks,2023,9:521-530.
 [18]
-Ding Xiaojin, Feng Lijie, Zou Yulong, et al. Deep learning aided spectrum prediction for satellite communication systems[J]. IEEE Transactions on Vehicular Technology, 2020, 69(12): 16314-16319.
+Ding Xiaojin, Feng Lijie, Zou Yulong,et al. Deep learning aided spectrum prediction for satellite communication systems[J]. IEEE Transactions on Vehicular Technology,2020,69(12):16314-16319.
 [19]
-王金龙, 徐煜华, 陈瑾. 无线通信网络智能频谱协同与对抗[J]. 中国科学: 信息科学, 2020, 50(11): 1767-1780.
-Wang Jinlong, Xu Yuhua, Chen Jin. Intelligent spectrum collaboration and confrontation in wireless communication networks[J]. Scientia Sinica(Informationis), 2020, 50(11): 1767-1780.(in Chinese)
+王金龙, 徐煜华, 陈瑾. 无线通信网络智能频谱协同与对抗[J]. 中国科学: 信息科学,2020,50(11):1767-1780.
+Wang Jinlong, Xu Yuhua, Chen Jin. Intelligent spectrum collaboration and confrontation in wireless communication networks[J]. Scientia Sinica(Informationis),2020,50(11):1767-1780.(in Chinese)
 [20]
-Li Daofeng, Xu Yamei, Zhao Ming, et al. Knowledge-driven machine learning and applications in wireless communications[J]. IEEE Transactions on Cognitive Communications and Networking, 2021, 8(2): 454-467.
+Li Daofeng, Xu Yamei, Zhao Ming,et al. Knowledge-driven machine learning and applications in wireless communications[J]. IEEE Transactions on Cognitive Communications and Networking,2021,8(2):454-467.
 [21]
-Ding Guoru, Jiao Yutao, Wang Jinlong, et al. Spectrum inference in cognitive radio networks: algorithms and applications[J]. IEEE Communications Surveys &amp;amp; Tutorials, 2018, 20(1): 150-182.
+Ding Guoru, Jiao Yutao, Wang Jinlong,et al. Spectrum inference in cognitive radio networks:algorithms and applications[J]. IEEE Communications Surveys &amp;amp; Tutorials,2018,20(1):150-182.
 [22]
-Han Mingjing, Zhang Han, Li Wei, et al. Semantic-guided graph neural network for heterogeneous graph embedding[J]. Expert Systems with Applications, 2023, 232: 120810.
+Han Mingjing, Zhang Han, Li Wei,et al. Semantic-guided graph neural network for heterogeneous graph embedding[J]. Expert Systems with Applications,2023,232:120810.
 [23]
-Clark B, Mcnamara W M, Walton T A. Winning the invisible war: gaining an enduring US advantage in the electromagnetic spectrum[EB/OL].(2019-11-20)[2025-05-01].https: //csbaonline.org/research/publications/winning-the-invisible-war-gaining-an-enduring-u.s-advantage-in-the-electromagnetic-spectrum.
+Clark B, Mcnamara W M, Walton T A. Winning the invisible war:gaining an enduring US advantage in the electromagnetic spectrum[EB/OL].(2019-11-20)[2025-05-01].https://csbaonline.org/research/publications/winning-the-invisible-war-gaining-an-enduring-u.s-advantage-in-the-electromagnetic-spectrum.
 [24]
-Shang Bodong, Marojevic V, Yi Yang, et al. Spectrum sharing for UAV communications: spatial spectrum sensing and open issues[J]. IEEE Vehicular Technology Magazine, 2020, 15(2): 104-112.
+Shang Bodong, Marojevic V, Yi Yang,et al. Spectrum sharing for UAV communications:spatial spectrum sensing and open issues[J]. IEEE Vehicular Technology Magazine,2020,15(2):104-112.
 [25]
-Gul N, Been G, Kim S M, et al. Unmanned aerial vehicle based adaptive spectrum sensing for cognitive radio systems[C]//2024 IEEE VTS Asia Pacific Wireless Communications Symposium(APWCS), 2024: 1-6.
+Gul N, Been G, Kim S M,et al. Unmanned aerial vehicle based adaptive spectrum sensing for cognitive radio systems[C]//2024 IEEE VTS Asia Pacific Wireless Communications Symposium(APWCS),2024:1-6.
 [26]
-周伟江, 秦大国, 刘甲. 复杂电磁环境中智能决策对抗技术的应用[J]. 航天电子对抗, 2020, 36(2): 45-50.
-Zhou Weijiang, Qin Daguo, Liu Jia. Application of intelligent decision countermeasure technology in complex electromagnetic environment[J]. Aerospace Electronic Warfare, 2020, 36(2): 45-50.(in Chinese)
+周伟江, 秦大国, 刘甲. 复杂电磁环境中智能决策对抗技术的应用[J]. 航天电子对抗,2020,36(2):45-50.
+Zhou Weijiang, Qin Daguo, Liu Jia. Application of intelligent decision countermeasure technology in complex electromagnetic environment[J]. Aerospace Electronic Warfare,2020,36(2):45-50.(in Chinese)
 [27]
-Ren Lei, Dong Jiabao, Liu Shuai, et al. Embodied intelligence toward future smart manufacturing in the era of AI foundation model[J]. IEEE/ASME Transactions on Mechatronics, 2025, 30(4): 2632-2642.
+Ren Lei, Dong Jiabao, Liu Shuai,et al. Embodied intelligence toward future smart manufacturing in the era of AI foundation model[J]. IEEE/ASME Transactions on Mechatronics,2025,30(4):2632-2642.
 [28]
-Krop P, Obremski D, Carolus A, et al. My co-worker ChatGPT: development of an XR application for embodied artificial intelligence in work environments[C]//2025 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops(VRW), 2025: 1646-1647.
+Krop P, Obremski D, Carolus A,et al. My co-worker ChatGPT:development of an XR application for embodied artificial intelligence in work environments[C]//2025 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops(VRW),2025:1646-1647.
 [29]
-Li Wei, Wu Wenjun, Wang Huaimin, et al. Crowd intelligence in AI 2.0 era[J]. Frontiers of Information Technology &amp;amp; Electronic Engineering, 2017, 18(1): 15-43.
+Li Wei, Wu Wenjun, Wang Huaimin,et al. Crowd intelligence in AI 2.0 era[J]. Frontiers of Information Technology &amp;amp; Electronic Engineering,2017,18(1):15-43.
 [30]
-Tian Yonglin, Li Xuan, Zhang Hui, et al. VistaGPT: generative parallel transformers for vehicles with intelligent systems for transport automation[J]. IEEE Transactions on Intelligent Vehicles, 2023, 8(9): 4198-4207.
+Tian Yonglin, Li Xuan, Zhang Hui,et al. VistaGPT:generative parallel transformers for vehicles with intelligent systems for transport automation[J]. IEEE Transactions on Intelligent Vehicles,2023,8(9):4198-4207.
 [31]
-Wang Feiyue, Miao Qinghai, Li Xuan, et al. What does ChatGPT say: the DAO from algorithmic intelligence to linguistic intelligence[J]. IEEE/CAA Journal of Automatica Sinica, 2023, 10(3): 575-579.
+Wang Feiyue, Miao Qinghai, Li Xuan,et al. What does ChatGPT say:the DAO from algorithmic intelligence to linguistic intelligence[J]. IEEE/CAA Journal of Automatica Sinica,2023,10(3):575-579.
 [32]
-Wang Yutong, Wang Xiao, Wang Xingxia, et al. The ChatGPT after: building knowledge factories for knowledge workers with knowledge automation[J]. IEEE/CAA Journal of Automatica Sinica, 2023, 10(11): 2041-2044.
+Wang Yutong, Wang Xiao, Wang Xingxia,et al. The ChatGPT after:building knowledge factories for knowledge workers with knowledge automation[J]. IEEE/CAA Journal of Automatica Sinica,2023,10(11):2041-2044.
 [33]
-Mcneely-White D G, Ortega F R, Beveridge J R, et al. User-aware shared perception for embodied agents[C]//The IEEE International Conference on Humanized Computing and Communication(HCC), 2019: 46-51.
+Mcneely-White D G, Ortega F R, Beveridge J R,et al. User-aware shared perception for embodied agents[C]//The IEEE International Conference on Humanized Computing and Communication(HCC),2019:46-51.
 [34]
-胡安华. 首入《政府工作报告》, 具身智能何以竞速未来[J]. 城市周刊, 2025(18): 4-6.
-HU Anhua. First entry into the government work report, how embodied intelligence competes for the future[J]. City Weekly, 2025(18): 4-6.(in Chinese)
+胡安华. 首入《政府工作报告》, 具身智能何以竞速未来[J]. 城市周刊,2025(18):4-6.
+HU Anhua. First entry into the government work report,how embodied intelligence competes for the future[J]. City Weekly,2025(18):4-6.(in Chinese)
 [35]
-陶永, 万嘉昊, 王田苗, 等. 构建具身智能新范式: 人形机器人技术现状及发展趋势综述[J]. 机械工程学报, 2025, 61(15): 121-147.
-Tao Yong, Wan Jiahao, Wang Tianmiao, et al. Establishing a new paradigm of embodied intelligence: a review of the current status and development trends in humanoid robot technology[J]. Journal of Mechanical Engineering, 2025, 61(15): 121-147.(in Chinese)
+陶永, 万嘉昊, 王田苗, 等. 构建具身智能新范式: 人形机器人技术现状及发展趋势综述[J]. 机械工程学报,2025,61(15):121-147.
+Tao Yong, Wan Jiahao, Wang Tianmiao,et al. Establishing a new paradigm of embodied intelligence:a review of the current status and development trends in humanoid robot technology[J]. Journal of Mechanical Engineering,2025,61(15):121-147.(in Chinese)
 [36]
-李颂元, 朱祥维, 李玺. 基座模型技术背景下的具身智能体综述[J]. 浙江大学学报(工学版), 2025, 59(2): 213-226, 268.
-Li Songyuan, Zhu Xiangwei, Li Xi. Survey of embodied agent in context of foundation model[J]. Journal of Zhejiang University(Engineering Science), 2025, 59(2): 213-226, 268.(in Chinese)
+李颂元, 朱祥维, 李玺. 基座模型技术背景下的具身智能体综述[J]. 浙江大学学报(工学版),2025,59(2):213-226,268.
+Li Songyuan, Zhu Xiangwei, Li Xi. Survey of embodied agent in context of foundation model[J]. Journal of Zhejiang University(Engineering Science),2025,59(2):213-226,268.(in Chinese)
 [37]
-陈铂垒, 康嘉绪, 钟萍, 等. 面向具身人工智能的物体目标导航综述[J]. 软件学报, 2025, 36(4): 1715-1757.
-Chen Bolei, Kang Jiaxu, Zhong Ping, et al. Survey on object goal navigation for embodied AI[J]. Journal of Software, 2025, 36(4): 1715-1757.(in Chinese)
+陈铂垒, 康嘉绪, 钟萍, 等. 面向具身人工智能的物体目标导航综述[J]. 软件学报,2025,36(4):1715-1757.
+Chen Bolei, Kang Jiaxu, Zhong Ping,et al. Survey on object goal navigation for embodied AI[J]. Journal of Software,2025,36(4):1715-1757.(in Chinese)
 [38]
-王文晟, 谭宁, 黄凯, 等. 基于大模型的具身智能系统综述[J]. 自动化学报, 2025, 51(1): 1-19.
-Wang Wensheng, Tan Ning, Huang Kai, et al. Embodied intelligence systems based on large models: a survey[J]. Acta Automatica Sinica, 2025, 51(1): 1-19.(in Chinese)
+王文晟, 谭宁, 黄凯, 等. 基于大模型的具身智能系统综述[J]. 自动化学报,2025,51(1):1-19.
+Wang Wensheng, Tan Ning, Huang Kai,et al. Embodied intelligence systems based on large models:a survey[J]. Acta Automatica Sinica,2025,51(1):1-19.(in Chinese)
 [39]
-Liu Huaping, Guo Di, Cangelosi A. Embodied intelligence: a synergy of morphology, action, perception and learning[J]. ACM Computing Surveys, 2025, 57(7): 186.
+Liu Huaping, Guo Di, Cangelosi A. Embodied intelligence:a synergy of morphology,action,perception and learning[J]. ACM Computing Surveys,2025,57(7):186.
 [40]
-He Qi, Zhang Yue, Chen Zhi. Joint transmission and understanding of semantics with edge intelligence[C]//ICC 2023-IEEE International Conference on Communications, 2023: 858-863.
+He Qi, Zhang Yue, Chen Zhi. Joint transmission and understanding of semantics with edge intelligence[C]//ICC 2023-IEEE International Conference on Communications,2023:858-863.
 [41]
-沈甜雨, 陶子锐, 王亚东, 等. 具身智能研究的关键问题: 自主感知、行动与进化[J]. 自动化学报, 2025, 51(1): 43-71.
-Shen Tianyu, Tao Zirui, Wang Yadong, et al. Key problems of embodied intelligence research: autonomous perception, action, and evolution[J]. Acta Automatica Sinica, 2025, 51(1): 43-71.(in Chinese)
+沈甜雨, 陶子锐, 王亚东, 等. 具身智能研究的关键问题: 自主感知、行动与进化[J]. 自动化学报,2025,51(1):43-71.
+Shen Tianyu, Tao Zirui, Wang Yadong,et al. Key problems of embodied intelligence research:autonomous perception,action,and evolution[J]. Acta Automatica Sinica,2025,51(1):43-71.(in Chinese)
 PDF下载
 XML下载
 导出引用
@@ -2131,19 +1996,15 @@ XML下载
 图(7)
 手机扫码阅读
 引用本文
-林云,查浩然,尚佳颖,等. 电磁频谱空间具身智能认知:概念、框架和关键技术[J]. 国防科技大学学报,2026,48(4):17-28.
+林云, 查浩然, 尚佳颖, 等. 电磁频谱空间具身智能认知：概念、框架和关键技术[J]. 国防科技大学学报, 2026, 48(4)：17-28.
 复制
 Lin Yun, Zha Haoran, Shang Jiaying, et al. Embodied intelligence cognition in electromagnetic spectrum space: concepts, frameworks, and key technologies[J]. Journal of National University of Defense Technology, 2026, 48(4)： 17-28.
 Copy
 计量
 文章访问量:
-339
 HTML全文浏览量:
-319
 PDF下载量:
-404
 被引次数:
-0
 图
 1
 电磁频谱空间认知背景
@@ -2255,7 +2116,7 @@ Shen Tianyu, Tao Zirui, Wang Yadong,et al. Key problems of embodied intelligence
 扫码关注
 官方微信
 您是今天第
-16372
+712
 位访客
 总访问量：
 256260297
@@ -3118,6 +2979,85 @@ LI Z G, CHEN Z S. Distributions of the electron in the interactions between high
 YUAN Z C, SHI J M. Theoretical and numerical studies on interactions between high-power microwave and plasma[J]. Acta Physica Sinica, 2014, 63(9): 255-264.(in Chinese)
 [12]
 HE W, LIU X H, XIAN R C, et al. Kinetics characteristics and bremsstrahlung of argon DC discharge under atmospheric pressure[J]. Plasma Science and Technology, 2013, 15(4): 335-342.
+[1]
+李志刚,邱志楠,汪家春,刘丽萍,王俊儒,陈宗胜.
+低温等离子体用于高功率微波防护研究
+[J].国防科技大学学报,2023,45(6):84-89.
+[2]
+李永忠,张亚洲,赫崇峻.
+用于高功率微波测量的电磁探针研究
+[J].国防科技大学学报,1999,21(5):72-74.
+[3]
+李志刚,陈宗胜.
+等离子体与高功率微波相互作用中电子分布特性
+[J].国防科技大学学报,2020,42(1):10-17.
+[4]
+刘洋,程立,汪家春,袁忠才,时家明.
+核电磁脉冲模拟器的电场特性及等离子体阵列的防护性能
+[J].国防科技大学学报,2018,40(4):41-46.
+[5]
+李志刚,程立,马志伟,汪家春,时家明.
+入射频率对高功率微波与等离子体相互作用的影响分析
+[J].国防科技大学学报,2018,40(4):47-52.
+[6]
+王贵林,张飞虎.
+微波铁氧体基片精密研抛技术研究
+[J].国防科技大学学报,2007,29(3):113-117.
+[7]
+张存波.
+微波脉冲对硅基双极型晶体管的损伤特性（高功率微波技术研究所专题组稿）
+[J].国防科技大学学报,2015,37(2).
+[8]
+林峥.
+高功率微波技术在军事上的应用
+[J].军事电子,1994(5):1-5.
+[9]
+陈凯柏,周晓东,高敏.
+毫米波引信高功率微波前门耦合效应研究
+[J].兵器装备工程学报,2020,41(2).
+[10]
+李战国 胡真闫学锋,孙小亮.
+等离子体技术在核化生洗消中的应用研究
+[J].防化研究,2007(2):61-64.
+[11]
+王运华.
+微波消解预处理技术用于食品微量元素分析的研究
+[J].兵团教育学院学报,2002,12(1):71-72.
+[12]
+刘春明.
+光学仪器综合封存防护技术研究
+[J].军械工程学院学报,1993(2).
+[13]
+令钧溥,王蕾,皮明瑶,贺军涛,陈冬群,王朗宁.
+美国反无人机高功率微波技术研究现状及启示
+[J].国防科技,2023(3):74-80.
+[14]
+王忠春,向红军,纵兆春.
+基于高压脉冲等离子体技术的TNT废水处理研究
+[J].军械工程学院学报,2013(4):75-78.
+[15]
+吴新贺,党方超.
+高功率微波空间相干合成基本原理与技术挑战
+[J].国防科技,2022(3):9-14.
+[16]
+复杂战场环境导弹发射装置隐身防护技术研究
+[J].现代防御技术
+[17]
+曹哲,柴振海,高红卫,鲁耀兵.
+分布式阵列相参合成雷达技术研究与试验
+[J].现代防御技术,2012,40(4):1-11.
+[18]
+王鹏,彭博,窦林涛.
+相控阵雷达外场试验目标模拟技术研究
+[J].指挥控制与仿真,2014,36(3).
+[19]
+舒楠,张厚,李圭源,徐海洋.
+X波段雷达前门防护技术研究
+[J].现代防御技术,2011,39(1):138-140,156.
+[20]
+郑翠娥,孙大军,张殿伦.
+一种基于超短基线的高精度多目标水声定位技术研究
+[J].海军工程大学学报,2007,19(2):12-16.
 PDF下载
 XML下载
 导出引用
@@ -3133,13 +3073,12 @@ LI Zhigang, QIU Zhinan, WANG Jiachun, et al. Study of high-power microwave prote
 Copy
 计量
 文章访问量:
-28915
+28919
 HTML全文浏览量:
-3613
+3617
 PDF下载量:
 9909
 被引次数:
-0
 图
 1
 高功率微波与柱状等离子体阵列相互作用的仿真计算模型示意图
@@ -3210,7 +3149,7 @@ HE W, LIU X H, XIAN R C,et al. Kinetics characteristics and bremsstrahlung of ar
 扫码关注
 官方微信
 您是今天第
-16372
+712
 位访客
 总访问量：
 256260297
