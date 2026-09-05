@@ -104,6 +104,8 @@ https://www.ncpssd.cn/sso/getTokenCurrentUser?ssoClient=wxEN
   getTokenCurrentUser
 https://www.ncpssd.cn/Literature/ancientbooklistNew?nav=5
   ancientbooklistNew
+https://www.ncpssd.cn/message?id=22235
+  习近平向第八届中俄能源商务论坛致贺信
 https://www.ncpssd.cn/js/jquery.hiSlider.js
   jquery.hiSlider.js
 https://www.ncpssd.cn/js/sensorsdata.min.js
@@ -112,8 +114,6 @@ https://www.ncpssd.cn/Literature/ancientbooklistNew
   ancientbooklistNew
 https://www.ncpssd.cn/message?id=22218
   习近平致电祝贺挪威国王哈康八世即位
-https://www.ncpssd.cn/message?id=22211
-  习近平抵达开罗对埃及进行国事访问
 https://www.ncpssd.cn/js/jquery.base64.js
   jquery.base64.js
 
@@ -161,6 +161,8 @@ https://www.ncpssd.cn/messages
 https://www.ncpssd.cn/message?id=22214
 https://www.ncpssd.cn/message?id=22213
 https://www.ncpssd.cn/message?id=22107
+https://www.ncpssd.cn/message?id=22235
+  习近平向第八届中俄能源商务论坛致贺信
 https://www.ncpssd.cn/message?id=22218
   习近平致电祝贺挪威国王哈康八世即位
 https://www.ncpssd.cn/message?id=22216
@@ -169,8 +171,6 @@ https://www.ncpssd.cn/message?id=22215
   习近平同埃及总统塞西会谈
 https://www.ncpssd.cn/message?id=22212
   习近平抵达埃及开罗国际机场发表书面讲话
-https://www.ncpssd.cn/message?id=22211
-  习近平抵达开罗对埃及进行国事访问
 https://www.ncpssd.cn/message?id=19563
   国家哲学社会科学文献中心发布最受欢迎期刊报告
 https://www.ncpssd.cn/message?id=19564
