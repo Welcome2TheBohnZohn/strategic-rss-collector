@@ -10,8 +10,6 @@ All links discovered: 530
 
 === MATCHED CANDIDATES ===
 
-http://www.81.cn/xx_207779/16483795.html
-  时政纪录片丨志合山海 大道同行——习近平主席出席上合组织峰会并访问吉尔吉斯斯坦、埃及纪实
 http://www.81.cn/ss_208539/16483929.html
   全民叙事+沉浸展演 “全民国防教育月”融媒体节目《同心筑国防》实现国防教育传播多维创新
 http://www.81.cn/wj_208567/16483443.html
@@ -54,8 +52,6 @@ http://www.81.cn/yw_208727/16483680.html
   习近平总书记的贺信激励广大少儿文艺工作者耕耘不辍奋发有为
 http://www.81.cn/yw_208727/16483843.html
   国际社会高度评价习近平主席出席2026年上海合作组织峰会
-http://www.81.cn/xx_207779/16483819.html
-  时政微观察丨“给孩子们讲好故事”，这封贺信饱含深情和期望
 http://www.81.cn/bz_208549/16481393.html
   "跟我上、看我的"，全军基层党员领导干部练兵备战挺膺担当
 http://www.81.cn/zq_208553/16475314.html
@@ -72,6 +68,8 @@ http://www.81.cn/tz/jdt_208572/16469164.html
   战舰踏浪砺剑远洋，海军第48批护航编队开展多项针对性训练
 http://www.81.cn/nb_208573/16476253.html
   联勤保障部队941医院重症医学科主任张瑛：人民军医为人民
+http://www.81.cn/tp_207717/jdt_207718/16483978.html
+  胜利的方向｜通道转兵：伟大转折的序曲，长征路上的紧急抉择
 http://www.81.cn/tj_208608/16469267.html
   总书记"推动海洋经济高质量发展"重要论述引领海洋强国建设
 http://www.81.cn/lb_208583/16481790.html
@@ -96,10 +94,10 @@ http://www.81.cn/js_208585/jdt_208586/16469323.html
   随军家属安置工作持续提质增效，一系列务实举措为军属解忧
 http://www.81.cn/yw_208727/16483861.html
   海军某基地聚力提升党委领战能力——以上率下 谋战抓训
+http://www.81.cn/xx_207779/16483949.html
+  青春华章丨“不断拓展实践育人和网络育人的空间和阵地”
 http://www.81.cn/ss_208539/16483939.html
   管理血脂，老年人要会吃“好脂肪” | 享银龄 护安康
-http://www.81.cn/ss_208539/16483852.html
-  和而不同 普惠包容——智库报告解析亚太共同体广阔前景
 http://www.81.cn/jw_208551/jdt_208552/16438857.html
   中央军委主席习近平签署命令 发布《军事理论工作条例》
 http://www.81.cn/hj_208557/16483862.html
@@ -110,6 +108,8 @@ http://www.81.cn/pl_208541/jdt_208542/16482818.html
   漫评丨硬给“反智宇宙”上新也骗不下去，绿营徒增笑耳！
 http://www.81.cn/wh_208575/jdt_208576/16483303.html
   我赴南苏丹维和医疗分队为战区军事参谋开展急救技能培训
+http://www.81.cn/yw_208727/16483864.html
+  设置复杂特情 摸清能力底数 野外驻训向极限要战斗力
 
 === ALL DISCOVERED LINKS ===
 
@@ -302,6 +302,12 @@ http://www.81.cn/syjdt/16483734.html
   胜利的回信丨那句冲锋在前的誓言，今天由“红十连”官兵继续作答
 http://www.81.cn/syjdt/16483825.html
   吉隆口岸核心区域上方的堰塞湖险情基本解除
+http://www.81.cn/xx_207779/16483950.html
+  新思想引领新征程丨书写新时代基层治理的民生答卷
+http://www.81.cn/xx_207779/16483949.html
+  青春华章丨“不断拓展实践育人和网络育人的空间和阵地”
+http://www.81.cn/xx_207779/16483948.html
+  此行间·众行致远！100秒看习近平繁忙的亚非之行
 http://www.81.cn/xx_207779/16483911.html
   习近平主席出席2026年上海合作组织峰会并对吉尔吉斯斯坦、埃及进行国事访问纪实
 http://www.81.cn/xx_207779/16483910.html
@@ -310,12 +316,6 @@ http://www.81.cn/xx_207779/16483909.html
   向新之翼丨为民族复兴贡献聪明才智
 http://www.81.cn/xx_207779/16483821.html
   【讲习所·美美与共】习近平：中埃要各美其美 做文明交流的榜样
-http://www.81.cn/xx_207779/16483820.html
-  全面从严治党，必须牵住责任制这个“牛鼻子”
-http://www.81.cn/xx_207779/16483819.html
-  时政微观察丨“给孩子们讲好故事”，这封贺信饱含深情和期望
-http://www.81.cn/xx_207779/16483795.html
-  时政纪录片丨志合山海 大道同行——习近平主席出席上合组织峰会并访问吉尔吉斯斯坦、埃及纪实
 http://tv.81.cn/jbmtd_211970/16483936.html
 https://weibo.com/jfjb
 http://www.81.cn/byds_206407/byds_206410/16483799.html
@@ -330,6 +330,8 @@ http://www.81.cn/byds_206407/byds_206410/16481554.html
   “龙吸水”丨看子母排水抢险车丝滑作业
 http://www.81.cn/byds_206407/byds_206410/16480351.html
   远火精准打击
+http://www.81.cn/fyr/16483955.html
+  卡塔尔首相兼外交大臣穆罕默德将访华
 http://www.81.cn/fyr/16483599.html
   国防部：任何“以武谋独”的企图都注定失败
 http://www.81.cn/fyr/16483600.html
@@ -350,8 +352,8 @@ http://www.81.cn/fyr/16483335.html
   墨西哥外长贝拉斯科将访华
 http://www.81.cn/fyr/16483152.html
   外交部：敦促日本当局同军国主义彻底切割
-http://www.81.cn/fyr/16483096.html
-  国台办：衷心感谢台湾各界人士和大陆台胞台企关心慰问泥石流灾情
+http://www.81.cn/ss_208539/16483956.html
+  万里边疆行｜边境线上的“绿色戍边答卷”
 http://www.81.cn/ss_208539/16483940.html
   瑞金至延安，长征出发地到落脚点高铁直达
 http://www.81.cn/ss_208539/16483933.html
@@ -372,8 +374,6 @@ http://www.81.cn/ss_208539/16483901.html
   研究称OpenAI智能体“劫持”网站开展“协作”
 http://www.81.cn/ss_208539/16483853.html
   APEC“深圳时间”：创新之城定义亚太合作新坐标
-http://www.81.cn/ss_208539/16483852.html
-  和而不同 普惠包容——智库报告解析亚太共同体广阔前景
 http://www.81.cn/zt/2023nzt/xxgcxjpxsdzgtsshzysxztjy/index.html
 http://www.81.cn/zt/2023nzt/flsxjjbnmbjkjcsjyljd/index.html
 http://www.81.cn/bz_208549/jdt_208550/16482566.html
@@ -431,7 +431,7 @@ http://www.81.cn/lj_208555/16483254.html
 http://www.81.cn/lj_208555/16483321.html
   新疆军区某团某营强化党委成员担当作为意识的一段经历
 http://www.81.cn/hj_208557/jdt_208558/16482546.html
-  军某支队组织直升机起降训练
+  海军某支队组织直升机起降训练
 http://www.81.cn/hj_208557/16483862.html
   海军某基地聚力提升党委领战能力——以上率下 谋战抓训
 http://www.81.cn/hj_208557/16482402.html
@@ -582,6 +582,8 @@ http://www.81.cn/ll_208543/16483449.html
   强军要论丨唤醒民众的伟大远征
 http://www.81.cn/pl_208541/jdt_208542/16482818.html
   漫评丨硬给“反智宇宙”上新也骗不下去，绿营徒增笑耳！
+http://www.81.cn/pl_208541/16483977.html
+  新华时评｜让新大众文艺在数智时代更好绽放光彩
 http://www.81.cn/pl_208541/16483696.html
   八一锐评丨用好考核指挥棒
 http://www.81.cn/pl_208541/16483531.html
@@ -590,8 +592,6 @@ http://www.81.cn/pl_208541/16483523.html
   闪评｜日本正通过三个途径系统性突破战后和平秩序
 http://www.81.cn/pl_208541/16483515.html
   褪去暴力外衣 潜入制度肌体——透视战后日本右翼势力的危险嬗变（铭记历史·捍卫和平）
-http://www.81.cn/pl_208541/16482645.html
-  军事论坛丨兼谈智能化战争中的人机边界
 http://www.81.cn/wh_208575/jdt_208576/16483303.html
   我赴南苏丹维和医疗分队为战区军事参谋开展急救技能培训
 http://www.81.cn/wh_208575/16481754.html
@@ -640,8 +640,8 @@ http://www.81.cn/yd_208600/16483225.html
   有用于世：提炼出一整套专属中国文明的地理标识体系
 http://www.81.cn/yd_208600/16483214.html
   读屏时代，依旧选择了诗歌这面照胆之镜拓印心头是非
-http://www.81.cn/tp_207717/jdt_207718/16483788.html
-  学习卡·长征百问（55）丨红军穿越的草地主要指哪里？
+http://www.81.cn/tp_207717/jdt_207718/16483978.html
+  胜利的方向｜通道转兵：伟大转折的序曲，长征路上的紧急抉择
 http://www.81.cn/tp_207717/16483826.html
   我在现场丨河谷深处，是无言的坚守与担当
 http://www.81.cn/tp_207717/16483481.html
@@ -825,10 +825,12 @@ http://www.81.cn/js_208585/16475740.html
   父爱无言却教会我坚强，给我迎难而上的勇气和力量
 http://www.81.cn/js_208585/16475738.html
   姥爷坚定、有力的脚步声给了他前行的力量
-http://eng.chinamil.com.cn/2025xb/H_251454/F_251457/16483663.html
-  MLRS, howitzers fire in training
+http://eng.chinamil.com.cn/2025xb/H_251454/F_251457/16483641.html
+  H-6 bomber flies over clouds
 http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16483814.html
   Xi urges greater efforts to nurture capable young people for socialist cause
+http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16483944.html
+  China's air force to attend air show in Egypt
 http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16483828.html
   5th China-Canada Defense Coordination Dialogue held in Canada
 http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16483619.html
@@ -837,8 +839,6 @@ http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16483613.html
   China to send troops to Russia for ADMM-Plus HMA demining exercise: Defense Spokesperson
 http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16482830.html
   China, Russia, Mongolia to hold Border Defense Cooperation 2026 joint exercise
-http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16483044.html
-  PLA conducts combat readiness patrols around Huangyan Dao
 http://eng.chinamil.com.cn/2025xb/B/16483803.html
   China, Russia, Mongolia Hold Border Defense Cooperation 2026 Joint Exercise
 http://eng.chinamil.com.cn/2025xb/B/16483384.html
@@ -1019,7 +1019,7 @@ http://www.81.cn/wh_208575/jdt_208576/_attachment/2026/08/27/16483303_8480946fc4
 http://www.81.cn/js_208592/jdt_208593/_attachment/2026/09/06/16483854_36d9b8a0d96d0ede5818bfb5ebe1ab15.jpg
 http://www.81.cn/wh_208594/jdt_208595/_attachment/2026/09/03/16483241_d5f77927bb2c10a056bfecacb85f363e.jpg
 http://www.81.cn/yd_208600/jdt_208601/_attachment/2026/08/24/16481019_eee4d1726412b21b24316f4547f42c6a.jpg
-http://www.81.cn/tp_207717/jdt_207718/_attachment/2026/08/28/16483788_dcbbb5ea670b78b291cb8ea29260b97f.jpg
+http://www.81.cn/tp_207717/jdt_207718/_attachment/2026/09/06/16483978_5670367e90af58a8b9c494035b0d0f3f.jpg
 http://www.81.cn/pk/jdt_208611/_attachment/2026/08/23/16480862_251e510cf176f2a74811743437d969e7.jpg
 http://www.81.cn/tj_208608/jdt_208609/_attachment/2026/07/23/16475418_f403e777ad55b3b7d864de8d71f6e34c.png
 http://www.81.cn/tj_208608/jdt_208609/_attachment/2026/06/18/16469262_13be2166427829116dbed2e2f6a00962.jpg
@@ -1037,7 +1037,7 @@ http://www.81.cn/wj_208604/jdt_208605/_attachment/2026/07/10/16472973_7b13b521e9
 http://www.81.cn/jy_208587/jdt_208588/_attachment/2026/09/03/16483237_c52847896daddf2b08e48a5b3888bcfd.jpg
 http://www.81.cn/lb_208583/jdt_208584/_attachment/2026/09/03/16483314_a3972639fdde9d03f7650159e732074a.jpg
 http://www.81.cn/js_208585/jdt_208586/_attachment/2026/05/26/16469323_1259bdded6780f0acacbf574df89b3e3.jpg
-http://www.81.cn/ChinaMilitary/tjtw/_attachment/2026/09/04/16483810_4899f87fe26e6a6e6f83f046d0ff8564.jpg
+http://www.81.cn/ChinaMilitary/tjtw/_attachment/2026/09/06/16483952_03bc9ad32df6cf881d24f23b99ce5b09.jpg
 http://mail.chinamil.com.cn/
 http://www.81.cn/template/tenant207/t829/css/footer.css
 http://www.81.cn/template/tenant207/t1774/js/javascript.js?v=3.0.3
