@@ -8,6 +8,6 @@ Source: https://t.me/mod_russia_en/29247
 Molniya-2 calls to surrender
 Our Molniya-2 drones deliver information strikes on the AFU positions. The Tsentr Group's unmanned systems units drop leaflets on enemy trenches offering voluntary surrender.
 📍
-Dobropolye area, DPR
+Dobropolye area, the DPR
 🔹
 Russian Defence Ministry
