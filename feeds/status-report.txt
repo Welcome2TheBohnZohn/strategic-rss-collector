@@ -1,5 +1,5 @@
 Strategic RSS Collector Status
-Generated: 2026-09-08 16:57:22 UTC
+Generated: 2026-09-08 21:25:26 UTC
 
 Status meanings:
 OK = Feed contains one or more items
@@ -121,7 +121,7 @@ FAILED = Source could not be retrieved
   HTTP: 200
   Links discovered: 68
   Candidate links/items: 50
-  Attempted items/articles: 12
+  Attempted items/articles: 13
   Items/articles with text: 12
   Items/articles with dates: 12
   RSS feed items: 12
@@ -135,10 +135,10 @@ FAILED = Source could not be retrieved
   Start URL: https://t.me/s/MFARussia
   Resolved URL: https://t.me/s/MFARussia
   HTTP: 200
-  Attempted items/articles: 11
-  Items/articles with text: 11
-  Items/articles with dates: 11
-  RSS feed items: 11
+  Attempted items/articles: 12
+  Items/articles with text: 12
+  Items/articles with dates: 12
+  RSS feed items: 12
   SSL verification: ON
   Request timeout: 20s
   Max retries: 2
