@@ -1,42 +1,44 @@
 Strategic RSS Collector Status
-Generated: 2026-09-08 04:52:12 UTC
+Generated: 2026-09-08 11:38:38 UTC
 
 Status meanings:
 OK = Feed contains one or more items
 FETCHED/NO ITEMS = Source loaded but no usable items were extracted
 FAILED = Source could not be retrieved
 
-[OK] mod-cn - China Ministry of National Defense
+[FAILED] mod-cn - China Ministry of National Defense
   Source type: html
   Start URL: https://www.mod.gov.cn/
-  Resolved URL: http://www.mod.gov.cn/
-  HTTP: 200
-  Links discovered: 241
-  Candidate links/items: 50
-  Attempted items/articles: 12
-  Items/articles with text: 12
-  Items/articles with dates: 12
-  RSS feed items: 12
+  Resolved URL: https://www.mod.gov.cn/
+  HTTP: None
+  Links discovered: 0
+  Candidate links/items: 0
+  Attempted items/articles: 0
+  Items/articles with text: 0
+  Items/articles with dates: 0
+  RSS feed items: 0
   SSL verification: OFF
   Request timeout: 12s
   Max retries: 1
   Retry backoff: 1s
+  Error: https://www.mod.gov.cn/ -> HTTPError: 567 Server Error: Unknown Status for url: https://www.mod.gov.cn/ | http://www.mod.gov.cn/ -> HTTPError: 567 Server Error: Unknown Status for url: http://www.mod.gov.cn/
 
-[OK] 81-cn - China Military Network 81.cn
+[FAILED] 81-cn - China Military Network 81.cn
   Source type: html
   Start URL: http://www.81.cn/?big=jian
   Resolved URL: http://www.81.cn/?big=jian
-  HTTP: 200
-  Links discovered: 530
-  Candidate links/items: 50
-  Attempted items/articles: 12
-  Items/articles with text: 12
-  Items/articles with dates: 12
-  RSS feed items: 12
+  HTTP: None
+  Links discovered: 0
+  Candidate links/items: 0
+  Attempted items/articles: 0
+  Items/articles with text: 0
+  Items/articles with dates: 0
+  RSS feed items: 0
   SSL verification: ON
   Request timeout: 30s
   Max retries: 4
   Retry backoff: 5s
+  Error: http://www.81.cn/?big=jian -> HTTPError: 567 Server Error: Unknown Status for url: http://www.81.cn/?big=jian | http://www.81.cn/ -> HTTPError: 567 Server Error: Unknown Status for url: http://www.81.cn/ | https://www.81.cn/?big=jian -> HTTPError: 567 Server Error: Unknown Status for url: https://www.81.cn/?big=jian | https://www.81.cn/ -> HTTPError: 567 Server Error: Unknown Status for url: https://www.81.cn/
 
 [OK] mil-ru-en - Russian Ministry of Defence English - Official Telegram
   Source type: telegram
@@ -66,44 +68,46 @@ FAILED = Source could not be retrieved
   Max retries: 1
   Retry backoff: 1s
 
-[OK] mod-whitepapers-cn - China MOD Defense White Papers
+[FAILED] mod-whitepapers-cn - China MOD Defense White Papers
   Source type: html
   Start URL: https://www.mod.gov.cn/gfbw/fgwx/bps/index.html
-  Resolved URL: http://www.mod.gov.cn/gfbw/fgwx/bps/index.html
-  HTTP: 200
-  Links discovered: 178
-  Candidate links/items: 28
-  Attempted items/articles: 12
-  Items/articles with text: 12
-  Items/articles with dates: 12
-  RSS feed items: 12
+  Resolved URL: https://www.mod.gov.cn/gfbw/fgwx/bps/index.html
+  HTTP: None
+  Links discovered: 0
+  Candidate links/items: 0
+  Attempted items/articles: 0
+  Items/articles with text: 0
+  Items/articles with dates: 0
+  RSS feed items: 0
   SSL verification: OFF
   Request timeout: 12s
   Max retries: 1
   Retry backoff: 1s
+  Error: https://www.mod.gov.cn/gfbw/fgwx/bps/index.html -> HTTPError: 567 Server Error: Unknown Status for url: https://www.mod.gov.cn/gfbw/fgwx/bps/index.html | http://www.mod.gov.cn/gfbw/fgwx/bps/index.html -> HTTPError: 567 Server Error: Unknown Status for url: http://www.mod.gov.cn/gfbw/fgwx/bps/index.html
 
-[OK] mod-laws-cn - China MOD Laws and Regulations
+[FAILED] mod-laws-cn - China MOD Laws and Regulations
   Source type: html
   Start URL: https://www.mod.gov.cn/gfbw/fgwx/flfg/index.html
-  Resolved URL: http://www.mod.gov.cn/gfbw/fgwx/flfg/index.html
-  HTTP: 200
-  Links discovered: 171
-  Candidate links/items: 31
-  Attempted items/articles: 12
-  Items/articles with text: 12
-  Items/articles with dates: 12
-  RSS feed items: 12
+  Resolved URL: https://www.mod.gov.cn/gfbw/fgwx/flfg/index.html
+  HTTP: None
+  Links discovered: 0
+  Candidate links/items: 0
+  Attempted items/articles: 0
+  Items/articles with text: 0
+  Items/articles with dates: 0
+  RSS feed items: 0
   SSL verification: OFF
   Request timeout: 12s
   Max retries: 1
   Retry backoff: 1s
+  Error: https://www.mod.gov.cn/gfbw/fgwx/flfg/index.html -> HTTPError: 567 Server Error: Unknown Status for url: https://www.mod.gov.cn/gfbw/fgwx/flfg/index.html | http://www.mod.gov.cn/gfbw/fgwx/flfg/index.html -> HTTPError: 567 Server Error: Unknown Status for url: http://www.mod.gov.cn/gfbw/fgwx/flfg/index.html
 
 [OK] npc-defense-laws-cn - National People's Congress Defense-Related Laws
   Source type: npc
   Start URL: https://flk.npc.gov.cn/law-search/search/list
   Resolved URL: https://flk.npc.gov.cn/law-search/search/list
   HTTP: 200
-  Links discovered: 1563
+  Links discovered: 1564
   Candidate links/items: 50
   Attempted items/articles: 12
   Items/articles with text: 12
@@ -135,10 +139,10 @@ FAILED = Source could not be retrieved
   Start URL: https://t.me/s/MFARussia
   Resolved URL: https://t.me/s/MFARussia
   HTTP: 200
-  Attempted items/articles: 8
-  Items/articles with text: 8
-  Items/articles with dates: 8
-  RSS feed items: 8
+  Attempted items/articles: 7
+  Items/articles with text: 7
+  Items/articles with dates: 7
+  RSS feed items: 7
   SSL verification: ON
   Request timeout: 20s
   Max retries: 2
@@ -253,21 +257,22 @@ FAILED = Source could not be retrieved
   Max retries: 1
   Retry backoff: 1s
 
-[OK] china-defense-news-cn - China National Defense News
+[FETCHED/NO ITEMS] china-defense-news-cn - China National Defense News
   Source type: newspaper
   Start URL: http://www.81.cn/szb_223187/gfbszblb/index.html
-  Resolved URL: http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-08&paperName=zggfb&paperNumber=01
-  HTTP: 200
-  Links discovered: 278
-  Candidate links/items: 13
-  Attempted items/articles: 12
-  Items/articles with text: 12
-  Items/articles with dates: 12
-  RSS feed items: 12
+  Resolved URL: None
+  HTTP: 567
+  Links discovered: 0
+  Candidate links/items: 0
+  Attempted items/articles: 0
+  Items/articles with text: 0
+  Items/articles with dates: 0
+  RSS feed items: 0
   SSL verification: ON
   Request timeout: 30s
   Max retries: 4
   Retry backoff: 5s
+  Error: No rendered China National Defense News issue with article links was found in the last 14 days.
 
 [OK] gfbzb-laws-cn - China Military Recruitment Laws and Regulations
   Source type: html
@@ -333,25 +338,24 @@ FAILED = Source could not be retrieved
   Max retries: 1
   Retry backoff: 1s
 
-[FAILED] cnnvd-cn - China National Vulnerability Database CNNVD
+[OK] cnnvd-cn - China National Vulnerability Database CNNVD
   Source type: cnnvd
   Start URL: https://www.cnnvd.org.cn/frontend/loophole
   Resolved URL: https://www.cnnvd.org.cn/frontend/loophole
-  HTTP: None
-  Links discovered: 0
-  Candidate links/items: 0
-  Attempted items/articles: 0
-  Items/articles with text: 0
-  Items/articles with dates: 0
-  RSS feed items: 0
+  HTTP: 200
+  Links discovered: 23
+  Candidate links/items: 10
+  Attempted items/articles: 10
+  Items/articles with text: 10
+  Items/articles with dates: 10
+  RSS feed items: 10
   SSL verification: ON
   Request timeout: 12s
   Max retries: 1
   Retry backoff: 1s
-  Error: https://www.cnnvd.org.cn/frontend/loophole -> HTTP 500 | https://www.cnnvd.org.cn/frontend/loophole -> HTTP 500 | https://www.cnnvd.org.cn/ -> HTTP 403 | https://www.cnnvd.org.cn/ -> HTTP 403
 
 SUMMARY
-Working: 20
-Fetched but no items: 0
-Failed: 2
+Working: 16
+Fetched but no items: 1
+Failed: 5
 Total sources: 22
