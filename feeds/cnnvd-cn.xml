@@ -1,62 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Tue, 08 Sep 2026 11:38:37 +0000</lastBuildDate><item><title>CNNVD-2026-62457973 - 389 Directory Server 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-62457973</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-62457973</guid><pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate><description>389 Directory Server 授权问题漏洞
-危害等级: 超危
-收录时间：2026-09-07 | 更新时间: 2026-09-08 15:03:38
-CNNVD编号: CNNVD-2026-62457973</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-62457973&lt;/p&gt;&lt;pre&gt;389 Directory Server 授权问题漏洞
-危害等级: 超危
-收录时间：2026-09-07 | 更新时间: 2026-09-08 15:03:38
-CNNVD编号: CNNVD-2026-62457973&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-32114277 - Advantech WISE-6610-NB 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-32114277</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-32114277</guid><pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate><description>Advantech WISE-6610-NB 输入验证错误漏洞
-危害等级: 高危
-收录时间：2026-09-07 | 更新时间: 2026-09-08 15:03:40
-CNNVD编号: CNNVD-2026-32114277</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-32114277&lt;/p&gt;&lt;pre&gt;Advantech WISE-6610-NB 输入验证错误漏洞
-危害等级: 高危
-收录时间：2026-09-07 | 更新时间: 2026-09-08 15:03:40
-CNNVD编号: CNNVD-2026-32114277&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-58966393 - MISP 信息泄露漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-58966393</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-58966393</guid><pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate><description>MISP 信息泄露漏洞
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Tue, 08 Sep 2026 16:57:22 +0000</lastBuildDate><item><title>CNNVD-2026-83547847 - JetBrains IntelliJ IDEA 信息泄露漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-83547847</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-83547847</guid><pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate><description>JetBrains IntelliJ IDEA 信息泄露漏洞
 危害等级: 低危
-收录时间：2026-09-07 | 更新时间: 2026-09-08 15:02:48
-CNNVD编号: CNNVD-2026-58966393</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-58966393&lt;/p&gt;&lt;pre&gt;MISP 信息泄露漏洞
+收录时间：2026-09-07 | 更新时间: 2026-09-08 15:02:25
+CNNVD编号: CNNVD-2026-83547847</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-83547847&lt;/p&gt;&lt;pre&gt;JetBrains IntelliJ IDEA 信息泄露漏洞
 危害等级: 低危
-收录时间：2026-09-07 | 更新时间: 2026-09-08 15:02:48
-CNNVD编号: CNNVD-2026-58966393&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-55787668 - MISP 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-55787668</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-55787668</guid><pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate><description>MISP 资源管理错误漏洞
-危害等级: 高危
-收录时间：2026-09-07 | 更新时间: 2026-09-08 15:02:48
-CNNVD编号: CNNVD-2026-55787668</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-55787668&lt;/p&gt;&lt;pre&gt;MISP 资源管理错误漏洞
-危害等级: 高危
-收录时间：2026-09-07 | 更新时间: 2026-09-08 15:02:48
-CNNVD编号: CNNVD-2026-55787668&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-80067909 - JetBrains YouTrack 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-80067909</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-80067909</guid><pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate><description>JetBrains YouTrack 授权问题漏洞
-危害等级: 超危
-收录时间：2026-09-07 | 更新时间: 2026-09-08 15:02:42
-CNNVD编号: CNNVD-2026-80067909</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-80067909&lt;/p&gt;&lt;pre&gt;JetBrains YouTrack 授权问题漏洞
-危害等级: 超危
-收录时间：2026-09-07 | 更新时间: 2026-09-08 15:02:42
-CNNVD编号: CNNVD-2026-80067909&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-67465076 - JetBrains YouTrack 权限许可和访问控制问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-67465076</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-67465076</guid><pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate><description>JetBrains YouTrack 权限许可和访问控制问题漏洞
-危害等级: 高危
-收录时间：2026-09-07 | 更新时间: 2026-09-08 15:02:42
-CNNVD编号: CNNVD-2026-67465076</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-67465076&lt;/p&gt;&lt;pre&gt;JetBrains YouTrack 权限许可和访问控制问题漏洞
-危害等级: 高危
-收录时间：2026-09-07 | 更新时间: 2026-09-08 15:02:42
-CNNVD编号: CNNVD-2026-67465076&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-75938449 - JetBrains YouTrack 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75938449</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75938449</guid><pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate><description>JetBrains YouTrack 跨站脚本漏洞
+收录时间：2026-09-07 | 更新时间: 2026-09-08 15:02:25
+CNNVD编号: CNNVD-2026-83547847&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-82541864 - JetBrains GoLand 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-82541864</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-82541864</guid><pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate><description>JetBrains GoLand 授权问题漏洞
 危害等级: 中危
-收录时间：2026-09-07 | 更新时间: 2026-09-08 15:02:41
-CNNVD编号: CNNVD-2026-75938449</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75938449&lt;/p&gt;&lt;pre&gt;JetBrains YouTrack 跨站脚本漏洞
+收录时间：2026-09-07 | 更新时间: 2026-09-08 15:02:19
+CNNVD编号: CNNVD-2026-82541864</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-82541864&lt;/p&gt;&lt;pre&gt;JetBrains GoLand 授权问题漏洞
 危害等级: 中危
-收录时间：2026-09-07 | 更新时间: 2026-09-08 15:02:41
-CNNVD编号: CNNVD-2026-75938449&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-95573454 - JetBrains YouTrack 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-95573454</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-95573454</guid><pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate><description>JetBrains YouTrack 授权问题漏洞
+收录时间：2026-09-07 | 更新时间: 2026-09-08 15:02:19
+CNNVD编号: CNNVD-2026-82541864&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-43453864 - Knowns.dev Knowns 路径遍历漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-43453864</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-43453864</guid><pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate><description>Knowns.dev Knowns 路径遍历漏洞
+危害等级: 高危
+收录时间：2026-09-07 | 更新时间: 2026-09-08 15:02:18
+CNNVD编号: CNNVD-2026-43453864</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-43453864&lt;/p&gt;&lt;pre&gt;Knowns.dev Knowns 路径遍历漏洞
+危害等级: 高危
+收录时间：2026-09-07 | 更新时间: 2026-09-08 15:02:18
+CNNVD编号: CNNVD-2026-43453864&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-98387526 - JetBrains IntelliJ IDEA 日志信息泄露漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-98387526</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-98387526</guid><pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate><description>JetBrains IntelliJ IDEA 日志信息泄露漏洞
 危害等级: 低危
-收录时间：2026-09-07 | 更新时间: 2026-09-08 15:02:35
-CNNVD编号: CNNVD-2026-95573454</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-95573454&lt;/p&gt;&lt;pre&gt;JetBrains YouTrack 授权问题漏洞
+收录时间：2026-09-07 | 更新时间: 2026-09-08 15:02:18
+CNNVD编号: CNNVD-2026-98387526</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-98387526&lt;/p&gt;&lt;pre&gt;JetBrains IntelliJ IDEA 日志信息泄露漏洞
 危害等级: 低危
-收录时间：2026-09-07 | 更新时间: 2026-09-08 15:02:35
-CNNVD编号: CNNVD-2026-95573454&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-81743593 - JetBrains YouTrack 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-81743593</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-81743593</guid><pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate><description>JetBrains YouTrack 授权问题漏洞
+收录时间：2026-09-07 | 更新时间: 2026-09-08 15:02:18
+CNNVD编号: CNNVD-2026-98387526&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-74093842 - Knowns.dev Knowns 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-74093842</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-74093842</guid><pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate><description>Knowns.dev Knowns 授权问题漏洞
+危害等级: 高危
+收录时间：2026-09-07 | 更新时间: 2026-09-08 15:02:15
+CNNVD编号: CNNVD-2026-74093842</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-74093842&lt;/p&gt;&lt;pre&gt;Knowns.dev Knowns 授权问题漏洞
+危害等级: 高危
+收录时间：2026-09-07 | 更新时间: 2026-09-08 15:02:15
+CNNVD编号: CNNVD-2026-74093842&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-15495377 - JetBrains YouTrack 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-15495377</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-15495377</guid><pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate><description>JetBrains YouTrack 授权问题漏洞
 危害等级: 中危
-收录时间：2026-09-07 | 更新时间: 2026-09-08 15:02:34
-CNNVD编号: CNNVD-2026-81743593</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-81743593&lt;/p&gt;&lt;pre&gt;JetBrains YouTrack 授权问题漏洞
+收录时间：2026-09-07 | 更新时间: 2026-09-08 15:02:26
+CNNVD编号: CNNVD-2026-15495377</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-15495377&lt;/p&gt;&lt;pre&gt;JetBrains YouTrack 授权问题漏洞
 危害等级: 中危
-收录时间：2026-09-07 | 更新时间: 2026-09-08 15:02:34
-CNNVD编号: CNNVD-2026-81743593&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-29503791 - JetBrains YouTrack 信息泄露漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-29503791</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-29503791</guid><pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate><description>JetBrains YouTrack 信息泄露漏洞
+收录时间：2026-09-07 | 更新时间: 2026-09-08 15:02:26
+CNNVD编号: CNNVD-2026-15495377&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-14782298 - JetBrains YouTrack 权限许可和访问控制问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-14782298</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-14782298</guid><pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate><description>JetBrains YouTrack 权限许可和访问控制问题漏洞
 危害等级: 中危
-收录时间：2026-09-07 | 更新时间: 2026-09-08 15:02:27
-CNNVD编号: CNNVD-2026-29503791</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-29503791&lt;/p&gt;&lt;pre&gt;JetBrains YouTrack 信息泄露漏洞
+收录时间：2026-09-07 | 更新时间: 2026-09-08 15:02:26
+CNNVD编号: CNNVD-2026-14782298</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-14782298&lt;/p&gt;&lt;pre&gt;JetBrains YouTrack 权限许可和访问控制问题漏洞
 危害等级: 中危
-收录时间：2026-09-07 | 更新时间: 2026-09-08 15:02:27
-CNNVD编号: CNNVD-2026-29503791&lt;/pre&gt;</content:encoded></item></channel></rss>
+收录时间：2026-09-07 | 更新时间: 2026-09-08 15:02:26
+CNNVD编号: CNNVD-2026-14782298&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-65057280 - JetBrains IntelliJ IDEA 服务端请求伪造漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-65057280</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-65057280</guid><pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate><description>JetBrains IntelliJ IDEA 服务端请求伪造漏洞
+危害等级: 低危
+收录时间：2026-09-07 | 更新时间: 2026-09-08 15:02:25
+CNNVD编号: CNNVD-2026-65057280</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-65057280&lt;/p&gt;&lt;pre&gt;JetBrains IntelliJ IDEA 服务端请求伪造漏洞
+危害等级: 低危
+收录时间：2026-09-07 | 更新时间: 2026-09-08 15:02:25
+CNNVD编号: CNNVD-2026-65057280&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-79154156 - HCL MyXalytics 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-79154156</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-79154156</guid><pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate><description>HCL MyXalytics 资源管理错误漏洞
+危害等级: 低危
+收录时间：2026-09-07 | 更新时间: 2026-09-08 15:04:50
+CNNVD编号: CNNVD-2026-79154156</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-79154156&lt;/p&gt;&lt;pre&gt;HCL MyXalytics 资源管理错误漏洞
+危害等级: 低危
+收录时间：2026-09-07 | 更新时间: 2026-09-08 15:04:50
+CNNVD编号: CNNVD-2026-79154156&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-15405452 - itsourcecode Information System Society Membership System 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-15405452</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-15405452</guid><pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate><description>itsourcecode Information System Society Membership System 输入验证错误漏洞
+危害等级: 低危
+收录时间：2026-09-07 | 更新时间: 2026-09-08 15:04:59
+CNNVD编号: CNNVD-2026-15405452</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-15405452&lt;/p&gt;&lt;pre&gt;itsourcecode Information System Society Membership System 输入验证错误漏洞
+危害等级: 低危
+收录时间：2026-09-07 | 更新时间: 2026-09-08 15:04:59
+CNNVD编号: CNNVD-2026-15405452&lt;/pre&gt;</content:encoded></item></channel></rss>
