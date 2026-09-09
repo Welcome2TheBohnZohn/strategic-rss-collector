@@ -80,6 +80,8 @@ https://www.ncpssd.cn/Literature/articleinfo
   articleinfo
 https://www.ncpssd.cn/topics/detailsList?id=4&wfColumn=1&resourceType=0
   建设中国特色新型智库
+https://www.ncpssd.cn/message?id=22240
+  在第四十二个教师节到来之际 习近平向全国广大教师和教育工作者致以节日祝贺和诚挚问候
 https://www.ncpssd.cn/message?id=18622
   积极助力现代公共文化服务体系建设 ——国家哲学社会科学文献中心走进贵州省“两会”
 https://www.ncpssd.cn/message?id=22237
@@ -88,8 +90,8 @@ https://www.ncpssd.cn/message?id=22236
   习近平致信祝贺中央广播电视总台《小喇叭》节目开播70周年
 https://www.ncpssd.cn/message?id=18580
   国家哲学社会科学文献中心为贵阳市“两会”提供学术资源服务
-https://www.ncpssd.cn/message?id=22216
-  习近平和彭丽媛同埃及总统塞西夫妇共同参观大埃及博物馆
+https://www.ncpssd.cn/message?id=22239
+  习近平就朝鲜国庆78周年向朝鲜最高领导人金正恩致贺电
 https://www.ncpssd.cn/message?id=19563
   国家哲学社会科学文献中心发布最受欢迎期刊报告
 https://www.ncpssd.cn/message?id=19564
@@ -106,16 +108,14 @@ https://www.ncpssd.cn/sso/getTokenCurrentUser?ssoClient=wxEN
   getTokenCurrentUser
 https://www.ncpssd.cn/Literature/ancientbooklistNew?nav=5
   ancientbooklistNew
-https://www.ncpssd.cn/message?id=22235
-  习近平向第八届中俄能源商务论坛致贺信
 https://www.ncpssd.cn/js/jquery.hiSlider.js
   jquery.hiSlider.js
 https://www.ncpssd.cn/js/sensorsdata.min.js
   sensorsdata.min.js
 https://www.ncpssd.cn/Literature/ancientbooklistNew
   ancientbooklistNew
-https://www.ncpssd.cn/message?id=22218
-  习近平致电祝贺挪威国王哈康八世即位
+https://www.ncpssd.cn/js/jquery.base64.js
+  jquery.base64.js
 
 === ALL DISCOVERED LINKS ===
 
@@ -161,16 +161,16 @@ https://www.ncpssd.cn/messages
 https://www.ncpssd.cn/message?id=22214
 https://www.ncpssd.cn/message?id=22213
 https://www.ncpssd.cn/message?id=22107
+https://www.ncpssd.cn/message?id=22240
+  在第四十二个教师节到来之际 习近平向全国广大教师和教育工作者致以节日祝贺和诚挚问候
+https://www.ncpssd.cn/message?id=22239
+  习近平就朝鲜国庆78周年向朝鲜最高领导人金正恩致贺电
+https://www.ncpssd.cn/message?id=22238
+  习近平同英国首相伯纳姆通电话
 https://www.ncpssd.cn/message?id=22237
   习近平致中央广播电视总台《小喇叭》节目开播70周年的贺信
 https://www.ncpssd.cn/message?id=22236
   习近平致信祝贺中央广播电视总台《小喇叭》节目开播70周年
-https://www.ncpssd.cn/message?id=22235
-  习近平向第八届中俄能源商务论坛致贺信
-https://www.ncpssd.cn/message?id=22218
-  习近平致电祝贺挪威国王哈康八世即位
-https://www.ncpssd.cn/message?id=22216
-  习近平和彭丽媛同埃及总统塞西夫妇共同参观大埃及博物馆
 https://www.ncpssd.cn/message?id=19563
   国家哲学社会科学文献中心发布最受欢迎期刊报告
 https://www.ncpssd.cn/message?id=19564

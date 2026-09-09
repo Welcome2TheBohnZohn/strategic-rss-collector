@@ -24,68 +24,68 @@ CNNVD动态
 重置
 收起 
 漏洞信息
-JetBrains IntelliJ IDEA 信息泄露漏洞
-低危
-收录时间：2026-09-07
-|
-更新时间: 2026-09-08 15:02:25
-CNNVD编号：CNNVD-2026-83547847
-JetBrains GoLand 授权问题漏洞
-中危
-收录时间：2026-09-07
-|
-更新时间: 2026-09-08 15:02:19
-CNNVD编号：CNNVD-2026-82541864
-Knowns.dev Knowns 路径遍历漏洞
+Microsoft Office Sharepoint Server 权限许可和访问控制问题漏洞
 高危
-收录时间：2026-09-07
+收录时间：2026-09-08
 |
-更新时间: 2026-09-08 15:02:18
-CNNVD编号：CNNVD-2026-43453864
-JetBrains IntelliJ IDEA 日志信息泄露漏洞
-低危
-收录时间：2026-09-07
-|
-更新时间: 2026-09-08 15:02:18
-CNNVD编号：CNNVD-2026-98387526
-Knowns.dev Knowns 授权问题漏洞
+更新时间: 2026-09-09 16:39:16
+CNNVD编号：CNNVD-2026-22240273
+Microsoft Office Sharepoint Server 授权问题漏洞
 高危
-收录时间：2026-09-07
+收录时间：2026-09-08
 |
-更新时间: 2026-09-08 15:02:15
-CNNVD编号：CNNVD-2026-74093842
-JetBrains YouTrack 授权问题漏洞
+更新时间: 2026-09-09 16:39:15
+CNNVD编号：CNNVD-2026-79516550
+Microsoft 365 Apps for Enterprise 缓冲区错误漏洞
+高危
+收录时间：2026-09-08
+|
+更新时间: 2026-09-09 16:39:15
+CNNVD编号：CNNVD-2026-81256892
+Microsoft Windows Device Association Service 竞争条件问题漏洞
+高危
+收录时间：2026-09-08
+|
+更新时间: 2026-09-09 16:39:11
+CNNVD编号：CNNVD-2026-28044170
+Microsoft .NET 缓冲区错误漏洞
+高危
+收录时间：2026-09-08
+|
+更新时间: 2026-09-09 16:39:17
+CNNVD编号：CNNVD-2026-69923827
+Microsoft Windows 10 信息泄露漏洞
 中危
-收录时间：2026-09-07
+收录时间：2026-09-08
 |
-更新时间: 2026-09-08 15:02:26
-CNNVD编号：CNNVD-2026-15495377
-JetBrains YouTrack 权限许可和访问控制问题漏洞
+更新时间: 2026-09-09 16:39:12
+CNNVD编号：CNNVD-2026-15022320
+Microsoft Windows 10 处理逻辑错误漏洞
+高危
+收录时间：2026-09-08
+|
+更新时间: 2026-09-09 16:39:10
+CNNVD编号：CNNVD-2026-60653503
+ARM Valhall GPU Kernel Driver 信息泄露漏洞
 中危
-收录时间：2026-09-07
+收录时间：2026-09-08
 |
-更新时间: 2026-09-08 15:02:26
-CNNVD编号：CNNVD-2026-14782298
-JetBrains IntelliJ IDEA 服务端请求伪造漏洞
-低危
-收录时间：2026-09-07
+更新时间: 2026-09-09 16:40:03
+CNNVD编号：CNNVD-2026-15735803
+Ivanti Neurons for ITSM 授权问题漏洞
+超危
+收录时间：2026-09-08
 |
-更新时间: 2026-09-08 15:02:25
-CNNVD编号：CNNVD-2026-65057280
-HCL MyXalytics 资源管理错误漏洞
-低危
-收录时间：2026-09-07
+更新时间: 2026-09-09 16:40:03
+CNNVD编号：CNNVD-2026-98054320
+Ivanti Neurons for ITSM 授权问题漏洞
+超危
+收录时间：2026-09-08
 |
-更新时间: 2026-09-08 15:04:50
-CNNVD编号：CNNVD-2026-79154156
-itsourcecode Information System Society Membership System 输入验证错误漏洞
-低危
-收录时间：2026-09-07
-|
-更新时间: 2026-09-08 15:04:59
-CNNVD编号：CNNVD-2026-15405452
-共 381995 条
-12345638200
+更新时间: 2026-09-09 16:40:02
+CNNVD编号：CNNVD-2026-18918187
+共 382283 条
+12345638229
 前往页
 快速导航
 首页
