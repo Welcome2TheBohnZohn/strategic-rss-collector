@@ -1,91 +1,75 @@
 {
-  "issue_date": "2026-09-09",
+  "issue_date": "2026-09-10",
   "issue_pages": [
     {
       "paper_number": "01",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-09&paperName=zggfb&paperNumber=01",
-      "links": 69,
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-10&paperName=zggfb&paperNumber=01",
+      "links": 71,
       "article_links": 3
     },
     {
       "paper_number": "02",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-09&paperName=zggfb&paperNumber=02",
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-10&paperName=zggfb&paperNumber=02",
       "links": 75,
       "article_links": 4
     },
     {
       "paper_number": "03",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-09&paperName=zggfb&paperNumber=03",
-      "links": 75,
-      "article_links": 4
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-10&paperName=zggfb&paperNumber=03",
+      "links": 63,
+      "article_links": 1
     },
     {
       "paper_number": "04",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-09&paperName=zggfb&paperNumber=04",
-      "links": 69,
-      "article_links": 4
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-10&paperName=zggfb&paperNumber=04",
+      "links": 67,
+      "article_links": 3
     }
   ],
   "candidates": [
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-09&paperNumber=01&articleid=986293",
-      "anchor_title": "“一捧苞谷”的故事续新篇"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-10&paperNumber=01&articleid=986373",
+      "anchor_title": "暖流润凉山 彝胞喜开颜"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-09&paperNumber=01&articleid=986292",
-      "anchor_title": "爱心跨越万水千山"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-10&paperNumber=01&articleid=986372",
+      "anchor_title": "迷彩元素点亮山乡课堂"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-09&paperNumber=01&articleid=986295",
-      "anchor_title": "“替烈士尽孝心”"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-10&paperNumber=01&articleid=986375",
+      "anchor_title": "“用歌声温暖兵心，我由衷自豪”"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-09&paperNumber=02&articleid=986304",
-      "anchor_title": "“守护一段不容忘却的历史记忆”"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-10&paperNumber=02&articleid=986379",
+      "anchor_title": "寸草绘征途 匠心传薪火"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-09&paperNumber=02&articleid=986303",
-      "anchor_title": "莘莘学子“走进”英雄连队"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-10&paperNumber=02&articleid=986380",
+      "anchor_title": "丹心一片报党恩"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-09&paperNumber=02&articleid=986306",
-      "anchor_title": "无人配送车变身“流动征兵岗”"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-10&paperNumber=02&articleid=986382",
+      "anchor_title": "小件免费 大件优惠"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-09&paperNumber=02&articleid=986308",
-      "anchor_title": "产业发展有了“生力军”"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-10&paperNumber=02&articleid=986383",
+      "anchor_title": "“草根”文艺团体远近闻名"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-09&paperNumber=03&articleid=986296",
-      "anchor_title": "织密织牢低空防护网"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-10&paperNumber=03&articleid=986377",
+      "anchor_title": "三尺讲台 一片兵心"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-09&paperNumber=03&articleid=986298",
-      "anchor_title": "为部队送上“军供套餐”"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-10&paperNumber=04&articleid=986386",
+      "anchor_title": "战火硝烟中的华东野战军文化教员"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-09&paperNumber=03&articleid=986300",
-      "anchor_title": "防空预警多了发布渠道"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-10&paperNumber=04&articleid=986385",
+      "anchor_title": "游击机动破敌顽"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-09&paperNumber=03&articleid=986301",
-      "anchor_title": "既是清凉驿站，又是国防课堂"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-09&paperNumber=04&articleid=986310",
-      "anchor_title": "日本新财年防卫预算申请创新高"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-09&paperNumber=04&articleid=986313",
-      "anchor_title": "激进扩张加剧地区安全紧张局势"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-09&paperNumber=04&articleid=986311",
-      "anchor_title": "韩国寻求下一代战斗机方案"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-09&paperNumber=04&articleid=986312",
-      "anchor_title": "防务资讯"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-10&paperNumber=04&articleid=986387",
+      "anchor_title": "一枚奖章见证军民同心情谊"
     }
   ]
 }

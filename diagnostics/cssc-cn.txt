@@ -6,30 +6,30 @@ Include regex: cssc\.net\.cn/n5/n18/c\d+/content\.html
 Include text regex: 
 
 Candidate links: 10
-All links discovered: 307
+All links discovered: 308
 
 === MATCHED CANDIDATES ===
 
 http://www.cssc.net.cn/n5/n18/c34109/content.html
   中船集团党组传达学习习近平总书记重要指示精神 总结树立和践行正确政绩观学习教育
-http://www.cssc.net.cn/n5/n18/c34097/content.html
-  中船集团承办的国防科工装备研制领域主题劳动竞赛启动仪式举行 王国强出席
-http://www.cssc.net.cn/n5/n18/c34095/content.html
-  智行深蓝 舰启新程 中船集团2027届校园招聘启动
+http://www.cssc.net.cn/n5/n18/c34116/content.html
+  徐鹏与中国电信党组副书记、董事、总经理刘桂清会谈 深化数智赋能 共促产业协同
+http://www.cssc.net.cn/n5/n18/c34115/content.html
+  中船集团亮相2026中国国际应急管理展 王国强出席展会并调研集团参展企业
+http://www.cssc.net.cn/n5/n18/c34114/content.html
+  中船集团2026年采购与供应链管理对标评估公开交流活动成功举办
 http://www.cssc.net.cn/n5/n18/c34113/content.html
   王国强出席第十五届中国知识产权年会开幕式并致辞
 http://www.cssc.net.cn/n5/n18/c34112/content.html
   中船集团总部工会第二届第一次会员代表大会召开
 http://www.cssc.net.cn/n5/n18/c34103/content.html
   质量月｜中船集团吹响质量强基攻坚战“集结号”
-http://www.cssc.net.cn/n5/n18/c34100/content.html
-  中船集团精彩亮相第32届德国汉堡海事展
-http://www.cssc.net.cn/n5/n18/c34098/content.html
-  徐鹏出席中船集团船海产业汉堡推介会
 http://www.cssc.net.cn/n5/n18/c34101/content.html
   徐鹏出席第32届德国汉堡海事展
 http://www.cssc.net.cn/n5/n18/c34106/content.html
   今日白露｜中船二十四节气
+http://www.cssc.net.cn/n5/n18/c34118/content.html
+  谨以至诚 敬谢师恩
 
 === ALL DISCOVERED LINKS ===
 
@@ -77,6 +77,14 @@ http://www.cssc.net.cn/n5/n1255/index.html
   头条新闻
 http://www.cssc.net.cn/n5/n1390/index.html
   上市公司
+http://www.cssc.net.cn/n5/n18/c34118/content.html
+  谨以至诚 敬谢师恩
+http://www.cssc.net.cn/n5/n18/c34116/content.html
+  徐鹏与中国电信党组副书记、董事、总经理刘桂清会谈 深化数智赋能 共促产业协同
+http://www.cssc.net.cn/n5/n18/c34115/content.html
+  中船集团亮相2026中国国际应急管理展 王国强出席展会并调研集团参展企业
+http://www.cssc.net.cn/n5/n18/c34114/content.html
+  中船集团2026年采购与供应链管理对标评估公开交流活动成功举办
 http://www.cssc.net.cn/n5/n18/c34113/content.html
   王国强出席第十五届中国知识产权年会开幕式并致辞
 http://www.cssc.net.cn/n5/n18/c34112/content.html
@@ -89,14 +97,6 @@ http://www.cssc.net.cn/n5/n18/c34103/content.html
   质量月｜中船集团吹响质量强基攻坚战“集结号”
 http://www.cssc.net.cn/n5/n18/c34101/content.html
   徐鹏出席第32届德国汉堡海事展
-http://www.cssc.net.cn/n5/n18/c34100/content.html
-  中船集团精彩亮相第32届德国汉堡海事展
-http://www.cssc.net.cn/n5/n18/c34098/content.html
-  徐鹏出席中船集团船海产业汉堡推介会
-http://www.cssc.net.cn/n5/n18/c34097/content.html
-  中船集团承办的国防科工装备研制领域主题劳动竞赛启动仪式举行 王国强出席
-http://www.cssc.net.cn/n5/n18/c34095/content.html
-  智行深蓝 舰启新程 中船集团2027届校园招聘启动
 http://www.cssc.net.cn/n5/n18/index_6204_1.html
 http://www.cssc.net.cn/n5/n18/index_6204_2.html
 http://www.cssc.net.cn/n5/n18/index_6204_3.html
@@ -331,6 +331,7 @@ http://www.cssc.net.cn/n5/n18/index_6204_231.html
 http://www.cssc.net.cn/n5/n18/index_6204_232.html
 http://www.cssc.net.cn/n5/n18/index_6204_233.html
 http://www.cssc.net.cn/n5/n18/index_6204_234.html
+http://www.cssc.net.cn/n5/n18/index_6204_235.html
 http://www.cssc.net.cn/n129/n131/index.html
   联系我们
 http://www.cssc.net.cn/n129/n133/index.html
