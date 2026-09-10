@@ -1,62 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Thu, 10 Sep 2026 04:59:40 +0000</lastBuildDate><item><title>CNNVD-2026-69923827 - Microsoft .NET 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-69923827</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-69923827</guid><pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate><description>Microsoft .NET 缓冲区错误漏洞
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Thu, 10 Sep 2026 11:40:18 +0000</lastBuildDate><item><title>CNNVD-2026-22380861 - PMMP PocketMine-MP 反序列化注入漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22380861</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22380861</guid><pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate><description>PMMP PocketMine-MP 反序列化注入漏洞
 危害等级: 高危
-收录时间：2026-09-08 | 更新时间: 2026-09-09 16:39:17
-CNNVD编号: CNNVD-2026-69923827</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-69923827&lt;/p&gt;&lt;pre&gt;Microsoft .NET 缓冲区错误漏洞
+收录时间：2026-09-09 | 更新时间: 2026-09-10 14:20:44
+CNNVD编号: CNNVD-2026-22380861</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22380861&lt;/p&gt;&lt;pre&gt;PMMP PocketMine-MP 反序列化注入漏洞
 危害等级: 高危
-收录时间：2026-09-08 | 更新时间: 2026-09-09 16:39:17
-CNNVD编号: CNNVD-2026-69923827&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-15022320 - Microsoft Windows 10 信息泄露漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-15022320</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-15022320</guid><pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate><description>Microsoft Windows 10 信息泄露漏洞
+收录时间：2026-09-09 | 更新时间: 2026-09-10 14:20:44
+CNNVD编号: CNNVD-2026-22380861&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-95936624 - PMMP PocketMine-MP 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-95936624</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-95936624</guid><pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate><description>PMMP PocketMine-MP 资源管理错误漏洞
 危害等级: 中危
-收录时间：2026-09-08 | 更新时间: 2026-09-09 16:39:12
-CNNVD编号: CNNVD-2026-15022320</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-15022320&lt;/p&gt;&lt;pre&gt;Microsoft Windows 10 信息泄露漏洞
+收录时间：2026-09-09 | 更新时间: 2026-09-10 14:20:43
+CNNVD编号: CNNVD-2026-95936624</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-95936624&lt;/p&gt;&lt;pre&gt;PMMP PocketMine-MP 资源管理错误漏洞
 危害等级: 中危
-收录时间：2026-09-08 | 更新时间: 2026-09-09 16:39:12
-CNNVD编号: CNNVD-2026-15022320&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-22240273 - Microsoft Office Sharepoint Server 权限许可和访问控制问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22240273</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22240273</guid><pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate><description>Microsoft Office Sharepoint Server 权限许可和访问控制问题漏洞
-危害等级: 高危
-收录时间：2026-09-08 | 更新时间: 2026-09-09 16:39:16
-CNNVD编号: CNNVD-2026-22240273</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22240273&lt;/p&gt;&lt;pre&gt;Microsoft Office Sharepoint Server 权限许可和访问控制问题漏洞
-危害等级: 高危
-收录时间：2026-09-08 | 更新时间: 2026-09-09 16:39:16
-CNNVD编号: CNNVD-2026-22240273&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-79516550 - Microsoft Office Sharepoint Server 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-79516550</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-79516550</guid><pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate><description>Microsoft Office Sharepoint Server 授权问题漏洞
-危害等级: 高危
-收录时间：2026-09-08 | 更新时间: 2026-09-09 16:39:15
-CNNVD编号: CNNVD-2026-79516550</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-79516550&lt;/p&gt;&lt;pre&gt;Microsoft Office Sharepoint Server 授权问题漏洞
-危害等级: 高危
-收录时间：2026-09-08 | 更新时间: 2026-09-09 16:39:15
-CNNVD编号: CNNVD-2026-79516550&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-81256892 - Microsoft 365 Apps for Enterprise 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-81256892</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-81256892</guid><pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate><description>Microsoft 365 Apps for Enterprise 缓冲区错误漏洞
-危害等级: 高危
-收录时间：2026-09-08 | 更新时间: 2026-09-09 16:39:15
-CNNVD编号: CNNVD-2026-81256892</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-81256892&lt;/p&gt;&lt;pre&gt;Microsoft 365 Apps for Enterprise 缓冲区错误漏洞
-危害等级: 高危
-收录时间：2026-09-08 | 更新时间: 2026-09-09 16:39:15
-CNNVD编号: CNNVD-2026-81256892&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-28044170 - Microsoft Windows Device Association Service 竞争条件问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-28044170</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-28044170</guid><pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate><description>Microsoft Windows Device Association Service 竞争条件问题漏洞
-危害等级: 高危
-收录时间：2026-09-08 | 更新时间: 2026-09-09 16:39:11
-CNNVD编号: CNNVD-2026-28044170</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-28044170&lt;/p&gt;&lt;pre&gt;Microsoft Windows Device Association Service 竞争条件问题漏洞
-危害等级: 高危
-收录时间：2026-09-08 | 更新时间: 2026-09-09 16:39:11
-CNNVD编号: CNNVD-2026-28044170&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-45359388 - Microsoft XPS 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-45359388</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-45359388</guid><pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate><description>Microsoft XPS 缓冲区错误漏洞
-危害等级: 高危
-收录时间：2026-09-08 | 更新时间: 2026-09-09 16:23:21
-CNNVD编号: CNNVD-2026-45359388</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-45359388&lt;/p&gt;&lt;pre&gt;Microsoft XPS 缓冲区错误漏洞
-危害等级: 高危
-收录时间：2026-09-08 | 更新时间: 2026-09-09 16:23:21
-CNNVD编号: CNNVD-2026-45359388&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-37591637 - Microsoft Windows MIDI Service Module 信息泄露漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-37591637</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-37591637</guid><pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate><description>Microsoft Windows MIDI Service Module 信息泄露漏洞
-危害等级: 中危
-收录时间：2026-09-08 | 更新时间: 2026-09-09 16:23:18
-CNNVD编号: CNNVD-2026-37591637</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-37591637&lt;/p&gt;&lt;pre&gt;Microsoft Windows MIDI Service Module 信息泄露漏洞
-危害等级: 中危
-收录时间：2026-09-08 | 更新时间: 2026-09-09 16:23:18
-CNNVD编号: CNNVD-2026-37591637&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-41563718 - Microsoft Exchange Server 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-41563718</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-41563718</guid><pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate><description>Microsoft Exchange Server 跨站脚本漏洞
+收录时间：2026-09-09 | 更新时间: 2026-09-10 14:20:43
+CNNVD编号: CNNVD-2026-95936624&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-66666182 - Google Chrome 处理逻辑错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-66666182</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-66666182</guid><pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate><description>Google Chrome 处理逻辑错误漏洞
 危害等级: 超危
-收录时间：2026-09-08 | 更新时间: 2026-09-09 16:23:14
-CNNVD编号: CNNVD-2026-41563718</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-41563718&lt;/p&gt;&lt;pre&gt;Microsoft Exchange Server 跨站脚本漏洞
+收录时间：2026-09-09 | 更新时间: 2026-09-10 16:55:30
+CNNVD编号: CNNVD-2026-66666182</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-66666182&lt;/p&gt;&lt;pre&gt;Google Chrome 处理逻辑错误漏洞
 危害等级: 超危
-收录时间：2026-09-08 | 更新时间: 2026-09-09 16:23:14
-CNNVD编号: CNNVD-2026-41563718&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-39199825 - Microsoft Office Word 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-39199825</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-39199825</guid><pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate><description>Microsoft Office Word 缓冲区错误漏洞
+收录时间：2026-09-09 | 更新时间: 2026-09-10 16:55:30
+CNNVD编号: CNNVD-2026-66666182&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-84943476 - Google Chrome 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-84943476</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-84943476</guid><pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate><description>Google Chrome 资源管理错误漏洞
+危害等级: 超危
+收录时间：2026-09-09 | 更新时间: 2026-09-10 16:55:30
+CNNVD编号: CNNVD-2026-84943476</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-84943476&lt;/p&gt;&lt;pre&gt;Google Chrome 资源管理错误漏洞
+危害等级: 超危
+收录时间：2026-09-09 | 更新时间: 2026-09-10 16:55:30
+CNNVD编号: CNNVD-2026-84943476&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-50784486 - Google Chrome 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-50784486</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-50784486</guid><pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate><description>Google Chrome 缓冲区错误漏洞
+危害等级: 超危
+收录时间：2026-09-09 | 更新时间: 2026-09-10 16:55:29
+CNNVD编号: CNNVD-2026-50784486</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-50784486&lt;/p&gt;&lt;pre&gt;Google Chrome 缓冲区错误漏洞
+危害等级: 超危
+收录时间：2026-09-09 | 更新时间: 2026-09-10 16:55:29
+CNNVD编号: CNNVD-2026-50784486&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-80131597 - Dell iDRAC9 命令注入漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-80131597</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-80131597</guid><pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate><description>Dell iDRAC9 命令注入漏洞
 危害等级: 高危
-收录时间：2026-09-08 | 更新时间: 2026-09-09 16:23:12
-CNNVD编号: CNNVD-2026-39199825</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-39199825&lt;/p&gt;&lt;pre&gt;Microsoft Office Word 缓冲区错误漏洞
+收录时间：2026-09-09 | 更新时间: 2026-09-10 16:55:20
+CNNVD编号: CNNVD-2026-80131597</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-80131597&lt;/p&gt;&lt;pre&gt;Dell iDRAC9 命令注入漏洞
 危害等级: 高危
-收录时间：2026-09-08 | 更新时间: 2026-09-09 16:23:12
-CNNVD编号: CNNVD-2026-39199825&lt;/pre&gt;</content:encoded></item></channel></rss>
+收录时间：2026-09-09 | 更新时间: 2026-09-10 16:55:20
+CNNVD编号: CNNVD-2026-80131597&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-86887868 - eProsima Fast-DDS 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-86887868</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-86887868</guid><pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate><description>eProsima Fast-DDS 缓冲区错误漏洞
+危害等级: 超危
+收录时间：2026-09-09 | 更新时间: 2026-09-10 16:55:19
+CNNVD编号: CNNVD-2026-86887868</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-86887868&lt;/p&gt;&lt;pre&gt;eProsima Fast-DDS 缓冲区错误漏洞
+危害等级: 超危
+收录时间：2026-09-09 | 更新时间: 2026-09-10 16:55:19
+CNNVD编号: CNNVD-2026-86887868&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-90203280 - Google Chrome 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-90203280</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-90203280</guid><pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate><description>Google Chrome 资源管理错误漏洞
+危害等级: 超危
+收录时间：2026-09-09 | 更新时间: 2026-09-10 16:55:43
+CNNVD编号: CNNVD-2026-90203280</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-90203280&lt;/p&gt;&lt;pre&gt;Google Chrome 资源管理错误漏洞
+危害等级: 超危
+收录时间：2026-09-09 | 更新时间: 2026-09-10 16:55:43
+CNNVD编号: CNNVD-2026-90203280&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-25620268 - Google Chrome 侧信道信息泄露漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-25620268</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-25620268</guid><pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate><description>Google Chrome 侧信道信息泄露漏洞
+危害等级: 超危
+收录时间：2026-09-09 | 更新时间: 2026-09-10 16:55:43
+CNNVD编号: CNNVD-2026-25620268</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-25620268&lt;/p&gt;&lt;pre&gt;Google Chrome 侧信道信息泄露漏洞
+危害等级: 超危
+收录时间：2026-09-09 | 更新时间: 2026-09-10 16:55:43
+CNNVD编号: CNNVD-2026-25620268&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-25762937 - Google Chrome 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-25762937</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-25762937</guid><pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate><description>Google Chrome 缓冲区错误漏洞
+危害等级: 超危
+收录时间：2026-09-09 | 更新时间: 2026-09-10 16:55:41
+CNNVD编号: CNNVD-2026-25762937</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-25762937&lt;/p&gt;&lt;pre&gt;Google Chrome 缓冲区错误漏洞
+危害等级: 超危
+收录时间：2026-09-09 | 更新时间: 2026-09-10 16:55:41
+CNNVD编号: CNNVD-2026-25762937&lt;/pre&gt;</content:encoded></item></channel></rss>
