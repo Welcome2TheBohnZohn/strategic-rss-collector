@@ -6,7 +6,7 @@ Include regex: /gfbw/fgwx/flfg/
 Include text regex: 
 
 Candidate links: 31
-All links discovered: 172
+All links discovered: 171
 
 === MATCHED CANDIDATES ===
 
@@ -309,12 +309,10 @@ http://www.mod.gov.cn/gfbw/qwfb/16484878.html
   在第四十二个教师节到来之际 习近平向全国广大教师和教育工作者致以节日祝贺和诚挚问候
 http://www.mod.gov.cn/gfbw/qwfb/16484608.html
   习近平就朝鲜国庆78周年向朝鲜最高领导人金正恩致贺电
-http://www.mod.gov.cn/gfbw/qwfb/16484487.html
-  习近平同英国首相伯纳姆通电话
-http://www.mod.gov.cn/gfbw/qwfb/16483630.html
-  习近平致信祝贺中央广播电视总台《小喇叭》节目开播70周年
-http://www.mod.gov.cn/gfbw/qwfb/16483633.html
-  贺信全文
+http://www.mod.gov.cn/gfbw/qwfb/16485177.html
+  外交部介绍习近平主席出席金砖国家领导人会晤安排
+http://www.mod.gov.cn/gfbw/qwfb/16485032.html
+  军队开展树立和践行正确政绩观学习教育取得明显成效
 http://www.mod.gov.cn/gfbw/spbb_214126/16477140.html
   何为承诺
 http://www.mod.gov.cn/gfbw/spbb_214126/16477755.html
