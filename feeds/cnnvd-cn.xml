@@ -1,62 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Thu, 10 Sep 2026 21:07:48 +0000</lastBuildDate><item><title>CNNVD-2026-98338242 - PMMP PocketMine-MP 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-98338242</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-98338242</guid><pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate><description>PMMP PocketMine-MP 资源管理错误漏洞
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Fri, 11 Sep 2026 04:58:57 +0000</lastBuildDate><item><title>CNNVD-2026-22380861 - PMMP PocketMine-MP 反序列化注入漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22380861</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22380861</guid><pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate><description>PMMP PocketMine-MP 反序列化注入漏洞
+危害等级: 高危
+收录时间：2026-09-09 | 更新时间: 2026-09-10 14:20:44
+CNNVD编号: CNNVD-2026-22380861</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22380861&lt;/p&gt;&lt;pre&gt;PMMP PocketMine-MP 反序列化注入漏洞
+危害等级: 高危
+收录时间：2026-09-09 | 更新时间: 2026-09-10 14:20:44
+CNNVD编号: CNNVD-2026-22380861&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-95936624 - PMMP PocketMine-MP 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-95936624</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-95936624</guid><pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate><description>PMMP PocketMine-MP 资源管理错误漏洞
 危害等级: 中危
-收录时间：2026-09-09 | 更新时间: 2026-09-10 14:33:59
-CNNVD编号: CNNVD-2026-98338242</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-98338242&lt;/p&gt;&lt;pre&gt;PMMP PocketMine-MP 资源管理错误漏洞
+收录时间：2026-09-09 | 更新时间: 2026-09-10 14:20:43
+CNNVD编号: CNNVD-2026-95936624</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-95936624&lt;/p&gt;&lt;pre&gt;PMMP PocketMine-MP 资源管理错误漏洞
 危害等级: 中危
-收录时间：2026-09-09 | 更新时间: 2026-09-10 14:33:59
-CNNVD编号: CNNVD-2026-98338242&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-48437687 - PMMP PocketMine-MP 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-48437687</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-48437687</guid><pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate><description>PMMP PocketMine-MP 输入验证错误漏洞
-危害等级: 高危
-收录时间：2026-09-09 | 更新时间: 2026-09-10 14:33:58
-CNNVD编号: CNNVD-2026-48437687</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-48437687&lt;/p&gt;&lt;pre&gt;PMMP PocketMine-MP 输入验证错误漏洞
-危害等级: 高危
-收录时间：2026-09-09 | 更新时间: 2026-09-10 14:33:58
-CNNVD编号: CNNVD-2026-48437687&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-95235961 - WordPress WPBot 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-95235961</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-95235961</guid><pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate><description>WordPress WPBot 跨站脚本漏洞
-危害等级: 高危
-收录时间：2026-09-09 | 更新时间: 2026-09-10 16:52:04
-CNNVD编号: CNNVD-2026-95235961</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-95235961&lt;/p&gt;&lt;pre&gt;WordPress WPBot 跨站脚本漏洞
-危害等级: 高危
-收录时间：2026-09-09 | 更新时间: 2026-09-10 16:52:04
-CNNVD编号: CNNVD-2026-95235961&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-33609119 - WordPress Repeater Fields for Gravity Forms 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-33609119</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-33609119</guid><pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate><description>WordPress Repeater Fields for Gravity Forms 跨站脚本漏洞
-危害等级: 高危
-收录时间：2026-09-09 | 更新时间: 2026-09-10 16:52:03
-CNNVD编号: CNNVD-2026-33609119</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-33609119&lt;/p&gt;&lt;pre&gt;WordPress Repeater Fields for Gravity Forms 跨站脚本漏洞
-危害等级: 高危
-收录时间：2026-09-09 | 更新时间: 2026-09-10 16:52:03
-CNNVD编号: CNNVD-2026-33609119&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-96465746 - Google Chrome 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-96465746</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-96465746</guid><pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate><description>Google Chrome 缓冲区错误漏洞
-危害等级: 高危
-收录时间：2026-09-09 | 更新时间: 2026-09-10 16:52:54
-CNNVD编号: CNNVD-2026-96465746</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-96465746&lt;/p&gt;&lt;pre&gt;Google Chrome 缓冲区错误漏洞
-危害等级: 高危
-收录时间：2026-09-09 | 更新时间: 2026-09-10 16:52:54
-CNNVD编号: CNNVD-2026-96465746&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-15254941 - Google Chrome 信息泄露漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-15254941</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-15254941</guid><pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate><description>Google Chrome 信息泄露漏洞
+收录时间：2026-09-09 | 更新时间: 2026-09-10 14:20:43
+CNNVD编号: CNNVD-2026-95936624&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-66666182 - Google Chrome 处理逻辑错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-66666182</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-66666182</guid><pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate><description>Google Chrome 处理逻辑错误漏洞
 危害等级: 超危
-收录时间：2026-09-09 | 更新时间: 2026-09-10 16:52:53
-CNNVD编号: CNNVD-2026-15254941</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-15254941&lt;/p&gt;&lt;pre&gt;Google Chrome 信息泄露漏洞
+收录时间：2026-09-09 | 更新时间: 2026-09-10 16:55:30
+CNNVD编号: CNNVD-2026-66666182</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-66666182&lt;/p&gt;&lt;pre&gt;Google Chrome 处理逻辑错误漏洞
 危害等级: 超危
-收录时间：2026-09-09 | 更新时间: 2026-09-10 16:52:53
-CNNVD编号: CNNVD-2026-15254941&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-10507936 - Google Chrome 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-10507936</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-10507936</guid><pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate><description>Google Chrome 输入验证错误漏洞
+收录时间：2026-09-09 | 更新时间: 2026-09-10 16:55:30
+CNNVD编号: CNNVD-2026-66666182&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-84943476 - Google Chrome 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-84943476</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-84943476</guid><pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate><description>Google Chrome 资源管理错误漏洞
 危害等级: 超危
-收录时间：2026-09-09 | 更新时间: 2026-09-10 16:52:50
-CNNVD编号: CNNVD-2026-10507936</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-10507936&lt;/p&gt;&lt;pre&gt;Google Chrome 输入验证错误漏洞
+收录时间：2026-09-09 | 更新时间: 2026-09-10 16:55:30
+CNNVD编号: CNNVD-2026-84943476</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-84943476&lt;/p&gt;&lt;pre&gt;Google Chrome 资源管理错误漏洞
 危害等级: 超危
-收录时间：2026-09-09 | 更新时间: 2026-09-10 16:52:50
-CNNVD编号: CNNVD-2026-10507936&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-53818119 - Google Chrome 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-53818119</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-53818119</guid><pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate><description>Google Chrome 授权问题漏洞
+收录时间：2026-09-09 | 更新时间: 2026-09-10 16:55:30
+CNNVD编号: CNNVD-2026-84943476&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-50784486 - Google Chrome 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-50784486</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-50784486</guid><pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate><description>Google Chrome 缓冲区错误漏洞
 危害等级: 超危
-收录时间：2026-09-09 | 更新时间: 2026-09-10 16:52:46
-CNNVD编号: CNNVD-2026-53818119</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-53818119&lt;/p&gt;&lt;pre&gt;Google Chrome 授权问题漏洞
+收录时间：2026-09-09 | 更新时间: 2026-09-10 16:55:29
+CNNVD编号: CNNVD-2026-50784486</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-50784486&lt;/p&gt;&lt;pre&gt;Google Chrome 缓冲区错误漏洞
 危害等级: 超危
-收录时间：2026-09-09 | 更新时间: 2026-09-10 16:52:46
-CNNVD编号: CNNVD-2026-53818119&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-37563302 - Google Chrome 竞争条件问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-37563302</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-37563302</guid><pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate><description>Google Chrome 竞争条件问题漏洞
+收录时间：2026-09-09 | 更新时间: 2026-09-10 16:55:29
+CNNVD编号: CNNVD-2026-50784486&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-80131597 - Dell iDRAC9 命令注入漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-80131597</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-80131597</guid><pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate><description>Dell iDRAC9 命令注入漏洞
 危害等级: 高危
-收录时间：2026-09-09 | 更新时间: 2026-09-10 16:52:42
-CNNVD编号: CNNVD-2026-37563302</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-37563302&lt;/p&gt;&lt;pre&gt;Google Chrome 竞争条件问题漏洞
+收录时间：2026-09-09 | 更新时间: 2026-09-10 16:55:20
+CNNVD编号: CNNVD-2026-80131597</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-80131597&lt;/p&gt;&lt;pre&gt;Dell iDRAC9 命令注入漏洞
 危害等级: 高危
-收录时间：2026-09-09 | 更新时间: 2026-09-10 16:52:42
-CNNVD编号: CNNVD-2026-37563302&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-39458673 - Google Chrome 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-39458673</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-39458673</guid><pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate><description>Google Chrome 资源管理错误漏洞
+收录时间：2026-09-09 | 更新时间: 2026-09-10 16:55:20
+CNNVD编号: CNNVD-2026-80131597&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-86887868 - eProsima Fast-DDS 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-86887868</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-86887868</guid><pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate><description>eProsima Fast-DDS 缓冲区错误漏洞
 危害等级: 超危
-收录时间：2026-09-09 | 更新时间: 2026-09-10 16:53:12
-CNNVD编号: CNNVD-2026-39458673</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-39458673&lt;/p&gt;&lt;pre&gt;Google Chrome 资源管理错误漏洞
+收录时间：2026-09-09 | 更新时间: 2026-09-10 16:55:19
+CNNVD编号: CNNVD-2026-86887868</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-86887868&lt;/p&gt;&lt;pre&gt;eProsima Fast-DDS 缓冲区错误漏洞
 危害等级: 超危
-收录时间：2026-09-09 | 更新时间: 2026-09-10 16:53:12
-CNNVD编号: CNNVD-2026-39458673&lt;/pre&gt;</content:encoded></item></channel></rss>
+收录时间：2026-09-09 | 更新时间: 2026-09-10 16:55:19
+CNNVD编号: CNNVD-2026-86887868&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-90203280 - Google Chrome 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-90203280</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-90203280</guid><pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate><description>Google Chrome 资源管理错误漏洞
+危害等级: 超危
+收录时间：2026-09-09 | 更新时间: 2026-09-10 16:55:43
+CNNVD编号: CNNVD-2026-90203280</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-90203280&lt;/p&gt;&lt;pre&gt;Google Chrome 资源管理错误漏洞
+危害等级: 超危
+收录时间：2026-09-09 | 更新时间: 2026-09-10 16:55:43
+CNNVD编号: CNNVD-2026-90203280&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-25620268 - Google Chrome 侧信道信息泄露漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-25620268</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-25620268</guid><pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate><description>Google Chrome 侧信道信息泄露漏洞
+危害等级: 超危
+收录时间：2026-09-09 | 更新时间: 2026-09-10 16:55:43
+CNNVD编号: CNNVD-2026-25620268</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-25620268&lt;/p&gt;&lt;pre&gt;Google Chrome 侧信道信息泄露漏洞
+危害等级: 超危
+收录时间：2026-09-09 | 更新时间: 2026-09-10 16:55:43
+CNNVD编号: CNNVD-2026-25620268&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-25762937 - Google Chrome 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-25762937</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-25762937</guid><pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate><description>Google Chrome 缓冲区错误漏洞
+危害等级: 超危
+收录时间：2026-09-09 | 更新时间: 2026-09-10 16:55:41
+CNNVD编号: CNNVD-2026-25762937</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-25762937&lt;/p&gt;&lt;pre&gt;Google Chrome 缓冲区错误漏洞
+危害等级: 超危
+收录时间：2026-09-09 | 更新时间: 2026-09-10 16:55:41
+CNNVD编号: CNNVD-2026-25762937&lt;/pre&gt;</content:encoded></item></channel></rss>
