@@ -10,13 +10,13 @@ All links discovered: 66
 
 === MATCHED CANDIDATES ===
 
-https://www.gfbzb.gov.cn/wb/common/index.action?trnd=93369045476814075817038495205849
+https://www.gfbzb.gov.cn/wb/common/index.action?trnd=84287876842713640121488185201258
   index.action
-https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/202609/20260909/2293944855.html;jsessionid=7270B3B1B90E89F3B4949A5F7A5EC54A
+https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/202609/20260909/2293944855.html;jsessionid=8D10E8FF21CF7B6B0BBA0BA2609ACEBE
   中华人民共和国国防动员法
-https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/202108/20210821/2100962138.html;jsessionid=7270B3B1B90E89F3B4949A5F7A5EC54A
+https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/202108/20210821/2100962138.html;jsessionid=8D10E8FF21CF7B6B0BBA0BA2609ACEBE
   中华人民共和国兵役法
-https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/202109/20210907/2106496023.html;jsessionid=7270B3B1B90E89F3B4949A5F7A5EC54A
+https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/202109/20210907/2106496023.html;jsessionid=8D10E8FF21CF7B6B0BBA0BA2609ACEBE
   中华人民共和国国防法
 https://www.gfbzb.gov.cn/ssts/querybyid.action?item=ZCFG_DFFG&artid=2293449540
   铲除侵蚀征兵肌体的“脓疮毒瘤”——山东省集中开展治理打击“兵托”专项活动
@@ -28,11 +28,11 @@ https://www.gfbzb.gov.cn/ssts/querybyid.action?item=ZCFG_DFFG&artid=2293937946
   严肃查处征兵领域违规违纪违法问题
 https://www.gfbzb.gov.cn/ssts/querybyid.action?item=ZCFG_DFFG&artid=2293935484
   征兵工作人员职业道德准则
-https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/202512/20251216/2293443179.html;jsessionid=7270B3B1B90E89F3B4949A5F7A5EC54A
+https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/202512/20251216/2293443179.html;jsessionid=8D10E8FF21CF7B6B0BBA0BA2609ACEBE
   兵役登记工作规定
-https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/202304/20230413/2275695537.html;jsessionid=7270B3B1B90E89F3B4949A5F7A5EC54A
+https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/202304/20230413/2275695537.html;jsessionid=8D10E8FF21CF7B6B0BBA0BA2609ACEBE
   征兵工作条例
-https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/tjbz.shtml;jsessionid=7270B3B1B90E89F3B4949A5F7A5EC54A
+https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/tjbz.shtml;jsessionid=8D10E8FF21CF7B6B0BBA0BA2609ACEBE
   《应征公民体格检查标准》摘要
 https://www.gfbzb.gov.cn/ajax/qctoftj.action
   qctoftj.action
@@ -86,7 +86,7 @@ https://www.gfbzb.gov.cn/wb/yzyc/wdst/
 === ALL DISCOVERED LINKS ===
 
 https://www.gfbzb.gov.cn/
-https://www.gfbzb.gov.cn/wb/common/index.action?trnd=93369045476814075817038495205849
+https://www.gfbzb.gov.cn/wb/common/index.action?trnd=84287876842713640121488185201258
   登录
 https://account.chsi.com.cn/account/preregister.action?from=zbbm-login
   注册
@@ -108,17 +108,17 @@ https://www.gfbzb.gov.cn/ssts/querybyid.action?item=ZCFG_DFFG&artid=2293446166
   江苏省征兵工作条例
 https://www.gfbzb.gov.cn/ssts/querybyid.action?item=ZCFG_DFFG&artid=2293442906
   河南省征兵工作条例
-https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/202108/20210821/2100962138.html;jsessionid=7270B3B1B90E89F3B4949A5F7A5EC54A
+https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/202108/20210821/2100962138.html;jsessionid=8D10E8FF21CF7B6B0BBA0BA2609ACEBE
   中华人民共和国兵役法
-https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/202109/20210907/2106496023.html;jsessionid=7270B3B1B90E89F3B4949A5F7A5EC54A
+https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/202109/20210907/2106496023.html;jsessionid=8D10E8FF21CF7B6B0BBA0BA2609ACEBE
   中华人民共和国国防法
-https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/202609/20260909/2293944855.html;jsessionid=7270B3B1B90E89F3B4949A5F7A5EC54A
+https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/202609/20260909/2293944855.html;jsessionid=8D10E8FF21CF7B6B0BBA0BA2609ACEBE
   中华人民共和国国防动员法
-https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/202304/20230413/2275695537.html;jsessionid=7270B3B1B90E89F3B4949A5F7A5EC54A
+https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/202304/20230413/2275695537.html;jsessionid=8D10E8FF21CF7B6B0BBA0BA2609ACEBE
   征兵工作条例
-https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/tjbz.shtml;jsessionid=7270B3B1B90E89F3B4949A5F7A5EC54A
+https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/tjbz.shtml;jsessionid=8D10E8FF21CF7B6B0BBA0BA2609ACEBE
   《应征公民体格检查标准》摘要
-https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/202512/20251216/2293443179.html;jsessionid=7270B3B1B90E89F3B4949A5F7A5EC54A
+https://www.gfbzb.gov.cn/zbbm/zcfg/byfg/202512/20251216/2293443179.html;jsessionid=8D10E8FF21CF7B6B0BBA0BA2609ACEBE
   兵役登记工作规定
 http://www.moe.gov.cn/s78/A15/
   教育部高校学生司（高校毕业生就业服务司）
