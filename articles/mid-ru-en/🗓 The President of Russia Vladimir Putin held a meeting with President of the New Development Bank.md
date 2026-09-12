@@ -10,7 +10,7 @@ Vladimir Putin
 held a meeting
 with President of the New Development Bank
 Dilma Rousseff
-on the sidelines of the BRICS summit
+on the sidelines of the BRICS Summit
 (New Delhi, September 11, 2026)
 💬
 Vladimir Putin

@@ -9,7 +9,7 @@ President of Russia
 Vladimir Putin
 has arrived at the meeting of the 18th
 #BRICS
-summit.
+Summit.
 📹
 ©
 Kremlin.News

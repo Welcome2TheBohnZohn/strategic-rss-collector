@@ -11,7 +11,7 @@ Vladimir Putin
 held a meeting
 with President of the Republic of South Africa
 Cyril Ramaphosa
-on the sidelines of the BRICS summit in India
+on the sidelines of the BRICS Summit in India
 (New Delhi, September 11, 2026)
 💬
 Vladimir Putin

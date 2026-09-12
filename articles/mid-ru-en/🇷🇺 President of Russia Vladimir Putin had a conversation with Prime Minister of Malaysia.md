@@ -11,7 +11,7 @@ Vladimir Putin
 had a conversation
 with Prime Minister of Malaysia
 Anwar Ibrahim
-on the sidelines of the BRICS summit in India
+on the sidelines of the BRICS Summit in India
 (New Delhi, September 11, 2026)
 💬
 Vladimir Putin
