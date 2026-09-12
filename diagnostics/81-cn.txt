@@ -16,6 +16,8 @@ http://www.81.cn/wj_208567/16483443.html
   浙江福建多地因持续强降雨引发城乡内涝等险情 解放军和武警部队官兵、民兵迅速展开救援
 http://www.81.cn/wj_208604/16477968.html
   从传统的集体安全共同体，向利益绑定的交易型联盟转变——“北约3.0”架构加速形成
+http://www.81.cn/yw_208727/16485423.html
+  携手开启金砖合作新的“金色十年”——国际社会对中国明年接任金砖主席国满怀期待
 http://www.81.cn/yw_208727/16485387.html
   书写新时代联战联保的强军答卷——联勤保障部队加快构建新型联勤保障体系综述
 http://www.81.cn/jw_208551/16471442.html
@@ -28,6 +30,8 @@ http://www.81.cn/yw_208727/16485381.html
   习近平：中方愿同金砖成员一道，为实现中东海湾地区和平安宁发挥应有作用
 http://www.81.cn/yw_208727/16485285.html
   在习近平强军思想指引下·奋进强军路 打好攻坚战｜身在后方，心在疆场
+http://www.81.cn/ss_208539/16485422.html
+  新华全媒头条｜千里沃野夺秋收——“十五五”开局之年秋粮生产一线观察
 http://www.81.cn/zq_208553/16475889.html
   南部战区新闻发言人就菲律宾拉拢域外国家组织所谓“联合巡航”发表谈话
 http://www.81.cn/pl_208541/16484949.html
@@ -42,8 +46,6 @@ http://www.81.cn/ss_208539/16485407.html
   李鸿忠赴俄罗斯出席第七届中俄中小企业实业论坛并访问伊尔库茨克州
 http://www.81.cn/yw_208727/16485248.html
   穿上海军军装却看不见大海，但他们有守护“国之重器”的独特方式
-http://www.81.cn/ss_208539/16485291.html
-  赓续长征精神 奋进复兴征程｜瑞金一个月如何为红军筹粮超万担？
 http://www.81.cn/kj_208559/16484108.html
   空军某部深入学习贯彻习近平强军思想——学用结合 向“智”转型
 http://www.81.cn/lq_208565/16485303.html
@@ -108,8 +110,6 @@ http://www.81.cn/yw_208727/16485382.html
   习近平：金砖国家要坚定站在历史正确一边，勇做时代先锋
 http://www.81.cn/jw_208551/jdt_208552/16438857.html
   中央军委主席习近平签署命令 发布《军事理论工作条例》
-http://www.81.cn/hj_208557/16483862.html
-  海军某基地聚力提升党委领战能力——以上率下 谋战抓训
 
 === ALL DISCOVERED LINKS ===
 
@@ -256,14 +256,14 @@ http://www.81.cn/yw_208727/16485364.html
   习近平宣布中国将于明年接任金砖主席国
 http://www.81.cn/yw_208727/16485412.html
   习近平会见印度总理莫迪
-http://www.81.cn/yw_208727/16485333.html
-  习近平抵达新德里出席金砖国家领导人第十八次会晤
 http://www.81.cn/yw_208727/16485373.html
   习近平总结金砖20年发展成就
 http://www.81.cn/yw_208727/16485382.html
   习近平：金砖国家要坚定站在历史正确一边，勇做时代先锋
 http://www.81.cn/yw_208727/16485381.html
   习近平：中方愿同金砖成员一道，为实现中东海湾地区和平安宁发挥应有作用
+http://www.81.cn/yw_208727/16485423.html
+  携手开启金砖合作新的“金色十年”——国际社会对中国明年接任金砖主席国满怀期待
 http://www.81.cn/yw_208727/16485285.html
   在习近平强军思想指引下·奋进强军路 打好攻坚战｜身在后方，心在疆场
 http://www.81.cn/yw_208727/16485245.html
@@ -354,6 +354,8 @@ http://www.81.cn/fyr/16484204.html
   外交部：帕劳同台保持所谓关系是为“圈钱”
 http://www.81.cn/fyr/16483955.html
   卡塔尔首相兼外交大臣穆罕默德将访华
+http://www.81.cn/ss_208539/16485422.html
+  新华全媒头条｜千里沃野夺秋收——“十五五”开局之年秋粮生产一线观察
 http://www.81.cn/ss_208539/16485407.html
   李鸿忠赴俄罗斯出席第七届中俄中小企业实业论坛并访问伊尔库茨克州
 http://www.81.cn/ss_208539/16485385.html
@@ -374,8 +376,6 @@ http://www.81.cn/ss_208539/16485290.html
   焦点访谈丨从汽车大国迈向汽车强国 我国为何要发展新能源汽车
 http://www.81.cn/ss_208539/16485270.html
   “核心价值观百场讲坛”第172场在江西瑞金举办 宣讲中国共产党领导红军长征的光辉历程和伟大意义
-http://www.81.cn/ss_208539/16485291.html
-  赓续长征精神 奋进复兴征程｜瑞金一个月如何为红军筹粮超万担？
 http://www.81.cn/zt/2023nzt/xxgcxjpxsdzgtsshzysxztjy/index.html
 http://www.81.cn/zt/2023nzt/flsxjjbnmbjkjcsjyljd/index.html
 http://www.81.cn/bz_208549/jdt_208550/16482566.html
@@ -829,12 +829,12 @@ http://www.81.cn/js_208585/16475738.html
   姥爷坚定、有力的脚步声给了他前行的力量
 http://eng.chinamil.com.cn/2025xb/H_251454/F_251457/16485340.html
   Anti-aircraft shooting assessment
+http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16485402.html
+  Xi says BRICS world's most influential platform for emerging markets cooperation
 http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16485338.html
   Xi lands in New Delhi for BRICS summit
-http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16484898.html
-  Xi to attend BRICS summit in India
-http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16484634.html
-  Xi extends congratulations over DPRK's 78th founding anniversary
+http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16485208.html
+  China Coast Guard Hosts High-Level Meeting of the 22nd Heads of Asian Coast Guard Agencies Meeting
 http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16484731.html
   China, Singapore conclude joint maritime exercise
 http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16484712.html
