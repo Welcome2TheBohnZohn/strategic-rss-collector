@@ -1,5 +1,5 @@
 Strategic RSS Collector Status
-Generated: 2026-09-13 05:05:19 UTC
+Generated: 2026-09-13 12:11:16 UTC
 
 Status meanings:
 OK = Feed contains one or more items
@@ -11,7 +11,7 @@ FAILED = Source could not be retrieved
   Start URL: https://www.mod.gov.cn/
   Resolved URL: http://www.mod.gov.cn/
   HTTP: 200
-  Links discovered: 241
+  Links discovered: 242
   Candidate links/items: 50
   Attempted items/articles: 12
   Items/articles with text: 12
@@ -27,7 +27,7 @@ FAILED = Source could not be retrieved
   Start URL: http://www.81.cn/?big=jian
   Resolved URL: http://www.81.cn/?big=jian
   HTTP: 200
-  Links discovered: 531
+  Links discovered: 533
   Candidate links/items: 50
   Attempted items/articles: 12
   Items/articles with text: 12
@@ -43,7 +43,7 @@ FAILED = Source could not be retrieved
   Start URL: https://t.me/s/mod_russia_en
   Resolved URL: https://t.me/s/mod_russia_en
   HTTP: 200
-  Attempted items/articles: 20
+  Attempted items/articles: 17
   Items/articles with text: 12
   Items/articles with dates: 12
   RSS feed items: 12
@@ -71,7 +71,7 @@ FAILED = Source could not be retrieved
   Start URL: https://www.mod.gov.cn/gfbw/fgwx/bps/index.html
   Resolved URL: http://www.mod.gov.cn/gfbw/fgwx/bps/index.html
   HTTP: 200
-  Links discovered: 178
+  Links discovered: 179
   Candidate links/items: 28
   Attempted items/articles: 12
   Items/articles with text: 12
@@ -87,7 +87,7 @@ FAILED = Source could not be retrieved
   Start URL: https://www.mod.gov.cn/gfbw/fgwx/flfg/index.html
   Resolved URL: http://www.mod.gov.cn/gfbw/fgwx/flfg/index.html
   HTTP: 200
-  Links discovered: 171
+  Links discovered: 172
   Candidate links/items: 31
   Attempted items/articles: 12
   Items/articles with text: 12

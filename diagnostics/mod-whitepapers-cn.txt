@@ -6,7 +6,7 @@ Include regex: /gfbw/fgwx/bps/
 Include text regex: 
 
 Candidate links: 28
-All links discovered: 178
+All links discovered: 179
 
 === MATCHED CANDIDATES ===
 
@@ -293,12 +293,14 @@ http://www.mod.gov.cn/gfbw/fgwx/bps/4850789.html
   《平等 发展 共享：新中国70年妇女事业的发展与进步》白皮书发表 2019-09-20 10:34
 http://www.mod.gov.cn/gfbw/fgwx/bps/4846424.html
   《新时代的中国国防》白皮书（全文） 2019-07-24 11:24
+http://www.mod.gov.cn/gfbw/qwfb/16486050.html
+  习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话
+http://www.mod.gov.cn/gfbw/qwfb/16485405.html
+  讲话全文
+http://www.mod.gov.cn/gfbw/qwfb/16486131.html
+  习近平圆满结束出席金砖国家领导人第十八次会晤
 http://www.mod.gov.cn/gfbw/qwfb/16485413.html
   习近平会见印度总理莫迪
-http://www.mod.gov.cn/gfbw/qwfb/16484878.html
-  在第四十二个教师节到来之际 习近平向全国广大教师和教育工作者致以节日祝贺和诚挚问候
-http://www.mod.gov.cn/gfbw/qwfb/16484608.html
-  习近平就朝鲜国庆78周年向朝鲜最高领导人金正恩致贺电
 http://www.mod.gov.cn/gfbw/qwfb/16485032.html
   军队开展树立和践行正确政绩观学习教育取得明显成效
 http://www.mod.gov.cn/gfbw/qwfb/16483550.html

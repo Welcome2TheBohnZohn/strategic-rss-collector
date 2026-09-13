@@ -6,7 +6,7 @@ Include regex: /gfbw/fgwx/flfg/
 Include text regex: 
 
 Candidate links: 31
-All links discovered: 171
+All links discovered: 172
 
 === MATCHED CANDIDATES ===
 
@@ -303,12 +303,14 @@ http://www.mod.gov.cn/gfbw/fgwx/flfg/4927099.html
   关于调整规范军人家属随军及落户有关政策意见 2022-11-27 13:46
 http://www.mod.gov.cn/gfbw/fgwx/flfg/16126326.html
   中共中央　国务院　中央军委印发《关于加强和改进新时代全民国防教育工作的意见》 2022-09-01 18:22
+http://www.mod.gov.cn/gfbw/qwfb/16486050.html
+  习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话
+http://www.mod.gov.cn/gfbw/qwfb/16485405.html
+  讲话全文
+http://www.mod.gov.cn/gfbw/qwfb/16486131.html
+  习近平圆满结束出席金砖国家领导人第十八次会晤
 http://www.mod.gov.cn/gfbw/qwfb/16485413.html
   习近平会见印度总理莫迪
-http://www.mod.gov.cn/gfbw/qwfb/16484878.html
-  在第四十二个教师节到来之际 习近平向全国广大教师和教育工作者致以节日祝贺和诚挚问候
-http://www.mod.gov.cn/gfbw/qwfb/16484608.html
-  习近平就朝鲜国庆78周年向朝鲜最高领导人金正恩致贺电
 http://www.mod.gov.cn/gfbw/qwfb/16485032.html
   军队开展树立和践行正确政绩观学习教育取得明显成效
 http://www.mod.gov.cn/gfbw/qwfb/16483550.html

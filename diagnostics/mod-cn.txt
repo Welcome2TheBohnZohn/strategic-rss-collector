@@ -6,7 +6,7 @@ Include regex: /gfbw/|/xwfyr/|/wzll/
 Include text regex: 
 
 Candidate links: 50
-All links discovered: 241
+All links discovered: 242
 
 === MATCHED CANDIDATES ===
 
@@ -18,8 +18,6 @@ http://www.mod.gov.cn/gfbw/fgwx/16444625.html
   中央军委政治工作部等6部门联合印发《关于做好边远艰苦地区和大龄未婚官兵婚恋服务工作的意见》
 http://www.mod.gov.cn/gfbw/gfjy_index/16485061.html
   贵州省余庆县大乌江镇居民李光武一家四代人接力守护红军标语九十余载——乌江畔，两扇门板在诉说
-http://www.mod.gov.cn/gfbw/qwfb/16484878.html
-  在第四十二个教师节到来之际 习近平向全国广大教师和教育工作者致以节日祝贺和诚挚问候
 http://www.mod.gov.cn/gfbw/gfdy/16484798.html
   河南省漯河市商东村村民自发创作百余部红色情景剧和短视频——“草根”文艺团体远近闻名
 http://www.mod.gov.cn/gfbw/gfjy_index/16485059.html
@@ -28,12 +26,14 @@ http://www.mod.gov.cn/gfbw/xwfyr/16483544.html
   中老（挝）“和平列车－2026”人道主义医学救援联合演习将在老挝举行
 http://www.mod.gov.cn/gfbw/gffw/16484795.html
   陕西省宝鸡市军地出台军队人员寄递邮件快件优待方案 小件免费 大件优惠
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16485399.html
-  习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话
+http://www.mod.gov.cn/gfbw/sy/tt_214026/16486110.html
+  习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话
+http://www.mod.gov.cn/gfbw/sy/rt/16486128.html
+  习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话
 http://www.mod.gov.cn/gfbw/sy/rt/16485484.html
   习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话
-http://www.mod.gov.cn/gfbw/sy/rt/16483639.html
-  第十三届北京香山论坛暨二十周年纪念宣传片《对话·合作·和平》
+http://www.mod.gov.cn/gfbw/qwfb/16486050.html
+  习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话
 http://www.mod.gov.cn/gfbw/gffw/16484153.html
   江苏省淮安市洪泽区军地联合开展普法活动营区来了“法治辅导员”
 http://www.mod.gov.cn/gfbw/jsxd/16484704.html
@@ -50,8 +50,6 @@ http://www.mod.gov.cn/gfbw/gffw/16469120.html
   速览！2026年军校招生政策解读，你想知道的都在这里→
 http://www.mod.gov.cn/gfbw/gfdy/16484118.html
   阿佤山歌越唱越嘹亮，“为国守边”的誓言在山野间久久回响
-http://www.mod.gov.cn/gfbw/qwfb/16484608.html
-  习近平就朝鲜国庆78周年向朝鲜最高领导人金正恩致贺电
 http://www.mod.gov.cn/gfbw/tp_214132/16472263.html
   那一排排看似单薄的身躯，正是守护祖国和人民坚实的防线
 http://www.mod.gov.cn/gfbw/gfdy/16485063.html
@@ -72,6 +70,8 @@ http://www.mod.gov.cn/gfbw/tp_214132/16475831.html
   凌云出击！东部战区空军航空兵某旅开展空战对抗训练
 http://www.mod.gov.cn/gfbw/sy/rt/16485481.html
   习近平抵达新德里出席金砖国家领导人第十八次会晤
+http://www.mod.gov.cn/gfbw/qwfb/16486131.html
+  习近平圆满结束出席金砖国家领导人第十八次会晤
 http://www.mod.gov.cn/gfbw/jsxd/16481085.html
   中白“神鹰-2026”空降兵联合训练圆满结束
 http://www.mod.gov.cn/gfbw/qwfb/16484439.html
@@ -299,10 +299,12 @@ http://www.mod.gov.cn/gfbw/sy/jt_214028/16484303.html
   近日，陆军某部组织远程机动训练
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16483906.html
   陆军某团组织实弹射击考核
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16485399.html
-  习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话
-http://www.mod.gov.cn/gfbw/qwfb/16485405.html
+http://www.mod.gov.cn/gfbw/sy/tt_214026/16486110.html
+  习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话
+http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16486114.html
   讲话全文
+http://www.mod.gov.cn/gfbw/sy/rt/16486128.html
+  习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话
 http://www.mod.gov.cn/gfbw/sy/rt/16485484.html
   习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话
 http://www.mod.gov.cn/gfbw/sy/rt/16485421.html
@@ -311,14 +313,14 @@ http://www.mod.gov.cn/gfbw/sy/rt/16485481.html
   习近平抵达新德里出席金砖国家领导人第十八次会晤
 http://www.mod.gov.cn/gfbw/sy/rt/16483577.html
   2026年9月上旬国防部例行新闻发布
-http://www.mod.gov.cn/gfbw/sy/rt/16483639.html
-  第十三届北京香山论坛暨二十周年纪念宣传片《对话·合作·和平》
+http://www.mod.gov.cn/gfbw/qwfb/16486050.html
+  习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话
+http://www.mod.gov.cn/gfbw/qwfb/16485405.html
+  讲话全文
+http://www.mod.gov.cn/gfbw/qwfb/16486131.html
+  习近平圆满结束出席金砖国家领导人第十八次会晤
 http://www.mod.gov.cn/gfbw/qwfb/16485413.html
   习近平会见印度总理莫迪
-http://www.mod.gov.cn/gfbw/qwfb/16484878.html
-  在第四十二个教师节到来之际 习近平向全国广大教师和教育工作者致以节日祝贺和诚挚问候
-http://www.mod.gov.cn/gfbw/qwfb/16484608.html
-  习近平就朝鲜国庆78周年向朝鲜最高领导人金正恩致贺电
 http://www.mod.gov.cn/gfbw/qwfb/16485032.html
   军队开展树立和践行正确政绩观学习教育取得明显成效
 http://www.mod.gov.cn/gfbw/qwfb/16483550.html
@@ -502,11 +504,11 @@ http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/09/08/16484306_c74746bc
 http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/09/08/16484304_6be26097bb782a0adff8f43239fc4df2.png
 http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/09/08/16484303_5f1e08bf07e5ab5c773b63995ac2e6b3.png
 http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/09/06/16483906_97d247cae7c794f90ddde5776165c696.png
+http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/09/13/16486128_b9f3b1bb3d43e52507690d468972f90b.jpg
 http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/09/13/16485484_5b2c1a44103cac993d468a1b8d310f48.jpg
 http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/09/12/16485421_cc011844fc3170820ba64f46cf0f5bde.jpg
 http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/09/13/16485481_097d9bccc8429e1711fa60ef5ccd0991.jpg
 http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/09/04/16483577_0b81c642f6ad0c1b5876f668f96f7aa7.jpg
-http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/09/04/16483639_b1942655010f3b7be1c0e1eab4ab59da.jpg
 http://www.mod.gov.cn/gfbw/jswj/_attachment/2026/07/20/16474858_2d8b662d2e7011d5f926fd70b2598d77.jpg
 http://www.mod.gov.cn/gfbw/wzll/_attachment/2026/09/13/16485509_17c6ca8fab2e02522dc6972c2840727a.jpg
 http://www.mod.gov.cn/gfbw/jsxd/_attachment/2026/09/10/16484796_919233723ad7166b68cad2304e1e7cb7.png
