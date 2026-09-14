@@ -672,7 +672,7 @@ Fig.
 Simulation schematic diagram of the interactions between high-power microwave and columnar plasma arrays
 下载:
 全尺寸图片
-(47)
+(48)
 图
 2
 计算模型中电场强度空间分布随激励时间的演变过程
@@ -816,11 +816,11 @@ LI Zhigang, QIU Zhinan, WANG Jiachun, et al. Study of high-power microwave prote
 Copy
 计量
 文章访问量:
-28997
+29005
 HTML全文浏览量:
-3687
+3694
 PDF下载量:
-9922
+9924
 被引次数:
 0
 图
@@ -893,7 +893,7 @@ HE W, LIU X H, XIAN R C,et al. Kinetics characteristics and bremsstrahlung of ar
 扫码关注
 官方微信
 您是今天第
-1690
+3440
 位访客
 总访问量：
 262063968
