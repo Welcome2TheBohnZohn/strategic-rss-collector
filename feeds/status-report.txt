@@ -1,5 +1,5 @@
 Strategic RSS Collector Status
-Generated: 2026-09-13 21:05:29 UTC
+Generated: 2026-09-14 05:14:19 UTC
 
 Status meanings:
 OK = Feed contains one or more items
@@ -27,7 +27,7 @@ FAILED = Source could not be retrieved
   Start URL: http://www.81.cn/?big=jian
   Resolved URL: http://www.81.cn/?big=jian
   HTTP: 200
-  Links discovered: 533
+  Links discovered: 532
   Candidate links/items: 50
   Attempted items/articles: 12
   Items/articles with text: 12
@@ -269,10 +269,10 @@ Call log:
 [OK] china-defense-news-cn - China National Defense News
   Source type: newspaper
   Start URL: http://www.81.cn/szb_223187/gfbszblb/index.html
-  Resolved URL: http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-11&paperName=zggfb&paperNumber=01
+  Resolved URL: http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-14&paperName=zggfb&paperNumber=01
   HTTP: 200
-  Links discovered: 286
-  Candidate links/items: 18
+  Links discovered: 278
+  Candidate links/items: 14
   Attempted items/articles: 12
   Items/articles with text: 12
   Items/articles with dates: 12

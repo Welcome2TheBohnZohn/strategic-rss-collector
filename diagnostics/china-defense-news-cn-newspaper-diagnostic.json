@@ -1,103 +1,87 @@
 {
-  "issue_date": "2026-09-11",
+  "issue_date": "2026-09-14",
   "issue_pages": [
     {
       "paper_number": "01",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-11&paperName=zggfb&paperNumber=01",
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-14&paperName=zggfb&paperNumber=01",
       "links": 73,
       "article_links": 4
     },
     {
       "paper_number": "02",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-11&paperName=zggfb&paperNumber=02",
-      "links": 73,
-      "article_links": 5
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-14&paperName=zggfb&paperNumber=02",
+      "links": 71,
+      "article_links": 4
     },
     {
       "paper_number": "03",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-11&paperName=zggfb&paperNumber=03",
-      "links": 71,
-      "article_links": 5
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-14&paperName=zggfb&paperNumber=03",
+      "links": 63,
+      "article_links": 1
     },
     {
       "paper_number": "04",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-11&paperName=zggfb&paperNumber=04",
-      "links": 69,
-      "article_links": 4
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-14&paperName=zggfb&paperNumber=04",
+      "links": 71,
+      "article_links": 5
     }
   ],
   "candidates": [
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-11&paperNumber=01&articleid=986442",
-      "anchor_title": "点亮城市致敬英模英烈"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-14&paperNumber=01&articleid=986617",
+      "anchor_title": "一家搭台 多家参训"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-11&paperNumber=01&articleid=986444",
-      "anchor_title": "家国情怀刻入成长年轮"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-14&paperNumber=01&articleid=986616",
+      "anchor_title": "返乡攻略上新 接站服务暖心"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-11&paperNumber=01&articleid=986441",
-      "anchor_title": "“夸夸我身边的榜样”"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-14&paperNumber=01&articleid=986619",
+      "anchor_title": "让军娃上学无忧"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-11&paperNumber=01&articleid=986445",
-      "anchor_title": "老兵的交接"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-14&paperNumber=01&articleid=986620",
+      "anchor_title": "乌蒙深处有个“老兵之家”"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-11&paperNumber=02&articleid=986451",
-      "anchor_title": "乌江畔，两扇门板在诉说"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-14&paperNumber=02&articleid=986628",
+      "anchor_title": "研学万里路 接力传薪火"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-11&paperNumber=02&articleid=986452",
-      "anchor_title": "“眼界开阔，才能志存高远”"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-14&paperNumber=02&articleid=986629",
+      "anchor_title": "“你们只管努力学习，我们负责保卫祖国”"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-11&paperNumber=02&articleid=986453",
-      "anchor_title": "“心存责任，方可不负信任”"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-14&paperNumber=02&articleid=986631",
+      "anchor_title": "在树湘故乡，与“树湘”对话"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-11&paperNumber=02&articleid=986455",
-      "anchor_title": "解难帮困暖兵心"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-14&paperNumber=02&articleid=986632",
+      "anchor_title": "“过来人”成为预定新兵“带路人”"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-11&paperNumber=02&articleid=986456",
-      "anchor_title": "微新闻"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-14&paperNumber=03&articleid=986622",
+      "anchor_title": "“检察蓝”守护“红飘带”"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-11&paperNumber=03&articleid=986457",
-      "anchor_title": "雄关漫道真如铁"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-14&paperNumber=04&articleid=986623",
+      "anchor_title": "日本“扩武外交”引发警惕和反对"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-11&paperNumber=03&articleid=986458",
-      "anchor_title": "延安行吟"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-14&paperNumber=04&articleid=986624",
+      "anchor_title": "美新型步战车项目取得进展"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-11&paperNumber=03&articleid=986459",
-      "anchor_title": "母亲的浆水面"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-14&paperNumber=04&articleid=986625",
+      "anchor_title": "英陆军被叫停多项常规演训"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-11&paperNumber=03&articleid=986461",
-      "anchor_title": "仰望铁铃关"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-14&paperNumber=04&articleid=986626",
+      "anchor_title": "希腊将引进以色列防空系统"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-11&paperNumber=03&articleid=986460",
-      "anchor_title": "黄山"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-11&paperNumber=04&articleid=986447",
-      "anchor_title": "美海军拟借外国船厂补造舰缺口"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-11&paperNumber=04&articleid=986448",
-      "anchor_title": "法国陆军明确新一轮转型重点"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-11&paperNumber=04&articleid=986450",
-      "anchor_title": "美日澳举行大规模陆上联演"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-11&paperNumber=04&articleid=986449",
-      "anchor_title": "英国空军强化太空作战职能"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-14&paperNumber=04&articleid=986627",
+      "anchor_title": "芬兰举行大规模民防演习"
     }
   ]
 }
