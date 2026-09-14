@@ -1,5 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Mon, 14 Sep 2026 13:06:32 +0000</lastBuildDate><item><title>CNNVD-2026-99675343 - GPAC 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-99675343</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-99675343</guid><pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate><description>GPAC 缓冲区错误漏洞
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Mon, 14 Sep 2026 22:04:12 +0000</lastBuildDate><item><title>CNNVD-2026-18027760 - SIPp 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-18027760</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-18027760</guid><pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate><description>SIPp 缓冲区错误漏洞
+危害等级: 高危
+收录时间：2026-09-13 | 更新时间: 2026-09-14 16:53:18
+CNNVD编号: CNNVD-2026-18027760</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-18027760&lt;/p&gt;&lt;pre&gt;SIPp 缓冲区错误漏洞
+危害等级: 高危
+收录时间：2026-09-13 | 更新时间: 2026-09-14 16:53:18
+CNNVD编号: CNNVD-2026-18027760&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-90093114 - espnet 反序列化注入漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-90093114</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-90093114</guid><pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate><description>espnet 反序列化注入漏洞
+危害等级: 高危
+收录时间：2026-09-13 | 更新时间: 2026-09-14 16:52:58
+CNNVD编号: CNNVD-2026-90093114</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-90093114&lt;/p&gt;&lt;pre&gt;espnet 反序列化注入漏洞
+危害等级: 高危
+收录时间：2026-09-13 | 更新时间: 2026-09-14 16:52:58
+CNNVD编号: CNNVD-2026-90093114&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-80314020 - Moritz Bunkus MKVToolNix 数字错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-80314020</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-80314020</guid><pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate><description>Moritz Bunkus MKVToolNix 数字错误漏洞
+危害等级: 高危
+收录时间：2026-09-13 | 更新时间: 2026-09-14 16:52:55
+CNNVD编号: CNNVD-2026-80314020</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-80314020&lt;/p&gt;&lt;pre&gt;Moritz Bunkus MKVToolNix 数字错误漏洞
+危害等级: 高危
+收录时间：2026-09-13 | 更新时间: 2026-09-14 16:52:55
+CNNVD编号: CNNVD-2026-80314020&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-99675343 - GPAC 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-99675343</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-99675343</guid><pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate><description>GPAC 缓冲区错误漏洞
 危害等级: 低危
 收录时间：2026-09-13 | 更新时间: 2026-09-14 16:53:35
 CNNVD编号: CNNVD-2026-99675343</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-99675343&lt;/p&gt;&lt;pre&gt;GPAC 缓冲区错误漏洞
@@ -35,28 +53,10 @@ CNNVD编号: CNNVD-2026-66396704&lt;/pre&gt;</content:encoded></item><item><titl
 CNNVD编号: CNNVD-2026-44951134</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-44951134&lt;/p&gt;&lt;pre&gt;Nodemailer 资源管理错误漏洞
 危害等级: 高危
 收录时间：2026-09-13 | 更新时间: 2026-09-14 16:53:31
-CNNVD编号: CNNVD-2026-44951134&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-54455634 - vvbbnn00 warp-clash-api 竞争条件问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-54455634</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-54455634</guid><pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate><description>vvbbnn00 warp-clash-api 竞争条件问题漏洞
-危害等级: 低危
-收录时间：2026-09-13 | 更新时间: 2026-09-14 16:53:50
-CNNVD编号: CNNVD-2026-54455634</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-54455634&lt;/p&gt;&lt;pre&gt;vvbbnn00 warp-clash-api 竞争条件问题漏洞
-危害等级: 低危
-收录时间：2026-09-13 | 更新时间: 2026-09-14 16:53:50
-CNNVD编号: CNNVD-2026-54455634&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-86903544 - Chengdu Qilu LuDaShi 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-86903544</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-86903544</guid><pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate><description>Chengdu Qilu LuDaShi 授权问题漏洞
-危害等级: 低危
-收录时间：2026-09-13 | 更新时间: 2026-09-14 16:53:50
-CNNVD编号: CNNVD-2026-86903544</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-86903544&lt;/p&gt;&lt;pre&gt;Chengdu Qilu LuDaShi 授权问题漏洞
-危害等级: 低危
-收录时间：2026-09-13 | 更新时间: 2026-09-14 16:53:50
-CNNVD编号: CNNVD-2026-86903544&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-41382793 - PHPGurukul Bank Locker Management System 权限许可和访问控制问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-41382793</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-41382793</guid><pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate><description>PHPGurukul Bank Locker Management System 权限许可和访问控制问题漏洞
-危害等级: 低危
-收录时间：2026-09-13 | 更新时间: 2026-09-14 16:53:48
-CNNVD编号: CNNVD-2026-41382793</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-41382793&lt;/p&gt;&lt;pre&gt;PHPGurukul Bank Locker Management System 权限许可和访问控制问题漏洞
-危害等级: 低危
-收录时间：2026-09-13 | 更新时间: 2026-09-14 16:53:48
-CNNVD编号: CNNVD-2026-41382793&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-87475195 - projectfloodlight floodlight 权限许可和访问控制问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-87475195</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-87475195</guid><pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate><description>projectfloodlight floodlight 权限许可和访问控制问题漏洞
-危害等级: 低危
-收录时间：2026-09-13 | 更新时间: 2026-09-14 16:55:04
-CNNVD编号: CNNVD-2026-87475195</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-87475195&lt;/p&gt;&lt;pre&gt;projectfloodlight floodlight 权限许可和访问控制问题漏洞
-危害等级: 低危
-收录时间：2026-09-13 | 更新时间: 2026-09-14 16:55:04
-CNNVD编号: CNNVD-2026-87475195&lt;/pre&gt;</content:encoded></item></channel></rss>
+CNNVD编号: CNNVD-2026-44951134&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-68458304 - Strapi 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-68458304</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-68458304</guid><pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate><description>Strapi 跨站脚本漏洞
+危害等级: 超危
+收录时间：2026-09-13 | 更新时间: 2026-09-14 16:53:40
+CNNVD编号: CNNVD-2026-68458304</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-68458304&lt;/p&gt;&lt;pre&gt;Strapi 跨站脚本漏洞
+危害等级: 超危
+收录时间：2026-09-13 | 更新时间: 2026-09-14 16:53:40
+CNNVD编号: CNNVD-2026-68458304&lt;/pre&gt;</content:encoded></item></channel></rss>
