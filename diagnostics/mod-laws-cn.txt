@@ -6,7 +6,7 @@ Include regex: /gfbw/fgwx/flfg/
 Include text regex: 
 
 Candidate links: 31
-All links discovered: 172
+All links discovered: 173
 
 === MATCHED CANDIDATES ===
 
@@ -303,6 +303,10 @@ http://www.mod.gov.cn/gfbw/fgwx/flfg/4927099.html
   关于调整规范军人家属随军及落户有关政策意见 2022-11-27 13:46
 http://www.mod.gov.cn/gfbw/fgwx/flfg/16126326.html
   中共中央　国务院　中央军委印发《关于加强和改进新时代全民国防教育工作的意见》 2022-09-01 18:22
+http://www.mod.gov.cn/gfbw/qwfb/16486559.html
+  习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话
+http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16486114.html
+  讲话全文
 http://www.mod.gov.cn/gfbw/qwfb/16486050.html
   习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话
 http://www.mod.gov.cn/gfbw/qwfb/16485405.html
@@ -313,8 +317,6 @@ http://www.mod.gov.cn/gfbw/qwfb/16486407.html
   董军同老挝副总理兼国防部长举行会谈
 http://www.mod.gov.cn/gfbw/qwfb/16486336.html
   《军营理论热点怎么看·2026》印发全军
-http://www.mod.gov.cn/gfbw/qwfb/16486322.html
-  国防部：军训不只是队列与汗水 更是青春的锻造与成长
 http://www.mod.gov.cn/gfbw/spbb_214126/16477140.html
   何为承诺
 http://www.mod.gov.cn/gfbw/spbb_214126/16477755.html

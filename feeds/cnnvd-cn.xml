@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Mon, 14 Sep 2026 22:04:12 +0000</lastBuildDate><item><title>CNNVD-2026-18027760 - SIPp 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-18027760</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-18027760</guid><pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate><description>SIPp 缓冲区错误漏洞
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Tue, 15 Sep 2026 05:10:41 +0000</lastBuildDate><item><title>CNNVD-2026-18027760 - SIPp 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-18027760</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-18027760</guid><pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate><description>SIPp 缓冲区错误漏洞
 危害等级: 高危
 收录时间：2026-09-13 | 更新时间: 2026-09-14 16:53:18
 CNNVD编号: CNNVD-2026-18027760</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-18027760&lt;/p&gt;&lt;pre&gt;SIPp 缓冲区错误漏洞
@@ -17,13 +17,7 @@ CNNVD编号: CNNVD-2026-90093114&lt;/pre&gt;</content:encoded></item><item><titl
 CNNVD编号: CNNVD-2026-80314020</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-80314020&lt;/p&gt;&lt;pre&gt;Moritz Bunkus MKVToolNix 数字错误漏洞
 危害等级: 高危
 收录时间：2026-09-13 | 更新时间: 2026-09-14 16:52:55
-CNNVD编号: CNNVD-2026-80314020&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-99675343 - GPAC 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-99675343</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-99675343</guid><pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate><description>GPAC 缓冲区错误漏洞
-危害等级: 低危
-收录时间：2026-09-13 | 更新时间: 2026-09-14 16:53:35
-CNNVD编号: CNNVD-2026-99675343</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-99675343&lt;/p&gt;&lt;pre&gt;GPAC 缓冲区错误漏洞
-危害等级: 低危
-收录时间：2026-09-13 | 更新时间: 2026-09-14 16:53:35
-CNNVD编号: CNNVD-2026-99675343&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-98846824 - UnrealIRCd 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-98846824</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-98846824</guid><pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate><description>UnrealIRCd 资源管理错误漏洞
+CNNVD编号: CNNVD-2026-80314020&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-98846824 - UnrealIRCd 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-98846824</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-98846824</guid><pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate><description>UnrealIRCd 资源管理错误漏洞
 危害等级: 高危
 收录时间：2026-09-13 | 更新时间: 2026-09-14 16:53:35
 CNNVD编号: CNNVD-2026-98846824</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-98846824&lt;/p&gt;&lt;pre&gt;UnrealIRCd 资源管理错误漏洞
@@ -59,4 +53,10 @@ CNNVD编号: CNNVD-2026-44951134&lt;/pre&gt;</content:encoded></item><item><titl
 CNNVD编号: CNNVD-2026-68458304</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-68458304&lt;/p&gt;&lt;pre&gt;Strapi 跨站脚本漏洞
 危害等级: 超危
 收录时间：2026-09-13 | 更新时间: 2026-09-14 16:53:40
-CNNVD编号: CNNVD-2026-68458304&lt;/pre&gt;</content:encoded></item></channel></rss>
+CNNVD编号: CNNVD-2026-68458304&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-29207112 - Rizwan Khan inventory-management-system 权限许可和访问控制问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-29207112</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-29207112</guid><pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate><description>Rizwan Khan inventory-management-system 权限许可和访问控制问题漏洞
+危害等级: 中危
+收录时间：2026-09-13 | 更新时间: 2026-09-14 16:53:39
+CNNVD编号: CNNVD-2026-29207112</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-29207112&lt;/p&gt;&lt;pre&gt;Rizwan Khan inventory-management-system 权限许可和访问控制问题漏洞
+危害等级: 中危
+收录时间：2026-09-13 | 更新时间: 2026-09-14 16:53:39
+CNNVD编号: CNNVD-2026-29207112&lt;/pre&gt;</content:encoded></item></channel></rss>

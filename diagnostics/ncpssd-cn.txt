@@ -88,8 +88,6 @@ https://www.ncpssd.cn/message?id=18580
   国家哲学社会科学文献中心为贵阳市“两会”提供学术资源服务
 https://www.ncpssd.cn/message?id=22263
   习近平在金砖国家领导人第十八次会晤第二阶段会议的讲话
-https://www.ncpssd.cn/message?id=22259
-  习近平在金砖国家领导人第十八次会晤第一阶段会议的讲话
 https://www.ncpssd.cn/message?id=22264
   习近平圆满结束出席金砖国家领导人第十八次会晤
 https://www.ncpssd.cn/message?id=19563
@@ -98,6 +96,10 @@ https://www.ncpssd.cn/message?id=19564
   《在学术期刊中合理应用人工智能的倡议书》发布
 https://www.ncpssd.cn/message?id=18273
   国家哲学社会科学文献中心走进贵州省图书馆学会
+https://www.ncpssd.cn/message?id=22268
+  习近平给福建省“漳州110”全体队员的回信
+https://www.ncpssd.cn/message?id=22267
+  习近平给福建省“漳州110”全体队员回信
 https://www.ncpssd.cn/js/jquery-1.11.1.min.js
   jquery-1.11.1.min.js
 https://www.ncpssd.cn/css/jquery.hiSlider.css
@@ -114,8 +116,6 @@ https://www.ncpssd.cn/js/sensorsdata.min.js
   sensorsdata.min.js
 https://www.ncpssd.cn/Literature/ancientbooklistNew
   ancientbooklistNew
-https://www.ncpssd.cn/js/jquery.base64.js
-  jquery.base64.js
 
 === ALL DISCOVERED LINKS ===
 
@@ -161,16 +161,16 @@ https://www.ncpssd.cn/messages
 https://www.ncpssd.cn/message?id=22266
 https://www.ncpssd.cn/message?id=22261
 https://www.ncpssd.cn/message?id=22214
+https://www.ncpssd.cn/message?id=22268
+  习近平给福建省“漳州110”全体队员的回信
+https://www.ncpssd.cn/message?id=22267
+  习近平给福建省“漳州110”全体队员回信
 https://www.ncpssd.cn/message?id=22264
   习近平圆满结束出席金砖国家领导人第十八次会晤
 https://www.ncpssd.cn/message?id=22263
   习近平在金砖国家领导人第十八次会晤第二阶段会议的讲话
 https://www.ncpssd.cn/message?id=22262
   习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话
-https://www.ncpssd.cn/message?id=22260
-  习近平会见印度总理莫迪
-https://www.ncpssd.cn/message?id=22259
-  习近平在金砖国家领导人第十八次会晤第一阶段会议的讲话
 https://www.ncpssd.cn/message?id=19563
   国家哲学社会科学文献中心发布最受欢迎期刊报告
 https://www.ncpssd.cn/message?id=19564

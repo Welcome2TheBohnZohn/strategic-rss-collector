@@ -6,7 +6,7 @@ Include regex: /gfbw/|/xwfyr/|/wzll/
 Include text regex: 
 
 Candidate links: 50
-All links discovered: 242
+All links discovered: 243
 
 === MATCHED CANDIDATES ===
 
@@ -18,30 +18,28 @@ http://www.mod.gov.cn/gfbw/fgwx/16444625.html
   中央军委政治工作部等6部门联合印发《关于做好边远艰苦地区和大龄未婚官兵婚恋服务工作的意见》
 http://www.mod.gov.cn/gfbw/qwfb/16486373.html
   中共中央办公厅 国务院办公厅 中央军委办公厅印发《退役军人服务和保障“十五五”规划》
-http://www.mod.gov.cn/gfbw/gfjy_index/16486271.html
-  甘肃省皋兰县选拔退役大学生士兵担任役前教育骨干 “过来人”成为预定新兵“带路人”
-http://www.mod.gov.cn/gfbw/gfjy_index/16486256.html
-  湖南省长沙市50余万中小学生同上一堂云端思政课在树湘故乡，与“树湘”对话
 http://www.mod.gov.cn/gfbw/gffw/16484795.html
   陕西省宝鸡市军地出台军队人员寄递邮件快件优待方案 小件免费 大件优惠
+http://www.mod.gov.cn/gfbw/gfdy/16486517.html
+  江苏省南通市崇川区借力体育赛事深化全民国防教育 绿茵赛场唱响国防旋律
 http://www.mod.gov.cn/gfbw/gffw/16486244.html
   山东省青岛市以务实举措迎接退役士兵回家 返乡攻略上新 接站服务暖心
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16486110.html
-  习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话
 http://www.mod.gov.cn/gfbw/sy/rt/16486128.html
   习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话
 http://www.mod.gov.cn/gfbw/sy/rt/16485484.html
   习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话
+http://www.mod.gov.cn/gfbw/qwfb/16486559.html
+  习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话
 http://www.mod.gov.cn/gfbw/qwfb/16486050.html
   习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话
-http://www.mod.gov.cn/gfbw/gfdy/16486251.html
-  云南省会泽县老兵服务队致力解难帮困——乌蒙深处有个“老兵之家”
 http://www.mod.gov.cn/gfbw/jsxd/16484704.html
   中老“和平列车”首次成体系运用无人智能设备开展联合卫勤训练
 http://www.mod.gov.cn/gfbw/gffw/16469120.html
   速览！2026年军校招生政策解读，你想知道的都在这里→
 http://www.mod.gov.cn/gfbw/gfdy/16484118.html
   阿佤山歌越唱越嘹亮，“为国守边”的誓言在山野间久久回响
+http://www.mod.gov.cn/gfbw/gfdy/16486515.html
+  内蒙古磴口县织密廉洁征兵防线 军地携手打造“阳光工程”
 http://www.mod.gov.cn/gfbw/gfjy_index/16486262.html
   江苏省淮北中学连续20年组织近600名学生追寻红色足迹
 http://www.mod.gov.cn/gfbw/qwfb/16486327.html
@@ -52,48 +50,36 @@ http://www.mod.gov.cn/gfbw/qwfb/16486322.html
   国防部：军训不只是队列与汗水 更是青春的锻造与成长
 http://www.mod.gov.cn/gfbw/qwfb/16486323.html
   国防部介绍中俄蒙“边防合作－2026”联合演练情况
-http://www.mod.gov.cn/gfbw/wzll/16486245.html
-  武警广东总队清远支队与陆军某部携手构建联训共享机制
 http://www.mod.gov.cn/gfbw/xwfyr/16486358.html
   国防部介绍中俄蒙“边防合作－2026”联合演练情况
 http://www.mod.gov.cn/gfbw/xwfyr/16486357.html
   国防部：军训不只是队列与汗水 更是青春的锻造与成长
-http://www.mod.gov.cn/gfbw/gfdy/16485063.html
-  山东省烟台警备区开门纳谏为基层办实事解难帮困暖兵心
-http://www.mod.gov.cn/gfbw/gfjy_index/16486280.html
-  “益路长征·赓续守护”检察公益诉讼专项监督活动一瞥
 http://www.mod.gov.cn/gfbw/tp_214132/16473226.html
   振翅远航！空军航空兵某团官兵驾驭“鲲鹏”奋飞新时代
-http://www.mod.gov.cn/gfbw/wzll/16485508.html
-  沈阳联勤保障中心某部聚焦战场需求开展军士选晋考核
 http://www.mod.gov.cn/gfbw/jsxd/16480355.html
   中国船舶“艾琳娜”轮致信感谢海军第48批护航编队
-http://www.mod.gov.cn/gfbw/gfdy/16485043.html
-  甘肃省天水军分区创新方法激发所属人员干事创业热情
 http://www.mod.gov.cn/gfbw/tp_214132/16475831.html
   凌云出击！东部战区空军航空兵某旅开展空战对抗训练
 http://www.mod.gov.cn/gfbw/sy/rt/16485481.html
   习近平抵达新德里出席金砖国家领导人第十八次会晤
 http://www.mod.gov.cn/gfbw/qwfb/16486324.html
   中新“海上合作－2026”联演促进双方务实合作
+http://www.mod.gov.cn/gfbw/wzll/16486538.html
+  武警江西总队某支队临退伍老兵与留队战友并肩冲锋
 http://www.mod.gov.cn/gfbw/xwfyr/16486359.html
   中新“海上合作－2026”联演促进双方务实合作
 http://www.mod.gov.cn/gfbw/jsxd/16481085.html
   中白“神鹰-2026”空降兵联合训练圆满结束
-http://www.mod.gov.cn/gfbw/qwfb/16486447.html
-  中老“和平列车-2026”联合演习圆满落幕
 http://www.mod.gov.cn/gfbw/jswj/16479884.html
   海军83舰编队圆满完成远海综合实习访问任务
-http://www.mod.gov.cn/gfbw/jmsd/16485504.html
-  军事论坛｜从长征战略机动看作战体系弹性塑造
+http://www.mod.gov.cn/gfbw/sy/tt_214026/16486558.html
+  习近平给福建省“漳州110”全体队员回信
 http://www.mod.gov.cn/gfbw/qwfb/16486336.html
   《军营理论热点怎么看·2026》印发全军
 http://www.mod.gov.cn/gfbw/jswj/16477419.html
   海军83舰编队抵达印度尼西亚进行友好访问
-http://www.mod.gov.cn/gfbw/wzll/16486243.html
-  上海警备区统筹军地资源探索民兵组训新模式
-http://www.mod.gov.cn/gfbw/wzll/16485509.html
-  联勤保障部队加快构建新型联勤保障体系综述
+http://www.mod.gov.cn/gfbw/wzll/16486541.html
+  第74集团军某旅建章立制加强野外驻训管理
 http://www.mod.gov.cn/gfbw/gffw/16486248.html
   河南省郑州市抓细落实军人子女教育优待政策
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16486217.html
@@ -104,12 +90,26 @@ http://www.mod.gov.cn/gfbw/sy/rt/16486374.html
   2026年9月中旬国防部例行新闻发布
 http://www.mod.gov.cn/gfbw/qwfb/16486340.html
   2026年9月中旬国防部例行新闻发布
-http://www.mod.gov.cn/gfbw/jmsd/16486192.html
-  强军论坛｜筑牢智能时代的网络安全防线
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16485292.html
   陆军某旅在大漠戈壁开展实弹射击训练
 http://www.mod.gov.cn/gfbw/qwfb/16486407.html
   董军同老挝副总理兼国防部长举行会谈
+http://www.mod.gov.cn/gfbw/jswj/16474858.html
+  越南海军“陈兴道”号护卫舰访问广州
+http://www.mod.gov.cn/gfbw/jswj/16475665.html
+  海军83舰编队抵达文莱进行友好访问
+http://www.mod.gov.cn/gfbw/jmsd/16486525.html
+  弘扬伟大长征精神 凝聚强国强军力量
+http://www.mod.gov.cn/gfbw/fgwx/16448582.html
+  中华人民共和国民族团结进步促进法
+http://www.mod.gov.cn/gfbw/jmsd/16485500.html
+  强军论坛｜让驻训营区多些“战味”
+http://www.mod.gov.cn/gfbw/gfdy/16486519.html
+  黑龙江省青冈县 选准配强专武干部
+http://www.mod.gov.cn/gfbw/tp_214132/16477668.html
+  第82集团军某旅开展实弹射击训练
+http://www.mod.gov.cn/gfbw/sy/jt_214028/16484306.html
+  初秋，陆军某旅组织实弹射击训练
 
 === ALL DISCOVERED LINKS ===
 
@@ -299,10 +299,10 @@ http://www.mod.gov.cn/gfbw/sy/jt_214028/16484306.html
   初秋，陆军某旅组织实弹射击训练
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16484304.html
   初秋，空军某旅开展飞行训练
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16486110.html
-  习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话
-http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16486114.html
-  讲话全文
+http://www.mod.gov.cn/gfbw/sy/tt_214026/16486558.html
+  习近平给福建省“漳州110”全体队员回信
+http://www.mod.gov.cn/gfbw/qwfb/16486562.html
+  回信全文
 http://www.mod.gov.cn/gfbw/sy/rt/16486128.html
   习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话
 http://www.mod.gov.cn/gfbw/sy/rt/16485484.html
@@ -313,6 +313,10 @@ http://www.mod.gov.cn/gfbw/sy/rt/16485481.html
   习近平抵达新德里出席金砖国家领导人第十八次会晤
 http://www.mod.gov.cn/gfbw/sy/rt/16486374.html
   2026年9月中旬国防部例行新闻发布
+http://www.mod.gov.cn/gfbw/qwfb/16486559.html
+  习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话
+http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16486114.html
+  讲话全文
 http://www.mod.gov.cn/gfbw/qwfb/16486050.html
   习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话
 http://www.mod.gov.cn/gfbw/qwfb/16485405.html
@@ -323,18 +327,16 @@ http://www.mod.gov.cn/gfbw/qwfb/16486407.html
   董军同老挝副总理兼国防部长举行会谈
 http://www.mod.gov.cn/gfbw/qwfb/16486336.html
   《军营理论热点怎么看·2026》印发全军
-http://www.mod.gov.cn/gfbw/qwfb/16486322.html
-  国防部：军训不只是队列与汗水 更是青春的锻造与成长
 http://www.mod.gov.cn/gfbw/qwfb/16486340.html
   2026年9月中旬国防部例行新闻发布
+http://www.mod.gov.cn/gfbw/qwfb/16486322.html
+  国防部：军训不只是队列与汗水 更是青春的锻造与成长
 http://www.mod.gov.cn/gfbw/qwfb/16486324.html
   中新“海上合作－2026”联演促进双方务实合作
 http://www.mod.gov.cn/gfbw/qwfb/16486323.html
   国防部介绍中俄蒙“边防合作－2026”联合演练情况
 http://www.mod.gov.cn/gfbw/qwfb/16486327.html
   “未来·军事科技”国际学员科技周将在国防科技大学举办
-http://www.mod.gov.cn/gfbw/qwfb/16486447.html
-  中老“和平列车-2026”联合演习圆满落幕
 http://www.mod.gov.cn/gfbw/jswj/16474858.html
   越南海军“陈兴道”号护卫舰访问广州
 http://www.mod.gov.cn/gfbw/jswj/16479884.html
@@ -343,14 +345,14 @@ http://www.mod.gov.cn/gfbw/jswj/16477419.html
   海军83舰编队抵达印度尼西亚进行友好访问
 http://www.mod.gov.cn/gfbw/jswj/16475665.html
   海军83舰编队抵达文莱进行友好访问
-http://www.mod.gov.cn/gfbw/wzll/16486245.html
-  武警广东总队清远支队与陆军某部携手构建联训共享机制
-http://www.mod.gov.cn/gfbw/wzll/16486243.html
-  上海警备区统筹军地资源探索民兵组训新模式
-http://www.mod.gov.cn/gfbw/wzll/16485509.html
-  联勤保障部队加快构建新型联勤保障体系综述
-http://www.mod.gov.cn/gfbw/wzll/16485508.html
-  沈阳联勤保障中心某部聚焦战场需求开展军士选晋考核
+http://www.mod.gov.cn/gfbw/wzll/16486543.html
+  中国边关丨边关自有花常开
+http://www.mod.gov.cn/gfbw/wzll/16486545.html
+  一路奔赴 一路生花
+http://www.mod.gov.cn/gfbw/wzll/16486541.html
+  第74集团军某旅建章立制加强野外驻训管理
+http://www.mod.gov.cn/gfbw/wzll/16486538.html
+  武警江西总队某支队临退伍老兵与留队战友并肩冲锋
 http://www.mod.gov.cn/gfbw/jsxd/16484796.html
   中新“海上合作-2026”联合演习结束
 http://www.mod.gov.cn/gfbw/jsxd/16484704.html
@@ -406,28 +408,28 @@ http://www.mod.gov.cn/gfbw/jmsd/index.html
   军媒视点
 http://www.mod.gov.cn/gfbw/jmsd/16485500.html
   强军论坛｜让驻训营区多些“战味”
-http://www.mod.gov.cn/gfbw/jmsd/16486192.html
-  强军论坛｜筑牢智能时代的网络安全防线
-http://www.mod.gov.cn/gfbw/jmsd/16485504.html
-  军事论坛｜从长征战略机动看作战体系弹性塑造
-http://www.mod.gov.cn/gfbw/jmsd/16485266.html
-  八一锐评｜安全工作须臾不可放松
+http://www.mod.gov.cn/gfbw/jmsd/16486530.html
+  筑牢领导干部国防教育主阵地
+http://www.mod.gov.cn/gfbw/jmsd/16486525.html
+  弘扬伟大长征精神 凝聚强国强军力量
+http://www.mod.gov.cn/gfbw/jmsd/16486524.html
+  争当决胜关头的“特殊砝码”
 http://www.mod.gov.cn/gfbw/gfdy/16484118.html
   阿佤山歌越唱越嘹亮，“为国守边”的誓言在山野间久久回响
-http://www.mod.gov.cn/gfbw/gfdy/16486251.html
-  云南省会泽县老兵服务队致力解难帮困——乌蒙深处有个“老兵之家”
-http://www.mod.gov.cn/gfbw/gfdy/16485063.html
-  山东省烟台警备区开门纳谏为基层办实事解难帮困暖兵心
-http://www.mod.gov.cn/gfbw/gfdy/16485043.html
-  甘肃省天水军分区创新方法激发所属人员干事创业热情
+http://www.mod.gov.cn/gfbw/gfdy/16486519.html
+  黑龙江省青冈县 选准配强专武干部
+http://www.mod.gov.cn/gfbw/gfdy/16486517.html
+  江苏省南通市崇川区借力体育赛事深化全民国防教育 绿茵赛场唱响国防旋律
+http://www.mod.gov.cn/gfbw/gfdy/16486515.html
+  内蒙古磴口县织密廉洁征兵防线 军地携手打造“阳光工程”
 http://www.mod.gov.cn/gfbw/gfjy_index/16486262.html
   江苏省淮北中学连续20年组织近600名学生追寻红色足迹
-http://www.mod.gov.cn/gfbw/gfjy_index/16486280.html
-  “益路长征·赓续守护”检察公益诉讼专项监督活动一瞥
-http://www.mod.gov.cn/gfbw/gfjy_index/16486271.html
-  甘肃省皋兰县选拔退役大学生士兵担任役前教育骨干 “过来人”成为预定新兵“带路人”
-http://www.mod.gov.cn/gfbw/gfjy_index/16486256.html
-  湖南省长沙市50余万中小学生同上一堂云端思政课在树湘故乡，与“树湘”对话
+http://www.mod.gov.cn/gfbw/gfjy_index/16486548.html
+  中国军校丨理“响”青春讲堂
+http://www.mod.gov.cn/gfbw/gfjy_index/16486534.html
+  中国军校丨三尺灶台也是战位
+http://www.mod.gov.cn/gfbw/gfjy_index/16486532.html
+  中国军校丨追光而来，携光以归
 http://www.81.cn/zt/2026nzt/zmxsdgmjr_252984/index.html
   最美新时代革命军人
 http://www.81.cn/zt/2026nzt/lyyxfcl/index.html
@@ -510,7 +512,7 @@ http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/09/12/16485421_cc011844fc31708
 http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/09/13/16485481_097d9bccc8429e1711fa60ef5ccd0991.jpg
 http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/09/14/16486374_925b9a10e2c5da60f28d55ea4b32b36c.jpg
 http://www.mod.gov.cn/gfbw/jswj/_attachment/2026/07/20/16474858_2d8b662d2e7011d5f926fd70b2598d77.jpg
-http://www.mod.gov.cn/gfbw/wzll/_attachment/2026/09/14/16486245_260f82ced2a2724e08494a74f30fe25e.jpg
+http://www.mod.gov.cn/gfbw/wzll/_attachment/2026/09/15/16486543_89c7b2f7d2f0d3fbc7692512b1fc9d0d.png
 http://www.mod.gov.cn/gfbw/jsxd/_attachment/2026/09/10/16484796_919233723ad7166b68cad2304e1e7cb7.png
 http://www.mod.gov.cn/gfbw/xwfyr/lxjzhzt/_attachment/2026/08/28/16481861_c37bd3d3c52cf21eee98cc79812efe09.jpg
 http://www.mod.gov.cn/gfbw/spbb_214126/_attachment/2026/08/01/16477140_ba9a3c83cdacc5371aeaca4aea2b91ad.jpg

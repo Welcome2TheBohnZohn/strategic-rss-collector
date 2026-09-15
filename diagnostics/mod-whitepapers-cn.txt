@@ -6,7 +6,7 @@ Include regex: /gfbw/fgwx/bps/
 Include text regex: 
 
 Candidate links: 28
-All links discovered: 179
+All links discovered: 180
 
 === MATCHED CANDIDATES ===
 
@@ -293,6 +293,10 @@ http://www.mod.gov.cn/gfbw/fgwx/bps/4850789.html
   《平等 发展 共享：新中国70年妇女事业的发展与进步》白皮书发表 2019-09-20 10:34
 http://www.mod.gov.cn/gfbw/fgwx/bps/4846424.html
   《新时代的中国国防》白皮书（全文） 2019-07-24 11:24
+http://www.mod.gov.cn/gfbw/qwfb/16486559.html
+  习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话
+http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16486114.html
+  讲话全文
 http://www.mod.gov.cn/gfbw/qwfb/16486050.html
   习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话
 http://www.mod.gov.cn/gfbw/qwfb/16485405.html
@@ -303,8 +307,6 @@ http://www.mod.gov.cn/gfbw/qwfb/16486407.html
   董军同老挝副总理兼国防部长举行会谈
 http://www.mod.gov.cn/gfbw/qwfb/16486336.html
   《军营理论热点怎么看·2026》印发全军
-http://www.mod.gov.cn/gfbw/qwfb/16486322.html
-  国防部：军训不只是队列与汗水 更是青春的锻造与成长
 http://www.mod.gov.cn/gfbw/spbb_214126/16477140.html
   何为承诺
 http://www.mod.gov.cn/gfbw/spbb_214126/16477755.html
