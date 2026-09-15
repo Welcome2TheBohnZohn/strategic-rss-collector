@@ -6,7 +6,7 @@ Include regex: /gfbw/|/xwfyr/|/wzll/
 Include text regex: 
 
 Candidate links: 50
-All links discovered: 244
+All links discovered: 243
 
 === MATCHED CANDIDATES ===
 
@@ -16,8 +16,6 @@ http://www.mod.gov.cn/gfbw/fgwx/16482045.html
   中华人民共和国国防动员法
 http://www.mod.gov.cn/gfbw/fgwx/16444625.html
   中央军委政治工作部等6部门联合印发《关于做好边远艰苦地区和大龄未婚官兵婚恋服务工作的意见》
-http://www.mod.gov.cn/gfbw/qwfb/16486373.html
-  中共中央办公厅 国务院办公厅 中央军委办公厅印发《退役军人服务和保障“十五五”规划》
 http://www.mod.gov.cn/gfbw/gffw/16484795.html
   陕西省宝鸡市军地出台军队人员寄递邮件快件优待方案 小件免费 大件优惠
 http://www.mod.gov.cn/gfbw/gfdy/16486517.html
@@ -28,12 +26,10 @@ http://www.mod.gov.cn/gfbw/sy/rt/16486128.html
   习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话
 http://www.mod.gov.cn/gfbw/sy/rt/16485484.html
   习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话
-http://www.mod.gov.cn/gfbw/qwfb/16486559.html
-  习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话
-http://www.mod.gov.cn/gfbw/qwfb/16486050.html
-  习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话
 http://www.mod.gov.cn/gfbw/jsxd/16484704.html
   中老“和平列车”首次成体系运用无人智能设备开展联合卫勤训练
+http://www.mod.gov.cn/gfbw/qwfb/16486653.html
+  习近平主席赴印度新德里出席金砖国家领导人第十八次会晤纪实
 http://www.mod.gov.cn/gfbw/gffw/16469120.html
   速览！2026年军校招生政策解读，你想知道的都在这里→
 http://www.mod.gov.cn/gfbw/gfdy/16484118.html
@@ -68,6 +64,8 @@ http://www.mod.gov.cn/gfbw/xwfyr/16486359.html
   中新“海上合作－2026”联演促进双方务实合作
 http://www.mod.gov.cn/gfbw/jsxd/16481085.html
   中白“神鹰-2026”空降兵联合训练圆满结束
+http://www.mod.gov.cn/gfbw/qwfb/16486638.html
+  韩正出席第十三届北京香山论坛欢迎晚宴并致辞
 http://www.mod.gov.cn/gfbw/jswj/16479884.html
   海军83舰编队圆满完成远海综合实习访问任务
 http://www.mod.gov.cn/gfbw/sy/tt_214026/16486558.html
@@ -92,6 +90,8 @@ http://www.mod.gov.cn/gfbw/qwfb/16486340.html
   2026年9月中旬国防部例行新闻发布
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16485292.html
   陆军某旅在大漠戈壁开展实弹射击训练
+http://www.mod.gov.cn/gfbw/qwfb/16486622.html
+  董军同出席北京香山论坛客人举行会谈
 http://www.mod.gov.cn/gfbw/qwfb/16486407.html
   董军同老挝副总理兼国防部长举行会谈
 http://www.mod.gov.cn/gfbw/jswj/16474858.html
@@ -313,20 +313,18 @@ http://www.mod.gov.cn/gfbw/sy/rt/16485481.html
   习近平抵达新德里出席金砖国家领导人第十八次会晤
 http://www.mod.gov.cn/gfbw/sy/rt/16486374.html
   2026年9月中旬国防部例行新闻发布
-http://www.mod.gov.cn/gfbw/qwfb/16486559.html
-  习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话
-http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16486114.html
-  讲话全文
+http://www.mod.gov.cn/gfbw/qwfb/16486653.html
+  习近平主席赴印度新德里出席金砖国家领导人第十八次会晤纪实
+http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16486457.html
+  国际社会高度评价
 http://www.mod.gov.cn/gfbw/qwfb/16486575.html
   《求是》杂志发表习近平总书记重要文章
 http://www.mod.gov.cn/gfbw/qwfb/16486582.html
   《在加强基础研究座谈会上的讲话》
-http://www.mod.gov.cn/gfbw/qwfb/16486050.html
-  习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话
-http://www.mod.gov.cn/gfbw/qwfb/16485405.html
-  讲话全文
-http://www.mod.gov.cn/gfbw/qwfb/16486373.html
-  中共中央办公厅 国务院办公厅 中央军委办公厅印发《退役军人服务和保障“十五五”规划》
+http://www.mod.gov.cn/gfbw/qwfb/16486638.html
+  韩正出席第十三届北京香山论坛欢迎晚宴并致辞
+http://www.mod.gov.cn/gfbw/qwfb/16486622.html
+  董军同出席北京香山论坛客人举行会谈
 http://www.mod.gov.cn/gfbw/qwfb/16486407.html
   董军同老挝副总理兼国防部长举行会谈
 http://www.mod.gov.cn/gfbw/qwfb/16486340.html
