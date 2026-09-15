@@ -6,7 +6,7 @@ Include regex: /gfbw/|/xwfyr/|/wzll/
 Include text regex: 
 
 Candidate links: 50
-All links discovered: 243
+All links discovered: 244
 
 === MATCHED CANDIDATES ===
 
@@ -26,10 +26,12 @@ http://www.mod.gov.cn/gfbw/sy/rt/16486128.html
   习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话
 http://www.mod.gov.cn/gfbw/sy/rt/16485484.html
   习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话
+http://www.mod.gov.cn/gfbw/qwfb/16486559.html
+  习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话
+http://www.mod.gov.cn/gfbw/qwfb/16486050.html
+  习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话
 http://www.mod.gov.cn/gfbw/jsxd/16484704.html
   中老“和平列车”首次成体系运用无人智能设备开展联合卫勤训练
-http://www.mod.gov.cn/gfbw/qwfb/16486653.html
-  习近平主席赴印度新德里出席金砖国家领导人第十八次会晤纪实
 http://www.mod.gov.cn/gfbw/gffw/16469120.html
   速览！2026年军校招生政策解读，你想知道的都在这里→
 http://www.mod.gov.cn/gfbw/gfdy/16484118.html
@@ -40,8 +42,6 @@ http://www.mod.gov.cn/gfbw/gfjy_index/16486262.html
   江苏省淮北中学连续20年组织近600名学生追寻红色足迹
 http://www.mod.gov.cn/gfbw/tp_214132/16472263.html
   那一排排看似单薄的身躯，正是守护祖国和人民坚实的防线
-http://www.mod.gov.cn/gfbw/qwfb/16486322.html
-  国防部：军训不只是队列与汗水 更是青春的锻造与成长
 http://www.mod.gov.cn/gfbw/xwfyr/16486358.html
   国防部介绍中俄蒙“边防合作－2026”联合演练情况
 http://www.mod.gov.cn/gfbw/xwfyr/16486357.html
@@ -66,6 +66,8 @@ http://www.mod.gov.cn/gfbw/jsxd/16481085.html
   中白“神鹰-2026”空降兵联合训练圆满结束
 http://www.mod.gov.cn/gfbw/qwfb/16486638.html
   韩正出席第十三届北京香山论坛欢迎晚宴并致辞
+http://www.mod.gov.cn/gfbw/qwfb/16486651.html
+  中国海军“吉祥方舟”号医院船抵达毛里塔尼亚
 http://www.mod.gov.cn/gfbw/jswj/16479884.html
   海军83舰编队圆满完成远海综合实习访问任务
 http://www.mod.gov.cn/gfbw/sy/tt_214026/16486558.html
@@ -92,8 +94,6 @@ http://www.mod.gov.cn/gfbw/sy/jt_214028/16485292.html
   陆军某旅在大漠戈壁开展实弹射击训练
 http://www.mod.gov.cn/gfbw/qwfb/16486622.html
   董军同出席北京香山论坛客人举行会谈
-http://www.mod.gov.cn/gfbw/qwfb/16486407.html
-  董军同老挝副总理兼国防部长举行会谈
 http://www.mod.gov.cn/gfbw/jswj/16474858.html
   越南海军“陈兴道”号护卫舰访问广州
 http://www.mod.gov.cn/gfbw/jswj/16475665.html
@@ -313,30 +313,32 @@ http://www.mod.gov.cn/gfbw/sy/rt/16485481.html
   习近平抵达新德里出席金砖国家领导人第十八次会晤
 http://www.mod.gov.cn/gfbw/sy/rt/16486374.html
   2026年9月中旬国防部例行新闻发布
-http://www.mod.gov.cn/gfbw/qwfb/16486653.html
-  习近平主席赴印度新德里出席金砖国家领导人第十八次会晤纪实
-http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16486457.html
-  国际社会高度评价
+http://www.mod.gov.cn/gfbw/qwfb/16486559.html
+  习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话
+http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16486114.html
+  讲话全文
 http://www.mod.gov.cn/gfbw/qwfb/16486575.html
   《求是》杂志发表习近平总书记重要文章
 http://www.mod.gov.cn/gfbw/qwfb/16486582.html
   《在加强基础研究座谈会上的讲话》
+http://www.mod.gov.cn/gfbw/qwfb/16486050.html
+  习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话
+http://www.mod.gov.cn/gfbw/qwfb/16485405.html
+  讲话全文
 http://www.mod.gov.cn/gfbw/qwfb/16486638.html
   韩正出席第十三届北京香山论坛欢迎晚宴并致辞
 http://www.mod.gov.cn/gfbw/qwfb/16486622.html
   董军同出席北京香山论坛客人举行会谈
-http://www.mod.gov.cn/gfbw/qwfb/16486407.html
-  董军同老挝副总理兼国防部长举行会谈
 http://www.mod.gov.cn/gfbw/qwfb/16486340.html
   2026年9月中旬国防部例行新闻发布
 http://www.mod.gov.cn/gfbw/qwfb/16486336.html
   《军营理论热点怎么看·2026》印发全军
 http://www.mod.gov.cn/gfbw/qwfb/16486610.html
   第十三届北京香山论坛举行“高端访谈”等多场活动
-http://www.mod.gov.cn/gfbw/qwfb/16486322.html
-  国防部：军训不只是队列与汗水 更是青春的锻造与成长
 http://www.mod.gov.cn/gfbw/qwfb/16486324.html
   中新“海上合作－2026”联演促进双方务实合作
+http://www.mod.gov.cn/gfbw/qwfb/16486651.html
+  中国海军“吉祥方舟”号医院船抵达毛里塔尼亚
 http://www.mod.gov.cn/gfbw/jswj/16474858.html
   越南海军“陈兴道”号护卫舰访问广州
 http://www.mod.gov.cn/gfbw/jswj/16479884.html
