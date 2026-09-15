@@ -6,7 +6,7 @@ Include regex: /gfbw/fgwx/flfg/
 Include text regex: 
 
 Candidate links: 31
-All links discovered: 173
+All links discovered: 174
 
 === MATCHED CANDIDATES ===
 
@@ -307,6 +307,10 @@ http://www.mod.gov.cn/gfbw/qwfb/16486559.html
   习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话
 http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16486114.html
   讲话全文
+http://www.mod.gov.cn/gfbw/qwfb/16486575.html
+  《求是》杂志发表习近平总书记重要文章
+http://www.mod.gov.cn/gfbw/qwfb/16486582.html
+  《在加强基础研究座谈会上的讲话》
 http://www.mod.gov.cn/gfbw/qwfb/16486050.html
   习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话
 http://www.mod.gov.cn/gfbw/qwfb/16485405.html
@@ -315,8 +319,6 @@ http://www.mod.gov.cn/gfbw/qwfb/16486373.html
   中共中央办公厅 国务院办公厅 中央军委办公厅印发《退役军人服务和保障“十五五”规划》
 http://www.mod.gov.cn/gfbw/qwfb/16486407.html
   董军同老挝副总理兼国防部长举行会谈
-http://www.mod.gov.cn/gfbw/qwfb/16486336.html
-  《军营理论热点怎么看·2026》印发全军
 http://www.mod.gov.cn/gfbw/spbb_214126/16477140.html
   何为承诺
 http://www.mod.gov.cn/gfbw/spbb_214126/16477755.html

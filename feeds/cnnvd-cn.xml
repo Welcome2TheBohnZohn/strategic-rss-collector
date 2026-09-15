@@ -1,62 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Tue, 15 Sep 2026 05:10:41 +0000</lastBuildDate><item><title>CNNVD-2026-18027760 - SIPp 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-18027760</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-18027760</guid><pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate><description>SIPp 缓冲区错误漏洞
-危害等级: 高危
-收录时间：2026-09-13 | 更新时间: 2026-09-14 16:53:18
-CNNVD编号: CNNVD-2026-18027760</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-18027760&lt;/p&gt;&lt;pre&gt;SIPp 缓冲区错误漏洞
-危害等级: 高危
-收录时间：2026-09-13 | 更新时间: 2026-09-14 16:53:18
-CNNVD编号: CNNVD-2026-18027760&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-90093114 - espnet 反序列化注入漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-90093114</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-90093114</guid><pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate><description>espnet 反序列化注入漏洞
-危害等级: 高危
-收录时间：2026-09-13 | 更新时间: 2026-09-14 16:52:58
-CNNVD编号: CNNVD-2026-90093114</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-90093114&lt;/p&gt;&lt;pre&gt;espnet 反序列化注入漏洞
-危害等级: 高危
-收录时间：2026-09-13 | 更新时间: 2026-09-14 16:52:58
-CNNVD编号: CNNVD-2026-90093114&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-80314020 - Moritz Bunkus MKVToolNix 数字错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-80314020</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-80314020</guid><pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate><description>Moritz Bunkus MKVToolNix 数字错误漏洞
-危害等级: 高危
-收录时间：2026-09-13 | 更新时间: 2026-09-14 16:52:55
-CNNVD编号: CNNVD-2026-80314020</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-80314020&lt;/p&gt;&lt;pre&gt;Moritz Bunkus MKVToolNix 数字错误漏洞
-危害等级: 高危
-收录时间：2026-09-13 | 更新时间: 2026-09-14 16:52:55
-CNNVD编号: CNNVD-2026-80314020&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-98846824 - UnrealIRCd 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-98846824</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-98846824</guid><pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate><description>UnrealIRCd 资源管理错误漏洞
-危害等级: 高危
-收录时间：2026-09-13 | 更新时间: 2026-09-14 16:53:35
-CNNVD编号: CNNVD-2026-98846824</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-98846824&lt;/p&gt;&lt;pre&gt;UnrealIRCd 资源管理错误漏洞
-危害等级: 高危
-收录时间：2026-09-13 | 更新时间: 2026-09-14 16:53:35
-CNNVD编号: CNNVD-2026-98846824&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-40804520 - Luis Novo Open Notebook 服务端请求伪造漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-40804520</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-40804520</guid><pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate><description>Luis Novo Open Notebook 服务端请求伪造漏洞
-危害等级: 高危
-收录时间：2026-09-13 | 更新时间: 2026-09-14 16:53:33
-CNNVD编号: CNNVD-2026-40804520</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-40804520&lt;/p&gt;&lt;pre&gt;Luis Novo Open Notebook 服务端请求伪造漏洞
-危害等级: 高危
-收录时间：2026-09-13 | 更新时间: 2026-09-14 16:53:33
-CNNVD编号: CNNVD-2026-40804520&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-27930847 - hapijs joi 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-27930847</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-27930847</guid><pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate><description>hapijs joi 输入验证错误漏洞
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Tue, 15 Sep 2026 12:07:00 +0000</lastBuildDate><item><title>CNNVD-2026-13406567 - SAMSUNG Exynos 8890 firmware 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-13406567</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-13406567</guid><pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate><description>SAMSUNG Exynos 8890 firmware 输入验证错误漏洞
 危害等级: 中危
-收录时间：2026-09-13 | 更新时间: 2026-09-14 16:53:32
-CNNVD编号: CNNVD-2026-27930847</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-27930847&lt;/p&gt;&lt;pre&gt;hapijs joi 输入验证错误漏洞
+收录时间：2026-09-14 | 更新时间: 2026-09-15 16:36:10
+CNNVD编号: CNNVD-2026-13406567</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-13406567&lt;/p&gt;&lt;pre&gt;SAMSUNG Exynos 8890 firmware 输入验证错误漏洞
 危害等级: 中危
-收录时间：2026-09-13 | 更新时间: 2026-09-14 16:53:32
-CNNVD编号: CNNVD-2026-27930847&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-66396704 - Kevin O'Reilly CAPE 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-66396704</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-66396704</guid><pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate><description>Kevin O'Reilly CAPE 授权问题漏洞
-危害等级: 高危
-收录时间：2026-09-13 | 更新时间: 2026-09-14 16:53:32
-CNNVD编号: CNNVD-2026-66396704</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-66396704&lt;/p&gt;&lt;pre&gt;Kevin O&amp;#x27;Reilly CAPE 授权问题漏洞
-危害等级: 高危
-收录时间：2026-09-13 | 更新时间: 2026-09-14 16:53:32
-CNNVD编号: CNNVD-2026-66396704&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-44951134 - Nodemailer 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-44951134</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-44951134</guid><pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate><description>Nodemailer 资源管理错误漏洞
-危害等级: 高危
-收录时间：2026-09-13 | 更新时间: 2026-09-14 16:53:31
-CNNVD编号: CNNVD-2026-44951134</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-44951134&lt;/p&gt;&lt;pre&gt;Nodemailer 资源管理错误漏洞
-危害等级: 高危
-收录时间：2026-09-13 | 更新时间: 2026-09-14 16:53:31
-CNNVD编号: CNNVD-2026-44951134&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-68458304 - Strapi 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-68458304</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-68458304</guid><pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate><description>Strapi 跨站脚本漏洞
-危害等级: 超危
-收录时间：2026-09-13 | 更新时间: 2026-09-14 16:53:40
-CNNVD编号: CNNVD-2026-68458304</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-68458304&lt;/p&gt;&lt;pre&gt;Strapi 跨站脚本漏洞
-危害等级: 超危
-收录时间：2026-09-13 | 更新时间: 2026-09-14 16:53:40
-CNNVD编号: CNNVD-2026-68458304&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-29207112 - Rizwan Khan inventory-management-system 权限许可和访问控制问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-29207112</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-29207112</guid><pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate><description>Rizwan Khan inventory-management-system 权限许可和访问控制问题漏洞
+收录时间：2026-09-14 | 更新时间: 2026-09-15 16:36:10
+CNNVD编号: CNNVD-2026-13406567&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-69723860 - Nagios XI 侧信道信息泄露漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-69723860</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-69723860</guid><pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate><description>Nagios XI 侧信道信息泄露漏洞
+危害等级: 低危
+收录时间：2026-09-14 | 更新时间: 2026-09-15 16:36:10
+CNNVD编号: CNNVD-2026-69723860</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-69723860&lt;/p&gt;&lt;pre&gt;Nagios XI 侧信道信息泄露漏洞
+危害等级: 低危
+收录时间：2026-09-14 | 更新时间: 2026-09-15 16:36:10
+CNNVD编号: CNNVD-2026-69723860&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-15719518 - DataEase 路径遍历漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-15719518</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-15719518</guid><pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate><description>DataEase 路径遍历漏洞
 危害等级: 中危
-收录时间：2026-09-13 | 更新时间: 2026-09-14 16:53:39
-CNNVD编号: CNNVD-2026-29207112</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-29207112&lt;/p&gt;&lt;pre&gt;Rizwan Khan inventory-management-system 权限许可和访问控制问题漏洞
+收录时间：2026-09-14 | 更新时间: 2026-09-15 16:36:09
+CNNVD编号: CNNVD-2026-15719518</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-15719518&lt;/p&gt;&lt;pre&gt;DataEase 路径遍历漏洞
 危害等级: 中危
-收录时间：2026-09-13 | 更新时间: 2026-09-14 16:53:39
-CNNVD编号: CNNVD-2026-29207112&lt;/pre&gt;</content:encoded></item></channel></rss>
+收录时间：2026-09-14 | 更新时间: 2026-09-15 16:36:09
+CNNVD编号: CNNVD-2026-15719518&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-38155595 - Mattermost 异常处理不当漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-38155595</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-38155595</guid><pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate><description>Mattermost 异常处理不当漏洞
+危害等级: 中危
+收录时间：2026-09-14 | 更新时间: 2026-09-15 16:36:08
+CNNVD编号: CNNVD-2026-38155595</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-38155595&lt;/p&gt;&lt;pre&gt;Mattermost 异常处理不当漏洞
+危害等级: 中危
+收录时间：2026-09-14 | 更新时间: 2026-09-15 16:36:08
+CNNVD编号: CNNVD-2026-38155595&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-34865459 - Mattermost 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-34865459</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-34865459</guid><pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate><description>Mattermost 资源管理错误漏洞
+危害等级: 中危
+收录时间：2026-09-14 | 更新时间: 2026-09-15 16:36:08
+CNNVD编号: CNNVD-2026-34865459</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-34865459&lt;/p&gt;&lt;pre&gt;Mattermost 资源管理错误漏洞
+危害等级: 中危
+收录时间：2026-09-14 | 更新时间: 2026-09-15 16:36:08
+CNNVD编号: CNNVD-2026-34865459&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-86747551 - Mattermost 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-86747551</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-86747551</guid><pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate><description>Mattermost 授权问题漏洞
+危害等级: 中危
+收录时间：2026-09-14 | 更新时间: 2026-09-15 16:36:08
+CNNVD编号: CNNVD-2026-86747551</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-86747551&lt;/p&gt;&lt;pre&gt;Mattermost 授权问题漏洞
+危害等级: 中危
+收录时间：2026-09-14 | 更新时间: 2026-09-15 16:36:08
+CNNVD编号: CNNVD-2026-86747551&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-45538910 - Ping Identity PingFederate 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-45538910</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-45538910</guid><pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate><description>Ping Identity PingFederate 授权问题漏洞
+危害等级: 高危
+收录时间：2026-09-14 | 更新时间: 2026-09-15 16:36:07
+CNNVD编号: CNNVD-2026-45538910</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-45538910&lt;/p&gt;&lt;pre&gt;Ping Identity PingFederate 授权问题漏洞
+危害等级: 高危
+收录时间：2026-09-14 | 更新时间: 2026-09-15 16:36:07
+CNNVD编号: CNNVD-2026-45538910&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-42271388 - SAMSUNG Exynos 1280 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-42271388</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-42271388</guid><pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate><description>SAMSUNG Exynos 1280 缓冲区错误漏洞
+危害等级: 中危
+收录时间：2026-09-14 | 更新时间: 2026-09-15 16:36:06
+CNNVD编号: CNNVD-2026-42271388</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-42271388&lt;/p&gt;&lt;pre&gt;SAMSUNG Exynos 1280 缓冲区错误漏洞
+危害等级: 中危
+收录时间：2026-09-14 | 更新时间: 2026-09-15 16:36:06
+CNNVD编号: CNNVD-2026-42271388&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-25540901 - SAMSUNG Exynos 1280 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-25540901</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-25540901</guid><pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate><description>SAMSUNG Exynos 1280 资源管理错误漏洞
+危害等级: 中危
+收录时间：2026-09-14 | 更新时间: 2026-09-15 16:36:06
+CNNVD编号: CNNVD-2026-25540901</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-25540901&lt;/p&gt;&lt;pre&gt;SAMSUNG Exynos 1280 资源管理错误漏洞
+危害等级: 中危
+收录时间：2026-09-14 | 更新时间: 2026-09-15 16:36:06
+CNNVD编号: CNNVD-2026-25540901&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-33027871 - edmundhung conform 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-33027871</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-33027871</guid><pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate><description>edmundhung conform 资源管理错误漏洞
+危害等级: 高危
+收录时间：2026-09-14 | 更新时间: 2026-09-15 16:36:06
+CNNVD编号: CNNVD-2026-33027871</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-33027871&lt;/p&gt;&lt;pre&gt;edmundhung conform 资源管理错误漏洞
+危害等级: 高危
+收录时间：2026-09-14 | 更新时间: 2026-09-15 16:36:06
+CNNVD编号: CNNVD-2026-33027871&lt;/pre&gt;</content:encoded></item></channel></rss>
