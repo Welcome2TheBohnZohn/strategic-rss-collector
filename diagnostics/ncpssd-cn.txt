@@ -84,10 +84,6 @@ https://www.ncpssd.cn/message?id=18622
   积极助力现代公共文化服务体系建设 ——国家哲学社会科学文献中心走进贵州省“两会”
 https://www.ncpssd.cn/message?id=18580
   国家哲学社会科学文献中心为贵阳市“两会”提供学术资源服务
-https://www.ncpssd.cn/message?id=22263
-  习近平在金砖国家领导人第十八次会晤第二阶段会议的讲话
-https://www.ncpssd.cn/message?id=22264
-  习近平圆满结束出席金砖国家领导人第十八次会晤
 https://www.ncpssd.cn/message?id=19563
   国家哲学社会科学文献中心发布最受欢迎期刊报告
 https://www.ncpssd.cn/message?id=19564
@@ -116,6 +112,10 @@ https://www.ncpssd.cn/js/sensorsdata.min.js
   sensorsdata.min.js
 https://www.ncpssd.cn/Literature/ancientbooklistNew
   ancientbooklistNew
+https://www.ncpssd.cn/message?id=22271
+  习近平致吉林大学建校80周年的贺信
+https://www.ncpssd.cn/message?id=22270
+  习近平致信祝贺吉林大学建校80周年
 
 === ALL DISCOVERED LINKS ===
 
@@ -161,16 +161,16 @@ https://www.ncpssd.cn/messages
 https://www.ncpssd.cn/message?id=22266
 https://www.ncpssd.cn/message?id=22261
 https://www.ncpssd.cn/message?id=22214
+https://www.ncpssd.cn/message?id=22271
+  习近平致吉林大学建校80周年的贺信
+https://www.ncpssd.cn/message?id=22270
+  习近平致信祝贺吉林大学建校80周年
 https://www.ncpssd.cn/message?id=22269
   习近平：在加强基础研究座谈会上的讲话
 https://www.ncpssd.cn/message?id=22268
   习近平给福建省“漳州110”全体队员的回信
 https://www.ncpssd.cn/message?id=22267
   习近平给福建省“漳州110”全体队员回信
-https://www.ncpssd.cn/message?id=22264
-  习近平圆满结束出席金砖国家领导人第十八次会晤
-https://www.ncpssd.cn/message?id=22263
-  习近平在金砖国家领导人第十八次会晤第二阶段会议的讲话
 https://www.ncpssd.cn/message?id=19563
   国家哲学社会科学文献中心发布最受欢迎期刊报告
 https://www.ncpssd.cn/message?id=19564
