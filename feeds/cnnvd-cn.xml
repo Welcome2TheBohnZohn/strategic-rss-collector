@@ -1,17 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Wed, 16 Sep 2026 11:53:37 +0000</lastBuildDate><item><title>CNNVD-2026-71531247 - FlowiseAI Flowise 服务端请求伪造漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-71531247</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-71531247</guid><pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate><description>FlowiseAI Flowise 服务端请求伪造漏洞
-危害等级: 高危
-收录时间：2026-09-15 | 更新时间: 2026-09-16 16:23:34
-CNNVD编号: CNNVD-2026-71531247</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-71531247&lt;/p&gt;&lt;pre&gt;FlowiseAI Flowise 服务端请求伪造漏洞
-危害等级: 高危
-收录时间：2026-09-15 | 更新时间: 2026-09-16 16:23:34
-CNNVD编号: CNNVD-2026-71531247&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-65134057 - FreeRDP 异常处理不当漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-65134057</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-65134057</guid><pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate><description>FreeRDP 异常处理不当漏洞
-危害等级: 高危
-收录时间：2026-09-15 | 更新时间: 2026-09-16 16:23:27
-CNNVD编号: CNNVD-2026-65134057</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-65134057&lt;/p&gt;&lt;pre&gt;FreeRDP 异常处理不当漏洞
-危害等级: 高危
-收录时间：2026-09-15 | 更新时间: 2026-09-16 16:23:27
-CNNVD编号: CNNVD-2026-65134057&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-59207451 - Mozilla Firefox 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-59207451</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-59207451</guid><pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate><description>Mozilla Firefox 缓冲区错误漏洞
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Wed, 16 Sep 2026 17:15:26 +0000</lastBuildDate><item><title>CNNVD-2026-59207451 - Mozilla Firefox 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-59207451</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-59207451</guid><pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate><description>Mozilla Firefox 缓冲区错误漏洞
 危害等级: 高危
 收录时间：2026-09-15 | 更新时间: 2026-09-16 16:22:49
 CNNVD编号: CNNVD-2026-59207451</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-59207451&lt;/p&gt;&lt;pre&gt;Mozilla Firefox 缓冲区错误漏洞
@@ -35,7 +23,19 @@ CNNVD编号: CNNVD-2026-13833273&lt;/pre&gt;</content:encoded></item><item><titl
 CNNVD编号: CNNVD-2026-63220636</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-63220636&lt;/p&gt;&lt;pre&gt;Mozilla Firefox 权限许可和访问控制问题漏洞
 危害等级: 高危
 收录时间：2026-09-15 | 更新时间: 2026-09-16 16:22:36
-CNNVD编号: CNNVD-2026-63220636&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-29059727 - FreeRDP 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-29059727</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-29059727</guid><pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate><description>FreeRDP 缓冲区错误漏洞
+CNNVD编号: CNNVD-2026-63220636&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-84589767 - FlowiseAI Flowise 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-84589767</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-84589767</guid><pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate><description>FlowiseAI Flowise 授权问题漏洞
+危害等级: 高危
+收录时间：2026-09-15 | 更新时间: 2026-09-16 16:23:36
+CNNVD编号: CNNVD-2026-84589767</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-84589767&lt;/p&gt;&lt;pre&gt;FlowiseAI Flowise 授权问题漏洞
+危害等级: 高危
+收录时间：2026-09-15 | 更新时间: 2026-09-16 16:23:36
+CNNVD编号: CNNVD-2026-84589767&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-68446688 - FlowiseAI Flowise 权限许可和访问控制问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-68446688</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-68446688</guid><pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate><description>FlowiseAI Flowise 权限许可和访问控制问题漏洞
+危害等级: 高危
+收录时间：2026-09-15 | 更新时间: 2026-09-16 16:23:35
+CNNVD编号: CNNVD-2026-68446688</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-68446688&lt;/p&gt;&lt;pre&gt;FlowiseAI Flowise 权限许可和访问控制问题漏洞
+危害等级: 高危
+收录时间：2026-09-15 | 更新时间: 2026-09-16 16:23:35
+CNNVD编号: CNNVD-2026-68446688&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-29059727 - FreeRDP 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-29059727</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-29059727</guid><pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate><description>FreeRDP 缓冲区错误漏洞
 危害等级: 中危
 收录时间：2026-09-15 | 更新时间: 2026-09-16 16:23:20
 CNNVD编号: CNNVD-2026-29059727</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-29059727&lt;/p&gt;&lt;pre&gt;FreeRDP 缓冲区错误漏洞
@@ -53,10 +53,10 @@ CNNVD编号: CNNVD-2026-63893794&lt;/pre&gt;</content:encoded></item><item><titl
 CNNVD编号: CNNVD-2026-84775538</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-84775538&lt;/p&gt;&lt;pre&gt;MISP 资源管理错误漏洞
 危害等级: 中危
 收录时间：2026-09-15 | 更新时间: 2026-09-16 16:23:22
-CNNVD编号: CNNVD-2026-84775538&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-84589767 - FlowiseAI Flowise 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-84589767</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-84589767</guid><pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate><description>FlowiseAI Flowise 授权问题漏洞
-危害等级: 高危
-收录时间：2026-09-15 | 更新时间: 2026-09-16 16:23:36
-CNNVD编号: CNNVD-2026-84589767</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-84589767&lt;/p&gt;&lt;pre&gt;FlowiseAI Flowise 授权问题漏洞
-危害等级: 高危
-收录时间：2026-09-15 | 更新时间: 2026-09-16 16:23:36
-CNNVD编号: CNNVD-2026-84589767&lt;/pre&gt;</content:encoded></item></channel></rss>
+CNNVD编号: CNNVD-2026-84775538&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-80577049 - Google Chrome 竞争条件问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-80577049</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-80577049</guid><pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate><description>Google Chrome 竞争条件问题漏洞
+危害等级: 中危
+收录时间：2026-09-15 | 更新时间: 2026-09-16 16:23:56
+CNNVD编号: CNNVD-2026-80577049</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-80577049&lt;/p&gt;&lt;pre&gt;Google Chrome 竞争条件问题漏洞
+危害等级: 中危
+收录时间：2026-09-15 | 更新时间: 2026-09-16 16:23:56
+CNNVD编号: CNNVD-2026-80577049&lt;/pre&gt;</content:encoded></item></channel></rss>
