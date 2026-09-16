@@ -1,75 +1,63 @@
 # 🎙 Russian Foreign Ministry Spokeswoman Maria Zakharova’s response to a media question
 
-Published: 2026-09-15 21:05:23
+Published: 2026-09-16 17:04:42
 
-Source: https://t.me/MFARussia/32050
+Source: https://t.me/MFARussia/32069
 
 🎙
 Russian Foreign Ministry Spokeswoman Maria Zakharova’s
 response to a media question
-regarding the continuing Ukrainian attacks and provocations against
-the Zaporozhskaya Nuclear Power Plant
+regarding statements by the US Secretary of the Air Force on possessing orbital weapons
 (September 15, 2026)
 ❓
-Question: On September 11, Ukrainian forces carried out a series of strikes on tanker trucks transporting diesel fuel for the Zaporozhskaya Nuclear Power Plant’s backup diesel generators. Two Russian servicemen were killed. Several others were injured, some seriously. How would you comment on this situation?
+Question: US Secretary of the Air Force Troy Meink
+recently stated
+that his country possesses “orbital weapons to control space”. How would you comment on this?
 💬
 Maria Zakharova:
-First and foremost, we extend
-our deepest and most sincere condolence
-s to the families and loved ones of those killed. We wish the wounded
-a speedy recovery
+We have taken note of
+these remarks
 .
-Losing ground as persistent battlefield setbacks continue, Ukraine’s authorities and military are taking
-increasingly reckless and ruthless action
-, attacking Russia’s
-Zaporozhskaya Nuclear Power Plant
-(
-#ZNPP
-) and its satellite city of Energodar almost daily.
-What makes these attacks and provocations particularly cynical is that they are taking place during
-the autumn meetings of the IAEA’s policymaking bodies
-, including
-the Agency’s landmark 70th General Conference
-.
-In effect, this is an open challenge to the international community
-.
-Having long lost touch with reality and gripped by primal fear for its own survival,
-the Kiev regime continues to pile up crimes for which it will inevitably be held accountable
-.
-Atrocities such as the September 11 strikes you mentioned are both
-a stark manifestation of Zelensky’s misanthropic ideology
-, which is leading him towards collapse, and
-a demonstration of the current Ukrainian leaders’ irresponsible attitude towards nuclear safety
-.
-With Ukrainian forces carrying out intensive, targeted strikes on the infrastructure needed to maintain the ZNPP’s external power supply, replenishing diesel fuel stocks is an essential factor in ensuring the plant’s safe operation.
-By ignoring this, Kiev is literally playing with fire, putting the safety of all of Europe at stake
-.
-***
-Furthermore, on September 12,
-Ukraine deliberately carried out a series of UAV strikes on the ZNPP’s training centre
-, where plant personnel receive training.
-We regard the attack on this facility
-, which is directly involved in training nuclear specialists,
-as
-another step aimed at undermining nuclear safety
-.
-At the same time,
-Ukrainian militants continue to strike Energodar’s infrastructure and residential buildings
-to exert
-psychological pressure
-on ZNPP personnel.
-Russia has
-strongly condemned
-these reckless Ukrainian actions at the IAEA. We regularly distribute materials at the Agency about the real state of affairs at the Russian NPP.
 ❗️
-Clearly, by shielding Ukraine’s lawlessness and violence, its Western sponsors are becoming ever more deeply entangled in the threats created by Zelensky.
-We expect the IAEA Secretariat and Director General
-Rafael Grossi
-personally
-to
-give an unequivocal assessment of of
-these developments and
-declare the lawlessness of Ukraine’s current leaders unacceptable
+For the first time, US officials have thus confirmed that their country possesses space-based weapons capabilities.
+These statements provide
+direct evidence
+that the US is putting into practice its policy of deploying weapons in outer space and using it for combat operations to secure its own dominance and superiority.
+In pursuit of its narrow, self-serving interests,
+Washington is prepared to completely disregard the catastrophic consequences for humanity
+that any armed conflict in orbit would entail.
+The long-term sustainability of space activities is being put at risk
+, as are the prospects for space exploration by all states without exception.
+Enormous risks
+are being created for numerous socioeconomic processes on Earth on which people’s well-being directly depends.
+Troy Meink’s statements also demonstrate that US international initiatives on space security are aimed
+solely at diverting the international community’s attention
+from Washington’s own aggressive ambitions in outer space.
+Washington’s absurd allegations that Russia supposedly intends to develop nuclear anti-satellite weapons are merely
+a pretext designed to create the conditions for implementing these hegemonic plans.
+The moratorium on destructive direct-ascent anti-satellite missile testing promoted by the “collective West” is steeped in hypocrisy
+. In reality, it places no restrictions on the use of such weapons already in the US arsenal, nor does it cover other types of anti-satellite capabilities that Washington is interested in developing.
+For many years,
+Russia has consistently drawn the international community’s attention
+to the grave consequences of Washington’s destructive policy for international security.
+We stress the need for urgent
+practical measures to prevent an arms race in outer space
+(
+#PAROS
+).
+☝️
+Troy Meink’s remarks only underscore the pressing need for
+Russia’s multilateral PAROS initiatives
+, which seek to launch negotiations as soon as possible on
+a multilateral, legally binding instrument prohibiting the placement of weapons in outer space and the threat or use of force against or by means of space objects
 .
-The AFU is targeting not only Russian professionals but also IAEA Secretariat employees,
-whom the Kiev regime is ready to sacrifice at any moment.
+The UN General Assembly resolutions
+“Further practical measures for the prevention of an arms race in outer space”
+,
+“No first placement of weapons in outer space”
+and
+“Transparency and confidence-building measures in outer space activities”
+, authored by Russia,
+also pursue this goal
+.
+Read in full
