@@ -6,7 +6,7 @@ Include regex: /gfbw/|/xwfyr/|/wzll/
 Include text regex: 
 
 Candidate links: 50
-All links discovered: 245
+All links discovered: 243
 
 === MATCHED CANDIDATES ===
 
@@ -36,10 +36,6 @@ http://www.mod.gov.cn/gfbw/sy/rt/16486128.html
   习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话
 http://www.mod.gov.cn/gfbw/sy/rt/16485484.html
   习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话
-http://www.mod.gov.cn/gfbw/qwfb/16486559.html
-  习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话
-http://www.mod.gov.cn/gfbw/qwfb/16486050.html
-  习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话
 http://www.mod.gov.cn/gfbw/wzll/16486768.html
   信息支援部队某部探索应用3D打印技术，解了边防哨所燃眉之急
 http://www.mod.gov.cn/gfbw/jsxd/16484704.html
@@ -64,12 +60,16 @@ http://www.mod.gov.cn/gfbw/tp_214132/16475831.html
   凌云出击！东部战区空军航空兵某旅开展空战对抗训练
 http://www.mod.gov.cn/gfbw/sy/rt/16485481.html
   习近平抵达新德里出席金砖国家领导人第十八次会晤
+http://www.mod.gov.cn/gfbw/qwfb/16486324.html
+  中新“海上合作－2026”联演促进双方务实合作
 http://www.mod.gov.cn/gfbw/xwfyr/16486359.html
   中新“海上合作－2026”联演促进双方务实合作
 http://www.mod.gov.cn/gfbw/jsxd/16481085.html
   中白“神鹰-2026”空降兵联合训练圆满结束
 http://www.mod.gov.cn/gfbw/qwfb/16486638.html
   韩正出席第十三届北京香山论坛欢迎晚宴并致辞
+http://www.mod.gov.cn/gfbw/jswj/16486796.html
+  中国海军“吉祥方舟”号医院船抵达毛里塔尼亚
 http://www.mod.gov.cn/gfbw/jswj/16479884.html
   海军83舰编队圆满完成远海综合实习访问任务
 http://www.mod.gov.cn/gfbw/gfdy/16486708.html
@@ -96,10 +96,8 @@ http://www.mod.gov.cn/gfbw/sy/jt_214028/16485292.html
   陆军某旅在大漠戈壁开展实弹射击训练
 http://www.mod.gov.cn/gfbw/sy/tt_214026/16486741.html
   习近平致信祝贺吉林大学建校80周年
-http://www.mod.gov.cn/gfbw/qwfb/16486622.html
+http://www.mod.gov.cn/gfbw/qwfb/16486846.html
   董军同出席北京香山论坛客人举行会谈
-http://www.mod.gov.cn/gfbw/jswj/16474858.html
-  越南海军“陈兴道”号护卫舰访问广州
 http://www.mod.gov.cn/gfbw/jswj/16475665.html
   海军83舰编队抵达文莱进行友好访问
 http://www.mod.gov.cn/gfbw/jmsd/16486525.html
@@ -110,6 +108,8 @@ http://www.mod.gov.cn/gfbw/fgwx/16448582.html
   中华人民共和国民族团结进步促进法
 http://www.mod.gov.cn/gfbw/jmsd/16485500.html
   强军论坛｜让驻训营区多些“战味”
+http://www.mod.gov.cn/gfbw/tp_214132/16477668.html
+  第82集团军某旅开展实弹射击训练
 
 === ALL DISCOVERED LINKS ===
 
@@ -317,32 +317,28 @@ http://www.mod.gov.cn/gfbw/qwfb/16486751.html
   习近平给福建省“漳州110”全体队员回信
 http://www.mod.gov.cn/gfbw/qwfb/16486562.html
   回信全文
-http://www.mod.gov.cn/gfbw/qwfb/16486559.html
-  习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话
-http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16486114.html
-  讲话全文
 http://www.mod.gov.cn/gfbw/qwfb/16486575.html
   《求是》杂志发表习近平总书记重要文章
 http://www.mod.gov.cn/gfbw/qwfb/16486582.html
   《在加强基础研究座谈会上的讲话》
-http://www.mod.gov.cn/gfbw/qwfb/16486050.html
-  习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话
-http://www.mod.gov.cn/gfbw/qwfb/16485405.html
-  讲话全文
-http://www.mod.gov.cn/gfbw/qwfb/16486739.html
-  第十三届北京香山论坛开幕
-http://www.mod.gov.cn/gfbw/qwfb/16486340.html
-  2026年9月中旬国防部例行新闻发布
 http://www.mod.gov.cn/gfbw/qwfb/16486638.html
   韩正出席第十三届北京香山论坛欢迎晚宴并致辞
-http://www.mod.gov.cn/gfbw/qwfb/16486622.html
+http://www.mod.gov.cn/gfbw/qwfb/16486837.html
+  张升民会见越南副总理兼国防部长
+http://www.mod.gov.cn/gfbw/qwfb/16486846.html
   董军同出席北京香山论坛客人举行会谈
+http://www.mod.gov.cn/gfbw/qwfb/16486340.html
+  2026年9月中旬国防部例行新闻发布
+http://www.mod.gov.cn/gfbw/qwfb/16486739.html
+  第十三届北京香山论坛开幕
 http://www.mod.gov.cn/gfbw/qwfb/16486761.html
   2026年下半年新兵起运工作全面启动
 http://www.mod.gov.cn/gfbw/qwfb/16486336.html
   《军营理论热点怎么看·2026》印发全军
-http://www.mod.gov.cn/gfbw/jswj/16474858.html
-  越南海军“陈兴道”号护卫舰访问广州
+http://www.mod.gov.cn/gfbw/qwfb/16486324.html
+  中新“海上合作－2026”联演促进双方务实合作
+http://www.mod.gov.cn/gfbw/jswj/16486796.html
+  中国海军“吉祥方舟”号医院船抵达毛里塔尼亚
 http://www.mod.gov.cn/gfbw/jswj/16479884.html
   海军83舰编队圆满完成远海综合实习访问任务
 http://www.mod.gov.cn/gfbw/jswj/16477419.html
@@ -515,7 +511,7 @@ http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/09/13/16485484_5b2c1a44103cac9
 http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/09/12/16485421_cc011844fc3170820ba64f46cf0f5bde.jpg
 http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/09/13/16485481_097d9bccc8429e1711fa60ef5ccd0991.jpg
 http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/09/14/16486374_925b9a10e2c5da60f28d55ea4b32b36c.jpg
-http://www.mod.gov.cn/gfbw/jswj/_attachment/2026/07/20/16474858_2d8b662d2e7011d5f926fd70b2598d77.jpg
+http://www.mod.gov.cn/gfbw/jswj/_attachment/2026/09/16/16486796_8ab05478958a1a67c1d77abcd9ae8d29.jpg
 http://www.mod.gov.cn/gfbw/wzll/_attachment/2026/09/15/16486543_89c7b2f7d2f0d3fbc7692512b1fc9d0d.png
 http://www.mod.gov.cn/gfbw/jsxd/_attachment/2026/09/10/16484796_919233723ad7166b68cad2304e1e7cb7.png
 http://www.mod.gov.cn/gfbw/xwfyr/lxjzhzt/_attachment/2026/08/28/16481861_c37bd3d3c52cf21eee98cc79812efe09.jpg

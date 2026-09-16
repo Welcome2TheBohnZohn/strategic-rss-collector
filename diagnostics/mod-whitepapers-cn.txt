@@ -6,7 +6,7 @@ Include regex: /gfbw/fgwx/bps/
 Include text regex: 
 
 Candidate links: 28
-All links discovered: 182
+All links discovered: 180
 
 === MATCHED CANDIDATES ===
 
@@ -297,18 +297,14 @@ http://www.mod.gov.cn/gfbw/qwfb/16486751.html
   习近平给福建省“漳州110”全体队员回信
 http://www.mod.gov.cn/gfbw/qwfb/16486562.html
   回信全文
-http://www.mod.gov.cn/gfbw/qwfb/16486559.html
-  习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话
-http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16486114.html
-  讲话全文
 http://www.mod.gov.cn/gfbw/qwfb/16486575.html
   《求是》杂志发表习近平总书记重要文章
 http://www.mod.gov.cn/gfbw/qwfb/16486582.html
   《在加强基础研究座谈会上的讲话》
-http://www.mod.gov.cn/gfbw/qwfb/16486050.html
-  习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话
-http://www.mod.gov.cn/gfbw/qwfb/16485405.html
-  讲话全文
+http://www.mod.gov.cn/gfbw/qwfb/16486638.html
+  韩正出席第十三届北京香山论坛欢迎晚宴并致辞
+http://www.mod.gov.cn/gfbw/qwfb/16486837.html
+  张升民会见越南副总理兼国防部长
 http://www.mod.gov.cn/gfbw/qwfb/16486739.html
   第十三届北京香山论坛开幕
 http://www.mod.gov.cn/gfbw/spbb_214126/16477140.html
