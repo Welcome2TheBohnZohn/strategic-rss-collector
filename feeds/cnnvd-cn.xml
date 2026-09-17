@@ -1,62 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Thu, 17 Sep 2026 05:11:37 +0000</lastBuildDate><item><title>CNNVD-2026-71531247 - FlowiseAI Flowise 服务端请求伪造漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-71531247</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-71531247</guid><pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate><description>FlowiseAI Flowise 服务端请求伪造漏洞
-危害等级: 高危
-收录时间：2026-09-15 | 更新时间: 2026-09-16 16:23:34
-CNNVD编号: CNNVD-2026-71531247</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-71531247&lt;/p&gt;&lt;pre&gt;FlowiseAI Flowise 服务端请求伪造漏洞
-危害等级: 高危
-收录时间：2026-09-15 | 更新时间: 2026-09-16 16:23:34
-CNNVD编号: CNNVD-2026-71531247&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-65134057 - FreeRDP 异常处理不当漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-65134057</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-65134057</guid><pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate><description>FreeRDP 异常处理不当漏洞
-危害等级: 高危
-收录时间：2026-09-15 | 更新时间: 2026-09-16 16:23:27
-CNNVD编号: CNNVD-2026-65134057</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-65134057&lt;/p&gt;&lt;pre&gt;FreeRDP 异常处理不当漏洞
-危害等级: 高危
-收录时间：2026-09-15 | 更新时间: 2026-09-16 16:23:27
-CNNVD编号: CNNVD-2026-65134057&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-59207451 - Mozilla Firefox 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-59207451</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-59207451</guid><pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate><description>Mozilla Firefox 缓冲区错误漏洞
-危害等级: 高危
-收录时间：2026-09-15 | 更新时间: 2026-09-16 16:22:49
-CNNVD编号: CNNVD-2026-59207451</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-59207451&lt;/p&gt;&lt;pre&gt;Mozilla Firefox 缓冲区错误漏洞
-危害等级: 高危
-收录时间：2026-09-15 | 更新时间: 2026-09-16 16:22:49
-CNNVD编号: CNNVD-2026-59207451&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-95782735 - Mozilla Firefox 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-95782735</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-95782735</guid><pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate><description>Mozilla Firefox 安全漏洞
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Thu, 17 Sep 2026 11:58:19 +0000</lastBuildDate><item><title>CNNVD-2026-86013743 - Jenkins Script Security Plugin 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-86013743</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-86013743</guid><pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate><description>Jenkins Script Security Plugin 安全漏洞
 危害等级: 超危
-收录时间：2026-09-15 | 更新时间: 2026-09-16 16:22:43
-CNNVD编号: CNNVD-2026-95782735</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-95782735&lt;/p&gt;&lt;pre&gt;Mozilla Firefox 安全漏洞
+收录时间：2026-09-16 | 更新时间: 2026-09-17 16:09:39
+CNNVD编号: CNNVD-2026-86013743</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-86013743&lt;/p&gt;&lt;pre&gt;Jenkins Script Security Plugin 安全漏洞
 危害等级: 超危
-收录时间：2026-09-15 | 更新时间: 2026-09-16 16:22:43
-CNNVD编号: CNNVD-2026-95782735&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-13833273 - Mozilla Firefox 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-13833273</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-13833273</guid><pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate><description>Mozilla Firefox 缓冲区错误漏洞
+收录时间：2026-09-16 | 更新时间: 2026-09-17 16:09:39
+CNNVD编号: CNNVD-2026-86013743&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-50341829 - zlt2000 microservices-platform 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-50341829</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-50341829</guid><pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate><description>zlt2000 microservices-platform 授权问题漏洞
 危害等级: 高危
-收录时间：2026-09-15 | 更新时间: 2026-09-16 16:23:06
-CNNVD编号: CNNVD-2026-13833273</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-13833273&lt;/p&gt;&lt;pre&gt;Mozilla Firefox 缓冲区错误漏洞
+收录时间：2026-09-16 | 更新时间: 2026-09-17 16:09:24
+CNNVD编号: CNNVD-2026-50341829</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-50341829&lt;/p&gt;&lt;pre&gt;zlt2000 microservices-platform 授权问题漏洞
 危害等级: 高危
-收录时间：2026-09-15 | 更新时间: 2026-09-16 16:23:06
-CNNVD编号: CNNVD-2026-13833273&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-63220636 - Mozilla Firefox 权限许可和访问控制问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-63220636</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-63220636</guid><pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate><description>Mozilla Firefox 权限许可和访问控制问题漏洞
+收录时间：2026-09-16 | 更新时间: 2026-09-17 16:09:24
+CNNVD编号: CNNVD-2026-50341829&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-71421623 - zlt2000 microservices-platform 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-71421623</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-71421623</guid><pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate><description>zlt2000 microservices-platform 授权问题漏洞
 危害等级: 高危
-收录时间：2026-09-15 | 更新时间: 2026-09-16 16:22:36
-CNNVD编号: CNNVD-2026-63220636</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-63220636&lt;/p&gt;&lt;pre&gt;Mozilla Firefox 权限许可和访问控制问题漏洞
+收录时间：2026-09-16 | 更新时间: 2026-09-17 16:09:23
+CNNVD编号: CNNVD-2026-71421623</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-71421623&lt;/p&gt;&lt;pre&gt;zlt2000 microservices-platform 授权问题漏洞
 危害等级: 高危
-收录时间：2026-09-15 | 更新时间: 2026-09-16 16:22:36
-CNNVD编号: CNNVD-2026-63220636&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-29059727 - FreeRDP 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-29059727</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-29059727</guid><pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate><description>FreeRDP 缓冲区错误漏洞
+收录时间：2026-09-16 | 更新时间: 2026-09-17 16:09:23
+CNNVD编号: CNNVD-2026-71421623&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-88900404 - themeum WP Mega Menu SQL注入漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-88900404</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-88900404</guid><pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate><description>themeum WP Mega Menu SQL注入漏洞
+危害等级: 高危
+收录时间：2026-09-16 | 更新时间: 2026-09-17 16:09:22
+CNNVD编号: CNNVD-2026-88900404</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-88900404&lt;/p&gt;&lt;pre&gt;themeum WP Mega Menu SQL注入漏洞
+危害等级: 高危
+收录时间：2026-09-16 | 更新时间: 2026-09-17 16:09:22
+CNNVD编号: CNNVD-2026-88900404&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-62562158 - opengoofy hippo4j 服务端请求伪造漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-62562158</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-62562158</guid><pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate><description>opengoofy hippo4j 服务端请求伪造漏洞
 危害等级: 中危
-收录时间：2026-09-15 | 更新时间: 2026-09-16 16:23:20
-CNNVD编号: CNNVD-2026-29059727</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-29059727&lt;/p&gt;&lt;pre&gt;FreeRDP 缓冲区错误漏洞
+收录时间：2026-09-16 | 更新时间: 2026-09-17 16:09:21
+CNNVD编号: CNNVD-2026-62562158</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-62562158&lt;/p&gt;&lt;pre&gt;opengoofy hippo4j 服务端请求伪造漏洞
 危害等级: 中危
-收录时间：2026-09-15 | 更新时间: 2026-09-16 16:23:20
-CNNVD编号: CNNVD-2026-29059727&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-63893794 - FreeRDP 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-63893794</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-63893794</guid><pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate><description>FreeRDP 缓冲区错误漏洞
+收录时间：2026-09-16 | 更新时间: 2026-09-17 16:09:21
+CNNVD编号: CNNVD-2026-62562158&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-30842894 - TDuckCloud TDuck 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-30842894</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-30842894</guid><pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate><description>TDuckCloud TDuck 授权问题漏洞
 危害等级: 高危
-收录时间：2026-09-15 | 更新时间: 2026-09-16 16:23:19
-CNNVD编号: CNNVD-2026-63893794</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-63893794&lt;/p&gt;&lt;pre&gt;FreeRDP 缓冲区错误漏洞
+收录时间：2026-09-16 | 更新时间: 2026-09-17 16:09:21
+CNNVD编号: CNNVD-2026-30842894</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-30842894&lt;/p&gt;&lt;pre&gt;TDuckCloud TDuck 授权问题漏洞
 危害等级: 高危
-收录时间：2026-09-15 | 更新时间: 2026-09-16 16:23:19
-CNNVD编号: CNNVD-2026-63893794&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-84775538 - MISP 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-84775538</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-84775538</guid><pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate><description>MISP 资源管理错误漏洞
-危害等级: 中危
-收录时间：2026-09-15 | 更新时间: 2026-09-16 16:23:22
-CNNVD编号: CNNVD-2026-84775538</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-84775538&lt;/p&gt;&lt;pre&gt;MISP 资源管理错误漏洞
-危害等级: 中危
-收录时间：2026-09-15 | 更新时间: 2026-09-16 16:23:22
-CNNVD编号: CNNVD-2026-84775538&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-84589767 - FlowiseAI Flowise 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-84589767</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-84589767</guid><pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate><description>FlowiseAI Flowise 授权问题漏洞
+收录时间：2026-09-16 | 更新时间: 2026-09-17 16:09:21
+CNNVD编号: CNNVD-2026-30842894&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-35276289 - TDuckCloud TDuck 服务端请求伪造漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-35276289</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-35276289</guid><pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate><description>TDuckCloud TDuck 服务端请求伪造漏洞
 危害等级: 高危
-收录时间：2026-09-15 | 更新时间: 2026-09-16 16:23:36
-CNNVD编号: CNNVD-2026-84589767</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-84589767&lt;/p&gt;&lt;pre&gt;FlowiseAI Flowise 授权问题漏洞
+收录时间：2026-09-16 | 更新时间: 2026-09-17 16:09:21
+CNNVD编号: CNNVD-2026-35276289</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-35276289&lt;/p&gt;&lt;pre&gt;TDuckCloud TDuck 服务端请求伪造漏洞
 危害等级: 高危
-收录时间：2026-09-15 | 更新时间: 2026-09-16 16:23:36
-CNNVD编号: CNNVD-2026-84589767&lt;/pre&gt;</content:encoded></item></channel></rss>
+收录时间：2026-09-16 | 更新时间: 2026-09-17 16:09:21
+CNNVD编号: CNNVD-2026-35276289&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-61757861 - DFIR-IRIS IRIS 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-61757861</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-61757861</guid><pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate><description>DFIR-IRIS IRIS 授权问题漏洞
+危害等级: 高危
+收录时间：2026-09-16 | 更新时间: 2026-09-17 16:09:21
+CNNVD编号: CNNVD-2026-61757861</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-61757861&lt;/p&gt;&lt;pre&gt;DFIR-IRIS IRIS 授权问题漏洞
+危害等级: 高危
+收录时间：2026-09-16 | 更新时间: 2026-09-17 16:09:21
+CNNVD编号: CNNVD-2026-61757861&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-79658900 - 冯硕楠 Guns 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-79658900</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-79658900</guid><pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate><description>冯硕楠 Guns 授权问题漏洞
+危害等级: 高危
+收录时间：2026-09-16 | 更新时间: 2026-09-17 16:09:20
+CNNVD编号: CNNVD-2026-79658900</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-79658900&lt;/p&gt;&lt;pre&gt;冯硕楠 Guns 授权问题漏洞
+危害等级: 高危
+收录时间：2026-09-16 | 更新时间: 2026-09-17 16:09:20
+CNNVD编号: CNNVD-2026-79658900&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-70122206 - 冯硕楠 Guns 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-70122206</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-70122206</guid><pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate><description>冯硕楠 Guns 授权问题漏洞
+危害等级: 高危
+收录时间：2026-09-16 | 更新时间: 2026-09-17 16:09:20
+CNNVD编号: CNNVD-2026-70122206</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-70122206&lt;/p&gt;&lt;pre&gt;冯硕楠 Guns 授权问题漏洞
+危害等级: 高危
+收录时间：2026-09-16 | 更新时间: 2026-09-17 16:09:20
+CNNVD编号: CNNVD-2026-70122206&lt;/pre&gt;</content:encoded></item></channel></rss>
