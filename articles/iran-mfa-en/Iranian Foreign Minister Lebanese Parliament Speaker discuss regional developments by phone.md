@@ -1,7 +1,0 @@
-# Iranian Foreign Minister Lebanese Parliament Speaker discuss regional developments by phone
-
-Published: 2026-09-15 00:00:00
-
-Source: https://en.mfa.gov.ir/portal/newsview/794359
-
-Iranian Foreign Minister Seyed Abbas Araghchi held a telephone conversation with Nabih Berri, Speaker of the Lebanese Parliament, on Monday night. During the phone call, the two sides discussed regional developments and the need to strengthen coordination among regional countries to counter the hegemonic ambitions and warmongering of the Zionist regime against Lebanon and other countries in the region. The Iranian foreign minister, referring to Iran’s longstanding commitment to preserving Lebanon’s national sovereignty and territorial integrity in the face of attacks by the genocidal Israeli regime, stressed the Islamic Republic of Iran’s full support for Lebanon’s dignified resistance against the occupation and aggression of the Zionist regime. The Lebanese parliament speaker, for his part, expressed appreciation to the Islamic Republic of Iran for its support for Lebanon and provided a report on the current situation in southern Lebanon. Referring to the Zionist regime’s crimes against Lebanon, Berri underscored the legal and moral responsibility of the international community and Islamic countries to stop the lawlessness of the occupying regime and hold the perpetrators accountable and punish them.
