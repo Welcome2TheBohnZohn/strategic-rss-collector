@@ -1,5 +1,5 @@
 Strategic RSS Collector Status
-Generated: 2026-09-18 16:47:39 UTC
+Generated: 2026-09-18 21:16:42 UTC
 
 Status meanings:
 OK = Feed contains one or more items
@@ -135,7 +135,7 @@ FAILED = Source could not be retrieved
   Start URL: https://t.me/s/MFARussia
   Resolved URL: https://t.me/s/MFARussia
   HTTP: 200
-  Attempted items/articles: 14
+  Attempted items/articles: 16
   Items/articles with text: 12
   Items/articles with dates: 12
   RSS feed items: 12
@@ -158,19 +158,20 @@ FAILED = Source could not be retrieved
   Max retries: 2
   Retry backoff: 2s
 
-[OK] irna-en - IRNA English
+[FAILED] irna-en - IRNA English
   Source type: rss
   Start URL: https://en.irna.ir/rss
   Resolved URL: https://en.irna.ir/rss
-  HTTP: 200
-  Attempted items/articles: 30
-  Items/articles with text: 12
-  Items/articles with dates: 12
-  RSS feed items: 12
+  HTTP: None
+  Attempted items/articles: 0
+  Items/articles with text: 0
+  Items/articles with dates: 0
+  RSS feed items: 0
   SSL verification: ON
   Request timeout: 12s
   Max retries: 1
   Retry backoff: 1s
+  Error: https://en.irna.ir/rss -> ReadTimeout: HTTPSConnectionPool(host='en.irna.ir', port=443): Read timed out. (read timeout=12)
 
 [FAILED] avic-cn - Aviation Industry Corporation of China AVIC
   Source type: html
@@ -363,7 +364,7 @@ Call log:
   Retry backoff: 1s
 
 SUMMARY
-Working: 20
+Working: 19
 Fetched but no items: 0
-Failed: 2
+Failed: 3
 Total sources: 22
