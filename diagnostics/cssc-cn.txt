@@ -10,26 +10,26 @@ All links discovered: 309
 
 === MATCHED CANDIDATES ===
 
-http://www.cssc.net.cn/n5/n18/c34116/content.html
-  徐鹏与中国电信党组副书记、董事、总经理刘桂清会谈 深化数智赋能 共促产业协同
 http://www.cssc.net.cn/n5/n18/c34130/content.html
   “中船青锋行动・2026”集团公司级青年突击队中期推进会举行
 http://www.cssc.net.cn/n5/n18/c34133/content.html
   乡村振兴｜请回答 2004，一场跨越山海的春蕾回响
+http://www.cssc.net.cn/n5/n18/c34142/content.html
+  中船集团参加第五届“央企消费帮扶兴农周”活动
 http://www.cssc.net.cn/n5/n18/c34129/content.html
   质量月·团队攻坚｜以匠心守初心 以攻坚铸精品
 http://www.cssc.net.cn/n5/n18/c34132/content.html
   乡村振兴｜风雨同舟显担当，定点帮扶见真情
+http://www.cssc.net.cn/n5/n18/c34143/content.html
+  中船集团召开二级管理单位党组织书记例会
 http://www.cssc.net.cn/n5/n18/c34136/content.html
   红色中船｜船台星火——首位工人党员李中
 http://www.cssc.net.cn/n5/n18/c34137/content.html
   中船集团参加2026年国际气体技术展
 http://www.cssc.net.cn/n5/n18/c34134/content.html
   第五届“央企消费帮扶兴农周”即将启动
-http://www.cssc.net.cn/n5/n18/c34126/content.html
-  红色中船｜向深蓝——核潜艇精神
-http://www.cssc.net.cn/n5/n18/c34118/content.html
-  谨以至诚 敬谢师恩
+http://www.cssc.net.cn/n5/n18/c34141/content.html
+  质量月｜匠心藏于岗位，质量见于细节
 
 === ALL DISCOVERED LINKS ===
 
@@ -77,6 +77,12 @@ http://www.cssc.net.cn/n5/n1255/index.html
   头条新闻
 http://www.cssc.net.cn/n5/n1390/index.html
   上市公司
+http://www.cssc.net.cn/n5/n18/c34143/content.html
+  中船集团召开二级管理单位党组织书记例会
+http://www.cssc.net.cn/n5/n18/c34142/content.html
+  中船集团参加第五届“央企消费帮扶兴农周”活动
+http://www.cssc.net.cn/n5/n18/c34141/content.html
+  质量月｜匠心藏于岗位，质量见于细节
 http://www.cssc.net.cn/n5/n18/c34137/content.html
   中船集团参加2026年国际气体技术展
 http://www.cssc.net.cn/n5/n18/c34136/content.html
@@ -91,12 +97,6 @@ http://www.cssc.net.cn/n5/n18/c34130/content.html
   “中船青锋行动・2026”集团公司级青年突击队中期推进会举行
 http://www.cssc.net.cn/n5/n18/c34129/content.html
   质量月·团队攻坚｜以匠心守初心 以攻坚铸精品
-http://www.cssc.net.cn/n5/n18/c34126/content.html
-  红色中船｜向深蓝——核潜艇精神
-http://www.cssc.net.cn/n5/n18/c34118/content.html
-  谨以至诚 敬谢师恩
-http://www.cssc.net.cn/n5/n18/c34116/content.html
-  徐鹏与中国电信党组副书记、董事、总经理刘桂清会谈 深化数智赋能 共促产业协同
 http://www.cssc.net.cn/n5/n18/index_6204_1.html
 http://www.cssc.net.cn/n5/n18/index_6204_2.html
 http://www.cssc.net.cn/n5/n18/index_6204_3.html
