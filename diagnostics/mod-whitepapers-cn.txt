@@ -6,7 +6,7 @@ Include regex: /gfbw/fgwx/bps/
 Include text regex: 
 
 Candidate links: 28
-All links discovered: 181
+All links discovered: 180
 
 === MATCHED CANDIDATES ===
 
@@ -301,14 +301,12 @@ http://www.mod.gov.cn/gfbw/qwfb/16486751.html
   习近平给福建省“漳州110”全体队员回信
 http://www.mod.gov.cn/gfbw/qwfb/16486562.html
   回信全文
-http://www.mod.gov.cn/gfbw/qwfb/16486575.html
-  《求是》杂志发表习近平总书记重要文章
-http://www.mod.gov.cn/gfbw/qwfb/16486582.html
-  《在加强基础研究座谈会上的讲话》
 http://www.mod.gov.cn/gfbw/qwfb/16487032.html
   张升民会见印度尼西亚国防部长
 http://www.mod.gov.cn/gfbw/qwfb/16486837.html
   张升民会见越南副总理兼国防部长
+http://www.mod.gov.cn/gfbw/qwfb/16487041.html
+  董军同出席北京香山论坛客人举行会谈
 http://www.mod.gov.cn/gfbw/spbb_214126/16477140.html
   何为承诺
 http://www.mod.gov.cn/gfbw/spbb_214126/16477755.html

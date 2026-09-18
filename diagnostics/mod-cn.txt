@@ -6,7 +6,7 @@ Include regex: /gfbw/|/xwfyr/|/wzll/
 Include text regex: 
 
 Candidate links: 50
-All links discovered: 243
+All links discovered: 242
 
 === MATCHED CANDIDATES ===
 
@@ -16,14 +16,14 @@ http://www.mod.gov.cn/gfbw/fgwx/16482045.html
   中华人民共和国国防动员法
 http://www.mod.gov.cn/gfbw/fgwx/16444625.html
   中央军委政治工作部等6部门联合印发《关于做好边远艰苦地区和大龄未婚官兵婚恋服务工作的意见》
-http://www.mod.gov.cn/gfbw/gfjy_index/16486946.html
-  贵州省玉屏侗族自治县茅坪村组织特色“村跑”探索乡村国防教育新路径——乡间跑道上的国防课
 http://www.mod.gov.cn/gfbw/gffw/16486710.html
   山东省济南市纬十二路人防工程与周边区域互联互通——“风雨连廊”方便千家万户
+http://www.mod.gov.cn/gfbw/gfdy/16487213.html
+  河南博物院藏“柞伯簋”，记录数千年前的一场射艺竞技——铜簋载史 铭文传世
+http://www.mod.gov.cn/gfbw/wzll/16487214.html
+  空军举办“弘扬优良传统 熔铸蓝天忠魂”主题军乐党课——旋律中的精神航迹
 http://www.mod.gov.cn/gfbw/gfdy/16486939.html
   甘肃省兰州市军地联动提升应对突发特情能力——畅通指挥链路 共享信息数据
-http://www.mod.gov.cn/gfbw/gfdy/16486714.html
-  河南省国防动员保障中心改进军事设施保护宣传方法——“豫小安”给你提个醒
 http://www.mod.gov.cn/gfbw/gfdy/16486957.html
   河南省鹤壁市军地联合举办强军主题歌会欢送预定新兵 军歌声声送儿郎
 http://www.mod.gov.cn/gfbw/sy/rt/16486128.html
@@ -32,12 +32,10 @@ http://www.mod.gov.cn/gfbw/sy/rt/16485484.html
   习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话
 http://www.mod.gov.cn/gfbw/wzll/16486971.html
   东海某海域，一场实战背景下的两栖攻击舰与气垫艇协同训练拉开战幕
-http://www.mod.gov.cn/gfbw/gfjy_index/16486943.html
-  辽宁省葫芦岛军分区组织民兵踏访红色遗址 用战史故事点燃精武热情
-http://www.mod.gov.cn/gfbw/wzll/16486973.html
-  第八十二集团军某旅"全面模范连"——铁索铸忠魂 同心砺锋芒
 http://www.mod.gov.cn/gfbw/jsxd/16484704.html
   中老“和平列车”首次成体系运用无人智能设备开展联合卫勤训练
+http://www.mod.gov.cn/gfbw/gfjy_index/16487216.html
+  九一八事变爆发95周年之际，各部队以多种形式开展纪念活动
 http://www.mod.gov.cn/gfbw/gffw/16469120.html
   速览！2026年军校招生政策解读，你想知道的都在这里→
 http://www.mod.gov.cn/gfbw/gffw/16486962.html
@@ -56,8 +54,6 @@ http://www.mod.gov.cn/gfbw/sy/rt/16485481.html
   习近平抵达新德里出席金砖国家领导人第十八次会晤
 http://www.mod.gov.cn/gfbw/wzll/16486975.html
   信息支援部队某部帮助下连新兵度过“第二适应期”
-http://www.mod.gov.cn/gfbw/wzll/16486969.html
-  探访空军某雷达站，追寻官兵在戈壁深处的奋斗足迹
 http://www.mod.gov.cn/gfbw/xwfyr/16486359.html
   中新“海上合作－2026”联演促进双方务实合作
 http://www.mod.gov.cn/gfbw/gfdy/16486959.html
@@ -76,12 +72,12 @@ http://www.mod.gov.cn/gfbw/jswj/16477419.html
   海军83舰编队抵达印度尼西亚进行友好访问
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16486217.html
   初秋，海军航空兵某团开展跨昼夜飞行训练
+http://www.mod.gov.cn/gfbw/wzll/16487119.html
+  军营观察丨“观天哨兵”托举战鹰高飞远航
 http://www.mod.gov.cn/gfbw/jsxd/16484796.html
   中新“海上合作-2026”联合演习结束
 http://www.mod.gov.cn/gfbw/sy/rt/16486374.html
   2026年9月中旬国防部例行新闻发布
-http://www.mod.gov.cn/gfbw/qwfb/16486575.html
-  《求是》杂志发表习近平总书记重要文章
 http://www.mod.gov.cn/gfbw/qwfb/16486340.html
   2026年9月中旬国防部例行新闻发布
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16485292.html
@@ -96,8 +92,6 @@ http://www.mod.gov.cn/gfbw/jswj/16475665.html
   海军83舰编队抵达文莱进行友好访问
 http://www.mod.gov.cn/gfbw/jmsd/16486930.html
   八一锐评｜下足“连钉七八下”的功夫
-http://www.mod.gov.cn/gfbw/qwfb/16486582.html
-  《在加强基础研究座谈会上的讲话》
 http://www.mod.gov.cn/gfbw/fgwx/16448582.html
   中华人民共和国民族团结进步促进法
 http://www.mod.gov.cn/gfbw/tp_214132/16477668.html
@@ -110,6 +104,12 @@ http://www.mod.gov.cn/gfbw/qwfb/16487032.html
   张升民会见印度尼西亚国防部长
 http://www.mod.gov.cn/gfbw/qwfb/16487062.html
   第十三届北京香山论坛在京闭幕
+http://www.mod.gov.cn/gfbw/xwfyr/lxjzhzt/2026lxjzh/2026n8y/index.html
+  2026年8月例行记者会专题
+http://www.mod.gov.cn/gfbw/spbb_214126/16477357.html
+  制胜 | 第四集《空天砺剑》
+http://www.mod.gov.cn/gfbw/sy/jt_214028/16486236.html
+  秋日，陆军某旅开展机动训练
 
 === ALL DISCOVERED LINKS ===
 
@@ -319,24 +319,22 @@ http://www.mod.gov.cn/gfbw/qwfb/16486751.html
   习近平给福建省“漳州110”全体队员回信
 http://www.mod.gov.cn/gfbw/qwfb/16486562.html
   回信全文
-http://www.mod.gov.cn/gfbw/qwfb/16486575.html
-  《求是》杂志发表习近平总书记重要文章
-http://www.mod.gov.cn/gfbw/qwfb/16486582.html
-  《在加强基础研究座谈会上的讲话》
 http://www.mod.gov.cn/gfbw/qwfb/16487032.html
   张升民会见印度尼西亚国防部长
 http://www.mod.gov.cn/gfbw/qwfb/16486837.html
   张升民会见越南副总理兼国防部长
-http://www.mod.gov.cn/gfbw/qwfb/16486340.html
-  2026年9月中旬国防部例行新闻发布
 http://www.mod.gov.cn/gfbw/qwfb/16487041.html
   董军同出席北京香山论坛客人举行会谈
+http://www.mod.gov.cn/gfbw/qwfb/16486340.html
+  2026年9月中旬国防部例行新闻发布
 http://www.mod.gov.cn/gfbw/qwfb/16487062.html
   第十三届北京香山论坛在京闭幕
 http://www.mod.gov.cn/gfbw/qwfb/16487078.html
   中澳（大利亚）举行第10次国防部工作会晤
 http://www.mod.gov.cn/gfbw/qwfb/16486936.html
   第四届中非和平安全论坛举行
+http://www.mod.gov.cn/gfbw/qwfb/16486739.html
+  第十三届北京香山论坛开幕
 http://www.mod.gov.cn/gfbw/jswj/16486796.html
   中国海军“吉祥方舟”号医院船抵达毛里塔尼亚
 http://www.mod.gov.cn/gfbw/jswj/16479884.html
@@ -347,12 +345,12 @@ http://www.mod.gov.cn/gfbw/jswj/16475665.html
   海军83舰编队抵达文莱进行友好访问
 http://www.mod.gov.cn/gfbw/wzll/16486971.html
   东海某海域，一场实战背景下的两栖攻击舰与气垫艇协同训练拉开战幕
+http://www.mod.gov.cn/gfbw/wzll/16487214.html
+  空军举办“弘扬优良传统 熔铸蓝天忠魂”主题军乐党课——旋律中的精神航迹
+http://www.mod.gov.cn/gfbw/wzll/16487119.html
+  军营观察丨“观天哨兵”托举战鹰高飞远航
 http://www.mod.gov.cn/gfbw/wzll/16486975.html
   信息支援部队某部帮助下连新兵度过“第二适应期”
-http://www.mod.gov.cn/gfbw/wzll/16486973.html
-  第八十二集团军某旅"全面模范连"——铁索铸忠魂 同心砺锋芒
-http://www.mod.gov.cn/gfbw/wzll/16486969.html
-  探访空军某雷达站，追寻官兵在戈壁深处的奋斗足迹
 http://www.mod.gov.cn/gfbw/jsxd/16484796.html
   中新“海上合作-2026”联合演习结束
 http://www.mod.gov.cn/gfbw/jsxd/16484704.html
@@ -416,20 +414,20 @@ http://www.mod.gov.cn/gfbw/jmsd/16486530.html
   筑牢领导干部国防教育主阵地
 http://www.mod.gov.cn/gfbw/gfdy/16486939.html
   甘肃省兰州市军地联动提升应对突发特情能力——畅通指挥链路 共享信息数据
+http://www.mod.gov.cn/gfbw/gfdy/16487213.html
+  河南博物院藏“柞伯簋”，记录数千年前的一场射艺竞技——铜簋载史 铭文传世
 http://www.mod.gov.cn/gfbw/gfdy/16486959.html
   四川省南充市顺庆区征兵办 开展预定新兵综合评估
 http://www.mod.gov.cn/gfbw/gfdy/16486957.html
   河南省鹤壁市军地联合举办强军主题歌会欢送预定新兵 军歌声声送儿郎
-http://www.mod.gov.cn/gfbw/gfdy/16486714.html
-  河南省国防动员保障中心改进军事设施保护宣传方法——“豫小安”给你提个醒
-http://www.mod.gov.cn/gfbw/gfjy_index/16486772.html
-  一场事迹报告会的兵心“回响”
-http://www.mod.gov.cn/gfbw/gfjy_index/16486967.html
-  菁菁校园有条“长征路”
-http://www.mod.gov.cn/gfbw/gfjy_index/16486946.html
-  贵州省玉屏侗族自治县茅坪村组织特色“村跑”探索乡村国防教育新路径——乡间跑道上的国防课
-http://www.mod.gov.cn/gfbw/gfjy_index/16486943.html
-  辽宁省葫芦岛军分区组织民兵踏访红色遗址 用战史故事点燃精武热情
+http://www.mod.gov.cn/gfbw/gfjy_index/16487216.html
+  九一八事变爆发95周年之际，各部队以多种形式开展纪念活动
+http://www.mod.gov.cn/gfbw/gfjy_index/16487210.html
+  谈笑低吟道明天
+http://www.mod.gov.cn/gfbw/gfjy_index/16487208.html
+  入党志愿书
+http://www.mod.gov.cn/gfbw/gfjy_index/16487206.html
+  湖南衡阳 陵园追思祭忠魂
 http://www.81.cn/zt/2026nzt/zmxsdgmjr_252984/index.html
   最美新时代革命军人
 http://www.81.cn/zt/2026nzt/lyyxfcl/index.html
@@ -529,7 +527,7 @@ http://www.mod.gov.cn/gfbw/gffw/_attachment/2026/06/23/16469120_2c1b5255a439fe69
 http://www.mod.gov.cn/gfbw/fgwx/_attachment/2026/08/29/16482045_39fe87031f5e43b702cd40c766cbb855.jpg
 http://www.mod.gov.cn/gfbw/jmsd/_attachment/2023/09/01/16486930_3569fcc1d5cabc6422c78af6db93519f.jpg
 http://www.mod.gov.cn/gfbw/gfdy/_attachment/2026/09/17/16486939_7b5311f6f34647f3c61f0078fb181674.png
-http://www.mod.gov.cn/gfbw/gfjy_index/_attachment/2026/09/16/16486772_e7925fff0eb5ece91f13e9c107018ca5.jpg
+http://www.mod.gov.cn/gfbw/gfjy_index/_attachment/2026/09/18/16487216_e50b119eba6de6e905d202746facc387.jpg
 http://www.mod.gov.cn/gfbw/zt/_attachment/2026/08/20/16479151_1572281a51f5ab63ef863d55fdea15e0.jpg
 http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/09/17/16487072_fd33fca61ff0d089c17c68cb00640d92.jpg
 http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/08/26/16481398_9a401760378212eb923949975e9818d8.png

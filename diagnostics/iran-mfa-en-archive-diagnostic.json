@@ -8,14 +8,14 @@
     },
     {
       "url": "https://en.mfa.gov.ir/portal/NewsAgencyShow/3180",
-      "http_status": null,
-      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://en.mfa.gov.ir/portal/NewsAgencyShow/3180",
-      "records": 0
+      "http_status": 200,
+      "error": "",
+      "records": 24
     }
   ],
-  "detail_full_text": 3,
-  "archive_fallback": 9,
+  "detail_full_text": 12,
+  "archive_fallback": 0,
   "duplicate_content_skipped": 0,
-  "unique_records": 24,
+  "unique_records": 48,
   "feed_items": 12
 }

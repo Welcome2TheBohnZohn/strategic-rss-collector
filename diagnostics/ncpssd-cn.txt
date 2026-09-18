@@ -10,25 +10,25 @@ All links discovered: 195
 
 === MATCHED CANDIDATES ===
 
-https://www.ncpssd.cn/journal/secure/details?params=amtjVnY4MTNYTHEvOGppclAyeiswUEVJUE8yTmpKZDFHMElFUUNUR0MyWT0
-  乐府新声：沈阳音乐学院学报 2026
-  / 2
+https://www.ncpssd.cn/journal/secure/details?params=WXZmenVTL2t2ZFA4TW1nNEdhUDJDUEVJUE8yTmpKZDFHMElFUUNUR0MyWT0
+  东北师大学报：哲学社会科学版 2026
+  / 5
 https://www.ncpssd.cn/topics/details?id=1107&wfColumn=1&resourceType=203
   研究阐释宣传 党的二十大和二十届 历次全会精神
-https://www.ncpssd.cn/journal/secure/details?params=TDlrVXJsRlAzbFJ0enp3T3RSYkluL0VJUE8yTmpKZDFHMElFUUNUR0MyWT0
-  中国边疆史地研究 2026
+https://www.ncpssd.cn/journal/secure/details?params=VGMxVTVMcStEMXFaZzNtZ3RTMTBCZkVJUE8yTmpKZDFHMElFUUNUR0MyWT0
+  中国科学技术史：英文版 2026
+  / 1
+https://www.ncpssd.cn/journal/secure/details?params=dWRkTkF1cGNUbHl2b0JrYlFYdnJ1dkVJUE8yTmpKZDFHMElFUUNUR0MyWT0
+  中国史研究动态 2026
   / 4
-https://www.ncpssd.cn/journal/secure/details?params=eHRzZy9QanM1WWNMRkF5eFhkbzI2ZkVJUE8yTmpKZDFHMElFUUNUR0MyWT0
-  国家安全论坛 2026
-  / 3
-https://www.ncpssd.cn/journal/secure/details?params=VU40cTBkZHhiR0xPVFE4Um00WUhJL0VJUE8yTmpKZDFHMElFUUNUR0MyWT0
-  中国地方志 2026
-  / 4
-https://www.ncpssd.cn/journal/secure/details?params=MlVrZnhqekZtWWNWS0t2RStybzlIL0VJUE8yTmpKZDFHMElFUUNUR0MyWT0
-  学术前沿 2026
-  / 14
-https://www.ncpssd.cn/journal/secure/details?params=b2hLMWxxVUR1N285ZzlNT1ZuUWsyL0VJUE8yTmpKZDFHMElFUUNUR0MyWT0
-  党的文献 2026
+https://www.ncpssd.cn/journal/secure/details?params=NTBGc2padVRBNm11Y0hWNkRXZ053ZkVJUE8yTmpKZDFHMElFUUNUR0MyWT0
+  国际金融研究 2026
+  / 7
+https://www.ncpssd.cn/journal/secure/details?params=QkpGQ1ZiVy8va1JlVGpQT21vbDV6UEVJUE8yTmpKZDFHMElFUUNUR0MyWT0
+  国外理论动态 2025
+  / 6
+https://www.ncpssd.cn/journal/secure/details?params=bGFSMXlqeFlOR09hb0hIODEzMzZXUEVJUE8yTmpKZDFHMElFUUNUR0MyWT0
+  方言 2026
   / 3
 https://www.ncpssd.cn/topics/detailsList?id=1103&wfColumn=1&resourceType=0
   detailsList
@@ -181,24 +181,24 @@ https://www.ncpssd.cn/message?id=18580
   国家哲学社会科学文献中心为贵阳市“两会”提供学术资源服务
 https://www.ncpssd.cn/message?id=18273
   国家哲学社会科学文献中心走进贵州省图书馆学会
-https://www.ncpssd.cn/journal/secure/details?params=TDlrVXJsRlAzbFJ0enp3T3RSYkluL0VJUE8yTmpKZDFHMElFUUNUR0MyWT0
-  中国边疆史地研究 2026
+https://www.ncpssd.cn/journal/secure/details?params=dWRkTkF1cGNUbHl2b0JrYlFYdnJ1dkVJUE8yTmpKZDFHMElFUUNUR0MyWT0
+  中国史研究动态 2026
   / 4
-https://www.ncpssd.cn/journal/secure/details?params=VU40cTBkZHhiR0xPVFE4Um00WUhJL0VJUE8yTmpKZDFHMElFUUNUR0MyWT0
-  中国地方志 2026
-  / 4
-https://www.ncpssd.cn/journal/secure/details?params=b2hLMWxxVUR1N285ZzlNT1ZuUWsyL0VJUE8yTmpKZDFHMElFUUNUR0MyWT0
-  党的文献 2026
+https://www.ncpssd.cn/journal/secure/details?params=bGFSMXlqeFlOR09hb0hIODEzMzZXUEVJUE8yTmpKZDFHMElFUUNUR0MyWT0
+  方言 2026
   / 3
-https://www.ncpssd.cn/journal/secure/details?params=eHRzZy9QanM1WWNMRkF5eFhkbzI2ZkVJUE8yTmpKZDFHMElFUUNUR0MyWT0
-  国家安全论坛 2026
-  / 3
-https://www.ncpssd.cn/journal/secure/details?params=MlVrZnhqekZtWWNWS0t2RStybzlIL0VJUE8yTmpKZDFHMElFUUNUR0MyWT0
-  学术前沿 2026
-  / 14
-https://www.ncpssd.cn/journal/secure/details?params=amtjVnY4MTNYTHEvOGppclAyeiswUEVJUE8yTmpKZDFHMElFUUNUR0MyWT0
-  乐府新声：沈阳音乐学院学报 2026
-  / 2
+https://www.ncpssd.cn/journal/secure/details?params=NTBGc2padVRBNm11Y0hWNkRXZ053ZkVJUE8yTmpKZDFHMElFUUNUR0MyWT0
+  国际金融研究 2026
+  / 7
+https://www.ncpssd.cn/journal/secure/details?params=QkpGQ1ZiVy8va1JlVGpQT21vbDV6UEVJUE8yTmpKZDFHMElFUUNUR0MyWT0
+  国外理论动态 2025
+  / 6
+https://www.ncpssd.cn/journal/secure/details?params=VGMxVTVMcStEMXFaZzNtZ3RTMTBCZkVJUE8yTmpKZDFHMElFUUNUR0MyWT0
+  中国科学技术史：英文版 2026
+  / 1
+https://www.ncpssd.cn/journal/secure/details?params=WXZmenVTL2t2ZFA4TW1nNEdhUDJDUEVJUE8yTmpKZDFHMElFUUNUR0MyWT0
+  东北师大学报：哲学社会科学版 2026
+  / 5
 https://www.ncpssd.cn/newlist?type=0
   查看更多
 https://www.ncpssd.cn/Literature/articlelist?sType=0&search=KElLVEU9IuWbveWutuWuieWFqCIgT1IgSUtQWVRFPSLlm73lrrblronlhagiICBPUiBJS1NUPSLlm73lrrblronlhagiIE9SIElLRVQ9IuWbveWutuWuieWFqCIgT1IgSUtTRT0i5Zu95a625a6J5YWoIik=&searchname=6aKY5ZCNL+WFs+mUruivjT0i5Zu95a625a6J5YWoIg==&nav=0&nav=0&showBack=true
@@ -323,12 +323,12 @@ https://ft.ncpssd.cn/image/get/npssd/column?url=img/1788330298661.jpg
 https://ft.ncpssd.cn/image/get/npssd/topic?url=img/1758001813519.jpg
 https://ft.ncpssd.cn/image/get/npssd/topic?url=img/1763085826266.jpg
 https://www.ncpssd.cn/images/word1.png
-https://ft.ncpssd.cn/image/get/qwcover/2026/4/83314X.jpg
-https://ft.ncpssd.cn/image/get/qwcover/2026/4/82854X.jpg
-https://ft.ncpssd.cn/image/get/qwcover/2026/3/81382X.jpg
-https://ft.ncpssd.cn/image/get/qwcover/2026/3/11124X.jpg
-https://ft.ncpssd.cn/image/get/qwcover/2026/14/71587B.jpg
-https://ft.ncpssd.cn/image/get/qwcover/2026/2/82450X.jpg
+https://ft.ncpssd.cn/image/get/qwcover/2026/4/81744X.jpg
+https://ft.ncpssd.cn/image/get/qwcover/2026/3/81953X.jpg
+https://ft.ncpssd.cn/image/get/qwcover/2026/7/98100X.jpg
+https://ft.ncpssd.cn/image/get/qwcover/2025/6/81602X.jpg
+https://ft.ncpssd.cn/image/get/qwcover/2026/1/72336X.jpg
+https://ft.ncpssd.cn/image/get/qwcover/2026/5/81473X.jpg
 https://www.ncpssd.cn/Literature/secure/articleinfo?params=QjF5T1pBTUhTOU5QaG54bkl0bnhPcUhoN3dFUzU4a0xzb1l1UzMxcEVNaVUrMS90aDVKckRYYnJzcWhZZUZORnkrQjdhR2xITGdsaVRJTjFlWDlYbTNYMGF0b0kwREdicXhtWkRySTB6UloxVUhxMUFFVllXTWJLVjJjci9VZGY&synUpdateType=2
 https://www.ncpssd.cn/Literature/secure/articleinfo?params=bW82SmZRSFltVHRYMXJSb2pRdDdReStIYm9OQWRuNGUrSkRKamovYTBZcVUrMS90aDVKckRYYnJzcWhZZUZORnkrQjdhR2xITGdsaVRJTjFlWDlYbTNYMGF0b0kwREdicXhtWkRySTB6UloxVUhxMUFFVllXTWJLVjJjci9VZGY&synUpdateType=2
 https://www.ncpssd.cn/Literature/secure/articleinfo?params=Wms0ODhZUEppbmdyd1Vka0Zrak44ZzdwNkxnOG12RGRrcWtkdXV5SjQ5R1UrMS90aDVKckRYYnJzcWhZZUZORnkrQjdhR2xITGdsaVRJTjFlWDlYbTNYMGF0b0kwREdicXhtWkRySTB6UloxVUhxMUFFVllXTWJLVjJjci9VZGY&synUpdateType=2
@@ -349,16 +349,16 @@ https://www.ncpssd.cn/Literature/secure/articleinfo?params=dTF6eTFNdjZYZm5mWHJTb
 https://www.ncpssd.cn/Literature/secure/articleinfo?params=OGp5Z0h5KzhKa3c3N3hwbWNLc3NBYlNZN052dWJhTGZGYTVMUThPZ3FuN2kzaWFMSWQzS3p3bmJzVDY0NHZXU2hlUTJPZkZCbHE3R3BhdXFySkVKZ0MxWTlVMWpDRFc2eDJCaDUxK1BTaVNPaHJmQm1nR1RKdE8yeUVYMTFiaTc
 https://www.ncpssd.cn/Literature/secure/articleinfo?params=TmFtdDFJaUtIbzFyeURFMTgvRUFQUHZGT1lzWFFVRS9GSEt2Q05CQlpMUktJM3BCVy9HMjZPV1dpNmxrMlJrWFpWTytPRStRUk9VVFh3K1ZHeG9DNEYxa2ZrbHRRMys3cUdwcmdVUkI4Y0M2dENFbEdmWDloTVZrakhsb3dFQ3I
 https://www.ncpssd.cn/Literature/secure/articleinfo?params=dkV0Y01YU1UzZW9CK1ZxNHJRUGxvOThIck5KOVFydFFvcFJIZHY0bzloL2xubGVWY0ZlK1QzODkxRWtITlQxVmxzUE12QzB3aGsxcXdBcmR3YnY0RzdGWUtvWGxjWlp4QmRxQnJCa1dVNDg1VW1IVTdkSFlDdHZFbFY0cnpxY2Q
-https://www.ncpssd.cn/journal/secure/details?params=V0djeExyL2Z3elVMZlB0T09MNlFTbFlJKzdoOWRKNHlhZ0RCMHNBS1JYejhUNUdLOGgxaHUyM2ZtNWtZWlYxbURHcW0rVUJhY3p6SExwMk82VEgyOVE9PQ
-https://www.ncpssd.cn/journal/secure/details?params=aEx0OVYxNmgxWm9xcjdVZVUrM0crang2R2VweVpNQU9NeVdlSFFFNnNIdjhUNUdLOGgxaHUyM2ZtNWtZWlYxbURHcW0rVUJhY3p6SExwMk82VEgyOVE9PQ
-https://www.ncpssd.cn/journal/secure/details?params=L3ZPNTNxdW01THZIQjJWWUJ2elgzang2R2VweVpNQU9NeVdlSFFFNnNIdjhUNUdLOGgxaHUyM2ZtNWtZWlYxbURHcW0rVUJhY3p6SExwMk82VEgyOVE9PQ
-https://www.ncpssd.cn/journal/secure/details?params=cjlOQ1JzVjdrZUhPMnhadXU2MktZeng2R2VweVpNQU9NeVdlSFFFNnNIdjhUNUdLOGgxaHUyM2ZtNWtZWlYxbURHcW0rVUJhY3p6SExwMk82VEgyOVE9PQ
-https://www.ncpssd.cn/journal/secure/details?params=a2FjNXpudVFhKzJyLzNnOUIvckJJTFhSZU4zZFlaNWx6QVlDeW1Da3ZZejhUNUdLOGgxaHUyM2ZtNWtZWlYxbURHcW0rVUJhY3p6SExwMk82VEgyOVE9PQ
-https://www.ncpssd.cn/journal/secure/details?params=RDN4aVhiTUZnSWFZV3NVMUJuRlVoVllJKzdoOWRKNHlhZ0RCMHNBS1JYejhUNUdLOGgxaHUyM2ZtNWtZWlYxbURHcW0rVUJhY3p6SExwMk82VEgyOVE9PQ
-https://www.ncpssd.cn/journal/secure/details?params=QTRnUjNIY2REb01PK3dMRFhNSmpERHg2R2VweVpNQU9NeVdlSFFFNnNIdjhUNUdLOGgxaHUyM2ZtNWtZWlYxbURHcW0rVUJhY3p6SExwMk82VEgyOVE9PQ
-https://www.ncpssd.cn/journal/secure/details?params=M0tmNi9SYnhOUkFoTzJHcW5KVE0rUU16dDQ4UVlhM0h1WUpRT2ZlcW5qOXI0TEo2YUZuSXRCbFEzdWNWYkZqazA3VUxIOXdrQU9jWW1ZallBWktDL0E9PQ
-https://www.ncpssd.cn/journal/secure/details?params=bkxzOVpxRWQrZUZRTzlMdTJDSGRaeng2R2VweVpNQU9NeVdlSFFFNnNIdjhUNUdLOGgxaHUyM2ZtNWtZWlYxbURHcW0rVUJhY3p6SExwMk82VEgyOVE9PQ
-https://www.ncpssd.cn/journal/secure/details?params=VDdiL210K2FteEl5cWE2aEVPalJzVllJKzdoOWRKNHlhZ0RCMHNBS1JYejhUNUdLOGgxaHUyM2ZtNWtZWlYxbURHcW0rVUJhY3p6SExwMk82VEgyOVE9PQ
+https://www.ncpssd.cn/journal/secure/details?params=NWVXMURGb2tSRE0rL2g1ZWcyOStpbFlJKzdoOWRKNHlhZ0RCMHNBS1JYejhUNUdLOGgxaHUyM2ZtNWtZWlYxbURHcW0rVUJhY3p6SExwMk82VEgyOVE9PQ
+https://www.ncpssd.cn/journal/secure/details?params=U0poWXl6VnMzVkVPbXBZVzI0dGVBVHg2R2VweVpNQU9NeVdlSFFFNnNIdjhUNUdLOGgxaHUyM2ZtNWtZWlYxbURHcW0rVUJhY3p6SExwMk82VEgyOVE9PQ
+https://www.ncpssd.cn/journal/secure/details?params=NnY3UWhqUVY2ekw0UkJkTmFpZ3hSK3dzeGhOa0Ryc0orK095NmVheTMyRDhUNUdLOGgxaHUyM2ZtNWtZWlYxbURHcW0rVUJhY3p6SExwMk82VEgyOVE9PQ
+https://www.ncpssd.cn/journal/secure/details?params=SUY1Tm1BbDBhRFRDQWNra2tnblZQRHg2R2VweVpNQU9NeVdlSFFFNnNIdjhUNUdLOGgxaHUyM2ZtNWtZWlYxbURHcW0rVUJhY3p6SExwMk82VEgyOVE9PQ
+https://www.ncpssd.cn/journal/secure/details?params=Yk9zbmoyUGZZTHhXMWZLc3ZjeDNLWGhiOUdZcisrbmhIeXNFMjZIWnhRZjhUNUdLOGgxaHUyM2ZtNWtZWlYxbURHcW0rVUJhY3p6SExwMk82VEgyOVE9PQ
+https://www.ncpssd.cn/journal/secure/details?params=SHQvb3h6QmQ4TnFCY01RQVdIVHRoTFhSZU4zZFlaNWx6QVlDeW1Da3ZZejhUNUdLOGgxaHUyM2ZtNWtZWlYxbURHcW0rVUJhY3p6SExwMk82VEgyOVE9PQ
+https://www.ncpssd.cn/journal/secure/details?params=d0NSQjlYaDRSNGMvWktmUVp6dS8vSmpIcmVrTGdZQmJ0Nkd4NndVRnNPQnI0TEo2YUZuSXRCbFEzdWNWYkZqazA3VUxIOXdrQU9jWW1ZallBWktDL0E9PQ
+https://www.ncpssd.cn/journal/secure/details?params=c2xNL3F3a3ZvUDVwYWZYVWE0YTBXVHg2R2VweVpNQU9NeVdlSFFFNnNIdjhUNUdLOGgxaHUyM2ZtNWtZWlYxbURHcW0rVUJhY3p6SExwMk82VEgyOVE9PQ
+https://www.ncpssd.cn/journal/secure/details?params=N1Iva2p6eGxzMWFxSHlFalBEbjV3ekxUSnpteHpleDlnNytic2dFOHJ2djhUNUdLOGgxaHUyM2ZtNWtZWlYxbURHcW0rVUJhY3p6SExwMk82VEgyOVE9PQ
+https://www.ncpssd.cn/journal/secure/details?params=YlhwY2tvZHVYN3Y5STY5NzdPdkF5RHg2R2VweVpNQU9NeVdlSFFFNnNIdjhUNUdLOGgxaHUyM2ZtNWtZWlYxbURHcW0rVUJhY3p6SExwMk82VEgyOVE9PQ
 https://www.ncpssd.cn/images/word3.png
 https://ft.ncpssd.cn/image/get/npssd/topic?url=img/1664433857267.jpg
 https://www.ncpssd.cn/images/line.png
