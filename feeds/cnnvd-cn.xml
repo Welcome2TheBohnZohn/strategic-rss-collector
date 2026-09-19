@@ -1,5 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Sat, 19 Sep 2026 05:07:01 +0000</lastBuildDate><item><title>CNNVD-2026-28529994 - Linux kernel 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-28529994</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-28529994</guid><pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate><description>Linux kernel 安全漏洞
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Sat, 19 Sep 2026 11:19:42 +0000</lastBuildDate><item><title>CNNVD-2026-89481791 - MidnightBSD mport 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-89481791</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-89481791</guid><pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate><description>MidnightBSD mport 输入验证错误漏洞
+危害等级: 高危
+收录时间：2026-09-17 | 更新时间: 2026-09-19 04:17:49
+CNNVD编号: CNNVD-2026-89481791</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-89481791&lt;/p&gt;&lt;pre&gt;MidnightBSD mport 输入验证错误漏洞
+危害等级: 高危
+收录时间：2026-09-17 | 更新时间: 2026-09-19 04:17:49
+CNNVD编号: CNNVD-2026-89481791&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-77637740 - MidnightBSD mport 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-77637740</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-77637740</guid><pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate><description>MidnightBSD mport 输入验证错误漏洞
+危害等级: 低危
+收录时间：2026-09-17 | 更新时间: 2026-09-19 04:17:19
+CNNVD编号: CNNVD-2026-77637740</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-77637740&lt;/p&gt;&lt;pre&gt;MidnightBSD mport 输入验证错误漏洞
+危害等级: 低危
+收录时间：2026-09-17 | 更新时间: 2026-09-19 04:17:19
+CNNVD编号: CNNVD-2026-77637740&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-69480820 - Dromara mayfly-go 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-69480820</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-69480820</guid><pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate><description>Dromara mayfly-go 授权问题漏洞
+危害等级: 低危
+收录时间：2026-09-17 | 更新时间: 2026-09-19 05:27:24
+CNNVD编号: CNNVD-2026-69480820</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-69480820&lt;/p&gt;&lt;pre&gt;Dromara mayfly-go 授权问题漏洞
+危害等级: 低危
+收录时间：2026-09-17 | 更新时间: 2026-09-19 05:27:24
+CNNVD编号: CNNVD-2026-69480820&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-28529994 - Linux kernel 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-28529994</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-28529994</guid><pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate><description>Linux kernel 安全漏洞
 危害等级: 超危
 收录时间：2026-09-17 | 更新时间: 2026-09-18 16:35:05
 CNNVD编号: CNNVD-2026-28529994</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-28529994&lt;/p&gt;&lt;pre&gt;Linux kernel 安全漏洞
@@ -41,22 +59,4 @@ CNNVD编号: CNNVD-2026-40726284&lt;/pre&gt;</content:encoded></item><item><titl
 CNNVD编号: CNNVD-2026-73280542</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-73280542&lt;/p&gt;&lt;pre&gt;Linux kernel 安全漏洞
 危害等级: 超危
 收录时间：2026-09-17 | 更新时间: 2026-09-18 16:34:27
-CNNVD编号: CNNVD-2026-73280542&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-50028120 - Linux kernel 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-50028120</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-50028120</guid><pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate><description>Linux kernel 安全漏洞
-危害等级: 超危
-收录时间：2026-09-17 | 更新时间: 2026-09-18 16:34:23
-CNNVD编号: CNNVD-2026-50028120</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-50028120&lt;/p&gt;&lt;pre&gt;Linux kernel 安全漏洞
-危害等级: 超危
-收录时间：2026-09-17 | 更新时间: 2026-09-18 16:34:23
-CNNVD编号: CNNVD-2026-50028120&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-46724755 - Linux kernel 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-46724755</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-46724755</guid><pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate><description>Linux kernel 安全漏洞
-危害等级: 超危
-收录时间：2026-09-17 | 更新时间: 2026-09-18 16:34:37
-CNNVD编号: CNNVD-2026-46724755</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-46724755&lt;/p&gt;&lt;pre&gt;Linux kernel 安全漏洞
-危害等级: 超危
-收录时间：2026-09-17 | 更新时间: 2026-09-18 16:34:37
-CNNVD编号: CNNVD-2026-46724755&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-79104740 - Linux kernel 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-79104740</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-79104740</guid><pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate><description>Linux kernel 安全漏洞
-危害等级: 超危
-收录时间：2026-09-17 | 更新时间: 2026-09-18 16:34:36
-CNNVD编号: CNNVD-2026-79104740</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-79104740&lt;/p&gt;&lt;pre&gt;Linux kernel 安全漏洞
-危害等级: 超危
-收录时间：2026-09-17 | 更新时间: 2026-09-18 16:34:36
-CNNVD编号: CNNVD-2026-79104740&lt;/pre&gt;</content:encoded></item></channel></rss>
+CNNVD编号: CNNVD-2026-73280542&lt;/pre&gt;</content:encoded></item></channel></rss>
