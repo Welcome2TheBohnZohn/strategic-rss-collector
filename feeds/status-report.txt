@@ -1,5 +1,5 @@
 Strategic RSS Collector Status
-Generated: 2026-09-19 16:11:04 UTC
+Generated: 2026-09-19 20:59:32 UTC
 
 Status meanings:
 OK = Feed contains one or more items
@@ -305,7 +305,7 @@ Call log:
   HTTP: 200
   Links discovered: 1900
   Candidate links/items: 50
-  Attempted items/articles: 13
+  Attempted items/articles: 12
   Items/articles with text: 12
   Items/articles with dates: 9
   RSS feed items: 12
