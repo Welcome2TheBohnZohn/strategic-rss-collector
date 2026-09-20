@@ -426,8 +426,8 @@
       },
       "error": "",
       "rows": 100,
-      "total": 834,
-      "matches": 3
+      "total": 851,
+      "matches": 1
     },
     {
       "category": "行政法规",
@@ -456,8 +456,8 @@
       },
       "error": "",
       "rows": 100,
-      "total": 834,
-      "matches": 0
+      "total": 851,
+      "matches": 2
     },
     {
       "category": "行政法规",
@@ -486,7 +486,7 @@
       },
       "error": "",
       "rows": 100,
-      "total": 834,
+      "total": 851,
       "matches": 2
     },
     {
@@ -516,7 +516,7 @@
       },
       "error": "",
       "rows": 100,
-      "total": 834,
+      "total": 851,
       "matches": 1
     },
     {
@@ -546,8 +546,8 @@
       },
       "error": "",
       "rows": 100,
-      "total": 834,
-      "matches": 1
+      "total": 851,
+      "matches": 0
     },
     {
       "category": "行政法规",
@@ -576,8 +576,8 @@
       },
       "error": "",
       "rows": 100,
-      "total": 834,
-      "matches": 4
+      "total": 851,
+      "matches": 5
     },
     {
       "category": "行政法规",
@@ -606,7 +606,7 @@
       },
       "error": "",
       "rows": 100,
-      "total": 834,
+      "total": 851,
       "matches": 3
     },
     {
@@ -636,7 +636,7 @@
       },
       "error": "",
       "rows": 100,
-      "total": 834,
+      "total": 851,
       "matches": 2
     },
     {
@@ -665,8 +665,8 @@
         "pageSize": 100
       },
       "error": "",
-      "rows": 34,
-      "total": 834,
+      "rows": 51,
+      "total": 851,
       "matches": 1
     }
   ],

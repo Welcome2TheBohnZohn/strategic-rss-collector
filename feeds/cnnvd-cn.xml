@@ -1,62 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Sat, 19 Sep 2026 20:59:32 +0000</lastBuildDate><item><title>CNNVD-2026-34014995 - Linux kernel 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-34014995</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-34014995</guid><pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate><description>Linux kernel 安全漏洞
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Sun, 20 Sep 2026 05:18:25 +0000</lastBuildDate><item><title>CNNVD-2026-39774431 - IBM Guardium Data Protection 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-39774431</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-39774431</guid><pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate><description>IBM Guardium Data Protection 跨站脚本漏洞
+危害等级: 高危
+收录时间：2026-09-18 | 更新时间: 2026-09-20 10:27:57
+CNNVD编号: CNNVD-2026-39774431</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-39774431&lt;/p&gt;&lt;pre&gt;IBM Guardium Data Protection 跨站脚本漏洞
+危害等级: 高危
+收录时间：2026-09-18 | 更新时间: 2026-09-20 10:27:57
+CNNVD编号: CNNVD-2026-39774431&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-52542569 - IBM Guardium Data Protection SQL注入漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-52542569</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-52542569</guid><pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate><description>IBM Guardium Data Protection SQL注入漏洞
+危害等级: 高危
+收录时间：2026-09-18 | 更新时间: 2026-09-20 10:27:57
+CNNVD编号: CNNVD-2026-52542569</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-52542569&lt;/p&gt;&lt;pre&gt;IBM Guardium Data Protection SQL注入漏洞
+危害等级: 高危
+收录时间：2026-09-18 | 更新时间: 2026-09-20 10:27:57
+CNNVD编号: CNNVD-2026-52542569&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-96821099 - Apache Airflow 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-96821099</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-96821099</guid><pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate><description>Apache Airflow 授权问题漏洞
+危害等级: 高危
+收录时间：2026-09-18 | 更新时间: 2026-09-20 11:01:14
+CNNVD编号: CNNVD-2026-96821099</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-96821099&lt;/p&gt;&lt;pre&gt;Apache Airflow 授权问题漏洞
+危害等级: 高危
+收录时间：2026-09-18 | 更新时间: 2026-09-20 11:01:14
+CNNVD编号: CNNVD-2026-96821099&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-75900047 - CareCam HMT.CM2507 Firmware 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75900047</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75900047</guid><pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate><description>CareCam HMT.CM2507 Firmware 授权问题漏洞
+危害等级: 高危
+收录时间：2026-09-18 | 更新时间: 2026-09-20 11:20:42
+CNNVD编号: CNNVD-2026-75900047</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75900047&lt;/p&gt;&lt;pre&gt;CareCam HMT.CM2507 Firmware 授权问题漏洞
+危害等级: 高危
+收录时间：2026-09-18 | 更新时间: 2026-09-20 11:20:42
+CNNVD编号: CNNVD-2026-75900047&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-36049072 - CareCam HMT.CM2507 Firmware 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-36049072</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-36049072</guid><pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate><description>CareCam HMT.CM2507 Firmware 授权问题漏洞
+危害等级: 低危
+收录时间：2026-09-18 | 更新时间: 2026-09-20 11:20:42
+CNNVD编号: CNNVD-2026-36049072</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-36049072&lt;/p&gt;&lt;pre&gt;CareCam HMT.CM2507 Firmware 授权问题漏洞
+危害等级: 低危
+收录时间：2026-09-18 | 更新时间: 2026-09-20 11:20:42
+CNNVD编号: CNNVD-2026-36049072&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-68396845 - IBM Guardium Data Protection 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-68396845</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-68396845</guid><pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate><description>IBM Guardium Data Protection 跨站脚本漏洞
+危害等级: 高危
+收录时间：2026-09-18 | 更新时间: 2026-09-20 10:28:27
+CNNVD编号: CNNVD-2026-68396845</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-68396845&lt;/p&gt;&lt;pre&gt;IBM Guardium Data Protection 跨站脚本漏洞
+危害等级: 高危
+收录时间：2026-09-18 | 更新时间: 2026-09-20 10:28:27
+CNNVD编号: CNNVD-2026-68396845&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-81509949 - IBM Guardium Data Protection 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-81509949</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-81509949</guid><pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate><description>IBM Guardium Data Protection 授权问题漏洞
+危害等级: 高危
+收录时间：2026-09-18 | 更新时间: 2026-09-20 10:27:57
+CNNVD编号: CNNVD-2026-81509949</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-81509949&lt;/p&gt;&lt;pre&gt;IBM Guardium Data Protection 授权问题漏洞
+危害等级: 高危
+收录时间：2026-09-18 | 更新时间: 2026-09-20 10:27:57
+CNNVD编号: CNNVD-2026-81509949&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-27260211 - CareCam HMT.CM2507 Firmware 加密问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-27260211</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-27260211</guid><pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate><description>CareCam HMT.CM2507 Firmware 加密问题漏洞
 危害等级: 超危
-收录时间：2026-09-17 | 更新时间: 2026-09-18 16:34:22
-CNNVD编号: CNNVD-2026-34014995</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-34014995&lt;/p&gt;&lt;pre&gt;Linux kernel 安全漏洞
+收录时间：2026-09-18 | 更新时间: 2026-09-20 11:20:42
+CNNVD编号: CNNVD-2026-27260211</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-27260211&lt;/p&gt;&lt;pre&gt;CareCam HMT.CM2507 Firmware 加密问题漏洞
 危害等级: 超危
-收录时间：2026-09-17 | 更新时间: 2026-09-18 16:34:22
-CNNVD编号: CNNVD-2026-34014995&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-73280542 - Linux kernel 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-73280542</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-73280542</guid><pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate><description>Linux kernel 安全漏洞
+收录时间：2026-09-18 | 更新时间: 2026-09-20 11:20:42
+CNNVD编号: CNNVD-2026-27260211&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-28811676 - CareCam HMT.CM2507 Firmware 加密问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-28811676</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-28811676</guid><pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate><description>CareCam HMT.CM2507 Firmware 加密问题漏洞
 危害等级: 超危
-收录时间：2026-09-17 | 更新时间: 2026-09-18 16:34:27
-CNNVD编号: CNNVD-2026-73280542</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-73280542&lt;/p&gt;&lt;pre&gt;Linux kernel 安全漏洞
+收录时间：2026-09-18 | 更新时间: 2026-09-20 11:20:41
+CNNVD编号: CNNVD-2026-28811676</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-28811676&lt;/p&gt;&lt;pre&gt;CareCam HMT.CM2507 Firmware 加密问题漏洞
 危害等级: 超危
-收录时间：2026-09-17 | 更新时间: 2026-09-18 16:34:27
-CNNVD编号: CNNVD-2026-73280542&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-50028120 - Linux kernel 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-50028120</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-50028120</guid><pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate><description>Linux kernel 安全漏洞
-危害等级: 超危
-收录时间：2026-09-17 | 更新时间: 2026-09-18 16:34:23
-CNNVD编号: CNNVD-2026-50028120</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-50028120&lt;/p&gt;&lt;pre&gt;Linux kernel 安全漏洞
-危害等级: 超危
-收录时间：2026-09-17 | 更新时间: 2026-09-18 16:34:23
-CNNVD编号: CNNVD-2026-50028120&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-79104740 - Linux kernel 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-79104740</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-79104740</guid><pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate><description>Linux kernel 安全漏洞
-危害等级: 超危
-收录时间：2026-09-17 | 更新时间: 2026-09-18 16:34:36
-CNNVD编号: CNNVD-2026-79104740</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-79104740&lt;/p&gt;&lt;pre&gt;Linux kernel 安全漏洞
-危害等级: 超危
-收录时间：2026-09-17 | 更新时间: 2026-09-18 16:34:36
-CNNVD编号: CNNVD-2026-79104740&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-20890205 - Linux kernel 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-20890205</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-20890205</guid><pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate><description>Linux kernel 安全漏洞
-危害等级: 超危
-收录时间：2026-09-17 | 更新时间: 2026-09-18 16:34:35
-CNNVD编号: CNNVD-2026-20890205</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-20890205&lt;/p&gt;&lt;pre&gt;Linux kernel 安全漏洞
-危害等级: 超危
-收录时间：2026-09-17 | 更新时间: 2026-09-18 16:34:35
-CNNVD编号: CNNVD-2026-20890205&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-57522481 - Linux kernel 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-57522481</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-57522481</guid><pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate><description>Linux kernel 安全漏洞
-危害等级: 超危
-收录时间：2026-09-17 | 更新时间: 2026-09-18 16:34:32
-CNNVD编号: CNNVD-2026-57522481</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-57522481&lt;/p&gt;&lt;pre&gt;Linux kernel 安全漏洞
-危害等级: 超危
-收录时间：2026-09-17 | 更新时间: 2026-09-18 16:34:32
-CNNVD编号: CNNVD-2026-57522481&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-98734599 - Linux kernel 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-98734599</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-98734599</guid><pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate><description>Linux kernel 安全漏洞
-危害等级: 超危
-收录时间：2026-09-17 | 更新时间: 2026-09-18 16:34:50
-CNNVD编号: CNNVD-2026-98734599</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-98734599&lt;/p&gt;&lt;pre&gt;Linux kernel 安全漏洞
-危害等级: 超危
-收录时间：2026-09-17 | 更新时间: 2026-09-18 16:34:50
-CNNVD编号: CNNVD-2026-98734599&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-11441087 - Linux kernel 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-11441087</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-11441087</guid><pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate><description>Linux kernel 安全漏洞
-危害等级: 超危
-收录时间：2026-09-17 | 更新时间: 2026-09-18 16:34:49
-CNNVD编号: CNNVD-2026-11441087</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-11441087&lt;/p&gt;&lt;pre&gt;Linux kernel 安全漏洞
-危害等级: 超危
-收录时间：2026-09-17 | 更新时间: 2026-09-18 16:34:49
-CNNVD编号: CNNVD-2026-11441087&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-77091671 - Linux kernel 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-77091671</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-77091671</guid><pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate><description>Linux kernel 安全漏洞
-危害等级: 超危
-收录时间：2026-09-17 | 更新时间: 2026-09-18 16:36:52
-CNNVD编号: CNNVD-2026-77091671</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-77091671&lt;/p&gt;&lt;pre&gt;Linux kernel 安全漏洞
-危害等级: 超危
-收录时间：2026-09-17 | 更新时间: 2026-09-18 16:36:52
-CNNVD编号: CNNVD-2026-77091671&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-58452669 - Linux kernel 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-58452669</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-58452669</guid><pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate><description>Linux kernel 安全漏洞
-危害等级: 超危
-收录时间：2026-09-17 | 更新时间: 2026-09-18 16:36:45
-CNNVD编号: CNNVD-2026-58452669</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-58452669&lt;/p&gt;&lt;pre&gt;Linux kernel 安全漏洞
-危害等级: 超危
-收录时间：2026-09-17 | 更新时间: 2026-09-18 16:36:45
-CNNVD编号: CNNVD-2026-58452669&lt;/pre&gt;</content:encoded></item></channel></rss>
+收录时间：2026-09-18 | 更新时间: 2026-09-20 11:20:41
+CNNVD编号: CNNVD-2026-28811676&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-27429234 - CareCam HMT.CM2507 Firmware 软件供应链问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-27429234</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-27429234</guid><pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate><description>CareCam HMT.CM2507 Firmware 软件供应链问题漏洞
+危害等级: 高危
+收录时间：2026-09-18 | 更新时间: 2026-09-20 11:20:43
+CNNVD编号: CNNVD-2026-27429234</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-27429234&lt;/p&gt;&lt;pre&gt;CareCam HMT.CM2507 Firmware 软件供应链问题漏洞
+危害等级: 高危
+收录时间：2026-09-18 | 更新时间: 2026-09-20 11:20:43
+CNNVD编号: CNNVD-2026-27429234&lt;/pre&gt;</content:encoded></item></channel></rss>
