@@ -1,62 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Sun, 20 Sep 2026 05:18:25 +0000</lastBuildDate><item><title>CNNVD-2026-39774431 - IBM Guardium Data Protection 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-39774431</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-39774431</guid><pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate><description>IBM Guardium Data Protection 跨站脚本漏洞
-危害等级: 高危
-收录时间：2026-09-18 | 更新时间: 2026-09-20 10:27:57
-CNNVD编号: CNNVD-2026-39774431</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-39774431&lt;/p&gt;&lt;pre&gt;IBM Guardium Data Protection 跨站脚本漏洞
-危害等级: 高危
-收录时间：2026-09-18 | 更新时间: 2026-09-20 10:27:57
-CNNVD编号: CNNVD-2026-39774431&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-52542569 - IBM Guardium Data Protection SQL注入漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-52542569</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-52542569</guid><pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate><description>IBM Guardium Data Protection SQL注入漏洞
-危害等级: 高危
-收录时间：2026-09-18 | 更新时间: 2026-09-20 10:27:57
-CNNVD编号: CNNVD-2026-52542569</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-52542569&lt;/p&gt;&lt;pre&gt;IBM Guardium Data Protection SQL注入漏洞
-危害等级: 高危
-收录时间：2026-09-18 | 更新时间: 2026-09-20 10:27:57
-CNNVD编号: CNNVD-2026-52542569&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-96821099 - Apache Airflow 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-96821099</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-96821099</guid><pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate><description>Apache Airflow 授权问题漏洞
-危害等级: 高危
-收录时间：2026-09-18 | 更新时间: 2026-09-20 11:01:14
-CNNVD编号: CNNVD-2026-96821099</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-96821099&lt;/p&gt;&lt;pre&gt;Apache Airflow 授权问题漏洞
-危害等级: 高危
-收录时间：2026-09-18 | 更新时间: 2026-09-20 11:01:14
-CNNVD编号: CNNVD-2026-96821099&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-75900047 - CareCam HMT.CM2507 Firmware 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75900047</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75900047</guid><pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate><description>CareCam HMT.CM2507 Firmware 授权问题漏洞
-危害等级: 高危
-收录时间：2026-09-18 | 更新时间: 2026-09-20 11:20:42
-CNNVD编号: CNNVD-2026-75900047</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75900047&lt;/p&gt;&lt;pre&gt;CareCam HMT.CM2507 Firmware 授权问题漏洞
-危害等级: 高危
-收录时间：2026-09-18 | 更新时间: 2026-09-20 11:20:42
-CNNVD编号: CNNVD-2026-75900047&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-36049072 - CareCam HMT.CM2507 Firmware 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-36049072</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-36049072</guid><pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate><description>CareCam HMT.CM2507 Firmware 授权问题漏洞
-危害等级: 低危
-收录时间：2026-09-18 | 更新时间: 2026-09-20 11:20:42
-CNNVD编号: CNNVD-2026-36049072</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-36049072&lt;/p&gt;&lt;pre&gt;CareCam HMT.CM2507 Firmware 授权问题漏洞
-危害等级: 低危
-收录时间：2026-09-18 | 更新时间: 2026-09-20 11:20:42
-CNNVD编号: CNNVD-2026-36049072&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-68396845 - IBM Guardium Data Protection 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-68396845</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-68396845</guid><pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate><description>IBM Guardium Data Protection 跨站脚本漏洞
-危害等级: 高危
-收录时间：2026-09-18 | 更新时间: 2026-09-20 10:28:27
-CNNVD编号: CNNVD-2026-68396845</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-68396845&lt;/p&gt;&lt;pre&gt;IBM Guardium Data Protection 跨站脚本漏洞
-危害等级: 高危
-收录时间：2026-09-18 | 更新时间: 2026-09-20 10:28:27
-CNNVD编号: CNNVD-2026-68396845&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-81509949 - IBM Guardium Data Protection 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-81509949</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-81509949</guid><pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate><description>IBM Guardium Data Protection 授权问题漏洞
-危害等级: 高危
-收录时间：2026-09-18 | 更新时间: 2026-09-20 10:27:57
-CNNVD编号: CNNVD-2026-81509949</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-81509949&lt;/p&gt;&lt;pre&gt;IBM Guardium Data Protection 授权问题漏洞
-危害等级: 高危
-收录时间：2026-09-18 | 更新时间: 2026-09-20 10:27:57
-CNNVD编号: CNNVD-2026-81509949&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-27260211 - CareCam HMT.CM2507 Firmware 加密问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-27260211</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-27260211</guid><pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate><description>CareCam HMT.CM2507 Firmware 加密问题漏洞
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Sun, 20 Sep 2026 11:42:48 +0000</lastBuildDate><item><title>CNNVD-2026-94285377 - Keycloak 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-94285377</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-94285377</guid><pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate><description>Keycloak 授权问题漏洞
+危害等级: 中危
+收录时间：2026-09-19 | 更新时间: 2026-09-20 16:43:16
+CNNVD编号: CNNVD-2026-94285377</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-94285377&lt;/p&gt;&lt;pre&gt;Keycloak 授权问题漏洞
+危害等级: 中危
+收录时间：2026-09-19 | 更新时间: 2026-09-20 16:43:16
+CNNVD编号: CNNVD-2026-94285377&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-69978064 - WordPress Easy Appointments 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-69978064</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-69978064</guid><pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate><description>WordPress Easy Appointments 授权问题漏洞
+危害等级: 中危
+收录时间：2026-09-19 | 更新时间: 2026-09-20 16:43:56
+CNNVD编号: CNNVD-2026-69978064</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-69978064&lt;/p&gt;&lt;pre&gt;WordPress Easy Appointments 授权问题漏洞
+危害等级: 中危
+收录时间：2026-09-19 | 更新时间: 2026-09-20 16:43:56
+CNNVD编号: CNNVD-2026-69978064&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-13090755 - TOTOLINK A3002MU 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-13090755</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-13090755</guid><pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate><description>TOTOLINK A3002MU 缓冲区错误漏洞
 危害等级: 超危
-收录时间：2026-09-18 | 更新时间: 2026-09-20 11:20:42
-CNNVD编号: CNNVD-2026-27260211</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-27260211&lt;/p&gt;&lt;pre&gt;CareCam HMT.CM2507 Firmware 加密问题漏洞
+收录时间：2026-09-19 | 更新时间: 2026-09-20 16:43:49
+CNNVD编号: CNNVD-2026-13090755</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-13090755&lt;/p&gt;&lt;pre&gt;TOTOLINK A3002MU 缓冲区错误漏洞
 危害等级: 超危
-收录时间：2026-09-18 | 更新时间: 2026-09-20 11:20:42
-CNNVD编号: CNNVD-2026-27260211&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-28811676 - CareCam HMT.CM2507 Firmware 加密问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-28811676</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-28811676</guid><pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate><description>CareCam HMT.CM2507 Firmware 加密问题漏洞
-危害等级: 超危
-收录时间：2026-09-18 | 更新时间: 2026-09-20 11:20:41
-CNNVD编号: CNNVD-2026-28811676</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-28811676&lt;/p&gt;&lt;pre&gt;CareCam HMT.CM2507 Firmware 加密问题漏洞
-危害等级: 超危
-收录时间：2026-09-18 | 更新时间: 2026-09-20 11:20:41
-CNNVD编号: CNNVD-2026-28811676&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-27429234 - CareCam HMT.CM2507 Firmware 软件供应链问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-27429234</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-27429234</guid><pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate><description>CareCam HMT.CM2507 Firmware 软件供应链问题漏洞
+收录时间：2026-09-19 | 更新时间: 2026-09-20 16:43:49
+CNNVD编号: CNNVD-2026-13090755&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-11348106 - SiYuan 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-11348106</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-11348106</guid><pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate><description>SiYuan 跨站脚本漏洞
 危害等级: 高危
-收录时间：2026-09-18 | 更新时间: 2026-09-20 11:20:43
-CNNVD编号: CNNVD-2026-27429234</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-27429234&lt;/p&gt;&lt;pre&gt;CareCam HMT.CM2507 Firmware 软件供应链问题漏洞
+收录时间：2026-09-19 | 更新时间: 2026-09-20 16:43:34
+CNNVD编号: CNNVD-2026-11348106</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-11348106&lt;/p&gt;&lt;pre&gt;SiYuan 跨站脚本漏洞
 危害等级: 高危
-收录时间：2026-09-18 | 更新时间: 2026-09-20 11:20:43
-CNNVD编号: CNNVD-2026-27429234&lt;/pre&gt;</content:encoded></item></channel></rss>
+收录时间：2026-09-19 | 更新时间: 2026-09-20 16:43:34
+CNNVD编号: CNNVD-2026-11348106&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-22026236 - Keycloak 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22026236</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22026236</guid><pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate><description>Keycloak 授权问题漏洞
+危害等级: 中危
+收录时间：2026-09-19 | 更新时间: 2026-09-20 16:43:16
+CNNVD编号: CNNVD-2026-22026236</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22026236&lt;/p&gt;&lt;pre&gt;Keycloak 授权问题漏洞
+危害等级: 中危
+收录时间：2026-09-19 | 更新时间: 2026-09-20 16:43:16
+CNNVD编号: CNNVD-2026-22026236&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-37199366 - Keycloak 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-37199366</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-37199366</guid><pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate><description>Keycloak 授权问题漏洞
+危害等级: 中危
+收录时间：2026-09-19 | 更新时间: 2026-09-20 16:43:15
+CNNVD编号: CNNVD-2026-37199366</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-37199366&lt;/p&gt;&lt;pre&gt;Keycloak 授权问题漏洞
+危害等级: 中危
+收录时间：2026-09-19 | 更新时间: 2026-09-20 16:43:15
+CNNVD编号: CNNVD-2026-37199366&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-18874408 - WordPress Tutor LMS 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-18874408</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-18874408</guid><pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate><description>WordPress Tutor LMS 跨站脚本漏洞
+危害等级: 中危
+收录时间：2026-09-19 | 更新时间: 2026-09-20 16:43:57
+CNNVD编号: CNNVD-2026-18874408</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-18874408&lt;/p&gt;&lt;pre&gt;WordPress Tutor LMS 跨站脚本漏洞
+危害等级: 中危
+收录时间：2026-09-19 | 更新时间: 2026-09-20 16:43:57
+CNNVD编号: CNNVD-2026-18874408&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-85320948 - SiYuan 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-85320948</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-85320948</guid><pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate><description>SiYuan 跨站脚本漏洞
+危害等级: 高危
+收录时间：2026-09-19 | 更新时间: 2026-09-20 16:43:34
+CNNVD编号: CNNVD-2026-85320948</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-85320948&lt;/p&gt;&lt;pre&gt;SiYuan 跨站脚本漏洞
+危害等级: 高危
+收录时间：2026-09-19 | 更新时间: 2026-09-20 16:43:34
+CNNVD编号: CNNVD-2026-85320948&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-49445472 - WordPress BlockSpare 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-49445472</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-49445472</guid><pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate><description>WordPress BlockSpare 授权问题漏洞
+危害等级: 中危
+收录时间：2026-09-19 | 更新时间: 2026-09-20 16:43:55
+CNNVD编号: CNNVD-2026-49445472</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-49445472&lt;/p&gt;&lt;pre&gt;WordPress BlockSpare 授权问题漏洞
+危害等级: 中危
+收录时间：2026-09-19 | 更新时间: 2026-09-20 16:43:55
+CNNVD编号: CNNVD-2026-49445472&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-80854551 - WordPress AppMySite 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-80854551</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-80854551</guid><pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate><description>WordPress AppMySite 跨站脚本漏洞
+危害等级: 中危
+收录时间：2026-09-19 | 更新时间: 2026-09-20 16:43:50
+CNNVD编号: CNNVD-2026-80854551</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-80854551&lt;/p&gt;&lt;pre&gt;WordPress AppMySite 跨站脚本漏洞
+危害等级: 中危
+收录时间：2026-09-19 | 更新时间: 2026-09-20 16:43:50
+CNNVD编号: CNNVD-2026-80854551&lt;/pre&gt;</content:encoded></item></channel></rss>
