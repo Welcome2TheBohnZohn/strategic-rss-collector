@@ -1,5 +1,5 @@
 Strategic RSS Collector Status
-Generated: 2026-09-21 05:12:55 UTC
+Generated: 2026-09-21 13:15:39 UTC
 
 Status meanings:
 OK = Feed contains one or more items
@@ -11,7 +11,7 @@ FAILED = Source could not be retrieved
   Start URL: https://www.mod.gov.cn/
   Resolved URL: http://www.mod.gov.cn/
   HTTP: 200
-  Links discovered: 242
+  Links discovered: 241
   Candidate links/items: 50
   Attempted items/articles: 12
   Items/articles with text: 12
@@ -71,7 +71,7 @@ FAILED = Source could not be retrieved
   Start URL: https://www.mod.gov.cn/gfbw/fgwx/bps/index.html
   Resolved URL: http://www.mod.gov.cn/gfbw/fgwx/bps/index.html
   HTTP: 200
-  Links discovered: 180
+  Links discovered: 179
   Candidate links/items: 28
   Attempted items/articles: 12
   Items/articles with text: 12
@@ -87,7 +87,7 @@ FAILED = Source could not be retrieved
   Start URL: https://www.mod.gov.cn/gfbw/fgwx/flfg/index.html
   Resolved URL: http://www.mod.gov.cn/gfbw/fgwx/flfg/index.html
   HTTP: 200
-  Links discovered: 173
+  Links discovered: 172
   Candidate links/items: 31
   Attempted items/articles: 12
   Items/articles with text: 12
@@ -319,7 +319,7 @@ Call log:
   Start URL: https://www.ncpssd.cn/
   Resolved URL: https://www.ncpssd.cn/
   HTTP: 200
-  Links discovered: 195
+  Links discovered: 197
   Candidate links/items: 50
   Attempted items/articles: 33
   Items/articles with text: 12
@@ -349,14 +349,14 @@ Call log:
 [OK] cnnvd-cn - China National Vulnerability Database CNNVD
   Source type: cnnvd
   Start URL: https://www.cnnvd.org.cn/frontend/loophole
-  Resolved URL: https://www.cnnvd.org.cn/frontend/loophole
+  Resolved URL: https://www.cnnvd.org.cn/
   HTTP: 200
-  Links discovered: 23
-  Candidate links/items: 10
-  Attempted items/articles: 10
-  Items/articles with text: 10
-  Items/articles with dates: 10
-  RSS feed items: 10
+  Links discovered: 31
+  Candidate links/items: 5
+  Attempted items/articles: 5
+  Items/articles with text: 5
+  Items/articles with dates: 1
+  RSS feed items: 5
   SSL verification: ON
   Request timeout: 12s
   Max retries: 1

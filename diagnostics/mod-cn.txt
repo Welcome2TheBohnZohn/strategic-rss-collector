@@ -6,7 +6,7 @@ Include regex: /gfbw/|/xwfyr/|/wzll/
 Include text regex: 
 
 Candidate links: 50
-All links discovered: 242
+All links discovered: 241
 
 === MATCHED CANDIDATES ===
 
@@ -16,6 +16,8 @@ http://www.mod.gov.cn/gfbw/fgwx/16482045.html
   中华人民共和国国防动员法
 http://www.mod.gov.cn/gfbw/fgwx/16444625.html
   中央军委政治工作部等6部门联合印发《关于做好边远艰苦地区和大龄未婚官兵婚恋服务工作的意见》
+http://www.mod.gov.cn/gfbw/sy/tt_214026/16488013.html
+  中共中央政治局召开会议 讨论拟提请二十届五中全会审议的文件 中共中央总书记习近平主持会议
 http://www.mod.gov.cn/gfbw/sy/rt/16486128.html
   习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话
 http://www.mod.gov.cn/gfbw/sy/rt/16485484.html
@@ -54,6 +56,8 @@ http://www.mod.gov.cn/gfbw/tp_214132/16475831.html
   凌云出击！东部战区空军航空兵某旅开展空战对抗训练
 http://www.mod.gov.cn/gfbw/sy/rt/16485481.html
   习近平抵达新德里出席金砖国家领导人第十八次会晤
+http://www.mod.gov.cn/gfbw/qwfb/16488076.html
+  中国海军第48批护航编队结束对孟加拉国友好访问
 http://www.mod.gov.cn/gfbw/xwfyr/16486359.html
   中新“海上合作－2026”联演促进双方务实合作
 http://www.mod.gov.cn/gfbw/jsxd/16481085.html
@@ -68,10 +72,8 @@ http://www.mod.gov.cn/gfbw/gfdy/16487990.html
   内蒙古乌拉特中旗人武部协调地方支持部队建设
 http://www.mod.gov.cn/gfbw/gfjy_index/16487985.html
   中国人民抗战胜利受降纪念馆获赠一批地图史料
-http://www.mod.gov.cn/gfbw/qwfb/16486751.html
-  习近平给福建省“漳州110”全体队员回信
-http://www.mod.gov.cn/gfbw/qwfb/16487078.html
-  中澳（大利亚）举行第10次国防部工作会晤
+http://www.mod.gov.cn/gfbw/qwfb/16488072.html
+  张又侠、刘振立严重违纪违法被开除党籍军籍
 http://www.mod.gov.cn/gfbw/jswj/16477419.html
   海军83舰编队抵达印度尼西亚进行友好访问
 http://www.mod.gov.cn/gfbw/gfdy/16487706.html
@@ -86,16 +88,14 @@ http://www.mod.gov.cn/gfbw/qwfb/16486340.html
   2026年9月中旬国防部例行新闻发布
 http://www.mod.gov.cn/gfbw/jmsd/16487486.html
   强军论坛｜弘扬长征精神 同心共筑国防
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16486999.html
+http://www.mod.gov.cn/gfbw/qwfb/16488014.html
   习近平就发展先进制造业作出重要指示
-http://www.mod.gov.cn/gfbw/qwfb/16487003.html
-  习近平致信祝贺吉林大学建校80周年
 http://www.mod.gov.cn/gfbw/jmsd/16487931.html
   强军论坛｜读懂送新兵仪式的深层意蕴
 http://www.mod.gov.cn/gfbw/gfjy_index/16487992.html
   多地开展全民国防教育月系列活动一瞥
-http://www.mod.gov.cn/gfbw/qwfb/16487496.html
-  勿忘九一八撞钟鸣警仪式在沈阳举行
+http://www.mod.gov.cn/gfbw/qwfb/16488046.html
+  习近平复信美国10所高校青年学生
 http://www.mod.gov.cn/gfbw/fgwx/16448582.html
   中华人民共和国民族团结进步促进法
 http://www.mod.gov.cn/gfbw/jmsd/16487735.html
@@ -299,8 +299,8 @@ http://www.mod.gov.cn/gfbw/sy/jt_214028/16486217.html
   初秋，海军航空兵某团开展跨昼夜飞行训练
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16486236.html
   秋日，陆军某旅开展机动训练
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16486999.html
-  习近平就发展先进制造业作出重要指示
+http://www.mod.gov.cn/gfbw/sy/tt_214026/16488013.html
+  中共中央政治局召开会议 讨论拟提请二十届五中全会审议的文件 中共中央总书记习近平主持会议
 http://www.mod.gov.cn/gfbw/sy/rt/16486128.html
   习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话
 http://www.mod.gov.cn/gfbw/sy/rt/16485484.html
@@ -311,30 +311,28 @@ http://www.mod.gov.cn/gfbw/sy/rt/16485481.html
   习近平抵达新德里出席金砖国家领导人第十八次会晤
 http://www.mod.gov.cn/gfbw/sy/rt/16486374.html
   2026年9月中旬国防部例行新闻发布
-http://www.mod.gov.cn/gfbw/qwfb/16487003.html
-  习近平致信祝贺吉林大学建校80周年
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16486744.html
-  贺信全文
-http://www.mod.gov.cn/gfbw/qwfb/16486751.html
-  习近平给福建省“漳州110”全体队员回信
-http://www.mod.gov.cn/gfbw/qwfb/16486562.html
-  回信全文
+http://www.mod.gov.cn/gfbw/qwfb/16488041.html
+  习近平将对美国进行国事访问
+http://www.mod.gov.cn/gfbw/qwfb/16488052.html
+  外交部介绍有关安排
+http://www.mod.gov.cn/gfbw/qwfb/16488046.html
+  习近平复信美国10所高校青年学生
+http://www.mod.gov.cn/gfbw/qwfb/16488014.html
+  习近平就发展先进制造业作出重要指示
 http://www.mod.gov.cn/gfbw/qwfb/16487032.html
   张升民会见印度尼西亚国防部长
 http://www.mod.gov.cn/gfbw/qwfb/16486837.html
   张升民会见越南副总理兼国防部长
-http://www.mod.gov.cn/gfbw/qwfb/16487980.html
-  中国军队将参加东盟防长扩大会“三叉戟决心”实兵演习
 http://www.mod.gov.cn/gfbw/qwfb/16486340.html
   2026年9月中旬国防部例行新闻发布
+http://www.mod.gov.cn/gfbw/qwfb/16488072.html
+  张又侠、刘振立严重违纪违法被开除党籍军籍
+http://www.mod.gov.cn/gfbw/qwfb/16487980.html
+  中国军队将参加东盟防长扩大会“三叉戟决心”实兵演习
+http://www.mod.gov.cn/gfbw/qwfb/16488076.html
+  中国海军第48批护航编队结束对孟加拉国友好访问
 http://www.mod.gov.cn/gfbw/qwfb/16487660.html
   “和平列车-2026”医疗队在老挝多地同步开展学术交流活动
-http://www.mod.gov.cn/gfbw/qwfb/16487496.html
-  勿忘九一八撞钟鸣警仪式在沈阳举行
-http://www.mod.gov.cn/gfbw/qwfb/16487062.html
-  第十三届北京香山论坛在京闭幕
-http://www.mod.gov.cn/gfbw/qwfb/16487078.html
-  中澳（大利亚）举行第10次国防部工作会晤
 http://www.mod.gov.cn/gfbw/jswj/16486796.html
   中国海军“吉祥方舟”号医院船抵达毛里塔尼亚
 http://www.mod.gov.cn/gfbw/jswj/16487981.html

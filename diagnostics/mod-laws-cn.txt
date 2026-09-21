@@ -6,7 +6,7 @@ Include regex: /gfbw/fgwx/flfg/
 Include text regex: 
 
 Candidate links: 31
-All links discovered: 173
+All links discovered: 172
 
 === MATCHED CANDIDATES ===
 
@@ -303,20 +303,18 @@ http://www.mod.gov.cn/gfbw/fgwx/flfg/4927099.html
   关于调整规范军人家属随军及落户有关政策意见 2022-11-27 13:46
 http://www.mod.gov.cn/gfbw/fgwx/flfg/16126326.html
   中共中央　国务院　中央军委印发《关于加强和改进新时代全民国防教育工作的意见》 2022-09-01 18:22
-http://www.mod.gov.cn/gfbw/qwfb/16487003.html
-  习近平致信祝贺吉林大学建校80周年
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16486744.html
-  贺信全文
-http://www.mod.gov.cn/gfbw/qwfb/16486751.html
-  习近平给福建省“漳州110”全体队员回信
-http://www.mod.gov.cn/gfbw/qwfb/16486562.html
-  回信全文
+http://www.mod.gov.cn/gfbw/qwfb/16488041.html
+  习近平将对美国进行国事访问
+http://www.mod.gov.cn/gfbw/qwfb/16488052.html
+  外交部介绍有关安排
+http://www.mod.gov.cn/gfbw/qwfb/16488046.html
+  习近平复信美国10所高校青年学生
+http://www.mod.gov.cn/gfbw/qwfb/16488014.html
+  习近平就发展先进制造业作出重要指示
 http://www.mod.gov.cn/gfbw/qwfb/16487032.html
   张升民会见印度尼西亚国防部长
 http://www.mod.gov.cn/gfbw/qwfb/16486837.html
   张升民会见越南副总理兼国防部长
-http://www.mod.gov.cn/gfbw/qwfb/16487980.html
-  中国军队将参加东盟防长扩大会“三叉戟决心”实兵演习
 http://www.mod.gov.cn/gfbw/spbb_214126/16477140.html
   何为承诺
 http://www.mod.gov.cn/gfbw/spbb_214126/16477755.html

@@ -6,7 +6,7 @@ Include regex: ncpssd\.cn/.+
 Include text regex: 
 
 Candidate links: 50
-All links discovered: 195
+All links discovered: 197
 
 === MATCHED CANDIDATES ===
 
@@ -80,6 +80,8 @@ https://www.ncpssd.cn/Literature/articleinfo
   articleinfo
 https://www.ncpssd.cn/topics/detailsList?id=4&wfColumn=1&resourceType=0
   建设中国特色新型智库
+https://www.ncpssd.cn/message?id=22312
+  中共中央政治局召开会议 讨论拟提请二十届五中全会审议的文件 中共中央总书记习近平主持会议
 https://www.ncpssd.cn/message?id=18622
   积极助力现代公共文化服务体系建设 ——国家哲学社会科学文献中心走进贵州省“两会”
 https://www.ncpssd.cn/message?id=18580
@@ -90,8 +92,6 @@ https://www.ncpssd.cn/message?id=19564
   《在学术期刊中合理应用人工智能的倡议书》发布
 https://www.ncpssd.cn/message?id=18273
   国家哲学社会科学文献中心走进贵州省图书馆学会
-https://www.ncpssd.cn/message?id=22268
-  习近平给福建省“漳州110”全体队员的回信
 https://www.ncpssd.cn/js/jquery-1.11.1.min.js
   jquery-1.11.1.min.js
 https://www.ncpssd.cn/css/jquery.hiSlider.css
@@ -102,8 +102,6 @@ https://www.ncpssd.cn/sso/getTokenCurrentUser?ssoClient=wxEN
   getTokenCurrentUser
 https://www.ncpssd.cn/Literature/ancientbooklistNew?nav=5
   ancientbooklistNew
-https://www.ncpssd.cn/message?id=22269
-  习近平：在加强基础研究座谈会上的讲话
 https://www.ncpssd.cn/js/jquery.hiSlider.js
   jquery.hiSlider.js
 https://www.ncpssd.cn/js/sensorsdata.min.js
@@ -116,6 +114,8 @@ https://www.ncpssd.cn/message?id=22271
   习近平致吉林大学建校80周年的贺信
 https://www.ncpssd.cn/message?id=22270
   习近平致信祝贺吉林大学建校80周年
+https://www.ncpssd.cn/message?id=22313
+  习近平复信美国10所高校青年学生
 
 === ALL DISCOVERED LINKS ===
 
@@ -161,16 +161,16 @@ https://www.ncpssd.cn/messages
 https://www.ncpssd.cn/message?id=22266
 https://www.ncpssd.cn/message?id=22261
 https://www.ncpssd.cn/message?id=22214
+https://www.ncpssd.cn/message?id=22313
+  习近平复信美国10所高校青年学生
+https://www.ncpssd.cn/message?id=22312
+  中共中央政治局召开会议 讨论拟提请二十届五中全会审议的文件 中共中央总书记习近平主持会议
 https://www.ncpssd.cn/message?id=22272
   习近平就发展先进制造业作出重要指示
 https://www.ncpssd.cn/message?id=22271
   习近平致吉林大学建校80周年的贺信
 https://www.ncpssd.cn/message?id=22270
   习近平致信祝贺吉林大学建校80周年
-https://www.ncpssd.cn/message?id=22269
-  习近平：在加强基础研究座谈会上的讲话
-https://www.ncpssd.cn/message?id=22268
-  习近平给福建省“漳州110”全体队员的回信
 https://www.ncpssd.cn/message?id=19563
   国家哲学社会科学文献中心发布最受欢迎期刊报告
 https://www.ncpssd.cn/message?id=19564
@@ -278,6 +278,8 @@ https://www.ncpssd.cn/aboutUs?mainTitle=版权声明
   版权声明
 https://beian.miit.gov.cn/
   京ICP备09037430号-3
+https://beian.mps.gov.cn/
+  京公网安备11010102007898号
 https://tongji.baidu.com/web5/welcome/login
 http://www.w3.org/1999/xhtml
 https://www.ncpssd.cn/ICSMSG
@@ -376,6 +378,7 @@ https://ft.ncpssd.cn/image/get/npssd/address?url=img/1644548423530.jpg
 https://ft.ncpssd.cn/image/get/npssd/address?url=img/1650081428558.jpg
 https://ft.ncpssd.cn/image/get/npssd/address?url=img/1644548423505.jpg
 https://ft.ncpssd.cn/image/get/npssd/address?url=img/1730881808693.jpg
+https://www.ncpssd.cn/images/beian.png
 https://hmcdn.baidu.com/static/hmt/icon/21.gif
 https://m.ncpssd.cn
 https://www.ncpssd.cn/ajax/userinfo.ashx

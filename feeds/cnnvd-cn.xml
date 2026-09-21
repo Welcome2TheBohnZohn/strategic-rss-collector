@@ -1,62 +1,174 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Mon, 21 Sep 2026 05:12:55 +0000</lastBuildDate><item><title>CNNVD-2026-94285377 - Keycloak 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-94285377</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-94285377</guid><pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate><description>Keycloak 授权问题漏洞
-危害等级: 中危
-收录时间：2026-09-19 | 更新时间: 2026-09-20 16:43:16
-CNNVD编号: CNNVD-2026-94285377</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-94285377&lt;/p&gt;&lt;pre&gt;Keycloak 授权问题漏洞
-危害等级: 中危
-收录时间：2026-09-19 | 更新时间: 2026-09-20 16:43:16
-CNNVD编号: CNNVD-2026-94285377&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-69978064 - WordPress Easy Appointments 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-69978064</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-69978064</guid><pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate><description>WordPress Easy Appointments 授权问题漏洞
-危害等级: 中危
-收录时间：2026-09-19 | 更新时间: 2026-09-20 16:43:56
-CNNVD编号: CNNVD-2026-69978064</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-69978064&lt;/p&gt;&lt;pre&gt;WordPress Easy Appointments 授权问题漏洞
-危害等级: 中危
-收录时间：2026-09-19 | 更新时间: 2026-09-20 16:43:56
-CNNVD编号: CNNVD-2026-69978064&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-13090755 - TOTOLINK A3002MU 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-13090755</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-13090755</guid><pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate><description>TOTOLINK A3002MU 缓冲区错误漏洞
-危害等级: 超危
-收录时间：2026-09-19 | 更新时间: 2026-09-20 16:43:49
-CNNVD编号: CNNVD-2026-13090755</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-13090755&lt;/p&gt;&lt;pre&gt;TOTOLINK A3002MU 缓冲区错误漏洞
-危害等级: 超危
-收录时间：2026-09-19 | 更新时间: 2026-09-20 16:43:49
-CNNVD编号: CNNVD-2026-13090755&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-11348106 - SiYuan 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-11348106</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-11348106</guid><pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate><description>SiYuan 跨站脚本漏洞
-危害等级: 高危
-收录时间：2026-09-19 | 更新时间: 2026-09-20 16:43:34
-CNNVD编号: CNNVD-2026-11348106</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-11348106&lt;/p&gt;&lt;pre&gt;SiYuan 跨站脚本漏洞
-危害等级: 高危
-收录时间：2026-09-19 | 更新时间: 2026-09-20 16:43:34
-CNNVD编号: CNNVD-2026-11348106&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-22026236 - Keycloak 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22026236</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22026236</guid><pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate><description>Keycloak 授权问题漏洞
-危害等级: 中危
-收录时间：2026-09-19 | 更新时间: 2026-09-20 16:43:16
-CNNVD编号: CNNVD-2026-22026236</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22026236&lt;/p&gt;&lt;pre&gt;Keycloak 授权问题漏洞
-危害等级: 中危
-收录时间：2026-09-19 | 更新时间: 2026-09-20 16:43:16
-CNNVD编号: CNNVD-2026-22026236&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-37199366 - Keycloak 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-37199366</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-37199366</guid><pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate><description>Keycloak 授权问题漏洞
-危害等级: 中危
-收录时间：2026-09-19 | 更新时间: 2026-09-20 16:43:15
-CNNVD编号: CNNVD-2026-37199366</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-37199366&lt;/p&gt;&lt;pre&gt;Keycloak 授权问题漏洞
-危害等级: 中危
-收录时间：2026-09-19 | 更新时间: 2026-09-20 16:43:15
-CNNVD编号: CNNVD-2026-37199366&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-18874408 - WordPress Tutor LMS 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-18874408</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-18874408</guid><pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate><description>WordPress Tutor LMS 跨站脚本漏洞
-危害等级: 中危
-收录时间：2026-09-19 | 更新时间: 2026-09-20 16:43:57
-CNNVD编号: CNNVD-2026-18874408</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-18874408&lt;/p&gt;&lt;pre&gt;WordPress Tutor LMS 跨站脚本漏洞
-危害等级: 中危
-收录时间：2026-09-19 | 更新时间: 2026-09-20 16:43:57
-CNNVD编号: CNNVD-2026-18874408&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-85320948 - SiYuan 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-85320948</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-85320948</guid><pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate><description>SiYuan 跨站脚本漏洞
-危害等级: 高危
-收录时间：2026-09-19 | 更新时间: 2026-09-20 16:43:34
-CNNVD编号: CNNVD-2026-85320948</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-85320948&lt;/p&gt;&lt;pre&gt;SiYuan 跨站脚本漏洞
-危害等级: 高危
-收录时间：2026-09-19 | 更新时间: 2026-09-20 16:43:34
-CNNVD编号: CNNVD-2026-85320948&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-49445472 - WordPress BlockSpare 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-49445472</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-49445472</guid><pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate><description>WordPress BlockSpare 授权问题漏洞
-危害等级: 中危
-收录时间：2026-09-19 | 更新时间: 2026-09-20 16:43:55
-CNNVD编号: CNNVD-2026-49445472</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-49445472&lt;/p&gt;&lt;pre&gt;WordPress BlockSpare 授权问题漏洞
-危害等级: 中危
-收录时间：2026-09-19 | 更新时间: 2026-09-20 16:43:55
-CNNVD编号: CNNVD-2026-49445472&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-80854551 - WordPress AppMySite 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-80854551</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-80854551</guid><pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate><description>WordPress AppMySite 跨站脚本漏洞
-危害等级: 中危
-收录时间：2026-09-19 | 更新时间: 2026-09-20 16:43:50
-CNNVD编号: CNNVD-2026-80854551</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-80854551&lt;/p&gt;&lt;pre&gt;WordPress AppMySite 跨站脚本漏洞
-危害等级: 中危
-收录时间：2026-09-19 | 更新时间: 2026-09-20 16:43:50
-CNNVD编号: CNNVD-2026-80854551&lt;/pre&gt;</content:encoded></item></channel></rss>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Mon, 21 Sep 2026 13:15:39 +0000</lastBuildDate><item><title>CNNVD-2026-58129009 - uteros 加密问题漏洞</title><link>https://www.cnnvd.org.cn/frontend/loophole</link><guid isPermaLink="false">https://www.cnnvd.org.cn/#CNNVD-2026-58129009</guid><pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate><description>uteros 加密问题漏洞
+CNNVD编号：CNNVD-2026-88167214
+高危
+Microsoft HTTP.sys 缓冲区错误漏洞
+CNNVD编号：CNNVD-2026-58129009
+漏洞通报
+更多 &gt;
+漏洞报告
+更多 &gt;
+信息安全漏洞周报第850期
+发布时间：2026-9-18 08:58:46 |  阅读量：227
+信息安全漏洞周报第849期
+发布时间：2026-9-11 09:14:04 |  阅读量：360
+人工智能重要漏洞通报（2026年第十三期） 
+发布时间：2026-9-8 16:08:09 |  阅读量：232
+信息安全漏洞周报第848期
+发布时间：2026-9-3 09:56:32 |  阅读量：378
+信息安全漏洞周报第847期
+发布时间：2026-8-27 11:40:56 |  阅读量：400
+漏洞证书查询
+1、登录CNNVD网站，个人/单位进行实名认证后，即可查询漏洞证书的有效性；
+2、CNNVD网站仅提供漏洞证书有效性的结果查询，不出具任何证明报告；
+3、仅支持对2021年以来获得的漏洞证书有效性进行查询；
+4、漏洞证书查询结果最终解释权归CNNVD网站所有，任何单位或个人不得对结果进行涂抹、修改等操作；
+立即查询
+常见问题解答
+更多 &gt;
+Q
+兼容性服务申请审核时间？
+A
+每月月底专家评审，次月月初线上审核。
+Q
+支撑单位申请审核时间？
+Q
+请问考察期申请一级，结束时未达标是降级还是取消？
+Q
+漏洞等级评价标准
+Q
+证书信息变更流程
+Q
+支撑单位提交的漏洞和通报如果在证书获取后存在仍未验证完成的贡献如何计算？
+文档与规范
+更多 &gt;
+核心业务
+漏洞报送
+汇聚网站安全漏洞，为共同构筑网络安全长城，贡献力量。
+技术支撑单位申请
+立足漏洞监测与治理，全力支撑 CNNVD建设，守护大国网络安全。
+漏洞通报报送
+及时通报安全隐患，精准上报漏</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/frontend/loophole&lt;/p&gt;&lt;pre&gt;uteros 加密问题漏洞
+CNNVD编号：CNNVD-2026-88167214
+高危
+Microsoft HTTP.sys 缓冲区错误漏洞
+CNNVD编号：CNNVD-2026-58129009
+漏洞通报
+更多 &amp;gt;
+漏洞报告
+更多 &amp;gt;
+信息安全漏洞周报第850期
+发布时间：2026-9-18 08:58:46 |  阅读量：227
+信息安全漏洞周报第849期
+发布时间：2026-9-11 09:14:04 |  阅读量：360
+人工智能重要漏洞通报（2026年第十三期） 
+发布时间：2026-9-8 16:08:09 |  阅读量：232
+信息安全漏洞周报第848期
+发布时间：2026-9-3 09:56:32 |  阅读量：378
+信息安全漏洞周报第847期
+发布时间：2026-8-27 11:40:56 |  阅读量：400
+漏洞证书查询
+1、登录CNNVD网站，个人/单位进行实名认证后，即可查询漏洞证书的有效性；
+2、CNNVD网站仅提供漏洞证书有效性的结果查询，不出具任何证明报告；
+3、仅支持对2021年以来获得的漏洞证书有效性进行查询；
+4、漏洞证书查询结果最终解释权归CNNVD网站所有，任何单位或个人不得对结果进行涂抹、修改等操作；
+立即查询
+常见问题解答
+更多 &amp;gt;
+Q
+兼容性服务申请审核时间？
+A
+每月月底专家评审，次月月初线上审核。
+Q
+支撑单位申请审核时间？
+Q
+请问考察期申请一级，结束时未达标是降级还是取消？
+Q
+漏洞等级评价标准
+Q
+证书信息变更流程
+Q
+支撑单位提交的漏洞和通报如果在证书获取后存在仍未验证完成的贡献如何计算？
+文档与规范
+更多 &amp;gt;
+核心业务
+漏洞报送
+汇聚网站安全漏洞，为共同构筑网络安全长城，贡献力量。
+技术支撑单位申请
+立足漏洞监测与治理，全力支撑 CNNVD建设，守护大国网络安全。
+漏洞通报报送
+及时通报安全隐患，精准上报漏&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-59687073 - 握第一手漏洞资讯</title><link>https://www.cnnvd.org.cn/frontend/loophole</link><guid isPermaLink="false">https://www.cnnvd.org.cn/#CNNVD-2026-59687073</guid><description>握第一手漏洞资讯
+
+共享海量数据 降低安全风险
+CNNVD动态
+更多 &gt;
+热点漏洞
+更多 &gt;
+高危
+Google Chrome 缓冲区错误漏洞
+CNNVD编号：CNNVD-2026-59687073
+超危
+GitLab 路径遍历漏洞
+CNNVD编号：</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/frontend/loophole&lt;/p&gt;&lt;pre&gt;握第一手漏洞资讯
+
+共享海量数据 降低安全风险
+CNNVD动态
+更多 &amp;gt;
+热点漏洞
+更多 &amp;gt;
+高危
+Google Chrome 缓冲区错误漏洞
+CNNVD编号：CNNVD-2026-59687073
+超危
+GitLab 路径遍历漏洞
+CNNVD编号：&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-20211096 - Google Chrome 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/frontend/loophole</link><guid isPermaLink="false">https://www.cnnvd.org.cn/#CNNVD-2026-20211096</guid><description>&gt;
+高危
+Google Chrome 缓冲区错误漏洞
+CNNVD编号：CNNVD-2026-59687073
+超危
+GitLab 路径遍历漏洞
+CNNVD编号：CNNVD-2026-20211096
+高危
+Jenkins 输入验证错误漏洞
+CNNVD编号：</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/frontend/loophole&lt;/p&gt;&lt;pre&gt;&amp;gt;
+高危
+Google Chrome 缓冲区错误漏洞
+CNNVD编号：CNNVD-2026-59687073
+超危
+GitLab 路径遍历漏洞
+CNNVD编号：CNNVD-2026-20211096
+高危
+Jenkins 输入验证错误漏洞
+CNNVD编号：&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-37666949 - 687073</title><link>https://www.cnnvd.org.cn/frontend/loophole</link><guid isPermaLink="false">https://www.cnnvd.org.cn/#CNNVD-2026-37666949</guid><description>687073
+超危
+GitLab 路径遍历漏洞
+CNNVD编号：CNNVD-2026-20211096
+高危
+Jenkins 输入验证错误漏洞
+CNNVD编号：CNNVD-2026-37666949
+超危
+MikroTik routeros 加密问题漏洞
+CNNVD编号：</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/frontend/loophole&lt;/p&gt;&lt;pre&gt;687073
+超危
+GitLab 路径遍历漏洞
+CNNVD编号：CNNVD-2026-20211096
+高危
+Jenkins 输入验证错误漏洞
+CNNVD编号：CNNVD-2026-37666949
+超危
+MikroTik routeros 加密问题漏洞
+CNNVD编号：&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-88167214 - enkins 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/frontend/loophole</link><guid isPermaLink="false">https://www.cnnvd.org.cn/#CNNVD-2026-88167214</guid><description>enkins 输入验证错误漏洞
+CNNVD编号：CNNVD-2026-37666949
+超危
+MikroTik routeros 加密问题漏洞
+CNNVD编号：CNNVD-2026-88167214
+高危
+Microsoft HTTP.sys 缓冲区错误漏洞
+CNNVD编号：</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/frontend/loophole&lt;/p&gt;&lt;pre&gt;enkins 输入验证错误漏洞
+CNNVD编号：CNNVD-2026-37666949
+超危
+MikroTik routeros 加密问题漏洞
+CNNVD编号：CNNVD-2026-88167214
+高危
+Microsoft HTTP.sys 缓冲区错误漏洞
+CNNVD编号：&lt;/pre&gt;</content:encoded></item></channel></rss>
