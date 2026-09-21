@@ -1,107 +1,83 @@
 {
-  "issue_date": "2026-09-18",
+  "issue_date": "2026-09-21",
   "issue_pages": [
     {
       "paper_number": "01",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-18&paperName=zggfb&paperNumber=01",
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-21&paperName=zggfb&paperNumber=01",
       "links": 71,
       "article_links": 4
     },
     {
       "paper_number": "02",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-18&paperName=zggfb&paperNumber=02",
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-21&paperName=zggfb&paperNumber=02",
       "links": 71,
       "article_links": 4
     },
     {
       "paper_number": "03",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-18&paperName=zggfb&paperNumber=03",
-      "links": 75,
-      "article_links": 7
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-21&paperName=zggfb&paperNumber=03",
+      "links": 63,
+      "article_links": 1
     },
     {
       "paper_number": "04",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-18&paperName=zggfb&paperNumber=04",
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-21&paperName=zggfb&paperNumber=04",
       "links": 69,
       "article_links": 4
     }
   ],
   "candidates": [
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-18&paperNumber=01&articleid=986920",
-      "anchor_title": "激流天堑变通途"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-21&paperNumber=01&articleid=987096",
+      "anchor_title": "夹金山上吹响胜利号角"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-18&paperNumber=01&articleid=986919",
-      "anchor_title": "走进校园传薪火"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-21&paperNumber=01&articleid=987095",
+      "anchor_title": "在元帅故里写下强军志愿"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-18&paperNumber=01&articleid=986921",
-      "anchor_title": "稻田“种”出“家乡舰”"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-21&paperNumber=01&articleid=987097",
+      "anchor_title": "从南梁出发奔赴军旅新程"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-18&paperNumber=01&articleid=986922",
-      "anchor_title": "入伍喜讯说给祖辈听"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-21&paperNumber=01&articleid=987099",
+      "anchor_title": "拥军校车"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-18&paperNumber=02&articleid=986911",
-      "anchor_title": "弹痕铭耻励新兵"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-21&paperNumber=02&articleid=987101",
+      "anchor_title": "“国防兔”跃动钱塘江畔"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-18&paperNumber=02&articleid=986912",
-      "anchor_title": "场馆见学强担当"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-21&paperNumber=02&articleid=987100",
+      "anchor_title": "历史的铁证 和平的警钟"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-18&paperNumber=02&articleid=986913",
-      "anchor_title": "陵园追思祭忠魂"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-21&paperNumber=02&articleid=987103",
+      "anchor_title": "一条战备路的蜕变"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-18&paperNumber=02&articleid=986910",
-      "anchor_title": "“告慰英灵，再苦再累也值得”"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-21&paperNumber=02&articleid=987104",
+      "anchor_title": "缺什么补什么 干什么练什么"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-18&paperNumber=03&articleid=986924",
-      "anchor_title": "谈笑低吟道明天"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-21&paperNumber=03&articleid=987105",
+      "anchor_title": "新长征路上的铿锵足音"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-18&paperNumber=03&articleid=986925",
-      "anchor_title": "入党志愿书"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-21&paperNumber=04&articleid=987106",
+      "anchor_title": "美举行首次太空实飞演习"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-18&paperNumber=03&articleid=986926",
-      "anchor_title": "泉城古韵"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-21&paperNumber=04&articleid=987107",
+      "anchor_title": "英发布新版太空战略"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-18&paperNumber=03&articleid=986927",
-      "anchor_title": "草木大别山"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-21&paperNumber=04&articleid=987108",
+      "anchor_title": "首届太空峰会考验法国战略雄心"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-18&paperNumber=03&articleid=986930",
-      "anchor_title": "送你入伍"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-18&paperNumber=03&articleid=986929",
-      "anchor_title": "当兵的梦想"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-18&paperNumber=03&articleid=986928",
-      "anchor_title": "瑞金云石山"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-18&paperNumber=04&articleid=986915",
-      "anchor_title": "美日韩加快军事合作机制化进程"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-18&paperNumber=04&articleid=986916",
-      "anchor_title": "瑞典补强陆基远程火力"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-18&paperNumber=04&articleid=986918",
-      "anchor_title": "美军拟向韩国部署多域效应营"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-18&paperNumber=04&articleid=986917",
-      "anchor_title": "英军为何强化“40米内射击”"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-21&paperNumber=04&articleid=987109",
+      "anchor_title": "防务资讯"
     }
   ]
 }
