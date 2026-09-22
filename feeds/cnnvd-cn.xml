@@ -1,62 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Tue, 22 Sep 2026 11:55:36 +0000</lastBuildDate><item><title>CNNVD-2026-13516164 - Netcore NBR200V2 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-13516164</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-13516164</guid><pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate><description>Netcore NBR200V2 输入验证错误漏洞
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Tue, 22 Sep 2026 17:13:45 +0000</lastBuildDate><item><title>CNNVD-2026-52877257 - MISP 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-52877257</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-52877257</guid><pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate><description>MISP 输入验证错误漏洞
 危害等级: 高危
-收录时间：2026-09-21 | 更新时间: 2026-09-22 16:51:44
-CNNVD编号: CNNVD-2026-13516164</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-13516164&lt;/p&gt;&lt;pre&gt;Netcore NBR200V2 输入验证错误漏洞
+收录时间：2026-09-21 | 更新时间: 2026-09-22 16:51:37
+CNNVD编号: CNNVD-2026-52877257</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-52877257&lt;/p&gt;&lt;pre&gt;MISP 输入验证错误漏洞
 危害等级: 高危
-收录时间：2026-09-21 | 更新时间: 2026-09-22 16:51:44
-CNNVD编号: CNNVD-2026-13516164&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-39740359 - 1MillionBot AI Chatbot Platform 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-39740359</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-39740359</guid><pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate><description>1MillionBot AI Chatbot Platform 跨站脚本漏洞
-危害等级: 中危
-收录时间：2026-09-21 | 更新时间: 2026-09-22 16:51:48
-CNNVD编号: CNNVD-2026-39740359</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-39740359&lt;/p&gt;&lt;pre&gt;1MillionBot AI Chatbot Platform 跨站脚本漏洞
-危害等级: 中危
-收录时间：2026-09-21 | 更新时间: 2026-09-22 16:51:48
-CNNVD编号: CNNVD-2026-39740359&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-59561420 - Netcore NBR200V2 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-59561420</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-59561420</guid><pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate><description>Netcore NBR200V2 缓冲区错误漏洞
+收录时间：2026-09-21 | 更新时间: 2026-09-22 16:51:37
+CNNVD编号: CNNVD-2026-52877257&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-62005434 - ST Engineering iDirect evolution 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-62005434</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-62005434</guid><pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate><description>ST Engineering iDirect evolution 输入验证错误漏洞
+危害等级: 低危
+收录时间：2026-09-21 | 更新时间: 2026-09-22 16:51:37
+CNNVD编号: CNNVD-2026-62005434</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-62005434&lt;/p&gt;&lt;pre&gt;ST Engineering iDirect evolution 输入验证错误漏洞
+危害等级: 低危
+收录时间：2026-09-21 | 更新时间: 2026-09-22 16:51:37
+CNNVD编号: CNNVD-2026-62005434&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-96182968 - MISP 权限许可和访问控制问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-96182968</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-96182968</guid><pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate><description>MISP 权限许可和访问控制问题漏洞
 危害等级: 高危
-收录时间：2026-09-21 | 更新时间: 2026-09-22 16:51:44
-CNNVD编号: CNNVD-2026-59561420</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-59561420&lt;/p&gt;&lt;pre&gt;Netcore NBR200V2 缓冲区错误漏洞
+收录时间：2026-09-21 | 更新时间: 2026-09-22 16:51:38
+CNNVD编号: CNNVD-2026-96182968</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-96182968&lt;/p&gt;&lt;pre&gt;MISP 权限许可和访问控制问题漏洞
 危害等级: 高危
-收录时间：2026-09-21 | 更新时间: 2026-09-22 16:51:44
-CNNVD编号: CNNVD-2026-59561420&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-54045920 - Zephyr 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-54045920</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-54045920</guid><pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate><description>Zephyr 缓冲区错误漏洞
+收录时间：2026-09-21 | 更新时间: 2026-09-22 16:51:38
+CNNVD编号: CNNVD-2026-96182968&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-78217959 - MISP 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-78217959</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-78217959</guid><pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate><description>MISP 输入验证错误漏洞
 危害等级: 高危
-收录时间：2026-09-21 | 更新时间: 2026-09-22 16:54:01
-CNNVD编号: CNNVD-2026-54045920</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-54045920&lt;/p&gt;&lt;pre&gt;Zephyr 缓冲区错误漏洞
+收录时间：2026-09-21 | 更新时间: 2026-09-22 16:51:38
+CNNVD编号: CNNVD-2026-78217959</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-78217959&lt;/p&gt;&lt;pre&gt;MISP 输入验证错误漏洞
 危害等级: 高危
-收录时间：2026-09-21 | 更新时间: 2026-09-22 16:54:01
-CNNVD编号: CNNVD-2026-54045920&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-81335275 - Zephyr 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-81335275</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-81335275</guid><pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate><description>Zephyr 缓冲区错误漏洞
-危害等级: 中危
-收录时间：2026-09-21 | 更新时间: 2026-09-22 16:54:01
-CNNVD编号: CNNVD-2026-81335275</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-81335275&lt;/p&gt;&lt;pre&gt;Zephyr 缓冲区错误漏洞
-危害等级: 中危
-收录时间：2026-09-21 | 更新时间: 2026-09-22 16:54:01
-CNNVD编号: CNNVD-2026-81335275&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-51400509 - GoCD 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-51400509</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-51400509</guid><pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate><description>GoCD 授权问题漏洞
-危害等级: 中危
-收录时间：2026-09-21 | 更新时间: 2026-09-22 16:55:21
-CNNVD编号: CNNVD-2026-51400509</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-51400509&lt;/p&gt;&lt;pre&gt;GoCD 授权问题漏洞
-危害等级: 中危
-收录时间：2026-09-21 | 更新时间: 2026-09-22 16:55:21
-CNNVD编号: CNNVD-2026-51400509&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-37872741 - GoCD 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-37872741</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-37872741</guid><pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate><description>GoCD 授权问题漏洞
-危害等级: 中危
-收录时间：2026-09-21 | 更新时间: 2026-09-22 16:55:21
-CNNVD编号: CNNVD-2026-37872741</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-37872741&lt;/p&gt;&lt;pre&gt;GoCD 授权问题漏洞
-危害等级: 中危
-收录时间：2026-09-21 | 更新时间: 2026-09-22 16:55:21
-CNNVD编号: CNNVD-2026-37872741&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-88893361 - GoCD 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-88893361</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-88893361</guid><pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate><description>GoCD 授权问题漏洞
-危害等级: 中危
-收录时间：2026-09-21 | 更新时间: 2026-09-22 16:55:21
-CNNVD编号: CNNVD-2026-88893361</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-88893361&lt;/p&gt;&lt;pre&gt;GoCD 授权问题漏洞
-危害等级: 中危
-收录时间：2026-09-21 | 更新时间: 2026-09-22 16:55:21
-CNNVD编号: CNNVD-2026-88893361&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-18745079 - SmallRye Fault Tolerance 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-18745079</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-18745079</guid><pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate><description>SmallRye Fault Tolerance 资源管理错误漏洞
+收录时间：2026-09-21 | 更新时间: 2026-09-22 16:51:38
+CNNVD编号: CNNVD-2026-78217959&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-95612502 - hank Beszel 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-95612502</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-95612502</guid><pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate><description>hank Beszel 授权问题漏洞
+危害等级: 低危
+收录时间：2026-09-21 | 更新时间: 2026-09-22 16:51:36
+CNNVD编号: CNNVD-2026-95612502</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-95612502&lt;/p&gt;&lt;pre&gt;hank Beszel 授权问题漏洞
+危害等级: 低危
+收录时间：2026-09-21 | 更新时间: 2026-09-22 16:51:36
+CNNVD编号: CNNVD-2026-95612502&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-77603929 - MISP 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-77603929</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-77603929</guid><pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate><description>MISP 输入验证错误漏洞
 危害等级: 高危
-收录时间：2026-09-21 | 更新时间: 2026-09-22 16:51:32
-CNNVD编号: CNNVD-2026-18745079</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-18745079&lt;/p&gt;&lt;pre&gt;SmallRye Fault Tolerance 资源管理错误漏洞
+收录时间：2026-09-21 | 更新时间: 2026-09-22 16:51:37
+CNNVD编号: CNNVD-2026-77603929</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-77603929&lt;/p&gt;&lt;pre&gt;MISP 输入验证错误漏洞
 危害等级: 高危
-收录时间：2026-09-21 | 更新时间: 2026-09-22 16:51:32
-CNNVD编号: CNNVD-2026-18745079&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-60275176 - Telegram Desktop 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-60275176</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-60275176</guid><pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate><description>Telegram Desktop 跨站脚本漏洞
+收录时间：2026-09-21 | 更新时间: 2026-09-22 16:51:37
+CNNVD编号: CNNVD-2026-77603929&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-93231781 - jishenghua jsherp 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-93231781</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-93231781</guid><pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate><description>jishenghua jsherp 授权问题漏洞
 危害等级: 高危
-收录时间：2026-09-21 | 更新时间: 2026-09-22 16:51:32
-CNNVD编号: CNNVD-2026-60275176</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-60275176&lt;/p&gt;&lt;pre&gt;Telegram Desktop 跨站脚本漏洞
+收录时间：2026-09-21 | 更新时间: 2026-09-22 16:51:36
+CNNVD编号: CNNVD-2026-93231781</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-93231781&lt;/p&gt;&lt;pre&gt;jishenghua jsherp 授权问题漏洞
 危害等级: 高危
-收录时间：2026-09-21 | 更新时间: 2026-09-22 16:51:32
-CNNVD编号: CNNVD-2026-60275176&lt;/pre&gt;</content:encoded></item></channel></rss>
+收录时间：2026-09-21 | 更新时间: 2026-09-22 16:51:36
+CNNVD编号: CNNVD-2026-93231781&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-24374172 - jishenghua jsherp 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-24374172</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-24374172</guid><pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate><description>jishenghua jsherp 授权问题漏洞
+危害等级: 高危
+收录时间：2026-09-21 | 更新时间: 2026-09-22 16:51:36
+CNNVD编号: CNNVD-2026-24374172</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-24374172&lt;/p&gt;&lt;pre&gt;jishenghua jsherp 授权问题漏洞
+危害等级: 高危
+收录时间：2026-09-21 | 更新时间: 2026-09-22 16:51:36
+CNNVD编号: CNNVD-2026-24374172&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-47476565 - MISP 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-47476565</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-47476565</guid><pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate><description>MISP 跨站脚本漏洞
+危害等级: 中危
+收录时间：2026-09-21 | 更新时间: 2026-09-22 16:51:39
+CNNVD编号: CNNVD-2026-47476565</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-47476565&lt;/p&gt;&lt;pre&gt;MISP 跨站脚本漏洞
+危害等级: 中危
+收录时间：2026-09-21 | 更新时间: 2026-09-22 16:51:39
+CNNVD编号: CNNVD-2026-47476565&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-91465043 - Uvdesk 权限许可和访问控制问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-91465043</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-91465043</guid><pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate><description>Uvdesk 权限许可和访问控制问题漏洞
+危害等级: 高危
+收录时间：2026-09-21 | 更新时间: 2026-09-22 16:54:09
+CNNVD编号: CNNVD-2026-91465043</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-91465043&lt;/p&gt;&lt;pre&gt;Uvdesk 权限许可和访问控制问题漏洞
+危害等级: 高危
+收录时间：2026-09-21 | 更新时间: 2026-09-22 16:54:09
+CNNVD编号: CNNVD-2026-91465043&lt;/pre&gt;</content:encoded></item></channel></rss>
