@@ -6,7 +6,7 @@ Include regex: spacechina\.com/n25/n2014789/.+
 Include text regex: 
 
 Candidate links: 50
-All links discovered: 172
+All links discovered: 173
 
 === MATCHED CANDIDATES ===
 
@@ -18,14 +18,14 @@ https://www.spacechina.com/n25/n2014789/n2014804/c4709621/content.html
   长征二号丁运载火箭成功发射株洲太空星际PIESAT-2 13~16星
 https://www.spacechina.com/n25/n2014789/n2014809/c4708761/content.html
   航天科技四院7416厂智慧安全管控平台赋能安全生产提质升级侧记
-https://www.spacechina.com/n25/n2014789/n2014809/c4706941/content.html
-  航天科技五院总体设计部以实干攻坚推进行星探测任务研制侧记
 https://www.spacechina.com/n25/n2014789/n2014819/c4452901/content.html
   中国航天科技集团有限公司2026年研究生招生专业目录发布
 https://www.spacechina.com/n25/n2014789/n2014814/c4593148/content.html
   航天科技集团资源卫星中心接待南非代表团深化双方沟通合作
 https://www.spacechina.com/n25/n2014789/n2014814/c4547665/content.html
   援纳米比亚卫星地面数据接收站和处理系统建设项目正式移交
+https://www.spacechina.com/n25/n2014789/n2014809/c4712735/content.html
+  航天科技集团卫星应用创新研究院举办“卫星应用大讲堂”
 https://www.spacechina.com/n25/n2014789/n2014809/c4700321/content.html
   航天科技八院控制所轻质化二级伺服机构圆满完成首飞验证
 https://www.spacechina.com/n25/n2014789/n2014809/c4700189/content.html
@@ -46,18 +46,16 @@ https://www.spacechina.com/n25/n2014789/n2014799/c4544191/content.html
   航天科技集团党组领导带队开展春节前安全检查并...
 https://www.spacechina.com/n25/n2014789/n2014799/c4544138/content.html
   航天科技集团党组领导春节前夕看望慰问航天老领...
-https://www.spacechina.com/n25/n2014789/n2014809/c4706921/content.html
-  航天科技四院以质量意识提升夯实型号成功托底根基侧记
 https://www.spacechina.com/n25/n2014789/n2014814/c4608394/content.html
   航天科技集团长城公司举办青年国际市场营销知识大赛
 https://www.spacechina.com/n25/n2014789/n2014814/c4581068/content.html
   航天科技集团所属长城公司 “十五五”开局攻坚实录
+https://www.spacechina.com/n25/n2014789/n2014809/c4712721/content.html
+  航天科技八院808所卫星数字化研制专项获批立项
 https://www.spacechina.com/n25/n2014789/n2014809/c4700250/content.html
   航天科技八院红旗楼建筑群入选上海市红色资源名录
 https://www.spacechina.com/n25/n2014789/n2014814/c4699641/content.html
   航天科技集团新研产品亮相2026世界机器人大会
-https://www.spacechina.com/n25/n2014789/n2014809/c4707017/content.html
-  航天科技集团乐凯华光持续推进质量管理体系建设
 https://www.spacechina.com/n25/n2014789/n2014814/c4605995/content.html
   航天科技九院最新产业成果亮相汉诺威工业博览会
 https://www.spacechina.com/n25/n2014789/n2014814/c4600529/content.html
@@ -82,6 +80,8 @@ https://www.spacechina.com/n25/n2014789/n2014799/c4697461/content.html
   航天科技集团党组传达学习习近平总书...
 https://www.spacechina.com/n25/n2014789/n2014799/c4659321/content.html
   航天科技集团党组与驻航天科技纪检监...
+https://www.spacechina.com/n25/n2014789/n2014809/c4712761/content.html
+  航天科技五院总环部天津工作区能力提升纪实
 https://www.spacechina.com/n25/n2014789/n2014809/c4700155/content.html
   航天科技八院802所开展专业领域技术交流
 https://www.spacechina.com/n25/n2014789/n2014809/c4700235/content.html
@@ -272,6 +272,12 @@ https://www.spacechina.com/n25/n2014789/n2014799/c4697461/content.html
   航天科技集团党组传达学习习近平总书...
 https://www.spacechina.com/n25/n2014789/n2014799/c4659321/content.html
   航天科技集团党组与驻航天科技纪检监...
+https://www.spacechina.com/n25/n2014789/n2014809/c4712761/content.html
+  航天科技五院总环部天津工作区能力提升纪实
+https://www.spacechina.com/n25/n2014789/n2014809/c4712735/content.html
+  航天科技集团卫星应用创新研究院举办“卫星应用大讲堂”
+https://www.spacechina.com/n25/n2014789/n2014809/c4712721/content.html
+  航天科技八院808所卫星数字化研制专项获批立项
 https://www.spacechina.com/n25/n2014789/n2014809/c4700321/content.html
   航天科技八院控制所轻质化二级伺服机构圆满完成首飞验证
 https://www.spacechina.com/n25/n2014789/n2014809/c4708761/content.html
@@ -286,12 +292,6 @@ https://www.spacechina.com/n25/n2014789/n2014809/c4700155/content.html
   航天科技八院802所开展专业领域技术交流
 https://www.spacechina.com/n25/n2014789/n2014809/c4700189/content.html
   航天科技四院7416厂航天山由建筑家居膜系列产品发布
-https://www.spacechina.com/n25/n2014789/n2014809/c4707017/content.html
-  航天科技集团乐凯华光持续推进质量管理体系建设
-https://www.spacechina.com/n25/n2014789/n2014809/c4706941/content.html
-  航天科技五院总体设计部以实干攻坚推进行星探测任务研制侧记
-https://www.spacechina.com/n25/n2014789/n2014809/c4706921/content.html
-  航天科技四院以质量意识提升夯实型号成功托底根基侧记
 https://www.spacechina.com/n25/n2014789/n2014814/c4699641/content.html
   航天科技集团新研产品亮相2026世界机器人大会
 https://mp.weixin.qq.com/s/Yt3B7WiOp9SW3Cy7KSVNBQ
@@ -313,12 +313,13 @@ https://www.spacechina.com/n25/n2014789/n2014814/c4547665/content.html
 https://www.spacechina.com/n25/n2014789/n2014814/c4533791/content.html
   航天科技集团长征国际亮相阿布扎比无人系统展
 https://mp.weixin.qq.com/s/w005xSm2_xt7O8Fp3TcffQ
-  科技日报：长征十二号运载火箭成功发射卫星互联网低轨25组卫星
 https://mp.weixin.qq.com/s/lxhF_k_4B92kP4EovY77yQ
 https://mp.weixin.qq.com/s/Sp6vBhWNvf-INQQ4RUtJNw
 https://www.news.cn/photo/20260730/57c05645ad7d4eb6af7647385e128048/c.html
 http://gd.news.cn/20260706/6ae067203bb14d75aa9d615a3a548841/c.html
 https://www.stdaily.com/web/gdxw/2026-07/06/content_542450.html
+https://www.news.cn/20260921/27acec940a5146d99302baac9426f082/c.html
+  新华网：龙乐豪院士：一生只干一件事 见证中国运载火箭新长征
 https://www.stdaily.com/web/gdxw/2026-09/19/content_584209.html
   科技日报：长征二号丁“一箭四星”发射成功
 https://www.news.cn/20260916/9d87b331dab34275a632e396015f83ed/c.html
