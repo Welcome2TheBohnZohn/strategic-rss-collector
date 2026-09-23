@@ -1,0 +1,7 @@
+# Iranian FM Araghchi meets Greek counterpart in New York
+
+Published: 2026-09-23 00:00:00
+
+Source: https://en.mfa.gov.ir/portal/newsview/794803
+
+Seyed Abbas Araghchi, Foreign Minister of the Islamic Republic of Iran, who has traveled to New York to attend the 81st session of the United Nations General Assembly, met and held talks with Georgios Gerapetritis, Foreign Minister of Greece, at noon on Tuesday. During the meeting, the latest state of Iran-Greece bilateral relations, interactions between Iran and the European Union, and the latest regional and international developments were discussed and views were exchanged. Referring to the longstanding and historic relations between the two countries, the Iranian Foreign Minister stressed the importance of continuing political consultations and developing economic and cultural cooperation between Tehran and Athens. Araghchi also elaborated on the Islamic Republic of Iran’s positions regarding developments in West Asia, stressing the need for all countries to abide by international law, safeguard national sovereignty, and respect the UN Charter. He noted that countering unilateralism and acts of aggression is the primary condition for maintaining international stability and security. The Greek Foreign Minister, for his part, welcomed the continuation of bilateral dialogue and stressed his country’s interest in strengthening the path of diplomacy and playing a constructive role in resolving regional and international disputes.

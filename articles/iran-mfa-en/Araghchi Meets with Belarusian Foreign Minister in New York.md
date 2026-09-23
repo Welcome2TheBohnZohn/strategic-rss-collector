@@ -1,0 +1,7 @@
+# Araghchi Meets with Belarusian Foreign Minister in New York
+
+Published: 2026-09-23 00:00:00
+
+Source: https://en.mfa.gov.ir/portal/newsview/794802
+
+Seyed Abbas Araghchi, Foreign Minister of the Islamic Republic of Iran, met and held talks with Maxim Ryzhenkov, Foreign Minister of Belarus, as part of his bilateral meetings on the sidelines of the 81st session of the United Nations General Assembly in New York. During the meeting, the latest state of Iran-Belarus bilateral relations, ways to expand economic and trade cooperation, and the latest regional and international developments were reviewed. Referring to the excellent and growing relations between the two countries, the Iranian Foreign Minister stressed the Islamic Republic of Iran’s determination to fully implement previous agreements and deepen cooperation in bilateral and multilateral fields. Araghchi strongly criticized the unilateral and illegal sanctions imposed by the West on independent countries and stressed the need for Iran and Belarus to create synergies and jointly stand firm against political and economic pressures stemming from the sources of unilateralism. The Belarusian Foreign Minister, for his part, expressed satisfaction with the meeting and stressed Minsk’s firm determination to strengthen fraternal and strategic relations with Tehran, describing safeguarding the UN Charter and the national sovereignty of countries as a fundamental principle in international interactions.

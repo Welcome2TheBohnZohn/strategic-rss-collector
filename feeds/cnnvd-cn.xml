@@ -1,62 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Wed, 23 Sep 2026 05:07:00 +0000</lastBuildDate><item><title>CNNVD-2026-46045055 - draw.io 跨站请求伪造漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-46045055</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-46045055</guid><pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate><description>draw.io 跨站请求伪造漏洞
-危害等级: 中危
-收录时间：2026-09-21 | 更新时间: 2026-09-22 16:55:27
-CNNVD编号: CNNVD-2026-46045055</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-46045055&lt;/p&gt;&lt;pre&gt;draw.io 跨站请求伪造漏洞
-危害等级: 中危
-收录时间：2026-09-21 | 更新时间: 2026-09-22 16:55:27
-CNNVD编号: CNNVD-2026-46045055&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-62531900 - OpenBao 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-62531900</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-62531900</guid><pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate><description>OpenBao 授权问题漏洞
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Wed, 23 Sep 2026 11:58:13 +0000</lastBuildDate><item><title>CNNVD-2026-44195006 - Eclipse open-vsx.org 配置错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-44195006</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-44195006</guid><pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate><description>Eclipse open-vsx.org 配置错误漏洞
 危害等级: 高危
-收录时间：2026-09-21 | 更新时间: 2026-09-22 16:51:56
-CNNVD编号: CNNVD-2026-62531900</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-62531900&lt;/p&gt;&lt;pre&gt;OpenBao 授权问题漏洞
+收录时间：2026-09-22 | 更新时间: 2026-09-23 16:27:27
+CNNVD编号: CNNVD-2026-44195006</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-44195006&lt;/p&gt;&lt;pre&gt;Eclipse open-vsx.org 配置错误漏洞
 危害等级: 高危
-收录时间：2026-09-21 | 更新时间: 2026-09-22 16:51:56
-CNNVD编号: CNNVD-2026-62531900&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-38717077 - temporal.io TChannel 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-38717077</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-38717077</guid><pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate><description>temporal.io TChannel 输入验证错误漏洞
+收录时间：2026-09-22 | 更新时间: 2026-09-23 16:27:27
+CNNVD编号: CNNVD-2026-44195006&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-85392055 - FasterXML Jackson-core 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-85392055</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-85392055</guid><pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate><description>FasterXML Jackson-core 资源管理错误漏洞
 危害等级: 高危
-收录时间：2026-09-21 | 更新时间: 2026-09-22 16:51:55
-CNNVD编号: CNNVD-2026-38717077</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-38717077&lt;/p&gt;&lt;pre&gt;temporal.io TChannel 输入验证错误漏洞
+收录时间：2026-09-22 | 更新时间: 2026-09-23 16:27:27
+CNNVD编号: CNNVD-2026-85392055</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-85392055&lt;/p&gt;&lt;pre&gt;FasterXML Jackson-core 资源管理错误漏洞
 危害等级: 高危
-收录时间：2026-09-21 | 更新时间: 2026-09-22 16:51:55
-CNNVD编号: CNNVD-2026-38717077&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-39619789 - Hatchet 跨站请求伪造漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-39619789</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-39619789</guid><pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate><description>Hatchet 跨站请求伪造漏洞
-危害等级: 高危
-收录时间：2026-09-21 | 更新时间: 2026-09-22 16:55:19
-CNNVD编号: CNNVD-2026-39619789</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-39619789&lt;/p&gt;&lt;pre&gt;Hatchet 跨站请求伪造漏洞
-危害等级: 高危
-收录时间：2026-09-21 | 更新时间: 2026-09-22 16:55:19
-CNNVD编号: CNNVD-2026-39619789&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-55704178 - InvenTree 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-55704178</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-55704178</guid><pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate><description>InvenTree 授权问题漏洞
-危害等级: 中危
-收录时间：2026-09-21 | 更新时间: 2026-09-22 16:55:17
-CNNVD编号: CNNVD-2026-55704178</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-55704178&lt;/p&gt;&lt;pre&gt;InvenTree 授权问题漏洞
-危害等级: 中危
-收录时间：2026-09-21 | 更新时间: 2026-09-22 16:55:17
-CNNVD编号: CNNVD-2026-55704178&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-22535450 - DeepstreamIO 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22535450</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22535450</guid><pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate><description>DeepstreamIO 授权问题漏洞
-危害等级: 高危
-收录时间：2026-09-21 | 更新时间: 2026-09-22 16:55:28
-CNNVD编号: CNNVD-2026-22535450</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22535450&lt;/p&gt;&lt;pre&gt;DeepstreamIO 授权问题漏洞
-危害等级: 高危
-收录时间：2026-09-21 | 更新时间: 2026-09-22 16:55:28
-CNNVD编号: CNNVD-2026-22535450&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-96182968 - MISP 权限许可和访问控制问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-96182968</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-96182968</guid><pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate><description>MISP 权限许可和访问控制问题漏洞
-危害等级: 高危
-收录时间：2026-09-21 | 更新时间: 2026-09-22 16:51:38
-CNNVD编号: CNNVD-2026-96182968</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-96182968&lt;/p&gt;&lt;pre&gt;MISP 权限许可和访问控制问题漏洞
-危害等级: 高危
-收录时间：2026-09-21 | 更新时间: 2026-09-22 16:51:38
-CNNVD编号: CNNVD-2026-96182968&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-62005434 - ST Engineering iDirect evolution 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-62005434</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-62005434</guid><pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate><description>ST Engineering iDirect evolution 输入验证错误漏洞
+收录时间：2026-09-22 | 更新时间: 2026-09-23 16:27:27
+CNNVD编号: CNNVD-2026-85392055&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-58859766 - Adobe Campaign Classic 代码注入漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-58859766</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-58859766</guid><pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate><description>Adobe Campaign Classic 代码注入漏洞
+危害等级: 超危
+收录时间：2026-09-22 | 更新时间: 2026-09-23 16:27:28
+CNNVD编号: CNNVD-2026-58859766</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-58859766&lt;/p&gt;&lt;pre&gt;Adobe Campaign Classic 代码注入漏洞
+危害等级: 超危
+收录时间：2026-09-22 | 更新时间: 2026-09-23 16:27:28
+CNNVD编号: CNNVD-2026-58859766&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-11552989 - David Courtey Databasement 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-11552989</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-11552989</guid><pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate><description>David Courtey Databasement 授权问题漏洞
+危害等级: 超危
+收录时间：2026-09-22 | 更新时间: 2026-09-23 16:27:12
+CNNVD编号: CNNVD-2026-11552989</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-11552989&lt;/p&gt;&lt;pre&gt;David Courtey Databasement 授权问题漏洞
+危害等级: 超危
+收录时间：2026-09-22 | 更新时间: 2026-09-23 16:27:12
+CNNVD编号: CNNVD-2026-11552989&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-12411957 - dgtlmoon changedetection.io 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-12411957</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-12411957</guid><pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate><description>dgtlmoon changedetection.io 跨站脚本漏洞
 危害等级: 低危
-收录时间：2026-09-21 | 更新时间: 2026-09-22 16:51:37
-CNNVD编号: CNNVD-2026-62005434</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-62005434&lt;/p&gt;&lt;pre&gt;ST Engineering iDirect evolution 输入验证错误漏洞
+收录时间：2026-09-22 | 更新时间: 2026-09-23 16:27:13
+CNNVD编号: CNNVD-2026-12411957</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-12411957&lt;/p&gt;&lt;pre&gt;dgtlmoon changedetection.io 跨站脚本漏洞
 危害等级: 低危
-收录时间：2026-09-21 | 更新时间: 2026-09-22 16:51:37
-CNNVD编号: CNNVD-2026-62005434&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-77603929 - MISP 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-77603929</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-77603929</guid><pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate><description>MISP 输入验证错误漏洞
+收录时间：2026-09-22 | 更新时间: 2026-09-23 16:27:13
+CNNVD编号: CNNVD-2026-12411957&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-93696565 - dgtlmoon changedetection.io 路径遍历漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-93696565</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-93696565</guid><pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate><description>dgtlmoon changedetection.io 路径遍历漏洞
+危害等级: 低危
+收录时间：2026-09-22 | 更新时间: 2026-09-23 16:27:15
+CNNVD编号: CNNVD-2026-93696565</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-93696565&lt;/p&gt;&lt;pre&gt;dgtlmoon changedetection.io 路径遍历漏洞
+危害等级: 低危
+收录时间：2026-09-22 | 更新时间: 2026-09-23 16:27:15
+CNNVD编号: CNNVD-2026-93696565&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-96978806 - dgtlmoon changedetection.io 服务端请求伪造漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-96978806</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-96978806</guid><pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate><description>dgtlmoon changedetection.io 服务端请求伪造漏洞
+危害等级: 中危
+收录时间：2026-09-22 | 更新时间: 2026-09-23 16:27:13
+CNNVD编号: CNNVD-2026-96978806</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-96978806&lt;/p&gt;&lt;pre&gt;dgtlmoon changedetection.io 服务端请求伪造漏洞
+危害等级: 中危
+收录时间：2026-09-22 | 更新时间: 2026-09-23 16:27:13
+CNNVD编号: CNNVD-2026-96978806&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-30210852 - Adobe Connect 加密问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-30210852</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-30210852</guid><pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate><description>Adobe Connect 加密问题漏洞
+危害等级: 中危
+收录时间：2026-09-22 | 更新时间: 2026-09-23 16:27:41
+CNNVD编号: CNNVD-2026-30210852</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-30210852&lt;/p&gt;&lt;pre&gt;Adobe Connect 加密问题漏洞
+危害等级: 中危
+收录时间：2026-09-22 | 更新时间: 2026-09-23 16:27:41
+CNNVD编号: CNNVD-2026-30210852&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-48527853 - Adobe Campaign Classic SQL注入漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-48527853</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-48527853</guid><pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate><description>Adobe Campaign Classic SQL注入漏洞
+危害等级: 超危
+收录时间：2026-09-22 | 更新时间: 2026-09-23 16:27:43
+CNNVD编号: CNNVD-2026-48527853</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-48527853&lt;/p&gt;&lt;pre&gt;Adobe Campaign Classic SQL注入漏洞
+危害等级: 超危
+收录时间：2026-09-22 | 更新时间: 2026-09-23 16:27:43
+CNNVD编号: CNNVD-2026-48527853&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-68862014 - Adobe Premiere Pro 服务端请求伪造漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-68862014</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-68862014</guid><pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate><description>Adobe Premiere Pro 服务端请求伪造漏洞
 危害等级: 高危
-收录时间：2026-09-21 | 更新时间: 2026-09-22 16:51:37
-CNNVD编号: CNNVD-2026-77603929</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-77603929&lt;/p&gt;&lt;pre&gt;MISP 输入验证错误漏洞
+收录时间：2026-09-22 | 更新时间: 2026-09-23 16:27:41
+CNNVD编号: CNNVD-2026-68862014</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-68862014&lt;/p&gt;&lt;pre&gt;Adobe Premiere Pro 服务端请求伪造漏洞
 危害等级: 高危
-收录时间：2026-09-21 | 更新时间: 2026-09-22 16:51:37
-CNNVD编号: CNNVD-2026-77603929&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-95612502 - hank Beszel 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-95612502</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-95612502</guid><pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate><description>hank Beszel 授权问题漏洞
-危害等级: 低危
-收录时间：2026-09-21 | 更新时间: 2026-09-22 16:51:36
-CNNVD编号: CNNVD-2026-95612502</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-95612502&lt;/p&gt;&lt;pre&gt;hank Beszel 授权问题漏洞
-危害等级: 低危
-收录时间：2026-09-21 | 更新时间: 2026-09-22 16:51:36
-CNNVD编号: CNNVD-2026-95612502&lt;/pre&gt;</content:encoded></item></channel></rss>
+收录时间：2026-09-22 | 更新时间: 2026-09-23 16:27:41
+CNNVD编号: CNNVD-2026-68862014&lt;/pre&gt;</content:encoded></item></channel></rss>

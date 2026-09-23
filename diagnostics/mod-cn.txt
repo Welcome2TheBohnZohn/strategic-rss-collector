@@ -6,7 +6,7 @@ Include regex: /gfbw/|/xwfyr/|/wzll/
 Include text regex: 
 
 Candidate links: 50
-All links discovered: 241
+All links discovered: 240
 
 === MATCHED CANDIDATES ===
 
@@ -20,7 +20,7 @@ http://www.mod.gov.cn/gfbw/qwfb/16488280.html
   中共中央政治局召开会议 讨论拟提请二十届五中全会审议的文件 中共中央总书记习近平主持会议
 http://www.mod.gov.cn/gfbw/gfdy/16488512.html
   黑龙江省兰西县人武部组织防汛抗洪训练 河北省秦皇岛市北戴河区民兵开展志愿服务
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16488278.html
+http://www.mod.gov.cn/gfbw/qwfb/16488264.html
   习近平向全国广大农民和工作在“三农”战线上的同志们致以节日祝贺和诚挚问候
 http://www.mod.gov.cn/gfbw/wzll/16488503.html
   巾帼民兵守卫风雪垭口——云南省泸水市片马镇女民兵参与守边护边纪事
@@ -32,6 +32,8 @@ http://www.mod.gov.cn/gfbw/gffw/16488523.html
   海口军代室以航空方式保障部分新兵跨海奔赴军营——空中通道增效率
 http://www.mod.gov.cn/gfbw/gfjy_index/16488526.html
   探寻海军福建舰副舰长王涛的成长轨迹——从海空雄鹰到航母指挥员
+http://www.mod.gov.cn/gfbw/qwfb/16487660.html
+  “和平列车-2026”医疗队在老挝多地同步开展学术交流活动
 http://www.mod.gov.cn/gfbw/jsxd/16484704.html
   中老“和平列车”首次成体系运用无人智能设备开展联合卫勤训练
 http://www.mod.gov.cn/gfbw/wzll/16488528.html
@@ -42,6 +44,8 @@ http://www.mod.gov.cn/gfbw/gffw/16469120.html
   速览！2026年军校招生政策解读，你想知道的都在这里→
 http://www.mod.gov.cn/gfbw/gfjy_index/16488496.html
   走进四川省小金县两河口会议会址——向更加美好的生活奔跑
+http://www.mod.gov.cn/gfbw/qwfb/16488641.html
+  神舟二十号、神舟二十一号航天员授称颁奖仪式在京举行
 http://www.mod.gov.cn/gfbw/qwfb/16487980.html
   中国军队将参加东盟防长扩大会“三叉戟决心”实兵演习
 http://www.mod.gov.cn/gfbw/jswj/16487981.html
@@ -56,6 +60,8 @@ http://www.mod.gov.cn/gfbw/jsxd/16480355.html
   中国船舶“艾琳娜”轮致信感谢海军第48批护航编队
 http://www.mod.gov.cn/gfbw/sy/rt/16485481.html
   习近平抵达新德里出席金砖国家领导人第十八次会晤
+http://www.mod.gov.cn/gfbw/qwfb/16488076.html
+  中国海军第48批护航编队结束对孟加拉国友好访问
 http://www.mod.gov.cn/gfbw/jswj/16488353.html
   中国海军“吉祥方舟”号医院船结束访问毛里塔尼亚
 http://www.mod.gov.cn/gfbw/xwfyr/16486359.html
@@ -68,8 +74,6 @@ http://www.mod.gov.cn/gfbw/jswj/16486796.html
   中国海军“吉祥方舟”号医院船抵达毛里塔尼亚
 http://www.mod.gov.cn/gfbw/jswj/16479884.html
   海军83舰编队圆满完成远海综合实习访问任务
-http://www.mod.gov.cn/gfbw/qwfb/16488072.html
-  张又侠、刘振立严重违纪违法被开除党籍军籍
 http://www.mod.gov.cn/gfbw/gfdy/16487706.html
   云南省贡山县人武部结对帮扶独龙江乡马库村
 http://www.mod.gov.cn/gfbw/jsxd/16484796.html
@@ -82,12 +86,8 @@ http://www.mod.gov.cn/gfbw/qwfb/16486340.html
   2026年9月中旬国防部例行新闻发布
 http://www.mod.gov.cn/gfbw/wzll/16488210.html
   军营观察丨战场赋能员：嵌入体系畅联合
-http://www.mod.gov.cn/gfbw/jmsd/16487486.html
-  强军论坛｜弘扬长征精神 同心共筑国防
 http://www.mod.gov.cn/gfbw/qwfb/16488375.html
   习近平向第48届世界技能大赛致贺信
-http://www.mod.gov.cn/gfbw/qwfb/16488014.html
-  习近平就发展先进制造业作出重要指示
 http://www.mod.gov.cn/gfbw/jmsd/16487931.html
   强军论坛｜读懂送新兵仪式的深层意蕴
 http://www.mod.gov.cn/gfbw/gfjy_index/16487992.html
@@ -104,12 +104,12 @@ http://www.mod.gov.cn/gfbw/tp_214132/16488292.html
   海军航空兵某部开展多科目飞行训练
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16487494.html
   海军某支队组织气垫艇进出坞训练
-http://www.mod.gov.cn/gfbw/qwfb/16486837.html
-  张升民会见越南副总理兼国防部长
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16487432.html
   海军某支队开展海上多科目训练
-http://www.mod.gov.cn/gfbw/qwfb/16487032.html
-  张升民会见印度尼西亚国防部长
+http://www.mod.gov.cn/gfbw/sy/tt_214026/16488607.html
+  习近平离京对美国进行国事访问
+http://www.mod.gov.cn/gfbw/qwfb/16487062.html
+  第十三届北京香山论坛在京闭幕
 
 === ALL DISCOVERED LINKS ===
 
@@ -299,8 +299,8 @@ http://www.mod.gov.cn/gfbw/sy/jt_214028/16487432.html
   海军某支队开展海上多科目训练
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16487364.html
   陆军某旅组织飞行训练
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16488278.html
-  习近平向全国广大农民和工作在“三农”战线上的同志们致以节日祝贺和诚挚问候
+http://www.mod.gov.cn/gfbw/sy/tt_214026/16488607.html
+  习近平离京对美国进行国事访问
 http://www.mod.gov.cn/gfbw/sy/rt/16486128.html
   习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话
 http://www.mod.gov.cn/gfbw/sy/rt/16485484.html
@@ -311,28 +311,26 @@ http://www.mod.gov.cn/gfbw/sy/rt/16485481.html
   习近平抵达新德里出席金砖国家领导人第十八次会晤
 http://www.mod.gov.cn/gfbw/sy/rt/16486374.html
   2026年9月中旬国防部例行新闻发布
+http://www.mod.gov.cn/gfbw/qwfb/16488264.html
+  习近平向全国广大农民和工作在“三农”战线上的同志们致以节日祝贺和诚挚问候
 http://www.mod.gov.cn/gfbw/qwfb/16488375.html
   习近平向第48届世界技能大赛致贺信
 http://www.mod.gov.cn/gfbw/qwfb/16488280.html
   中共中央政治局召开会议 讨论拟提请二十届五中全会审议的文件 中共中央总书记习近平主持会议
-http://www.mod.gov.cn/gfbw/qwfb/16488041.html
-  习近平将对美国进行国事访问
-http://www.mod.gov.cn/gfbw/qwfb/16488052.html
-  外交部介绍有关安排
 http://www.mod.gov.cn/gfbw/qwfb/16488046.html
   习近平复信美国10所高校青年学生
-http://www.mod.gov.cn/gfbw/qwfb/16488014.html
-  习近平就发展先进制造业作出重要指示
+http://www.mod.gov.cn/gfbw/qwfb/16488641.html
+  神舟二十号、神舟二十一号航天员授称颁奖仪式在京举行
 http://www.mod.gov.cn/gfbw/qwfb/16486340.html
   2026年9月中旬国防部例行新闻发布
-http://www.mod.gov.cn/gfbw/qwfb/16487032.html
-  张升民会见印度尼西亚国防部长
-http://www.mod.gov.cn/gfbw/qwfb/16486837.html
-  张升民会见越南副总理兼国防部长
-http://www.mod.gov.cn/gfbw/qwfb/16488072.html
-  张又侠、刘振立严重违纪违法被开除党籍军籍
 http://www.mod.gov.cn/gfbw/qwfb/16487980.html
   中国军队将参加东盟防长扩大会“三叉戟决心”实兵演习
+http://www.mod.gov.cn/gfbw/qwfb/16488076.html
+  中国海军第48批护航编队结束对孟加拉国友好访问
+http://www.mod.gov.cn/gfbw/qwfb/16487660.html
+  “和平列车-2026”医疗队在老挝多地同步开展学术交流活动
+http://www.mod.gov.cn/gfbw/qwfb/16487062.html
+  第十三届北京香山论坛在京闭幕
 http://www.mod.gov.cn/gfbw/jswj/16486796.html
   中国海军“吉祥方舟”号医院船抵达毛里塔尼亚
 http://www.mod.gov.cn/gfbw/jswj/16488353.html
@@ -404,12 +402,12 @@ http://www.mod.gov.cn/gfbw/jmsd/index.html
   军媒视点
 http://www.mod.gov.cn/gfbw/jmsd/16487735.html
   始终以正确政绩观担当作为履职尽责
+http://www.mod.gov.cn/gfbw/jmsd/16488626.html
+  强军论坛丨让真理沁入官兵心田
 http://www.mod.gov.cn/gfbw/jmsd/16487931.html
   强军论坛｜读懂送新兵仪式的深层意蕴
 http://www.mod.gov.cn/gfbw/jmsd/16487734.html
   强军论坛｜实用的创新最管用
-http://www.mod.gov.cn/gfbw/jmsd/16487486.html
-  强军论坛｜弘扬长征精神 同心共筑国防
 http://www.mod.gov.cn/gfbw/gfdy/16487706.html
   云南省贡山县人武部结对帮扶独龙江乡马库村
 http://www.mod.gov.cn/gfbw/gfdy/16488525.html
