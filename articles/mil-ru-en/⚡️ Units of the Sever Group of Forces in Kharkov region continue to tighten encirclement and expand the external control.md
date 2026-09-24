@@ -1,13 +1,13 @@
-# ⚡️ Units of the Sever Group of Forces in Kharkov region continue to tighten encirclement and expand the external control zone.
+# ⚡️ Units of the Sever Group of Forces in Kharkov region continue to tighten encirclement and expand the external control area.
 
-Published: 2026-09-23 09:25:24
+Published: 2026-09-24 10:31:02
 
-Source: https://t.me/mod_russia_en/29570
+Source: https://t.me/mod_russia_en/29586
 
 ⚡️
-Units of the Sever Group of Forces in Kharkov region continue to tighten encirclement and expand the external control zone.
+Units of the Sever Group of Forces in Kharkov region continue to tighten encirclement and expand the external control area.
 🚩
-The Russian troops have established control over Krasny Yar and Potikhonovo
-in the encirclement area.
+The settlements of Buzovo and Khizhnyakovo have been brought under control
+inside the encirclement's perimeter.
 🔹
 Russian Defence Ministry

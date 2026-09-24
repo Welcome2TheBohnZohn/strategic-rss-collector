@@ -1,62 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Thu, 24 Sep 2026 05:08:35 +0000</lastBuildDate><item><title>CNNVD-2026-40005444 - Adobe Campaign Classic 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-40005444</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-40005444</guid><pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate><description>Adobe Campaign Classic 授权问题漏洞
-危害等级: 超危
-收录时间：2026-09-22 | 更新时间: 2026-09-23 16:27:56
-CNNVD编号: CNNVD-2026-40005444</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-40005444&lt;/p&gt;&lt;pre&gt;Adobe Campaign Classic 授权问题漏洞
-危害等级: 超危
-收录时间：2026-09-22 | 更新时间: 2026-09-23 16:27:56
-CNNVD编号: CNNVD-2026-40005444&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-50092408 - Adobe Campaign Classic 代码注入漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-50092408</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-50092408</guid><pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate><description>Adobe Campaign Classic 代码注入漏洞
-危害等级: 超危
-收录时间：2026-09-22 | 更新时间: 2026-09-23 16:27:56
-CNNVD编号: CNNVD-2026-50092408</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-50092408&lt;/p&gt;&lt;pre&gt;Adobe Campaign Classic 代码注入漏洞
-危害等级: 超危
-收录时间：2026-09-22 | 更新时间: 2026-09-23 16:27:56
-CNNVD编号: CNNVD-2026-50092408&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-87900711 - Adobe Substance3D - Modeler 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-87900711</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-87900711</guid><pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate><description>Adobe Substance3D - Modeler 缓冲区错误漏洞
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Thu, 24 Sep 2026 12:06:31 +0000</lastBuildDate><item><title>CNNVD-2026-62586760 - MacWarrior ClipBucket SQL注入漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-62586760</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-62586760</guid><pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate><description>MacWarrior ClipBucket SQL注入漏洞
 危害等级: 高危
-收录时间：2026-09-22 | 更新时间: 2026-09-23 16:27:50
-CNNVD编号: CNNVD-2026-87900711</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-87900711&lt;/p&gt;&lt;pre&gt;Adobe Substance3D - Modeler 缓冲区错误漏洞
+收录时间：2026-09-23 | 更新时间: 2026-09-24 15:30:53
+CNNVD编号: CNNVD-2026-62586760</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-62586760&lt;/p&gt;&lt;pre&gt;MacWarrior ClipBucket SQL注入漏洞
 危害等级: 高危
-收录时间：2026-09-22 | 更新时间: 2026-09-23 16:27:50
-CNNVD编号: CNNVD-2026-87900711&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-23714970 - Adobe Connect 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-23714970</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-23714970</guid><pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate><description>Adobe Connect 跨站脚本漏洞
+收录时间：2026-09-23 | 更新时间: 2026-09-24 15:30:53
+CNNVD编号: CNNVD-2026-62586760&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-93872922 - National Security Agency Ghidra Software Reverse Engineering Framework 异常处理不当漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-93872922</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-93872922</guid><pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate><description>National Security Agency Ghidra Software Reverse Engineering Framework 异常处理不当漏洞
+危害等级: 中危
+收录时间：2026-09-23 | 更新时间: 2026-09-24 15:30:54
+CNNVD编号: CNNVD-2026-93872922</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-93872922&lt;/p&gt;&lt;pre&gt;National Security Agency Ghidra Software Reverse Engineering Framework 异常处理不当漏洞
+危害等级: 中危
+收录时间：2026-09-23 | 更新时间: 2026-09-24 15:30:54
+CNNVD编号: CNNVD-2026-93872922&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-22173266 - Recommenders 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22173266</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22173266</guid><pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate><description>Recommenders 输入验证错误漏洞
+危害等级: 低危
+收录时间：2026-09-23 | 更新时间: 2026-09-24 15:30:55
+CNNVD编号: CNNVD-2026-22173266</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22173266&lt;/p&gt;&lt;pre&gt;Recommenders 输入验证错误漏洞
+危害等级: 低危
+收录时间：2026-09-23 | 更新时间: 2026-09-24 15:30:55
+CNNVD编号: CNNVD-2026-22173266&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-13224473 - Flatpak 路径遍历漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-13224473</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-13224473</guid><pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate><description>Flatpak 路径遍历漏洞
 危害等级: 超危
-收录时间：2026-09-22 | 更新时间: 2026-09-23 16:27:56
-CNNVD编号: CNNVD-2026-23714970</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-23714970&lt;/p&gt;&lt;pre&gt;Adobe Connect 跨站脚本漏洞
+收录时间：2026-09-23 | 更新时间: 2026-09-24 15:30:52
+CNNVD编号: CNNVD-2026-13224473</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-13224473&lt;/p&gt;&lt;pre&gt;Flatpak 路径遍历漏洞
 危害等级: 超危
-收录时间：2026-09-22 | 更新时间: 2026-09-23 16:27:56
-CNNVD编号: CNNVD-2026-23714970&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-46216278 - WordPress TranslatePress 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-46216278</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-46216278</guid><pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate><description>WordPress TranslatePress 跨站脚本漏洞
-危害等级: 高危
-收录时间：2026-09-22 | 更新时间: 2026-09-23 16:35:56
-CNNVD编号: CNNVD-2026-46216278</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-46216278&lt;/p&gt;&lt;pre&gt;WordPress TranslatePress 跨站脚本漏洞
-危害等级: 高危
-收录时间：2026-09-22 | 更新时间: 2026-09-23 16:35:56
-CNNVD编号: CNNVD-2026-46216278&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-48288859 - Traefik Labs Traefik 侧信道信息泄露漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-48288859</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-48288859</guid><pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate><description>Traefik Labs Traefik 侧信道信息泄露漏洞
+收录时间：2026-09-23 | 更新时间: 2026-09-24 15:30:52
+CNNVD编号: CNNVD-2026-13224473&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-43308249 - Apache Doris 软件供应链问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-43308249</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-43308249</guid><pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate><description>Apache Doris 软件供应链问题漏洞
 危害等级: 中危
-收录时间：2026-09-22 | 更新时间: 2026-09-23 16:36:02
-CNNVD编号: CNNVD-2026-48288859</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-48288859&lt;/p&gt;&lt;pre&gt;Traefik Labs Traefik 侧信道信息泄露漏洞
+收录时间：2026-09-23 | 更新时间: 2026-09-24 15:30:52
+CNNVD编号: CNNVD-2026-43308249</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-43308249&lt;/p&gt;&lt;pre&gt;Apache Doris 软件供应链问题漏洞
 危害等级: 中危
-收录时间：2026-09-22 | 更新时间: 2026-09-23 16:36:02
-CNNVD编号: CNNVD-2026-48288859&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-59895287 - WordPress Contextual Related Posts 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-59895287</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-59895287</guid><pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate><description>WordPress Contextual Related Posts 跨站脚本漏洞
+收录时间：2026-09-23 | 更新时间: 2026-09-24 15:30:52
+CNNVD编号: CNNVD-2026-43308249&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-90480355 - Neethu Hari Cafe Management System 权限许可和访问控制问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-90480355</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-90480355</guid><pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate><description>Neethu Hari Cafe Management System 权限许可和访问控制问题漏洞
 危害等级: 中危
-收录时间：2026-09-22 | 更新时间: 2026-09-23 16:36:03
-CNNVD编号: CNNVD-2026-59895287</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-59895287&lt;/p&gt;&lt;pre&gt;WordPress Contextual Related Posts 跨站脚本漏洞
+收录时间：2026-09-23 | 更新时间: 2026-09-24 15:30:48
+CNNVD编号: CNNVD-2026-90480355</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-90480355&lt;/p&gt;&lt;pre&gt;Neethu Hari Cafe Management System 权限许可和访问控制问题漏洞
 危害等级: 中危
-收录时间：2026-09-22 | 更新时间: 2026-09-23 16:36:03
-CNNVD编号: CNNVD-2026-59895287&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-80084235 - MikroTik RouterOS 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-80084235</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-80084235</guid><pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate><description>MikroTik RouterOS 输入验证错误漏洞
-危害等级: 高危
-收录时间：2026-09-22 | 更新时间: 2026-09-23 16:35:50
-CNNVD编号: CNNVD-2026-80084235</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-80084235&lt;/p&gt;&lt;pre&gt;MikroTik RouterOS 输入验证错误漏洞
-危害等级: 高危
-收录时间：2026-09-22 | 更新时间: 2026-09-23 16:35:50
-CNNVD编号: CNNVD-2026-80084235&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-12995589 - MISP 路径遍历漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-12995589</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-12995589</guid><pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate><description>MISP 路径遍历漏洞
+收录时间：2026-09-23 | 更新时间: 2026-09-24 15:30:48
+CNNVD编号: CNNVD-2026-90480355&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-82702301 - FFmpeg 数字错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-82702301</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-82702301</guid><pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate><description>FFmpeg 数字错误漏洞
 危害等级: 中危
-收录时间：2026-09-22 | 更新时间: 2026-09-23 16:42:10
-CNNVD编号: CNNVD-2026-12995589</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-12995589&lt;/p&gt;&lt;pre&gt;MISP 路径遍历漏洞
+收录时间：2026-09-23 | 更新时间: 2026-09-24 15:30:46
+CNNVD编号: CNNVD-2026-82702301</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-82702301&lt;/p&gt;&lt;pre&gt;FFmpeg 数字错误漏洞
 危害等级: 中危
-收录时间：2026-09-22 | 更新时间: 2026-09-23 16:42:10
-CNNVD编号: CNNVD-2026-12995589&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-13016491 - MISP 路径遍历漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-13016491</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-13016491</guid><pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate><description>MISP 路径遍历漏洞
+收录时间：2026-09-23 | 更新时间: 2026-09-24 15:30:46
+CNNVD编号: CNNVD-2026-82702301&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-20465857 - Plex Media Server 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-20465857</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-20465857</guid><pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate><description>Plex Media Server 跨站脚本漏洞
 危害等级: 中危
-收录时间：2026-09-22 | 更新时间: 2026-09-23 16:42:09
-CNNVD编号: CNNVD-2026-13016491</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-13016491&lt;/p&gt;&lt;pre&gt;MISP 路径遍历漏洞
+收录时间：2026-09-23 | 更新时间: 2026-09-24 15:30:46
+CNNVD编号: CNNVD-2026-20465857</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-20465857&lt;/p&gt;&lt;pre&gt;Plex Media Server 跨站脚本漏洞
 危害等级: 中危
-收录时间：2026-09-22 | 更新时间: 2026-09-23 16:42:09
-CNNVD编号: CNNVD-2026-13016491&lt;/pre&gt;</content:encoded></item></channel></rss>
+收录时间：2026-09-23 | 更新时间: 2026-09-24 15:30:46
+CNNVD编号: CNNVD-2026-20465857&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-85689509 - Neethu Hari Cafe Management System 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-85689509</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-85689509</guid><pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate><description>Neethu Hari Cafe Management System 输入验证错误漏洞
+危害等级: 中危
+收录时间：2026-09-23 | 更新时间: 2026-09-24 15:30:50
+CNNVD编号: CNNVD-2026-85689509</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-85689509&lt;/p&gt;&lt;pre&gt;Neethu Hari Cafe Management System 输入验证错误漏洞
+危害等级: 中危
+收录时间：2026-09-23 | 更新时间: 2026-09-24 15:30:50
+CNNVD编号: CNNVD-2026-85689509&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-42996905 - Keycloak 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-42996905</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-42996905</guid><pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate><description>Keycloak 授权问题漏洞
+危害等级: 中危
+收录时间：2026-09-23 | 更新时间: 2026-09-24 15:30:51
+CNNVD编号: CNNVD-2026-42996905</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-42996905&lt;/p&gt;&lt;pre&gt;Keycloak 授权问题漏洞
+危害等级: 中危
+收录时间：2026-09-23 | 更新时间: 2026-09-24 15:30:51
+CNNVD编号: CNNVD-2026-42996905&lt;/pre&gt;</content:encoded></item></channel></rss>
