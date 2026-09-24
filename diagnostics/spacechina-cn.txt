@@ -6,7 +6,7 @@ Include regex: spacechina\.com/n25/n2014789/.+
 Include text regex: 
 
 Candidate links: 50
-All links discovered: 173
+All links discovered: 172
 
 === MATCHED CANDIDATES ===
 
@@ -14,8 +14,6 @@ https://www.spacechina.com/n25/n2014789/n2014819/c3578292/content.html
   关于有关企业擅自将中国航天科技集团有限公司作为协办单位发布《2022中国（北京）国际航空航天技...
 https://www.spacechina.com/n25/n2014789/n2014799/c4712463/content.html
   航天科技集团召开“9·21”质量日视频会暨2026年航天质量工作第四次会议
-https://www.spacechina.com/n25/n2014789/n2014804/c4715152/content.html
-  航天科技集团第五届“央企消费帮扶兴农周”活动线上线下同步举办
 https://www.spacechina.com/n25/n2014789/n2014809/c4712681/content.html
   航天科技五院西安分院工会推出“宝贝计划”职工亲子主题系列活动
 https://www.spacechina.com/n25/n2014789/n2014819/c4452901/content.html
@@ -32,8 +30,6 @@ https://www.spacechina.com/n25/n2014789/n2014814/c4624996/content.html
   航天科技集团长城公司高质量履约书写中巴航天合作新篇章
 https://www.spacechina.com/n25/n2014789/n2014804/c4707681/content.html
   长征十二号运载火箭成功发射卫星互联网低轨25...
-https://www.spacechina.com/n25/n2014789/n2014804/c4692265/content.html
-  “两弹一星”元勋、中国科学院院士王希季同志送...
 https://www.spacechina.com/n25/n2014789/n2014799/c4641081/content.html
   航天科技集团召开“七一”大会暨树立和践行正确...
 https://www.spacechina.com/n25/n2014789/n2014799/c4544883/content.html
@@ -48,6 +44,8 @@ https://www.spacechina.com/n25/n2014789/n2014814/c4608394/content.html
   航天科技集团长城公司举办青年国际市场营销知识大赛
 https://www.spacechina.com/n25/n2014789/n2014814/c4581068/content.html
   航天科技集团所属长城公司 “十五五”开局攻坚实录
+https://www.spacechina.com/n25/n2014789/n2014804/c4715521/content.html
+  长征六号改运载火箭成功发射遥感四十号04组卫星
 https://www.spacechina.com/n25/n2014789/n2014809/c4713941/content.html
   航天科技五院总体设计部“质量明白人”座谈会侧记
 https://www.spacechina.com/n25/n2014789/n2014809/c4712721/content.html
@@ -68,12 +66,12 @@ https://www.spacechina.com/n25/n2014789/n2014814/c4533791/content.html
   航天科技集团长征国际亮相阿布扎比无人系统展
 https://www.spacechina.com/n25/n2014789/n2014819/c3566705/content.html
   关于公布打击假冒国企专项行动举报方式的公告
+https://www.spacechina.com/n25/n2014789/n2014804/c4715152/content.html
+  航天科技集团第五届“央企消费帮扶兴...
 https://www.spacechina.com/n25/n2014789/n2014804/c4713981/content.html
   航天科技集团3个工匠工作室入选中华...
 https://www.spacechina.com/n25/n2014789/n2014804/c4713661/content.html
   庆祝中国航天事业创建70周年老领导...
-https://www.spacechina.com/n25/n2014789/n2014804/c4709621/content.html
-  长征二号丁运载火箭成功发射株洲太空...
 https://www.spacechina.com/n25/n2014789/n2014799/c4709461/content.html
   航天科技集团党组深入基层一线指导“...
 https://www.spacechina.com/n25/n2014789/n2014799/c4702321/content.html
@@ -110,6 +108,8 @@ https://www.spacechina.com/n25/n2014789/n2014819/c4707383/content.html
   严正声明
 https://www.spacechina.com/n25/n2014789/index.html
   新闻中心
+https://www.spacechina.com/n25/n2014789/n2014804/index.html
+  集团要闻
 
 === ALL DISCOVERED LINKS ===
 
@@ -234,8 +234,8 @@ https://www.spacechina.com/n25/n1995122/n1997293/index.html
   企业信息
 https://www.spacechina.com/n25/n1995122/n1997298/index.html
   人才招聘
-https://www.spacechina.com/n25/n2014789/n2014804/c4715152/content.html
-  航天科技集团第五届“央企消费帮扶兴农周”活动线上线下同步举办
+https://www.spacechina.com/n25/n2014789/n2014804/c4715521/content.html
+  长征六号改运载火箭成功发射遥感四十号04组卫星
 https://www.spacechina.com/n25/n2014789/n2014804/c4714921/content.html
   长八甲火箭成功发射卫星互联网低轨26组卫星
 https://www.spacechina.com/n25/n2014789/n2014804/c4707681/content.html
@@ -244,14 +244,12 @@ https://www.spacechina.com/n25/n2014789/n2014804/c4696743/content.html
   刘纪原同志送别仪式在京举行
 https://www.spacechina.com/n25/n2014789/n2014804/c4693741/content.html
   长六丙火箭一箭七星发射成功
-https://www.spacechina.com/n25/n2014789/n2014804/c4692265/content.html
-  “两弹一星”元勋、中国科学院院士王希季同志送...
+https://www.spacechina.com/n25/n2014789/n2014804/c4715152/content.html
+  航天科技集团第五届“央企消费帮扶兴...
 https://www.spacechina.com/n25/n2014789/n2014804/c4713981/content.html
   航天科技集团3个工匠工作室入选中华...
 https://www.spacechina.com/n25/n2014789/n2014804/c4713661/content.html
   庆祝中国航天事业创建70周年老领导...
-https://www.spacechina.com/n25/n2014789/n2014804/c4709621/content.html
-  长征二号丁运载火箭成功发射株洲太空...
 https://www.spacechina.com/n25/n2014789/n2014799/c4712463/content.html
   航天科技集团召开“9·21”质量日视频会暨2026年航天质量工作第四次会议
 https://www.spacechina.com/n25/n2014789/n2014799/c4641081/content.html
@@ -330,12 +328,12 @@ http://www.sasac.gov.cn/n2588025/n2643314/c34380965/content.html
 http://www.sasac.gov.cn/n2588025/n2643314/c34041102/content.html
 http://www.sasac.gov.cn/n2588025/n2643314/c33954662/content.html
 http://www.sasac.gov.cn/n2588025/n2643314/c33667926/content.html
+http://www.sasac.gov.cn/n2588025/n2643314/c35968530/content.html
+  国务院国资委党委学习贯彻习近平总书记就发展先进制造业作出的重...
 http://www.sasac.gov.cn/n2588025/n2643314/c35968907/content.html
   国务院国资委党委召开树立和践行正确政绩观学习教育督导组暨专班...
 http://www.sasac.gov.cn/n2588025/n2643314/c35930341/content.html
   国务院国资委领导赴香港出席第十一届“一带一路”高峰论坛等活动
-http://www.sasac.gov.cn/n2588025/n2643314/c35955093/content.html
-  中央和国家机关工委到国务院国资委调研机关党建工作
 http://zhuanti.spacechina.com/n4615143/index.html
 http://zhuanti.spacechina.com/n4591921/
 http://zhuanti.spacechina.com/n4553881/

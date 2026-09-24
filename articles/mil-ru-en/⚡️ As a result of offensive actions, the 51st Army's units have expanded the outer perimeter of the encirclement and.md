@@ -8,6 +8,8 @@ Source: https://t.me/mod_russia_en/29588
 As a result of offensive actions, the 51st Army's units
 have
 expanded the outer perimeter of the encirclement and
-liberated the settlement of Maloye Dobropolye.
+liberated the settlement of Dobropolye (Maloye
+)
+.
 🔹
 Russian Defence Ministry

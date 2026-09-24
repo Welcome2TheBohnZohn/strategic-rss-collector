@@ -12,10 +12,12 @@ All links discovered: 529
 
 http://www.81.cn/pl_208541/16488846.html
   “美中两国都将受益于稳定的贸易关系”——访美国经济与政策研究中心高级经济学家迪恩·贝克
-http://www.81.cn/yw_208727/16488616.html
+http://www.81.cn/xx_207779/16489047.html
   特稿｜中美走出正确相处之道是世界所盼——国际社会瞩目习近平主席对美进行国事访问
 http://www.81.cn/hjj_208561/jdt_208562/16486919.html
   “中国火箭军”新媒体矩阵推出微短剧《东风起》——铸剑之路在AI光影里铺展
+http://www.81.cn/xx_207779/16489086.html
+  “把中美民间友好的桥梁筑得更宽、更牢”——地方合作助力中美关系行稳致远
 http://www.81.cn/jw_208551/16471442.html
   中央军委发出通报 表彰全军优秀共产党员、优秀党务工作者和先进基层党组织
 http://www.81.cn/kj_208559/16487135.html
@@ -24,7 +26,7 @@ http://www.81.cn/wz_208577/16459656.html
   2026年军队文职人员公开招考第二批免笔试直接面试岗位招考工作全面展开
 http://www.81.cn/tp_207717/16488370.html
   “伟大的远征——纪念中国工农红军长征胜利90周年主题展览”在京开幕
-http://www.81.cn/yw_208727/16488729.html
+http://www.81.cn/xx_207779/16489065.html
   习近平主席贺信激励青年走技能成才之路并为世界技能运动发展指明方向
 http://www.81.cn/ss_208539/16488970.html
   李强签署国务院令  公布修订后的《中华人民共和国审计法实施条例》
@@ -72,8 +74,6 @@ http://www.81.cn/jy_208587/16488023.html
   同样戴OK镜，为何有的孩子近视控制效果好，有的却不理想？
 http://www.81.cn/yw_208727/16488914.html
   国防部：菲方裹挟相关国家借安全合作之名 行侵权挑衅之实
-http://www.81.cn/xx_207779/16488938.html
-  大国外交最前线丨跨越太平洋！感受中美友好的“双向奔赴”
 http://www.81.cn/ss_208539/16488880.html
   消费提质 市场焕新——“中国经济圆桌会”共话消费新亮点
 http://www.81.cn/zq_208553/16487753.html
@@ -92,6 +92,8 @@ http://www.81.cn/wz_208577/16463518.html
   为何仅入职一年多的文职人员，就接连经历3个“没想到”？
 http://www.81.cn/js_208585/jdt_208586/16469323.html
   随军家属安置工作持续提质增效，一系列务实举措为军属解忧
+http://www.81.cn/xx_207779/16489072.html
+  第一观察 | 从习主席抵美书面讲话中感悟大国胸怀担当
 http://www.81.cn/jw_208551/jdt_208552/16438857.html
   中央军委主席习近平签署命令 发布《军事理论工作条例》
 http://www.81.cn/lj_208555/16487987.html
@@ -108,8 +110,6 @@ http://www.81.cn/yd_208600/16488823.html
   生命寻踪：人类似乎不断靠近答案，却又不断迎来新的谜题
 http://www.81.cn/jy_208587/16488599.html
   医点通丨超长长长长长蛋挞热量超高！特殊人群食用要谨慎
-http://www.81.cn/lb_208583/16487635.html
-  退役军人张洪珠一家接力守护山东省高唐县琉璃寺烈士陵园
 
 === ALL DISCOVERED LINKS ===
 
@@ -248,18 +248,18 @@ http://www.81.cn/zt/2025nzt/zlzzzcdhgjzz/index.html
 http://www.81.cn/zt/2026nzt/2026wlzgjzq/index.html
 https://www.xuexi.cn/
 http://www.81.cn/xxqj_207719/index.html
-http://www.81.cn/jwtt/16488809.html
+http://www.81.cn/jwtt/16489079.html
+  习近平同美国总统特朗普小范围交流
+http://www.81.cn/yw_208727/16489054.html
+  习近平在白宫欢迎仪式上的致辞（全文）
+http://www.81.cn/yw_208727/16489057.html
+  习近平出席美国总统特朗普在白宫举行的欢迎仪式
+http://www.81.cn/yw_208727/16489040.html
   习近平抵达华盛顿对美国进行国事访问
 http://www.81.cn/yw_208727/16488796.html
   习近平抵达美国安德鲁斯空军基地发表书面讲话
 http://www.81.cn/yw_208727/16489009.html
   美国总统首次赴机场迎接中国国家主席
-http://www.81.cn/yw_208727/16488729.html
-  习近平主席贺信激励青年走技能成才之路并为世界技能运动发展指明方向
-http://www.81.cn/yw_208727/16488665.html
-  述评丨推动中美关系大船平稳前行
-http://www.81.cn/yw_208727/16488616.html
-  特稿｜中美走出正确相处之道是世界所盼——国际社会瞩目习近平主席对美进行国事访问
 http://www.81.cn/yw_208727/16488637.html
   神舟二十号、神舟二十一号航天员授称颁奖仪式在京举行
 http://www.81.cn/yw_208727/16489001.html
@@ -288,6 +288,12 @@ http://www.81.cn/yw_208727/16488918.html
   日本以所谓“存亡危机事态”为名加速“再军事化”
 http://www.81.cn/yw_208727/16488940.html
   国防部敦促日方停止在南海问题上搬弄是非
+http://www.81.cn/syjdt/16489088.html
+  习近平同美国总统特朗普小范围交流
+http://www.81.cn/syjdt/16489053.html
+  习近平出席美国总统特朗普在白宫举行的欢迎仪式
+http://www.81.cn/syjdt/16489045.html
+  习近平出席美国总统特朗普举行的欢迎仪式
 http://www.81.cn/syjdt/16488790.html
   习近平抵达华盛顿对美国进行国事访问
 http://www.81.cn/syjdt/16488443.html
@@ -296,26 +302,20 @@ http://www.81.cn/syjdt/16488810.html
   胜利的方向丨江上七昼夜 三代渡江情
 http://tv.81.cn/zb/16488494.html
   直播回放：“寻根铸魂向百年•重走长征路”融媒体特别节目：贵州遵义篇
-http://www.81.cn/syjdt/16488551.html
-  胜利的方向丨乌蒙深处 青山埋骨
-http://www.81.cn/syjdt/16488371.html
-  “伟大的远征——纪念中国工农红军长征胜利90周年主题展览”在京开幕
-http://www.81.cn/syjdt/16488388.html
-  中国海军“吉祥方舟”号医院船结束访问毛里塔尼亚
-http://www.81.cn/xx_207779/16488923.html
-  习近平与美国友人的故事
-http://www.81.cn/xx_207779/16488938.html
-  大国外交最前线丨跨越太平洋！感受中美友好的“双向奔赴”
-http://www.81.cn/xx_207779/16488921.html
-  学习进行时｜中美关系的未来由青年创造
-http://www.81.cn/xx_207779/16488915.html
-  独家视频丨中美元首华盛顿再次见面
-http://www.81.cn/xx_207779/16488874.html
-  越山海｜跨越太平洋的青春之桥
-http://www.81.cn/xx_207779/16488934.html
-  视频丨国际社会期待习近平主席访美造福两国 惠及世界
-http://www.81.cn/xx_207779/16488859.html
-  “中美青年同处一个地球，共担时代使命”
+http://www.81.cn/xx_207779/16489086.html
+  “把中美民间友好的桥梁筑得更宽、更牢”——地方合作助力中美关系行稳致远
+http://www.81.cn/xx_207779/16489072.html
+  第一观察 | 从习主席抵美书面讲话中感悟大国胸怀担当
+http://www.81.cn/xx_207779/16489065.html
+  习近平主席贺信激励青年走技能成才之路并为世界技能运动发展指明方向
+http://www.81.cn/xx_207779/16489048.html
+  述评丨推动中美关系大船平稳前行
+http://www.81.cn/xx_207779/16489047.html
+  特稿｜中美走出正确相处之道是世界所盼——国际社会瞩目习近平主席对美进行国事访问
+http://www.81.cn/xx_207779/16489042.html
+  习近平主席抵达华盛顿 80秒看美方高规格迎接
+http://www.81.cn/xx_207779/16489024.html
+  习言道｜关于中美关系，习近平提到这些数字
 http://tv.81.cn/jbmtd_211970/16488806.html
 https://weibo.com/jfjb
 http://www.81.cn/byds_206407/byds_206410/16486630.html
@@ -352,6 +352,12 @@ http://www.81.cn/fyr/16488944.html
   国防部：欢迎大家参观纪念中国工农红军长征胜利90周年主题展览
 http://www.81.cn/fyr/16488943.html
   北京香山论坛每一次对话倾听都为和平增添一分希望
+http://www.81.cn/ss_208539/16489044.html
+  国新办发布会聚焦“十五五”时期文化和旅游高质量发展
+http://www.81.cn/ss_208539/16489026.html
+  赵乐际在吉林黑龙江调研
+http://www.81.cn/ss_208539/16489017.html
+  王沪宁主持召开全国政协主席会议
 http://www.81.cn/ss_208539/16488979.html
   李强会见马来西亚总理安瓦尔
 http://www.81.cn/ss_208539/16488975.html
@@ -368,12 +374,6 @@ http://www.81.cn/ss_208539/16488875.html
   李强出席第五届全球数字贸易博览会启动仪式并致辞
 http://www.81.cn/ss_208539/16488872.html
   第五届全球数字贸易博览会在杭州举办
-http://www.81.cn/ss_208539/16488869.html
-  中方呼吁推动人工智能向上向善、造福人类
-http://www.81.cn/ss_208539/16488861.html
-  中国和塞尔维亚警务联合巡逻在塞启动
-http://www.81.cn/ss_208539/16488855.html
-  海林观察 | 在华盛顿，邂逅中国元素
 http://www.81.cn/zt/2023nzt/xxgcxjpxsdzgtsshzysxztjy/index.html
 http://www.81.cn/zt/2023nzt/flsxjjbnmbjkjcsjyljd/index.html
 http://www.81.cn/bz_208549/jdt_208550/16488700.html
@@ -582,6 +582,8 @@ http://www.81.cn/ll_208543/16487898.html
   淬火要论丨为将就要保家国
 http://www.81.cn/pl_208541/jdt_208542/16486445.html
   漫评丨因一座雕塑就破了大防，日本右翼到底在怕什么？
+http://www.81.cn/pl_208541/16489022.html
+  新华时评｜心上一轮月，人间万种圆
 http://www.81.cn/pl_208541/16488873.html
   社评：寻找中美之间更多“朴素的外交官”
 http://www.81.cn/pl_208541/16488846.html
@@ -590,8 +592,6 @@ http://www.81.cn/pl_208541/16488687.html
   新华时评丨有“技”者事竟成
 http://www.81.cn/pl_208541/16488647.html
   《红军青年战士之歌》：一首穿越烽火的青春战歌
-http://www.81.cn/pl_208541/16488734.html
-  强军论坛丨廉风最使节味纯
 http://www.81.cn/wh_208575/jdt_208576/16487611.html
   我赴阿卜耶伊维和直升机分队高标准通过联合国第三季度装备核查
 http://www.81.cn/wh_208575/16484158.html
@@ -825,8 +825,10 @@ http://www.81.cn/js_208585/16482687.html
   军娃夏令营，体验别样暑假生活
 http://eng.chinamil.com.cn/2025xb/H_251454/F_251457/16488877.html
   Xi lands in U.S. for state visit, greeted by Trump at airport
-http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16488848.html
-  Xi lands in U.S. for state visit, greeted by Trump at airport
+http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16489066.html
+  Xi attends welcome ceremony held by Trump
+http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16489006.html
+  PLA Navy Marine Corps' Amphibious Elite Challenge Tournament Concludes
 http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16488659.html
   China-Laos "Peace Train-2026" Medical Service Mission Concludes
 http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16488429.html
@@ -835,16 +837,14 @@ http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16488328.html
   Chinese hospital ship delivers care, deepens trust in Mauritania
 http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16488321.html
   UNIFIL Deputy Chief of Staff visits Chinese peacekeeping battalion
-http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16488266.html
-  48th Chinese naval escort task force concludes friendly visit to Bangladesh
+http://eng.chinamil.com.cn/2025xb/B/16489003.html
+  PLA Navy Marine Corps' Amphibious Elite Challenge Tournament Concludes
+http://eng.chinamil.com.cn/2025xb/B/16488622.html
+  Pilot cadets in graduation assessment
 http://eng.chinamil.com.cn/2025xb/B/16488657.html
   China-Laos "Peace Train-2026" Medical Service Mission Concludes
 http://eng.chinamil.com.cn/2025xb/B/16488308.html
   UNIFIL Deputy Chief of Staff visits Chinese peacekeeping battalion
-http://eng.chinamil.com.cn/2025xb/B/16488294.html
-  Anti-submarine patrol aircraft takes off for training
-http://eng.chinamil.com.cn/2025xb/B/16488288.html
-  Tank Detachment Conducts Live-Fire Assessment
 http://www.people.com.cn/
   人民网
 http://www.xinhuanet.com/
@@ -961,13 +961,13 @@ http://www.81.cn/zt/sytj/_attachment/2025/10/29/16418427_46e50d379d2c7ec8ea83621
 http://www.81.cn/zt/sytj/_attachment/2026/09/23/16488686_a5ddb7eec3835105351d8bdcccf75174.jpg
 http://www.81.cn/wzsy/Banner_207703/ztyc/_attachment/2020/03/03/9757973_0800279e7f7f1fc839f401.jpg
 http://www.81.cn/template/tenant207/t1774/img/xxqj.jpg
-http://www.81.cn/syjdt/_attachment/2026/09/24/16488790_08dc3fbab137f6ed52d528e7bdb1f0f5.jpg
+http://www.81.cn/syjdt/_attachment/2026/09/25/16489088_ec21e27984c6185191bf39f5fa476b0c.jpg
+http://www.81.cn/syjdt/_attachment/2026/09/24/16489053_ca13274103cc3c77d6636cd03af361b1.jpeg
+http://www.81.cn/syjdt/_attachment/2026/09/24/16489045_f9635dd300304c3e97beb6c3b958e10e.jpg
+http://www.81.cn/syjdt/_attachment/2026/09/24/16488790_5f0da2ac6114f669a4681bfef6855f9d.JPG
 http://www.81.cn/syjdt/_attachment/2026/09/23/16488443_ea79fa85fb7ee24bcdaad66c4790ae3f.jpg
 http://www.81.cn/syjdt/_attachment/2026/09/24/16488810_cc29aa2f3cfcc5c4e694581e6a2630fe.png
 http://www.81.cn/syjdt/_attachment/2026/09/23/16488516_1bb5dcfd078c24ca30213e3e300ddde2.jpg
-http://www.81.cn/syjdt/_attachment/2026/09/22/16488551_b512bb560ccd4b54f40ff08d44d1c113.jpg
-http://www.81.cn/syjdt/_attachment/2026/09/22/16488371_2322fb351466b1388b610f422f0cd802.jpg
-http://www.81.cn/syjdt/_attachment/2026/09/22/16488388_cc63e735a8400b0bf128c5856e1692cc.jpg
 http://www.81.cn/template/tenant207/t1774/img/brief.jpg
 http://www.plapic.com.cn/jfjhb/wqhg/_attachment/2026/09/03/16483310_d73f966d3b4f4e2e1e0e6e519257b599.jpg
 http://www.81.cn/template/tenant207/t1774/img/gfb.jpg
