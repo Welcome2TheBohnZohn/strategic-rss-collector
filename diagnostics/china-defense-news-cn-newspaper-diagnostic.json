@@ -1,95 +1,79 @@
 {
-  "issue_date": "2026-09-23",
+  "issue_date": "2026-09-24",
   "issue_pages": [
     {
       "paper_number": "01",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-23&paperName=zggfb&paperNumber=01",
-      "links": 67,
-      "article_links": 3
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-24&paperName=zggfb&paperNumber=01",
+      "links": 71,
+      "article_links": 4
     },
     {
       "paper_number": "02",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-23&paperName=zggfb&paperNumber=02",
-      "links": 77,
-      "article_links": 5
-    },
-    {
-      "paper_number": "03",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-23&paperName=zggfb&paperNumber=03",
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-24&paperName=zggfb&paperNumber=02",
       "links": 75,
       "article_links": 4
     },
     {
+      "paper_number": "03",
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-24&paperName=zggfb&paperNumber=03",
+      "links": 63,
+      "article_links": 1
+    },
+    {
       "paper_number": "04",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-23&paperName=zggfb&paperNumber=04",
-      "links": 69,
-      "article_links": 4
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-24&paperName=zggfb&paperNumber=04",
+      "links": 67,
+      "article_links": 3
     }
   ],
   "candidates": [
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-23&paperNumber=01&articleid=987254",
-      "anchor_title": "向更加美好的生活奔跑"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-24&paperNumber=01&articleid=987329",
+      "anchor_title": "“世界超市”激荡家国情"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-23&paperNumber=01&articleid=987253",
-      "anchor_title": "出征"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-24&paperNumber=01&articleid=987328",
+      "anchor_title": "2026年下半年新兵运输工作全面启动"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-23&paperNumber=01&articleid=987255",
-      "anchor_title": "12人出战喜获12项大奖"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-24&paperNumber=01&articleid=987330",
+      "anchor_title": "出征，向着光荣与梦想"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-23&paperNumber=02&articleid=987242",
-      "anchor_title": "巾帼民兵守卫风雪垭口"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-24&paperNumber=01&articleid=987332",
+      "anchor_title": "休刊启事"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-23&paperNumber=02&articleid=987243",
-      "anchor_title": "岗位即战位 任务即课堂"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-24&paperNumber=02&articleid=987322",
+      "anchor_title": "金色稻田里的“拥军课”"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-23&paperNumber=02&articleid=987245",
-      "anchor_title": "童心绘国防"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-24&paperNumber=02&articleid=987323",
+      "anchor_title": "写下青春志 遥寄赤子心"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-23&paperNumber=02&articleid=987246",
-      "anchor_title": "组织防汛抗洪训练"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-24&paperNumber=02&articleid=987325",
+      "anchor_title": "推行清单化工作机制"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-23&paperNumber=02&articleid=987247",
-      "anchor_title": "舞动“英雄灯” 厚植家国情"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-24&paperNumber=02&articleid=987327",
+      "anchor_title": "在实景演绎中读懂红色历史"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-23&paperNumber=03&articleid=987257",
-      "anchor_title": "全程服务暖兵心"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-24&paperNumber=03&articleid=987333",
+      "anchor_title": "英雄从未远去"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-23&paperNumber=03&articleid=987258",
-      "anchor_title": "由陶瓷制作想到潜力调查"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-24&paperNumber=04&articleid=987334",
+      "anchor_title": "明月照山河 捷报传九州"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-23&paperNumber=03&articleid=987259",
-      "anchor_title": "空中通道增效率"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-24&paperNumber=04&articleid=987335",
+      "anchor_title": "烽火岁月里的平原记忆与光影长歌"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-23&paperNumber=03&articleid=987261",
-      "anchor_title": "这里别有洞天"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-23&paperNumber=04&articleid=987249",
-      "anchor_title": "日本发展核潜艇野心昭然若揭"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-23&paperNumber=04&articleid=987250",
-      "anchor_title": "美空军谋求基地防空自主权"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-23&paperNumber=04&articleid=987251",
-      "anchor_title": "新加坡双向布局未来空战力量"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-23&paperNumber=04&articleid=987252",
-      "anchor_title": "防务资讯"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-24&paperNumber=04&articleid=987336",
+      "anchor_title": "谋战场主动，探奇正变化"
     }
   ]
 }
