@@ -6,7 +6,7 @@ Include regex: /gfbw/|/xwfyr/|/wzll/
 Include text regex: 
 
 Candidate links: 50
-All links discovered: 241
+All links discovered: 240
 
 === MATCHED CANDIDATES ===
 
@@ -32,7 +32,9 @@ http://www.mod.gov.cn/gfbw/jsxd/16484704.html
   中老“和平列车”首次成体系运用无人智能设备开展联合卫勤训练
 http://www.mod.gov.cn/gfbw/gfjy_index/16488831.html
   一等功臣肖德准深藏功名，在平凡岗位默默奉献——英雄从未远去
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16489342.html
+http://www.mod.gov.cn/gfbw/sy/rt/16489365.html
+  习近平和彭丽媛同美国总统特朗普夫妇共同参观美国国家档案馆
+http://www.mod.gov.cn/gfbw/qwfb/16489340.html
   习近平和彭丽媛同美国总统特朗普夫妇共同参观美国国家档案馆
 http://www.mod.gov.cn/gfbw/gffw/16488519.html
   济南军代室加大新兵运输保障跨区协调力度——全程服务暖兵心
@@ -56,8 +58,8 @@ http://www.mod.gov.cn/gfbw/xwfyr/16488899.html
   北京香山论坛每一次对话倾听都为和平增添一分希望
 http://www.mod.gov.cn/gfbw/sy/rt/16489150.html
   习近平出席美国总统特朗普在白宫举行的欢迎仪式
-http://www.mod.gov.cn/gfbw/qwfb/16489108.html
-  习近平出席美国总统特朗普在白宫举行的欢迎仪式
+http://www.mod.gov.cn/gfbw/qwfb/16489391.html
+  习近平向全球发展倡议5周年高级别对话会致贺信
 http://www.mod.gov.cn/gfbw/wzll/16489173.html
   战友们就是我的亲人，守在这里也是一种“团圆”
 http://www.mod.gov.cn/gfbw/jsxd/16481085.html
@@ -90,12 +92,10 @@ http://www.mod.gov.cn/gfbw/wzll/16489172.html
   举头望月的时刻，就是一家人团圆的时刻
 http://www.mod.gov.cn/gfbw/gffw/16488819.html
   2026年下半年新兵运输工作全面启动
+http://www.mod.gov.cn/gfbw/jmsd/16489399.html
+  强军论坛丨让“训练搭子”成为帮学对子
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16488737.html
   海军某护卫舰支队开展海上多科目训练
-http://www.mod.gov.cn/gfbw/sy/rt/16488791.html
-  习近平抵达华盛顿对美国进行国事访问
-http://www.mod.gov.cn/gfbw/jmsd/16487931.html
-  强军论坛｜读懂送新兵仪式的深层意蕴
 http://www.mod.gov.cn/gfbw/gfjy_index/16487992.html
   多地开展全民国防教育月系列活动一瞥
 http://www.mod.gov.cn/gfbw/sy/rt/16489089.html
@@ -104,12 +104,12 @@ http://www.mod.gov.cn/gfbw/fgwx/16448582.html
   中华人民共和国民族团结进步促进法
 http://www.mod.gov.cn/gfbw/jmsd/16487735.html
   始终以正确政绩观担当作为履职尽责
+http://www.mod.gov.cn/gfbw/tp_214132/16489406.html
+  第76集团军某旅开展实弹射击训练
 http://www.mod.gov.cn/gfbw/tp_214132/16488292.html
   海军航空兵某部开展多科目飞行训练
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16487494.html
   海军某支队组织气垫艇进出坞训练
-http://www.mod.gov.cn/gfbw/qwfb/16489359.html
-  习近平圆满结束对美国的国事访问
 
 === ALL DISCOVERED LINKS ===
 
@@ -299,7 +299,9 @@ http://www.mod.gov.cn/gfbw/sy/jt_214028/16488412.html
   海军某大队开展海上训练
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16487494.html
   海军某支队组织气垫艇进出坞训练
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16489342.html
+http://www.mod.gov.cn/gfbw/sy/tt_214026/16489363.html
+  习近平圆满结束对美国的国事访问
+http://www.mod.gov.cn/gfbw/sy/rt/16489365.html
   习近平和彭丽媛同美国总统特朗普夫妇共同参观美国国家档案馆
 http://www.mod.gov.cn/gfbw/sy/rt/16489354.html
   习近平和彭丽媛同美国总统特朗普夫妇茶叙
@@ -309,20 +311,16 @@ http://www.mod.gov.cn/gfbw/sy/rt/16489089.html
   习近平同美国总统特朗普小范围交流
 http://www.mod.gov.cn/gfbw/sy/rt/16489150.html
   习近平出席美国总统特朗普在白宫举行的欢迎仪式
-http://www.mod.gov.cn/gfbw/sy/rt/16488791.html
-  习近平抵达华盛顿对美国进行国事访问
-http://www.mod.gov.cn/gfbw/qwfb/16489359.html
-  习近平圆满结束对美国的国事访问
+http://www.mod.gov.cn/gfbw/qwfb/16489340.html
+  习近平和彭丽媛同美国总统特朗普夫妇共同参观美国国家档案馆
 http://www.mod.gov.cn/gfbw/qwfb/16489357.html
   习近平和彭丽媛同美国总统特朗普夫妇茶叙
 http://www.mod.gov.cn/gfbw/qwfb/16489330.html
   习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴
 http://www.mod.gov.cn/gfbw/qwfb/16489128.html
   习近平同美国总统特朗普会谈
-http://www.mod.gov.cn/gfbw/qwfb/16489108.html
-  习近平出席美国总统特朗普在白宫举行的欢迎仪式
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16489058.html
-  致辞全文
+http://www.mod.gov.cn/gfbw/qwfb/16489391.html
+  习近平向全球发展倡议5周年高级别对话会致贺信
 http://www.mod.gov.cn/gfbw/qwfb/16488990.html
   2026年9月国防部例行记者会文字实录
 http://www.mod.gov.cn/gfbw/qwfb/16488879.html
@@ -404,12 +402,12 @@ http://www.mod.gov.cn/gfbw/jmsd/index.html
   军媒视点
 http://www.mod.gov.cn/gfbw/jmsd/16487735.html
   始终以正确政绩观担当作为履职尽责
+http://www.mod.gov.cn/gfbw/jmsd/16489399.html
+  强军论坛丨让“训练搭子”成为帮学对子
 http://www.mod.gov.cn/gfbw/jmsd/16488733.html
   强军论坛丨廉风最使节味纯
 http://www.mod.gov.cn/gfbw/jmsd/16488626.html
   强军论坛丨让真理沁入官兵心田
-http://www.mod.gov.cn/gfbw/jmsd/16487931.html
-  强军论坛｜读懂送新兵仪式的深层意蕴
 http://www.mod.gov.cn/gfbw/gfdy/16487706.html
   云南省贡山县人武部结对帮扶独龙江乡马库村
 http://www.mod.gov.cn/gfbw/gfdy/16488826.html
@@ -448,6 +446,8 @@ http://www.mod.gov.cn/gfbw/tp_214132/jsjs/index.html
   军事纪实
 http://www.mod.gov.cn/gfbw/tp_214132/tsjs/index.html
   图说军史
+http://www.mod.gov.cn/gfbw/tp_214132/16489406.html
+  第76集团军某旅开展实弹射击训练
 http://www.mod.gov.cn/gfbw/tp_214132/16488743.html
   武警第二机动总队某支队开展直升机飞行训练
 http://www.mod.gov.cn/gfbw/tp_214132/16488716.html
@@ -456,8 +456,6 @@ http://www.mod.gov.cn/gfbw/tp_214132/16488292.html
   海军航空兵某部开展多科目飞行训练
 http://www.mod.gov.cn/gfbw/tp_214132/16488272.html
   陆军某部组织实弹射击训练
-http://www.mod.gov.cn/gfbw/tp_214132/16487430.html
-  新疆军区某团开展机动训练
 http://www.gfbzb.gov.cn/
   全国征兵网
 http://www.xinhuanet.com/
@@ -502,11 +500,11 @@ http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/09/23/16488631_61a9d297
 http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/09/23/16488414_993d0d7ca9d9d3ebbf9384d88da7b887.jpg
 http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/09/23/16488412_47c208f9ecdc68d07e1d2140b570e532.jpg
 http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/09/19/16487494_b667b916202e13faf49affd2f734f216.jpg
+http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/09/26/16489365_560708b25409be3e348e56938c8daf10.jpg
 http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/09/26/16489354_cc9d7b1942f0a508e5b360a11e050e1c.jpg
 http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/09/25/16489162_8353d390b2d1534995353c04712686cf.jpg
 http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/09/25/16489089_94276bcb1ccdb0bba1664f7394a45593.jpg
 http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/09/25/16489150_90f33346670f72aa265a187a0079fa85.jpg
-http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/09/24/16488791_23d9840f40879ed2e222c5d4940d1b66.JPG
 http://www.mod.gov.cn/gfbw/jswj/_attachment/2026/09/16/16486796_8ab05478958a1a67c1d77abcd9ae8d29.jpg
 http://www.mod.gov.cn/gfbw/wzll/_attachment/2026/09/21/16487929_597d176f0af87a3946ecafb4704fe574.jpg
 http://www.mod.gov.cn/gfbw/jsxd/_attachment/2026/09/10/16484796_919233723ad7166b68cad2304e1e7cb7.png
@@ -527,11 +525,11 @@ http://www.mod.gov.cn/gfbw/jmsd/_attachment/2026/03/15/16487735_bc38a4988ea40a04
 http://www.mod.gov.cn/gfbw/gfdy/_attachment/2026/09/20/16487706_b3976ec10633c6611756bb8b41668750.png
 http://www.mod.gov.cn/gfbw/gfjy_index/_attachment/2026/09/21/16487992_3cc305ac68f6ec6319831e88667054f6.png
 http://www.mod.gov.cn/gfbw/zt/_attachment/2026/08/20/16479151_1572281a51f5ab63ef863d55fdea15e0.jpg
+http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/09/26/16489406_5a309921d744ed9edaf1f1380cec6c2c.jpg
 http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/09/24/16488743_0f52b819c4a906009bd6357348cec3ef.jpg
 http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/09/23/16488716_b40240e5b415fed1cd2148a8fa867c91.jpg
 http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/09/22/16488292_252cd8787ecf57ab2be3d10b4b42eee5.jpg
 http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/09/22/16488272_a2003d23c000fc25726232fe468880f0.jpg
-http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/09/18/16487430_2d2b0afef4471a5d6ee0b78ef095e6c3.jpg
 http://www.81.cn/page/report.htm
 http://www.mod.gov.cn/template/tenant207/t179/js/javascript.js?v=20224291
 http://www.mod.gov.cn/material/js/jquery.s2t.js?v=2022
