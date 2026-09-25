@@ -5,8 +5,8 @@ Published: 2026-09-25 00:03:47
 Source: https://t.me/MFARussia/32311
 
 🌏
-On September 24, Russia’s Foreign Minister Sergey Lavrov held his
-13th meeting
+On September 24, Russia’s Foreign Minister Sergey Lavrov
+held his 13th meeting
 with high-level representatives of the Pacific Small Island Developing States in New York on the sidelines of
 the High-Level Week of the 81st Session of the UN General Assembly
 .

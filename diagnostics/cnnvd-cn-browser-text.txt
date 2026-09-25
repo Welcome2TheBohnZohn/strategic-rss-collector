@@ -23,66 +23,66 @@ CNNVD动态
 重置
 收起 
 漏洞信息
-MacWarrior ClipBucket SQL注入漏洞
+Apache Tomcat 输入验证错误漏洞
 高危
 收录时间：2026-09-23
 |
-更新时间: 2026-09-24 15:30:53
-CNNVD编号：CNNVD-2026-62586760
-National Security Agency Ghidra Software Reverse Engineering Framework 异常处理不当漏洞
-中危
-收录时间：2026-09-23
-|
-更新时间: 2026-09-24 15:30:54
-CNNVD编号：CNNVD-2026-93872922
-Recommenders 输入验证错误漏洞
-低危
-收录时间：2026-09-23
-|
-更新时间: 2026-09-24 15:30:55
-CNNVD编号：CNNVD-2026-22173266
-Flatpak 路径遍历漏洞
+更新时间: 2026-09-24 15:31:40
+CNNVD编号：CNNVD-2026-49400573
+Apache Tomcat 授权问题漏洞
 超危
 收录时间：2026-09-23
 |
-更新时间: 2026-09-24 15:30:52
-CNNVD编号：CNNVD-2026-13224473
-Apache Doris 软件供应链问题漏洞
+更新时间: 2026-09-24 15:31:44
+CNNVD编号：CNNVD-2026-74964256
+Apache Tomcat Native 缓冲区错误漏洞
+高危
+收录时间：2026-09-23
+|
+更新时间: 2026-09-24 15:31:44
+CNNVD编号：CNNVD-2026-69753327
+Apache Tomcat Native 竞争条件问题漏洞
+高危
+收录时间：2026-09-23
+|
+更新时间: 2026-09-24 15:31:43
+CNNVD编号：CNNVD-2026-96999199
+Apache Tomcat 输入验证错误漏洞
+超危
+收录时间：2026-09-23
+|
+更新时间: 2026-09-24 15:31:43
+CNNVD编号：CNNVD-2026-77350137
+FasterXML jackson-databind 资源管理错误漏洞
+高危
+收录时间：2026-09-23
+|
+更新时间: 2026-09-24 15:31:32
+CNNVD编号：CNNVD-2026-32486829
+ZOHO ManageEngine Applications Manager 授权问题漏洞
+高危
+收录时间：2026-09-23
+|
+更新时间: 2026-09-24 15:31:42
+CNNVD编号：CNNVD-2026-65983901
+Foxit PDF Editor 资源管理错误漏洞
+高危
+收录时间：2026-09-23
+|
+更新时间: 2026-09-24 15:31:31
+CNNVD编号：CNNVD-2026-60042233
+BusyBox 授权问题漏洞
 中危
 收录时间：2026-09-23
 |
-更新时间: 2026-09-24 15:30:52
-CNNVD编号：CNNVD-2026-43308249
-Neethu Hari Cafe Management System 权限许可和访问控制问题漏洞
-中危
+更新时间: 2026-09-24 15:31:35
+CNNVD编号：CNNVD-2026-66482406
+Red Hat Ansible Automation Platform 命令注入漏洞
+低危
 收录时间：2026-09-23
 |
-更新时间: 2026-09-24 15:30:48
-CNNVD编号：CNNVD-2026-90480355
-FFmpeg 数字错误漏洞
-中危
-收录时间：2026-09-23
-|
-更新时间: 2026-09-24 15:30:46
-CNNVD编号：CNNVD-2026-82702301
-Plex Media Server 跨站脚本漏洞
-中危
-收录时间：2026-09-23
-|
-更新时间: 2026-09-24 15:30:46
-CNNVD编号：CNNVD-2026-20465857
-Neethu Hari Cafe Management System 输入验证错误漏洞
-中危
-收录时间：2026-09-23
-|
-更新时间: 2026-09-24 15:30:50
-CNNVD编号：CNNVD-2026-85689509
-Keycloak 授权问题漏洞
-中危
-收录时间：2026-09-23
-|
-更新时间: 2026-09-24 15:30:51
-CNNVD编号：CNNVD-2026-42996905
+更新时间: 2026-09-25 04:20:48
+CNNVD编号：CNNVD-2026-38402019
 共 391070 条
 12345639107
 前往页

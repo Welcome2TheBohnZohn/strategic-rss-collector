@@ -1,62 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Fri, 25 Sep 2026 05:15:13 +0000</lastBuildDate><item><title>CNNVD-2026-62586760 - MacWarrior ClipBucket SQL注入漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-62586760</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-62586760</guid><pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate><description>MacWarrior ClipBucket SQL注入漏洞
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Fri, 25 Sep 2026 12:08:57 +0000</lastBuildDate><item><title>CNNVD-2026-49400573 - Apache Tomcat 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-49400573</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-49400573</guid><pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate><description>Apache Tomcat 输入验证错误漏洞
 危害等级: 高危
-收录时间：2026-09-23 | 更新时间: 2026-09-24 15:30:53
-CNNVD编号: CNNVD-2026-62586760</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-62586760&lt;/p&gt;&lt;pre&gt;MacWarrior ClipBucket SQL注入漏洞
+收录时间：2026-09-23 | 更新时间: 2026-09-24 15:31:40
+CNNVD编号: CNNVD-2026-49400573</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-49400573&lt;/p&gt;&lt;pre&gt;Apache Tomcat 输入验证错误漏洞
 危害等级: 高危
-收录时间：2026-09-23 | 更新时间: 2026-09-24 15:30:53
-CNNVD编号: CNNVD-2026-62586760&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-93872922 - National Security Agency Ghidra Software Reverse Engineering Framework 异常处理不当漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-93872922</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-93872922</guid><pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate><description>National Security Agency Ghidra Software Reverse Engineering Framework 异常处理不当漏洞
-危害等级: 中危
-收录时间：2026-09-23 | 更新时间: 2026-09-24 15:30:54
-CNNVD编号: CNNVD-2026-93872922</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-93872922&lt;/p&gt;&lt;pre&gt;National Security Agency Ghidra Software Reverse Engineering Framework 异常处理不当漏洞
-危害等级: 中危
-收录时间：2026-09-23 | 更新时间: 2026-09-24 15:30:54
-CNNVD编号: CNNVD-2026-93872922&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-22173266 - Recommenders 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22173266</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22173266</guid><pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate><description>Recommenders 输入验证错误漏洞
-危害等级: 低危
-收录时间：2026-09-23 | 更新时间: 2026-09-24 15:30:55
-CNNVD编号: CNNVD-2026-22173266</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22173266&lt;/p&gt;&lt;pre&gt;Recommenders 输入验证错误漏洞
-危害等级: 低危
-收录时间：2026-09-23 | 更新时间: 2026-09-24 15:30:55
-CNNVD编号: CNNVD-2026-22173266&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-13224473 - Flatpak 路径遍历漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-13224473</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-13224473</guid><pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate><description>Flatpak 路径遍历漏洞
+收录时间：2026-09-23 | 更新时间: 2026-09-24 15:31:40
+CNNVD编号: CNNVD-2026-49400573&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-74964256 - Apache Tomcat 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-74964256</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-74964256</guid><pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate><description>Apache Tomcat 授权问题漏洞
 危害等级: 超危
-收录时间：2026-09-23 | 更新时间: 2026-09-24 15:30:52
-CNNVD编号: CNNVD-2026-13224473</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-13224473&lt;/p&gt;&lt;pre&gt;Flatpak 路径遍历漏洞
+收录时间：2026-09-23 | 更新时间: 2026-09-24 15:31:44
+CNNVD编号: CNNVD-2026-74964256</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-74964256&lt;/p&gt;&lt;pre&gt;Apache Tomcat 授权问题漏洞
 危害等级: 超危
-收录时间：2026-09-23 | 更新时间: 2026-09-24 15:30:52
-CNNVD编号: CNNVD-2026-13224473&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-43308249 - Apache Doris 软件供应链问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-43308249</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-43308249</guid><pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate><description>Apache Doris 软件供应链问题漏洞
+收录时间：2026-09-23 | 更新时间: 2026-09-24 15:31:44
+CNNVD编号: CNNVD-2026-74964256&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-69753327 - Apache Tomcat Native 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-69753327</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-69753327</guid><pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate><description>Apache Tomcat Native 缓冲区错误漏洞
+危害等级: 高危
+收录时间：2026-09-23 | 更新时间: 2026-09-24 15:31:44
+CNNVD编号: CNNVD-2026-69753327</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-69753327&lt;/p&gt;&lt;pre&gt;Apache Tomcat Native 缓冲区错误漏洞
+危害等级: 高危
+收录时间：2026-09-23 | 更新时间: 2026-09-24 15:31:44
+CNNVD编号: CNNVD-2026-69753327&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-96999199 - Apache Tomcat Native 竞争条件问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-96999199</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-96999199</guid><pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate><description>Apache Tomcat Native 竞争条件问题漏洞
+危害等级: 高危
+收录时间：2026-09-23 | 更新时间: 2026-09-24 15:31:43
+CNNVD编号: CNNVD-2026-96999199</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-96999199&lt;/p&gt;&lt;pre&gt;Apache Tomcat Native 竞争条件问题漏洞
+危害等级: 高危
+收录时间：2026-09-23 | 更新时间: 2026-09-24 15:31:43
+CNNVD编号: CNNVD-2026-96999199&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-77350137 - Apache Tomcat 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-77350137</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-77350137</guid><pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate><description>Apache Tomcat 输入验证错误漏洞
+危害等级: 超危
+收录时间：2026-09-23 | 更新时间: 2026-09-24 15:31:43
+CNNVD编号: CNNVD-2026-77350137</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-77350137&lt;/p&gt;&lt;pre&gt;Apache Tomcat 输入验证错误漏洞
+危害等级: 超危
+收录时间：2026-09-23 | 更新时间: 2026-09-24 15:31:43
+CNNVD编号: CNNVD-2026-77350137&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-32486829 - FasterXML jackson-databind 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-32486829</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-32486829</guid><pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate><description>FasterXML jackson-databind 资源管理错误漏洞
+危害等级: 高危
+收录时间：2026-09-23 | 更新时间: 2026-09-24 15:31:32
+CNNVD编号: CNNVD-2026-32486829</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-32486829&lt;/p&gt;&lt;pre&gt;FasterXML jackson-databind 资源管理错误漏洞
+危害等级: 高危
+收录时间：2026-09-23 | 更新时间: 2026-09-24 15:31:32
+CNNVD编号: CNNVD-2026-32486829&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-65983901 - ZOHO ManageEngine Applications Manager 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-65983901</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-65983901</guid><pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate><description>ZOHO ManageEngine Applications Manager 授权问题漏洞
+危害等级: 高危
+收录时间：2026-09-23 | 更新时间: 2026-09-24 15:31:42
+CNNVD编号: CNNVD-2026-65983901</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-65983901&lt;/p&gt;&lt;pre&gt;ZOHO ManageEngine Applications Manager 授权问题漏洞
+危害等级: 高危
+收录时间：2026-09-23 | 更新时间: 2026-09-24 15:31:42
+CNNVD编号: CNNVD-2026-65983901&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-60042233 - Foxit PDF Editor 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-60042233</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-60042233</guid><pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate><description>Foxit PDF Editor 资源管理错误漏洞
+危害等级: 高危
+收录时间：2026-09-23 | 更新时间: 2026-09-24 15:31:31
+CNNVD编号: CNNVD-2026-60042233</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-60042233&lt;/p&gt;&lt;pre&gt;Foxit PDF Editor 资源管理错误漏洞
+危害等级: 高危
+收录时间：2026-09-23 | 更新时间: 2026-09-24 15:31:31
+CNNVD编号: CNNVD-2026-60042233&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-66482406 - BusyBox 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-66482406</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-66482406</guid><pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate><description>BusyBox 授权问题漏洞
 危害等级: 中危
-收录时间：2026-09-23 | 更新时间: 2026-09-24 15:30:52
-CNNVD编号: CNNVD-2026-43308249</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-43308249&lt;/p&gt;&lt;pre&gt;Apache Doris 软件供应链问题漏洞
+收录时间：2026-09-23 | 更新时间: 2026-09-24 15:31:35
+CNNVD编号: CNNVD-2026-66482406</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-66482406&lt;/p&gt;&lt;pre&gt;BusyBox 授权问题漏洞
 危害等级: 中危
-收录时间：2026-09-23 | 更新时间: 2026-09-24 15:30:52
-CNNVD编号: CNNVD-2026-43308249&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-90480355 - Neethu Hari Cafe Management System 权限许可和访问控制问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-90480355</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-90480355</guid><pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate><description>Neethu Hari Cafe Management System 权限许可和访问控制问题漏洞
-危害等级: 中危
-收录时间：2026-09-23 | 更新时间: 2026-09-24 15:30:48
-CNNVD编号: CNNVD-2026-90480355</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-90480355&lt;/p&gt;&lt;pre&gt;Neethu Hari Cafe Management System 权限许可和访问控制问题漏洞
-危害等级: 中危
-收录时间：2026-09-23 | 更新时间: 2026-09-24 15:30:48
-CNNVD编号: CNNVD-2026-90480355&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-82702301 - FFmpeg 数字错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-82702301</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-82702301</guid><pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate><description>FFmpeg 数字错误漏洞
-危害等级: 中危
-收录时间：2026-09-23 | 更新时间: 2026-09-24 15:30:46
-CNNVD编号: CNNVD-2026-82702301</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-82702301&lt;/p&gt;&lt;pre&gt;FFmpeg 数字错误漏洞
-危害等级: 中危
-收录时间：2026-09-23 | 更新时间: 2026-09-24 15:30:46
-CNNVD编号: CNNVD-2026-82702301&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-20465857 - Plex Media Server 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-20465857</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-20465857</guid><pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate><description>Plex Media Server 跨站脚本漏洞
-危害等级: 中危
-收录时间：2026-09-23 | 更新时间: 2026-09-24 15:30:46
-CNNVD编号: CNNVD-2026-20465857</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-20465857&lt;/p&gt;&lt;pre&gt;Plex Media Server 跨站脚本漏洞
-危害等级: 中危
-收录时间：2026-09-23 | 更新时间: 2026-09-24 15:30:46
-CNNVD编号: CNNVD-2026-20465857&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-85689509 - Neethu Hari Cafe Management System 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-85689509</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-85689509</guid><pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate><description>Neethu Hari Cafe Management System 输入验证错误漏洞
-危害等级: 中危
-收录时间：2026-09-23 | 更新时间: 2026-09-24 15:30:50
-CNNVD编号: CNNVD-2026-85689509</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-85689509&lt;/p&gt;&lt;pre&gt;Neethu Hari Cafe Management System 输入验证错误漏洞
-危害等级: 中危
-收录时间：2026-09-23 | 更新时间: 2026-09-24 15:30:50
-CNNVD编号: CNNVD-2026-85689509&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-42996905 - Keycloak 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-42996905</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-42996905</guid><pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate><description>Keycloak 授权问题漏洞
-危害等级: 中危
-收录时间：2026-09-23 | 更新时间: 2026-09-24 15:30:51
-CNNVD编号: CNNVD-2026-42996905</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-42996905&lt;/p&gt;&lt;pre&gt;Keycloak 授权问题漏洞
-危害等级: 中危
-收录时间：2026-09-23 | 更新时间: 2026-09-24 15:30:51
-CNNVD编号: CNNVD-2026-42996905&lt;/pre&gt;</content:encoded></item></channel></rss>
+收录时间：2026-09-23 | 更新时间: 2026-09-24 15:31:35
+CNNVD编号: CNNVD-2026-66482406&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-38402019 - Red Hat Ansible Automation Platform 命令注入漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-38402019</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-38402019</guid><pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate><description>Red Hat Ansible Automation Platform 命令注入漏洞
+危害等级: 低危
+收录时间：2026-09-23 | 更新时间: 2026-09-25 04:20:48
+CNNVD编号: CNNVD-2026-38402019</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-38402019&lt;/p&gt;&lt;pre&gt;Red Hat Ansible Automation Platform 命令注入漏洞
+危害等级: 低危
+收录时间：2026-09-23 | 更新时间: 2026-09-25 04:20:48
+CNNVD编号: CNNVD-2026-38402019&lt;/pre&gt;</content:encoded></item></channel></rss>
