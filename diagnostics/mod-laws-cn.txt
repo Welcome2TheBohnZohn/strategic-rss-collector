@@ -6,7 +6,7 @@ Include regex: /gfbw/fgwx/flfg/
 Include text regex: 
 
 Candidate links: 31
-All links discovered: 171
+All links discovered: 172
 
 === MATCHED CANDIDATES ===
 
@@ -303,16 +303,18 @@ http://www.mod.gov.cn/gfbw/fgwx/flfg/4927099.html
   关于调整规范军人家属随军及落户有关政策意见 2022-11-27 13:46
 http://www.mod.gov.cn/gfbw/fgwx/flfg/16126326.html
   中共中央　国务院　中央军委印发《关于加强和改进新时代全民国防教育工作的意见》 2022-09-01 18:22
-http://www.mod.gov.cn/gfbw/qwfb/16489155.html
-  习近平在美国总统特朗普举行的欢迎宴会上的祝酒辞（全文）
+http://www.mod.gov.cn/gfbw/qwfb/16489359.html
+  习近平圆满结束对美国的国事访问
+http://www.mod.gov.cn/gfbw/qwfb/16489357.html
+  习近平和彭丽媛同美国总统特朗普夫妇茶叙
+http://www.mod.gov.cn/gfbw/qwfb/16489330.html
+  习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴
 http://www.mod.gov.cn/gfbw/qwfb/16489128.html
   习近平同美国总统特朗普会谈
 http://www.mod.gov.cn/gfbw/qwfb/16489108.html
   习近平出席美国总统特朗普在白宫举行的欢迎仪式
-http://www.mod.gov.cn/gfbw/qwfb/16489055.html
-  习近平在白宫欢迎仪式上的致辞（全文）
-http://www.mod.gov.cn/gfbw/qwfb/16488797.html
-  习近平抵达美国安德鲁斯空军基地发表书面讲话
+http://www.mod.gov.cn/gfbw/sy/tt_214026/16489058.html
+  致辞全文
 http://www.mod.gov.cn/gfbw/spbb_214126/16477140.html
   何为承诺
 http://www.mod.gov.cn/gfbw/spbb_214126/16477755.html

@@ -6,7 +6,7 @@ Include regex: /gfbw/|/xwfyr/|/wzll/
 Include text regex: 
 
 Candidate links: 50
-All links discovered: 240
+All links discovered: 241
 
 === MATCHED CANDIDATES ===
 
@@ -32,10 +32,10 @@ http://www.mod.gov.cn/gfbw/jsxd/16484704.html
   中老“和平列车”首次成体系运用无人智能设备开展联合卫勤训练
 http://www.mod.gov.cn/gfbw/gfjy_index/16488831.html
   一等功臣肖德准深藏功名，在平凡岗位默默奉献——英雄从未远去
+http://www.mod.gov.cn/gfbw/sy/tt_214026/16489342.html
+  习近平和彭丽媛同美国总统特朗普夫妇共同参观美国国家档案馆
 http://www.mod.gov.cn/gfbw/gffw/16488519.html
   济南军代室加大新兵运输保障跨区协调力度——全程服务暖兵心
-http://www.mod.gov.cn/gfbw/qwfb/16489155.html
-  习近平在美国总统特朗普举行的欢迎宴会上的祝酒辞（全文）
 http://www.mod.gov.cn/gfbw/gffw/16469120.html
   速览！2026年军校招生政策解读，你想知道的都在这里→
 http://www.mod.gov.cn/gfbw/jswj/16487981.html
@@ -44,10 +44,10 @@ http://www.mod.gov.cn/gfbw/wzll/16487929.html
   探访陆军某边防旅二十连，品读官兵与六座界桩的故事
 http://www.mod.gov.cn/gfbw/jsxd/16480355.html
   中国船舶“艾琳娜”轮致信感谢海军第48批护航编队
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16489171.html
-  习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴
 http://www.mod.gov.cn/gfbw/sy/rt/16489162.html
-  习近平和彭丽媛出席特朗普总统夫妇举行的欢迎宴会
+  习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴
+http://www.mod.gov.cn/gfbw/qwfb/16489330.html
+  习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴
 http://www.mod.gov.cn/gfbw/qwfb/16488879.html
   北京香山论坛每一次对话倾听都为和平增添一分希望
 http://www.mod.gov.cn/gfbw/jswj/16488353.html
@@ -64,8 +64,6 @@ http://www.mod.gov.cn/gfbw/jsxd/16481085.html
   中白“神鹰-2026”空降兵联合训练圆满结束
 http://www.mod.gov.cn/gfbw/xwfyr/16488902.html
   民进党当局出卖民族尊严利益 受到两岸同胞唾弃
-http://www.mod.gov.cn/gfbw/qwfb/16488797.html
-  习近平抵达美国安德鲁斯空军基地发表书面讲话
 http://www.mod.gov.cn/gfbw/jswj/16486796.html
   中国海军“吉祥方舟”号医院船抵达毛里塔尼亚
 http://www.mod.gov.cn/gfbw/jswj/16479884.html
@@ -76,8 +74,10 @@ http://www.mod.gov.cn/gfbw/gfdy/16487706.html
   云南省贡山县人武部结对帮扶独龙江乡马库村
 http://www.mod.gov.cn/gfbw/tp_214132/16488743.html
   武警第二机动总队某支队开展直升机飞行训练
-http://www.mod.gov.cn/gfbw/sy/rt/16489000.html
-  2026年9月国防部例行记者会文字实录
+http://www.mod.gov.cn/gfbw/sy/rt/16489354.html
+  习近平和彭丽媛同美国总统特朗普夫妇茶叙
+http://www.mod.gov.cn/gfbw/qwfb/16489357.html
+  习近平和彭丽媛同美国总统特朗普夫妇茶叙
 http://www.mod.gov.cn/gfbw/qwfb/16488990.html
   2026年9月国防部例行记者会文字实录
 http://www.mod.gov.cn/gfbw/jsxd/16484796.html
@@ -86,8 +86,6 @@ http://www.mod.gov.cn/gfbw/gfdy/16488826.html
   内蒙古五原县人武部 推行清单化工作机制
 http://www.mod.gov.cn/gfbw/gfdy/16488525.html
   这里别有洞天——探访北京浩天救援队队部
-http://www.mod.gov.cn/gfbw/qwfb/16489055.html
-  习近平在白宫欢迎仪式上的致辞（全文）
 http://www.mod.gov.cn/gfbw/wzll/16489172.html
   举头望月的时刻，就是一家人团圆的时刻
 http://www.mod.gov.cn/gfbw/gffw/16488819.html
@@ -110,6 +108,8 @@ http://www.mod.gov.cn/gfbw/tp_214132/16488292.html
   海军航空兵某部开展多科目飞行训练
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16487494.html
   海军某支队组织气垫艇进出坞训练
+http://www.mod.gov.cn/gfbw/qwfb/16489359.html
+  习近平圆满结束对美国的国事访问
 
 === ALL DISCOVERED LINKS ===
 
@@ -299,28 +299,30 @@ http://www.mod.gov.cn/gfbw/sy/jt_214028/16488412.html
   海军某大队开展海上训练
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16487494.html
   海军某支队组织气垫艇进出坞训练
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16489171.html
-  习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴
+http://www.mod.gov.cn/gfbw/sy/tt_214026/16489342.html
+  习近平和彭丽媛同美国总统特朗普夫妇共同参观美国国家档案馆
+http://www.mod.gov.cn/gfbw/sy/rt/16489354.html
+  习近平和彭丽媛同美国总统特朗普夫妇茶叙
 http://www.mod.gov.cn/gfbw/sy/rt/16489162.html
-  习近平和彭丽媛出席特朗普总统夫妇举行的欢迎宴会
+  习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴
 http://www.mod.gov.cn/gfbw/sy/rt/16489089.html
   习近平同美国总统特朗普小范围交流
 http://www.mod.gov.cn/gfbw/sy/rt/16489150.html
   习近平出席美国总统特朗普在白宫举行的欢迎仪式
 http://www.mod.gov.cn/gfbw/sy/rt/16488791.html
   习近平抵达华盛顿对美国进行国事访问
-http://www.mod.gov.cn/gfbw/sy/rt/16489000.html
-  2026年9月国防部例行记者会文字实录
-http://www.mod.gov.cn/gfbw/qwfb/16489155.html
-  习近平在美国总统特朗普举行的欢迎宴会上的祝酒辞（全文）
+http://www.mod.gov.cn/gfbw/qwfb/16489359.html
+  习近平圆满结束对美国的国事访问
+http://www.mod.gov.cn/gfbw/qwfb/16489357.html
+  习近平和彭丽媛同美国总统特朗普夫妇茶叙
+http://www.mod.gov.cn/gfbw/qwfb/16489330.html
+  习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴
 http://www.mod.gov.cn/gfbw/qwfb/16489128.html
   习近平同美国总统特朗普会谈
 http://www.mod.gov.cn/gfbw/qwfb/16489108.html
   习近平出席美国总统特朗普在白宫举行的欢迎仪式
-http://www.mod.gov.cn/gfbw/qwfb/16489055.html
-  习近平在白宫欢迎仪式上的致辞（全文）
-http://www.mod.gov.cn/gfbw/qwfb/16488797.html
-  习近平抵达美国安德鲁斯空军基地发表书面讲话
+http://www.mod.gov.cn/gfbw/sy/tt_214026/16489058.html
+  致辞全文
 http://www.mod.gov.cn/gfbw/qwfb/16488990.html
   2026年9月国防部例行记者会文字实录
 http://www.mod.gov.cn/gfbw/qwfb/16488879.html
@@ -500,11 +502,11 @@ http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/09/23/16488631_61a9d297
 http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/09/23/16488414_993d0d7ca9d9d3ebbf9384d88da7b887.jpg
 http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/09/23/16488412_47c208f9ecdc68d07e1d2140b570e532.jpg
 http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/09/19/16487494_b667b916202e13faf49affd2f734f216.jpg
+http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/09/26/16489354_cc9d7b1942f0a508e5b360a11e050e1c.jpg
 http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/09/25/16489162_8353d390b2d1534995353c04712686cf.jpg
 http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/09/25/16489089_94276bcb1ccdb0bba1664f7394a45593.jpg
 http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/09/25/16489150_90f33346670f72aa265a187a0079fa85.jpg
 http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/09/24/16488791_23d9840f40879ed2e222c5d4940d1b66.JPG
-http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/09/24/16489000_bfaafe28c20f8e629669f95166a99b7d.jpg
 http://www.mod.gov.cn/gfbw/jswj/_attachment/2026/09/16/16486796_8ab05478958a1a67c1d77abcd9ae8d29.jpg
 http://www.mod.gov.cn/gfbw/wzll/_attachment/2026/09/21/16487929_597d176f0af87a3946ecafb4704fe574.jpg
 http://www.mod.gov.cn/gfbw/jsxd/_attachment/2026/09/10/16484796_919233723ad7166b68cad2304e1e7cb7.png

@@ -6,12 +6,14 @@ Include regex: 81\.cn/.+/(content|article|index).*|81\.cn/.*\d{6,}
 Include text regex: 
 
 Candidate links: 50
-All links discovered: 530
+All links discovered: 531
 
 === MATCHED CANDIDATES ===
 
 http://www.81.cn/pl_208541/16488846.html
   “美中两国都将受益于稳定的贸易关系”——访美国经济与政策研究中心高级经济学家迪恩·贝克
+http://www.81.cn/xx_207779/16489349.html
+  特稿｜为中美关系提供新的战略指引——美国各界高度评价习近平主席对美国进行国事访问
 http://www.81.cn/hjj_208561/jdt_208562/16486919.html
   “中国火箭军”新媒体矩阵推出微短剧《东风起》——铸剑之路在AI光影里铺展
 http://www.81.cn/yw_208727/16489307.html
@@ -22,20 +24,20 @@ http://www.81.cn/kj_208559/16487135.html
   空军举办“弘扬优良传统 熔铸蓝天忠魂”主题军乐党课——旋律中的精神航迹
 http://www.81.cn/wz_208577/16459656.html
   2026年军队文职人员公开招考第二批免笔试直接面试岗位招考工作全面展开
-http://www.81.cn/yw_208727/16489175.html
-  中国空间站喜迎建成后第四个中秋节 神舟二十三号航天员乘组遥送家国祝福
+http://www.81.cn/xx_207779/16489350.html
+  增进中美人民福祉　促进人类发展进步——中美元首会晤引发热烈国际反响
 http://www.81.cn/tp_207717/16488370.html
   “伟大的远征——纪念中国工农红军长征胜利90周年主题展览”在京开幕
-http://www.81.cn/xx_207779/16489298.html
-  拾光纪·现场画面！习近平和彭丽媛出席特朗普总统夫妇举行的欢迎宴会
+http://www.81.cn/xx_207779/16489316.html
+  拾光纪·“感动了许多中国民众”，习主席在美国讲起“赛考斯”的故事
 http://www.81.cn/tp_207717/jdt_207718/16489274.html
   学习卡·长征百问（75）丨哪次会议宣布成立中国工农红军陕甘支队？
 http://www.81.cn/hjj_208561/16487947.html
   观往知来丨重温先辈赤诚丹心 看火箭军官兵将血性担当化作制胜之气
 http://www.81.cn/hjj_208561/16487737.html
   火箭军某基地建立常委分片跟训嵌入机制——组织生活会开在一线号位
-http://www.81.cn/xx_207779/16489297.html
-  时政新闻眼丨化愿景为行动，习近平为中美落实新定位指明方向路径
+http://www.81.cn/yw_208727/16489351.html
+  中美同意共同构建“基于尊重、公平、对等的建设性战略稳定关系”
 http://www.81.cn/hjj_208561/16486917.html
   火箭军某基地深入学习贯彻习近平强军思想——铸魂砺气 向战而行
 http://www.81.cn/lq_208565/16485303.html
@@ -78,8 +80,6 @@ http://www.81.cn/tj_208608/16469267.html
   总书记"推动海洋经济高质量发展"重要论述引领海洋强国建设
 http://www.81.cn/jy_208587/16488023.html
   同样戴OK镜，为何有的孩子近视控制效果好，有的却不理想？
-http://www.81.cn/yw_208727/16489154.html
-  习近平在美国总统特朗普举行的欢迎宴会上的祝酒辞（全文）
 http://www.81.cn/ss_208539/16489153.html
   亚运会｜全天综合：乒羽团体喜忧交加 泳将张展硕6金入账
 http://www.81.cn/zq_208553/16487753.html
@@ -98,10 +98,6 @@ http://www.81.cn/wz_208577/16463518.html
   为何仅入职一年多的文职人员，就接连经历3个“没想到”？
 http://www.81.cn/js_208585/jdt_208586/16469323.html
   随军家属安置工作持续提质增效，一系列务实举措为军属解忧
-http://www.81.cn/xx_207779/16489263.html
-  时政新闻眼丨习近平抵达华盛顿，高规格礼遇开启访美序幕
-http://www.81.cn/xx_207779/16489264.html
-  中美建设性战略稳定关系——迈向正确相处之道的重要一步
 http://www.81.cn/jw_208551/jdt_208552/16438857.html
   中央军委主席习近平签署命令 发布《军事理论工作条例》
 http://www.81.cn/lj_208555/16487987.html
@@ -110,6 +106,10 @@ http://www.81.cn/lj_208555/16488169.html
   从第74集团军某旅补齐装备短板看纠治“责任虚化”顽疾
 http://www.81.cn/lj_208555/16487609.html
   “铁流”奔涌！直击北部战区陆军某部跨区域铁路投送训练
+http://www.81.cn/lq_208565/jdt_208566/16488318.html
+  联勤保障部队各医院开展“联勤军医老区行”系列巡诊活动
+http://www.81.cn/lq_208565/16486719.html
+  联勤保障部队神经外科专科联盟构建全域联动学科发展格局
 
 === ALL DISCOVERED LINKS ===
 
@@ -248,22 +248,26 @@ http://www.81.cn/zt/2025nzt/zlzzzcdhgjzz/index.html
 http://www.81.cn/zt/2026nzt/2026wlzgjzq/index.html
 https://www.xuexi.cn/
 http://www.81.cn/xxqj_207719/index.html
-http://www.81.cn/jwtt/16489170.html
+http://www.81.cn/jwtt/16489341.html
+  习近平和彭丽媛同美国总统特朗普夫妇共同参观美国国家档案馆
+http://www.81.cn/yw_208727/16489358.html
+  习近平圆满结束对美国的国事访问
+http://www.81.cn/yw_208727/16489355.html
+  习近平和彭丽媛同美国总统特朗普夫妇茶叙
+http://www.81.cn/yw_208727/16489328.html
   习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴
-http://www.81.cn/yw_208727/16489154.html
-  习近平在美国总统特朗普举行的欢迎宴会上的祝酒辞（全文）
 http://www.81.cn/yw_208727/16489109.html
   习近平同美国总统特朗普会谈
 http://www.81.cn/yw_208727/16489107.html
   习近平出席美国总统特朗普在白宫举行的欢迎仪式
-http://www.81.cn/yw_208727/16489054.html
-  习近平在白宫欢迎仪式上的致辞（全文）
-http://www.81.cn/yw_208727/16489134.html
-  从习主席抵美书面讲话中感悟大国胸怀担当
+http://www.81.cn/xxqj_207719/xxrl/zyjh/16489060.html
+  致辞全文
+http://www.81.cn/yw_208727/16489351.html
+  中美同意共同构建“基于尊重、公平、对等的建设性战略稳定关系”
+http://www.81.cn/yw_208727/16489164.html
+  举头望月的时刻，就是一家人团圆的时刻
 http://www.81.cn/yw_208727/16489001.html
   2026年9月国防部例行记者会文字实录
-http://www.81.cn/yw_208727/16489175.html
-  中国空间站喜迎建成后第四个中秋节 神舟二十三号航天员乘组遥送家国祝福
 http://www.81.cn/yw_208727/16489255.html
   赓续长征精神 奋进复兴征程·长征壮歌丨困牛山上的纵身一跃
 http://www.81.cn/yw_208727/16489282.html
@@ -272,10 +276,10 @@ http://www.81.cn/yw_208727/16489307.html
   钧正平：这场打破日军“不可战胜”神话的胜利，为什么被称为至暗时刻的曙光
 http://www.81.cn/yw_208727/16489165.html
   战友们就是我的亲人，守在这里也是一种“团圆”
+http://www.81.cn/yw_208727/16488762.html
+  强军论坛丨让“训练搭子”成为帮学对子
 http://www.81.cn/yw_208727/16489166.html
   中国边关丨此心安处是团圆
-http://www.81.cn/yw_208727/16489164.html
-  举头望月的时刻，就是一家人团圆的时刻
 http://www.81.cn/yw_208727/16489190.html
   长征路上的中秋
 http://www.81.cn/yw_208727/16489201.html
@@ -286,10 +290,10 @@ http://www.81.cn/yw_208727/16488761.html
   踏访回龙场渡口，感悟红军将士无往不胜的血性胆气
 http://www.81.cn/yw_208727/16488765.html
   万里边疆行丨云岭边寨幸福花
-http://www.81.cn/yw_208727/16488978.html
-  我国成功发射遥感四十号04组卫星
+http://www.81.cn/syjdt/16489353.html
+  习近平和彭丽媛同美国总统特朗普夫妇茶叙
 http://www.81.cn/syjdt/16489161.html
-  习近平和彭丽媛出席特朗普总统夫妇举行的欢迎宴会
+  习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴
 http://www.81.cn/syjdt/16489088.html
   习近平同美国总统特朗普小范围交流
 http://www.81.cn/syjdt/16489149.html
@@ -300,22 +304,20 @@ http://www.81.cn/syjdt/16488803.html
   14年了，我们记得他们
 http://www.81.cn/syjdt/16489082.html
   主播说国防丨唯有国防稳固 方能岁岁月圆
-http://www.81.cn/syjdt/16489200.html
-  我们的长征丨牺牲·不朽
-http://www.81.cn/xx_207779/16489298.html
-  拾光纪·现场画面！习近平和彭丽媛出席特朗普总统夫妇举行的欢迎宴会
-http://www.81.cn/xx_207779/16489297.html
-  时政新闻眼丨化愿景为行动，习近平为中美落实新定位指明方向路径
-http://www.81.cn/xx_207779/16489296.html
-  “5年10万”，习近平主席向美国青少年发出新邀约
-http://www.81.cn/xx_207779/16489295.html
-  大国外交最前线丨中美元首会谈的开场白都说了些什么？
-http://www.81.cn/xx_207779/16489294.html
-  时政微观察丨团圆月，家国情
-http://www.81.cn/xx_207779/16489263.html
-  时政新闻眼丨习近平抵达华盛顿，高规格礼遇开启访美序幕
-http://www.81.cn/xx_207779/16489264.html
-  中美建设性战略稳定关系——迈向正确相处之道的重要一步
+http://www.81.cn/xx_207779/16489350.html
+  增进中美人民福祉　促进人类发展进步——中美元首会晤引发热烈国际反响
+http://www.81.cn/xx_207779/16489349.html
+  特稿｜为中美关系提供新的战略指引——美国各界高度评价习近平主席对美国进行国事访问
+http://www.81.cn/xx_207779/16489323.html
+  《新时代治国理政纪实》第一卷亮相约旦安曼国际书展
+http://www.81.cn/xx_207779/16489319.html
+  第一观察｜三个维度理解中美建设性战略稳定关系
+http://www.81.cn/xx_207779/16489316.html
+  拾光纪·“感动了许多中国民众”，习主席在美国讲起“赛考斯”的故事
+http://www.81.cn/xx_207779/16489324.html
+  “赛考斯”回应被习近平主席提及：太不可思议了
+http://www.81.cn/xx_207779/16489315.html
+  经纬线·习主席在美国讲述的中国故事
 http://tv.81.cn/jbmtd_211970/16489180.html
 https://weibo.com/jfjb
 http://www.81.cn/byds_206407/byds_206410/16489083.html
@@ -352,8 +354,12 @@ http://www.81.cn/fyr/16488945.html
   民进党当局出卖民族尊严利益 受到两岸同胞唾弃
 http://www.81.cn/fyr/16488944.html
   国防部：欢迎大家参观纪念中国工农红军长征胜利90周年主题展览
-http://www.81.cn/ss_208539/16489306.html
-  《新时代治国理政纪实》第一卷亮相约旦安曼国际书展
+http://www.81.cn/ss_208539/16489322.html
+  月满团圆情更浓：在宝岛台湾感受中秋节庆氛围
+http://www.81.cn/ss_208539/16489321.html
+  “我们的节日·中秋”：传承团圆文脉 厚植家国情怀
+http://www.81.cn/ss_208539/16489320.html
+  月明照万家 同心共此时——全国各地群众欢度中秋
 http://www.81.cn/ss_208539/16489302.html
   佳节话团圆　天涯共此时——庆中秋活动在多国举办
 http://www.81.cn/ss_208539/16489230.html
@@ -370,10 +376,6 @@ http://www.81.cn/ss_208539/16489105.html
   “平平”“福双”将赴美 助力深化新一轮大熊猫保护国际合作
 http://www.81.cn/ss_208539/16489153.html
   亚运会｜全天综合：乒羽团体喜忧交加 泳将张展硕6金入账
-http://www.81.cn/ss_208539/16489044.html
-  国新办发布会聚焦“十五五”时期文化和旅游高质量发展
-http://www.81.cn/ss_208539/16489026.html
-  赵乐际在吉林黑龙江调研
 http://www.81.cn/zt/2023nzt/xxgcxjpxsdzgtsshzysxztjy/index.html
 http://www.81.cn/zt/2023nzt/flsxjjbnmbjkjcsjyljd/index.html
 http://www.81.cn/bz_208549/jdt_208550/16488700.html
@@ -963,13 +965,13 @@ http://www.81.cn/zt/sytj/_attachment/2025/10/29/16418427_46e50d379d2c7ec8ea83621
 http://www.81.cn/zt/sytj/_attachment/2026/09/23/16488686_a5ddb7eec3835105351d8bdcccf75174.jpg
 http://www.81.cn/wzsy/Banner_207703/ztyc/_attachment/2020/03/03/9757973_0800279e7f7f1fc839f401.jpg
 http://www.81.cn/template/tenant207/t1774/img/xxqj.jpg
+http://www.81.cn/syjdt/_attachment/2026/09/26/16489353_cc9d7b1942f0a508e5b360a11e050e1c.jpg
 http://www.81.cn/syjdt/_attachment/2026/09/25/16489161_8353d390b2d1534995353c04712686cf.jpg
 http://www.81.cn/syjdt/_attachment/2026/09/25/16489088_94276bcb1ccdb0bba1664f7394a45593.jpg
 http://www.81.cn/syjdt/_attachment/2026/09/25/16489149_90f33346670f72aa265a187a0079fa85.jpg
 http://www.81.cn/syjdt/_attachment/2026/09/25/16489129_650285338fd06f0acdb2f0900e9e534d.jpg
 http://www.81.cn/syjdt/_attachment/2026/09/25/16488803_5ab19c0403dc6ea2ba6e34f1b28913de.png
 http://www.81.cn/syjdt/_attachment/2026/09/25/16489082_adf8d53dee1a50cdbe675c2eac1de607.jpg
-http://www.81.cn/syjdt/_attachment/2026/09/25/16489200_e5167954cd96d6f8716e915ec1036d7c.jpg
 http://www.81.cn/template/tenant207/t1774/img/brief.jpg
 http://www.plapic.com.cn/jfjhb/wqhg/_attachment/2026/09/03/16483310_d73f966d3b4f4e2e1e0e6e519257b599.jpg
 http://www.81.cn/template/tenant207/t1774/img/gfb.jpg

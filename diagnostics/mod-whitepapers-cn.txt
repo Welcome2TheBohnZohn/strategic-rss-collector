@@ -6,7 +6,7 @@ Include regex: /gfbw/fgwx/bps/
 Include text regex: 
 
 Candidate links: 28
-All links discovered: 178
+All links discovered: 179
 
 === MATCHED CANDIDATES ===
 
@@ -293,16 +293,18 @@ http://www.mod.gov.cn/gfbw/fgwx/bps/4850789.html
   《平等 发展 共享：新中国70年妇女事业的发展与进步》白皮书发表 2019-09-20 10:34
 http://www.mod.gov.cn/gfbw/fgwx/bps/4846424.html
   《新时代的中国国防》白皮书（全文） 2019-07-24 11:24
-http://www.mod.gov.cn/gfbw/qwfb/16489155.html
-  习近平在美国总统特朗普举行的欢迎宴会上的祝酒辞（全文）
+http://www.mod.gov.cn/gfbw/qwfb/16489359.html
+  习近平圆满结束对美国的国事访问
+http://www.mod.gov.cn/gfbw/qwfb/16489357.html
+  习近平和彭丽媛同美国总统特朗普夫妇茶叙
+http://www.mod.gov.cn/gfbw/qwfb/16489330.html
+  习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴
 http://www.mod.gov.cn/gfbw/qwfb/16489128.html
   习近平同美国总统特朗普会谈
 http://www.mod.gov.cn/gfbw/qwfb/16489108.html
   习近平出席美国总统特朗普在白宫举行的欢迎仪式
-http://www.mod.gov.cn/gfbw/qwfb/16489055.html
-  习近平在白宫欢迎仪式上的致辞（全文）
-http://www.mod.gov.cn/gfbw/qwfb/16488797.html
-  习近平抵达美国安德鲁斯空军基地发表书面讲话
+http://www.mod.gov.cn/gfbw/sy/tt_214026/16489058.html
+  致辞全文
 http://www.mod.gov.cn/gfbw/spbb_214126/16477140.html
   何为承诺
 http://www.mod.gov.cn/gfbw/spbb_214126/16477755.html
