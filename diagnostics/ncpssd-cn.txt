@@ -82,18 +82,20 @@ https://www.ncpssd.cn/topics/detailsList?id=4&wfColumn=1&resourceType=0
   建设中国特色新型智库
 https://www.ncpssd.cn/message?id=18622
   积极助力现代公共文化服务体系建设 ——国家哲学社会科学文献中心走进贵州省“两会”
-https://www.ncpssd.cn/message?id=22314
-  习近平向全国广大农民和工作在“三农”战线上的同志们致以节日祝贺和诚挚问候
 https://www.ncpssd.cn/message?id=18580
   国家哲学社会科学文献中心为贵阳市“两会”提供学术资源服务
+https://www.ncpssd.cn/message?id=22362
+  习近平在美国总统特朗普举行的欢迎宴会上的祝酒辞
+https://www.ncpssd.cn/message?id=22361
+  习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴
+https://www.ncpssd.cn/message?id=22358
+  习近平出席美国总统特朗普在白宫举行的欢迎仪式
 https://www.ncpssd.cn/message?id=19563
   国家哲学社会科学文献中心发布最受欢迎期刊报告
 https://www.ncpssd.cn/message?id=19564
   《在学术期刊中合理应用人工智能的倡议书》发布
 https://www.ncpssd.cn/message?id=18273
   国家哲学社会科学文献中心走进贵州省图书馆学会
-https://www.ncpssd.cn/message?id=22317
-  习近平抵达美国安德鲁斯空军基地发表书面讲话
 https://www.ncpssd.cn/js/jquery-1.11.1.min.js
   jquery-1.11.1.min.js
 https://www.ncpssd.cn/css/jquery.hiSlider.css
@@ -110,12 +112,10 @@ https://www.ncpssd.cn/js/sensorsdata.min.js
   sensorsdata.min.js
 https://www.ncpssd.cn/Literature/ancientbooklistNew
   ancientbooklistNew
-https://www.ncpssd.cn/message?id=22316
-  习近平抵达华盛顿对美国进行国事访问
-https://www.ncpssd.cn/message?id=22315
-  习近平向第48届世界技能大赛致贺信
-https://www.ncpssd.cn/message?id=22313
-  习近平复信美国10所高校青年学生
+https://www.ncpssd.cn/js/jquery.base64.js
+  jquery.base64.js
+https://www.ncpssd.cn/searchHandler/getautocomplete
+  getautocomplete
 
 === ALL DISCOVERED LINKS ===
 
@@ -161,16 +161,16 @@ https://www.ncpssd.cn/messages
 https://www.ncpssd.cn/message?id=22266
 https://www.ncpssd.cn/message?id=22261
 https://www.ncpssd.cn/message?id=22214
-https://www.ncpssd.cn/message?id=22317
-  习近平抵达美国安德鲁斯空军基地发表书面讲话
-https://www.ncpssd.cn/message?id=22316
-  习近平抵达华盛顿对美国进行国事访问
-https://www.ncpssd.cn/message?id=22315
-  习近平向第48届世界技能大赛致贺信
-https://www.ncpssd.cn/message?id=22314
-  习近平向全国广大农民和工作在“三农”战线上的同志们致以节日祝贺和诚挚问候
-https://www.ncpssd.cn/message?id=22313
-  习近平复信美国10所高校青年学生
+https://www.ncpssd.cn/message?id=22362
+  习近平在美国总统特朗普举行的欢迎宴会上的祝酒辞
+https://www.ncpssd.cn/message?id=22361
+  习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴
+https://www.ncpssd.cn/message?id=22360
+  习近平同美国总统特朗普会谈
+https://www.ncpssd.cn/message?id=22359
+  习近平在白宫欢迎仪式上的致辞
+https://www.ncpssd.cn/message?id=22358
+  习近平出席美国总统特朗普在白宫举行的欢迎仪式
 https://www.ncpssd.cn/message?id=19563
   国家哲学社会科学文献中心发布最受欢迎期刊报告
 https://www.ncpssd.cn/message?id=19564
