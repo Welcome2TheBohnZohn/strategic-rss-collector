@@ -1,5 +1,5 @@
 Strategic RSS Collector Status
-Generated: 2026-09-26 16:45:10 UTC
+Generated: 2026-09-26 21:26:48 UTC
 
 Status meanings:
 OK = Feed contains one or more items
@@ -135,10 +135,10 @@ FAILED = Source could not be retrieved
   Start URL: https://t.me/s/MFARussia
   Resolved URL: https://t.me/s/MFARussia
   HTTP: 200
-  Attempted items/articles: 11
-  Items/articles with text: 11
-  Items/articles with dates: 11
-  RSS feed items: 11
+  Attempted items/articles: 13
+  Items/articles with text: 12
+  Items/articles with dates: 12
+  RSS feed items: 12
   SSL verification: ON
   Request timeout: 20s
   Max retries: 2
@@ -197,7 +197,7 @@ FAILED = Source could not be retrieved
   HTTP: 200
   Links discovered: 191
   Candidate links/items: 50
-  Attempted items/articles: 14
+  Attempted items/articles: 13
   Items/articles with text: 12
   Items/articles with dates: 12
   RSS feed items: 12
@@ -315,21 +315,22 @@ Call log:
   Max retries: 1
   Retry backoff: 1s
 
-[OK] ncpssd-cn - National Center for Philosophy and Social Sciences Documentation
+[FAILED] ncpssd-cn - National Center for Philosophy and Social Sciences Documentation
   Source type: html
   Start URL: https://www.ncpssd.cn/
   Resolved URL: https://www.ncpssd.cn/
-  HTTP: 200
-  Links discovered: 197
-  Candidate links/items: 50
-  Attempted items/articles: 33
-  Items/articles with text: 12
-  Items/articles with dates: 12
-  RSS feed items: 12
+  HTTP: None
+  Links discovered: 0
+  Candidate links/items: 0
+  Attempted items/articles: 0
+  Items/articles with text: 0
+  Items/articles with dates: 0
+  RSS feed items: 0
   SSL verification: ON
   Request timeout: 12s
   Max retries: 1
   Retry backoff: 1s
+  Error: https://www.ncpssd.cn/ -> HTTPError: 502 Server Error: Bad Gateway for url: https://www.ncpssd.cn/
 
 [OK] stats-cn - National Bureau of Statistics of China
   Source type: html
@@ -364,7 +365,7 @@ Call log:
   Retry backoff: 1s
 
 SUMMARY
-Working: 19
+Working: 18
 Fetched but no items: 0
-Failed: 3
+Failed: 4
 Total sources: 22
