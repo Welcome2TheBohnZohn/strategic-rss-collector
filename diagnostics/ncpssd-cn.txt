@@ -88,8 +88,8 @@ https://www.ncpssd.cn/message?id=22362
   习近平在美国总统特朗普举行的欢迎宴会上的祝酒辞
 https://www.ncpssd.cn/message?id=22361
   习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴
-https://www.ncpssd.cn/message?id=22358
-  习近平出席美国总统特朗普在白宫举行的欢迎仪式
+https://www.ncpssd.cn/message?id=22364
+  习近平向全球发展倡议5周年高级别对话会致贺信
 https://www.ncpssd.cn/message?id=19563
   国家哲学社会科学文献中心发布最受欢迎期刊报告
 https://www.ncpssd.cn/message?id=19564
@@ -98,6 +98,8 @@ https://www.ncpssd.cn/message?id=18273
   国家哲学社会科学文献中心走进贵州省图书馆学会
 https://www.ncpssd.cn/js/jquery-1.11.1.min.js
   jquery-1.11.1.min.js
+https://www.ncpssd.cn/message?id=22363
+  习近平和彭丽媛同美国总统特朗普夫妇茶叙
 https://www.ncpssd.cn/css/jquery.hiSlider.css
   jquery.hiSlider.css
 https://www.ncpssd.cn/sso/getTokenCurrentUser?ssoClient=xwkEN
@@ -114,8 +116,6 @@ https://www.ncpssd.cn/Literature/ancientbooklistNew
   ancientbooklistNew
 https://www.ncpssd.cn/js/jquery.base64.js
   jquery.base64.js
-https://www.ncpssd.cn/searchHandler/getautocomplete
-  getautocomplete
 
 === ALL DISCOVERED LINKS ===
 
@@ -161,16 +161,16 @@ https://www.ncpssd.cn/messages
 https://www.ncpssd.cn/message?id=22266
 https://www.ncpssd.cn/message?id=22261
 https://www.ncpssd.cn/message?id=22214
+https://www.ncpssd.cn/message?id=22364
+  习近平向全球发展倡议5周年高级别对话会致贺信
+https://www.ncpssd.cn/message?id=22365
+  习近平圆满结束对美国的国事访问
+https://www.ncpssd.cn/message?id=22363
+  习近平和彭丽媛同美国总统特朗普夫妇茶叙
 https://www.ncpssd.cn/message?id=22362
   习近平在美国总统特朗普举行的欢迎宴会上的祝酒辞
 https://www.ncpssd.cn/message?id=22361
   习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴
-https://www.ncpssd.cn/message?id=22360
-  习近平同美国总统特朗普会谈
-https://www.ncpssd.cn/message?id=22359
-  习近平在白宫欢迎仪式上的致辞
-https://www.ncpssd.cn/message?id=22358
-  习近平出席美国总统特朗普在白宫举行的欢迎仪式
 https://www.ncpssd.cn/message?id=19563
   国家哲学社会科学文献中心发布最受欢迎期刊报告
 https://www.ncpssd.cn/message?id=19564

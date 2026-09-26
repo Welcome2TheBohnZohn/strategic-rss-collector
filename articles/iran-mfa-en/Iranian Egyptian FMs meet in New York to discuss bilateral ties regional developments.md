@@ -1,0 +1,7 @@
+# Iranian Egyptian FMs meet in New York to discuss bilateral ties regional developments
+
+Published: 2026-09-25 00:00:00
+
+Source: https://en.mfa.gov.ir/portal/newsview/795011
+
+Iranian Foreign Minister Seyed Abbas Araghchi, who has traveled to New York to attend the annual session of the United Nations General Assembly, met with Egyptian Foreign Minister Badr Abdelatty on Thursday afternoon. The two sides discussed Iran-Egypt bilateral relations and regional developments, particularly the issue of Palestine. The Iranian foreign minister highlighted the moral and international legal responsibilities of all countries, particularly Islamic countries, to stop the genocide of the Palestinian people, stating that the Palestinian issue is the greatest humanitarian and moral crisis of the contemporary world. He stressed that all countries are obliged to confront occupation and help realize the Palestinian people’s right to self-determination and the establishment of an independent Palestinian state with Al-Quds as its capital. Araghchi also referred to the Israeli regime’s aggression against Lebanon, Syria and other countries in the region, stressing the need to strengthen coordination among regional countries, including at the United Nations and the Organization of Islamic Cooperation, to counter the Israeli regime’s expansionism and assaults on the security and stability of the region. The two sides also exchanged views on strengthening Iran-Egypt relations and bilateral cooperation.

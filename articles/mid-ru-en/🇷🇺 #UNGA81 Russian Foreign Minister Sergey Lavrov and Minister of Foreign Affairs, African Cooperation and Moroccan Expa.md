@@ -11,5 +11,5 @@ Russian Foreign Minister
 Sergey Lavrov
 and Minister of Foreign Affairs, African Cooperation and Moroccan Expatriates of the Kingdom of Morocco
 Nasser Bourita
-hold a meeting on the sidelines of the High-Level Week of the 81st Session of the UN General Assembly
+hold a meeting on the sidelines of the High-Level Week of the 81st Session of the UN General Assembly.
 #RussiaMorocco
