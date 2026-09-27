@@ -6,7 +6,7 @@ Include regex: cssc\.net\.cn/n5/n18/c\d+/content\.html
 Include text regex: 
 
 Candidate links: 10
-All links discovered: 310
+All links discovered: 308
 
 === MATCHED CANDIDATES ===
 
@@ -332,8 +332,6 @@ http://www.cssc.net.cn/n5/n18/index_6204_232.html
 http://www.cssc.net.cn/n5/n18/index_6204_233.html
 http://www.cssc.net.cn/n5/n18/index_6204_234.html
 http://www.cssc.net.cn/n5/n18/index_6204_235.html
-http://www.cssc.net.cn/n5/n18/index_6204_236.html
-http://www.cssc.net.cn/n5/n18/index_6204_237.html
 http://www.cssc.net.cn/n129/n131/index.html
   联系我们
 http://www.cssc.net.cn/n129/n133/index.html
