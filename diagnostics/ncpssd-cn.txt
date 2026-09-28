@@ -14,7 +14,7 @@ https://www.ncpssd.cn/topics/details?id=1107&wfColumn=1&resourceType=203
   研究阐释宣传 党的二十大和二十届 历次全会精神
 https://www.ncpssd.cn/journal/secure/details?params=akhTekVCU2g4WDZwRmtWY1FqbVZKdkVJUE8yTmpKZDFHMElFUUNUR0MyWT0
   农业资源与环境学报 2026
-  / 3
+  / 4
 https://www.ncpssd.cn/journal/secure/details?params=OXZteWZmTXFqWjlyZ2x3RzN1NEFFZkVJUE8yTmpKZDFHMElFUUNUR0MyWT0
   新闻与传播研究 2026
   / 8
@@ -23,7 +23,7 @@ https://www.ncpssd.cn/journal/secure/details?params=c3U0NzkwTXdjV21CbW5haVVFdmRr
   / 3
 https://www.ncpssd.cn/journal/secure/details?params=Q3BsZFdhdk0yMHZRL2t3S0UyYkFSUEVJUE8yTmpKZDFHMElFUUNUR0MyWT0
   世界教育信息 2026
-  / 6
+  / 7
 https://www.ncpssd.cn/journal/secure/details?params=Zm9qNFZMSGh0MHk3VzVVUGZrVWxmZkVJUE8yTmpKZDFHMElFUUNUR0MyWT0
   和平与发展 2026
   / 4
@@ -86,8 +86,6 @@ https://www.ncpssd.cn/message?id=18580
   国家哲学社会科学文献中心为贵阳市“两会”提供学术资源服务
 https://www.ncpssd.cn/message?id=22362
   习近平在美国总统特朗普举行的欢迎宴会上的祝酒辞
-https://www.ncpssd.cn/message?id=22361
-  习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴
 https://www.ncpssd.cn/message?id=22364
   习近平向全球发展倡议5周年高级别对话会致贺信
 https://www.ncpssd.cn/message?id=19563
@@ -96,6 +94,8 @@ https://www.ncpssd.cn/message?id=19564
   《在学术期刊中合理应用人工智能的倡议书》发布
 https://www.ncpssd.cn/message?id=18273
   国家哲学社会科学文献中心走进贵州省图书馆学会
+https://www.ncpssd.cn/message?id=22366
+  习近平就建设更高水平平安中国作出重要指示
 https://www.ncpssd.cn/js/jquery-1.11.1.min.js
   jquery-1.11.1.min.js
 https://www.ncpssd.cn/message?id=22363
@@ -161,6 +161,8 @@ https://www.ncpssd.cn/messages
 https://www.ncpssd.cn/message?id=22266
 https://www.ncpssd.cn/message?id=22261
 https://www.ncpssd.cn/message?id=22214
+https://www.ncpssd.cn/message?id=22366
+  习近平就建设更高水平平安中国作出重要指示
 https://www.ncpssd.cn/message?id=22364
   习近平向全球发展倡议5周年高级别对话会致贺信
 https://www.ncpssd.cn/message?id=22365
@@ -169,8 +171,6 @@ https://www.ncpssd.cn/message?id=22363
   习近平和彭丽媛同美国总统特朗普夫妇茶叙
 https://www.ncpssd.cn/message?id=22362
   习近平在美国总统特朗普举行的欢迎宴会上的祝酒辞
-https://www.ncpssd.cn/message?id=22361
-  习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴
 https://www.ncpssd.cn/message?id=19563
   国家哲学社会科学文献中心发布最受欢迎期刊报告
 https://www.ncpssd.cn/message?id=19564
@@ -189,7 +189,7 @@ https://www.ncpssd.cn/journal/secure/details?params=UVlMNktDNndzN1dkeFZaajBPMEw3
   / 5
 https://www.ncpssd.cn/journal/secure/details?params=akhTekVCU2g4WDZwRmtWY1FqbVZKdkVJUE8yTmpKZDFHMElFUUNUR0MyWT0
   农业资源与环境学报 2026
-  / 3
+  / 4
 https://www.ncpssd.cn/journal/secure/details?params=Zm9qNFZMSGh0MHk3VzVVUGZrVWxmZkVJUE8yTmpKZDFHMElFUUNUR0MyWT0
   和平与发展 2026
   / 4
@@ -198,7 +198,7 @@ https://www.ncpssd.cn/journal/secure/details?params=c3U0NzkwTXdjV21CbW5haVVFdmRr
   / 3
 https://www.ncpssd.cn/journal/secure/details?params=Q3BsZFdhdk0yMHZRL2t3S0UyYkFSUEVJUE8yTmpKZDFHMElFUUNUR0MyWT0
   世界教育信息 2026
-  / 6
+  / 7
 https://www.ncpssd.cn/newlist?type=0
   查看更多
 https://www.ncpssd.cn/Literature/articlelist?sType=0&search=KElLVEU9IuWbveWutuWuieWFqCIgT1IgSUtQWVRFPSLlm73lrrblronlhagiICBPUiBJS1NUPSLlm73lrrblronlhagiIE9SIElLRVQ9IuWbveWutuWuieWFqCIgT1IgSUtTRT0i5Zu95a625a6J5YWoIik=&searchname=6aKY5ZCNL+WFs+mUruivjT0i5Zu95a625a6J5YWoIg==&nav=0&nav=0&showBack=true
@@ -327,10 +327,10 @@ https://ft.ncpssd.cn/image/get/npssd/topic?url=img/1763085826266.jpg
 https://www.ncpssd.cn/images/word1.png
 https://ft.ncpssd.cn/image/get/qwcover/2026/8/83042X.jpg
 https://ft.ncpssd.cn/image/get/qwcover/2026/5/80458A.jpg
-https://ft.ncpssd.cn/image/get/qwcover/2026/3/94154B.jpg
+https://ft.ncpssd.cn/image/get/qwcover/2026/4/94154B.jpg
 https://ft.ncpssd.cn/image/get/qwcover/2026/4/82051X.jpg
 https://ft.ncpssd.cn/image/get/qwcover/2026/3/83432X.jpg
-https://ft.ncpssd.cn/image/get/qwcover/2026/6/82358X.jpg
+https://ft.ncpssd.cn/image/get/qwcover/2026/7/82358X.jpg
 https://www.ncpssd.cn/Literature/secure/articleinfo?params=NDhvOVdtM3BCUU1YNXFCMkliMHc3YVJoNVlVYlRVdENpUGZUcnZXNGs0eWpDWVFkQkcvQldELzd1QklhQlRpNFRNQWcxM2pTQWVKYTJLMjQya3Y4YmkvNkFsSkxOTzdLQ0V2NmY4anBUUFVmandYaC9HOVBBUTQ1N1hYemZ6SSs
 https://www.ncpssd.cn/Literature/secure/articleinfo?params=dldzQlRoVTBmVXFNUk43SkpWbTdnQmJaNXlpc1J3U0lrUzdKZSs4dVlXYVUrMS90aDVKckRYYnJzcWhZZUZORnkrQjdhR2xITGdsaVRJTjFlWDlYbTNYMGF0b0kwREdicXhtWkRySTB6UloxVUhxMUFFVllXTWJLVjJjci9VZGY&synUpdateType=2
 https://www.ncpssd.cn/Literature/secure/articleinfo?params=N0krUFVhSkRnMkxiZXdVSUpTa3BiMjE5MGpWQlNqTldxdno3cVIrNkNsdVUrMS90aDVKckRYYnJzcWhZZUZORnkrQjdhR2xITGdsaVRJTjFlWDlYbTNYMGF0b0kwREdicXhtWkRySTB6UloxVUhxMUFFVllXTWJLVjJjci9VZGY&synUpdateType=2
