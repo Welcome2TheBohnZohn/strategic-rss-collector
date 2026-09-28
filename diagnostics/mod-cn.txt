@@ -289,6 +289,8 @@ http://www.mod.gov.cn/gfbw/zt/index.html
   专题
 http://www.81.cn/xue-xi/102942.htm
   学习
+http://www.mod.gov.cn/gfbw/sy/jt_214028/16490050.html
+  空军某部开展飞行训练
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16488737.html
   海军某护卫舰支队开展海上多科目训练
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16488631.html
@@ -297,8 +299,6 @@ http://www.mod.gov.cn/gfbw/sy/jt_214028/16488414.html
   陆军某旅组织飞行训练
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16488412.html
   海军某大队开展海上训练
-http://www.mod.gov.cn/gfbw/sy/jt_214028/16487494.html
-  海军某支队组织气垫艇进出坞训练
 http://www.mod.gov.cn/gfbw/sy/tt_214026/16489950.html
   习近平就建设更高水平平安中国作出重要指示
 http://www.mod.gov.cn/gfbw/sy/rt/16489365.html
@@ -446,6 +446,8 @@ http://www.mod.gov.cn/gfbw/tp_214132/jsjs/index.html
   军事纪实
 http://www.mod.gov.cn/gfbw/tp_214132/tsjs/index.html
   图说军史
+http://www.mod.gov.cn/gfbw/tp_214132/16490054.html
+  陆军某部组织驾驶员复训
 http://www.mod.gov.cn/gfbw/tp_214132/16489406.html
   第76集团军某旅开展实弹射击训练
 http://www.mod.gov.cn/gfbw/tp_214132/16488743.html
@@ -454,8 +456,6 @@ http://www.mod.gov.cn/gfbw/tp_214132/16488716.html
   轮番起降 全时待战
 http://www.mod.gov.cn/gfbw/tp_214132/16488292.html
   海军航空兵某部开展多科目飞行训练
-http://www.mod.gov.cn/gfbw/tp_214132/16488272.html
-  陆军某部组织实弹射击训练
 http://www.gfbzb.gov.cn/
   全国征兵网
 http://www.xinhuanet.com/
@@ -495,11 +495,11 @@ http://www.mod.gov.cn/ysym_243892/Ibbgdtsy/index.html
 http://www.mod.gov.cn/template/tenant207/t179/img/env-header-xs-2026-1.jpg
 http://www.mod.gov.cn/template/tenant207/t179/img/logo.png
 http://www.mod.gov.cn/template/tenant207/t179/img/logo-i.png
+http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/09/29/16490050_18a96cfb2395d2f38cc9a0ef93acf5eb.jpg
 http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/09/24/16488737_7c9b4d4203c4746a94ecf5bc781a02b3.jpg
 http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/09/23/16488631_61a9d297fb2e4940fe85d202250f9168.jpg
 http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/09/23/16488414_993d0d7ca9d9d3ebbf9384d88da7b887.jpg
 http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/09/23/16488412_47c208f9ecdc68d07e1d2140b570e532.jpg
-http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/09/19/16487494_b667b916202e13faf49affd2f734f216.jpg
 http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/09/26/16489365_560708b25409be3e348e56938c8daf10.jpg
 http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/09/26/16489354_cc9d7b1942f0a508e5b360a11e050e1c.jpg
 http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/09/25/16489162_8353d390b2d1534995353c04712686cf.jpg
@@ -525,11 +525,11 @@ http://www.mod.gov.cn/gfbw/jmsd/_attachment/2026/03/15/16487735_bc38a4988ea40a04
 http://www.mod.gov.cn/gfbw/gfdy/_attachment/2026/09/20/16487706_b3976ec10633c6611756bb8b41668750.png
 http://www.mod.gov.cn/gfbw/gfjy_index/_attachment/2026/09/21/16487992_3cc305ac68f6ec6319831e88667054f6.png
 http://www.mod.gov.cn/gfbw/zt/_attachment/2026/08/20/16479151_1572281a51f5ab63ef863d55fdea15e0.jpg
+http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/09/29/16490054_f95ca6efddc2329344f4b19a0d0261c5.jpg
 http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/09/26/16489406_5a309921d744ed9edaf1f1380cec6c2c.jpg
 http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/09/24/16488743_0f52b819c4a906009bd6357348cec3ef.jpg
 http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/09/23/16488716_b40240e5b415fed1cd2148a8fa867c91.jpg
 http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/09/22/16488292_252cd8787ecf57ab2be3d10b4b42eee5.jpg
-http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/09/22/16488272_a2003d23c000fc25726232fe468880f0.jpg
 http://www.81.cn/page/report.htm
 http://www.mod.gov.cn/template/tenant207/t179/js/javascript.js?v=20224291
 http://www.mod.gov.cn/material/js/jquery.s2t.js?v=2022

@@ -1,79 +1,95 @@
 {
-  "issue_date": "2026-09-28",
+  "issue_date": "2026-09-29",
   "issue_pages": [
     {
       "paper_number": "01",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-28&paperName=zggfb&paperNumber=01",
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-29&paperName=zggfb&paperNumber=01",
       "links": 71,
-      "article_links": 3
+      "article_links": 4
     },
     {
       "paper_number": "02",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-28&paperName=zggfb&paperNumber=02",
-      "links": 73,
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-29&paperName=zggfb&paperNumber=02",
+      "links": 71,
       "article_links": 4
     },
     {
       "paper_number": "03",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-28&paperName=zggfb&paperNumber=03",
-      "links": 63,
-      "article_links": 1
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-29&paperName=zggfb&paperNumber=03",
+      "links": 69,
+      "article_links": 4
     },
     {
       "paper_number": "04",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-28&paperName=zggfb&paperNumber=04",
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-29&paperName=zggfb&paperNumber=04",
       "links": 69,
       "article_links": 4
     }
   ],
   "candidates": [
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-28&paperNumber=01&articleid=987457",
-      "anchor_title": "让烈士有名 助英魂“回家”"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-29&paperNumber=01&articleid=987529",
+      "anchor_title": "胜利之光照亮茫茫草原"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-28&paperNumber=01&articleid=987456",
-      "anchor_title": "军人本色，永不褪色"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-29&paperNumber=01&articleid=987528",
+      "anchor_title": "播撒革命火种 厚植家国情怀"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-28&paperNumber=01&articleid=987459",
-      "anchor_title": "淬火强能砺剑锋"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-29&paperNumber=01&articleid=987531",
+      "anchor_title": "拓宽岗位来源 提高安置质效"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-28&paperNumber=02&articleid=987463",
-      "anchor_title": "“这盛世因你们铸就，如你们所愿”"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-29&paperNumber=01&articleid=987532",
+      "anchor_title": "“红色浪漫”"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-28&paperNumber=02&articleid=987462",
-      "anchor_title": "童绘长征路 红心敬英雄"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-29&paperNumber=02&articleid=987519",
+      "anchor_title": "跨越山海的清凉与温暖"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-28&paperNumber=02&articleid=987465",
-      "anchor_title": "“在强军伟业中苦练本领”"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-29&paperNumber=02&articleid=987520",
+      "anchor_title": "军民墓相邻 鱼水情相依"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-28&paperNumber=02&articleid=987466",
-      "anchor_title": "固根本 强基础"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-29&paperNumber=02&articleid=987521",
+      "anchor_title": "抓住“关键少数” 激发“头雁效应”"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-28&paperNumber=03&articleid=987461",
-      "anchor_title": "做烈士家属永远的亲人"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-29&paperNumber=02&articleid=987522",
+      "anchor_title": "聘请专家团队靶向施训"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-28&paperNumber=04&articleid=987468",
-      "anchor_title": "多款前沿装备亮相英防务展"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-29&paperNumber=03&articleid=987533",
+      "anchor_title": "红军长征战斗精神培育的成功实践与启示"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-28&paperNumber=04&articleid=987469",
-      "anchor_title": "加拿大申请加入“联合远征军”"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-29&paperNumber=03&articleid=987534",
+      "anchor_title": "既要“知彼”，也要“让彼知”"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-28&paperNumber=04&articleid=987470",
-      "anchor_title": "日本防卫体系加速无人化转型"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-29&paperNumber=03&articleid=987535",
+      "anchor_title": "善积小胜为大胜"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-28&paperNumber=04&articleid=987471",
-      "anchor_title": "瑞典开启六代战机路线探索"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-29&paperNumber=03&articleid=987536",
+      "anchor_title": "创造经得起实践人民历史检验的实绩"
+    },
+    {
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-29&paperNumber=04&articleid=987524",
+      "anchor_title": "数据链：现代战争的“神经系统”"
+    },
+    {
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-29&paperNumber=04&articleid=987526",
+      "anchor_title": "欧洲自研防空系统补位“爱国者”"
+    },
+    {
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-29&paperNumber=04&articleid=987527",
+      "anchor_title": "美军列装新型手榴弹应对城市作战"
+    },
+    {
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-29&paperNumber=04&articleid=987525",
+      "anchor_title": "前沿技术"
     }
   ]
 }
