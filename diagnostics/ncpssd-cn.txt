@@ -6,7 +6,7 @@ Include regex: ncpssd\.cn/.+
 Include text regex: 
 
 Candidate links: 50
-All links discovered: 197
+All links discovered: 196
 
 === MATCHED CANDIDATES ===
 
@@ -84,8 +84,6 @@ https://www.ncpssd.cn/message?id=18622
   积极助力现代公共文化服务体系建设 ——国家哲学社会科学文献中心走进贵州省“两会”
 https://www.ncpssd.cn/message?id=18580
   国家哲学社会科学文献中心为贵阳市“两会”提供学术资源服务
-https://www.ncpssd.cn/message?id=22362
-  习近平在美国总统特朗普举行的欢迎宴会上的祝酒辞
 https://www.ncpssd.cn/message?id=22364
   习近平向全球发展倡议5周年高级别对话会致贺信
 https://www.ncpssd.cn/message?id=19563
@@ -98,8 +96,6 @@ https://www.ncpssd.cn/message?id=22366
   习近平就建设更高水平平安中国作出重要指示
 https://www.ncpssd.cn/js/jquery-1.11.1.min.js
   jquery-1.11.1.min.js
-https://www.ncpssd.cn/message?id=22363
-  习近平和彭丽媛同美国总统特朗普夫妇茶叙
 https://www.ncpssd.cn/css/jquery.hiSlider.css
   jquery.hiSlider.css
 https://www.ncpssd.cn/sso/getTokenCurrentUser?ssoClient=xwkEN
@@ -116,6 +112,10 @@ https://www.ncpssd.cn/Literature/ancientbooklistNew
   ancientbooklistNew
 https://www.ncpssd.cn/js/jquery.base64.js
   jquery.base64.js
+https://www.ncpssd.cn/message?id=22368
+  习近平给四川大学全体师生的回信
+https://www.ncpssd.cn/message?id=22365
+  习近平圆满结束对美国的国事访问
 
 === ALL DISCOVERED LINKS ===
 
@@ -161,16 +161,16 @@ https://www.ncpssd.cn/messages
 https://www.ncpssd.cn/message?id=22266
 https://www.ncpssd.cn/message?id=22261
 https://www.ncpssd.cn/message?id=22214
+https://www.ncpssd.cn/message?id=22368
+  习近平给四川大学全体师生的回信
+https://www.ncpssd.cn/message?id=22367
+  习近平给四川大学全体师生回信
 https://www.ncpssd.cn/message?id=22366
   习近平就建设更高水平平安中国作出重要指示
 https://www.ncpssd.cn/message?id=22364
   习近平向全球发展倡议5周年高级别对话会致贺信
 https://www.ncpssd.cn/message?id=22365
   习近平圆满结束对美国的国事访问
-https://www.ncpssd.cn/message?id=22363
-  习近平和彭丽媛同美国总统特朗普夫妇茶叙
-https://www.ncpssd.cn/message?id=22362
-  习近平在美国总统特朗普举行的欢迎宴会上的祝酒辞
 https://www.ncpssd.cn/message?id=19563
   国家哲学社会科学文献中心发布最受欢迎期刊报告
 https://www.ncpssd.cn/message?id=19564
@@ -242,8 +242,6 @@ https://www.ncpssd.cn/Literature/articlelist?sType=0&search=KElLVEU9IuaWsOi0qOeU
 https://www.ncpssd.cn/Literature/articlelist?sType=0&search=KElLVEU9IuS6uuW3peaZuuiDvSIgT1IgSUtQWVRFPSLkurrlt6Xmmbrog70iICBPUiBJS1NUPSLkurrlt6Xmmbrog70iIE9SIElLRVQ9IuS6uuW3peaZuuiDvSIgT1IgSUtTRT0i5Lq65bel5pm66IO9Iik=&searchname=6aKY5ZCNL+WFs+mUruivjT0i5Lq65bel5pm66IO9Ig==&nav=0&nav=0&showBack=true
   人工智能
 https://www.ncpssd.cn/topics/details?id=4&wfColumn=1&resourceType=203
-http://fz.people.com.cn/skygb/sk/index.php/Index/seach
-  国家社科基金项目...
 http://gjpc.nlc.cn/xlsworkbench/publish
   全国古籍普查登记...
 https://projects.iq.harvard.edu/chinesecbdb

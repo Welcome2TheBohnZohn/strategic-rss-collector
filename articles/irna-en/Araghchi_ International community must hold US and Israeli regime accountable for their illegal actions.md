@@ -1,4 +1,4 @@
-# Araghchi: International community must hold US and Israeli regime accountable for their illegal actions.l
+# Araghchi: International community must hold US and Israeli regime accountable for their illegal actions
 
 Published: 2026-09-28 20:39:35
 

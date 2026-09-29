@@ -6,7 +6,7 @@ Include regex: /gfbw/|/xwfyr/|/wzll/
 Include text regex: 
 
 Candidate links: 50
-All links discovered: 240
+All links discovered: 241
 
 === MATCHED CANDIDATES ===
 
@@ -16,50 +16,52 @@ http://www.mod.gov.cn/gfbw/fgwx/16482045.html
   中华人民共和国国防动员法
 http://www.mod.gov.cn/gfbw/fgwx/16444625.html
   中央军委政治工作部等6部门联合印发《关于做好边远艰苦地区和大龄未婚官兵婚恋服务工作的意见》
+http://www.mod.gov.cn/gfbw/gfdy/16490116.html
+  江苏省淮安市洪泽区把国防教育纳入党委理论学习中心组学习 抓住“关键少数” 激发“头雁效应”
+http://www.mod.gov.cn/gfbw/gfdy/16490111.html
+  广东省东莞市联升小学师生与小白杨哨所官兵的“薄荷膏情缘”感动人心——跨越山海的清凉与温暖
 http://www.mod.gov.cn/gfbw/qwfb/16489981.html
   烈士纪念日向人民英雄敬献花篮仪式9月30日上午举行 习近平等党和国家领导人将出席
-http://www.mod.gov.cn/gfbw/gfjy_index/16489848.html
-  江西省军地积极推进大中小幼国防教育一体化建设——打通“育人链” 跑好“接力赛”
-http://www.mod.gov.cn/gfbw/gfjy_index/16489834.html
-  烈士纪念日特别策划丨做烈士家属永远的亲人——军地各级关心关爱烈属的一组报道
-http://www.mod.gov.cn/gfbw/gfdy/16488824.html
-  天津市和平区新兵欢送会增设“家书寄情”活动 写下青春志 遥寄赤子心
+http://www.mod.gov.cn/gfbw/gfjy_index/16490109.html
+  贵州省桐梓县村民钟庆武一家三代守护无名红军烈士墓——军民墓相邻 鱼水情相依
+http://www.mod.gov.cn/gfbw/qwfb/16490186.html
+  中老两军班根机场联合保障和训练中心、中老友谊航空学院正式挂牌运行
+http://www.mod.gov.cn/gfbw/gffw/16490106.html
+  安徽省宣城市扎实做好退役士兵选岗工作 拓宽岗位来源 提高安置质效
+http://www.mod.gov.cn/gfbw/gfjy_index/16490127.html
+  四川汶川红军遗址守护者走进学校开展国防教育——“少年军校”传薪火
+http://www.mod.gov.cn/gfbw/wzll/16490114.html
+  辽宁省大连市甘井子区淬炼民兵分队实战硬功 聘请专家团队靶向施训
 http://www.mod.gov.cn/gfbw/gffw/16488523.html
   海口军代室以航空方式保障部分新兵跨海奔赴军营——空中通道增效率
 http://www.mod.gov.cn/gfbw/xwfyr/16488900.html
   国防部：欢迎大家参观纪念中国工农红军长征胜利90周年主题展览
+http://www.mod.gov.cn/gfbw/gfjy_index/16490129.html
+  海军士官学校锻造过硬教员队伍，让三尺讲台加速成为“教战高地”
 http://www.mod.gov.cn/gfbw/jsxd/16484704.html
   中老“和平列车”首次成体系运用无人智能设备开展联合卫勤训练
 http://www.mod.gov.cn/gfbw/sy/rt/16489365.html
   习近平和彭丽媛同美国总统特朗普夫妇共同参观美国国家档案馆
-http://www.mod.gov.cn/gfbw/qwfb/16489643.html
-  中国人民解放军南部战区位黄岩岛周边海空域组织海空联合演训
-http://www.mod.gov.cn/gfbw/wzll/16489821.html
-  新疆生产建设兵团军事部组织民兵装备仓库业务规范化试点培训
-http://www.mod.gov.cn/gfbw/gffw/16488519.html
-  济南军代室加大新兵运输保障跨区协调力度——全程服务暖兵心
 http://www.mod.gov.cn/gfbw/gffw/16469120.html
   速览！2026年军校招生政策解读，你想知道的都在这里→
-http://www.mod.gov.cn/gfbw/gfjy_index/16489840.html
-  只有4名战士的“山海哨所”里，“慢生活”充满“快节奏”
 http://www.mod.gov.cn/gfbw/jswj/16487981.html
   中国军队将参加东盟防长扩大会“三叉戟决心”实兵演习
 http://www.mod.gov.cn/gfbw/wzll/16487929.html
   探访陆军某边防旅二十连，品读官兵与六座界桩的故事
-http://www.mod.gov.cn/gfbw/wzll/16489842.html
-  弓满弦张 戈壁铸盾，空军某部官兵开展对空抗击训练
+http://www.mod.gov.cn/gfbw/wzll/16490122.html
+  西部战区陆军某旅以数据赋能助推战斗力建设转型升级
 http://www.mod.gov.cn/gfbw/jsxd/16480355.html
   中国船舶“艾琳娜”轮致信感谢海军第48批护航编队
 http://www.mod.gov.cn/gfbw/jmsd/16489678.html
   正告菲律宾：南海不是以“人道”之名肆意表演的戏台
-http://www.mod.gov.cn/gfbw/jmsd/16489551.html
-  永不褪色的“红飘带”——怎么看红军长征的伟大胜利
 http://www.mod.gov.cn/gfbw/sy/rt/16489162.html
   习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴
 http://www.mod.gov.cn/gfbw/jswj/16488353.html
   中国海军“吉祥方舟”号医院船结束访问毛里塔尼亚
 http://www.mod.gov.cn/gfbw/xwfyr/16488899.html
   北京香山论坛每一次对话倾听都为和平增添一分希望
+http://www.mod.gov.cn/gfbw/gfdy/16490107.html
+  山东省莒县桑园镇组织现役军人婚纱照公益拍摄活动
 http://www.mod.gov.cn/gfbw/qwfb/16489391.html
   习近平向全球发展倡议5周年高级别对话会致贺信
 http://www.mod.gov.cn/gfbw/jsxd/16481085.html
@@ -74,9 +76,7 @@ http://www.mod.gov.cn/gfbw/qwfb/16489957.html
   中国海军第48批护航编队结束对缅甸友好访问
 http://www.mod.gov.cn/gfbw/jswj/16486796.html
   中国海军“吉祥方舟”号医院船抵达毛里塔尼亚
-http://www.mod.gov.cn/gfbw/wzll/16489844.html
-  北部战区海军在奥帆中心码头组织舰艇开放活动
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16489950.html
+http://www.mod.gov.cn/gfbw/qwfb/16490166.html
   习近平就建设更高水平平安中国作出重要指示
 http://www.mod.gov.cn/gfbw/qwfb/16488893.html
   国防部：菲方碰瓷卖惨改变不了侵权挑衅本质
@@ -92,12 +92,10 @@ http://www.mod.gov.cn/gfbw/sy/rt/16489000.html
   2026年9月国防部例行记者会文字实录
 http://www.mod.gov.cn/gfbw/qwfb/16488990.html
   2026年9月国防部例行记者会文字实录
+http://www.mod.gov.cn/gfbw/wzll/16490125.html
+  空军某部组织复杂气象条件下空中加油训练
 http://www.mod.gov.cn/gfbw/jsxd/16484796.html
   中新“海上合作-2026”联合演习结束
-http://www.mod.gov.cn/gfbw/gfdy/16488826.html
-  内蒙古五原县人武部 推行清单化工作机制
-http://www.mod.gov.cn/gfbw/gfdy/16488525.html
-  这里别有洞天——探访北京浩天救援队队部
 http://www.mod.gov.cn/gfbw/gffw/16488819.html
   2026年下半年新兵运输工作全面启动
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16488737.html
@@ -110,6 +108,8 @@ http://www.mod.gov.cn/gfbw/sy/rt/16489089.html
   习近平同美国总统特朗普小范围交流
 http://www.mod.gov.cn/gfbw/fgwx/16448582.html
   中华人民共和国民族团结进步促进法
+http://www.mod.gov.cn/gfbw/jmsd/16487735.html
+  始终以正确政绩观担当作为履职尽责
 
 === ALL DISCOVERED LINKS ===
 
@@ -299,8 +299,10 @@ http://www.mod.gov.cn/gfbw/sy/jt_214028/16488414.html
   陆军某旅组织飞行训练
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16488412.html
   海军某大队开展海上训练
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16489950.html
-  习近平就建设更高水平平安中国作出重要指示
+http://www.mod.gov.cn/gfbw/sy/tt_214026/16490165.html
+  习近平给四川大学全体师生回信
+http://www.mod.gov.cn/gfbw/qwfb/16490162.html
+  （全文）
 http://www.mod.gov.cn/gfbw/sy/rt/16489365.html
   习近平和彭丽媛同美国总统特朗普夫妇共同参观美国国家档案馆
 http://www.mod.gov.cn/gfbw/sy/rt/16489354.html
@@ -313,12 +315,12 @@ http://www.mod.gov.cn/gfbw/sy/rt/16489000.html
   2026年9月国防部例行记者会文字实录
 http://www.mod.gov.cn/gfbw/qwfb/16489981.html
   烈士纪念日向人民英雄敬献花篮仪式9月30日上午举行 习近平等党和国家领导人将出席
+http://www.mod.gov.cn/gfbw/qwfb/16490166.html
+  习近平就建设更高水平平安中国作出重要指示
 http://www.mod.gov.cn/gfbw/qwfb/16489391.html
   习近平向全球发展倡议5周年高级别对话会致贺信
 http://www.mod.gov.cn/gfbw/qwfb/16489951.html
   习近平结束对美国的国事访问回到北京
-http://www.mod.gov.cn/gfbw/qwfb/16489128.html
-  习近平同美国总统特朗普会谈
 http://www.mod.gov.cn/gfbw/qwfb/16489956.html
   张升民会见王戟同志先进事迹报告团成员并讲话
 http://www.mod.gov.cn/gfbw/qwfb/16488990.html
@@ -327,10 +329,10 @@ http://www.mod.gov.cn/gfbw/qwfb/16488893.html
   国防部：菲方碰瓷卖惨改变不了侵权挑衅本质
 http://www.mod.gov.cn/gfbw/qwfb/16489964.html
   “时代楷模”王戟同志先进事迹报告会在京举行
+http://www.mod.gov.cn/gfbw/qwfb/16490186.html
+  中老两军班根机场联合保障和训练中心、中老友谊航空学院正式挂牌运行
 http://www.mod.gov.cn/gfbw/qwfb/16489957.html
   中国海军第48批护航编队结束对缅甸友好访问
-http://www.mod.gov.cn/gfbw/qwfb/16489643.html
-  中国人民解放军南部战区位黄岩岛周边海空域组织海空联合演训
 http://www.mod.gov.cn/gfbw/jswj/16489422.html
   中国海军“吉祥方舟”号医院船抵达塞内加尔
 http://www.mod.gov.cn/gfbw/jswj/16488353.html
@@ -341,12 +343,12 @@ http://www.mod.gov.cn/gfbw/jswj/16486796.html
   中国海军“吉祥方舟”号医院船抵达毛里塔尼亚
 http://www.mod.gov.cn/gfbw/wzll/16487929.html
   探访陆军某边防旅二十连，品读官兵与六座界桩的故事
-http://www.mod.gov.cn/gfbw/wzll/16489844.html
-  北部战区海军在奥帆中心码头组织舰艇开放活动
-http://www.mod.gov.cn/gfbw/wzll/16489842.html
-  弓满弦张 戈壁铸盾，空军某部官兵开展对空抗击训练
-http://www.mod.gov.cn/gfbw/wzll/16489821.html
-  新疆生产建设兵团军事部组织民兵装备仓库业务规范化试点培训
+http://www.mod.gov.cn/gfbw/wzll/16490125.html
+  空军某部组织复杂气象条件下空中加油训练
+http://www.mod.gov.cn/gfbw/wzll/16490122.html
+  西部战区陆军某旅以数据赋能助推战斗力建设转型升级
+http://www.mod.gov.cn/gfbw/wzll/16490114.html
+  辽宁省大连市甘井子区淬炼民兵分队实战硬功 聘请专家团队靶向施训
 http://www.mod.gov.cn/gfbw/jsxd/16484796.html
   中新“海上合作-2026”联合演习结束
 http://www.mod.gov.cn/gfbw/jsxd/16484704.html
@@ -384,12 +386,12 @@ http://cbs.81.cn/
 https://weibo.com/u/5611549371
 http://www.mod.gov.cn/gfbw/gffw/16469120.html
   速览！2026年军校招生政策解读，你想知道的都在这里→
+http://www.mod.gov.cn/gfbw/gffw/16490106.html
+  安徽省宣城市扎实做好退役士兵选岗工作 拓宽岗位来源 提高安置质效
 http://www.mod.gov.cn/gfbw/gffw/16488819.html
   2026年下半年新兵运输工作全面启动
 http://www.mod.gov.cn/gfbw/gffw/16488523.html
   海口军代室以航空方式保障部分新兵跨海奔赴军营——空中通道增效率
-http://www.mod.gov.cn/gfbw/gffw/16488519.html
-  济南军代室加大新兵运输保障跨区协调力度——全程服务暖兵心
 http://www.mod.gov.cn/gfbw/fgwx/16482045.html
   中华人民共和国国防动员法
 http://www.mod.gov.cn/gfbw/fgwx/16482016.html
@@ -402,28 +404,28 @@ http://www.mod.gov.cn/gfbw/jmsd/index.html
   军媒视点
 http://www.mod.gov.cn/gfbw/jmsd/16487735.html
   始终以正确政绩观担当作为履职尽责
+http://www.mod.gov.cn/gfbw/jmsd/16490119.html
+  既要“知彼”，也要“让彼知”
 http://www.mod.gov.cn/gfbw/jmsd/16489814.html
   军人本色，永不褪色
 http://www.mod.gov.cn/gfbw/jmsd/16489678.html
   正告菲律宾：南海不是以“人道”之名肆意表演的戏台
-http://www.mod.gov.cn/gfbw/jmsd/16489551.html
-  永不褪色的“红飘带”——怎么看红军长征的伟大胜利
 http://www.mod.gov.cn/gfbw/gfdy/16487706.html
   云南省贡山县人武部结对帮扶独龙江乡马库村
-http://www.mod.gov.cn/gfbw/gfdy/16488826.html
-  内蒙古五原县人武部 推行清单化工作机制
-http://www.mod.gov.cn/gfbw/gfdy/16488824.html
-  天津市和平区新兵欢送会增设“家书寄情”活动 写下青春志 遥寄赤子心
-http://www.mod.gov.cn/gfbw/gfdy/16488525.html
-  这里别有洞天——探访北京浩天救援队队部
+http://www.mod.gov.cn/gfbw/gfdy/16490116.html
+  江苏省淮安市洪泽区把国防教育纳入党委理论学习中心组学习 抓住“关键少数” 激发“头雁效应”
+http://www.mod.gov.cn/gfbw/gfdy/16490111.html
+  广东省东莞市联升小学师生与小白杨哨所官兵的“薄荷膏情缘”感动人心——跨越山海的清凉与温暖
+http://www.mod.gov.cn/gfbw/gfdy/16490107.html
+  山东省莒县桑园镇组织现役军人婚纱照公益拍摄活动
 http://www.mod.gov.cn/gfbw/gfjy_index/16487992.html
   多地开展全民国防教育月系列活动一瞥
-http://www.mod.gov.cn/gfbw/gfjy_index/16489848.html
-  江西省军地积极推进大中小幼国防教育一体化建设——打通“育人链” 跑好“接力赛”
-http://www.mod.gov.cn/gfbw/gfjy_index/16489840.html
-  只有4名战士的“山海哨所”里，“慢生活”充满“快节奏”
-http://www.mod.gov.cn/gfbw/gfjy_index/16489834.html
-  烈士纪念日特别策划丨做烈士家属永远的亲人——军地各级关心关爱烈属的一组报道
+http://www.mod.gov.cn/gfbw/gfjy_index/16490129.html
+  海军士官学校锻造过硬教员队伍，让三尺讲台加速成为“教战高地”
+http://www.mod.gov.cn/gfbw/gfjy_index/16490127.html
+  四川汶川红军遗址守护者走进学校开展国防教育——“少年军校”传薪火
+http://www.mod.gov.cn/gfbw/gfjy_index/16490109.html
+  贵州省桐梓县村民钟庆武一家三代守护无名红军烈士墓——军民墓相邻 鱼水情相依
 http://www.81.cn/zt/2026nzt/zmxsdgmjr_252984/index.html
   最美新时代革命军人
 http://www.81.cn/zt/2026nzt/lyyxfcl/index.html
