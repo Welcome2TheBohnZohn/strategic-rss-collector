@@ -6,7 +6,7 @@ Include regex: /gfbw/|/xwfyr/|/wzll/
 Include text regex: 
 
 Candidate links: 50
-All links discovered: 241
+All links discovered: 242
 
 === MATCHED CANDIDATES ===
 
@@ -44,6 +44,8 @@ http://www.mod.gov.cn/gfbw/sy/rt/16489365.html
   习近平和彭丽媛同美国总统特朗普夫妇共同参观美国国家档案馆
 http://www.mod.gov.cn/gfbw/gffw/16469120.html
   速览！2026年军校招生政策解读，你想知道的都在这里→
+http://www.mod.gov.cn/gfbw/qwfb/16490223.html
+  中国海警位中国台湾岛以东海域依法开展常态化执法巡查
 http://www.mod.gov.cn/gfbw/jswj/16487981.html
   中国军队将参加东盟防长扩大会“三叉戟决心”实兵演习
 http://www.mod.gov.cn/gfbw/wzll/16487929.html
@@ -72,8 +74,6 @@ http://www.mod.gov.cn/gfbw/qwfb/16489956.html
   张升民会见王戟同志先进事迹报告团成员并讲话
 http://www.mod.gov.cn/gfbw/qwfb/16489964.html
   “时代楷模”王戟同志先进事迹报告会在京举行
-http://www.mod.gov.cn/gfbw/qwfb/16489957.html
-  中国海军第48批护航编队结束对缅甸友好访问
 http://www.mod.gov.cn/gfbw/jswj/16486796.html
   中国海军“吉祥方舟”号医院船抵达毛里塔尼亚
 http://www.mod.gov.cn/gfbw/qwfb/16490166.html
@@ -119,8 +119,7 @@ http://www.mod.gov.cn/zjlm/wzdt_226173/index.html
   网站地图
 http://www.mod.gov.cn/zjlm/ssjgym/index.html
   搜索
-http://www.81.cn/zt/2026nzt/jj2026nqglh/index.html
-  同心奋进“十五五” 跃马扬鞭启新程——聚焦2026全国两会
+http://www.81.cn/zt/2026nzt/fjxzcjgxsdqzzhrmghgcl77zn/index.html
 http://www.mod.gov.cn
   首页
 http://www.mod.gov.cn/gfbw/gc/index.html
@@ -331,8 +330,8 @@ http://www.mod.gov.cn/gfbw/qwfb/16489964.html
   “时代楷模”王戟同志先进事迹报告会在京举行
 http://www.mod.gov.cn/gfbw/qwfb/16490186.html
   中老两军班根机场联合保障和训练中心、中老友谊航空学院正式挂牌运行
-http://www.mod.gov.cn/gfbw/qwfb/16489957.html
-  中国海军第48批护航编队结束对缅甸友好访问
+http://www.mod.gov.cn/gfbw/qwfb/16490223.html
+  中国海警位中国台湾岛以东海域依法开展常态化执法巡查
 http://www.mod.gov.cn/gfbw/jswj/16489422.html
   中国海军“吉祥方舟”号医院船抵达塞内加尔
 http://www.mod.gov.cn/gfbw/jswj/16488353.html
@@ -436,6 +435,8 @@ http://www.81.cn/zt/2026nzt/tykpzsktkjhkbmtxjsj/index.html
   铁翼鲲鹏 制胜空天——空军航空兵某团先进事迹
 http://www.81.cn/zt/2026nzt/fxqxjzzdbzhd/index.html
   防汛抢险救灾·子弟兵在行动
+http://www.81.cn/zt/2026nzt/jj2026nqglh/index.html
+  同心奋进“十五五” 跃马扬鞭启新程——聚焦2026全国两会
 http://www.mod.gov.cn/gfbw/tp_214132/tbtj_214138/index.html
   特别推荐
 http://www.mod.gov.cn/gfbw/tp_214132/zgjr/index.html
@@ -494,7 +495,7 @@ http://www.mod.gov.cn/material/fonts/icomoon.svg?v3lc3l
 http://www.mod.gov.cn/material/js/es5-sham.min.js
 http://www.mod.gov.cn/material/js/es5-shim.min.js
 http://www.mod.gov.cn/ysym_243892/Ibbgdtsy/index.html
-http://www.mod.gov.cn/template/tenant207/t179/img/env-header-xs-2026-1.jpg
+http://www.mod.gov.cn/template/tenant207/t179/img/env-header-xs-2026-10.jpg
 http://www.mod.gov.cn/template/tenant207/t179/img/logo.png
 http://www.mod.gov.cn/template/tenant207/t179/img/logo-i.png
 http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/09/29/16490050_18a96cfb2395d2f38cc9a0ef93acf5eb.jpg

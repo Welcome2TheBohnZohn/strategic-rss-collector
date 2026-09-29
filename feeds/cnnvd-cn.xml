@@ -1,62 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Tue, 29 Sep 2026 06:03:15 +0000</lastBuildDate><item><title>CNNVD-2026-87934757 - Project MONAI MONAI 反序列化注入漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-87934757</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-87934757</guid><pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate><description>Project MONAI MONAI 反序列化注入漏洞
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Tue, 29 Sep 2026 13:13:09 +0000</lastBuildDate><item><title>CNNVD-2026-89330314 - DeepSeek Harness 路径遍历漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-89330314</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-89330314</guid><pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate><description>DeepSeek Harness 路径遍历漏洞
+危害等级: 低危
+收录时间：2026-09-28 | 更新时间: 2026-09-29 15:59:50
+CNNVD编号: CNNVD-2026-89330314</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-89330314&lt;/p&gt;&lt;pre&gt;DeepSeek Harness 路径遍历漏洞
+危害等级: 低危
+收录时间：2026-09-28 | 更新时间: 2026-09-29 15:59:50
+CNNVD编号: CNNVD-2026-89330314&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-15023799 - Apache Artemis 代码注入漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-15023799</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-15023799</guid><pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate><description>Apache Artemis 代码注入漏洞
 危害等级: 高危
-收录时间：2026-09-27 | 更新时间: 2026-09-28 16:46:25
-CNNVD编号: CNNVD-2026-87934757</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-87934757&lt;/p&gt;&lt;pre&gt;Project MONAI MONAI 反序列化注入漏洞
+收录时间：2026-09-28 | 更新时间: 2026-09-29 15:59:37
+CNNVD编号: CNNVD-2026-15023799</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-15023799&lt;/p&gt;&lt;pre&gt;Apache Artemis 代码注入漏洞
 危害等级: 高危
-收录时间：2026-09-27 | 更新时间: 2026-09-28 16:46:25
-CNNVD编号: CNNVD-2026-87934757&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-39201812 - Sylius 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-39201812</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-39201812</guid><pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate><description>Sylius 输入验证错误漏洞
-危害等级: 高危
-收录时间：2026-09-27 | 更新时间: 2026-09-28 16:45:56
-CNNVD编号: CNNVD-2026-39201812</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-39201812&lt;/p&gt;&lt;pre&gt;Sylius 输入验证错误漏洞
-危害等级: 高危
-收录时间：2026-09-27 | 更新时间: 2026-09-28 16:45:56
-CNNVD编号: CNNVD-2026-39201812&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-37863549 - Project MONAI MONAI 反序列化注入漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-37863549</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-37863549</guid><pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate><description>Project MONAI MONAI 反序列化注入漏洞
-危害等级: 高危
-收录时间：2026-09-27 | 更新时间: 2026-09-28 16:46:25
-CNNVD编号: CNNVD-2026-37863549</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-37863549&lt;/p&gt;&lt;pre&gt;Project MONAI MONAI 反序列化注入漏洞
-危害等级: 高危
-收录时间：2026-09-27 | 更新时间: 2026-09-28 16:46:25
-CNNVD编号: CNNVD-2026-37863549&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-31925304 - edgelesssys contrast 处理逻辑错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-31925304</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-31925304</guid><pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate><description>edgelesssys contrast 处理逻辑错误漏洞
-危害等级: 中危
-收录时间：2026-09-27 | 更新时间: 2026-09-28 17:06:14
-CNNVD编号: CNNVD-2026-31925304</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-31925304&lt;/p&gt;&lt;pre&gt;edgelesssys contrast 处理逻辑错误漏洞
-危害等级: 中危
-收录时间：2026-09-27 | 更新时间: 2026-09-28 17:06:14
-CNNVD编号: CNNVD-2026-31925304&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-97523642 - edgelesssys contrast 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-97523642</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-97523642</guid><pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate><description>edgelesssys contrast 授权问题漏洞
-危害等级: 高危
-收录时间：2026-09-27 | 更新时间: 2026-09-28 17:06:14
-CNNVD编号: CNNVD-2026-97523642</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-97523642&lt;/p&gt;&lt;pre&gt;edgelesssys contrast 授权问题漏洞
-危害等级: 高危
-收录时间：2026-09-27 | 更新时间: 2026-09-28 17:06:14
-CNNVD编号: CNNVD-2026-97523642&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-39767944 - edgelesssys contrast 加密问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-39767944</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-39767944</guid><pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate><description>edgelesssys contrast 加密问题漏洞
+收录时间：2026-09-28 | 更新时间: 2026-09-29 15:59:37
+CNNVD编号: CNNVD-2026-15023799&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-92207699 - DeepSeek Harness 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-92207699</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-92207699</guid><pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate><description>DeepSeek Harness 输入验证错误漏洞
+危害等级: 低危
+收录时间：2026-09-28 | 更新时间: 2026-09-29 15:59:50
+CNNVD编号: CNNVD-2026-92207699</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-92207699&lt;/p&gt;&lt;pre&gt;DeepSeek Harness 输入验证错误漏洞
+危害等级: 低危
+收录时间：2026-09-28 | 更新时间: 2026-09-29 15:59:50
+CNNVD编号: CNNVD-2026-92207699&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-21724461 - Dayforce Payroll SQL注入漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-21724461</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-21724461</guid><pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate><description>Dayforce Payroll SQL注入漏洞
 危害等级: 超危
-收录时间：2026-09-27 | 更新时间: 2026-09-28 17:06:15
-CNNVD编号: CNNVD-2026-39767944</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-39767944&lt;/p&gt;&lt;pre&gt;edgelesssys contrast 加密问题漏洞
+收录时间：2026-09-28 | 更新时间: 2026-09-29 15:59:48
+CNNVD编号: CNNVD-2026-21724461</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-21724461&lt;/p&gt;&lt;pre&gt;Dayforce Payroll SQL注入漏洞
 危害等级: 超危
-收录时间：2026-09-27 | 更新时间: 2026-09-28 17:06:15
-CNNVD编号: CNNVD-2026-39767944&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-22593084 - edgelesssys contrast 代码注入漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22593084</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22593084</guid><pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate><description>edgelesssys contrast 代码注入漏洞
-危害等级: 高危
-收录时间：2026-09-27 | 更新时间: 2026-09-28 17:06:15
-CNNVD编号: CNNVD-2026-22593084</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22593084&lt;/p&gt;&lt;pre&gt;edgelesssys contrast 代码注入漏洞
-危害等级: 高危
-收录时间：2026-09-27 | 更新时间: 2026-09-28 17:06:15
-CNNVD编号: CNNVD-2026-22593084&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-31159588 - edgelesssys contrast 后置链接漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-31159588</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-31159588</guid><pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate><description>edgelesssys contrast 后置链接漏洞
-危害等级: 高危
-收录时间：2026-09-27 | 更新时间: 2026-09-28 17:06:15
-CNNVD编号: CNNVD-2026-31159588</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-31159588&lt;/p&gt;&lt;pre&gt;edgelesssys contrast 后置链接漏洞
-危害等级: 高危
-收录时间：2026-09-27 | 更新时间: 2026-09-28 17:06:15
-CNNVD编号: CNNVD-2026-31159588&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-93700352 - coolLabs Coolify 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-93700352</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-93700352</guid><pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate><description>coolLabs Coolify 授权问题漏洞
+收录时间：2026-09-28 | 更新时间: 2026-09-29 15:59:48
+CNNVD编号: CNNVD-2026-21724461&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-33710250 - Dayforce Payroll 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-33710250</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-33710250</guid><pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate><description>Dayforce Payroll 跨站脚本漏洞
 危害等级: 中危
-收录时间：2026-09-27 | 更新时间: 2026-09-28 17:06:49
-CNNVD编号: CNNVD-2026-93700352</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-93700352&lt;/p&gt;&lt;pre&gt;coolLabs Coolify 授权问题漏洞
+收录时间：2026-09-28 | 更新时间: 2026-09-29 15:59:48
+CNNVD编号: CNNVD-2026-33710250</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-33710250&lt;/p&gt;&lt;pre&gt;Dayforce Payroll 跨站脚本漏洞
 危害等级: 中危
-收录时间：2026-09-27 | 更新时间: 2026-09-28 17:06:49
-CNNVD编号: CNNVD-2026-93700352&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-49611279 - Citrix NetScaler Application Delivery Controller 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-49611279</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-49611279</guid><pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate><description>Citrix NetScaler Application Delivery Controller 安全漏洞
+收录时间：2026-09-28 | 更新时间: 2026-09-29 15:59:48
+CNNVD编号: CNNVD-2026-33710250&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-37907473 - Bimser Solution Software Trade eBA Plus Document and Workflow Management System 任意文件上传漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-37907473</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-37907473</guid><pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate><description>Bimser Solution Software Trade eBA Plus Document and Workflow Management System 任意文件上传漏洞
+危害等级: 高危
+收录时间：2026-09-28 | 更新时间: 2026-09-29 15:59:41
+CNNVD编号: CNNVD-2026-37907473</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-37907473&lt;/p&gt;&lt;pre&gt;Bimser Solution Software Trade eBA Plus Document and Workflow Management System 任意文件上传漏洞
+危害等级: 高危
+收录时间：2026-09-28 | 更新时间: 2026-09-29 15:59:41
+CNNVD编号: CNNVD-2026-37907473&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-53267587 - GNU glibc 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-53267587</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-53267587</guid><pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate><description>GNU glibc 缓冲区错误漏洞
+危害等级: 低危
+收录时间：2026-09-28 | 更新时间: 2026-09-29 16:04:10
+CNNVD编号: CNNVD-2026-53267587</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-53267587&lt;/p&gt;&lt;pre&gt;GNU glibc 缓冲区错误漏洞
+危害等级: 低危
+收录时间：2026-09-28 | 更新时间: 2026-09-29 16:04:10
+CNNVD编号: CNNVD-2026-53267587&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-39821072 - D-Link DI-8400 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-39821072</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-39821072</guid><pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate><description>D-Link DI-8400 缓冲区错误漏洞
+危害等级: 高危
+收录时间：2026-09-28 | 更新时间: 2026-09-29 15:59:43
+CNNVD编号: CNNVD-2026-39821072</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-39821072&lt;/p&gt;&lt;pre&gt;D-Link DI-8400 缓冲区错误漏洞
+危害等级: 高危
+收录时间：2026-09-28 | 更新时间: 2026-09-29 15:59:43
+CNNVD编号: CNNVD-2026-39821072&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-32342541 - Fast FAC1900R 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-32342541</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-32342541</guid><pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate><description>Fast FAC1900R 缓冲区错误漏洞
 危害等级: 超危
-收录时间：2026-09-27 | 更新时间: 2026-09-28 17:06:52
-CNNVD编号: CNNVD-2026-49611279</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-49611279&lt;/p&gt;&lt;pre&gt;Citrix NetScaler Application Delivery Controller 安全漏洞
+收录时间：2026-09-28 | 更新时间: 2026-09-29 16:00:01
+CNNVD编号: CNNVD-2026-32342541</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-32342541&lt;/p&gt;&lt;pre&gt;Fast FAC1900R 缓冲区错误漏洞
 危害等级: 超危
-收录时间：2026-09-27 | 更新时间: 2026-09-28 17:06:52
-CNNVD编号: CNNVD-2026-49611279&lt;/pre&gt;</content:encoded></item></channel></rss>
+收录时间：2026-09-28 | 更新时间: 2026-09-29 16:00:01
+CNNVD编号: CNNVD-2026-32342541&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-49509727 - Fast FAC1200R 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-49509727</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-49509727</guid><pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate><description>Fast FAC1200R 缓冲区错误漏洞
+危害等级: 高危
+收录时间：2026-09-28 | 更新时间: 2026-09-29 16:00:01
+CNNVD编号: CNNVD-2026-49509727</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-49509727&lt;/p&gt;&lt;pre&gt;Fast FAC1200R 缓冲区错误漏洞
+危害等级: 高危
+收录时间：2026-09-28 | 更新时间: 2026-09-29 16:00:01
+CNNVD编号: CNNVD-2026-49509727&lt;/pre&gt;</content:encoded></item></channel></rss>

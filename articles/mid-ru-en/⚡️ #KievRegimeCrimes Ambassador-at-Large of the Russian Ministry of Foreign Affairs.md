@@ -1,46 +1,39 @@
 # ⚡️ #KievRegimeCrimes Ambassador-at-Large of the Russian Ministry of Foreign Affairs
 
-Published: 2026-09-28 12:59:59
+Published: 2026-09-29 12:00:44
 
-Source: https://t.me/MFARussia/32417
+Source: https://t.me/MFARussia/32448
 
 #KievRegimeCrimes
 ⚡️
 Ambassador-at-Large of the Russian Ministry of Foreign Affairs
 Rodion Miroshnik
 :
-PHOTO FACTS & EVIDENCE of crimes committed by Ukrainian armed forces over the week of
-September 21 – September 27, 2026
-:
-▪️
-September 21
-– a UAV strike on a parking area for civilian passenger vehicles in Severodonetsk, LPR.
-▪️
-September 21
-– an FPV drone strike on a civilian truck in Shebekino, Belgorod Region.
-▪️
-September 21
-– a UAV strike on a tow truck in the Yasinovataya District, DPR.
-▪️
-September 22
-– an artillery strike on a private home in Novaya Kakhovka, Kherson Region.
-▪️
-September 25
-– a UAV strike on a café in Askania-Nova, Kherson Region.
-Two young women, born in 2004 and 2006, were killed, and two other people were seriously injured.
-▪️
-September 25
-– a UAV strike on a shopping centre in Lugansk, LPR.
-▪️
-September 25
-– a UAV strike on a shop in Novaya Kakhovka, Kherson Region.
-▪️
-September 25
-– a fixed-wing UAV strike on an apartment building in Ulyanovsk, Ulyanovsk Region.
-Eight civilians, including one child, were injured.
-▪️
-September 26
-– an FPV drone strike on a civilian car in Golovchino, Belgorod Region.
-▪️
-September 26
-– shelling of residential areas in Kakhovka, Kherson Region.
+My visit to Alyoshki 15 months ago
+(June 2025 video)
+The situation was dire then already
+. By that point, the city had already been without electricity, a centralised water supply or communications for two years.
+Every attempt to restore these services was met with
+fresh attacks by Ukrainian militants
+on substations, water supply facilities and emergency repair crews. Ukrainian militants shelled and bombed the city every day.
+Drones constantly circling overhead forced people to dash from one shelter to another
+. Burnt-out civilian cars lined the roads – all the result of Ukrainian militants’
+“efforts and care”
+for the city’s civilian residents.
+Even then, getting into the city meant
+racing along a battered road at 150 kilometres per hour
+to outrun a drone.
+☝️
+Since then, the Kiev militants’ tactics remain unchanged
+. Their European handlers simply provided the money and supplied vast quantities of more advanced drones, making a complete drone siege of the city possible.
+👉
+Zelensky and his clique then came up with the idea of blaming Russia for the siege imposed by Ukraine and the abuse of civilians
+. This is precisely the cynicism we are witnessing today!
+Since my visit, the population of Alyoshki has fallen from 5,000-6,000 to 1,300
+. People have moved to other towns and cities on Russian territory.
+Yet the neo-Nazis continue to torment those who remain
+, blocking both the delivery of essential supplies and any possibility of leaving the city. Only now, all this is accompanied by
+Sibiga’s deceitful lamentations
+from the UN General Assembly rostrum that
+“Russia is to blame for everything”
+!
