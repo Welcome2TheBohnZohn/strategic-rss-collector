@@ -6,7 +6,7 @@ Include regex: /gfbw/fgwx/bps/
 Include text regex: 
 
 Candidate links: 28
-All links discovered: 178
+All links discovered: 179
 
 === MATCHED CANDIDATES ===
 
@@ -293,8 +293,10 @@ http://www.mod.gov.cn/gfbw/fgwx/bps/4850789.html
   《平等 发展 共享：新中国70年妇女事业的发展与进步》白皮书发表 2019-09-20 10:34
 http://www.mod.gov.cn/gfbw/fgwx/bps/4846424.html
   《新时代的中国国防》白皮书（全文） 2019-07-24 11:24
-http://www.mod.gov.cn/gfbw/qwfb/16489981.html
-  烈士纪念日向人民英雄敬献花篮仪式9月30日上午举行 习近平等党和国家领导人将出席
+http://www.mod.gov.cn/gfbw/qwfb/16490420.html
+  习近平给四川大学全体师生回信
+http://www.mod.gov.cn/gfbw/qwfb/16490162.html
+  全文
 http://www.mod.gov.cn/gfbw/qwfb/16490166.html
   习近平就建设更高水平平安中国作出重要指示
 http://www.mod.gov.cn/gfbw/qwfb/16489391.html

@@ -6,7 +6,7 @@ Include regex: /gfbw/fgwx/flfg/
 Include text regex: 
 
 Candidate links: 31
-All links discovered: 171
+All links discovered: 172
 
 === MATCHED CANDIDATES ===
 
@@ -303,8 +303,10 @@ http://www.mod.gov.cn/gfbw/fgwx/flfg/4927099.html
   关于调整规范军人家属随军及落户有关政策意见 2022-11-27 13:46
 http://www.mod.gov.cn/gfbw/fgwx/flfg/16126326.html
   中共中央　国务院　中央军委印发《关于加强和改进新时代全民国防教育工作的意见》 2022-09-01 18:22
-http://www.mod.gov.cn/gfbw/qwfb/16489981.html
-  烈士纪念日向人民英雄敬献花篮仪式9月30日上午举行 习近平等党和国家领导人将出席
+http://www.mod.gov.cn/gfbw/qwfb/16490420.html
+  习近平给四川大学全体师生回信
+http://www.mod.gov.cn/gfbw/qwfb/16490162.html
+  全文
 http://www.mod.gov.cn/gfbw/qwfb/16490166.html
   习近平就建设更高水平平安中国作出重要指示
 http://www.mod.gov.cn/gfbw/qwfb/16489391.html
