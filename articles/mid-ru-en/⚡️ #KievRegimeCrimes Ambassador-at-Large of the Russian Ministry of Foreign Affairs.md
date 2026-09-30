@@ -1,39 +1,32 @@
 # ⚡️ #KievRegimeCrimes Ambassador-at-Large of the Russian Ministry of Foreign Affairs
 
-Published: 2026-09-29 12:00:44
+Published: 2026-09-30 10:02:52
 
-Source: https://t.me/MFARussia/32448
+Source: https://t.me/MFARussia/32460
 
 #KievRegimeCrimes
 ⚡️
 Ambassador-at-Large of the Russian Ministry of Foreign Affairs
 Rodion Miroshnik
 :
-My visit to Alyoshki 15 months ago
-(June 2025 video)
-The situation was dire then already
-. By that point, the city had already been without electricity, a centralised water supply or communications for two years.
-Every attempt to restore these services was met with
-fresh attacks by Ukrainian militants
-on substations, water supply facilities and emergency repair crews. Ukrainian militants shelled and bombed the city every day.
-Drones constantly circling overhead forced people to dash from one shelter to another
-. Burnt-out civilian cars lined the roads – all the result of Ukrainian militants’
-“efforts and care”
-for the city’s civilian residents.
-Even then, getting into the city meant
-racing along a battered road at 150 kilometres per hour
-to outrun a drone.
-☝️
-Since then, the Kiev militants’ tactics remain unchanged
-. Their European handlers simply provided the money and supplied vast quantities of more advanced drones, making a complete drone siege of the city possible.
-👉
-Zelensky and his clique then came up with the idea of blaming Russia for the siege imposed by Ukraine and the abuse of civilians
-. This is precisely the cynicism we are witnessing today!
-Since my visit, the population of Alyoshki has fallen from 5,000-6,000 to 1,300
-. People have moved to other towns and cities on Russian territory.
-Yet the neo-Nazis continue to torment those who remain
-, blocking both the delivery of essential supplies and any possibility of leaving the city. Only now, all this is accompanied by
-Sibiga’s deceitful lamentations
-from the UN General Assembly rostrum that
-“Russia is to blame for everything”
-!
+💬
+Over the past week
+, Kiev regime militants focused their attacks on medical personnel, emergency workers and volunteers. They repeatedly targeted medical teams in the Belgorod and Zaporozhye regions.
+These crimes
+resulted in the death of one medical worker and injuries to seven others.
+In the Zaporozhye Region, a terrorist attack on a civilian vehicle delivering humanitarian aid
+killed three volunteers from the Omsk Region and injured another.
+The highest numbers of civilian casualties over the past week were recorded in
+the Belgorod, Zaporozhye, Kursk and Kherson regions and the LPR
+.
+Kiev’s armed groups continued their criminal strategy of “energy terror”
+in the Belgorod, Zaporozhye, Kursk and Kherson regions, the LPR and DPR, and the Krasnodar Territory. Ukrainian strikes on electrical substations left communities in the Krasnoyaruzhsky and Grayvoronsky districts of the Belgorod Region without electricity. A drone strike also damaged a radiation monitoring station at
+the Zaporozhskaya Nuclear Power Plant
+.
+On September 21-27
+, shelling by Ukrainian neo-Nazis resulted in
+315 civilian casualties: 274 civilians were injured, including nine children, and 41 people were killed.
+Over the seven days
+, Ukrainian militants fired
+at least 8,033 munitions
+at civilian facilities on Russian territory.

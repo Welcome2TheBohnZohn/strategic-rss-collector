@@ -6,7 +6,7 @@ Include regex: /gfbw/fgwx/bps/
 Include text regex: 
 
 Candidate links: 28
-All links discovered: 179
+All links discovered: 180
 
 === MATCHED CANDIDATES ===
 
@@ -293,18 +293,20 @@ http://www.mod.gov.cn/gfbw/fgwx/bps/4850789.html
   《平等 发展 共享：新中国70年妇女事业的发展与进步》白皮书发表 2019-09-20 10:34
 http://www.mod.gov.cn/gfbw/fgwx/bps/4846424.html
   《新时代的中国国防》白皮书（全文） 2019-07-24 11:24
+http://www.mod.gov.cn/gfbw/qwfb/16490617.html
+  烈士纪念日向人民英雄敬献花篮仪式在京隆重举行 习近平等党和国家领导人出席
+http://www.mod.gov.cn/gfbw/qwfb/16490470.html
+  习近平同文莱苏丹哈桑纳尔就中文建交35周年互致贺电
+http://www.mod.gov.cn/gfbw/qwfb/16490480.html
+  《求是》杂志发表习近平总书记重要文章
+http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16490485.html
+  《加强普惠性、基础性、兜底性民生建设》
 http://www.mod.gov.cn/gfbw/qwfb/16490420.html
   习近平给四川大学全体师生回信
 http://www.mod.gov.cn/gfbw/qwfb/16490162.html
   全文
 http://www.mod.gov.cn/gfbw/qwfb/16490166.html
   习近平就建设更高水平平安中国作出重要指示
-http://www.mod.gov.cn/gfbw/qwfb/16489391.html
-  习近平向全球发展倡议5周年高级别对话会致贺信
-http://www.mod.gov.cn/gfbw/qwfb/16489951.html
-  习近平结束对美国的国事访问回到北京
-http://www.mod.gov.cn/gfbw/qwfb/16489956.html
-  张升民会见王戟同志先进事迹报告团成员并讲话
 http://www.mod.gov.cn/gfbw/spbb_214126/16477140.html
   何为承诺
 http://www.mod.gov.cn/gfbw/spbb_214126/16489730.html
@@ -313,14 +315,14 @@ http://www.mod.gov.cn/gfbw/spbb_214126/16477755.html
   制胜丨第六集《联战联胜》
 http://www.mod.gov.cn/gfbw/spbb_214126/16477542.html
   制胜丨第五集《东风浩荡》
+http://www.mod.gov.cn/gfbw/tp_214132/16490504.html
+  陆军某旅远程火力分队开展机动训练
 http://www.mod.gov.cn/gfbw/tp_214132/16490309.html
   陆军某旅组织飞行训练
 http://www.mod.gov.cn/gfbw/tp_214132/16490054.html
   陆军某部组织驾驶员复训
 http://www.mod.gov.cn/gfbw/tp_214132/16489406.html
   第76集团军某旅开展实弹射击训练
-http://www.mod.gov.cn/gfbw/tp_214132/16488743.html
-  武警第二机动总队某支队开展直升机飞行训练
 http://www.81.cn/zt/2026nzt/zmxsdgmjr_252984/index.html
   最美新时代革命军人
 http://www.81.cn/zt/2026nzt/lyyxfcl/index.html
@@ -363,10 +365,10 @@ http://www.mod.gov.cn/gfbw/spbb_214126/_attachment/2026/08/01/16477140_ba9a3c83c
 http://www.mod.gov.cn/gfbw/spbb_214126/_attachment/2026/09/27/16489730_388ae563760c06a2f624155edae15fbd.png
 http://www.mod.gov.cn/gfbw/spbb_214126/_attachment/2026/08/05/16477755_5c078af8f3bd896ef4ad982041dab3cd.png
 http://www.mod.gov.cn/gfbw/spbb_214126/_attachment/2026/08/03/16477542_87e7021cea34300bceb8960d75c69600.jpg
+http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/09/30/16490504_eaf1ce9e12669ece2cb21835fc024fb7.jpg
 http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/09/30/16490309_9caf107da1c7448d8d6a27b5fce8d756.jpg
 http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/09/29/16490054_f95ca6efddc2329344f4b19a0d0261c5.jpg
 http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/09/26/16489406_5a309921d744ed9edaf1f1380cec6c2c.jpg
-http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/09/24/16488743_0f52b819c4a906009bd6357348cec3ef.jpg
 http://www.mod.gov.cn/gfbw/zt/_attachment/2026/08/20/16479151_1572281a51f5ab63ef863d55fdea15e0.jpg
 http://www.mod.gov.cn/gfbw/zt/_attachment/2026/08/20/16479152_e288fd2a49976c3aa3a1cb924e979e1f.jpg
 http://www.mod.gov.cn/gfbw/zt/_attachment/2026/08/20/16479153_4879da2b5c1eb6346b673dd88c16f8c6.jpg
