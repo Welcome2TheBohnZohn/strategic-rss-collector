@@ -1,0 +1,7 @@
+# Baghaei: Nihilism in US governance poses grave threat to human life and civilization
+
+Published: 2026-10-01 00:00:00
+
+Source: https://en.mfa.gov.ir/portal/newsview/795355
+
+In a post on X, Iranian Foreign Ministry Spokesman Esmail Baghaei warned that “structural nihilism” in the US system of governance poses a grave threat to human life and civilization, criticizing indifference to the consequences of military aggression against Iran. "In the end we all die anyway, so it doesn't matter." This is no conventional political statement; it echoes Albert Camus’s Caligula at the exact moment existential 'absurdity' curdles into tyranny - where the 'inevitability of death' is used to strip the living of their value. Because life ends, Caligula reasoned, the suffering of others is inconsequential. The terrifying difference today is leverage. Caligula had only the primitive tools of Rome; modern nihilism commands vast stockpiles of mass destruction. The greatest geopolitical danger is not a leader confronting mortality. It is a system that uses the inevitability of death to justify indifference to human suffering. “We all die” is a fact; “so it doesn't matter” is the leap where existential dread becomes a political weapon. Those who think they can appease Caligula forget that the absurd recognizes no rule or contract. Appeasement buys no safety - it merely negotiates the order of the victims.
