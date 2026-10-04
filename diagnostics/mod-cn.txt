@@ -28,8 +28,6 @@ http://www.mod.gov.cn/gfbw/qwfb/16490430.html
   中国人民解放军南部战区位中国黄岩岛领海领空及周边区域组织战备警巡
 http://www.mod.gov.cn/gfbw/gffw/16490106.html
   安徽省宣城市扎实做好退役士兵选岗工作 拓宽岗位来源 提高安置质效
-http://www.mod.gov.cn/gfbw/jmsd/16490735.html
-  解放军报社论：坚定信心 接续奋斗 忠实履行党和人民赋予的使命任务
 http://www.mod.gov.cn/gfbw/sy/rt/16490689.html
   习近平等党和国家领导人出席庆祝中华人民共和国成立77周年招待会
 http://www.mod.gov.cn/gfbw/gffw/16488523.html
@@ -44,8 +42,12 @@ http://www.mod.gov.cn/gfbw/sy/rt/16489365.html
   习近平和彭丽媛同美国总统特朗普夫妇共同参观美国国家档案馆
 http://www.mod.gov.cn/gfbw/wzll/16490416.html
   第82集团军某旅“渡海英雄连”——能攻善战 勇当“主攻”
+http://www.mod.gov.cn/gfbw/gfjy_index/16491056.html
+  军报记者寻根行丨走进一座座烈士陵园，感悟革命军人的生死观
 http://www.mod.gov.cn/gfbw/gffw/16469120.html
   速览！2026年军校招生政策解读，你想知道的都在这里→
+http://www.mod.gov.cn/gfbw/sy/jt_214028/16491063.html
+  欢度佳节之际，让我们向每一位坚守战位的中国军人致敬
 http://www.mod.gov.cn/gfbw/qwfb/16490470.html
   习近平同文莱苏丹哈桑纳尔就中文建交35周年互致贺电
 http://www.mod.gov.cn/gfbw/jswj/16487981.html
@@ -54,8 +56,6 @@ http://www.mod.gov.cn/gfbw/wzll/16487929.html
   探访陆军某边防旅二十连，品读官兵与六座界桩的故事
 http://www.mod.gov.cn/gfbw/gfjy_index/16490411.html
   寻根铸魂向百年·重走长征路｜险棋中蕴藏的胜战密码
-http://www.mod.gov.cn/gfbw/gfjy_index/16490412.html
-  警报长鸣 警示常在——近期多地试鸣防空警报面面观
 http://www.mod.gov.cn/gfbw/sy/rt/16489162.html
   习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴
 http://www.mod.gov.cn/gfbw/jswj/16488353.html
@@ -288,6 +288,8 @@ http://www.mod.gov.cn/gfbw/zt/index.html
   专题
 http://www.81.cn/xue-xi/102942.htm
   学习
+http://www.mod.gov.cn/gfbw/sy/jt_214028/16491063.html
+  欢度佳节之际，让我们向每一位坚守战位的中国军人致敬
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16490050.html
   空军某部开展飞行训练
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16488737.html
@@ -296,8 +298,6 @@ http://www.mod.gov.cn/gfbw/sy/jt_214028/16488631.html
   陆军某旅开展飞行训练
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16488414.html
   陆军某旅组织飞行训练
-http://www.mod.gov.cn/gfbw/sy/jt_214028/16488412.html
-  海军某大队开展海上训练
 http://www.mod.gov.cn/gfbw/sy/tt_214026/16490615.html
   庆祝中华人民共和国成立77周年招待会在京举行 习近平发表重要讲话
 http://www.mod.gov.cn/gfbw/qwfb/16490624.html
@@ -407,12 +407,12 @@ http://www.mod.gov.cn/gfbw/jmsd/index.html
   军媒视点
 http://www.mod.gov.cn/gfbw/jmsd/16490931.html
   解放军报评论员：推进祖国统一大业
+http://www.mod.gov.cn/gfbw/jmsd/16491054.html
+  八一锐评丨强军有我 祖国放心
 http://www.mod.gov.cn/gfbw/jmsd/16490838.html
   解放军报评论员：一步一步扎实往前走
 http://www.mod.gov.cn/gfbw/jmsd/16490839.html
   八一锐评丨枕戈待旦 守护安宁
-http://www.mod.gov.cn/gfbw/jmsd/16490735.html
-  解放军报社论：坚定信心 接续奋斗 忠实履行党和人民赋予的使命任务
 http://www.mod.gov.cn/gfbw/gfdy/16487706.html
   云南省贡山县人武部结对帮扶独龙江乡马库村
 http://www.mod.gov.cn/gfbw/gfdy/16490401.html
@@ -423,12 +423,12 @@ http://www.mod.gov.cn/gfbw/gfdy/16490386.html
   奖牌为何跟着他们走——湖北省宜昌市点军区人武部树立和践行正确政绩观记事
 http://www.mod.gov.cn/gfbw/gfjy_index/16490411.html
   寻根铸魂向百年·重走长征路｜险棋中蕴藏的胜战密码
+http://www.mod.gov.cn/gfbw/gfjy_index/16491056.html
+  军报记者寻根行丨走进一座座烈士陵园，感悟革命军人的生死观
 http://www.mod.gov.cn/gfbw/gfjy_index/16490936.html
   军训，是青年学生迈入校园的一堂“必修课”
 http://www.mod.gov.cn/gfbw/gfjy_index/16490409.html
   传承英烈精神 争当英雄传人
-http://www.mod.gov.cn/gfbw/gfjy_index/16490412.html
-  警报长鸣 警示常在——近期多地试鸣防空警报面面观
 http://www.81.cn/zt/2026nzt/zmxsdgmjr_252984/index.html
   最美新时代革命军人
 http://www.81.cn/zt/2026nzt/lyyxfcl/index.html
@@ -502,11 +502,11 @@ http://www.mod.gov.cn/ysym_243892/Ibbgdtsy/index.html
 http://www.mod.gov.cn/template/tenant207/t179/img/env-header-xs-2026-10.jpg
 http://www.mod.gov.cn/template/tenant207/t179/img/logo.png
 http://www.mod.gov.cn/template/tenant207/t179/img/logo-i.png
+http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/10/04/16491063_c0349694862858e82b92c2a2c22676bf.jpg
 http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/09/29/16490050_18a96cfb2395d2f38cc9a0ef93acf5eb.jpg
 http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/09/24/16488737_7c9b4d4203c4746a94ecf5bc781a02b3.jpg
 http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/09/23/16488631_61a9d297fb2e4940fe85d202250f9168.jpg
 http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/09/23/16488414_993d0d7ca9d9d3ebbf9384d88da7b887.jpg
-http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/09/23/16488412_47c208f9ecdc68d07e1d2140b570e532.jpg
 http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/09/30/16490689_0809147ba6d09262717754c0d1eae4ec.jpg
 http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/09/30/16490629_1398e6b19e14de285270c3f22b195f94.JPG
 http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/09/26/16489365_560708b25409be3e348e56938c8daf10.jpg
