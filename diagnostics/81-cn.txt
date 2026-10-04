@@ -6,7 +6,7 @@ Include regex: 81\.cn/.+/(content|article|index).*|81\.cn/.*\d{6,}
 Include text regex: 
 
 Candidate links: 50
-All links discovered: 528
+All links discovered: 529
 
 === MATCHED CANDIDATES ===
 
@@ -16,6 +16,8 @@ http://www.81.cn/yw_208727/16490925.html
   携手砺精兵 并肩卫和平——专访中方参加俄罗斯“中部-2026”战略演习部队指挥员
 http://www.81.cn/tp_207717/jdt_207718/16489934.html
   学习卡·长征百问（84）丨长征时期，中共中央、中革军委出版发行的唯一报纸是什么？
+http://www.81.cn/ss_208539/16491106.html
+  【青春华章·长征路上山河新】一条标语守护91年，柯渡人用红色记忆孕育红火产业
 http://www.81.cn/jx_208569/16490442.html
   中国中共党史学会、国防大学政治学院联合举办纪念红军长征胜利90周年学术研讨会
 http://www.81.cn/xx_207779/16491022.html
@@ -72,16 +74,12 @@ http://www.81.cn/zq_208553/16487753.html
   考点设在驻训场，北部战区陆军“送考上门”巡回服务获点赞
 http://www.81.cn/hj_208557/16490698.html
   只有4名战士的“山海哨所”里，“慢生活”充满“快节奏”
-http://www.81.cn/pl_208541/16490233.html
-  新华时评·高质量推进城市更新｜把新房子建好、老房子改好
 http://www.81.cn/wh_208575/16480769.html
   我赴南苏丹（朱巴）维和步兵营通过联合国第三季度装备核查
 http://www.81.cn/js_208592/16491042.html
   细节·长征丨断肠不改平生志！他把最后一滴血洒在湘江岸边
 http://www.81.cn/js_208592/16490872.html
   追光的你｜跨越红色“大门” 续写永不褪色的“星火”故事
-http://www.81.cn/js_208592/16490813.html
-  胜利的回信丨三尺讲台连着长征路，这些回信写下传承的模样
 http://www.81.cn/yd_208600/16490984.html
   读懂70余年家国蝶变内在逻辑，探寻中国式现代化制度密码
 http://www.81.cn/wz_208577/16463518.html
@@ -102,6 +100,8 @@ http://www.81.cn/lq_208565/jdt_208566/16488318.html
   联勤保障部队各医院开展“联勤军医老区行”系列巡诊活动
 http://www.81.cn/jx_208569/16489698.html
   2026年“未来·军事科技”国际学员科技周在长沙举行
+http://www.81.cn/bg_208596/16491093.html
+  挺立山巅写忠诚——西藏军区某部查果拉哨所官兵巡逻见闻
 http://www.81.cn/wh_208575/16487183.html
   我赴阿卜耶伊维和直升机分队通过联合国第三季度装备核查
 http://www.81.cn/yd_208600/16490981.html
@@ -301,6 +301,10 @@ http://www.81.cn/syjdt/16490856.html
   全国各地共庆新中国77周年华诞
 http://www.81.cn/syjdt/16490855.html
   一场升旗仪式，为何成为万千人的集体奔赴
+http://www.81.cn/xx_207779/16491111.html
+  一见·读懂总书记的丰收祝愿
+http://www.81.cn/xx_207779/16491110.html
+  学习手记 | 过一个风清气正的节日
 http://www.81.cn/xx_207779/16491077.html
   学习新语·家国同心丨做堂堂正正、光荣自豪的中国人
 http://www.81.cn/xx_207779/16491069.html
@@ -311,12 +315,10 @@ http://www.81.cn/xx_207779/16491022.html
   看图学习·追光的你丨“人世间最深层、最持久的情感” 总书记这样谈爱国情怀
 http://www.81.cn/xx_207779/16491021.html
   ‍‍一见·在历史深处，读懂中美相向而行的力量
-http://www.81.cn/xx_207779/16490995.html
-  学习手记｜爱国，是人世间最深层、最持久的情感
-http://www.81.cn/xx_207779/16490993.html
-  追光的你丨“侨批”，不止是阿嬷的情书
 http://tv.81.cn/jbmtd_211970/16491070.html
 https://weibo.com/jfjb
+http://www.81.cn/byds_206407/byds_206410/16490553.html
+  小“方块”劲不小
 http://www.81.cn/byds_206407/byds_206410/16489639.html
   迎风踏雪 巡逻在祖国边防线上
 http://www.81.cn/byds_206407/byds_206410/16489083.html
@@ -327,8 +329,6 @@ http://www.81.cn/byds_206407/byds_206410/16489287.html
   铸牢共同体 中华一家亲丨军网记者北疆行：岁月绵延 同心永续
 http://www.81.cn/byds_206407/byds_206410/16486630.html
   第十三届北京香山论坛精彩片段
-http://www.81.cn/fyr/16490672.html
-  外交部：中俄将不断开创两国关系更加广阔的未来
 http://www.81.cn/fyr/16490668.html
   外交部：中方祝贺俄罗斯成功举行第九届国家杜马选举
 http://www.81.cn/fyr/16490667.html
@@ -349,6 +349,10 @@ http://www.81.cn/fyr/16489516.html
   外交部发言人就人工智能问题答记者问
 http://www.81.cn/fyr/16489288.html
   中国海警局新闻发言人发表谈话
+http://www.81.cn/fyr/16488953.html
+  国防部敦促日方停止在南海问题上搬弄是非
+http://www.81.cn/ss_208539/16491106.html
+  【青春华章·长征路上山河新】一条标语守护91年，柯渡人用红色记忆孕育红火产业
 http://www.81.cn/ss_208539/16491082.html
   身边的红色地标丨香山革命纪念馆：“赶考”宝藏守初心
 http://www.81.cn/ss_208539/16491081.html
@@ -369,8 +373,6 @@ http://www.81.cn/ss_208539/16491016.html
   长征精神新画卷丨陕西吴起：从长征落脚点到绿色家园
 http://www.81.cn/ss_208539/16491039.html
   应急管理部视频调度国庆假期安全防范工作
-http://www.81.cn/ss_208539/16491014.html
-  朝鲜进行中程战略导弹发射训练
 http://www.81.cn/zt/2023nzt/xxgcxjpxsdzgtsshzysxztjy/index.html
 http://www.81.cn/zt/2023nzt/flsxjjbnmbjkjcsjyljd/index.html
 http://www.81.cn/bz_208549/jdt_208550/16490913.html
@@ -553,6 +555,8 @@ http://www.81.cn/nb_208573/16472872.html
   周娟：我的“蓝盔”征途
 http://www.81.cn/bg_208596/jdt_208597/16489521.html
   边关月见证了一代代军人接续坚守
+http://www.81.cn/bg_208596/16491093.html
+  挺立山巅写忠诚——西藏军区某部查果拉哨所官兵巡逻见闻
 http://www.81.cn/bg_208596/16490974.html
   我们在墨脱雨林，把边关的祝福寄向万家
 http://www.81.cn/bg_208596/16490842.html
@@ -561,8 +565,6 @@ http://www.81.cn/bg_208596/16489178.html
   中国边关丨此心安处是团圆
 http://www.81.cn/bg_208596/16489177.html
   战友们就是我的亲人，守在这里也是一种“团圆”
-http://www.81.cn/bg_208596/16488024.html
-  南沙某守备部队：暖心服务点亮守礁生活
 http://www.81.cn/zt/2022nzt/lbqdzgjr/index.html
 http://www.81.cn/zt/2023nzt/jzpgzs_244884/index.html
 http://www.81.cn/ll_208543/jdt_208544/16462484.html
@@ -579,6 +581,8 @@ http://www.81.cn/ll_208543/16487898.html
   淬火要论丨为将就要保家国
 http://www.81.cn/pl_208541/jdt_208542/16486445.html
   漫评丨因一座雕塑就破了大防，日本右翼到底在怕什么？
+http://www.81.cn/pl_208541/16491095.html
+  加快建设强大国内市场
 http://www.81.cn/pl_208541/16490861.html
   人民论坛网评 | 红土生金 铺就老区共富路
 http://www.81.cn/pl_208541/16490669.html
@@ -587,8 +591,6 @@ http://www.81.cn/pl_208541/16490521.html
   强军论坛丨纪念是为了更好出征
 http://www.81.cn/pl_208541/16490502.html
   八一锐评｜传承英雄气 奋进强军路
-http://www.81.cn/pl_208541/16490233.html
-  新华时评·高质量推进城市更新｜把新房子建好、老房子改好
 http://www.81.cn/wh_208575/jdt_208576/16487611.html
   我赴阿卜耶伊维和直升机分队高标准通过联合国第三季度装备核查
 http://www.81.cn/wh_208575/16490392.html
@@ -603,6 +605,8 @@ http://www.81.cn/wh_208575/16480769.html
   我赴南苏丹（朱巴）维和步兵营通过联合国第三季度装备核查
 http://www.81.cn/js_208592/jdt_208593/16491040.html
   胜利的方向丨一块木板，见证红军队伍铁一般的纪律
+http://www.81.cn/js_208592/16491107.html
+  细节·长征丨“十七勇士”，竟然是18人？
 http://www.81.cn/js_208592/16491042.html
   细节·长征丨断肠不改平生志！他把最后一滴血洒在湘江岸边
 http://www.81.cn/js_208592/16491041.html
@@ -611,8 +615,6 @@ http://www.81.cn/js_208592/16490897.html
   文物里的长征 | 浴血湘江，血战中的生死抉择
 http://www.81.cn/js_208592/16490872.html
   追光的你｜跨越红色“大门” 续写永不褪色的“星火”故事
-http://www.81.cn/js_208592/16490813.html
-  胜利的回信丨三尺讲台连着长征路，这些回信写下传承的模样
 http://www.81.cn/wh_208594/jdt_208595/16490149.html
   布面油画丨大国重器
 http://www.81.cn/wh_208594/16488327.html
@@ -764,6 +766,8 @@ http://www.81.cn/bq_208581/16484560.html
   兵器大观丨一些特色鲜明、打破常规的步枪
 http://www.81.cn/kt/jdt_208603/16490871.html
   从血染湘江到逐梦太空 九十载长征精神薪火相传
+http://www.81.cn/kt/16491092.html
+  习近平总书记关切事｜观天十载探苍穹
 http://www.81.cn/kt/16490764.html
   神舟二十三号航天员视频祝福祖国 祝福中国航天事业再创辉煌
 http://www.81.cn/kt/16489277.html
@@ -772,8 +776,6 @@ http://www.81.cn/kt/16489231.html
   中国空间站喜迎建成后第四个中秋节 神舟二十三号航天员乘组遥送家国祝福
 http://www.81.cn/kt/16489179.html
   我国成功发射遥感四十号04组卫星
-http://www.81.cn/kt/16488719.html
-  我国成功发射卫星互联网低轨26组卫星
 http://www.81.cn/wj_208604/jdt_208605/16472973.html
   法国陆军加快推动无人作战力量建设
 http://www.81.cn/wj_208604/16489427.html
@@ -822,12 +824,10 @@ http://www.81.cn/js_208585/16487676.html
   父亲的赤诚与担当、我的热爱与向往，都镌刻在苍茫壮阔的雪山之间
 http://www.81.cn/js_208585/16482687.html
   军娃夏令营，体验别样暑假生活
-http://eng.chinamil.com.cn/2025xb/M_251449/P_251468/16490636.html
-  Naval aircraft in flight training
-http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16490631.html
-  Xi calls for firm confidence, solid steps for China's national rejuvenation
-http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16490432.html
-  Xi pays tribute to national heroes on Martyrs' Day
+http://eng.chinamil.com.cn/2025xb/M_251449/P_251468/16490635.html
+  Long-Range Modular MLRS opens fire in training
+http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16491100.html
+  Chinese naval hospital ship Auspicious Ark arrives in Guinea for medical mission
 http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16490657.html
   6th Chinese Peacekeeping Helicopter Contingent to UNISFA passes military capability assessment
 http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16490651.html
@@ -836,14 +836,16 @@ http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16490436.html
   The PLA Southern Theater Command Conducts Combat Readiness Patrols in the Territorial Sea and Airspace of China's Huangyan Dao and Its Surrounding Areas
 http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16490514.html
   China Coast Guard conducts law-enforcement patrols around China's Huangyan Dao
+http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16490276.html
+  China Coast Guard patrols waters east of Taiwan Island
 http://eng.chinamil.com.cn/2025xb/B/16489976.html
   OUTPOST | The Devil Still Dances: Cute Faces Masking Bloody Fangs
+http://eng.chinamil.com.cn/2025xb/B/16491087.html
+  Chemical Defense Troops Conduct Flamethrower Training Assessment
 http://eng.chinamil.com.cn/2025xb/B/16490888.html
   Multiple types of equipment in live-fire training
 http://eng.chinamil.com.cn/2025xb/B/16490597.html
   PLA Air Force Xi'an Flying College Conducts Tactical Combat Casualty Care Exercise
-http://eng.chinamil.com.cn/2025xb/B/16490638.html
-  Naval aircraft in flight training
 http://www.people.com.cn/
   人民网
 http://www.xinhuanet.com/
@@ -978,7 +980,7 @@ http://www.81.cn/template/tenant207/t1774/img/jfjbcbs.png
 http://www.81.cn/template/tenant207/t1774/img/jh-145-70.jpg
 http://www.81.cn/template/tenant207/t1774/img/newspaper-video1.jpg
 http://www.81.cn/template/tenant207/t1774/img/jfjb-weibo1.jpg
-http://www.81.cn/byds_206407/byds_206410/_attachment/2026/10/03/16491012_a431d38fdba245bfc9f13bf5c721e14d.jpg
+http://www.81.cn/byds_206407/byds_206410/_attachment/2026/10/04/16490553_adc6a7fa6e451a7e5e1fe4ce4121e77b.jpg
 http://www.81.cn/wzsy/Banner_207703/ljy/_attachment/2023/04/14/16217016_2535c332a2450a31c2e8310a2331320d.png
 http://www.81.cn/wzsy/Banner_207703/ljy/_attachment/2023/08/31/16217015_5171ca201142e820b17b49869c704001.jpg
 http://www.81.cn/bz_208549/jdt_208550/_attachment/2026/10/02/16490913_fcbfb56096c9cc156a7eae62e3cf4407.jpg
@@ -1034,7 +1036,7 @@ http://www.81.cn/wj_208604/jdt_208605/_attachment/2026/07/10/16472973_7b13b521e9
 http://www.81.cn/jy_208587/jdt_208588/_attachment/2026/09/21/16487939_565353f8a5af7298df75b218e3f98dfa.jpg
 http://www.81.cn/lb_208583/jdt_208584/_attachment/2026/09/29/16490142_eacedfd19d422b27ccd42d37ef48600e.jpg
 http://www.81.cn/js_208585/jdt_208586/_attachment/2026/05/26/16469323_1259bdded6780f0acacbf574df89b3e3.jpg
-http://www.81.cn/ChinaMilitary/tjtw/_attachment/2026/10/03/16490996_3b4db552bacabf9c361a709865306be0.jpg
+http://www.81.cn/ChinaMilitary/tjtw/_attachment/2026/10/04/16491105_9164630629e9436b40619a847e996db0.jpg
 http://mail.chinamil.com.cn/
 http://www.81.cn/template/tenant207/t829/css/footer.css
 http://www.81.cn/template/tenant207/t1774/js/javascript.js?v=3.0.3
