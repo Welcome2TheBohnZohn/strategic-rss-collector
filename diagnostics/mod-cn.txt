@@ -24,8 +24,6 @@ http://www.mod.gov.cn/gfbw/gfdy/16490386.html
   奖牌为何跟着他们走——湖北省宜昌市点军区人武部树立和践行正确政绩观记事
 http://www.mod.gov.cn/gfbw/sy/tt_214026/16490615.html
   庆祝中华人民共和国成立77周年招待会在京举行 习近平发表重要讲话
-http://www.mod.gov.cn/gfbw/qwfb/16490430.html
-  中国人民解放军南部战区位中国黄岩岛领海领空及周边区域组织战备警巡
 http://www.mod.gov.cn/gfbw/gffw/16490106.html
   安徽省宣城市扎实做好退役士兵选岗工作 拓宽岗位来源 提高安置质效
 http://www.mod.gov.cn/gfbw/sy/rt/16490689.html
@@ -42,8 +40,6 @@ http://www.mod.gov.cn/gfbw/sy/rt/16489365.html
   习近平和彭丽媛同美国总统特朗普夫妇共同参观美国国家档案馆
 http://www.mod.gov.cn/gfbw/wzll/16490416.html
   第82集团军某旅“渡海英雄连”——能攻善战 勇当“主攻”
-http://www.mod.gov.cn/gfbw/gfjy_index/16491056.html
-  军报记者寻根行丨走进一座座烈士陵园，感悟革命军人的生死观
 http://www.mod.gov.cn/gfbw/gffw/16469120.html
   速览！2026年军校招生政策解读，你想知道的都在这里→
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16491063.html
@@ -74,14 +70,14 @@ http://www.mod.gov.cn/gfbw/qwfb/16489956.html
   张升民会见王戟同志先进事迹报告团成员并讲话
 http://www.mod.gov.cn/gfbw/jswj/16486796.html
   中国海军“吉祥方舟”号医院船抵达毛里塔尼亚
+http://www.mod.gov.cn/gfbw/gfjy_index/16491148.html
+  红色文艺轻骑兵，用歌声和舞蹈架起军民连心桥
 http://www.mod.gov.cn/gfbw/qwfb/16488893.html
   国防部：菲方碰瓷卖惨改变不了侵权挑衅本质
 http://www.mod.gov.cn/gfbw/jswj/16489422.html
   中国海军“吉祥方舟”号医院船抵达塞内加尔
 http://www.mod.gov.cn/gfbw/gfdy/16487706.html
   云南省贡山县人武部结对帮扶独龙江乡马库村
-http://www.mod.gov.cn/gfbw/gfjy_index/16490936.html
-  军训，是青年学生迈入校园的一堂“必修课”
 http://www.mod.gov.cn/gfbw/tp_214132/16488743.html
   武警第二机动总队某支队开展直升机飞行训练
 http://www.mod.gov.cn/gfbw/sy/rt/16489354.html
@@ -90,6 +86,8 @@ http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16490485.html
   《加强普惠性、基础性、兜底性民生建设》
 http://www.mod.gov.cn/gfbw/qwfb/16488990.html
   2026年9月国防部例行记者会文字实录
+http://www.mod.gov.cn/gfbw/qwfb/16491138.html
+  中国海军“吉祥方舟”号医院船抵达几内亚
 http://www.mod.gov.cn/gfbw/wzll/16490840.html
   解放军和武警部队国庆节期间加强战备值班
 http://www.mod.gov.cn/gfbw/jsxd/16484796.html
@@ -110,6 +108,8 @@ http://www.mod.gov.cn/gfbw/jmsd/16490931.html
   解放军报评论员：推进祖国统一大业
 http://www.mod.gov.cn/gfbw/tp_214132/16490504.html
   陆军某旅远程火力分队开展机动训练
+http://www.mod.gov.cn/gfbw/tp_214132/16489406.html
+  第76集团军某旅开展实弹射击训练
 
 === ALL DISCOVERED LINKS ===
 
@@ -328,14 +328,14 @@ http://www.mod.gov.cn/gfbw/qwfb/16489956.html
   张升民会见王戟同志先进事迹报告团成员并讲话
 http://www.mod.gov.cn/gfbw/qwfb/16488990.html
   2026年9月国防部例行记者会文字实录
+http://www.mod.gov.cn/gfbw/qwfb/16491138.html
+  中国海军“吉祥方舟”号医院船抵达几内亚
 http://www.mod.gov.cn/gfbw/qwfb/16490608.html
   全军部队在练兵备战中迎接国庆
 http://www.mod.gov.cn/gfbw/qwfb/16490806.html
   中国海军“吉祥方舟”号医院船结束访问塞内加尔
 http://www.mod.gov.cn/gfbw/qwfb/16488893.html
   国防部：菲方碰瓷卖惨改变不了侵权挑衅本质
-http://www.mod.gov.cn/gfbw/qwfb/16490430.html
-  中国人民解放军南部战区位中国黄岩岛领海领空及周边区域组织战备警巡
 http://www.mod.gov.cn/gfbw/jswj/16489422.html
   中国海军“吉祥方舟”号医院船抵达塞内加尔
 http://www.mod.gov.cn/gfbw/jswj/16488353.html
@@ -407,12 +407,12 @@ http://www.mod.gov.cn/gfbw/jmsd/index.html
   军媒视点
 http://www.mod.gov.cn/gfbw/jmsd/16490931.html
   解放军报评论员：推进祖国统一大业
+http://www.mod.gov.cn/gfbw/jmsd/16491146.html
+  八一锐评丨别让“逸”成为“劳”
 http://www.mod.gov.cn/gfbw/jmsd/16491054.html
   八一锐评丨强军有我 祖国放心
 http://www.mod.gov.cn/gfbw/jmsd/16490838.html
   解放军报评论员：一步一步扎实往前走
-http://www.mod.gov.cn/gfbw/jmsd/16490839.html
-  八一锐评丨枕戈待旦 守护安宁
 http://www.mod.gov.cn/gfbw/gfdy/16487706.html
   云南省贡山县人武部结对帮扶独龙江乡马库村
 http://www.mod.gov.cn/gfbw/gfdy/16490401.html
@@ -423,12 +423,12 @@ http://www.mod.gov.cn/gfbw/gfdy/16490386.html
   奖牌为何跟着他们走——湖北省宜昌市点军区人武部树立和践行正确政绩观记事
 http://www.mod.gov.cn/gfbw/gfjy_index/16490411.html
   寻根铸魂向百年·重走长征路｜险棋中蕴藏的胜战密码
-http://www.mod.gov.cn/gfbw/gfjy_index/16491056.html
-  军报记者寻根行丨走进一座座烈士陵园，感悟革命军人的生死观
-http://www.mod.gov.cn/gfbw/gfjy_index/16490936.html
-  军训，是青年学生迈入校园的一堂“必修课”
-http://www.mod.gov.cn/gfbw/gfjy_index/16490409.html
-  传承英烈精神 争当英雄传人
+http://www.mod.gov.cn/gfbw/gfjy_index/16491148.html
+  红色文艺轻骑兵，用歌声和舞蹈架起军民连心桥
+http://www.mod.gov.cn/gfbw/gfjy_index/16491142.html
+  一家三代接力宣讲红色故事
+http://www.mod.gov.cn/gfbw/gfjy_index/16491141.html
+  军营开放活动强固国防观念
 http://www.81.cn/zt/2026nzt/zmxsdgmjr_252984/index.html
   最美新时代革命军人
 http://www.81.cn/zt/2026nzt/lyyxfcl/index.html
