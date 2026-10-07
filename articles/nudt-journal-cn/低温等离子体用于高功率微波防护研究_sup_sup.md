@@ -699,7 +699,7 @@ Fig.
 Schematic diagram of the experimental test
 下载:
 全尺寸图片
-(97)
+(98)
 图
 5
 发射功率为170 kW、等离子体未开启情况下的测试结果
@@ -816,11 +816,11 @@ LI Zhigang, QIU Zhinan, WANG Jiachun, et al. Study of high-power microwave prote
 Copy
 计量
 文章访问量:
-29233
+29240
 HTML全文浏览量:
-3896
+3905
 PDF下载量:
-9980
+9981
 被引次数:
 0
 图
@@ -893,7 +893,7 @@ HE W, LIU X H, XIAN R C,et al. Kinetics characteristics and bremsstrahlung of ar
 扫码关注
 官方微信
 您是今天第
-702
+8823
 位访客
 总访问量：
 275038637
