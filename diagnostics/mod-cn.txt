@@ -74,8 +74,6 @@ http://www.mod.gov.cn/gfbw/jswj/16489422.html
   中国海军“吉祥方舟”号医院船抵达塞内加尔
 http://www.mod.gov.cn/gfbw/gfdy/16487706.html
   云南省贡山县人武部结对帮扶独龙江乡马库村
-http://www.mod.gov.cn/gfbw/tp_214132/16488743.html
-  武警第二机动总队某支队开展直升机飞行训练
 http://www.mod.gov.cn/gfbw/sy/rt/16489354.html
   习近平和彭丽媛同美国总统特朗普夫妇茶叙
 http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16490485.html
@@ -96,6 +94,8 @@ http://www.mod.gov.cn/gfbw/gfdy/16490401.html
   湖南省湘西州永顺县双凤村送兵仪式侧记
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16488737.html
   海军某护卫舰支队开展海上多科目训练
+http://www.mod.gov.cn/gfbw/tp_214132/16491382.html
+  海军某支队准备开展舰艇航行补给训练
 http://www.mod.gov.cn/gfbw/fgwx/16448582.html
   中华人民共和国民族团结进步促进法
 http://www.mod.gov.cn/gfbw/jmsd/16490931.html
@@ -453,6 +453,8 @@ http://www.mod.gov.cn/gfbw/tp_214132/jsjs/index.html
   军事纪实
 http://www.mod.gov.cn/gfbw/tp_214132/tsjs/index.html
   图说军史
+http://www.mod.gov.cn/gfbw/tp_214132/16491382.html
+  海军某支队准备开展舰艇航行补给训练
 http://www.mod.gov.cn/gfbw/tp_214132/16490504.html
   陆军某旅远程火力分队开展机动训练
 http://www.mod.gov.cn/gfbw/tp_214132/16490309.html
@@ -461,8 +463,6 @@ http://www.mod.gov.cn/gfbw/tp_214132/16490054.html
   陆军某部组织驾驶员复训
 http://www.mod.gov.cn/gfbw/tp_214132/16489406.html
   第76集团军某旅开展实弹射击训练
-http://www.mod.gov.cn/gfbw/tp_214132/16488743.html
-  武警第二机动总队某支队开展直升机飞行训练
 http://www.gfbzb.gov.cn/
   全国征兵网
 http://www.xinhuanet.com/
@@ -532,11 +532,11 @@ http://www.mod.gov.cn/gfbw/jmsd/_attachment/2024/05/04/16490931_dcd32098417c948f
 http://www.mod.gov.cn/gfbw/gfdy/_attachment/2026/09/20/16487706_b3976ec10633c6611756bb8b41668750.png
 http://www.mod.gov.cn/gfbw/gfjy_index/_attachment/2026/09/30/16490411_ae940ebb64a91f8d384539267d48c116.jpg
 http://www.mod.gov.cn/gfbw/zt/_attachment/2026/08/20/16479151_1572281a51f5ab63ef863d55fdea15e0.jpg
+http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/10/07/16491382_ba414d719e554d4f0d9ad75c63f86f66.jpg
 http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/09/30/16490504_eaf1ce9e12669ece2cb21835fc024fb7.jpg
 http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/09/30/16490309_9caf107da1c7448d8d6a27b5fce8d756.jpg
 http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/09/29/16490054_f95ca6efddc2329344f4b19a0d0261c5.jpg
 http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/09/26/16489406_5a309921d744ed9edaf1f1380cec6c2c.jpg
-http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/09/24/16488743_0f52b819c4a906009bd6357348cec3ef.jpg
 http://www.81.cn/page/report.htm
 http://www.mod.gov.cn/template/tenant207/t179/js/javascript.js?v=20224291
 http://www.mod.gov.cn/material/js/jquery.s2t.js?v=2022
