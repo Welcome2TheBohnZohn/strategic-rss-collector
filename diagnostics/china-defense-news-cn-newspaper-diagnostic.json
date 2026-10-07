@@ -1,95 +1,75 @@
 {
-  "issue_date": "2026-09-30",
+  "issue_date": "2026-10-08",
   "issue_pages": [
     {
       "paper_number": "01",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-30&paperName=zggfb&paperNumber=01",
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-10-08&paperName=zggfb&paperNumber=01",
       "links": 71,
-      "article_links": 4
+      "article_links": 3
     },
     {
       "paper_number": "02",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-30&paperName=zggfb&paperNumber=02",
-      "links": 75,
-      "article_links": 5
-    },
-    {
-      "paper_number": "03",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-30&paperName=zggfb&paperNumber=03",
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-10-08&paperName=zggfb&paperNumber=02",
       "links": 75,
       "article_links": 4
     },
     {
+      "paper_number": "03",
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-10-08&paperName=zggfb&paperNumber=03",
+      "links": 63,
+      "article_links": 1
+    },
+    {
       "paper_number": "04",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-09-30&paperName=zggfb&paperNumber=04",
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-10-08&paperName=zggfb&paperNumber=04",
       "links": 67,
       "article_links": 3
     }
   ],
   "candidates": [
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-30&paperNumber=01&articleid=987600",
-      "anchor_title": "奖牌为何跟着他们走"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-08&paperNumber=01&articleid=987792",
+      "anchor_title": "英雄的旗帜永远高高飘扬"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-30&paperNumber=01&articleid=987601",
-      "anchor_title": "分葬两地的父子兄弟“团聚”了"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-08&paperNumber=01&articleid=987791",
+      "anchor_title": "模块化编组 多场景构设"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-30&paperNumber=01&articleid=987602",
-      "anchor_title": "先烈回眸应笑慰 擎旗自有后来人"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-08&paperNumber=01&articleid=987794",
+      "anchor_title": "用雕塑铭刻红色记忆"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-30&paperNumber=01&articleid=987604",
-      "anchor_title": "休刊启事"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-08&paperNumber=02&articleid=987798",
+      "anchor_title": "“这条路，我们要接力走下去”"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-30&paperNumber=02&articleid=987613",
-      "anchor_title": "红色宣讲有了新传人"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-08&paperNumber=02&articleid=987799",
+      "anchor_title": "找回老兵的荣光"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-30&paperNumber=02&articleid=987612",
-      "anchor_title": "迎接归乡“亲人” 送别出征儿郎"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-08&paperNumber=02&articleid=987801",
+      "anchor_title": "企业真心拥军 民兵专心练兵"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-30&paperNumber=02&articleid=987615",
-      "anchor_title": "山里娃沉浸式演绎红色历史"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-08&paperNumber=02&articleid=987803",
+      "anchor_title": "助学兴边 情满天山"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-30&paperNumber=02&articleid=987617",
-      "anchor_title": "组织敬老爱老文娱活动"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-08&paperNumber=03&articleid=987796",
+      "anchor_title": "万水千山，不忘来时路"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-30&paperNumber=02&articleid=987616",
-      "anchor_title": "高山库区搜救有了“空中鹰眼”"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-08&paperNumber=04&articleid=987804",
+      "anchor_title": "漫漫长征路 衣装见初心"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-30&paperNumber=03&articleid=987606",
-      "anchor_title": "国防动员法定概念解析"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-08&paperNumber=04&articleid=987805",
+      "anchor_title": "红军三过单家集"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-30&paperNumber=03&articleid=987607",
-      "anchor_title": "警报长鸣 警示常在"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-30&paperNumber=03&articleid=987609",
-      "anchor_title": "既是“及时雨”，又是“营养液”"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-30&paperNumber=03&articleid=987610",
-      "anchor_title": "鸽群也有禁飞区"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-30&paperNumber=04&articleid=987620",
-      "anchor_title": "欧洲自主核威慑之路道阻且长"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-30&paperNumber=04&articleid=987621",
-      "anchor_title": "荷兰无人作战力量建设提速"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-09-30&paperNumber=04&articleid=987619",
-      "anchor_title": "防务资讯"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-08&paperNumber=04&articleid=987806",
+      "anchor_title": "山林间的“嗅枪”传奇"
     }
   ]
 }
