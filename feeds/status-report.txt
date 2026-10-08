@@ -1,5 +1,5 @@
 Strategic RSS Collector Status
-Generated: 2026-10-07 23:20:50 UTC
+Generated: 2026-10-08 06:24:08 UTC
 
 Status meanings:
 OK = Feed contains one or more items
@@ -27,7 +27,7 @@ FAILED = Source could not be retrieved
   Start URL: http://www.81.cn/?big=jian
   Resolved URL: http://www.81.cn/?big=jian
   HTTP: 200
-  Links discovered: 529
+  Links discovered: 528
   Candidate links/items: 50
   Attempted items/articles: 12
   Items/articles with text: 12
@@ -103,7 +103,7 @@ FAILED = Source could not be retrieved
   Start URL: https://flk.npc.gov.cn/law-search/search/list
   Resolved URL: https://flk.npc.gov.cn/law-search/search/list
   HTTP: 200
-  Links discovered: 1585
+  Links discovered: 1586
   Candidate links/items: 50
   Attempted items/articles: 12
   Items/articles with text: 12
@@ -226,7 +226,7 @@ FAILED = Source could not be retrieved
   Start URL: https://www.spacechina.com/n25/n2014789/index.html
   Resolved URL: https://www.spacechina.com/n25/n2014789/index.html
   HTTP: 200
-  Links discovered: 174
+  Links discovered: 173
   Candidate links/items: 50
   Attempted items/articles: 12
   Items/articles with text: 12
@@ -303,7 +303,7 @@ Call log:
   Start URL: https://journal.nudt.edu.cn/
   Resolved URL: http://journal.nudt.edu.cn/
   HTTP: 200
-  Links discovered: 1901
+  Links discovered: 1902
   Candidate links/items: 50
   Attempted items/articles: 12
   Items/articles with text: 12
