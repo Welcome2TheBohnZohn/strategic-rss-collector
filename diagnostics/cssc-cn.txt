@@ -10,8 +10,6 @@ All links discovered: 309
 
 === MATCHED CANDIDATES ===
 
-http://www.cssc.net.cn/n5/n18/c34164/content.html
-  中船集团3部作品在第七届中央企业社会主义核心价值观主题微电影（微视频）展映发布活...
 http://www.cssc.net.cn/n5/n18/c34186/content.html
   中船集团召开安全生产委员会（扩大）会议暨国庆节前安全生产工作部署会议 深入学习...
 http://www.cssc.net.cn/n5/n18/c34195/content.html
@@ -28,6 +26,8 @@ http://www.cssc.net.cn/n5/n18/c34190/content.html
   中国船舶集团有限公司安全生产倡议书
 http://www.cssc.net.cn/n5/n18/c34193/content.html
   国庆出游，“十要十不要”请记牢！
+http://www.cssc.net.cn/n5/n18/c34196/content.html
+  今日寒露｜中船二十四节气
 http://www.cssc.net.cn/n5/n18/c34165/content.html
   国庆假期安全提示
 
@@ -77,6 +77,8 @@ http://www.cssc.net.cn/n5/n1255/index.html
   头条新闻
 http://www.cssc.net.cn/n5/n1390/index.html
   上市公司
+http://www.cssc.net.cn/n5/n18/c34196/content.html
+  今日寒露｜中船二十四节气
 http://www.cssc.net.cn/n5/n18/c34195/content.html
   中船集团党组国庆期间开展“四不两直”安全检查 慰问坚守一线员工
 http://www.cssc.net.cn/n5/n18/c34193/content.html
@@ -95,8 +97,6 @@ http://www.cssc.net.cn/n5/n18/c34184/content.html
   中船集团员工冯文虎入选“中国好人榜”！
 http://www.cssc.net.cn/n5/n18/c34165/content.html
   国庆假期安全提示
-http://www.cssc.net.cn/n5/n18/c34164/content.html
-  中船集团3部作品在第七届中央企业社会主义核心价值观主题微电影（微视频）展映发布活...
 http://www.cssc.net.cn/n5/n18/index_6204_1.html
 http://www.cssc.net.cn/n5/n18/index_6204_2.html
 http://www.cssc.net.cn/n5/n18/index_6204_3.html
