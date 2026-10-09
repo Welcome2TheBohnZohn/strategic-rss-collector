@@ -1,62 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Fri, 09 Oct 2026 06:28:21 +0000</lastBuildDate><item><title>CNNVD-2026-99249576 - Octopus Deploy Octopus Server 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-99249576</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-99249576</guid><pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate><description>Octopus Deploy Octopus Server 授权问题漏洞
-危害等级: 高危
-收录时间：2026-10-08 | 更新时间: 2026-10-09 03:58:12
-CNNVD编号: CNNVD-2026-99249576</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-99249576&lt;/p&gt;&lt;pre&gt;Octopus Deploy Octopus Server 授权问题漏洞
-危害等级: 高危
-收录时间：2026-10-08 | 更新时间: 2026-10-09 03:58:12
-CNNVD编号: CNNVD-2026-99249576&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-76617335 - WordPress LazyLoad 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-76617335</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-76617335</guid><pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate><description>WordPress LazyLoad 跨站脚本漏洞
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Fri, 09 Oct 2026 13:35:39 +0000</lastBuildDate><item><title>CNNVD-2026-70010749 - Brocade Fabric OS 路径遍历漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-70010749</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-70010749</guid><pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate><description>Brocade Fabric OS 路径遍历漏洞
 危害等级: 中危
-收录时间：2026-10-07 | 更新时间: 2026-10-08 16:37:44
-CNNVD编号: CNNVD-2026-76617335</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-76617335&lt;/p&gt;&lt;pre&gt;WordPress LazyLoad 跨站脚本漏洞
+收录时间：2026-10-08 | 更新时间: 2026-10-09 16:31:34
+CNNVD编号: CNNVD-2026-70010749</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-70010749&lt;/p&gt;&lt;pre&gt;Brocade Fabric OS 路径遍历漏洞
 危害等级: 中危
-收录时间：2026-10-07 | 更新时间: 2026-10-08 16:37:44
-CNNVD编号: CNNVD-2026-76617335&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-81485292 - Apache Geode 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-81485292</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-81485292</guid><pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate><description>Apache Geode 安全漏洞
+收录时间：2026-10-08 | 更新时间: 2026-10-09 16:31:34
+CNNVD编号: CNNVD-2026-70010749&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-45939118 - Brocade Fabric OS 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-45939118</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-45939118</guid><pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate><description>Brocade Fabric OS 缓冲区错误漏洞
+危害等级: 中危
+收录时间：2026-10-08 | 更新时间: 2026-10-09 16:31:34
+CNNVD编号: CNNVD-2026-45939118</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-45939118&lt;/p&gt;&lt;pre&gt;Brocade Fabric OS 缓冲区错误漏洞
+危害等级: 中危
+收录时间：2026-10-08 | 更新时间: 2026-10-09 16:31:34
+CNNVD编号: CNNVD-2026-45939118&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-53485445 - Brocade Fabric OS 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-53485445</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-53485445</guid><pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate><description>Brocade Fabric OS 授权问题漏洞
+危害等级: 高危
+收录时间：2026-10-08 | 更新时间: 2026-10-09 16:31:32
+CNNVD编号: CNNVD-2026-53485445</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-53485445&lt;/p&gt;&lt;pre&gt;Brocade Fabric OS 授权问题漏洞
+危害等级: 高危
+收录时间：2026-10-08 | 更新时间: 2026-10-09 16:31:32
+CNNVD编号: CNNVD-2026-53485445&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-51649610 - Brocade Fabric OS 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-51649610</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-51649610</guid><pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate><description>Brocade Fabric OS 缓冲区错误漏洞
+危害等级: 中危
+收录时间：2026-10-08 | 更新时间: 2026-10-09 16:31:30
+CNNVD编号: CNNVD-2026-51649610</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-51649610&lt;/p&gt;&lt;pre&gt;Brocade Fabric OS 缓冲区错误漏洞
+危害等级: 中危
+收录时间：2026-10-08 | 更新时间: 2026-10-09 16:31:30
+CNNVD编号: CNNVD-2026-51649610&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-53577299 - DCMTK 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-53577299</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-53577299</guid><pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate><description>DCMTK 资源管理错误漏洞
+危害等级: 中危
+收录时间：2026-10-08 | 更新时间: 2026-10-09 16:19:37
+CNNVD编号: CNNVD-2026-53577299</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-53577299&lt;/p&gt;&lt;pre&gt;DCMTK 资源管理错误漏洞
+危害等级: 中危
+收录时间：2026-10-08 | 更新时间: 2026-10-09 16:19:37
+CNNVD编号: CNNVD-2026-53577299&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-92249977 - Zimbra Collaboration Suite 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-92249977</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-92249977</guid><pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate><description>Zimbra Collaboration Suite 授权问题漏洞
+危害等级: 中危
+收录时间：2026-10-08 | 更新时间: 2026-10-09 16:19:37
+CNNVD编号: CNNVD-2026-92249977</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-92249977&lt;/p&gt;&lt;pre&gt;Zimbra Collaboration Suite 授权问题漏洞
+危害等级: 中危
+收录时间：2026-10-08 | 更新时间: 2026-10-09 16:19:37
+CNNVD编号: CNNVD-2026-92249977&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-69309218 - Zimbra Collaboration Suite 权限许可和访问控制问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-69309218</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-69309218</guid><pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate><description>Zimbra Collaboration Suite 权限许可和访问控制问题漏洞
+危害等级: 高危
+收录时间：2026-10-08 | 更新时间: 2026-10-09 16:19:37
+CNNVD编号: CNNVD-2026-69309218</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-69309218&lt;/p&gt;&lt;pre&gt;Zimbra Collaboration Suite 权限许可和访问控制问题漏洞
+危害等级: 高危
+收录时间：2026-10-08 | 更新时间: 2026-10-09 16:19:37
+CNNVD编号: CNNVD-2026-69309218&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-86289132 - MediaRon LLC WP Plugin Info Card 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-86289132</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-86289132</guid><pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate><description>MediaRon LLC WP Plugin Info Card 跨站脚本漏洞
+危害等级: 中危
+收录时间：2026-10-08 | 更新时间: 2026-10-09 16:19:36
+CNNVD编号: CNNVD-2026-86289132</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-86289132&lt;/p&gt;&lt;pre&gt;MediaRon LLC WP Plugin Info Card 跨站脚本漏洞
+危害等级: 中危
+收录时间：2026-10-08 | 更新时间: 2026-10-09 16:19:36
+CNNVD编号: CNNVD-2026-86289132&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-45923923 - Apache DolphinScheduler 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-45923923</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-45923923</guid><pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate><description>Apache DolphinScheduler 授权问题漏洞
 危害等级: 超危
-收录时间：2026-10-07 | 更新时间: 2026-10-08 16:39:28
-CNNVD编号: CNNVD-2026-81485292</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-81485292&lt;/p&gt;&lt;pre&gt;Apache Geode 安全漏洞
+收录时间：2026-10-08 | 更新时间: 2026-10-09 16:19:36
+CNNVD编号: CNNVD-2026-45923923</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-45923923&lt;/p&gt;&lt;pre&gt;Apache DolphinScheduler 授权问题漏洞
 危害等级: 超危
-收录时间：2026-10-07 | 更新时间: 2026-10-08 16:39:28
-CNNVD编号: CNNVD-2026-81485292&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-94071561 - Anthropic Claude Code 路径遍历漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-94071561</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-94071561</guid><pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate><description>Anthropic Claude Code 路径遍历漏洞
+收录时间：2026-10-08 | 更新时间: 2026-10-09 16:19:36
+CNNVD编号: CNNVD-2026-45923923&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-98446498 - Apache DolphinScheduler 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-98446498</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-98446498</guid><pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate><description>Apache DolphinScheduler 授权问题漏洞
 危害等级: 高危
-收录时间：2026-10-07 | 更新时间: 2026-10-08 16:39:28
-CNNVD编号: CNNVD-2026-94071561</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-94071561&lt;/p&gt;&lt;pre&gt;Anthropic Claude Code 路径遍历漏洞
+收录时间：2026-10-08 | 更新时间: 2026-10-09 16:19:36
+CNNVD编号: CNNVD-2026-98446498</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-98446498&lt;/p&gt;&lt;pre&gt;Apache DolphinScheduler 授权问题漏洞
 危害等级: 高危
-收录时间：2026-10-07 | 更新时间: 2026-10-08 16:39:28
-CNNVD编号: CNNVD-2026-94071561&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-71807618 - SonicWALL SMA1000 路径遍历漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-71807618</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-71807618</guid><pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate><description>SonicWALL SMA1000 路径遍历漏洞
-危害等级: 高危
-收录时间：2026-10-07 | 更新时间: 2026-10-08 16:39:34
-CNNVD编号: CNNVD-2026-71807618</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-71807618&lt;/p&gt;&lt;pre&gt;SonicWALL SMA1000 路径遍历漏洞
-危害等级: 高危
-收录时间：2026-10-07 | 更新时间: 2026-10-08 16:39:34
-CNNVD编号: CNNVD-2026-71807618&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-22487706 - Red Hat Satellite 路径遍历漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22487706</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22487706</guid><pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate><description>Red Hat Satellite 路径遍历漏洞
-危害等级: 中危
-收录时间：2026-10-07 | 更新时间: 2026-10-08 16:39:07
-CNNVD编号: CNNVD-2026-22487706</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22487706&lt;/p&gt;&lt;pre&gt;Red Hat Satellite 路径遍历漏洞
-危害等级: 中危
-收录时间：2026-10-07 | 更新时间: 2026-10-08 16:39:07
-CNNVD编号: CNNVD-2026-22487706&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-51142326 - arraytics Booktics 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-51142326</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-51142326</guid><pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate><description>arraytics Booktics 授权问题漏洞
-危害等级: 中危
-收录时间：2026-10-07 | 更新时间: 2026-10-08 16:38:49
-CNNVD编号: CNNVD-2026-51142326</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-51142326&lt;/p&gt;&lt;pre&gt;arraytics Booktics 授权问题漏洞
-危害等级: 中危
-收录时间：2026-10-07 | 更新时间: 2026-10-08 16:38:49
-CNNVD编号: CNNVD-2026-51142326&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-14722113 - Octopus Deploy Octopus Server 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-14722113</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-14722113</guid><pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate><description>Octopus Deploy Octopus Server 输入验证错误漏洞
-危害等级: 高危
-收录时间：2026-10-07 | 更新时间: 2026-10-08 16:39:32
-CNNVD编号: CNNVD-2026-14722113</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-14722113&lt;/p&gt;&lt;pre&gt;Octopus Deploy Octopus Server 输入验证错误漏洞
-危害等级: 高危
-收录时间：2026-10-07 | 更新时间: 2026-10-08 16:39:32
-CNNVD编号: CNNVD-2026-14722113&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-39907552 - WordPress Hustle 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-39907552</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-39907552</guid><pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate><description>WordPress Hustle 授权问题漏洞
-危害等级: 中危
-收录时间：2026-10-07 | 更新时间: 2026-10-08 16:39:29
-CNNVD编号: CNNVD-2026-39907552</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-39907552&lt;/p&gt;&lt;pre&gt;WordPress Hustle 授权问题漏洞
-危害等级: 中危
-收录时间：2026-10-07 | 更新时间: 2026-10-08 16:39:29
-CNNVD编号: CNNVD-2026-39907552&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-93871078 - IBM Langflow OSS 路径遍历漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-93871078</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-93871078</guid><pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate><description>IBM Langflow OSS 路径遍历漏洞
-危害等级: 高危
-收录时间：2026-10-07 | 更新时间: 2026-10-08 16:39:29
-CNNVD编号: CNNVD-2026-93871078</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-93871078&lt;/p&gt;&lt;pre&gt;IBM Langflow OSS 路径遍历漏洞
-危害等级: 高危
-收录时间：2026-10-07 | 更新时间: 2026-10-08 16:39:29
-CNNVD编号: CNNVD-2026-93871078&lt;/pre&gt;</content:encoded></item></channel></rss>
+收录时间：2026-10-08 | 更新时间: 2026-10-09 16:19:36
+CNNVD编号: CNNVD-2026-98446498&lt;/pre&gt;</content:encoded></item></channel></rss>
