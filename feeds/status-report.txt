@@ -1,5 +1,5 @@
 Strategic RSS Collector Status
-Generated: 2026-10-10 06:09:27 UTC
+Generated: 2026-10-10 12:52:04 UTC
 
 Status meanings:
 OK = Feed contains one or more items
@@ -119,7 +119,7 @@ FAILED = Source could not be retrieved
   Start URL: https://www.sastind.gov.cn/
   Resolved URL: https://www.sastind.gov.cn/
   HTTP: 200
-  Links discovered: 68
+  Links discovered: 69
   Candidate links/items: 50
   Attempted items/articles: 12
   Items/articles with text: 12
@@ -135,10 +135,10 @@ FAILED = Source could not be retrieved
   Start URL: https://t.me/s/MFARussia
   Resolved URL: https://t.me/s/MFARussia
   HTTP: 200
-  Attempted items/articles: 9
-  Items/articles with text: 9
-  Items/articles with dates: 9
-  RSS feed items: 9
+  Attempted items/articles: 7
+  Items/articles with text: 7
+  Items/articles with dates: 7
+  RSS feed items: 7
   SSL verification: ON
   Request timeout: 20s
   Max retries: 2
@@ -271,8 +271,8 @@ Call log:
   Start URL: http://www.81.cn/szb_223187/gfbszblb/index.html
   Resolved URL: http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-10-09&paperName=zggfb&paperNumber=01
   HTTP: 200
-  Links discovered: 264
-  Candidate links/items: 12
+  Links discovered: 284
+  Candidate links/items: 17
   Attempted items/articles: 12
   Items/articles with text: 12
   Items/articles with dates: 12
