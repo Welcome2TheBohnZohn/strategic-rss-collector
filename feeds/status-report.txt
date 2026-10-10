@@ -1,5 +1,5 @@
 Strategic RSS Collector Status
-Generated: 2026-10-09 22:54:45 UTC
+Generated: 2026-10-10 06:09:27 UTC
 
 Status meanings:
 OK = Feed contains one or more items
@@ -27,7 +27,7 @@ FAILED = Source could not be retrieved
   Start URL: http://www.81.cn/?big=jian
   Resolved URL: http://www.81.cn/?big=jian
   HTTP: 200
-  Links discovered: 529
+  Links discovered: 528
   Candidate links/items: 50
   Attempted items/articles: 12
   Items/articles with text: 12
@@ -271,8 +271,8 @@ Call log:
   Start URL: http://www.81.cn/szb_223187/gfbszblb/index.html
   Resolved URL: http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-10-09&paperName=zggfb&paperNumber=01
   HTTP: 200
-  Links discovered: 284
-  Candidate links/items: 17
+  Links discovered: 264
+  Candidate links/items: 12
   Attempted items/articles: 12
   Items/articles with text: 12
   Items/articles with dates: 12
