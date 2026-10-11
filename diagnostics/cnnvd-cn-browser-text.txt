@@ -53,6 +53,18 @@ Cool Plugins AI Translation for Polylang 授权问题漏洞
 |
 更新时间: 2026-10-10 16:29:21
 CNNVD编号：CNNVD-2026-62576404
+illumos illumos-gate 异常处理不当漏洞
+中危
+收录时间：2026-10-09
+|
+更新时间: 2026-10-10 16:34:29
+CNNVD编号：CNNVD-2026-81942770
+themehunk Th Shop Mania 授权问题漏洞
+高危
+收录时间：2026-10-09
+|
+更新时间: 2026-10-10 16:34:28
+CNNVD编号：CNNVD-2026-60646813
 Docker desktop 加密问题漏洞
 高危
 收录时间：2026-10-09
@@ -71,18 +83,6 @@ Apache CXF 安全漏洞
 |
 更新时间: 2026-10-10 16:31:07
 CNNVD编号：CNNVD-2026-23472749
-Canva Affinity 缓冲区错误漏洞
-低危
-收录时间：2026-10-09
-|
-更新时间: 2026-10-10 16:31:06
-CNNVD编号：CNNVD-2026-44989201
-Progress Software Telerik Report Server 跨站脚本漏洞
-高危
-收录时间：2026-10-09
-|
-更新时间: 2026-10-10 16:30:57
-CNNVD编号：CNNVD-2026-44136554
 共 396827 条
 12345639683
 前往页

@@ -10,8 +10,18 @@ All links discovered: 244
 
 === MATCHED CANDIDATES ===
 
+http://www.mod.gov.cn/gfbw/wzll/16492072.html
+  面对重大演训任务，第80集团军某旅400余名老兵主动延期退役
+http://www.mod.gov.cn/gfbw/wzll/16492069.html
+  深入推进实战化军事训练丨第73集团军某旅牢固树立实战实训意识
 http://www.mod.gov.cn/gfbw/fgwx/16482016.html
   全国人大常委会表决通过新修订的国防动员法
+http://www.mod.gov.cn/gfbw/jswj/16492058.html
+  海军“吉祥方舟”号医院船结束访问几内亚
+http://www.mod.gov.cn/gfbw/jmsd/16492070.html
+  强军论坛丨当好清正廉洁的“守门员”
+http://www.mod.gov.cn/gfbw/jmsd/16492045.html
+  八一锐评丨一步一步扎实往前走
 http://www.mod.gov.cn/gfbw/fgwx/16482045.html
   中华人民共和国国防动员法
 http://www.mod.gov.cn/gfbw/fgwx/16444625.html
@@ -72,8 +82,6 @@ http://www.mod.gov.cn/gfbw/qwfb/16489956.html
   张升民会见王戟同志先进事迹报告团成员并讲话
 http://www.mod.gov.cn/gfbw/qwfb/16491907.html
   中老（挝）将举行第五次边境国防友好交流活动
-http://www.mod.gov.cn/gfbw/jswj/16486796.html
-  中国海军“吉祥方舟”号医院船抵达毛里塔尼亚
 http://www.mod.gov.cn/gfbw/xwfyr/16491902.html
   国防部：愿同美方一道落实好两国元首重要共识
 http://www.mod.gov.cn/gfbw/gfjy_index/16491448.html
@@ -100,16 +108,8 @@ http://www.mod.gov.cn/gfbw/gfdy/16490401.html
   湖南省湘西州永顺县双凤村送兵仪式侧记
 http://www.mod.gov.cn/gfbw/tp_214132/16491382.html
   海军某支队准备开展舰艇航行补给训练
-http://www.mod.gov.cn/gfbw/wzll/16491671.html
-  军营观察丨“虎口拔牙”的智胜转型
 http://www.mod.gov.cn/gfbw/fgwx/16448582.html
   中华人民共和国民族团结进步促进法
-http://www.mod.gov.cn/gfbw/jmsd/16490931.html
-  解放军报评论员：推进祖国统一大业
-http://www.mod.gov.cn/gfbw/jmsd/16491841.html
-  强军论坛丨敢试错能纠错才能少出错
-http://www.mod.gov.cn/gfbw/tp_214132/16490504.html
-  陆军某旅远程火力分队开展机动训练
 
 === ALL DISCOVERED LINKS ===
 
@@ -336,22 +336,22 @@ http://www.mod.gov.cn/gfbw/qwfb/16491898.html
   国防部：“长城－2026”反恐国际论坛将在北京举办
 http://www.mod.gov.cn/gfbw/qwfb/16491895.html
   中方将举办联合国维和参谋军官国际培训班
+http://www.mod.gov.cn/gfbw/jswj/16492058.html
+  海军“吉祥方舟”号医院船结束访问几内亚
 http://www.mod.gov.cn/gfbw/jswj/16489422.html
   中国海军“吉祥方舟”号医院船抵达塞内加尔
 http://www.mod.gov.cn/gfbw/jswj/16488353.html
   中国海军“吉祥方舟”号医院船结束访问毛里塔尼亚
 http://www.mod.gov.cn/gfbw/jswj/16487981.html
   中国军队将参加东盟防长扩大会“三叉戟决心”实兵演习
-http://www.mod.gov.cn/gfbw/jswj/16486796.html
-  中国海军“吉祥方舟”号医院船抵达毛里塔尼亚
 http://www.mod.gov.cn/gfbw/wzll/16487929.html
   探访陆军某边防旅二十连，品读官兵与六座界桩的故事
+http://www.mod.gov.cn/gfbw/wzll/16492072.html
+  面对重大演训任务，第80集团军某旅400余名老兵主动延期退役
+http://www.mod.gov.cn/gfbw/wzll/16492069.html
+  深入推进实战化军事训练丨第73集团军某旅牢固树立实战实训意识
 http://www.mod.gov.cn/gfbw/wzll/16491843.html
   海军驻西沙某部官兵与新疆军区吉木乃边防连护边员在北京相逢
-http://www.mod.gov.cn/gfbw/wzll/16491671.html
-  军营观察丨“虎口拔牙”的智胜转型
-http://www.mod.gov.cn/gfbw/wzll/16491670.html
-  万里边疆行｜枕海固防护安澜
 http://www.mod.gov.cn/gfbw/jsxd/16491543.html
   中国海军第48批护航编队抵达马来西亚进行友好访问
 http://www.mod.gov.cn/gfbw/jsxd/16490415.html
@@ -407,12 +407,12 @@ http://www.mod.gov.cn/gfbw/jmsd/index.html
   军媒视点
 http://www.mod.gov.cn/gfbw/jmsd/16490931.html
   解放军报评论员：推进祖国统一大业
+http://www.mod.gov.cn/gfbw/jmsd/16492070.html
+  强军论坛丨当好清正廉洁的“守门员”
+http://www.mod.gov.cn/gfbw/jmsd/16492045.html
+  八一锐评丨一步一步扎实往前走
 http://www.mod.gov.cn/gfbw/jmsd/16491841.html
   强军论坛丨敢试错能纠错才能少出错
-http://www.mod.gov.cn/gfbw/jmsd/16491663.html
-  强军论坛丨军人本色，永不褪色
-http://www.mod.gov.cn/gfbw/jmsd/16491489.html
-  强军论坛｜以好样子带出好战士
 http://www.mod.gov.cn/gfbw/gfdy/16487706.html
   云南省贡山县人武部结对帮扶独龙江乡马库村
 http://www.mod.gov.cn/gfbw/gfdy/16491664.html
@@ -512,7 +512,7 @@ http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/09/30/16490629_1398e6b19e14de2
 http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/09/26/16489365_560708b25409be3e348e56938c8daf10.jpg
 http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/09/26/16489354_cc9d7b1942f0a508e5b360a11e050e1c.jpg
 http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/09/25/16489162_8353d390b2d1534995353c04712686cf.jpg
-http://www.mod.gov.cn/gfbw/jswj/_attachment/2026/09/26/16489422_e3719bbaf502dd6c7e46fe554633d82c.jpg
+http://www.mod.gov.cn/gfbw/jswj/_attachment/2026/10/11/16492058_4bac93b09e6b6dda3895a94aab24a825.jpg
 http://www.mod.gov.cn/gfbw/wzll/_attachment/2026/09/21/16487929_597d176f0af87a3946ecafb4704fe574.jpg
 http://www.mod.gov.cn/gfbw/jsxd/_attachment/2026/10/08/16491543_1435698845fc0ee204de122f24f6e62c.jpg
 http://www.mod.gov.cn/gfbw/xwfyr/lxjzhzt/_attachment/2026/09/30/16490674_45f93abb8ab64cb03661fac3cb561bf4.jpg
