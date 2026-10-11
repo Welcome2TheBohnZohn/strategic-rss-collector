@@ -1,8 +1,8 @@
 # - 解放军报 - 中国军网
 
-Published: 2026-10-09 00:00:00
+Published: 2026-10-12 00:00:00
 
-Source: http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-09&paperNumber=04&articleid=987877
+Source: http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-12&paperNumber=04&articleid=988047
 
 - 解放军报 - 中国军网
 PDF版下载

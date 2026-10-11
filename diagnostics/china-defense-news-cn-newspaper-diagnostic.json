@@ -1,83 +1,87 @@
 {
-  "issue_date": "2026-10-09",
+  "issue_date": "2026-10-12",
   "issue_pages": [
     {
       "paper_number": "01",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-10-09&paperName=zggfb&paperNumber=01",
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-10-12&paperName=zggfb&paperNumber=01",
+      "links": 71,
+      "article_links": 3
+    },
+    {
+      "paper_number": "02",
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-10-12&paperName=zggfb&paperNumber=02",
       "links": 73,
       "article_links": 4
     },
     {
-      "paper_number": "02",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-10-09&paperName=zggfb&paperNumber=02",
-      "links": 51,
-      "article_links": 0
-    },
-    {
       "paper_number": "03",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-10-09&paperName=zggfb&paperNumber=03",
-      "links": 71,
-      "article_links": 5
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-10-12&paperName=zggfb&paperNumber=03",
+      "links": 67,
+      "article_links": 3
     },
     {
       "paper_number": "04",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-10-09&paperName=zggfb&paperNumber=04",
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-10-12&paperName=zggfb&paperNumber=04",
       "links": 69,
       "article_links": 4
     }
   ],
   "candidates": [
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-09&paperNumber=01&articleid=987880",
-      "anchor_title": "提升难点问题解决质效"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-12&paperNumber=01&articleid=988043",
+      "anchor_title": "昔日长征“加油站” 今朝旧貌换新颜"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-09&paperNumber=01&articleid=987879",
-      "anchor_title": "“哥，我要去军营了”"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-12&paperNumber=01&articleid=988042",
+      "anchor_title": "帮落选青年蓄力 为入伍新兵解难"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-09&paperNumber=01&articleid=987882",
-      "anchor_title": "畅通需求事项办结通道"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-12&paperNumber=01&articleid=988045",
+      "anchor_title": "守岛人的“财富”代代传"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-09&paperNumber=01&articleid=987883",
-      "anchor_title": "新老同心 双向奔赴"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-12&paperNumber=02&articleid=988034",
+      "anchor_title": "牵牛岭上守英魂"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-09&paperNumber=03&articleid=987885",
-      "anchor_title": "漫步泸定桥"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-12&paperNumber=02&articleid=988033",
+      "anchor_title": "“这些无名英烈，都是我们的亲人”"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-09&paperNumber=03&articleid=987886",
-      "anchor_title": "雄风掠过天安门"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-12&paperNumber=02&articleid=988036",
+      "anchor_title": "新兵行千里 服务不断线"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-09&paperNumber=03&articleid=987889",
-      "anchor_title": "一轮月，两重秋"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-12&paperNumber=02&articleid=988037",
+      "anchor_title": "度过适应期 加速奔战位"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-09&paperNumber=03&articleid=987887",
-      "anchor_title": "江山如画"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-12&paperNumber=03&articleid=988040",
+      "anchor_title": "英雄宣言回荡菁菁校园"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-09&paperNumber=03&articleid=987888",
-      "anchor_title": "月光落进枪膛"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-12&paperNumber=03&articleid=988039",
+      "anchor_title": "“智”汇青春 “志”铸国防"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-09&paperNumber=04&articleid=987875",
-      "anchor_title": "欧洲未来战机版图加速重组"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-12&paperNumber=03&articleid=988041",
+      "anchor_title": "铁甲播星火 接力育新人"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-09&paperNumber=04&articleid=987876",
-      "anchor_title": "英国强化潜艇鱼雷防护"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-12&paperNumber=04&articleid=988047",
+      "anchor_title": "波兰加速扩充重型装甲部队"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-09&paperNumber=04&articleid=987877",
-      "anchor_title": "日本拟设专门法人推销武器"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-12&paperNumber=04&articleid=988048",
+      "anchor_title": "法国推出新型指挥系统"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-09&paperNumber=04&articleid=987878",
-      "anchor_title": "多国推进F-35战斗机采购部署"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-12&paperNumber=04&articleid=988049",
+      "anchor_title": "英美拟构建AI防务伙伴关系"
+    },
+    {
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-12&paperNumber=04&articleid=988050",
+      "anchor_title": "波兰借力提升本土无人机产能"
     }
   ]
 }
