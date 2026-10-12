@@ -1,2 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Mon, 12 Oct 2026 06:16:05 +0000</lastBuildDate></channel></rss>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Mon, 12 Oct 2026 15:46:08 +0000</lastBuildDate><item><title>CNNVD-2026-20753774 - elunez ELADMIN 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-20753774</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-20753774</guid><pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate><description>elunez ELADMIN 授权问题漏洞
+危害等级: 中危
+收录时间：2026-10-11 | 更新时间: 2026-10-12 16:37:03
+CNNVD编号: CNNVD-2026-20753774</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-20753774&lt;/p&gt;&lt;pre&gt;elunez ELADMIN 授权问题漏洞
+危害等级: 中危
+收录时间：2026-10-11 | 更新时间: 2026-10-12 16:37:03
+CNNVD编号: CNNVD-2026-20753774&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-19353735 - DBeaver CloudBeaver 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-19353735</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-19353735</guid><pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate><description>DBeaver CloudBeaver 授权问题漏洞
+危害等级: 低危
+收录时间：2026-10-11 | 更新时间: 2026-10-12 16:36:56
+CNNVD编号: CNNVD-2026-19353735</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-19353735&lt;/p&gt;&lt;pre&gt;DBeaver CloudBeaver 授权问题漏洞
+危害等级: 低危
+收录时间：2026-10-11 | 更新时间: 2026-10-12 16:36:56
+CNNVD编号: CNNVD-2026-19353735&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-74522786 - 1Panel-dev Cordys CRM 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-74522786</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-74522786</guid><pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate><description>1Panel-dev Cordys CRM 授权问题漏洞
+危害等级: 高危
+收录时间：2026-10-11 | 更新时间: 2026-10-12 16:35:42
+CNNVD编号: CNNVD-2026-74522786</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-74522786&lt;/p&gt;&lt;pre&gt;1Panel-dev Cordys CRM 授权问题漏洞
+危害等级: 高危
+收录时间：2026-10-11 | 更新时间: 2026-10-12 16:35:42
+CNNVD编号: CNNVD-2026-74522786&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-93061075 - 1Panel-dev Cordys CRM 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-93061075</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-93061075</guid><pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate><description>1Panel-dev Cordys CRM 授权问题漏洞
+危害等级: 高危
+收录时间：2026-10-11 | 更新时间: 2026-10-12 16:35:42
+CNNVD编号: CNNVD-2026-93061075</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-93061075&lt;/p&gt;&lt;pre&gt;1Panel-dev Cordys CRM 授权问题漏洞
+危害等级: 高危
+收录时间：2026-10-11 | 更新时间: 2026-10-12 16:35:42
+CNNVD编号: CNNVD-2026-93061075&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-75842436 - Corteza Project Corteza 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75842436</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75842436</guid><pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate><description>Corteza Project Corteza 授权问题漏洞
+危害等级: 高危
+收录时间：2026-10-11 | 更新时间: 2026-10-12 16:37:22
+CNNVD编号: CNNVD-2026-75842436</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75842436&lt;/p&gt;&lt;pre&gt;Corteza Project Corteza 授权问题漏洞
+危害等级: 高危
+收录时间：2026-10-11 | 更新时间: 2026-10-12 16:37:22
+CNNVD编号: CNNVD-2026-75842436&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-76528592 - Zephyr Project Zephyr 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-76528592</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-76528592</guid><pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate><description>Zephyr Project Zephyr 资源管理错误漏洞
+危害等级: 中危
+收录时间：2026-10-11 | 更新时间: 2026-10-12 16:58:43
+CNNVD编号: CNNVD-2026-76528592</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-76528592&lt;/p&gt;&lt;pre&gt;Zephyr Project Zephyr 资源管理错误漏洞
+危害等级: 中危
+收录时间：2026-10-11 | 更新时间: 2026-10-12 16:58:43
+CNNVD编号: CNNVD-2026-76528592&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-66469073 - 1Panel-dev Cordys CRM 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-66469073</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-66469073</guid><pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate><description>1Panel-dev Cordys CRM 授权问题漏洞
+危害等级: 中危
+收录时间：2026-10-11 | 更新时间: 2026-10-12 16:35:42
+CNNVD编号: CNNVD-2026-66469073</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-66469073&lt;/p&gt;&lt;pre&gt;1Panel-dev Cordys CRM 授权问题漏洞
+危害等级: 中危
+收录时间：2026-10-11 | 更新时间: 2026-10-12 16:35:42
+CNNVD编号: CNNVD-2026-66469073&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-83220846 - 1Panel-dev Cordys CRM 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-83220846</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-83220846</guid><pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate><description>1Panel-dev Cordys CRM 授权问题漏洞
+危害等级: 中危
+收录时间：2026-10-11 | 更新时间: 2026-10-12 16:35:41
+CNNVD编号: CNNVD-2026-83220846</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-83220846&lt;/p&gt;&lt;pre&gt;1Panel-dev Cordys CRM 授权问题漏洞
+危害等级: 中危
+收录时间：2026-10-11 | 更新时间: 2026-10-12 16:35:41
+CNNVD编号: CNNVD-2026-83220846&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-50703285 - CoreUnion CoreShop 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-50703285</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-50703285</guid><pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate><description>CoreUnion CoreShop 授权问题漏洞
+危害等级: 中危
+收录时间：2026-10-11 | 更新时间: 2026-10-12 16:37:22
+CNNVD编号: CNNVD-2026-50703285</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-50703285&lt;/p&gt;&lt;pre&gt;CoreUnion CoreShop 授权问题漏洞
+危害等级: 中危
+收录时间：2026-10-11 | 更新时间: 2026-10-12 16:37:22
+CNNVD编号: CNNVD-2026-50703285&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-42656137 - C4illin Convertx 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-42656137</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-42656137</guid><pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate><description>C4illin Convertx 输入验证错误漏洞
+危害等级: 高危
+收录时间：2026-10-11 | 更新时间: 2026-10-12 16:36:51
+CNNVD编号: CNNVD-2026-42656137</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-42656137&lt;/p&gt;&lt;pre&gt;C4illin Convertx 输入验证错误漏洞
+危害等级: 高危
+收录时间：2026-10-11 | 更新时间: 2026-10-12 16:36:51
+CNNVD编号: CNNVD-2026-42656137&lt;/pre&gt;</content:encoded></item></channel></rss>

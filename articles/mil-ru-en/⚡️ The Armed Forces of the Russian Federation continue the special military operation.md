@@ -1,41 +1,38 @@
 # ⚡️ The Armed Forces of the Russian Federation continue the special military operation.
 
-Published: 2026-10-11 10:26:15
+Published: 2026-10-12 10:22:26
 
-Source: https://t.me/mod_russia_en/29971
+Source: https://t.me/mod_russia_en/29995
 
 The Armed Forces of the Russian Federation continue the special military operation.
 ⚡️
-Units of the Sever Group of Forces in Kharkov region continue
-to tighten the encirclement and expand the external control zone.
-🚩
-In the encirclement, Russian troops took under control Reznikovo and Kupino in Kharkov region.
+Units of the Sever Group of Forces in Kharkov region
+continue to tighten the encirclement and expand the external control zone.
 🔥
-Fights are underway in the encirclement
-for the liberation of Nikolayevka, Varvarovka, Nefedovka, and Chernoye (Kharkov region).
+Fights are underway in the encirclement for the liberation
+of Nikolayevka, Varvarovka, Nefedovka, and Chernoye (Kharkov region).
 ▪️
-Over 65 servicemen and two unmanned ground vehicles have been neutralised in the encirclement during the day.
+The AFU lost over 55 troops, a motor vehicle, and five ground-based robotic systems in the encirclement ring during the day.
 📍
-Russian troops expand the external control zone.
-Fights continue for Prikolotnoye, Kotovka, and Gogino in Kharkov region.
+Russian troops expand the external control zone. Russian elements continue combat actions to establish control over the settlements of Prikolotnoye, Kotovka, and Gogino (Kharkov region).
 💥
-In Kharkov region
-, manpower and hardware of four mechanised brigades, a motorised infantry brigade, an artillery brigade, an assault regiment of the Armed Forces of Ukraine, and a territorial defence brigade have been hit near Timofeyevka, Khotomlya, Izbitskoye, Dergachi, Goryanoye, Revolyutsionnoye, and Velikiy Burluk (Kharkov region).
+In addition, in Kharkov region
+, manpower and hardware of two mechanised brigades, one motorised infantry brigade, one assault regiment of the AFU, and one territorial defence brigade have been hit near Svetlichnoye, Slatino, Martovoye, Shirokoye, Bugaevka, and Velikiy Burluk (Kharkov region).
 🔥
-In Sumy region
-, strikes were delivered at formations of two mechanised brigades of the Armed Forces of Ukraine and three territorial defence brigades close to Vorozhba, Velikaya Rybitsa, Vakalovshchina, Barilovka, and Khoten (Sumy region).
+In Sumy region, strikes were delivered
+at formations of two mechanised brigades of the AFU and three territorial defence brigades close to Yuryevo, Barilovka, Radkovka, Velikaya Rybitsa, and Olshanka (Sumy region).
 ▪️
-In total, the enemy lost more than 270 troops, 10 motor vehicles, and one radar reconnaissance station in the area of responsibility of the Sever Group of Forces.
-📍
-The Zapad Group of Forces improved the situation along the front line
-and inflicted losses on manpower and hardware of four mechanised brigades, an assault brigade of the AFU, a marine brigade, and a territorial defence brigade near Maleyevka, Peski-Radkovskiye, Grushevka, Novonikolayevka, Volchiy Yar, and Kapitolovka (Kharkov region).
-▪️
-The AFU losses amounted to up to 200 troops, two armoured fighting vehicles, 12 motor vehicles, one artillery gun, and one electronic warfare station.
+In total, the enemy lost more than 295 troops, an armoured personnel carrier, two armoured fighting vehicles, eight motor vehicles, and one field artillery gun in the Sever Group's area of responsibility.
 ↗️
-The Yuzhnaya Group of Forces took more advantageous lines and positions
-. Russian units inflicted damage on formations of two mechanised brigades, a motorised infantry brigade, an airmobile brigade, a mountain assault brigade, and an unmanned systems brigade of the AFU close to Druzhkovka, Novoselovka, Belokuzminovka, Semenovka, Kramatorsk, Vysokoivanovka, and Slavyansk (Donetsk People's Republic).
+The Zapad Group's units improved the situation along the front line and inflicted losses
+on manpower and hardware of two mechanised assault brigades, one assault brigade of the AFU, and one territorial defence brigade near Volchiy Yar, Berezovka, Blagodatovka, Tamarganovka, Osinovo, Maleyevka, and Grushevka (Kharkov region).
 ▪️
-The enemy lost up to 160 troops, 21 motor vehicles, and one field artillery gun.
+The AFU losses amounted to up to 220 troops, two armoured fighting vehicles, nine motor vehicles, and two electronic warfare stations.
+📍
+The Yuzhnaya Group of Forces took more advantageous lines and positions.
+Strikes were delivered at formations of two mechanised brigades, one mountain assault brigade, one unmanned systems brigade of the AFU, and one marine brigade close to Yasnogorka, Belenkoye, Nikolayevka, Vasilevskaya Pustosh, Druzhkovka, Semenovka, Kramatorsk, and Slavyansk (Donetsk People's Republic).
+▪️
+The enemy lost up to 195 troops, one armoured fighting vehicle, 23 motor vehicles, two artillery guns, and one electronic warfare station.
 👉
 See
 Part 2

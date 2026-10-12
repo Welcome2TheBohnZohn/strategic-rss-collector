@@ -6,7 +6,7 @@ Include regex: /gfbw/fgwx/bps/
 Include text regex: 
 
 Candidate links: 28
-All links discovered: 180
+All links discovered: 179
 
 === MATCHED CANDIDATES ===
 
@@ -293,18 +293,16 @@ http://www.mod.gov.cn/gfbw/fgwx/bps/4850789.html
   《平等 发展 共享：新中国70年妇女事业的发展与进步》白皮书发表 2019-09-20 10:34
 http://www.mod.gov.cn/gfbw/fgwx/bps/4846424.html
   《新时代的中国国防》白皮书（全文） 2019-07-24 11:24
+http://www.mod.gov.cn/gfbw/qwfb/16492391.html
+  习近平致电祝贺马迪塞就任爱沙尼亚总统
+http://www.mod.gov.cn/gfbw/qwfb/16492329.html
+  庆祝中华人民共和国成立77周年招待会在京举行 习近平发表重要讲话
+http://www.mod.gov.cn/gfbw/qwfb/16490624.html
+  讲话全文
 http://www.mod.gov.cn/gfbw/qwfb/16490617.html
   烈士纪念日向人民英雄敬献花篮仪式在京隆重举行 习近平等党和国家领导人出席
 http://www.mod.gov.cn/gfbw/qwfb/16490470.html
   习近平同文莱苏丹哈桑纳尔就中文建交35周年互致贺电
-http://www.mod.gov.cn/gfbw/qwfb/16490480.html
-  《求是》杂志发表习近平总书记重要文章
-http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16490485.html
-  《加强普惠性、基础性、兜底性民生建设》
-http://www.mod.gov.cn/gfbw/qwfb/16490420.html
-  习近平给四川大学全体师生回信
-http://www.mod.gov.cn/gfbw/qwfb/16490162.html
-  全文
 http://www.mod.gov.cn/gfbw/qwfb/16489956.html
   张升民会见王戟同志先进事迹报告团成员并讲话
 http://www.mod.gov.cn/gfbw/spbb_214126/16492240.html

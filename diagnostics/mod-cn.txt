@@ -6,7 +6,7 @@ Include regex: /gfbw/|/xwfyr/|/wzll/
 Include text regex: 
 
 Candidate links: 50
-All links discovered: 244
+All links discovered: 242
 
 === MATCHED CANDIDATES ===
 
@@ -30,7 +30,7 @@ http://www.mod.gov.cn/gfbw/qwfb/16490617.html
   烈士纪念日向人民英雄敬献花篮仪式在京隆重举行 习近平等党和国家领导人出席
 http://www.mod.gov.cn/gfbw/gfjy_index/16492264.html
   广东省连州市瑶安瑶族乡田心村村民设立“红军节”，接续守护无名红军烈士墓
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16490615.html
+http://www.mod.gov.cn/gfbw/qwfb/16492329.html
   庆祝中华人民共和国成立77周年招待会在京举行 习近平发表重要讲话
 http://www.mod.gov.cn/gfbw/gffw/16490106.html
   安徽省宣城市扎实做好退役士兵选岗工作 拓宽岗位来源 提高安置质效
@@ -40,6 +40,8 @@ http://www.mod.gov.cn/gfbw/gffw/16488523.html
   海口军代室以航空方式保障部分新兵跨海奔赴军营——空中通道增效率
 http://www.mod.gov.cn/gfbw/gfjy_index/16492265.html
   走进甘肃省宕昌县哈达铺镇——昔日长征“加油站” 今朝旧貌换新颜
+http://www.mod.gov.cn/gfbw/sy/tt_214026/16492326.html
+  习近平同巴布亚新几内亚总督达达埃就中巴新建交50周年互致贺电
 http://www.mod.gov.cn/gfbw/sy/rt/16490629.html
   习近平等党和国家领导人出席烈士纪念日向人民英雄敬献花篮仪式
 http://www.mod.gov.cn/gfbw/jsxd/16484704.html
@@ -94,16 +96,14 @@ http://www.mod.gov.cn/gfbw/gfdy/16487706.html
   云南省贡山县人武部结对帮扶独龙江乡马库村
 http://www.mod.gov.cn/gfbw/sy/rt/16489354.html
   习近平和彭丽媛同美国总统特朗普夫妇茶叙
-http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16490485.html
-  《加强普惠性、基础性、兜底性民生建设》
 http://www.mod.gov.cn/gfbw/qwfb/16491925.html
   2026年10月上旬国防部例行新闻发布
 http://www.mod.gov.cn/gfbw/qwfb/16491895.html
   中方将举办联合国维和参谋军官国际培训班
 http://www.mod.gov.cn/gfbw/xwfyr/16491923.html
   2026年10月上旬国防部例行新闻发布
-http://www.mod.gov.cn/gfbw/qwfb/16490480.html
-  《求是》杂志发表习近平总书记重要文章
+http://www.mod.gov.cn/gfbw/qwfb/16492391.html
+  习近平致电祝贺马迪塞就任爱沙尼亚总统
 http://www.mod.gov.cn/gfbw/wzll/16492243.html
   军营观察丨一门国家级精品课的进阶密码
 http://www.mod.gov.cn/gfbw/gffw/16488819.html
@@ -298,10 +298,8 @@ http://www.mod.gov.cn/gfbw/sy/jt_214028/16491335.html
   陆军某部官兵执行巡逻任务
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16491231.html
   海军某支队开展海上多科目训练
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16490615.html
-  庆祝中华人民共和国成立77周年招待会在京举行 习近平发表重要讲话
-http://www.mod.gov.cn/gfbw/qwfb/16490624.html
-  讲话全文
+http://www.mod.gov.cn/gfbw/sy/tt_214026/16492326.html
+  习近平同巴布亚新几内亚总督达达埃就中巴新建交50周年互致贺电
 http://www.mod.gov.cn/gfbw/sy/rt/16490689.html
   习近平等党和国家领导人出席庆祝中华人民共和国成立77周年招待会
 http://www.mod.gov.cn/gfbw/sy/rt/16490629.html
@@ -312,18 +310,16 @@ http://www.mod.gov.cn/gfbw/sy/rt/16489354.html
   习近平和彭丽媛同美国总统特朗普夫妇茶叙
 http://www.mod.gov.cn/gfbw/sy/rt/16489162.html
   习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴
+http://www.mod.gov.cn/gfbw/qwfb/16492391.html
+  习近平致电祝贺马迪塞就任爱沙尼亚总统
+http://www.mod.gov.cn/gfbw/qwfb/16492329.html
+  庆祝中华人民共和国成立77周年招待会在京举行 习近平发表重要讲话
+http://www.mod.gov.cn/gfbw/qwfb/16490624.html
+  讲话全文
 http://www.mod.gov.cn/gfbw/qwfb/16490617.html
   烈士纪念日向人民英雄敬献花篮仪式在京隆重举行 习近平等党和国家领导人出席
 http://www.mod.gov.cn/gfbw/qwfb/16490470.html
   习近平同文莱苏丹哈桑纳尔就中文建交35周年互致贺电
-http://www.mod.gov.cn/gfbw/qwfb/16490480.html
-  《求是》杂志发表习近平总书记重要文章
-http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16490485.html
-  《加强普惠性、基础性、兜底性民生建设》
-http://www.mod.gov.cn/gfbw/qwfb/16490420.html
-  习近平给四川大学全体师生回信
-http://www.mod.gov.cn/gfbw/qwfb/16490162.html
-  全文
 http://www.mod.gov.cn/gfbw/qwfb/16489956.html
   张升民会见王戟同志先进事迹报告团成员并讲话
 http://www.mod.gov.cn/gfbw/qwfb/16491925.html
