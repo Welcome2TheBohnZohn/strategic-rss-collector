@@ -6,7 +6,7 @@ Include regex: norincogroup\.com\.cn/.+
 Include text regex: 
 
 Candidate links: 50
-All links discovered: 191
+All links discovered: 192
 
 === MATCHED CANDIDATES ===
 
@@ -191,6 +191,10 @@ http://www.norincogroup.com.cn/art/2026/9/22/art_85_577176.html
   兵器工业集团2家单位入选首批国家新兴产业发展示范...
 http://www.norincogroup.com.cn/art/2026/9/21/art_85_577068.html
   北方公司亮相2026非洲航空航天与防务展
+https://article.xuexi.cn/articles/index.html?art_id=11385876609027107289&item_id=11385876609027107289&study_style_id=feeds_opaque&pid=&ptype=-1&source=share&share_to=wx_single
+  学习强国平台：国内首台矿用永磁移动式排水车通过井...
+https://article.xuexi.cn/articles/index.html?art_id=8733729406625615025&item_id=8733729406625615025&study_style_id=feeds_opaque&pid=&ptype=-1&source=share&share_to=wx_single
+  学习强国平台：兵器工业集团一机钻具首次闯入中东高...
 https://mp.weixin.qq.com/s/KEHGVJQpxRxKZdZUrYPAcA
   【企步新长征】国资报告：兴国官田中央兵工厂：“中...
 https://mp.weixin.qq.com/s/BwtKCfcRuZVWXPc3tmDNgw
@@ -203,10 +207,6 @@ https://article.xuexi.cn/articles/index.html?art_id=1058611056485160484&item_id=
   学习强国平台：技术赋能绿色物流，兵器工业集团成功...
 https://article.xuexi.cn/articles/index.html?art_id=9327012913884849433&item_id=9327012913884849433&study_style_id=feeds_opaque&pid=&ptype=-1&source=share&share_to=wx_single
   学习强国平台：爬不动山？走不动路？可以租“踏山”...
-https://dj.jxnews.com.cn/webDetails/newsPc?id=14793491&tenantId=312&uid=6846d7604c6dff00192fba43&sign=1
-  大江新闻 | 从官田到世界：一家军工央企的95年...
-https://www.chinanews.com.cn/cj/shipin/2026/08-31/news1067157.shtml
-  【企步新长征】中国新闻网：阅兵场上先进装备的摇篮...
 http://www.sasac.gov.cn/n2588025/n2643314/c35968530/content.html
   国务院国资委党委学习贯彻习近平总书记就发展先进制...
 http://www.sasac.gov.cn/n2588025/n2643314/c35847444/content.html
@@ -394,10 +394,11 @@ http://www.norincogroup.com.cn/picture/0/f63663387e434b25ae9eb65e9f48f6ad.jpg
 http://www.norincogroup.com.cn/picture/0/s_a6c39e08f7024b93899de7c38119f06e.jpg
 http://www.norincogroup.com.cn/picture/0/s_b522cee4dd8d4ea99da33bfede03bd00.jpg
 http://www.norincogroup.com.cn/picture/0/s_682ad87660764229a4f93b4188642a26.jpg
+https://article.xuexi.cn/articles/index.html?art_id=11385876609027107289&amp;item_id=11385876609027107289&amp;study_style_id=feeds_opaque&amp;pid=&amp;ptype=-1&amp;source=share&amp;share_to=wx_single
+https://article.xuexi.cn/articles/index.html?art_id=8733729406625615025&amp;item_id=8733729406625615025&amp;study_style_id=feeds_opaque&amp;pid=&amp;ptype=-1&amp;source=share&amp;share_to=wx_single
 https://www.sxworker.com/e/wap/show.php?classid=13&amp;id=223536
 https://article.xuexi.cn/articles/index.html?art_id=1058611056485160484&amp;item_id=1058611056485160484&amp;study_style_id=feeds_opaque&amp;pid=&amp;ptype=-1&amp;source=share&amp;share_to=wx_single
 https://article.xuexi.cn/articles/index.html?art_id=9327012913884849433&amp;item_id=9327012913884849433&amp;study_style_id=feeds_opaque&amp;pid=&amp;ptype=-1&amp;source=share&amp;share_to=wx_single
-https://dj.jxnews.com.cn/webDetails/newsPc?id=14793491&amp;tenantId=312&amp;uid=6846d7604c6dff00192fba43&amp;sign=1
 http://www.norincogroup.com.cn/picture/0/1610091647122417824.png
 http://www.norincogroup.com.cn/picture/0/fe4c8ea2a21b4ec3bd6dbb78398bfc4c.png
 http://www.norincogroup.com.cn/picture/0/515b3dc48fee4d239034c9beb643c20b.jpg
