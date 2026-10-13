@@ -82,16 +82,14 @@ https://www.ncpssd.cn/topics/detailsList?id=4&wfColumn=1&resourceType=0
   建设中国特色新型智库
 https://www.ncpssd.cn/message?id=18622
   积极助力现代公共文化服务体系建设 ——国家哲学社会科学文献中心走进贵州省“两会”
-https://www.ncpssd.cn/message?id=22369
-  烈士纪念日向人民英雄敬献花篮仪式在京隆重举行 习近平等党和国家领导人出席
 https://www.ncpssd.cn/message?id=22373
   庆祝中华人民共和国成立77周年招待会在京举行 习近平发表重要讲话
+https://www.ncpssd.cn/message?id=22412
+  习近平同巴布亚新几内亚总督达达埃就中巴新建交50周年互致贺电
 https://www.ncpssd.cn/message?id=18580
   国家哲学社会科学文献中心为贵阳市“两会”提供学术资源服务
 https://www.ncpssd.cn/message?id=22372
   习近平：在庆祝中华人民共和国成立77周年招待会上的讲话
-https://www.ncpssd.cn/message?id=22370
-  习近平同文莱苏丹哈桑纳尔就中文建交35周年互致贺电
 https://www.ncpssd.cn/message?id=19563
   国家哲学社会科学文献中心发布最受欢迎期刊报告
 https://www.ncpssd.cn/message?id=19564
@@ -110,6 +108,8 @@ https://www.ncpssd.cn/sso/getTokenCurrentUser?ssoClient=wxEN
   getTokenCurrentUser
 https://www.ncpssd.cn/Literature/ancientbooklistNew?nav=5
   ancientbooklistNew
+https://www.ncpssd.cn/message?id=22413
+  习近平致电祝贺马迪塞就任爱沙尼亚总统
 https://www.ncpssd.cn/js/jquery.hiSlider.js
   jquery.hiSlider.js
 https://www.ncpssd.cn/js/sensorsdata.min.js
@@ -161,16 +161,16 @@ https://www.ncpssd.cn/messages
 https://www.ncpssd.cn/message?id=22266
 https://www.ncpssd.cn/message?id=22261
 https://www.ncpssd.cn/message?id=22214
+https://www.ncpssd.cn/message?id=22413
+  习近平致电祝贺马迪塞就任爱沙尼亚总统
+https://www.ncpssd.cn/message?id=22412
+  习近平同巴布亚新几内亚总督达达埃就中巴新建交50周年互致贺电
 https://www.ncpssd.cn/message?id=22372
   习近平：在庆祝中华人民共和国成立77周年招待会上的讲话
 https://www.ncpssd.cn/message?id=22373
   庆祝中华人民共和国成立77周年招待会在京举行 习近平发表重要讲话
 https://www.ncpssd.cn/message?id=22371
   习近平：加强普惠性、基础性、兜底性民生建设
-https://www.ncpssd.cn/message?id=22370
-  习近平同文莱苏丹哈桑纳尔就中文建交35周年互致贺电
-https://www.ncpssd.cn/message?id=22369
-  烈士纪念日向人民英雄敬献花篮仪式在京隆重举行 习近平等党和国家领导人出席
 https://www.ncpssd.cn/message?id=19563
   国家哲学社会科学文献中心发布最受欢迎期刊报告
 https://www.ncpssd.cn/message?id=19564

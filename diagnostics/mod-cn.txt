@@ -18,8 +18,6 @@ http://www.mod.gov.cn/gfbw/jswj/16492058.html
   海军“吉祥方舟”号医院船结束访问几内亚
 http://www.mod.gov.cn/gfbw/jmsd/16492070.html
   强军论坛丨当好清正廉洁的“守门员”
-http://www.mod.gov.cn/gfbw/jmsd/16492045.html
-  八一锐评丨一步一步扎实往前走
 http://www.mod.gov.cn/gfbw/spbb_214126/16492092.html
   AI微短剧《铁记得》第四集
 http://www.mod.gov.cn/gfbw/fgwx/16482045.html
@@ -110,6 +108,8 @@ http://www.mod.gov.cn/gfbw/gffw/16488819.html
   2026年下半年新兵运输工作全面启动
 http://www.mod.gov.cn/gfbw/gfdy/16490401.html
   湖南省湘西州永顺县双凤村送兵仪式侧记
+http://www.mod.gov.cn/gfbw/fgwx/16448582.html
+  中华人民共和国民族团结进步促进法
 
 === ALL DISCOVERED LINKS ===
 
@@ -403,12 +403,12 @@ http://www.mod.gov.cn/gfbw/jmsd/index.html
   军媒视点
 http://www.mod.gov.cn/gfbw/jmsd/16490931.html
   解放军报评论员：推进祖国统一大业
+http://www.mod.gov.cn/gfbw/jmsd/16492453.html
+  八一锐评丨开好“板凳座谈会”
 http://www.mod.gov.cn/gfbw/jmsd/16492235.html
   强军论坛丨涵养超常的眼光和见识
 http://www.mod.gov.cn/gfbw/jmsd/16492070.html
   强军论坛丨当好清正廉洁的“守门员”
-http://www.mod.gov.cn/gfbw/jmsd/16492045.html
-  八一锐评丨一步一步扎实往前走
 http://www.mod.gov.cn/gfbw/gfdy/16487706.html
   云南省贡山县人武部结对帮扶独龙江乡马库村
 http://www.mod.gov.cn/gfbw/gfdy/16491664.html
@@ -449,6 +449,8 @@ http://www.mod.gov.cn/gfbw/tp_214132/jsjs/index.html
   军事纪实
 http://www.mod.gov.cn/gfbw/tp_214132/tsjs/index.html
   图说军史
+http://www.mod.gov.cn/gfbw/tp_214132/16492405.html
+  陆军某旅开展飞行训练
 http://www.mod.gov.cn/gfbw/tp_214132/16492156.html
   陆军某部开展远程机动训练
 http://www.mod.gov.cn/gfbw/tp_214132/16492162.html
@@ -457,8 +459,6 @@ http://www.mod.gov.cn/gfbw/tp_214132/16492124.html
   海军某支队开展海上多科目训练
 http://www.mod.gov.cn/gfbw/tp_214132/16491400.html
   第73集团军某旅参加实弹射击训练的战车，向目标地域机动
-http://www.mod.gov.cn/gfbw/tp_214132/16491382.html
-  海军某支队准备开展舰艇航行补给训练
 http://www.gfbzb.gov.cn/
   全国征兵网
 http://www.xinhuanet.com/
@@ -528,11 +528,11 @@ http://www.mod.gov.cn/gfbw/jmsd/_attachment/2024/05/04/16490931_dcd32098417c948f
 http://www.mod.gov.cn/gfbw/gfdy/_attachment/2026/09/20/16487706_b3976ec10633c6611756bb8b41668750.png
 http://www.mod.gov.cn/gfbw/gfjy_index/_attachment/2026/10/08/16491448_18ba963aa62b1bb03a46a6d8f0faf0bc.jpg
 http://www.mod.gov.cn/gfbw/zt/_attachment/2026/08/20/16479151_1572281a51f5ab63ef863d55fdea15e0.jpg
+http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/10/12/16492405_dcd549df99846d180109213a07155d62.jpg
 http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/10/11/16492156_0db1336f9ed9f2a80f339600d1a3925f.jpg
 http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/10/11/16492162_e85d74072d3f109ab9298f8f4bd17b4e.jpg
 http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/10/11/16492124_af3690b29a375ce3f10ede08a2ec0054.jpg
 http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/10/07/16491400_5b9c9397b538371072f76db29ca10be1.jpg
-http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/10/07/16491382_ba414d719e554d4f0d9ad75c63f86f66.jpg
 http://www.81.cn/page/report.htm
 http://www.mod.gov.cn/template/tenant207/t179/js/javascript.js?v=20224291
 http://www.mod.gov.cn/material/js/jquery.s2t.js?v=2022
