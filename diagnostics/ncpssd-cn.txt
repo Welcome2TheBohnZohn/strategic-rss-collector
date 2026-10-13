@@ -96,8 +96,8 @@ https://www.ncpssd.cn/message?id=19564
   《在学术期刊中合理应用人工智能的倡议书》发布
 https://www.ncpssd.cn/message?id=18273
   国家哲学社会科学文献中心走进贵州省图书馆学会
-https://www.ncpssd.cn/message?id=22371
-  习近平：加强普惠性、基础性、兜底性民生建设
+https://www.ncpssd.cn/message?id=22414
+  习近平出席全国卫生与健康大会并发表重要讲话
 https://www.ncpssd.cn/js/jquery-1.11.1.min.js
   jquery-1.11.1.min.js
 https://www.ncpssd.cn/css/jquery.hiSlider.css
@@ -158,9 +158,11 @@ http://wpa.b.qq.com/cgi/wpa.php?ln=1&key=XzgwMDE4NTkzM180NzUyOThfODAwMTg1OTMzXzJ
   在线咨询
 https://www.ncpssd.cn/messages
   查看更多
+https://www.ncpssd.cn/message?id=22416
+https://www.ncpssd.cn/message?id=22415
 https://www.ncpssd.cn/message?id=22266
-https://www.ncpssd.cn/message?id=22261
-https://www.ncpssd.cn/message?id=22214
+https://www.ncpssd.cn/message?id=22414
+  习近平出席全国卫生与健康大会并发表重要讲话
 https://www.ncpssd.cn/message?id=22413
   习近平致电祝贺马迪塞就任爱沙尼亚总统
 https://www.ncpssd.cn/message?id=22412
@@ -169,8 +171,6 @@ https://www.ncpssd.cn/message?id=22372
   习近平：在庆祝中华人民共和国成立77周年招待会上的讲话
 https://www.ncpssd.cn/message?id=22373
   庆祝中华人民共和国成立77周年招待会在京举行 习近平发表重要讲话
-https://www.ncpssd.cn/message?id=22371
-  习近平：加强普惠性、基础性、兜底性民生建设
 https://www.ncpssd.cn/message?id=19563
   国家哲学社会科学文献中心发布最受欢迎期刊报告
 https://www.ncpssd.cn/message?id=19564
@@ -313,13 +313,13 @@ https://www.ncpssd.cn/images/small-hide.png
 https://www.ncpssd.cn/images/zhuanti/beijing.png
 https://www.ncpssd.cn/images/tbgx.png
 https://www.ncpssd.cn/css/font/stzhongs.ttf
-https://ft.ncpssd.cn/image/get/npssd/pageStyle?url=img/1790749873756.jpg
+https://ft.ncpssd.cn/image/get/npssd/pageStyle?url=img/1717135759278.jpg
 https://www.ncpssd.cn/images/close2.png
 https://www.ncpssd.cn/images/qu.png
 https://www.ncpssd.cn/images/add1.png
+https://ft.ncpssd.cn/image/get/npssd/column?url=img/1791879890008.jpg
+https://ft.ncpssd.cn/image/get/npssd/column?url=img/1791877288067.jpg
 https://ft.ncpssd.cn/image/get/npssd/column?url=img/1789348224230.jpg
-https://ft.ncpssd.cn/image/get/npssd/column?url=img/1789348196867.jpg
-https://ft.ncpssd.cn/image/get/npssd/column?url=img/1788330298661.jpg
 https://ft.ncpssd.cn/image/get/npssd/topic?url=img/1758001813519.jpg
 https://ft.ncpssd.cn/image/get/npssd/topic?url=img/1763085826266.jpg
 https://www.ncpssd.cn/images/word1.png
