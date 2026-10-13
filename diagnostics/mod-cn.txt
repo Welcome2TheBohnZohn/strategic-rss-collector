@@ -449,6 +449,8 @@ http://www.mod.gov.cn/gfbw/tp_214132/jsjs/index.html
   军事纪实
 http://www.mod.gov.cn/gfbw/tp_214132/tsjs/index.html
   图说军史
+http://www.mod.gov.cn/gfbw/tp_214132/16492877.html
+  海军某支队开展海上训练
 http://www.mod.gov.cn/gfbw/tp_214132/16492771.html
   第75集团军某旅开展飞行训练
 http://www.mod.gov.cn/gfbw/tp_214132/16492405.html
@@ -457,8 +459,6 @@ http://www.mod.gov.cn/gfbw/tp_214132/16492156.html
   陆军某部开展远程机动训练
 http://www.mod.gov.cn/gfbw/tp_214132/16492162.html
   空军某部开展飞行训练
-http://www.mod.gov.cn/gfbw/tp_214132/16492124.html
-  海军某支队开展海上多科目训练
 http://www.gfbzb.gov.cn/
   全国征兵网
 http://www.xinhuanet.com/
@@ -528,11 +528,11 @@ http://www.mod.gov.cn/gfbw/jmsd/_attachment/2024/05/04/16490931_dcd32098417c948f
 http://www.mod.gov.cn/gfbw/gfdy/_attachment/2026/09/20/16487706_b3976ec10633c6611756bb8b41668750.png
 http://www.mod.gov.cn/gfbw/gfjy_index/_attachment/2026/10/08/16491448_18ba963aa62b1bb03a46a6d8f0faf0bc.jpg
 http://www.mod.gov.cn/gfbw/zt/_attachment/2026/08/20/16479151_1572281a51f5ab63ef863d55fdea15e0.jpg
+http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/10/14/16492877_909a7ca2d9681622574671e172700a4d.jpg
 http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/10/13/16492771_36698287b4f28cfaab281d2524b81828.jpg
 http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/10/12/16492405_dcd549df99846d180109213a07155d62.jpg
 http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/10/11/16492156_0db1336f9ed9f2a80f339600d1a3925f.jpg
 http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/10/11/16492162_e85d74072d3f109ab9298f8f4bd17b4e.jpg
-http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/10/11/16492124_af3690b29a375ce3f10ede08a2ec0054.jpg
 http://www.81.cn/page/report.htm
 http://www.mod.gov.cn/template/tenant207/t179/js/javascript.js?v=20224291
 http://www.mod.gov.cn/material/js/jquery.s2t.js?v=2022
