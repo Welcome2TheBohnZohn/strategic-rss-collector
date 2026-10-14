@@ -1,99 +1,79 @@
 {
-  "issue_date": "2026-10-14",
+  "issue_date": "2026-10-15",
   "issue_pages": [
     {
       "paper_number": "01",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-10-14&paperName=zggfb&paperNumber=01",
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-10-15&paperName=zggfb&paperNumber=01",
       "links": 71,
-      "article_links": 4
+      "article_links": 3
     },
     {
       "paper_number": "02",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-10-14&paperName=zggfb&paperNumber=02",
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-10-15&paperName=zggfb&paperNumber=02",
       "links": 75,
       "article_links": 5
     },
     {
       "paper_number": "03",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-10-14&paperName=zggfb&paperNumber=03",
-      "links": 69,
-      "article_links": 3
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-10-15&paperName=zggfb&paperNumber=03",
+      "links": 63,
+      "article_links": 1
     },
     {
       "paper_number": "04",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-10-14&paperName=zggfb&paperNumber=04",
-      "links": 71,
-      "article_links": 5
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-10-15&paperName=zggfb&paperNumber=04",
+      "links": 67,
+      "article_links": 3
     }
   ],
   "candidates": [
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-14&paperNumber=01&articleid=988243",
-      "anchor_title": "那盏清油灯，照亮前行的路"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-15&paperNumber=01&articleid=988335",
+      "anchor_title": "泰山之巅，万人同升一面旗"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-14&paperNumber=01&articleid=988242",
-      "anchor_title": "“大渡河十七勇士”身份有新消息了"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-15&paperNumber=01&articleid=988334",
+      "anchor_title": "26处红色地标成为育人课堂"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-14&paperNumber=01&articleid=988244",
-      "anchor_title": "把每件小事都当大事干"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-15&paperNumber=01&articleid=988337",
+      "anchor_title": "雨中比拼淬炼保障硬功"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-14&paperNumber=01&articleid=988246",
-      "anchor_title": "一面锦旗"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-15&paperNumber=02&articleid=988324",
+      "anchor_title": "药匣的故事动人心"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-14&paperNumber=02&articleid=988252",
-      "anchor_title": "街巷当战位 热心解民忧"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-15&paperNumber=02&articleid=988325",
+      "anchor_title": "特色文旅蹚出致富路"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-14&paperNumber=02&articleid=988253",
-      "anchor_title": "网格作哨位 真情护乡邻"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-15&paperNumber=02&articleid=988326",
+      "anchor_title": "康复仪器送到家"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-14&paperNumber=02&articleid=988251",
-      "anchor_title": "“未至的远方，我们替您抵达”"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-15&paperNumber=02&articleid=988330",
+      "anchor_title": "建立预储机制 贯通保障链路"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-14&paperNumber=02&articleid=988255",
-      "anchor_title": "街头驶来“国防号”"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-15&paperNumber=02&articleid=988328",
+      "anchor_title": "微新闻"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-14&paperNumber=02&articleid=988257",
-      "anchor_title": "甲洲路旁，“小红星”茁壮成长"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-15&paperNumber=03&articleid=988339",
+      "anchor_title": "“我永远是一名白衣战士”"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-14&paperNumber=03&articleid=988248",
-      "anchor_title": "始终绷紧国防这根弦"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-15&paperNumber=04&articleid=988332",
+      "anchor_title": "红军战胜雪山的独特“法宝”"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-14&paperNumber=03&articleid=988247",
-      "anchor_title": "千钧重担人人挑"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-15&paperNumber=04&articleid=988331",
+      "anchor_title": "八路军激战上下细腰涧"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-14&paperNumber=03&articleid=988250",
-      "anchor_title": "社区文艺队去哪了"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-14&paperNumber=04&articleid=988258",
-      "anchor_title": "德国陆军筹建首个无人机团"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-14&paperNumber=04&articleid=988259",
-      "anchor_title": "波兰欲打造国产版“星链”系统"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-14&paperNumber=04&articleid=988260",
-      "anchor_title": "韩国深化与北约防务产业合作"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-14&paperNumber=04&articleid=988261",
-      "anchor_title": "土耳其斥巨资采购国产防空系统"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-14&paperNumber=04&articleid=988262",
-      "anchor_title": "美国“康涅狄格”号核潜艇修复延期"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-15&paperNumber=04&articleid=988333",
+      "anchor_title": "一枚印章，见证长征铁纪"
     }
   ]
 }

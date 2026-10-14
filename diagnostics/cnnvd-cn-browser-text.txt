@@ -23,66 +23,66 @@ CNNVD动态
 重置
 收起 
 漏洞信息
-Microsoft DNS Server 缓冲区错误漏洞
+Microsoft RPC Endpoint Mapper Service 资源管理错误漏洞
 中危
 收录时间：2026-10-13
 |
-更新时间: 2026-10-14 16:18:39
-CNNVD编号：CNNVD-2026-83183334
-Microsoft DNS Server 缓冲区错误漏洞
-中危
-收录时间：2026-10-13
-|
-更新时间: 2026-10-14 16:18:38
-CNNVD编号：CNNVD-2026-17505002
-Microsoft DNS Server 缓冲区错误漏洞
-中危
-收录时间：2026-10-13
-|
-更新时间: 2026-10-14 16:18:37
-CNNVD编号：CNNVD-2026-96746414
-Microsoft DNS Server 缓冲区错误漏洞
-中危
-收录时间：2026-10-13
-|
-更新时间: 2026-10-14 16:18:35
-CNNVD编号：CNNVD-2026-26462820
-SAP S/4HANA 代码注入漏洞
-超危
-收录时间：2026-10-13
-|
-更新时间: 2026-10-14 11:55:10
-CNNVD编号：CNNVD-2026-79586779
-SAP NetWeaver Enterprise Portal 权限许可和访问控制问题漏洞
-中危
-收录时间：2026-10-13
-|
-更新时间: 2026-10-14 11:55:14
-CNNVD编号：CNNVD-2026-18587783
-SAP Commerce Cloud SQL注入漏洞
+更新时间: 2026-10-14 16:22:06
+CNNVD编号：CNNVD-2026-64694278
+Microsoft Windows Storage Spaces Controller 缓冲区错误漏洞
 高危
 收录时间：2026-10-13
 |
-更新时间: 2026-10-14 11:55:10
-CNNVD编号：CNNVD-2026-16550018
-SAP NetWeaver Enterprise Portal 输入验证错误漏洞
+更新时间: 2026-10-14 16:22:38
+CNNVD编号：CNNVD-2026-12799428
+Microsoft Office Outlook 缓冲区错误漏洞
+超危
+收录时间：2026-10-13
+|
+更新时间: 2026-10-14 16:22:33
+CNNVD编号：CNNVD-2026-94412936
+Microsoft Windows Search Component 竞争条件问题漏洞
+高危
+收录时间：2026-10-13
+|
+更新时间: 2026-10-14 16:22:31
+CNNVD编号：CNNVD-2026-59808837
+Microsoft Windows Deployment Services 竞争条件问题漏洞
+高危
+收录时间：2026-10-13
+|
+更新时间: 2026-10-14 16:22:31
+CNNVD编号：CNNVD-2026-21287772
+Microsoft Windows Universal Plug and Play Device Host 缓冲区错误漏洞
+高危
+收录时间：2026-10-13
+|
+更新时间: 2026-10-14 16:22:50
+CNNVD编号：CNNVD-2026-53442713
+Microsoft Windows Print Spooler Components 缓冲区错误漏洞
 中危
 收录时间：2026-10-13
 |
-更新时间: 2026-10-14 11:55:24
-CNNVD编号：CNNVD-2026-20959598
-SAP S/4HANA 授权问题漏洞
+更新时间: 2026-10-14 16:22:45
+CNNVD编号：CNNVD-2026-15514785
+Microsoft .NET 输入验证错误漏洞
 中危
 收录时间：2026-10-13
 |
-更新时间: 2026-10-14 11:55:46
-CNNVD编号：CNNVD-2026-15088675
-GitLab 授权问题漏洞
-中危
+更新时间: 2026-10-14 16:22:13
+CNNVD编号：CNNVD-2026-53207969
+Microsoft .NET 软件供应链问题漏洞
+高危
 收录时间：2026-10-13
 |
-更新时间: 2026-10-13 16:32:20
-CNNVD编号：CNNVD-2026-21374411
+更新时间: 2026-10-14 16:22:13
+CNNVD编号：CNNVD-2026-75577739
+Microsoft Windows Internal System User Profile 资源管理错误漏洞
+高危
+收录时间：2026-10-13
+|
+更新时间: 2026-10-14 16:22:12
+CNNVD编号：CNNVD-2026-76157795
 共 399816 条
 12345639982
 前往页
