@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>National University of Defense Technology Journal</title><link>https://journal.nudt.edu.cn/</link><description>Generated RSS feed for National University of Defense Technology Journal</description><language>zh-CN</language><lastBuildDate>Wed, 14 Oct 2026 05:06:54 +0000</lastBuildDate><item><title>多核数字信号处理器矩阵乘卷积算法性能评测</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/202301009?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/202301009?tab=abstract</guid><pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate><description>(1. 国防科技大学 计算机学院, 湖南 长沙 410073;2. 国防科技大学 并行与分布处理国防科技重点实验室, 湖南 长沙 410073)
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>National University of Defense Technology Journal</title><link>https://journal.nudt.edu.cn/</link><description>Generated RSS feed for National University of Defense Technology Journal</description><language>zh-CN</language><lastBuildDate>Wed, 14 Oct 2026 12:08:32 +0000</lastBuildDate><item><title>多核数字信号处理器矩阵乘卷积算法性能评测</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/202301009?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/202301009?tab=abstract</guid><pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate><description>(1. 国防科技大学 计算机学院, 湖南 长沙 410073;2. 国防科技大学 并行与分布处理国防科技重点实验室, 湖南 长沙 410073)
 
 王庆林(1987—),男,贵州思南人,副研究员,博士,硕士生导师,E-mail:wangqinglin_thu@163.com; 裴向东(通信作者),男,山西长治人,博士研究生,E-mail:18903588277@163.com
 
@@ -33,15 +33,7 @@ In order to improve the operational effectiveness and operational indicators of 
 
 In order to improve the operational effectiveness and operational indicators of the UAV (unmanned aerial vehicle), and to enhance the accuracy and reliability of the UAV relative navigation system, a novel relative navigation method was proposed. Under the background of relative navigation system, the cubature information filter based on the cubature Kalman filter and information filter was studied. Moreover, an INS/GPS/VisNav relative navigation filter was designed by making use of the multi-sensor information fusion theory and distributed information fusion structure to fuse the information from INS, VisNav and GPS, and then the relative position, velocity and attitude were obtained. By making use of this algorithm, the accuracy, reliability and stability of the reliability navigation system were all improved. In addition, the accuracy decrease and numerical instability which often occur to traditional filter were avoided by cubature information filter. Mathematical simulation results indicate that the method can improve the accuracy and reliability of the UAV relative navigation system, and the proposed algorithm is verified.
 
-金红新，杨涛，王小刚，等.多传感器信息融合理论在无人机相对导航中的应用[J].国防科技大学学报,2017,39(5):90-95. JIN Hongxin, YANG Tao, WANG Xiaogang, et al. Application of multisensor information fusion in UAV relative navigation method[J]. Journal of National University of Defense Technology,2017,39(5):90-95.&lt;/pre&gt;</content:encoded></item><item><title>高超声速飞行器滑翔制导方法综述</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201703003?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201703003?tab=abstract</guid><pubDate>Sun, 10 Jan 2016 00:00:00 +0000</pubDate><description>阐明高超声速飞行器滑翔制导的基本问题，分析滑翔制导过程面临的复杂多约束、机动任务要求、参数扰动等研究难点；分别就国内外标准轨迹制导方法和预测-校正制导方法相关研究现状展开综述，指出了这两类方法中存在的问题。在此基础上，提出高超声速飞行器滑翔制导研究中亟待解决的关键问题，并指出未来滑翔制导方法的研究热点。
-
-The basic problem of gliding guidance for hypersonic vehicles was proposed, and the difficulties of complicated multiple constraints, maneuver requirements, and parameter perturbation in the course of gliding guidance were analyzed. The corresponding research status at home and abroad was surveyed, and the problems were also pointed out. On this basis, the key problems required to be solved at present in the research of gliding guidance for hypersonic vehicles were presented, and the research hotspots in the methods of future gliding guidance were also pointed out. 
-
-潘亮，谢愈，彭双春，等.高超声速飞行器滑翔制导方法综述[J].国防科技大学学报,2017,39(3):15-22. PAN Liang, XIE Yu, PENG Shuangchun, et al. A survey of gliding guidance methods for hypersonic vehicles[J]. Journal of National University of Defense Technology,2017,39(3):15-22.</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201703003?tab=abstract&lt;/p&gt;&lt;pre&gt;阐明高超声速飞行器滑翔制导的基本问题，分析滑翔制导过程面临的复杂多约束、机动任务要求、参数扰动等研究难点；分别就国内外标准轨迹制导方法和预测-校正制导方法相关研究现状展开综述，指出了这两类方法中存在的问题。在此基础上，提出高超声速飞行器滑翔制导研究中亟待解决的关键问题，并指出未来滑翔制导方法的研究热点。
-
-The basic problem of gliding guidance for hypersonic vehicles was proposed, and the difficulties of complicated multiple constraints, maneuver requirements, and parameter perturbation in the course of gliding guidance were analyzed. The corresponding research status at home and abroad was surveyed, and the problems were also pointed out. On this basis, the key problems required to be solved at present in the research of gliding guidance for hypersonic vehicles were presented, and the research hotspots in the methods of future gliding guidance were also pointed out. 
-
-潘亮，谢愈，彭双春，等.高超声速飞行器滑翔制导方法综述[J].国防科技大学学报,2017,39(3):15-22. PAN Liang, XIE Yu, PENG Shuangchun, et al. A survey of gliding guidance methods for hypersonic vehicles[J]. Journal of National University of Defense Technology,2017,39(3):15-22.&lt;/pre&gt;</content:encoded></item><item><title>用于减少远程Cache访问延迟的最后一次写访问预测方法</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201501003?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201501003?tab=abstract</guid><pubDate>Wed, 11 Jun 2014 00:00:00 +0000</pubDate><description>国家自然科学基金资助项目（61202119）；国家863计划资助项目(2013AA014301)
+金红新，杨涛，王小刚，等.多传感器信息融合理论在无人机相对导航中的应用[J].国防科技大学学报,2017,39(5):90-95. JIN Hongxin, YANG Tao, WANG Xiaogang, et al. Application of multisensor information fusion in UAV relative navigation method[J]. Journal of National University of Defense Technology,2017,39(5):90-95.&lt;/pre&gt;</content:encoded></item><item><title>用于减少远程Cache访问延迟的最后一次写访问预测方法</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201501003?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201501003?tab=abstract</guid><pubDate>Wed, 11 Jun 2014 00:00:00 +0000</pubDate><description>国家自然科学基金资助项目（61202119）；国家863计划资助项目(2013AA014301)
 
 为减少远程Cache访问延迟，提高共享存储系统的性能，提出了一种新的基于程序内在写突发特性的最后一次写访问预测方法，并对一个具体的目录协议进行了改造，以支持该预测方法。通过预测Cache块的最后一次写访问并提前对其进行降级，处理器能直接从主存中读取数据，从而减少了远程Cache访问所需的一个网络跳步数。与当前基于指令的预测方法相比，该方法能极大减少存储开销。基准测试程序的评测结果表明，该方法能获得83.1%的预测准确率，并且能提高8.57%的程序执行性能，同时与基于指令的预测方法相比，该方法能分别减少历史踪迹表69%的存储开销和签名表36%的存储开销。
 
@@ -69,15 +61,7 @@ The storage and access of massive small files are one of the challenges in the d
 
 The storage and access of massive small files are one of the challenges in the design of DFS(Distributed file system). Most of the DFSs, such as GFS and HDFS, are designed for handling massive big files. The performance of DFSs decreases greatly when accessing massive small files without special optimization for small files. This research focuses on the optimizing of the performance of data server in handling massive small files, and presents a Flat Lightweight File System called FlatLFS in which the user data are managed flat in disks. FlatLFS is supposed to substitute the traditional file system when accessing user data for upper DFSs. With the improvement of the performance of small data block processing on data servers by FlatLFS, the performance of the whole DFSs is greatly improved. The effectiveness of FlatLFS is proved with intensive experiments: when the size of data block is 1M, the performance of random read of FlatLFS is 135%, 112% and 122% higher than ext 3 ,ext4 and reiserfs respectively. 
 
-付松龄，廖湘科，黄辰林，等. FlatLFS:一种面向海量小文件处理优化的轻量级文件系统[J].国防科技大学学报,2013,35(2):120-126. FU Songling, LIAO Xiangke, HUANG Chenlin, et al. FlatLFS: a lightweight file system for optimizing the performance of accessing massive small files[J]. Journal of National University of Defense Technology,2013,35(2):120-126.&lt;/pre&gt;</content:encoded></item><item><title>网络舆情中一种基于OLDA的在线话题演化方法</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201201029?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201201029?tab=abstract</guid><pubDate>Tue, 30 Aug 2011 00:00:00 +0000</pubDate><description>研究网络舆情分析中话题演化方法。首先分析网络舆情信息的特点；在此基础上，建立网络舆情信息模型，基于话题模型抽象描述文本内容的隐含语义，进而建立文本流在时间序列上的关联模型；进一步，提出基于OLDA的话题演化方法，针对舆情信息的特点，建立不同时间片话题间的关联。实验结果表明，该方法能够有效检测话题演化，为网络舆情分析提供了有效途径。
-
-The topic evolution was investigated for network public opinion analysis. The properties of network public opinion information were analyzed firstly. Based on the properties, the latent semantics of textual data for network public opinion was described by using the topic model, and the text streams are modeled with a consideration of time for online analysis. Furthermore, a topic evolution method based on OLDA was proposed by incorporating the correlation of topics among time slices. The proposed method was experimentally verified to be efficient for detecting topic evolution of network public opinion. 
-
-胡艳丽，白亮，张维明.网络舆情中一种基于OLDA的在线话题演化方法[J].国防科技大学学报,2012,34(1):150-154. HU Yanli, BAI Liang, ZHANG Weiming. OLDA-based method for online topic evolution  in network public opinion analysis[J]. Journal of National University of Defense Technology,2012,34(1):150-154.</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201201029?tab=abstract&lt;/p&gt;&lt;pre&gt;研究网络舆情分析中话题演化方法。首先分析网络舆情信息的特点；在此基础上，建立网络舆情信息模型，基于话题模型抽象描述文本内容的隐含语义，进而建立文本流在时间序列上的关联模型；进一步，提出基于OLDA的话题演化方法，针对舆情信息的特点，建立不同时间片话题间的关联。实验结果表明，该方法能够有效检测话题演化，为网络舆情分析提供了有效途径。
-
-The topic evolution was investigated for network public opinion analysis. The properties of network public opinion information were analyzed firstly. Based on the properties, the latent semantics of textual data for network public opinion was described by using the topic model, and the text streams are modeled with a consideration of time for online analysis. Furthermore, a topic evolution method based on OLDA was proposed by incorporating the correlation of topics among time slices. The proposed method was experimentally verified to be efficient for detecting topic evolution of network public opinion. 
-
-胡艳丽，白亮，张维明.网络舆情中一种基于OLDA的在线话题演化方法[J].国防科技大学学报,2012,34(1):150-154. HU Yanli, BAI Liang, ZHANG Weiming. OLDA-based method for online topic evolution  in network public opinion analysis[J]. Journal of National University of Defense Technology,2012,34(1):150-154.&lt;/pre&gt;</content:encoded></item><item><title>高超声速滑翔飞行器气动性能的数值模拟研究</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201204005?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201204005?tab=abstract</guid><pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate><description>国家自然科学基金资助项目(90916016);湖南省研究生科研创新及国防科技大学优秀研究生创新资助项目(B110102)
+付松龄，廖湘科，黄辰林，等. FlatLFS:一种面向海量小文件处理优化的轻量级文件系统[J].国防科技大学学报,2013,35(2):120-126. FU Songling, LIAO Xiangke, HUANG Chenlin, et al. FlatLFS: a lightweight file system for optimizing the performance of accessing massive small files[J]. Journal of National University of Defense Technology,2013,35(2):120-126.&lt;/pre&gt;</content:encoded></item><item><title>高超声速滑翔飞行器气动性能的数值模拟研究</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201204005?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201204005?tab=abstract</guid><pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate><description>国家自然科学基金资助项目(90916016);湖南省研究生科研创新及国防科技大学优秀研究生创新资助项目(B110102)
 
 由于具有高的升阻比，乘波构型被认为是高超声速滑翔飞行器的重点参考外形。考虑到高超声速条件下严重的气动加热问题，乘波构型的尖锐前缘需要进行钝化处理，其表面流动特征及气动性能也随之发生变化。基于参考弹道，本文分析了高超声速滑翔飞行器沿飞行轨迹的表面流场特征，并对其在典型飞行工况下的气动性能开展了数值模拟研究。结果表明：对于采用乘波布局设计的高超声速滑翔飞行器，其驻点流动存在三维效应，不能简单视为球头或圆柱绕流；钝化可以缓和严峻的受热形势，同时对其气动力性能造成影响：在2cm钝化半径条件下，其升阻比下降12.34%；高超声速滑翔飞行器的表面受热存在明显的分区特征，不同区域可采用不同的防热处理方法。
 
@@ -119,7 +103,7 @@ Deepseek
 Kimi
 English
 引用本文:
-甘良棋, 董超, 朱小军, 等. 软件定义的无人机集群弹性组网架构[J]. 国防科技大学学报, 2026, 48(4): 89 - 96.
+甘良棋, 董超, 朱小军, 等. 软件定义的无人机集群弹性组网架构[J]. 国防科技大学学报, 2026, 48(4): 89-96.
 Citation:
 Gan Liangqi, Dong Chao, Zhu Xiaojun, et al. Software-defined resilient networking architecture for UAV swarms[J]. Journal of National University of Defense Technology, 2026, 48(4): 89-96.
 软件定义的无人机集群弹性组网架构
@@ -140,7 +124,7 @@ liangqi-gan@nuaa.edu.cn
  董超
 1,2
 角色:
-通信作者
+通讯作者
 机构:
 1. 南京航空航天大学 电子信息工程学院, 江苏 南京 211106
 2. 南京航空航天大学 电磁频谱空间认知动态系统重点实验室, 江苏 南京 211106
@@ -167,11 +151,11 @@ dch@nuaa.edu.cn
 收起信息
 作者简介
 甘良棋（1992—），男，湖北咸宁人，博士研究生，E-mail: liangqi-gan@nuaa.edu.cn
-通信作者
+通讯作者
 董超（1980—），男，山东滨州人，教授，博士，博士生导师，E-mail: dch@nuaa.edu.cn
 中图分类号:
 TN929.5;V279
-文献标志码:
+文献标识码:
 A
 文章编号:
 1001-2486(2026)04-089-08
@@ -181,7 +165,7 @@ Gan Liangqi
 Role:
 First Author
 Affiliation:
-1. College of Electronic and Information Engineering, Na</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260408?st=search&amp;amp;tab=abstract&lt;/p&gt;&lt;pre&gt;软件定义的无人机集群弹性组网架构
+1. College of Electronic and Information Engineering, Nanj</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260408?st=search&amp;amp;tab=abstract&lt;/p&gt;&lt;pre&gt;软件定义的无人机集群弹性组网架构
 EI•CA•INSPEC•JST•SCOPUS
 中文核心期刊•CSCD•WJCI
 首页
@@ -211,7 +195,7 @@ Deepseek
 Kimi
 English
 引用本文:
-甘良棋, 董超, 朱小军, 等. 软件定义的无人机集群弹性组网架构[J]. 国防科技大学学报, 2026, 48(4): 89 - 96.
+甘良棋, 董超, 朱小军, 等. 软件定义的无人机集群弹性组网架构[J]. 国防科技大学学报, 2026, 48(4): 89-96.
 Citation:
 Gan Liangqi, Dong Chao, Zhu Xiaojun, et al. Software-defined resilient networking architecture for UAV swarms[J]. Journal of National University of Defense Technology, 2026, 48(4): 89-96.
 软件定义的无人机集群弹性组网架构
@@ -232,7 +216,7 @@ liangqi-gan@nuaa.edu.cn
  董超
 1,2
 角色:
-通信作者
+通讯作者
 机构:
 1. 南京航空航天大学 电子信息工程学院, 江苏 南京 211106
 2. 南京航空航天大学 电磁频谱空间认知动态系统重点实验室, 江苏 南京 211106
@@ -259,11 +243,11 @@ dch@nuaa.edu.cn
 收起信息
 作者简介
 甘良棋（1992—），男，湖北咸宁人，博士研究生，E-mail: liangqi-gan@nuaa.edu.cn
-通信作者
+通讯作者
 董超（1980—），男，山东滨州人，教授，博士，博士生导师，E-mail: dch@nuaa.edu.cn
 中图分类号:
 TN929.5;V279
-文献标志码:
+文献标识码:
 A
 文章编号:
 1001-2486(2026)04-089-08
@@ -303,7 +287,7 @@ Affiliation:
 摘要
 HTML全文
 图(12)表(0)
-参考文献(22)
+参考文献
 相似文献
 出版信息
 访问统计
@@ -736,141 +720,6 @@ Control handover time for dynamic topology reconstruction under ideal conditions
 Fig.
 12
 Topology reconstruction time during dynamic control handover under persistent interference
-[1]
-Singh J, Kaur N. A review of swarm intelligence and its applications to cloud computing[C]//2025 International Conference on Inventive Computation Technologies(ICICT), 2025: 260-266.
-[2]
-费陈, 郑晗, 赵亮. 无人机集群控制技术研究[J]. 弹箭与制导学报, 2023, 43(3): 45-55.
-Fei Chen, Zheng Han, Zhao Liang. Research on UAV cluster control technology[J]. Journal of Projectiles, Rockets, Missiles and Guidance, 2023, 43(3): 45-55.(in Chinese)
-[3]
-Wang Jianan, Wang Chunyan, Xin Ming, et al. Cooperative control of multi-agent systems[M]. London: Academic Press, 2020.
-[4]
-Su Lingfei, Lin Zhi, Hua Yongzhao, et al. Resilient time-varying formation optimal tracking for heterogeneous multi-agent systems with coupled constraints[J]. IEEE Transactions on Automation Science and Engineering, 2025, 22: 15274-15285.
-[5]
-潘乐炳, 陈炜民, 贾继鹏, 等. SDN技术在战术MANET中的应用[J]. 电讯技术, 2019, 59(5): 532-537.
-Pan Lebing, Chen Weimin, Jia Jipeng, et al. Application of SDN in tactical MANET[J]. Telecommunication Engineering, 2019, 59(5): 532-537.(in Chinese)
-[6]
-Singhal C, Rahul K. Efficient QoS provisioning using SDN for end-to-end data delivery in UAV assisted network[C]//2019 IEEE International Conference on Advanced Networks and Telecommunications Systems(ANTS), 2019: 1-6.
-[7]
-Rahman S U, Kim G-H, Cho Y-Z, et al. Positioning of UAVs for throughput maximization in software-defined disaster area UAV communication networks[J]. Journal of Communications and Networks, 2018, 20(5): 452-463.
-[8]
-Zhao Zhongliang, Cumino P, Souza A, et al. Software-defined unmanned aerial vehicles networking for video dissemination services[J]. Ad Hoc Networks, 2019, 83: 68-77.
-[9]
-Cumino P, Maciel K, Tavares T, et al. Cluster-based control plane messages management in software-defined flying ad-hoc network[J]. Sensors(Basel), 2020, 20(1): 67.
-[10]
-Peng Haixia, Ye Qiang, Shen Xuemin. SDN-based resource management for autonomous vehicular networks: a multi-access edge computing approach[J]. IEEE Wireless Communications, 2019, 26(4): 156-162.
-[11]
-Zhao Liang, Yang Kaiqi, Tan Zhiyuan, et al. A novel cost optimization strategy for SDN-enabled UAV-assisted vehicular computation offloading[J]. IEEE Transactions on Intelligent Transportation Systems, 2021, 22(6): 3664-3674.
-[12]
-Hu Ning, Tian Zhihong, Sun Yanbin, et al. Building agile and resilient UAV networks based on SDN and blockchain[J]. IEEE Network, 2021, 35(1): 57-63.
-[13]
-Qi Weijing, Song Qingyang, Kong Xiangjie, et al. A traffic-differentiated routing algorithm in flying ad hoc sensor networks with SDN cluster controllers[J]. Journal of the Franklin Institute, 2019, 356(2): 766-790.
-[14]
-Hepworth A J, Hussein A S M, Reid D J, et al. Contextually aware intelligent control agents for heterogeneous swarms[J]. Swarm Intelligence, 2024, 18(4): 275-310.
-[15]
-Gu Yue, Hunt W, Archibald B, et al. Successful swarms: operator situational awareness with modelling and verification at runtime[C]//2023 32nd IEEE International Conference on Robot and Human Interactive Communication(RO-MAN), 2023: 541-548.
-[16]
-Yue Longfei, Yang Rennong, Zuo Jialiang, et al. Unmanned aerial vehicle swarm cooperative decision-making for SEAD mission: a hierarchical multiagent reinforcement learning approach[J]. IEEE Access, 2022, 10: 92177-92191.
-[17]
-Gao Yang, Li Dongsheng. Unmanned aerial vehicle swarm distributed cooperation method based on situation awareness consensus and its information processing mechanism[J]. Knowledge-Based Systems, 2020, 188: 105034.
-[18]
-蓝俊伟, 张奇支, 郑伟平, 等. 基于链路位置的SDN数据平面故障恢复方法[J]. 华南师范大学学报(自然科学版), 2023, 55(5): 111-120.
-Lan Junwei, Zhang Qizhi, Zheng Weiping, et al. A failure recovery algorithm of SDN data plane based on link location[J]. Journal of South China Normal University(Natural Science Edition), 2023, 55(5): 111-120.(in Chinese)
-[19]
-周欢欢, 赵国林, 都兴霖. 基于OPM的无人机集群智能化指挥控制概念模型[J]. 指挥控制与仿真, 2025, 47(1): 1-9.
-Zhou Huanhuan, Zhao Guolin, Du Xinglin. Conceptual model of intelligent command and control for UAV cluster based on OPM[J]. Command Control &amp;amp; Simulation, 2025, 47(1): 1-9.(in Chinese)
-[20]
-中国电信陕西无线电机动通信局搭建空中临时基站科技手段助力背景受灾区域复联[EB/OL].(2023-08-16)[2025-06-01].https: //www.ixian.cn/thread-1826717-1-1.html.
-China telecom Shaanxi radio mobile communications bureau deploys airborne temporary base stations using advanced technology to restore communication connectivity in disaster-affected areas[EB/OL].(2023-08-16)[2025-06-01].https: //www.ixian.cn/thread-1826717-1-1.html.(in Chinese)
-[21]
-甘良棋, 董超. 基于多智能体协同的无人机编队控制研究[J]. 计算机科学, 2024, 51(11A): 240100105.
-Gan Liangqi, Dong Chao. Study on unmanned aircraft formation control based on multi-agent collaboration[J]. Computer Science, 2024, 51(11A): 240100105.(in Chinese)
-[22]
-一架无人机就恢复河南灾区50 km
-2
-通信: “翼龙”成功助小镇通网5小时[EB/OL].(2021-07-22)[2025-06-01].https: //blog.ytso.com/industrynews/28554.html.
-A single drone restores 50 km
-2
-of communication coverage in Henan disaster zone: &amp;quot;Wing Loong&amp;quot; UAV successfully provides 5-hour internet connectivity to small town.[EB/OL].(2021-07-22)[2025-06-01].https: //blog.ytso.com/industrynews/28554.html.(in Chinese)
-[1]
-梁俊,孙伟超,肖楠,陈威龙,郭子桢.
-基于切比雪夫神经网络的软件定义卫星网络智能路由策略
-[J].国防科技大学学报,2020,42(5):23-30.
-[2]
-赵海涛,王海军,陈海涛,张亦弛,魏急波.
-面向无人机集群的通信与组网技术
-[J].国防科技大学学报,2026,48(3):12-35.
-[3]
-王海军,王洁,张姣,赵海涛,任保全,尹浩.
-无人机自组网SPMA协议智能退避技术:DDQN驱动的多维决策
-[J].国防科技大学学报,2026,48(3):96-106.
-[4]
-江元龙,王世练,张尔扬.
-战术移动Ad Hoc网络下的分布式位置辅助功率控制算法
-[J].国防科技大学学报,2005,27(1):78-83.
-[5]
-曹继军,吴宗明,汤强,李小玉.
-深度强化学习和负载中心性理论融合的分段路由优化算法
-[J].国防科技大学学报,2025,47(6):46-59.
-[6]
-陈士涛,张海林.
-基于作战网络模型的异构无人机集群作战能力评估
-[J].军事运筹与系统工程,2019,33(1).
-[7]
-赵荣黎.
-跳频通信的技术体制与发展
-[J].现代军事通信,2003,11(3):33-37.
-[8]
-梁俊,丁然,肖楠,刘玉磊,张振浩.
-基于信息战的软件定义天地一体化网络与关键技术
-[J].火力与指挥控制,2018,43(6):162-166.
-[9]
-袁国栋,何明,韩伟,禹明刚,成铭洋.
-无人机集群社团网络弹性重构研究北大核心
-[J].现代防御技术,2023(5):50-58.
-[10]
-杨同智,党建成,张新,刘镒,王杰,周云涛.
-软件定义的航天器测试网络技术
-[J].国防科技,2021,42(5):22-27.
-[11]
-刘思远,杜海燕,李丽,彭丽娟,方欣欣.
-基于SDN与传统路由相结合的网络架构设计
-[J].火力与指挥控制,2022(4):126-130+137.
-[12]
-高航航,王翔,赵尚弘,彭聪.
-基于时延的软件定义航空网络控制器部署策略
-[J].火力与指挥控制,2019,44(11):67-72.
-[13]
-董帅,张安琳,黄道颖,王宣立,刘江豪.
-基于OpenFlow的SDN中链路层拓扑发现的优化
-[J].火力与指挥控制,2020,45(8):148-153.
-[14]
-王涛;谢添乐;唐勇;张强;许新爽;高琛.
-认知模型驱动的无人机集群混合智能协同决策方法研究
-[J].无人系统技术,2025(3):109-121.
-[15]
-孙利娜,陈永禄,陈志伟.
-基于杀伤链的动态重构作战网络抗毁性分析
-[J].火力与指挥控制,2023,48(2):12-18.
-[16]
-王巍振,张安琳,黄道颖,谢兆贤,陈慧.
-一种基于吞吐量变化的OpenFlow网络自适应测量算法
-[J].火力与指挥控制,2019,44(2):139-143.
-[17]
-王坤;付钰;段雪源;刘涛涛;周静华.
-基于动态限制策略的SDN中IP欺骗攻击缓解技术
-[J].海军工程大学学报,2025(2):9-16+25.
-[18]
-祁江鑫,吴玲,卢发兴,史浩然,许俊飞.
-基于改进YOLOv4算法的无人机目标检测
-[J].兵器装备工程学报,2022(6):210-217.
-[19]
-丁鹏,宋亚飞,夏智权.
-意图驱动的防空武器-目标动态分配方法
-[J].火力与指挥控制,2023,48(12):17-26.
-[20]
-杨思,李小民,谢志刚,席雷平.
-无人机虚拟维修训练系统及其HLA设计
-[J].军械工程学院学报,2007,19(1):12-15.
 PDF下载
 XML下载
 导出引用
@@ -878,7 +727,7 @@ XML下载
 图(12)
 手机扫码阅读
 引用本文
-甘良棋, 董超, 朱小军, 等. 软件定义的无人机集群弹性组网架构[J]. 国防科技大学学报, 2026, 48(4): 89 - 96.
+甘良棋, 董超, 朱小军, 等. 软件定义的无人机集群弹性组网架构[J]. 国防科技大学学报, 2026, 48(4): 89-96.
 复制
 Gan Liangqi, Dong Chao, Zhu Xiaojun, et al. Software-defined resilient networking architecture for UAV swarms[J]. Journal of National University of Defense Technology, 2026, 48(4): 89-96.
 Copy
@@ -1000,10 +849,10 @@ of communication coverage in Henan disaster zone:&amp;quot;Wing Loong&amp;quot; 
 扫码关注
 官方微信
 您是今天第
-2366
+4784
 位访客
 总访问量：
-295170182
+296172150
 电话：
 0731-87028030
 邮箱:journal@nudt.edu.cn
@@ -1012,7 +861,7 @@ of communication coverage in Henan disaster zone:&amp;quot;Wing Loong&amp;quot; 
 备案号 
 ：
 湘ICP备09019258号
-技术支持：北京勤云科技发展有限公司&lt;/pre&gt;</content:encoded></item><item><title>电磁频谱空间具身智能认知:概念、框架和关键技术</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260402?st=search&amp;tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260402?st=search&amp;tab=abstract</guid><description>电磁频谱空间具身智能认知:概念、框架和关键技术
+技术支持：北京勤云科技发展有限公司&lt;/pre&gt;</content:encoded></item><item><title>双向门控循环时序网络驱动的空海域目标意图识别</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260420?st=search&amp;tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260420?st=search&amp;tab=abstract</guid><description>双向门控循环时序网络驱动的空海域目标意图识别
 EI•CA•INSPEC•JST•SCOPUS
 中文核心期刊•CSCD•WJCI
 首页
@@ -1042,72 +891,68 @@ Deepseek
 Kimi
 English
 引用本文:
-林云, 查浩然, 尚佳颖, 等. 电磁频谱空间具身智能认知:概念、框架和关键技术[J]. 国防科技大学学报, 2026, 48(4): 17-28.
+姜廷帅, 于天元, 白亮, 等. 双向门控循环时序网络驱动的空海域目标意图识别[J]. 国防科技大学学报, 2026, 48(4): 211-221.
 Citation:
-Lin Yun, Zha Haoran, Shang Jiaying, et al. Embodied intelligence cognition in electromagnetic spectrum space: concepts, frameworks, and key technologies[J]. Journal of National University of Defense Technology, 2026, 48(4)： 17-28.
-电磁频谱空间具身智能认知：概念、框架和关键技术
+Jiang Tingshuai, Yu Tianyuan, Bai Liang, et al. Maritime and aerial target intention recognition driven by bidirectional gated recurrent temporal networks[J]. Journal of National University of Defense Technology, 2026, 48(4)： 211-221.
+双向门控循环时序网络驱动的空海域目标意图识别
 doi:
-10.11887/j.issn.1001-2486.25050025
-林云
-1
+10.11887/j.issn.1001-2486.25040018
+姜廷帅
 角色:
 第一作者
 机构:
-1. 哈尔滨工程大学 信息与通信工程学院，黑龙江 哈尔滨 150001
+国防科技大学系统工程学院, 湖南 长沙 410073
 邮箱:
-linyun@hrbeu.edu.cn
+jiangtingshuai19@nudt.edu.cn
 简介:
-林云（1979—），男，黑龙江哈尔滨人，教授，博士，博士生导师，E-mail: linyun@hrbeu.edu.cn
+姜廷帅（2001—），男，山东聊城人，硕士研究生，E-mail: jiangtingshuai19@nudt.edu.cn
 ，
- 查浩然
-1
+ 于天元
+角色:
+通信作者
 机构:
-1. 哈尔滨工程大学 信息与通信工程学院，黑龙江 哈尔滨 150001
+国防科技大学系统工程学院, 湖南 长沙 410073
+邮箱:
+ty.yu@nudt.edu.cn
+简介:
+于天元（1992—），男，辽宁大连人，副教授，博士，硕士生导师，E-mail: ty.yu@nudt.edu.cn
 ，
- 尚佳颖
-1
+ 白亮
 机构:
-1. 哈尔滨工程大学 信息与通信工程学院，黑龙江 哈尔滨 150001
+国防科技大学系统工程学院, 湖南 长沙 410073
 ，
- 田乔
-2
+ 郭延明
 机构:
-2. 哈尔滨工程大学 计算机科学与技术学院，黑龙江 哈尔滨 150001
+国防科技大学系统工程学院, 湖南 长沙 410073
 ，
- 王巍
-3
+ 阮逸润
 机构:
-3. 中国电子科技集团公司 第三十六研究所，浙江 嘉兴 314000
+国防科技大学系统工程学院, 湖南 长沙 410073
 ，
- 郭兰图
-4
+ 袁逸飞
 机构:
-4. 中国电子科技集团公司 第二十二研究所, 山东 青岛 266107
-1. 哈尔滨工程大学 信息与通信工程学院，黑龙江 哈尔滨 150001
-2. 哈尔滨工程大学 计算机科学与技术学院，黑龙江 哈尔滨 150001
-3. 中国电子科技集团公司 第三十六研究所，浙江 嘉兴 314000
-4. 中国电子科技集团公司 第二十二研究所, 山东 青岛 266107
+国防科技大学系统工程学院, 湖南 长沙 410073
+国防科技大学系统工程学院, 湖南 长沙 410073
 基金项目:
-国家自然科学基金资助项目（62201172，U23A20271）
- ；
- 国家重点研发计划资助项目（2022YFE0136800）
+国家自然科学基金资助项目（62206305）
 详细信息
 收起信息
 作者简介
-林云（1979—），男，黑龙江哈尔滨人，教授，博士，博士生导师，E-mail: linyun@hrbeu.edu.cn
+姜廷帅（2001—），男，山东聊城人，硕士研究生，E-mail: jiangtingshuai19@nudt.edu.cn
+通信作者
+于天元（1992—），男，辽宁大连人，副教授，博士，硕士生导师，E-mail: ty.yu@nudt.edu.cn
 中图分类号:
-TM15;TP18
+TP391.9
 文献标志码:
 A
 文章编号:
-1001-2486(2026)04-017-12
-Embodied intelligence cognition in electromagnetic spectrum space: concepts, frameworks, and key technologies
-Lin Yun
-1
+1001-2486(2026)04-211-11
+Maritime and aerial target intention recognition driven by bidirectional gated recurrent temporal networks
+Jiang Tingshuai
 Role:
 First Author
 Affiliation:
-1. College of Information</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260402?st=search&amp;amp;tab=abstract&lt;/p&gt;&lt;pre&gt;电磁频谱空间具身智能认知:概念、框架和关键技术
+College of Systems Engineering, National University of Defense Technology, C</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260420?st=search&amp;amp;tab=abstract&lt;/p&gt;&lt;pre&gt;双向门控循环时序网络驱动的空海域目标意图识别
 EI•CA•INSPEC•JST•SCOPUS
 中文核心期刊•CSCD•WJCI
 首页
@@ -1137,1116 +982,1844 @@ Deepseek
 Kimi
 English
 引用本文:
-林云, 查浩然, 尚佳颖, 等. 电磁频谱空间具身智能认知:概念、框架和关键技术[J]. 国防科技大学学报, 2026, 48(4): 17-28.
+姜廷帅, 于天元, 白亮, 等. 双向门控循环时序网络驱动的空海域目标意图识别[J]. 国防科技大学学报, 2026, 48(4): 211-221.
 Citation:
-Lin Yun, Zha Haoran, Shang Jiaying, et al. Embodied intelligence cognition in electromagnetic spectrum space: concepts, frameworks, and key technologies[J]. Journal of National University of Defense Technology, 2026, 48(4)： 17-28.
-电磁频谱空间具身智能认知：概念、框架和关键技术
+Jiang Tingshuai, Yu Tianyuan, Bai Liang, et al. Maritime and aerial target intention recognition driven by bidirectional gated recurrent temporal networks[J]. Journal of National University of Defense Technology, 2026, 48(4)： 211-221.
+双向门控循环时序网络驱动的空海域目标意图识别
 doi:
-10.11887/j.issn.1001-2486.25050025
-林云
-1
+10.11887/j.issn.1001-2486.25040018
+姜廷帅
 角色:
 第一作者
 机构:
-1. 哈尔滨工程大学 信息与通信工程学院，黑龙江 哈尔滨 150001
+国防科技大学系统工程学院, 湖南 长沙 410073
 邮箱:
-linyun@hrbeu.edu.cn
+jiangtingshuai19@nudt.edu.cn
 简介:
-林云（1979—），男，黑龙江哈尔滨人，教授，博士，博士生导师，E-mail: linyun@hrbeu.edu.cn
+姜廷帅（2001—），男，山东聊城人，硕士研究生，E-mail: jiangtingshuai19@nudt.edu.cn
 ，
- 查浩然
-1
+ 于天元
+角色:
+通信作者
 机构:
-1. 哈尔滨工程大学 信息与通信工程学院，黑龙江 哈尔滨 150001
+国防科技大学系统工程学院, 湖南 长沙 410073
+邮箱:
+ty.yu@nudt.edu.cn
+简介:
+于天元（1992—），男，辽宁大连人，副教授，博士，硕士生导师，E-mail: ty.yu@nudt.edu.cn
 ，
- 尚佳颖
-1
+ 白亮
 机构:
-1. 哈尔滨工程大学 信息与通信工程学院，黑龙江 哈尔滨 150001
+国防科技大学系统工程学院, 湖南 长沙 410073
 ，
- 田乔
-2
+ 郭延明
 机构:
-2. 哈尔滨工程大学 计算机科学与技术学院，黑龙江 哈尔滨 150001
+国防科技大学系统工程学院, 湖南 长沙 410073
 ，
- 王巍
-3
+ 阮逸润
 机构:
-3. 中国电子科技集团公司 第三十六研究所，浙江 嘉兴 314000
+国防科技大学系统工程学院, 湖南 长沙 410073
 ，
- 郭兰图
-4
+ 袁逸飞
 机构:
-4. 中国电子科技集团公司 第二十二研究所, 山东 青岛 266107
-1. 哈尔滨工程大学 信息与通信工程学院，黑龙江 哈尔滨 150001
-2. 哈尔滨工程大学 计算机科学与技术学院，黑龙江 哈尔滨 150001
-3. 中国电子科技集团公司 第三十六研究所，浙江 嘉兴 314000
-4. 中国电子科技集团公司 第二十二研究所, 山东 青岛 266107
+国防科技大学系统工程学院, 湖南 长沙 410073
+国防科技大学系统工程学院, 湖南 长沙 410073
 基金项目:
-国家自然科学基金资助项目（62201172，U23A20271）
- ；
- 国家重点研发计划资助项目（2022YFE0136800）
+国家自然科学基金资助项目（62206305）
 详细信息
 收起信息
 作者简介
-林云（1979—），男，黑龙江哈尔滨人，教授，博士，博士生导师，E-mail: linyun@hrbeu.edu.cn
+姜廷帅（2001—），男，山东聊城人，硕士研究生，E-mail: jiangtingshuai19@nudt.edu.cn
+通信作者
+于天元（1992—），男，辽宁大连人，副教授，博士，硕士生导师，E-mail: ty.yu@nudt.edu.cn
 中图分类号:
-TM15;TP18
+TP391.9
 文献标志码:
 A
 文章编号:
-1001-2486(2026)04-017-12
-Embodied intelligence cognition in electromagnetic spectrum space: concepts, frameworks, and key technologies
-Lin Yun
-1
+1001-2486(2026)04-211-11
+Maritime and aerial target intention recognition driven by bidirectional gated recurrent temporal networks
+Jiang Tingshuai
 Role:
 First Author
 Affiliation:
-1. College of Information and Communication Engineering, Harbin Engineering University, Harbin 150001 , China
+College of Systems Engineering, National University of Defense Technology, Changsha 410073 , China
 Email:
-linyun@hrbeu.edu.cn
+jiangtingshuai19@nudt.edu.cn
 ，
- Zha Haoran
-1
+ Yu Tianyuan
+Role:
+Corresponding Author
 Affiliation:
-1. College of Information and Communication Engineering, Harbin Engineering University, Harbin 150001 , China
+College of Systems Engineering, National University of Defense Technology, Changsha 410073 , China
+Email:
+ty.yu@nudt.edu.cn
 ，
- Shang Jiaying
-1
+ Bai Liang
 Affiliation:
-1. College of Information and Communication Engineering, Harbin Engineering University, Harbin 150001 , China
+College of Systems Engineering, National University of Defense Technology, Changsha 410073 , China
 ，
- Tian Qiao
-2
+ Guo Yanming
 Affiliation:
-2. College of Computer Science and Technology, Harbin Engineering University, Harbin 150001 , China
+College of Systems Engineering, National University of Defense Technology, Changsha 410073 , China
 ，
- Wang Wei
-3
+ Ruan Yirun
 Affiliation:
-3. The 36th Research Institute of China Electronics Technology Group Corporation, Jiaxing 314000 , China
+College of Systems Engineering, National University of Defense Technology, Changsha 410073 , China
 ，
- Guo Lantu
-4
+ Yuan Yifei
 Affiliation:
-4. The 22nd Research Institute of China Electronics Technology Group Corporation, Qingdao 266107 , China
-1. College of Information and Communication Engineering, Harbin Engineering University, Harbin 150001 , China
-2. College of Computer Science and Technology, Harbin Engineering University, Harbin 150001 , China
-3. The 36th Research Institute of China Electronics Technology Group Corporation, Jiaxing 314000 , China
-4. The 22nd Research Institute of China Electronics Technology Group Corporation, Qingdao 266107 , China
+College of Systems Engineering, National University of Defense Technology, Changsha 410073 , China
+College of Systems Engineering, National University of Defense Technology, Changsha 410073 , China
 摘要
 HTML全文
-图(7)表(0)
-参考文献(41)
+图(12)表(9)
+参考文献(27)
 相似文献
 出版信息
 访问统计
 资源附件
 摘要
-随着电磁空间应用的持续拓展和任务需求的不断升级，频谱资源呈现高度动态化、信号体制多样化和环境复杂化的趋势，给传统频谱认知与管理体系带来严峻挑战。本文梳理了当前电磁频谱认知在环境适应、自主决策与协同感知等方面存在的部署静态、知识孤立、认知封闭等核心问题。为应对这些挑战，提出“电磁频谱空间具身智能认知”概念，融合具身智能体的分布式移动部署与可编程射频前端，实现对复杂电磁环境的多模态感知与结构化理解；引入大模型与Agent机制支撑任务导向的推理决策；结合联邦学习与持续学习技术，构建具备进化能力的知识优化机制，赋予系统“电磁肌肉记忆”。最后，深入分析了三大模块间的协同机制与关键技术，阐述具身智能在复杂电磁频谱空间实时感知、主动调控和持续优化中的核心价值，为电磁空间中多场景、多任务的智能认知与频谱调控提供理论支撑与工程启示。
+提出了基于双向门控循环时序网络的模型，并引入误分类惩罚型的分类引导交叉熵（classification guided cross-entropy，CGCE）损失函数以减少高风险意图的误判。基于双向门控循环时序网络的模型由双向时序卷积网络（bidirectional temporal convolutional network，BiTCN）、双向门控循环单元（bidirectional gated recurrent unit，BiGRU）和注意力模块组成。其中BiTCN用于提取全局特征，BiGRU通过双向学习增强对复杂数据的理解，注意力模块则动态分配特征权重以突出关键信息。引入的CGCE增强了模型对高风险误判的敏感性，以减少对高威胁意图的误判。本文所提模型准确率可达98.58%，在准确率、精确率及F1分数指标上均优于各类对比算法。此外，CGCE的加入进一步提升了模型的整体性能，并显著减少了对高威胁意图的误分类，验证了模型及CGCE在空海域目标意图识别中的有效性。
 关键词
-电磁频谱空间
+深度学习
 /
-具身智能
+空海域目标
 /
-认知电子战
+意图识别
 /
-频谱感知
+注意力模块
 /
-闭环认知
+双向时序卷积网络
 /
-智能管控
+双向门控循环单元
 Abstract
-With the continuous expansion of electromagnetic space applications and increasing operational complexity, spectrum resources show growing dynamism, diverse signal structures, and complex environments—posing serious challenges to traditional spectrum sensing and management. This paper reviewed key limitations in current electromagnetic spectrum cognition, such as static deployment, isolated knowledge, and closed-loop cognition, which restrict adaptability, autonomous decision-making, and collaborative perception. To address these challenges, the embodied intelligent cognition for electromagnetic spectrum space was proposed. This framework integrates distributed mobile embodied agents with programmable RF front-ends to enable multimodal perception and structured understanding of complex environments. It incorporated large models and agent-based mechanisms for task-driven reasoning and decision-making, using federated and continual learning to build an evolving knowledge system, granting “electromagnetic muscle memory”. Finally, coordination mechanisms and key technologies across three core modules were analyzed, emphasizing embodied intelligence′s role in real-time perception, proactive regulation, and continuous optimization in complex spectrum spaces, providing theoretical foundations and engineering insights for intelligent cognition and spectrum management across multi-scenario, multi-task environments.
+A bidirectional gated recurrent temporal network model was proposed, and a CGCE (classification guided cross-entropy) loss function with misclassification penalties was incorporated to reduce the misclassification of high-risk intentions. The bidirectional gated recurrent temporal network model was composed of a BiTCN (bidirectional temporal convolutional network), a BiGRU (bidirectional gated recurrent unit), and an attention module. The BiTCN was used to capture global features, the BiGRU enhanced understanding of complex data through bidirectional learning, and the attention module dynamically assigns feature weights to emphasize key information. The introduction of CGCE enhanced the model′s sensitivity to high-risk misjudgments, thereby reducing the misjudgment of high-threat intentions. The proposed model achieves an accuracy of 98.58% and outperforms the comparison methods across accuracy, precision, and F1-score. Furthermore, the incorporation of CGCE further improves the model′s accuracy and significantly reduces misclassifications of high-threat intentions, validating the effectiveness of the proposed model and CGCE in aerial and maritime target intention recognition.
 Keywords
-electromagnetic spectrum space
+deep learning
 /
-embodied intelligence
+maritime and aerial target
 /
-cognitive electronic warfare
+intention recognition
 /
-spectrum sensing
+attention mechanism
 /
-closed-loop cognition
+bidirectional temporal convolutional network
 /
-intelligent control
-1 电磁频谱空间认知
-1.1 电磁频谱空间认知概念
-1.2 电磁频谱空间认知研究现状
-1.3 电磁频谱空间认知主要挑战
-1.3.1 环境动态性与实时适应性
-1.3.2 多任务协调与资源分配
-1.3.3 智能感知与自适应决策
-2 具身智能赋能的电磁频谱空间认知
-2.1 具身智能概述
-2.2 电磁频谱空间具身智能认知概念与框架
-3 电磁频谱空间具身智能认知关键技术
-3.1 具身电磁感知与语义理解
-3.1.1 信号采集与特征提取
-3.1.2 语义映射与理解形成
-3.2 具身电磁决策与执行调控
-3.2.1 认知决策与推理
-3.2.2 执行调控与行动实施
-3.3 具身电磁知识演化与优化
-3.3.1 环境感知与记忆更新
-3.3.2 自我演化与持续优化
-4 结论
-随着人工智能技术的发展，以及人工智能与无线通信技术的深度融合，电磁频谱空间正从传统的信号传输载体向具有环境交互与自主决策能力的智能实体方向进行演化。在军用和民用多个领域，对电磁频谱空间智能化的需求日益增长，催生了具身智能体与智能频谱系统的广泛探索与应用。其中，在军事领域，频谱环境复杂多变，对电磁感知系统的机动性、自主性与抗干扰能力提出了更高的要求，促使具身无人集群、认知电子战平台等成为关键载体；而在民用方面，智慧城市、车联网、应急通信与工业物联网等场景对频谱资源动态管理和通信质量保障的需求同样迫切，推动了具身智能在实时频谱调度、自适应通信与环境协同感知等方面的快速发展。
-然而，目前电磁频谱空间领域仍面临动态环境适应不足，跨域协同困难等挑战，这些挑战揭示了传统的离线建模体系在用户行为突变、多径效应交织的动态场景中已经开始逐渐显现其劣势
+bidirectional gated recurrent unit
+1 相关工作
+2 空海域目标作战意图识别问题
+2.1 空海域目标作战意图作战空间
+2.2 空海域目标作战意图识别特征
+3 双向门控循环时序网络
+3.1 模型整体框架
+3.2 双向时序卷积网络（BiTCN）
+3.3 双向门控循环单元（BiGRU）
+3.4 注意力模块
+3.5 误分类惩罚型的CGCE损失函数
+4 实验与结果分析
+4.1 实验数据和环境
+4.2 性能评价指标
+4.3 结果分析
+4.3.1 不同模型对比分析
+4.3.2 BiTCN-BiGRU-Attention模型结果分析
+4.3.3 CGCE模块分析
+4.3.4 参数及计算量分析
+5 结论
+随着科技的快速发展和时代变革的推进，战场态势信息呈现前所未有的规模和复杂性。现代战争不仅依赖传统物理作战力量，新型作战手段如信息战、网络战和电子战的加入，使战场环境日益复杂。尤其是在信息化战争中，战场态势信息的数量呈现爆炸式增长，数据的维度、种类及其增长速率也在不断上升。这种变化使得战场中的信息呈现高度的多样性，且伴随有显著的信息不对称现象，从而对作战决策和作战效能的评估提出了更高要求。
+在这种背景下，战场信息流转和处理能力直接决定了军事作战的成败。随着作战数据的不断扩展，指挥员需要在极为复杂的信息环境中，迅速筛选出关键情报，并对敌方的作战意图做出精准的判断。然而，随着数据量的增加，传统依赖军事专家经验的方式在处理和分析海量信息时逐渐显现出其局限性，难以应对快速变化和复杂多变的战场情形。
+因此，本文构建了一种基于双向门控循环时序网络的空海域目标意图识别模型，深入分析大规模、多源、时序性强的战场数据，准确识别敌方目标意图，为决策者提供科学合理的依据。
+1 相关工作
+目标意图识别在战场态势感知和决策中起着关键作用。通常，研究者使用基于传感器检测到的目标特征（如速度、距离和方向）来进行推理和识别
 [
 1
 ]
-。并且，随着军民融合的发展趋势，以分布式无人集群、可编程射频前端等为代表的具身智能体日益成为电磁频谱空间认知的关键载体。这些智能体通过在空间中自主移动、协同部署，构建了一个分布式、动态演化的电磁频谱空间观测系统。在此背景下，传统静态、中心化的电磁认知模型已难以满足快速响应与鲁棒认知的需求
+。在意图识别研究中，早期方法主要依赖人工规则与概率建模，代表性技术包括模板匹配
 [
 2
 ]
-。目前亟须突破传统认知无线电的静态分析框架，寻找更符合真实世界复杂性的智能决策范式。
-具身智能技术的兴起为这一领域提供了全新的技术路线，具身智能与环境的实时交互特性及其闭环优化机制，与电磁频谱空间的动态特性具有天然的适配性。电磁波传播受物理环境直接影响，而频谱决策又需要实时响应多变的作战任务需求，这种动态特性使得具身智能成为提升电磁频谱空间认知能力的理想技术路径
+、专家推理
 [
 3
 ]
-。同时，在公共安全通信、高密度城区网络优化等民用场景中，具身智能体也展现出通过“边移动、边认知、边决策”的方式，快速适配非静态频谱环境的潜力。基于具身智能的电磁频谱空间认知系统可通过智能体与先进算法的深度协同，推动认知系统向全自主化方向演进，能够在无人干预的条件下实现复杂电磁频谱空间的感知与语义理解、决策与执行调控以及知识演化等，实现电磁频谱空间从被动适应到主动调控的技术升级。
-本文立足具身智能的核心思想和认知电子战的技术需求，提出电磁频谱空间具身智能认知的概念和框架。该概念着眼于如何将具身智能技术融入电磁频谱空间认知领域，从而提升电磁频谱空间认知系统的泛化性、鲁棒性。具身智能通过先进的传感器与物理世界交互，并通过先进的人工智能算法以及搭载大模型的决策框架，自主完成综合学习任务，实现智能体在复杂电磁环境中的精度感知、自主决策、实时调控与动态管理等，提升电磁频谱空间认知系统对开放空间的长期适应能力。
-基于电磁频谱空间具身智能认知概念与框架，本文进一步阐述了其中涉及的核心技术，旨在推进电磁频谱空间具身智能认知领域的工程化落地，并为相关领域的学者和从业人员提供一定的借鉴和思路。
-1 电磁频谱空间认知
-1.1 电磁频谱空间认知概念
-电磁频谱空间认知是指认知主体在动态异构的电磁环境中，通过对频谱资源在时间、频率、空间和用户维度的联合感知、建模与理解，实现对频谱使用行为、资源状态及其演化趋势的智能认知与优化决策能力。其核心在于构建频谱资源、频谱行为、空间场景的多维联合表征模型，融合频谱状态感知、信号特征提取、使用模式识别与资源调度优化等关键技术，揭示频谱资源的动态占用结构、使用意图与协同模式
+以及贝叶斯网络
 [
 4
-]
-。该认知过程融合电磁物理学、信息科学和认知科学原理，旨在形成对电磁频谱资源、电磁对抗关系和电磁安全风险的动态化、可解释性知识表达，为电磁频谱管理、电子战决策和无线通信优化提供理论支撑。
-1.2 电磁频谱空间认知研究现状
-当前，电磁频谱空间认知技术在应对复杂电磁环境、支撑动态频谱管理以及服务现代电子战系统方面取得了显著进展
-[
+-
 5
 ]
-。传统的频谱感知方法，如能量检测和基于特征的检测手段，已难以满足未来战争场景中对高精度、高鲁棒性频谱识别与态势感知的需求
+等。但随着现代战场的复杂性和动态性大幅增加，战场环境的不确定性和信息不完全性不断加剧。在面对庞大而复杂的战场信息时，传统意图识别方法难以准确和敏锐地识别出目标的真实意图。近年来，深度学习在网络训练和特征提取方面的优势有助于提高意图预测的效率和准确性
 [
 6
 ]
-。为此，研究者开始引入机器学习、深度学习等智能技术
+。文献
 [
 7
--
+]
+采用与目标意图相关的特征，利用深度神经网络实现了目标意图的分类，但他们的研究仅考虑单一时间点的信息。文献
+[
 8
 ]
-，推动频谱感知从静态检测向动态理解演进，以实现复杂环境下的目标识别、干扰识别和行为推理，增强认知系统的智能化水平和电磁优势获取能力
+引入了一种融合长短期记忆（long short term memory，LSTM）网络和证据理论的识别方法，能够在不确定和不完全的信息环境下有效识别多目标意图。文献
 [
 9
 ]
-。
-近年来的研究正致力于构建一个更加灵活、可协同的频谱认知架构，其中“数据—语义—行为”一体化模型受到关注。该模型通过多层级部署，实现从传感器采集、边缘融合到语义理解和行为推理的连续处理
+将LSTM网络与非线性插值结合，用于在不完全信息条件下的目标意图识别。文献
 [
 10
 ]
-。例如，通过构建“端—边—云”结构的频谱态势图，可以在战术环境中快速捕捉频谱动态，为高效决策提供支撑。在国外，美军的全球电磁频谱信息系统（global electromagnetic spectrum information system，GEMSIS）与国防高级研究计划局（defense advanced research projects agency，DARPA）的RadioMap平台已具备频谱感知、敌我识别和行为监测能力，能够为战场行动提供实时频谱图景
+采用加权对比预测编码模型和可变LSTM网络，实现了在不完全信息下的目标意图在线识别。文献
 [
 11
 ]
-。然而，这些系统多建立在非具身认知模型之上，频谱认知仍主要依赖静态部署、离散节点和集中处理，缺乏与环境实时交互、闭环反馈的能力，难以应对机动性强、反馈周期短的战术需求。
-频谱语义建模是理解电磁活动背后含义的核心。现有工作通过对通信和雷达辐射源的信号特征建模，从调制方式、波形结构、频率变化等维度构建电磁特征空间
+利用门控循环单元（gated recurrent unit，GRU）的记忆功能提取历史时刻属性状态在时间维度变化的特征。文献
 [
 12
--
-15
 ]
-。针对异构、高动态信号的融合问题，有研究提出集中式与分布式多节点感知机制，结合统计建模和神经网络技术提升融合精度与鲁棒性
+提出了一种新型时空Transformer模型，创新性地结合双塔结构的时间编码器与空间编码器，通过时空融合机制提升识别效果。
+上述研究通过探索多种深度学习技术，并考虑了多种影响目标意图的因素，在目标意图识别领域做出了重要贡献。然而，上述研究对不同时间点特征的考虑仍不够全面，并且网络共享权重使得作战意图识别时不同特征的权重相同，这可能会带来负面影响，特别是在不同特征的意图相互矛盾时，需要更加突出关键特征的权重。此外，这些方法尚未充分考虑意图误判可能带来的后果。在动态复杂的战场环境中，随着态势的不断变化，识别方法难免存在误判的风险，而这可能导致严重的战略失误。例如，将敌方的进攻意图误判为佯攻意图与将佯攻意图误判为进攻意图的后果截然不同，前者带来的危害远大于后者。
+本文提出一种基于双向门控循环时序网络的目标意图识别模型。该模型融合双向时序卷积网络（bidirectional temporal convolutional network，BiTCN）、双向门控循环单元（bidirectional gated recurrent unit，BiGRU）和注意力模块，以增强特征建模能力并提高意图识别精度。在此基础上，本文进一步设计误分类惩罚型的分类引导交叉熵（classification guided cross-entropy，CGCE）损失函数，通过提高后果意图误分类的惩罚权重，降低关键意图被误判的概率。
+2 空海域目标作战意图识别问题
+空海域目标作战意图识别需要综合分析战场环境中的实时动态数据，包括目标相对距离、速度、高度和航向等状态信息，并据此判断目标的行为模式，如机动、巡航等。在此基础上，结合深度学习方法、先验知识和作战领域专家经验，可进一步推断敌方空海域目标的当前状态及其潜在作战意图，为战场态势理解和辅助决策提供支撑。从建模角度看，空海域目标作战意图识别可视为由意图识别特征到具体意图类别的映射过程。
+设向量
+V
+t
+表示
+t
+时刻目标的实时特征信息，向量
+S
+表示目标作战特征集，由
+t
+1
+到
+t
+n
+时刻的战场实时特征信息构成，可表示为：
+S
+=
+V
+t
+1
+,
+V
+t
+2
+,
+⋯
+,
+V
+t
+n
+(1)
+设向量
+，
+，
+，
+I
+=
+i
+1
+，
+i
+2
+，
+⋯
+，
+i
+n
+表示空海域目标作战意图空间集，在实际作战环境中，敌方目标的行动受到多种因素的影响，可能表现出一定的误导性和欺骗性。因此，仅依靠单一时刻的特征信息进行意图识别，往往难以保证判断结果的准确性和可靠性。相比之下，连续多个时刻的目标特征能够反映目标行为的动态变化过程，有助于更准确地推断其作战意图
 [
-16
--
-17
+13
 ]
-。然而，尽管这些技术为语义推理奠定了基础，但它们在语义演化、跨模态理解和未知语义构建方面仍存在明显短板，尤其在面对陌生波形、突发干扰或策略性欺骗行为时，语义模型缺乏自我解释与修正能力。
-当前研究还在积极探索频谱态势的补全与预测，以提升对未来电磁活动的掌控能力。在数据不完整或干扰严重的环境中，通过空间插值方法重构缺失区域信息，或利用卷积网络与双向长短时记忆等深度网络建模频谱序列，实现时间维度上的趋势预测
-[
-18
-]
-。这些模型有助于提前识别异常频段、感知频谱占用动态，从而支撑战术部署与频谱干扰管理。然而，这类推理过程仍局限于系统内嵌、静态运行，缺乏与物理环境联动的能力，难以根据实时反馈进行主动调控。
-与此同时，频谱行为推理与意图识别研究也逐步展开。研究者开始通过构建频谱行为知识图谱，挖掘不同设备、网络或战术实体在频谱空间中的交互关系，并结合图神经网络和语义嵌入技术，推理频谱使用模式、攻击路径或协同作战意图
-[
-19
--
-22
-]
-。例如，集群无人系统在协同通信过程中呈现的频谱使用同步性，可能指示集群攻击行为的预备状态；而在频谱空洞中异常出现的新型波形，可能是电子欺骗或诱饵信号。这些技术在美军频谱挑战赛和战术试验场中已得到初步验证
-[
-23
-]
-，频谱认知正在从辅助态势判断走向主动作战能力的构建。
-综上所述，尽管电磁频谱空间认知技术已初步构建起从感知、理解到推理的闭环路径，并展现出广泛的电子战应用潜力，但当前大多数系统依然运行在“非具身”的模式下，缺乏基于认知体的交互、反馈和行动能力。如何打破静态结构的限制，引入面向任务的具身认知智能体，使其具备机动部署、自主感知、自我优化和任务导向推理能力，将成为未来构建新型认知电子战体系的关键方向。
-1.3 电磁频谱空间认知主要挑战
-在现代信息化作战和泛在无线通信环境中，电磁空间正逐渐演化为继陆、海、空、天、网之后的第六作战域与战略资源空间。尤其是在电子战背景下，电磁频谱空间已经成为信息对抗的主战场。在5G/6G通信、智能交通、应急救援、工业物联网等民用场景中，对频谱资源的高效利用、动态管理与安全保障也提出了前所未有的挑战和需求。电磁频谱空间的智能化认知能力，不仅关乎战时通信对抗的制胜关键，也直接影响到城市基础设施运行效率、灾害响应速度与民用通信系统的鲁棒性。
-与此同时，随着智能通信、无人系统、自主感知网络等技术的发展，电磁空间的利用已广泛扩展至军事与民用融合的多个领域。在这一更广泛的背景下，如何在复杂动态的电磁环境中实施全面感知、快速认知决策与高效任务执行，已成为提升系统智能化与作战能力的关键。无论是应对战场电磁压制，还是保障城市无线基础设施的高可靠运行，均需依赖电磁频谱空间中具备自适应、自主优化能力的认知系统。在此背景下，当前传统电磁频谱空间认知主要面临以下挑战，如
+。由此，可将空海域目标作战特征集到作战意图空间集的映射关系定义为：
+I
+=
+f
+(
+S
+)
+=
+f
+V
+t
+1
+,
+V
+t
+2
+,
+⋯
+,
+V
+t
+n
+(2)
+空海域目标作战意图识别不仅涉及目标状态特征的提取与分析，还需要结合军事领域专家知识和作战经验进行综合推理。该过程具有较强的非线性和不确定性，难以仅通过单一数学公式准确刻画目标特征与作战意图之间的对应关系。本文通过仿真模拟获取空海域目标的战场态势数据，构建了BiTCN-BiGRU-Attention模型，并进一步改进损失函数，以学习目标特征与作战意图之间的映射关系。空海域目标作战意图识别整体流程如
 图1
 所示。
-1.3.1 环境动态性与实时适应性
-电磁环境高度动态复杂，干扰源、通信频段及传感器状态持续变化，要求频谱认知系统具备实时感知与快速响应能力。传统静态网络配置固定，灵活性不足
-[
-24
-]
-，在复杂干扰下响应迟缓，限制了任务效率。
-虽然分布式无人集群和可编程射频前端提升了机动性和鲁棒性，实现动态策略调整和频段重构，但在深层环境理解与主动协同决策方面仍显不足。尤其在多任务多目标环境中，系统缺乏自主学习与在线演化能力，难以实现全面环境感知和实时最优调控。如何突破这些技术瓶颈，实现高效智能的电磁频谱认知，是当前的关键挑战。
-1.3.2 多任务协调与资源分配
-电磁空间中的任务通常需多个异构设备协同完成，对频谱资源利用与多任务调度提出挑战。传统静态网络依赖固定链路与中心化控制，调度效率低，难以应对动态任务需求。分布式无人集群通过去中心化协作，实现信息共享与自主执行，显著提升系统灵活性与适应性
-[
-25
-]
-。
 图
 1
-电磁频谱空间认知背景
+空海域目标作战意图识别过程
 Fig.
 1
-Background of spatial awareness of the electromagnetic spectrum
-但去中心化也带来新挑战：在频谱拥挤或干扰复杂的环境下，如何实现资源的动态优化分配、保障通信稳定、满足异构任务实时需求，成为系统设计的关键。这要求具备高效的频谱感知与状态共享能力，同时解决信息不完全、资源冲突与协同决策复杂度等问题，以实现系统整体性能优化。
-1.3.3 智能感知与自适应决策
-在复杂电磁环境中，认知系统不仅需感知环境变化，更应具备主动决策与自适应执行能力。然而，传统静态网络灵活性不足，难以应对电磁态势的快速演化。基于分布式无人集群与可编程射频前端的系统通过融合感知、控制与智能决策模块，实现了高度自适应的认知功能。
-尽管如此，智能感知与自适应决策仍面临挑战：一是电磁环境复杂且非线性，导致感知存在盲区与不确定性；二是大规模动态数据的实时处理对算力与算法提出更高要求
+Recognition process of operational intentions for air and maritime targets
+2.1 空海域目标作战意图作战空间
+作战意图空间通常随作战形式、作战场景和敌方实体类型的不同而变化，需结合具体任务背景进行设定。已有研究针对不同对象构建了相应的意图类别。例如，赵福均等
 [
-26
+14
 ]
-；三是多设备协同中，信息不对称、决策冲突与资源优化问题仍待解决。因此，实现更深入的环境理解与高效的自适应决策，仍有赖于技术突破。
-2 具身智能赋能的电磁频谱空间认知
-2.1 具身智能概述
-具身智能作为人工智能发展的重要方向，强调智能体应具备与物理世界交互的能力，其认知过程不仅依赖于内部模型，更深植于对环境的感知、理解与反应之中。相比传统依赖离线训练与静态数据的“离身智能”，具身智能构建了“感知—决策—行动”的自主闭环，促使智能体在真实世界中不断调整策略、积累经验并实现进化式学习
+将敌方空中目标针对我方单元的作战意图定义为侦察、监视、攻击和掩护；陈浩等
 [
-27
+15
 ]
-，具身智能系统应用架构如
+面向敌方单组海上舰船编队，建立了攻击、侦察、撤退和掩护四类作战意图；马钰棠等
+[
+16
+]
+根据空中目标的作战特点，将目标意图空间划分为攻击、佯攻、撤退、侦察、监视和电子干扰。本文面向某空海域交战场景，结合敌方目标可能采取的典型行动方式，构建包含突防、佯攻、进攻、侦察、撤退、警戒和干扰七类意图的作战意图空间。不同作战意图轨迹如
 图2
-所示。这一特性赋予系统高度的适应性与鲁棒性，尤其适用于动态、多变甚至对抗性强的环境。
-图
-2
-具身智能系统应用架构示意图
-Fig.
-2
-Schematic diagram of the application framework of the embodied intelligence system
-在分布式智能体系统如无人机集群、电磁态势感知网络中，具身智能展现出独特的潜力。每一节点通过多模态感知单元实时获取环境信息，配合本地决策机制与任务协同调度，在无集中控制的前提下实现全局有序响应。随着以ChatGPT为代表的大语言模型不断拓展至跨模态推理与任务规划领域，具身智能的认知层获得了类人水平的语言理解和复杂推理能力
-[
-28
--
-32
-]
-，使得智能体不仅“能动”，更“能懂”。这一融合为电磁频谱空间中的动态任务响应、信号识别与协同认知等应用提供了新的范式支撑，也推动具身智能从实验验证走向实用部署
-[
-33
-]
-。这一发展不仅重构了当前人工智能的研究范式，更被写入了2025年《政府工作报告》，成为国家培育未来产业的核心方向之一
-[
-34
-]
-。
-2.2 电磁频谱空间具身智能认知概念与框架
-电磁频谱空间具身智能认知是指一种集感知、语义理解、认知推理、执行调控与知识演化于一体的电磁频谱智能体认知体系，如
-图3
-所示，其中具身智能体以类生物体“感觉—神经—肌肉”式的闭环结构，通过与电磁环境的实时交互与闭环反馈，实现对电磁频谱资源的动态感知、自主决策与持续适应。
-图
-3
-电磁频谱空间具身智能认知概念示意图
-Fig.
-3
-Schematic diagram of the concept of embodied intelligence cognition in electromagnetic spectrum space
-本文所提出的“具身智能认知”不仅强调具身智能体对物理环境的主动感知与行为控制能力，更指代其在电磁频谱空间中完成“感知—理解—推理—决策—演化”的全过程认知闭环。该系统通过具身交互实现频谱动态感知，通过语义理解支撑电磁态势推理，并结合联邦学习与任务反馈优化实现持续演化，构成一个面向电磁复杂环境的泛智能认知体系。
-电磁频谱空间具身智能认知核心在于打破传统电磁认知系统中感知、认知与执行模块分离的静态结构，赋予系统更强的实时性、自适应性与环境交互能力
-[
-35
--
-38
-]
-。电磁频谱空间具身智能认知结构如
-图4
-所示，该框架由以下三部分协同构成：
-1）感知与语义理解：作为整个系统的“感知神经系统”，负责从电磁环境中收集原始信号并进行初步的处理与语义转化。系统通过分布式无人集群与可编程射频前端构成灵活机动、可重构的硬件设备，这些设备构成电磁频谱空间具身智能认知的“身体”，实时采集电磁信号。在采集电磁信号的过程中智能体通过传感器主动感知电磁环境状态，利用内置的学习算法和决策机制分析环境信息，然后有目的地执行探索行动（如调整传感器参数等），并根据电磁环境实时反馈不断探索策略，这个过程不是简单的被动接收，而是智能体根据任务目标主动选择最优的探索路径和方式，通过持续的交互学习来适应环境变化，最终实现对复杂电磁环境的高效认知和适应。该部分的核心任务是将这些实时采集的原始信号转化为能够为上层决策提供语义信息的特征。其中感知部分通过分布式传感器和射频硬件实时采集电磁信号，提供“感觉”功能；而语义理解部分负责利用高效算法对信号进行特征提取与转换，将原始信号转化为能够支持后续智能决策的任务信息，相当于生物体中的“神经”系统。
-图
-4
-电磁频谱空间具身智能认知框架
-Fig.
-4
-Electromagnetic spectrum space embodied intelligent cognition overall framework
-2）决策与执行调控：对应生物体中的“大脑”和“肌肉”系统，负责基于感知与语义理解部分提供的任务信息，进行高效的决策推理，并执行相应的操作。在这一部分，系统根据获得的语义特征判断“这是什么信号”，推理信号背后的意图、来源以及潜在威胁，并基于这些推理结果做出实时的决策。其中决策部分作为整个系统的“中枢大脑”，其基于从语义理解中获得的信息，以大模型为基础、环境记忆库为长期记忆、主动学习调度器为前额叶做出决策推理，而执行调控部分则将决策转化为实际的电磁操作，通过波形、波束的调控和设备指令的执行，相当于生物体的“运动神经”与“肌肉”，实现实时反应
-[
-39
-]
-。
-3）知识演化与优化：确保系统能够在实际环境中不断学习和适应，从而提升其长期自适应能力和鲁棒性。系统能够在多个节点之间共享学习经验，将新环境写入“电磁肌肉记忆”，并通过增量训练不断优化模型，使其能够适应电磁环境的变化和多变的作战任务。在这一部分，系统的学习过程能够借助实时的环境反馈进行不断优化，使得模型能够逐渐积累更多的环境记忆并更新决策机制。这样，系统不仅具备即刻的反应能力，还能够在长期的作战过程中不断进化，提升其应对未知威胁和环境变化的能力。
-从系统整体性能来看，具身智能认知体系相较传统认知模型，在以下几个方面展现出明显优势：首先，具身智能体具备移动部署与环境交互能力，可根据频谱环境的动态变化自适应调整感知策略，实现更高效的空间覆盖与目标识别。其次，其“感知—决策—执行”的闭环结构使得响应速度显著提升，可在电磁干扰突发或任务突变时实现秒级策略更新。再次，结合联邦学习与记忆增强网络，系统可实现不同节点间的知识迁移与经验共享，降低模型训练成本，提高长期适应性与鲁棒性。以典型具身平台（如嵌入式Jetson模块）为例，在边缘环境中实现小规模模型的增量训练可控制在2~3 s，满足战术环境下快速响应的时间要求。此外，具身智能体在实际部署中还具备设备冗余、路径优化与任务重构能力，具备在复杂任务场景中持续运作与自我进化的潜力。总之，具身智能不仅为电磁频谱认知系统赋予了更强的实时性、智能性与可扩展性，也为认知电子战等高对抗领域提供了全新的技术路径。
-综上，电磁频谱空间具身智能认知通过“感知理解—决策执行—演化优化”的闭环机制，强化电磁频谱认知系统对环境的响应速度、自主性与适应性，为未来智能化电磁作战提供全新的认知范式。
-3 电磁频谱空间具身智能认知关键技术
-3.1 具身电磁感知与语义理解
-在电磁频谱空间具身智能认知体系中，“感知与语义理解”模块是连接低层信号感知与高层任务决策的桥梁，核心任务是从原始电磁信号中提取语义信息，以支持认知行为的智能执行。不同于传统被动感知方式，该模块依赖具身智能体的交互能力，通过动态调整感知行为，实现电磁环境中信号的主动采集、精确表征与深层语义理解。
-具身智能体通过多模态传感器在时变环境中进行信号采样，并借助深度学习与自适应策略，从复杂信号中自动提取高阶特征。这些特征不仅描述信号本身，还承载其在特定任务语境中的语义与功能作用，为后续决策提供认知依据。具身电磁感知与语义理解示意图如
-图5
 所示。
-3.1.1 信号采集与特征提取
-本阶段聚焦于两个核心子任务：主动信号采集与高维特征提取。其目标是在动态电磁环境中获取高质量信号输入，并挖掘关键特征以支撑认知建模。
-（1）主动信号采集
-具身智能体具备环境交互能力，可通过控制其运动状态、接收方向和频率配置等方式，主动寻找最优感知点位，增强信号获取质量。优化目标函数如下：
-(1)
-其中，
-为可行采样动作集合，
-s
-和
-s
-′|
-s
-分别表示采样前后的环境状态，
-I
-（
-x
-;
-s
-′）为动作
-a
-下信号
-x
-与状态
-s
-′之间的互信息，
-ε
-表示环境状态空间。
-（2）高维特征提取
-在完成信号采集后，系统需对原始信号进行多尺度特征提取，以实现对其结构性与语义属性的深度解析。传统方法如快速傅里叶变换（fast Fourier transform，FFT）、小波变换（wavelet transform）可获取时频域特征，而深度神经网络结构则可自动学习高维特征表示，例如采用复合模型对特征进行提取，表达如下：
+图
+2
+不同作战意图轨迹
+Fig.
+2
+Trajectories under different operational intentions
+在确定作战意图空间后，本文依据仿真推演数据，并结合专家经验，对各类意图对我方造成的威胁程度进行排序。为满足模型训练与识别的需要，将七类意图分别映射为数值编码0，1，2，3，4，5，6，其中编码值越大表示威胁程度越高。各类意图的威胁程度排序及对应编码如
+图3
+所示。
+图
+3
+作战意图威胁排序与编码
+Fig.
+3
+Threat ranking and coding of operational intentions
+2.2 空海域目标作战意图识别特征
+敌方作战单元在行动过程中呈现的战术动作通常与其作战意图密切相关。本文结合领域专家经验和意图判别相关条件，选取能够反映目标任务特征的作战特征。
+从敌方目标执行作战任务的过程看，不同任务类型对应的目标行为及状态条件存在差异。以进攻任务为例，空中目标类型不同，其飞行速度也呈现明显差别：歼击机通常以较高速度接近敌方，飞行速度一般为800~1 400 km/h；运输机和轰炸机的飞行速度相对较低，通常为600~850 km/h；海上目标则以高航速接近敌方，航速一般为50~60 km/h。执行侦察任务时，空中目标的侦察方式可分为低空侦察和超高空侦察，飞行高度分别为100~1 000 m和15 000 m以上
+[
+17
+]
+；海上目标则通常以巡航速度实施侦察，航速一般为28~40 km/h。
+结合领域专家经验，战场环境中可实时采集的目标状态数据主要包括速度、高度、加速度、航向角、方位角和相对距离等。同时，基于战场前期情报和实时获取的情报信息，将目标类型划分为：①空中目标；②海上目标。
+综上所述，本文共选取7种关键意图特征，如
+表1
+所示。
+表
+1
+海空域目标特征空间
+Tab.
+1
+Feature space of air and maritime targets
+3 双向门控循环时序网络
+3.1 模型整体框架
+本文提出的模型由1个BiTCN模块、1个BiGRU模块以及注意力模块组成，旨在高效捕捉时间序列中的多层次依赖关系，并提升少数类样本的识别能力。首先，BiTCN模块通过扩张卷积来捕捉时间序列中的短期和长期依赖关系，有效扩展感受野，从而增强对时间序列中多尺度特征的提取能力。其次，BiGRU模块在BiTCN提取的时序特征基础上，通过前向和后向的GRU对时间依赖进行进一步建模，强化了对复杂时间序列数据的全局理解。再次，模型引入注意力模块，该模块能够自适应地为每个时间步分配权重，从而聚焦于对最终分类任务最为重要的时间步特征，进一步提升特征的表示能力。最后，经过全连接层，模型将注意力提取的全局特征映射为类别预测结果。此外，本文在模型训练过程中对损失函数进行了改进，提出了CGCE损失函数，通过动态调整不同类间的惩罚权重，增强模型对误分类的敏感性，从而有效缓解类别不平衡问题。
+图4
+展示了BiTCN-BiGRU-Attention的整体框架。
+3.2 双向时序卷积网络（BiTCN）
+时序卷积网络（temporal convolutional network，TCN）结合了递归神经网络（recursive neural network，RNN）和卷积神经网络（convolutional neural network，CNN）的优点，采用具有相同输入和输出长度的扩展因果卷积层。传统 TCN主要通过前向卷积处理输入序列，能够提取特征数据的前向时序信息，但难以充分利用反向序列中包含的隐含特征。为此，本文采用双向时序卷积结构，同时建模目标特征序列的前向信息和反向信息，以增强对长期依赖关系的表征能力。图 5展示了 BiTCN结构。
+图
+4
+BiTCN-BiGRU-Attention整体框架
+Fig.
+4
+Overall framework of the BiTCN-BiGRU-Attention
 图
 5
-具身电磁感知与语义理解示意图
+BiTCN结构
 Fig.
 5
-Schematic diagram of embodied electromagnetic perception and semantic understanding
-F
-=
-ϕ
-(
-x
-)
-=
-N
-(
-D
-(
-x
-)
-)
-(2)
-其中，
-x
-表示输入信号，
-D
-（·）表示短时傅里叶变换，
-N
-（·）为特征提取卷积网络，
-φ
-（·）为总体特征映射函数，
-F
-为输出的特征向量。
-此类深度学习模型不仅能够在有噪声的复杂环境中提取稳定特征，还具备持续学习与适应能力，可随环境变化动态优化参数，提升整体感知鲁棒性。
-3.1.2 语义映射与理解形成
-在完成信号特征提取之后，系统需进一步将这些多维度特征向量映射为语义符号，并结合任务目标与环境语境进行认知解释，以支持后续推理与行为规划。
-（1）语义映射机制
-在语义映射阶段，系统需构建从信号特征到语义标签的映射机制
-[
-40
-]
-，这一机制不是静态模板匹配，而是融合当前电磁环境状态、历史感知经验与认知任务目标的动态建模过程。具身智能体通过与环境持续交互，不断完善这一映射关系，使其具备对复杂电磁现象进行上下文建模与结构化理解的能力。
-(3)
-其中，
-F
+BiTCN structure
+图5
+中扩展因果卷积的特点在于将输入序列通过网络转换为输出序列，并且满足输出在任意时刻仅由当前时刻之前的输入决定。为了有效捕获序列的长期特征，因果卷积需要使用额外的层或扩展感受野。为了在保留特征映射维度的同时，通过更少的层获得更大的感受野，BiTCN采用了扩展卷积。对于一维序列
+X
 ∈
 R
 n
-为提取的信号特征向量，
-S
-为语义标签集合，
+中元素
 s
+与卷积核滤波器
+，
+，
+{
+0
+，
+⋯
+，
+k
+-
+1
+}
+→
+R
+的扩展卷积定义如下：
+F
+(
+s
+)
+=
+∑
 i
-为具体语义单元。与传统静态匹配方式不同，具身智能系统通过引入环境状态
-C
-t
-、历史轨迹
-以及任务目标
-G
-构建动态条件概率模型：
-(4)
+=
+0
+k
+-
+1
+f
+(
+i
+)
+⋅
+X
+s
+-
+d
+⋅
+i
+(3)
 其中，
-W
-为权重矩阵，
-b
-为偏置向量，下标
-t
-表示时刻。模型利用上下文信息增强语义映射的针对性与解释力。
-（2）语义理解
-系统不仅要判断“是什么信号”，更重要的是理解“这个信号意味着什么、与哪个任务相关、如何对其做出反应”。语义理解阶段旨在建立信号结构、任务意图与环境语境之间的三重语义关系，支持智能体对信号进行行为导向性的理解与响应。
-系统构建如下三元关系图谱：
-(5)
-其中，
-为信号特征空间，
-为语义空间，
-为任务意图空间。该图谱结构可随任务场景与学习反馈动态演化，逐步从“信号—标签”单层映射扩展为“信号—语义—任务”的多模态认知图谱。
-这种具身感知下的语义理解机制，显著提升了系统对电磁信号的抽象能力，使其具备在不确定、动态和高干扰环境中理解任务语义并生成适应性行为响应的能力，构建起具身认知智能的语义基础。
-3.2 具身电磁决策与执行调控
-在复杂的电磁环境中，具身智能体不仅需要对电磁信号进行准确感知和语义理解，还需要具备任务驱动下的认知推理与行为执行能力。具身电磁决策与执行调控模块实现了从“认知”到“行动”的闭环控制，是具身智能体系实现自适应反应、任务动态规划和环境实时响应的核心支撑。其示意图如
+s
+-
+d
+·
+i
+表示输入序列中被卷积核采样的索引位置，
+k
+表示卷积核的大小。扩展因子
+d
+决定了卷积过程中插入零向量的数量。随着输入序列在每一层中进行卷积运算，
+d
+以指数形式增长。通过一系列卷积操作，BiTCN获得了扩展的感受野，能够高效地从序列中提取特征。
+3.3 双向门控循环单元（BiGRU）
+BiGRU是一种基于传统GRU改进的网络架构
+[
+18
+]
+。传统的GRU算法仅限于在序列中单方向传播，只考虑当前时刻与前一时刻之间的关联性。BiGRU架构
+[
+19
+]
+旨在同时结合历史数据和未来数据对当前数据的影响。该架构的结构如
 图6
 所示。
 图
 6
-具身电磁决策与执行调控示意图
+BiGRU结构
 Fig.
 6
-Schematic diagram of embossed electromagnetic decision-making and execution regulation
-3.2.1 认知决策与推理
-传统认知推理方法（如规则引擎、模糊推理、贝叶斯网络）在静态、单一任务环境中具有效果，但面对高维动态频谱环境和多任务并行需求时，难以胜任复杂任务建模与长期策略优化。为此，本文引入基于大模型（large language model，LLM）与Agent架构的认知推理机制，构建具备上下文理解、自主规划与语义决策能力的智能体模型。
-（1）大模型驱动的电磁语义推理
-预训练大模型具备从大规模语料和多模态数据中学习语义关联和上下文推理能力，可作为具身智能体的大脑引擎，对感知输入进行语义解释与任务意图识别。对于输入的特征
-F
-和语境
-C
-，大模型基于Transformer结构可生成任务响应策略
-π
-*
-：
-(6)
-其中：
-P
-（·）为构建输入序列的嵌入函数；
-L
-（·）表示大模型主体，例如LLaMA、Qwen、DeepSeek等。
-与传统模型相比，LLM具备强上下文建模能力，能够处理电磁信号与任务环境间复杂语义关系强泛化能力，可适应新任务和环境而无须重新训练；还可与外部知识库（如频谱图谱、信号特征库）动态交互，提升推理解释性。
-（2）Agent架构下的任务规划与反应控制
-在大模型的基础上，具身电磁系统进一步引入基于Agent的智能体结构，通过感知—记忆—推理—行动的循环体系，实现面向任务目标的连续决策与规划。该Agent结构定义如下：
-(7)
-其中，
-为环境感知模块，
-为长期记忆模块（包含历史经验与环境知识），
-π
-为策略生成器。
-在每一轮决策中，Agent根据当前状态
-s
-t
-和记忆
-生成最优动作
-a
-t
-：
-(8)
-该策略生成过程可由强化学习增强，或通过语言模型的计划生成能力直接导出。
-（3）计划—执行—反馈的策略闭环
-大模型与Agent架构可构建“计划—执行—反馈”闭环，通过自然语言生成行为序列：
-Plan
+BiGRU structure
+图6
+中BiGRU是对原始GRU的改进版本。它通过为每组序列创建另一个在相反方向运行的GRU结构，从而同时考虑前向和后向的特征。随后，通过给定的表达式对隐藏层加权，将两个GRU的输出进行组合。
+h
+→
 t
 =
-{
-observe ⟶ analyze ⟶ respond ⟶ monitor
-}
-(9)
-系统通过行动执行（act）和结果评估（reflect），持续优化策略
-π
-并更新知识记忆
-，实现多轮感知—推理—调整的演化闭环。该认知推理机制极大提升了系统在不确定、复杂电磁场景下的任务规划能力、行为适应性与语义响应灵活性。
-3.2.2 执行调控与行动实施
-认知系统生成高层策略后，需通过底层控制系统将其落地为具体的物理行为。在电磁频谱空间中，这意味着动态调配感知设备、射频资源、通信链路等硬件组件，实现对电磁环境的实时调控与行为执行。“执行调控与行动实施”模块是连接认知决策与物理世界的关键桥梁，通过对策略指令的映射执行、行为反馈调节与资源智能调度，保障具身智能系统在实际电磁环境中稳定、高效地完成任务响应与动态适配。
-（1）认知指令的行为映射机制
-在接收到认知决策与推理模块生成的高层次任务指令后，执行调控与行动实施模块首先通过解析具身电磁决策部分输出的决策结果，将抽象的任务目标细化为具体的操作指令。举例来说，高层认知策略
-a
-t
-需映射为可执行的硬件控制信号
-u
-t
-：
-a
-t
-=
-d
-s
+G
+R
+U
+X
 t
 ,
-π
-T
-i
-⇒
-u
+h
+→
+t
+-
+1
+(4)
+h
+←
 t
 =
-f
-a
+G
+R
+U
+X
 t
-(10)
-其中：
-u
-t
-包括调整频率扫描范围、重定向天线波束、改变接收带宽、移动智能体等指令，支持动态适配电磁环境；
-d
-（·）表示决策函数。
-（2）环境感知驱动的实时反馈控制
-系统对控制行为执行效果进行监测，并根据反馈信号质量
-q
-t
-调整控制策略，实现环境自适应：
-u
+,
+h
+←
 t
 +
 1
+(5)
+Y
+t
 =
-u
+w
+t
+h
+→
 t
 +
-λ
-⋅
-∇
-q
-L
-q
+v
 t
-(11)
-其中，
-L
-（
-q
+h
+→
 t
-）为信号失真或任务损失函数，
-λ
-为反馈调整步长。系统在信号衰减或干扰突发时能迅速调整接收策略以保持稳定性。
-（3）多执行单元的资源调度与协同控制
-具身系统通常由多个控制模块（如多接收端、天线阵列、射频链路）组成，需协同调度其资源以同时完成多个任务。调度目标函数如下：
-(12)
-其中，
-U
-（
-T
-i
-，
-A
-i
-）为任务
-T
-i
-在资源
-A
-i
-分配下的效能评价，
-w
-i
-为任务优先级，
-为资源分配策略。系统可通过图优化、边缘调度算法或多目标规划方法实现高效的资源管理，确保系统执行效率与任务完成质量的双重最优。
-3.3 具身电磁知识演化与优化
-具身智能系统在高动态、强干扰的电磁环境中，仅依赖静态模型与规则驱动的认知机制难以实现长期适应性与泛化能力。为了赋予系统“持续学习—知识更新—行为优化”的能力，提出具身电磁知识演化与优化机制。该机制强调智能体在与环境持续交互过程中，动态更新内部知识结构，实现从感知行为到策略执行的持续演进
++
+b
+t
+(6)
+其中：
+X
+t
+表示输入；
+h
+→
+t
+和
+h
+←
+t
+分别是时刻
+t
+前向和后向隐藏层的输出；
+和
+h
+→
+t
+和
+h
+←
+t
+分别表示前向和后向隐藏层的输出权重；
+Y
+t
+表示时刻
+t
+合并后的隐藏层输出；
+b
+t
+表示偏置系数。
+3.4 注意力模块
+注意力模块通过计算BiGRU在不同时间步输出特征向量的权重，突出对预测结果贡献较大的特征，从而增强模型的特征表示能力并提升识别性能
 [
-41
+20
 ]
-，其示意图如
+。本文通过注意力模块为每个隐藏状态分配一个权重，突出重要的特征，最终得到输出向量，作为进一步预测的依据。注意力模块的基本结构如
 图7
 所示。
 图
 7
-具身电磁知识演化与优化示意图
+注意力模块基本结构
 Fig.
 7
-Schematic diagram of the evolution of embodied electromagnetic knowledge
-3.3.1 环境感知与记忆更新
-该模块关注如何将具身系统在感知过程中的信息积累为结构化知识，并以此支撑未来任务的认知推理与策略生成。
-（1）信号动态建模与趋势学习
-具身智能系统首先需对电磁环境中信号的时序变化与规律进行建模，从而在环境变化之前形成预测机制。设
+Basic structure of Attention module
+首先，BiGRU网络输出特征向量
+Y
 t
-时刻的信号状态为
-x
-t
-，构建非线性序列预测模型：
-x
-t
-+
-1
-=
-f
-x
-t
-,
-x
-t
--
-1
-,
-⋯
-,
-x
-t
--
-n
-+
-ϵ
-(13)
-其中，
-f
-（·）为信号演化函数（可通过循环神经网络、长短时记忆网络等实现），
-ϵ
-为系统噪声。系统通过序列学习模型实现对信号频谱迁移、强度波动、干扰出现的趋势预测。
-（2）基于记忆增强的知识结构构建
-智能体需构建可持续更新的长期知识表示，以记录电磁环境中的观测、反馈与执行结果。引入记忆增强神经网络（memory-augmented neural network，MANN），构建知识记忆矩阵：
-M
-t
-=
-M
-t
--
-1
-+
-ϕ
-x
-t
-,
+，该特征向量被输入注意力模块的隐藏层，以得到初始状态
 y
 t
+。之后为了量化每个初始状态在当前序列中的重要性，计算每个时间步
+t
+的隐藏状态
+y
+t
+的得分
+e
+t
+。然后使用Softmax函数对得分进行归一化处理，得到隐藏状态
+y
+t
+的注意力权重
+α
+t
+。最后将注意力权重
+α
+t
+与对应的隐藏状态
+y
+t
+相乘，得到加权的隐藏状态向量。对所有时间步的加权向量求和，最终得到输出向量
+c
+。
+e
+t
+=
+t
+a
+n
+h
+⁡
+W
+s
+t
+⋅
+y
+t
++
+b
+s
+t
+(7)
+α
+t
+=
+exp
+⁡
+e
+t
+∑
+i
+=
+1
+n
+e
+x
+p
+⁡
+e
+i
+(8)
+c
+=
+∑
+t
+=
+1
+n
+α
+t
+y
+t
+(9)
+其中：
+W
+s
+t
+为第
+t
+个特征向量对应的权重系数矩阵；
+b
+s
+t
+为第
+t
+个特征向量对应的偏置项。
+3.5 误分类惩罚型的CGCE损失函数
+根据各类意图对我方造成的威胁程度，敌方目标七种作战意图可排序为：攻击、突防、干扰、警戒、侦察、佯攻、撤退。意图误判所涉及的威胁等级差异越大，可能造成的损失越严重。相较于将低威胁意图误判为高威胁意图，将高威胁意图误判为低威胁意图的后果更为严重。因此，模型在意图识别过程中需要考虑不同等级误判的代价，以最大限度降低误判对我方作战决策的负面影响。为此，本文提出了误分类惩罚型的CGCE损失函数，以有效应对不同类型误判所带来的不同影响。具体地，误分类损失值的构建如下：
+L
+cost
+=
+∑
+n
+=
+1
+N
+K
+⋅
+p
+^
+n
+,
+m
+⋅
+e
+x
+p
+⁡
+1
+-
+q
+^
+n
+,
+m
+(10)
+K
+=
+K
+1
+×
+y
+n
+-
+m
+,
+y
+n
+&amp;gt;
+m
+K
+2
+×
+m
+-
+y
+n
+,
+y
+n
+⩽
+m
+(11)
+其中：
+N
+是样本数；
+y
+n
+表示模型预测样本的类别；
+，
+q
+^
+n
+，
+m
+表示模型输出的第
+n
+个样本对应于类别
+m
+的预测概率；
+，
+p
+^
+n
+，
+m
+表示训练集中第
+n
+个样本对应于真实标签类别
+m
+的概率；
+K
+1
+表示低风险意图误判为高风险意图的代价因子；
+K
+2
+表示高风险意图误判为低风险意图的代价因子，并且满足
+K
+1
+＜
+K
+2
+，以反映高风险误判带来的更严重后果。
+此外，为了提高模型的稳定性和鲁棒性，本文在损失函数中引入了梯度惩罚项。梯度惩罚项通过计算预测输出相对于输入的梯度，确保其
+L
+2
+范数接近1，从而实现正则化效果。梯度惩罚项的定义如下：
+L
+g
+p
+=
+∇
+x
+f
+(
+x
+)
+2
+-
+1
+2
+(12)
+其中，
+（
+）
+∇
+x
+f
+（
+x
+）
+表示模型输出的梯度，
+（
+）
+∇
+x
+f
+（
+x
+）
+2
+表示梯度的
+L
+2
+范数。通过加入梯度惩罚项，能够增强模型的泛化能力，确保其在面对复杂数据时依然保持稳定的训练过程。
+同时，本文还采用交叉熵损失
+[
+21
+]
+来衡量模型预测结果与真实标签之间的差异。交叉熵损失作为标准的分类损失，可以有效引导模型学习到准确的类别边界，其定义如下：
+L
+c
+e
+=
+-
+1
+N
+∑
+n
+=
+1
+N
+∑
+m
+=
+1
+M
+p
+^
+n
+,
+m
+l
+n
+⁡
+q
+^
+n
+,
+m
+(13)
+因此，总损失函数
+L
+total
+定义为三部分损失的加权和，即：
+L
+total
+=
+L
+cost
++
+λ
+g
+p
+⋅
+L
+g
+p
++
+λ
+c
+e
+⋅
+L
+c
+e
 (14)
 其中，
-，
-ϕ
+λ
+gp
+和
+λ
+ce
+分别是梯度惩罚项和交叉熵损失的权重参数，用于平衡各部分损失的贡献。
+4 实验与结果分析
+4.1 实验数据和环境
+本实验基于某区域战斗场景进行仿真构建，涵盖空中目标与海上目标的多种典型作战任务。仿真数据来源于墨子联合作战推演系统，场景中包括战斗机编队巡航、无人机侦察、舰艇编组布防、导弹打击等多类行为。通过多轮仿真运行，构建了多组空中目标与海上目标的意图识别样本，并由相关领域专家对样本标签进行了校验与修订，确保标注的准确性与权威性。在数据构建过程中，每个样本由12帧连续特征序列组成，涵盖速度、加速度、相对方位角、航向角、高度等关键作战参数。仿真系统以30 s为时间步长生成特征序列，有效捕捉目标行为在作战进程中的动态演化特征。最终数据集共包含11 000个样本，其中8 804个样本用于训练，2 196个样本用于测试。在测试集中，七类作战意图的样本数量分布如下：侦察（376）、进攻（478）、突防（242）、佯攻（434）、警戒（215）、干扰（248）、撤退（203）。不同类别样本数量较为均衡，保证了模型在多类任务下的泛化能力与评估有效性。
+战场态势数据来源多样，涵盖不同目标的各类特征状态，不同数值型特征在单位和量级上存在较大差异，这可能影响模型的收敛效率和识别精度。因此，本文对数据进行了线性归一化处理。
 x
-t
-，
-y
-t
-表示将信号特征
-x
-t
-与任务反馈
-y
-t
-的嵌入写入记忆单元。该机制支持智能体对任务成功/失败结果进行存储与归因，形成环境—行为—结果之间的长期关联。
-（3）联邦分布式学习与跨节点共享
-在多具身节点场景下，不同智能体在不同地理或频谱环境中形成异构知识。通过联邦学习框架，系统可实现本地模型共享而不传输原始数据，保持隐私的同时提升系统泛化能力。
-采用联邦平均算法：
-θ
-(
-t
-+
-1
-)
-=
-Σ
+norm
 i
-=
-1
-K
+,
 n
+=
+x
+i
+,
+n
+-
+m
 i
 n
-⋅
-θ
+X
 i
-(
-t
-)
+m
+a
+x
+X
+i
+-
+m
+i
+n
+X
+i
 (15)
 其中，
-K
-为参与聚合的节点（客户端）数目，
-（
-）
-θ
+，
+x
+norm
 i
-（
-t
-）
-为第
-i
-个节点本地模型参数，
+，
 n
+表示样本中第
 i
-为样本数量，
-θ
+个特征维度中的第
+n
+个值，min（
+X
+i
+）和max（
+X
+i
+）分别表示该特征维度中的最小值与最大值。经该归一化映射后，所有特征都被压缩到[0，1]区间，从而提升模型在多源数据下的数据稳定性。
+实验使用Python3.7语言，在NVIDIA GeForce RTX 4060 GPU和CUDA12.5环境下运行，采用PyTorch深度学习框架。模型训练过程中的超参数以及模型的结构汇总如
+表2
+所示。为降低随机初始化和训练过程中的偶然性对结果的影响，本文对每组实验均独立重复运行5次。
+表
+2
+模型参数设置
+Tab.
+2
+Model parameter settings
+4.2 性能评价指标
+为评估本文提出的方法在空海域目标作战意图识别中的性能，本文采用了准确率、精确率、召回率、F1分数、高威胁误判数（
+H
+error
+）和低威胁误判数（
+L
+error
+）
+[
+22
+]
+作为评价指标。
+在意图识别任务中，计算某类意图的精确率、 召回率和 F1分数时，将该类的样本视为正类，而其余类别的样本则被视为负类。各项指标的计算公式如下所示：
+准
+确
+率
+准确率
+=
+P
+T
++
+N
+T
+P
+T
++
+P
+F
++
+N
+T
++
+N
+F
+(16)
+精
+确
+率
+精确率
+=
+P
+T
+P
+T
++
+P
+F
+(17)
+召
+回
+率
+召回率
+=
+P
+T
+P
+T
++
+N
+F
+(18)
+分
+数
+F
+1
+分数
+=
+2
+×
+P
+×
+R
+R
++
+P
+(19)
+其中，
+P
+T
+表示正确分类的正类样本数，
+P
+F
+表示误将负类样本分类为正类的数量，
+N
+T
+表示正确分类的负类样本数，
+N
+F
+表示误将正类样本分类为负类的数量，
+P
+表示精确率，
+R
+表示召回率。高威胁误判数表示高风险意图误判为低风险意图的样本数量，低威胁误判数表示低风险意图误判为高风险意图的样本数量。
+4.3 结果分析
+4.3.1 不同模型对比分析
+为验证本文提出的BiTCN-BiGRU-Attention模型（该模型由BiTCN、BiGRU以及注意力模块共同构成）的优越性，将所提出的模型分别与四种当前性能较优的目标作战意图识别模型进行了对比实验，包括文献
+[
+23
+]
+提出的基于LSTM的战场敌方目标作战意图识别模型；文献
+[
+24
+]
+提出的基于BiLSTM-Attention的空中目标作战意图识别模型；文献
+[
+25
+]
+提出基于GRU-Attention的空中群组态势识别模型；文献
+[
+26
+]
+提出的基于BiGRU-Attention的空中目标作战意图识别模型。实验结果如
+表3
+和
+表4
+所示，①~⑤分别代表BiTCN-BiGRU-Attention、GRU-Attention、BiGRU-Attention、LSTM和BiLSTM-Attention。
+表
+3
+不同模型结果对比
+Tab.
+3
+Comparison of results for different models
+从
+表4
+中可以看出，本文提出的BiTCN-BiGRU-Attention意图识别模型在意图识别性能方面相较于其他四种模型具有明显提升，在意图误判数量方面显著减少，证明了本文提出的模型在意图识别任务上的优越性。
+表
+4
+不同模型其他评估指标结果对比
+Tab.
+4
+Comparison of evaluation metrics for different models
+4.3.2 BiTCN-BiGRU-Attention模型结果分析
+BiTCN-BiGRU-Attention模型在经过100轮训练后对测试集进行测试，实验结果表明本文提出的模型准确率达到98.58%。为了更加深入地分析意图识别的具体情况，将模型的输出结果制作成混淆矩阵，其中对角线上的数值表示成功识别各意图类别的样本数量，如
+图8
+所示。
+通过对混淆矩阵的分析可以发现，模型在七种意图的识别上总体准确率较高，其中警戒、干扰和撤退意图的识别准确率均达到100%。然而，对于进攻意图，模型存在少量被误识别为佯攻意图的情况；侦察意图中也有部分样本被误分类为佯攻意图。进一步分析发现，进攻意图与佯攻意图之间存在较为相似的特征，且佯攻具有更强的欺骗性，模型在区分这两类作战意图时的训练权重无法形成明显差异，导致部分误判。此外，侦察意图与佯攻意图在仿真过程中表现出的作战规划也存在部分相似之处，尤其是抵近侦察的情况，其特征与佯攻相似，这使得模型在这些意图的识别上表现欠佳。
+图
+8
+BiTCN-BiGRU-Attention模型混淆矩阵
+Fig.
+8
+BiTCN-BiGRU-Attention model confusion matrix
+为直观展示BiTCN-BiGRU-Attention模型对意图特征的提取效果，本文采用
+t
+分布随机近邻嵌入
+[
+27
+]
 （
 t
-+1）
-为聚合后的全局模型。该机制支持系统在面对多任务多环境时快速扩展认知能力。
-在分布式无人集群场景中，节点之间的学习经验共享与模型同步需面对通信带宽限制和任务执行同步等挑战。在实际部署中，节点间使用自组网或无线链路（如特高频/甚高频）进行通信时，单轮模型参数同步的通信时延一般为数百毫秒至数秒（10
-2
-~10
-3
-ms），例如在1 Mbit/s链路上传输1 MB参数量模型约需8 s，若结合模型剪枝、量化压缩等优化方法，则可将通信延迟降为1~2 s。
-同时，节点本地的增量训练过程对资源计算效率具有要求。当前主流的嵌入式AI平台（如NVIDIA Jetson Nano或国产智能处理芯片）支持轻量级模型在小批量数据（100~500个样本）上于1~3 s内完成一轮更新。这样的时延与电磁环境动态变化的时域特性基本匹配：实际战场中电磁干扰的发生频率多为0.1~10 s，频谱突变响应时间多为1~30 s不等，系统可在可接受时延范围内实现认知调整和策略更新。
-为了进一步降低模型同步与训练延迟，在设计中引入以下机制：一是采用异步联邦学习与分层聚合架构，实现局部快速同步与全局慢更新并存；二是引入模型蒸馏与轻量学生网络，使得骨干节点在保持性能的同时，快速向边缘节点分发可适配模型；三是结合基于记忆的任务筛选机制，优先对变化剧烈或关键频段进行快速增量更新，从而提升系统对关键环境变化的响应效率与适应能力。上述机制保证了系统即便在低带宽、计算受限的条件下，仍具备对电磁环境变化和多变作战任务的自适应能力。
-3.3.2 自我演化与持续优化
-具身电磁智能体需要具备在长期运行中不断自我提升的能力，即在每一轮任务执行中进行反馈学习—策略更新—知识迭代，实现从短期感知到长期优化的智能进化。
-（1）基于反馈的策略动态调整
-具身智能体在完成每轮任务执行后，可基于结果对当前策略进行强化学习式调整。策略更新目标为最大化长期累计奖励，采用策略梯度优化：
-θ
-t
-+
+-distributed stochastic neighbor embedding， T-SNE）算法对模型提取的特征进行降维，并将其映射到二维空间，绘制特征投影图。由
+图9
+可见，不同意图类别的样本在类内分布较为紧凑，而类间分离较为明显，表明该模型能够较好地提取判别性特征，实现对不同意图类型的有效区分。
+图
+9
+BiTCN-BiGRU-Attention模型提取特征效果
+Fig.
+9
+Feature extraction effect of the BiTCN-BiGRU-Attention model
+综上，通过对BiTCN-BiGRU-Attention模型的准确率、混淆矩阵以及特征降维后的投影图进行分析，可见该模型在空海域目标意图识别任务中表现出较高的性能。
+4.3.3 CGCE模块分析
+为验证本文提出的针对空海域目标意图识别的CGCE损失函数的有效性，本文对原始BiTCN-BiGRU-Attention模型与引入CGCE损失函数的BiTCN-BiGRU-Attention模型进行了对比分析。通过调试和对比实验，本文分别选取
+K
 1
-=
-θ
-t
-+
-η
-⋅
-∇
-θ
-E
-π
-θ
-R
-t
-(16)
-其中，
-π
-θ
-为当前策略，
-R
-t
-为累计任务奖励，
-η
-为学习率。该机制使系统可根据任务成功率、响应延迟、信号识别准确率等评价指标进行优化。
-（2）任务迁移与策略复用机制
-为了支持不同电磁任务之间的知识迁移与策略共享，系统构建跨任务迁移函数
-T
-ij
-，用于将已有任务
-T
-i
-的策略映射到新任务
-T
-j
-上：
-π
-j
-(
-s
-)
-=
-T
-i
-j
-π
-i
-(
-s
-)
-(17)
-该映射函数可通过元学习或表示学习方法训练获得，实现“见过类似任务，快速适配”的迁移能力。具身电磁智能系统通过对环境感知的长期积累、联邦协同的知识共享以及反馈驱动的策略演化，构建了一个具备“持续学习—知识更新—行为优化”的自演化智能体，为系统在复杂、多变、分布式电磁空间中长期稳定运行提供了坚实支撑。
-4 结论
-本文立足具身智能理论与电磁空间智能化需求，探讨了电磁频谱空间具身智能认知的概念、框架及其关键技术，通过智能体与电磁频谱空间的实时闭环交互，实现频谱态势的动态理解与主动调控，为电磁频谱空间智能化升级提供理论支撑与技术路径。本文提出的框架旨在实现精准的电磁感知与语义理解、决策与执行调控以及知识演化。本文总结了电磁频谱空间具身智能认知框架的组成部分及其各自的优势与实际应用所需的关键技术，指向具身智能体在电磁频谱空间认知中的智能化应用。这些研究不仅为具身智能体在复杂环境中的操作提供了理论基础，也为未来技术的发展提供了新的方向，推动具身智能在实际应用中的落地。
-综上所述，具身智能认知体系突破了传统电磁频谱认知模型在感知孤立、响应滞后和任务适应性差等方面的技术瓶颈。具身智能体具备“感知—决策—执行—优化”的闭环控制能力，可主动适应动态电磁环境，并通过机动部署与持续交互快速完成感知策略更新，展现出卓越的环境适应性和响应灵活性。结合联邦学习与边缘计算等机制，该体系还可实现多节点间的知识共享与协同优化，提升了系统的鲁棒性与长期演化能力。在动态频谱重构、干扰规避、低通信资源部署等关键场景中，具身智能体表现出明显优势，具备良好的工程落地潜力和任务泛化能力。
-通过深入分析具身智能的特性和电磁频谱空间认知的挑战，本文希望为相关领域的研究者提供启示，促进具身智能技术的进一步发展与应用。
+=1、
+K
+2
+=2和
+λ
+gp
+=0.2、
+λ
+ce
+=0.8作为CGCE损失函数中的参数，实验结果如
+表5
+和
+表6
+所示，①和②分别代表BiTCN-BiGRU-Attention和BiTCN-BiGRU-Attention+CGCE。
+表
+5
+结果对比
+Tab.
+5
+Comparison of results
+表
+6
+其他评估指标对比
+Tab.
+6
+Comparison of other evaluation metrics
+表5
+和
+表6
+展示了模型在准确率、精确率、召回率、F1分数、高威胁误判数和低威胁误判数指标上的表现。可以看出，加入CGCE后模型的准确率达到了99.09%，相比原始模型提高了0.51个百分点。同时，在其他四项评价指标上也有显著提升，特别是在高威胁误判数上显著减小，表明加入CGCE后，模型在意图识别上变得更加精准，在高威胁意图的识别方面有着更好的效果。
+图10
+显示了加入CGCE后模型在意图特征提取方面的效果，结果表明，各意图类别的特征聚集更加紧密，不同类别之间的距离更为明显，相较于原模型的特征提取效果得到了进一步改善。
+为了更加直观地展现加入CGCE后模型的意图识别结果，本文基于测试集所有样本的识别结果绘制了如
+图11
+所示的混淆矩阵，并将其与
+图8
+中未引入CGCE的识别结果进行了对比。可以看出，引入CGCE后，模型将高威胁意图误判为低威胁意图的情况明显减少，整体识别结果显示出对空海域目标意图的判断趋向更加保守。
+图
+10
+加入CGCE后模型提取特征效果
+Fig.
+10
+Feature extraction effect of the model after adding CGCE
+图
+11
+加入CGCE后模型混淆矩阵
+Fig.
+11
+Confusion matrix of the model after adding CGGE
+为进一步验证本文所提CGCE方法的普适性，对GRU-Attention、BiGRU-Attention、LSTM和BiLSTM-Attention四种目标意图识别模型进行对比实验，实验结果如
+表7
+和
+表8
+所示，①~④分别代表GRU-Attention+CGCE、LSTM+CGCE、BiGRU-Attention+CGCE和BiLSTM-Attention+CGCE。
+表
+7
+不同模型加入CGCE后结果对比
+Tab.
+7
+Comparison of the results of different models after incorporating CGCE
+通过
+表7
+对比发现，四种意图识别模型在加入CGCE后，准确率均有所提高，同时高威胁和低威胁意图的误判数量在一定程度上有所减少，其中高威胁意图误判数量的减少幅度更为显著，有效降低了对关键意图的误判，成功证明了本文提出的CGCE方法具有普适性。
+从
+表8
+可以看出，在加入CGCE后，进攻意图的识别各项指标均有显著提升，其原因在于进攻意图的威胁性最大，CGCE损失函数优先保障了进攻意图的识别效果，从而减少了高威胁意图被误判的情况。对于撤退意图，各模型均表现出较高的识别率，这是由于撤退意图的特征明显区别于其他意图，因此更易于分类。对于侦察意图和警戒意图，加入CGCE后模型对侦察意图的识别效果下降，而警戒意图的识别效果上升，分析其原因是侦察意图和警戒意图本身难以区分，敌方空海域单元在整体路线和行为上存在相似性，模型为了保守决策，将侦察和警戒之间的模糊情况偏向于识别为威胁程度更高的警戒意图。
+表
+8
+不同模型加入CGCE后其他评估指标结果对比
+Tab.
+8
+Comparison of evaluation metrics for different models after incorporating CGCE
+4.3.4 参数及计算量分析
+为进一步验证模型设计的合理性，本文对式（10）中参数
+K
+1
+和
+K
+2
+的取值进行了敏感性分析。本文设定
+K
+1
+∈{1，2}和
+K
+2
+∈{2，3，4，5}，组合实验共8组，评估其对模型准确率的影响，如
+图12
+所示。
+图
+12
+不同
+K
+1
+与
+K
+2
+组合下模型准确率热力图
+Fig.
+12
+Heatmap of model accuracy under different combinations of
+K
+1
+and
+K
+2
+实验结果表明，当
+K
+2
+相对于
+K
+1
+的比值过大时，模型在预测高威胁意图时所受到的惩罚显著增强，从而使模型在训练过程中倾向于将更多样本预测为高威胁意图，以规避较大的损失。这种预测偏向可能导致模型的输出分布失衡，削弱对实际威胁等级的有效区分能力。因此，在
+K
+1
+=1、
+K
+2
+=2的设定下模型整体性能最优，达到了识别精度与误判控制的平衡。
+为评估BiTCN-BiGRU-Attention模型在计算效率方面的表现，本文将其与GRU、BiGRU等模型在参数量层面进行了对比分析。实验结果显示，尽管引入 BiTCN和注意力机制在一定程度上增加了计算开销，但整体仍处于可接受的复杂度范围内。具体对比数据见
+表9
+，该结果进一步验证了所提模型在威胁识别任务中在准确性与计算效率之间实现了良好的平衡。
+5 结论
+本文提出了一种基于双向门控循环时序网络的空海域目标作战意图识别模型，并引入误分类惩罚型的CGCE损失函数，旨在解决传统方法在复杂战场环境下识别准确率低、未充分考虑高威胁意图误判的问题。该模型从实际作战场景和任务需求出发，提取空海域目标特征，并将专家认知经验融入数据标注。BiTCN网络用于高效捕捉时间序列中的长期依赖性，BiGRU模块进一步学习时序特征，而注意力模块则动态分配特征权重。此外，CGCE损失函数增强了模型对高风险误判的敏感性。实验结果表明，所提模型在空海域目标意图识别任务中具有较高的准确性，且加入CGCE损失函数显著降低了高威胁意图的误判率。未来研究将着力优化模型结构，以提高其在复杂和不确定战场环境中的适应性，并探索更有效的深度学习方法来处理高相似度特征的意图识别挑战。
+表
+9
+各模型计算复杂度比较
+Tab.
+9
+Comparison of computational complexity across different models
 图
 1
-电磁频谱空间认知背景
+空海域目标作战意图识别过程
 Fig.
 1
-Background of spatial awareness of the electromagnetic spectrum
+Recognition process of operational intentions for air and maritime targets
 下载:
 全尺寸图片
 图
 2
-具身智能系统应用架构示意图
+不同作战意图轨迹
 Fig.
 2
-Schematic diagram of the application framework of the embodied intelligence system
+Trajectories under different operational intentions
 下载:
 全尺寸图片
 图
 3
-电磁频谱空间具身智能认知概念示意图
+作战意图威胁排序与编码
 Fig.
 3
-Schematic diagram of the concept of embodied intelligence cognition in electromagnetic spectrum space
+Threat ranking and coding of operational intentions
 下载:
 全尺寸图片
 图
 4
-电磁频谱空间具身智能认知框架
+BiTCN-BiGRU-Attention整体框架
 Fig.
 4
-Electromagnetic spectrum space embodied intelligent cognition overall framework
+Overall framework of the BiTCN-BiGRU-Attention
 下载:
 全尺寸图片
 图
 5
-具身电磁感知与语义理解示意图
+BiTCN结构
 Fig.
 5
-Schematic diagram of embodied electromagnetic perception and semantic understanding
+BiTCN structure
 下载:
 全尺寸图片
 图
 6
-具身电磁决策与执行调控示意图
+BiGRU结构
 Fig.
 6
-Schematic diagram of embossed electromagnetic decision-making and execution regulation
+BiGRU structure
 下载:
 全尺寸图片
 图
 7
-具身电磁知识演化与优化示意图
+注意力模块基本结构
 Fig.
 7
-Schematic diagram of the evolution of embodied electromagnetic knowledge
+Basic structure of Attention module
+下载:
+全尺寸图片
+图
+8
+BiTCN-BiGRU-Attention模型混淆矩阵
+Fig.
+8
+BiTCN-BiGRU-Attention model confusion matrix
+下载:
+全尺寸图片
+图
+9
+BiTCN-BiGRU-Attention模型提取特征效果
+Fig.
+9
+Feature extraction effect of the BiTCN-BiGRU-Attention model
+下载:
+全尺寸图片
+图
+10
+加入CGCE后模型提取特征效果
+Fig.
+10
+Feature extraction effect of the model after adding CGCE
+下载:
+全尺寸图片
+图
+11
+加入CGCE后模型混淆矩阵
+Fig.
+11
+Confusion matrix of the model after adding CGGE
+下载:
+全尺寸图片
+图
+12
+不同
+K
+1
+与
+K
+2
+组合下模型准确率热力图
+Fig.
+12
+Heatmap of model accuracy under different combinations of
+K
+1
+and
+K
+2
+下载:
+全尺寸图片
+表
+1
+海空域目标特征空间
+Tab.
+1
+Feature space of air and maritime targets
+下载:
+全尺寸图片
+表
+2
+模型参数设置
+Tab.
+2
+Model parameter settings
+下载:
+全尺寸图片
+表
+3
+不同模型结果对比
+Tab.
+3
+Comparison of results for different models
+下载:
+全尺寸图片
+表
+4
+不同模型其他评估指标结果对比
+Tab.
+4
+Comparison of evaluation metrics for different models
+下载:
+全尺寸图片
+表
+5
+结果对比
+Tab.
+5
+Comparison of results
+下载:
+全尺寸图片
+表
+6
+其他评估指标对比
+Tab.
+6
+Comparison of other evaluation metrics
+下载:
+全尺寸图片
+表
+7
+不同模型加入CGCE后结果对比
+Tab.
+7
+Comparison of the results of different models after incorporating CGCE
+下载:
+全尺寸图片
+表
+8
+不同模型加入CGCE后其他评估指标结果对比
+Tab.
+8
+Comparison of evaluation metrics for different models after incorporating CGCE
+下载:
+全尺寸图片
+表
+9
+各模型计算复杂度比较
+Tab.
+9
+Comparison of computational complexity across different models
 下载:
 全尺寸图片
 图
 1
-电磁频谱空间认知背景
+空海域目标作战意图识别过程
 Fig.
 1
-Background of spatial awareness of the electromagnetic spectrum
+Recognition process of operational intentions for air and maritime targets
 图
 2
-具身智能系统应用架构示意图
+不同作战意图轨迹
 Fig.
 2
-Schematic diagram of the application framework of the embodied intelligence system
+Trajectories under different operational intentions
 图
 3
-电磁频谱空间具身智能认知概念示意图
+作战意图威胁排序与编码
 Fig.
 3
-Schematic diagram of the concept of embodied intelligence cognition in electromagnetic spectrum space
+Threat ranking and coding of operational intentions
 图
 4
-电磁频谱空间具身智能认知框架
+BiTCN-BiGRU-Attention整体框架
 Fig.
 4
-Electromagnetic spectrum space embodied intelligent cognition overall framework
+Overall framework of the BiTCN-BiGRU-Attention
 图
 5
-具身电磁感知与语义理解示意图
+BiTCN结构
 Fig.
 5
-Schematic diagram of embodied electromagnetic perception and semantic understanding
+BiTCN structure
 图
 6
-具身电磁决策与执行调控示意图
+BiGRU结构
 Fig.
 6
-Schematic diagram of embossed electromagnetic decision-making and execution regulation
+BiGRU structure
 图
 7
-具身电磁知识演化与优化示意图
+注意力模块基本结构
 Fig.
 7
-Schematic diagram of the evolution of embodied electromagnetic knowledge
+Basic structure of Attention module
+图
+8
+BiTCN-BiGRU-Attention模型混淆矩阵
+Fig.
+8
+BiTCN-BiGRU-Attention model confusion matrix
+图
+9
+BiTCN-BiGRU-Attention模型提取特征效果
+Fig.
+9
+Feature extraction effect of the BiTCN-BiGRU-Attention model
+图
+10
+加入CGCE后模型提取特征效果
+Fig.
+10
+Feature extraction effect of the model after adding CGCE
+图
+11
+加入CGCE后模型混淆矩阵
+Fig.
+11
+Confusion matrix of the model after adding CGGE
+图
+12
+不同
+K
+1
+与
+K
+2
+组合下模型准确率热力图
+Fig.
+12
+Heatmap of model accuracy under different combinations of
+K
+1
+and
+K
+2
+表
+1
+海空域目标特征空间
+Tab.
+1
+Feature space of air and maritime targets
+表
+2
+模型参数设置
+Tab.
+2
+Model parameter settings
+表
+3
+不同模型结果对比
+Tab.
+3
+Comparison of results for different models
+表
+4
+不同模型其他评估指标结果对比
+Tab.
+4
+Comparison of evaluation metrics for different models
+表
+5
+结果对比
+Tab.
+5
+Comparison of results
+表
+6
+其他评估指标对比
+Tab.
+6
+Comparison of other evaluation metrics
+表
+7
+不同模型加入CGCE后结果对比
+Tab.
+7
+Comparison of the results of different models after incorporating CGCE
+表
+8
+不同模型加入CGCE后其他评估指标结果对比
+Tab.
+8
+Comparison of evaluation metrics for different models after incorporating CGCE
+表
+9
+各模型计算复杂度比较
+Tab.
+9
+Comparison of computational complexity across different models
 [1]
-崔翠梅, 殷昌永, 杨德智. 未来复杂网络环境下动态频谱高效感知技术研究进展[J]. 电讯技术, 2025, 65(4): 634-641.
-Cui Cuimei, Yin Changyong, Yang Dezhi. Dynamic spectrum efficient sensing under future complex network environments: state-of-the-art and recent advances[J]. Telecommunication Engineering, 2025, 65(4): 634-641.(in Chinese)
+Xiang Wenjia, Li Xiaoyu, He Zirui, et al. Intention estimation of adversarial spatial target based on fuzzy inference[J]. Intelligent Automation &amp;amp; Soft Computing, 2023, 35(3): 3627-3639.
 [2]
-李增艺. 基于视觉反馈和行为树的无人机具身智能控制算法[J]. 铁道建筑技术, 2025(4): 214-218.
-Li Zengyi. A visual feedback and behavior tree-based embodied intelligence control algorithm for UAVs[J]. Railway Construction Technology, 2025(4): 214-218.(in Chinese)
+陈优敏, 李长云. 基于知识图谱的目标战术意图识别仿真[J]. 计算机仿真, 2019, 36(8): 1-4, 19.
+Chen Youmin, Li Changyun. Simulation of target tactical intention recognition based on knowledge map[J]. Computer Simulation, 2019, 36(8): 1-4, 19.(in Chinese)
 [3]
-金立民, 王海超, 谷江春, 等. 低空具身智能频谱管控技术研究[J]. 数据采集与处理, 2025, 40(1): 45-55.
-Jin Limin, Wang Haichao, Gu Jiangchun, et al. Research on low-altitude embodied artificial intelligence-enabled spectrum management and control technology[J]. Journal of Data Acquisition and Processing, 2025, 40(1): 45-55.(in Chinese)
+尹翔, 张萌, 陈梦乔. 基于判别分析的空中目标作战意图识别[J]. 弹箭与制导学报, 2018, 38(3): 46-50.
+Yin Xiang, Zhang Meng, Chen Mengqiao. Combat intention recognition of the target in the air based on discriminant analysis[J]. Journal of Projectiles, Rockets, Missiles and Guidance, 2018, 38(3): 46-50.(in Chinese)
 [4]
-王雪松, 李健兵, 徐丰, 等. 电磁空间信息资源的认知与利用[J]. 中国科学基金, 2021, 35(5): 682-687.
-Wang Xuesong, Li Jianbing, Xu Feng, et al. Cognition and utilization of electromagnetic space information resources[J]. Bulletin of National Natural Science Foundation of China, 2021, 35(5): 682-687.(in Chinese)
+Xu Yuheng, Cheng Siyi, Zhang Hubiao, et al. Air target combat intention identification based on IE-DSBN[C]//International Workshop on Electronic Communication and Artificial Intelligence(IWECAI), 2020: 36-40.
 [5]
-吕伟, 王劲松, 李强. 复杂电磁环境下海战场电磁频谱战问题探析[C]//第十二届中国指挥控制大会论文集（上册）, 2024: 111-115.
-Lü Wei, Wang Jinsong, Li Qiang. Analysis of the electromagnetic spectrum operations problem on the sea battlefield in the complex electromagnetic environment[C]//The Twelfth Chinese Institute of Command and Control(Upper Volume), 2024: 111-115.(in Chinese)
+Xu Ximeng, Yang Rennong, Fu Yu. Situation assessment for air combat based on novel semi-supervised naive Bayes[J]. Journal of Systems Engineering and Electronics, 2018, 29(4): 768-779.
 [6]
-谢春茂, 张川, 黄明, 等. 电磁频谱空间应用及发展趋势综述[J]. 电子科技大学学报, 2024, 53(2): 161-173.
-Xie Chunmao, Zhang Chuan, Huang Ming, et al. A review of the applications and development trends of electromagnetic spectrum space[J]. Journal of University of Electronic Science and Technology of China, 2024, 53(2): 161-173.(in Chinese)
+Takiddin A, Rath S, Ismail M, et al. Data-driven detection of stealth cyber-attacks in DC microgrids[J]. IEEE Systems Journal, 2022, 16(4): 6097-6106.
 [7]
-张思成, 林云, 涂涯, 等. 基于轻量级深度神经网络的电磁信号调制识别技术[J]. 通信学报, 2020, 41(11): 12-21.
-Zhang Sicheng, Lin Yun, Tu Ya, et al. Electromagnetic signal modulation recognition technology based on lightweight deep neural network[J]. Journal on Communications, 2020, 41(11): 12-21.(in Chinese)
+Wang Xun, Lu Aiguo, Liu Jin, et al. Intelligent interaction model for battleship control based on the fusion of target intention and operator emotion[J]. Computers and Electrical Engineering, 2021, 92: 107196.
 [8]
-查浩然, 刘畅, 王巨震, 等. 面向无人机辐射源个体识别的域适应模型设计[J]. 信号处理, 2024, 40(4): 650-660.
-Zha Haoran, Liu Chang, Wang Juzhen, et al. Design of domain-adaptation model for specific emitter identification of UAV signal[J]. Journal of Signal Processing, 2024, 40(4): 650-660.(in Chinese)
+Zhang Zhuo, Wang Hongfei, Geng Jie, et al. An information fusion method based on deep learning and fuzzy discount-weighting for target intention recognition[J]. Engineering Applications of Artificial Intelligence, 2022, 109: 104610.
 [9]
-Zhang Yixuan, Luo Zhongqiang. A review of research on spectrum sensing based on deep learning[J]. Electronics, 2023, 12(21): 4514.
+刘钻东, 陈谋, 吴庆宪, 等. 非完备信息下无人机空战目标意图预测[J]. 中国科学: 信息科学, 2020, 50(5): 704-717.
+Liu Zuandong, Chen Mou, Wu Qingxian, et al. Prediction of unmanned aerial vehicle target intention under incomplete information[J]. Scientia Sinica Informationis, 2020, 50(5): 704-717.(in Chinese)
 [10]
-周博, 马欣怡, 况婷妍, 等. 电磁频谱空间态势认知新范式: 频谱语义和频谱行为[J]. 数据采集与处理, 2022, 37(6): 1198-1207.
-Zhou Bo, Ma Xinyi, Kuang Tingyan, et al. New paradigm of electromagnetic spectrum space situation cognition: spectrum semantic and spectrum behavior[J]. Journal of Data Acquisition and Processing, 2022, 37(6): 1198-1207.(in Chinese)
+Chen Li, Liang Xingxing, Feng Yanghe, et al. Online intention recognition with incomplete information based on a weighted contrastive predictive coding model in wargame[J]. IEEE Transactions on Neural Networks and Learning Systems, 2023, 34(10): 7515-7528.
 [11]
-张宁, 周正廉, 张祖尧. 美军全球电磁频谱信息系统发展现状与趋势[J]. 电讯技术, 2021, 61(6): 780-784.
-Zhang Ning, Zhou Zhenglian, Zhang Zuyao. Developing progress and trends of U. S.global electromagnetic spectrum information system(GEMSIS)[J]. Telecommunication Engineering, 2021, 61(6): 780-784.(in Chinese)
+Teng Fei, Song Yafei, Wang Gang, et al. A GRU-based method for predicting intention of aerial targets[J]. Computational Intelligence and Neuroscience, 2021, 2021: 6082242.
 [12]
-Ji Hao, Wan Tao, Xiong Wan′an, et al. A method for specific emitter identification based on surrounding-line bispectrum and convolutional neural network[C]//2020 IEEE 3rd International Conference on Automation, Electronics and Electrical Engineering(AUTEEE), 2020: 328-332.
+王科, 李成海, 宋亚飞, 等. 面向空中目标意图识别的时空Transformer模型设计[J]. 西北工业大学学报, 2024, 42(4): 753-763.
+Wang Ke, Li Chenghai, Song Yafei, et al. Design on temporal-spatial Transformer model for air target intention recognition[J]. Journal of Northwestern Polytechnical University, 2024, 42(4): 753-763.(in Chinese)
 [13]
-李昆, 朱卫纲. 一种深度学习的雷达辐射源识别方法[J]. 电子设计工程, 2020, 28(12): 99-104.
-Li Kun, Zhu Weigang. Radar emitter identification method based on deep learning[J]. Electronic Design Engineering, 2020, 28(12): 99-104.(in Chinese)
+欧微, 柳少军, 贺筱媛, 等. 战场对敌目标战术意图智能识别模型研究[J]. 计算机仿真, 2017, 34(9): 10-14, 19.
+Ou Wei, Liu Shaojun, He Xiaoyuan, et al. Study on the intelligent recognition model of enemy target′s tactical intention on battlefield[J]. Computer Simulation, 2017, 34(9): 10-14, 19.(in Chinese)
 [14]
-Jain A, Ahmad Awan A, Anthony Q, et al. Performance characterization of DNN training using TensorFlow and PyTorch on modern clusters[C]//2019 IEEE International Conference on Cluster Computing(CLUSTER), 2019: 1-11.
+赵福均, 周志杰, 胡昌华, 等. 基于置信规则库和证据推理的空中目标意图识别方法[J]. 电光与控制, 2017, 24(8): 15-19, 50.
+Zhao Fujun, Zhou Zhijie, Hu Changhua, et al. Aerial target intention recognition approach based on belief-rule-base and evidential reasoning[J]. Electronics Optics &amp;amp; Control, 2017, 24(8): 15-19, 50.(in Chinese)
 [15]
-张彦龙, 张登福, 王世强, 等. 基于S变换的雷达脉内调制特征提取方法[J]. 电子技术应用, 2012, 38(10): 112-115.
-Zhang Yanlong, Zhang Dengfu, Wang Shiqiang, et al. Extraction of the in-pulse features of radar signal based on S transform[J]. Application of Electronic Technique, 2012, 38(10): 112-115.(in Chinese)
+陈浩, 任卿龙, 滑艺, 等. 基于模糊神经网络的海面目标战术意图识别[J]. 系统工程与电子技术, 2016, 38(8): 1847-1853.
+Chen Hao, Ren Qinglong, Hua Yi, et al. Fuzzy neural network based tactical intention recognition for sea targets[J]. Systems Engineering and Electronics, 2016, 38(8): 1847-1853.(in Chinese)
 [16]
-Wang Liu, Chen Guifen. An efficient implementation method for distributed fusion in sensor networks based on CPHD filters[J]. Sensors, 2023, 24(1): 117.
+马钰棠, 孙鹏, 张杰勇, 等. 样本不平衡下的空中群组意图识别方法[J]. 系统工程与电子技术, 2022, 44(12): 3747-3755.
+Ma Yutang, Sun Peng, Zhang Jieyong, et al. Air group intention recognition method under imbalance samples[J]. Systems Engineering and Electronics, 2022, 44(12): 3747-3755.(in Chinese)
 [17]
-Lan Lan, Wei Guolian, Ding Derui. Distributed fusion with unknown inputs under bandwidth-aware event-triggered mechanisms: monotonicity and boundedness[J]. IEEE Transactions on Signal and Information Processing over Networks, 2023, 9: 521-530.
+周旺旺, 姚佩阳, 张杰勇, 等. 基于深度神经网络的空中目标作战意图识别[J]. 航空学报, 2018, 39(11): 322468.
+Zhou Wangwang, Yao Peiyang, Zhang Jieyong, et al. Combat intention recognition for aerial targets based on deep neural network[J]. Acta Aeronautica et Astronautica Sinica, 2018, 39(11): 322468.(in Chinese)
 [18]
-Ding Xiaojin, Feng Lijie, Zou Yulong, et al. Deep learning aided spectrum prediction for satellite communication systems[J]. IEEE Transactions on Vehicular Technology, 2020, 69(12): 16314-16319.
+Zhang Yujie, Zhang Lei, Sun Duo, et al. Short-term wind power forecasting based on VMD and a hybrid SSA-TCN-BiGRU network[J]. Applied Sciences, 2023, 13(17): 9888.
 [19]
-王金龙, 徐煜华, 陈瑾. 无线通信网络智能频谱协同与对抗[J]. 中国科学: 信息科学, 2020, 50(11): 1767-1780.
-Wang Jinlong, Xu Yuhua, Chen Jin. Intelligent spectrum collaboration and confrontation in wireless communication networks[J]. Scientia Sinica(Informationis), 2020, 50(11): 1767-1780.(in Chinese)
+Zhang Chu, Peng Tian, Nazir M S. A novel integrated photovoltaic power forecasting model based on variational mode decomposition and CNN-BiGRU considering meteorological variables[J]. Electric Power Systems Research, 2022, 213: 108796.
 [20]
-Li Daofeng, Xu Yamei, Zhao Ming, et al. Knowledge-driven machine learning and applications in wireless communications[J]. IEEE Transactions on Cognitive Communications and Networking, 2021, 8(2): 454-467.
+朱铭康, 卢先领. 基于Bi-LSTM-Attention模型的人体行为识别算法[J]. 激光与光电子学进展, 2019, 56(15): 151503.
+Zhu Mingkang, Lu Xianling. Human action recognition algorithm based on Bi-LSTM-Attention model[J]. Laser &amp;amp; Optoelectronics Progress, 2019, 56(15): 151503.(in Chinese)
 [21]
-Ding Guoru, Jiao Yutao, Wang Jinlong, et al. Spectrum inference in cognitive radio networks: algorithms and applications[J]. IEEE Communications Surveys &amp;amp; Tutorials, 2018, 20(1): 150-182.
+Pinneri C, Sawant S, Blaes S, et al. Sample-efficient cross-entropy method for real-time planning[C]//The 4th Conference on Robot Learning, 2020.
 [22]
-Han Mingjing, Zhang Han, Li Wei, et al. Semantic-guided graph neural network for heterogeneous graph embedding[J]. Expert Systems with Applications, 2023, 232: 120810.
+丁鹏, 宋亚飞. 代价敏感的空中目标意图识别方法[J]. 航空学报, 2023, 44(24): 328551.
+Ding Peng, Song Yafei. A cost-sensitive method for aerial target intention recognition[J]. Acta Aeronautica et Astronautica Sinica, 2023, 44(24): 328551.(in Chinese)
 [23]
-Clark B, Mcnamara W M, Walton T A. Winning the invisible war: gaining an enduring US advantage in the electromagnetic spectrum[EB/OL].(2019-11-20)[2025-05-01].https: //csbaonline.org/research/publications/winning-the-invisible-war-gaining-an-enduring-u.s-advantage-in-the-electromagnetic-spectrum.
+钱钊, 刘钦, 鹿瑶, 等. 基于长短时神经网络的目标意图识别[J]. 太赫兹科学与电子信息学报, 2022, 20(11): 1156-1162.
+Qian Zhao, Liu Qin, Lu Yao, et al. Identification of target′s combat intention based on long short term memory network[J]. Journal of Terahertz Science and Electronic Information Technology, 2022, 20(11): 1156-1162.(in Chinese)
 [24]
-Shang Bodong, Marojevic V, Yi Yang, et al. Spectrum sharing for UAV communications: spatial spectrum sensing and open issues[J]. IEEE Vehicular Technology Magazine, 2020, 15(2): 104-112.
+滕飞, 刘曙, 宋亚飞. BiLSTM-Attention: 一种空中目标战术意图识别模型[J]. 航空兵器, 2021, 28(5): 24-32.
+Teng Fei, Liu Shu, Song Yafei. BiLSTM-Attention: an air target tactical intention recognition model[J]. Aero Weaponry, 2021, 28(5): 24-32.(in Chinese)
 [25]
-Gul N, Been G, Kim S M, et al. Unmanned aerial vehicle based adaptive spectrum sensing for cognitive radio systems[C]//2024 IEEE VTS Asia Pacific Wireless Communications Symposium(APWCS), 2024: 1-6.
+苟先太, 吴南方. 基于GRU-Attention神经网络的空中群组态势识别方法[J]. 计算机与现代化, 2019(10): 11-16, 33.
+Gou Xiantai, Wu Nanfang. Air group situation recognition method based on GRU-Attention neural network[J]. Computer and Modernization, 2019(10): 11-16, 33.(in Chinese)
 [26]
-周伟江, 秦大国, 刘甲. 复杂电磁环境中智能决策对抗技术的应用[J]. 航天电子对抗, 2020, 36(2): 45-50.
-Zhou Weijiang, Qin Daguo, Liu Jia. Application of intelligent decision countermeasure technology in complex electromagnetic environment[J]. Aerospace Electronic Warfare, 2020, 36(2): 45-50.(in Chinese)
+Teng Fei, Guo Xinpeng, Song Yafei, et al. An air target tactical intention recognition model based on bidirectional GRU with attention mechanism[J]. IEEE Access, 2021, 9: 169122-169134.
 [27]
-Ren Lei, Dong Jiabao, Liu Shuai, et al. Embodied intelligence toward future smart manufacturing in the era of AI foundation model[J]. IEEE/ASME Transactions on Mechatronics, 2025, 30(4): 2632-2642.
-[28]
-Krop P, Obremski D, Carolus A, et al. My co-worker ChatGPT: development of an XR application for embodied artificial intelligence in work environments[C]//2025 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops(VRW), 2025: 1646-1647.
-[29]
-Li Wei, Wu Wenjun, Wang Huaimin, et al. Crowd intelligence in AI 2.0 era[J]. Frontiers of Information Technology &amp;amp; Electronic Engineering, 2017, 18(1): 15-43.
-[30]
-Tian Yonglin, Li Xuan, Zhang Hui, et al. VistaGPT: generative parallel transformers for vehicles with intelligent systems for transport automation[J]. IEEE Transactions on Intelligent Vehicles, 2023, 8(9): 4198-4207.
-[31]
-Wang Feiyue, Miao Qinghai, Li Xuan, et al. What does ChatGPT say: the DAO from algorithmic intelligence to linguistic intelligence[J]. IEEE/CAA Journal of Automatica Sinica, 2023, 10(3): 575-579.
-[32]
-Wang Yutong, Wang Xiao, Wang Xingxia, et al. The ChatGPT after: building knowledge factories for knowledge workers with knowledge automation[J]. IEEE/CAA Journal of Automatica Sinica, 2023, 10(11): 2041-2044.
-[33]
-Mcneely-White D G, Ortega F R, Beveridge J R, et al. User-aware shared perception for embodied agents[C]//The IEEE International Conference on Humanized Computing and Communication(HCC), 2019: 46-51.
-[34]
-胡安华. 首入《政府工作报告》, 具身智能何以竞速未来[J]. 城市周刊, 2025(18): 4-6.
-HU Anhua. First entry into the government work report, how embodied intelligence competes for the future[J]. City Weekly, 2025(18): 4-6.(in Chinese)
-[35]
-陶永, 万嘉昊, 王田苗, 等. 构建具身智能新范式: 人形机器人技术现状及发展趋势综述[J]. 机械工程学报, 2025, 61(15): 121-147.
-Tao Yong, Wan Jiahao, Wang Tianmiao, et al. Establishing a new paradigm of embodied intelligence: a review of the current status and development trends in humanoid robot technology[J]. Journal of Mechanical Engineering, 2025, 61(15): 121-147.(in Chinese)
-[36]
-李颂元, 朱祥维, 李玺. 基座模型技术背景下的具身智能体综述[J]. 浙江大学学报(工学版), 2025, 59(2): 213-226, 268.
-Li Songyuan, Zhu Xiangwei, Li Xi. Survey of embodied agent in context of foundation model[J]. Journal of Zhejiang University(Engineering Science), 2025, 59(2): 213-226, 268.(in Chinese)
-[37]
-陈铂垒, 康嘉绪, 钟萍, 等. 面向具身人工智能的物体目标导航综述[J]. 软件学报, 2025, 36(4): 1715-1757.
-Chen Bolei, Kang Jiaxu, Zhong Ping, et al. Survey on object goal navigation for embodied AI[J]. Journal of Software, 2025, 36(4): 1715-1757.(in Chinese)
-[38]
-王文晟, 谭宁, 黄凯, 等. 基于大模型的具身智能系统综述[J]. 自动化学报, 2025, 51(1): 1-19.
-Wang Wensheng, Tan Ning, Huang Kai, et al. Embodied intelligence systems based on large models: a survey[J]. Acta Automatica Sinica, 2025, 51(1): 1-19.(in Chinese)
-[39]
-Liu Huaping, Guo Di, Cangelosi A. Embodied intelligence: a synergy of morphology, action, perception and learning[J]. ACM Computing Surveys, 2025, 57(7): 186.
-[40]
-He Qi, Zhang Yue, Chen Zhi. Joint transmission and understanding of semantics with edge intelligence[C]//ICC 2023-IEEE International Conference on Communications, 2023: 858-863.
-[41]
-沈甜雨, 陶子锐, 王亚东, 等. 具身智能研究的关键问题: 自主感知、行动与进化[J]. 自动化学报, 2025, 51(1): 43-71.
-Shen Tianyu, Tao Zirui, Wang Yadong, et al. Key problems of embodied intelligence research: autonomous perception, action, and evolution[J]. Acta Automatica Sinica, 2025, 51(1): 43-71.(in Chinese)
+Zhu Wenbo, Webb Z T, Mao Kaitian, et al. A deep learning approach for process data visualization using t-distributed stochastic neighbor embedding[J]. Industrial &amp;amp; Engineering Chemistry Research, 2019, 58(22): 9564-9575.
+[1]
+刘明骞,郑诗斐,李兵兵.
+基于深度学习的MPSK信号调制识别
+[J].国防科技大学学报,2019,41(5):153-158.
+[2]
+龙古灿,张小虎,于起峰.
+用于视频图像帧间运动补偿的深度卷积神经网络
+[J].国防科技大学学报,2016,38(5):143-148.
+[3]
+张玺君,郝俊.
+EEMD+BiGRU组合模型在短时交通流量预测中的应用
+[J].国防科技大学学报,2023,45(2):73-80.
+[4]
+赵文栋,张明智,贺筱媛,郭圣明.
+空中目标作战任务智能判识方法研究
+[J].指挥控制与仿真,2022(3):14-19.
+[5]
+孟庆宁;徐锋;刘娟娟;徐燕;赵秋月.
+基于改进YOLOv5的战场小目标及其部件识别研究
+[J].火力与指挥控制,2025(6):176-184.
+[6]
+孟庆宁;徐锋;刘娟娟;徐燕;赵秋月.
+基于改进YOLOv5的战场小目标及其部件识别研究
+[J].火力与指挥控制,2025,50(7):176-184.
+[7]
+吴云松;曹伟;潘继飞;许金鑫;张志强;籍林峰.
+有源无源数据协同的目标识别算法
+[J].现代防御技术,2026(1).
+[8]
+欧微,柳少军,贺筱媛,郭圣明.
+基于时序特征编码的目标战术意图识别算法?
+[J].指挥控制与仿真,2016(6):36-41.
+[9]
+王昊冉,老松杨,白亮,刘钢.
+基于MEBN的战术级空中目标意图识别
+[J].火力与指挥控制,2012,37(10).
+[10]
+杜明林;王学文;岳忠奇;郝熠;赵媛.
+基于深度像素互相关的孪生网络目标跟踪算法
+[J].火力与指挥控制,2026,51(1):81-87.
+[11]
+禹宁,谷良,狄婷.
+基于深度学习的网络攻击检测模型
+[J].火力与指挥控制,2023,48(5):66-74.
+[12]
+丁鹏,宋亚飞,夏智权.
+意图驱动的防空武器-目标动态分配方法
+[J].火力与指挥控制,2023,48(12):17-26.
+[13]
+谭继远,张立民,钟兆根.
+基于卷积双向长短期神经网络的调制方式识别
+[J].火力与指挥控制,2020,45(6):129-134.
+[14]
+黄迎春;邢秀祺.
+融合CNN-GRU和Transformer的网络入侵检测方法*
+[J].火力与指挥控制,2025,50(6):21-27.
+[15]
+贺俊,张雅声,尹灿斌,方宇强.
+基于CGRU-SVM的星载SAR工作模式识别方法
+[J].指挥控制与仿真,2022(3):99-105.
+[16]
+贾燎原;曹伟;张晓峰;陆翔;周恒亮.
+基于残差BiLSTM和改进CBAM的航迹关联方法
+[J].火力与指挥控制,2025(2):100-106+115.
+[17]
+黄权印;蔡益朝;李浩;吴卫华;王辰洋.
+基于GRU预测的改进UKF普适目标跟踪算法
+[J].现代防御技术,2025(6):134-148.
+[18]
+张慧敏,黄炜嘉,李锋.
+基于Ghost-YOLOv5s的SAR图像舰船目标检测
+[J].火力与指挥控制,2024,49(4):24-30.
+[19]
+周铭瑞;汪洋;彭程;刘冬梅;余星辰;李波.
+CHARM-Net:基于混合注意力增强的异构递归网络脑电情绪识别模型
+[J].兵器装备工程学报,2025(11):248-257.
+[20]
+崔丽;罗南超;吴敬花.
+基于ARR-DETR的小目标车辆检测方法
+[J].火力与指挥控制,2025,50(10):145-154.
 PDF下载
 XML下载
 导出引用
 引用提醒
-图(7)
+图(12)
+/
+表(9)
 手机扫码阅读
 引用本文
-林云, 查浩然, 尚佳颖, 等. 电磁频谱空间具身智能认知:概念、框架和关键技术[J]. 国防科技大学学报, 2026, 48(4): 17-28.
+姜廷帅, 于天元, 白亮, 等. 双向门控循环时序网络驱动的空海域目标意图识别[J]. 国防科技大学学报, 2026, 48(4): 211-221.
 复制
-Lin Yun, Zha Haoran, Shang Jiaying, et al. Embodied intelligence cognition in electromagnetic spectrum space: concepts, frameworks, and key technologies[J]. Journal of National University of Defense Technology, 2026, 48(4)： 17-28.
+Jiang Tingshuai, Yu Tianyuan, Bai Liang, et al. Maritime and aerial target intention recognition driven by bidirectional gated recurrent temporal networks[J]. Journal of National University of Defense Technology, 2026, 48(4)： 211-221.
 Copy
 计量
 文章访问量:
-670
+207
 HTML全文浏览量:
-635
+209
 PDF下载量:
-761
+577
 被引次数:
-0
 图
 1
-电磁频谱空间认知背景
+空海域目标作战意图识别过程
 Fig.
 1
-Background of spatial awareness of the electromagnetic spectrum
+Recognition process of operational intentions for air and maritime targets
 图
 2
-具身智能系统应用架构示意图
+不同作战意图轨迹
 Fig.
 2
-Schematic diagram of the application framework of the embodied intelligence system
+Trajectories under different operational intentions
 图
 3
-电磁频谱空间具身智能认知概念示意图
+作战意图威胁排序与编码
 Fig.
 3
-Schematic diagram of the concept of embodied intelligence cognition in electromagnetic spectrum space
+Threat ranking and coding of operational intentions
 图
 4
-电磁频谱空间具身智能认知框架
+BiTCN-BiGRU-Attention整体框架
 Fig.
 4
-Electromagnetic spectrum space embodied intelligent cognition overall framework
+Overall framework of the BiTCN-BiGRU-Attention
 图
 5
-具身电磁感知与语义理解示意图
+BiTCN结构
 Fig.
 5
-Schematic diagram of embodied electromagnetic perception and semantic understanding
+BiTCN structure
 图
 6
-具身电磁决策与执行调控示意图
+BiGRU结构
 Fig.
 6
-Schematic diagram of embossed electromagnetic decision-making and execution regulation
+BiGRU structure
 图
 7
-具身电磁知识演化与优化示意图
+注意力模块基本结构
 Fig.
 7
-Schematic diagram of the evolution of embodied electromagnetic knowledge
-崔翠梅, 殷昌永, 杨德智. 未来复杂网络环境下动态频谱高效感知技术研究进展[J]. 电讯技术,2025,65(4):634-641.
-Cui Cuimei, Yin Changyong, Yang Dezhi. Dynamic spectrum efficient sensing under future complex network environments:state-of-the-art and recent advances[J]. Telecommunication Engineering,2025,65(4):634-641.(in Chinese)
-李增艺. 基于视觉反馈和行为树的无人机具身智能控制算法[J]. 铁道建筑技术,2025(4):214-218.
-Li Zengyi. A visual feedback and behavior tree-based embodied intelligence control algorithm for UAVs[J]. Railway Construction Technology,2025(4):214-218.(in Chinese)
-金立民, 王海超, 谷江春, 等. 低空具身智能频谱管控技术研究[J]. 数据采集与处理,2025,40(1):45-55.
-Jin Limin, Wang Haichao, Gu Jiangchun,et al. Research on low-altitude embodied artificial intelligence-enabled spectrum management and control technology[J]. Journal of Data Acquisition and Processing,2025,40(1):45-55.(in Chinese)
-王雪松, 李健兵, 徐丰, 等. 电磁空间信息资源的认知与利用[J]. 中国科学基金,2021,35(5):682-687.
-Wang Xuesong, Li Jianbing, Xu Feng,et al. Cognition and utilization of electromagnetic space information resources[J]. Bulletin of National Natural Science Foundation of China,2021,35(5):682-687.(in Chinese)
-吕伟, 王劲松, 李强. 复杂电磁环境下海战场电磁频谱战问题探析[C]//第十二届中国指挥控制大会论文集（上册）,2024:111-115.
-Lü Wei, Wang Jinsong, Li Qiang. Analysis of the electromagnetic spectrum operations problem on the sea battlefield in the complex electromagnetic environment[C]//The Twelfth Chinese Institute of Command and Control(Upper Volume),2024:111-115.(in Chinese)
-谢春茂, 张川, 黄明, 等. 电磁频谱空间应用及发展趋势综述[J]. 电子科技大学学报,2024,53(2):161-173.
-Xie Chunmao, Zhang Chuan, Huang Ming,et al. A review of the applications and development trends of electromagnetic spectrum space[J]. Journal of University of Electronic Science and Technology of China,2024,53(2):161-173.(in Chinese)
-张思成, 林云, 涂涯, 等. 基于轻量级深度神经网络的电磁信号调制识别技术[J]. 通信学报,2020,41(11):12-21.
-Zhang Sicheng, Lin Yun, Tu Ya,et al. Electromagnetic signal modulation recognition technology based on lightweight deep neural network[J]. Journal on Communications,2020,41(11):12-21.(in Chinese)
-查浩然, 刘畅, 王巨震, 等. 面向无人机辐射源个体识别的域适应模型设计[J]. 信号处理,2024,40(4):650-660.
-Zha Haoran, Liu Chang, Wang Juzhen,et al. Design of domain-adaptation model for specific emitter identification of UAV signal[J]. Journal of Signal Processing,2024,40(4):650-660.(in Chinese)
-Zhang Yixuan, Luo Zhongqiang. A review of research on spectrum sensing based on deep learning[J]. Electronics,2023,12(21):4514.
-周博, 马欣怡, 况婷妍, 等. 电磁频谱空间态势认知新范式: 频谱语义和频谱行为[J]. 数据采集与处理,2022,37(6):1198-1207.
-Zhou Bo, Ma Xinyi, Kuang Tingyan,et al. New paradigm of electromagnetic spectrum space situation cognition:spectrum semantic and spectrum behavior[J]. Journal of Data Acquisition and Processing,2022,37(6):1198-1207.(in Chinese)
-张宁, 周正廉, 张祖尧. 美军全球电磁频谱信息系统发展现状与趋势[J]. 电讯技术,2021,61(6):780-784.
-Zhang Ning, Zhou Zhenglian, Zhang Zuyao. Developing progress and trends of U. S.global electromagnetic spectrum information system(GEMSIS)[J]. Telecommunication Engineering,2021,61(6):780-784.(in Chinese)
-Ji Hao, Wan Tao, Xiong Wan′an,et al. A method for specific emitter identification based on surrounding-line bispectrum and convolutional neural network[C]//2020 IEEE 3rd International Conference on Automation, Electronics and Electrical Engineering(AUTEEE),2020:328-332.
-李昆, 朱卫纲. 一种深度学习的雷达辐射源识别方法[J]. 电子设计工程,2020,28(12):99-104.
-Li Kun, Zhu Weigang. Radar emitter identification method based on deep learning[J]. Electronic Design Engineering,2020,28(12):99-104.(in Chinese)
-Jain A, Ahmad Awan A, Anthony Q,et al. Performance characterization of DNN training using TensorFlow and PyTorch on modern clusters[C]//2019 IEEE International Conference on Cluster Computing(CLUSTER),2019:1-11.
-张彦龙, 张登福, 王世强, 等. 基于S变换的雷达脉内调制特征提取方法[J]. 电子技术应用,2012,38(10):112-115.
-Zhang Yanlong, Zhang Dengfu, Wang Shiqiang,et al. Extraction of the in-pulse features of radar signal based on S transform[J]. Application of Electronic Technique,2012,38(10):112-115.(in Chinese)
-Wang Liu, Chen Guifen. An efficient implementation method for distributed fusion in sensor networks based on CPHD filters[J]. Sensors,2023,24(1):117.
-Lan Lan, Wei Guolian, Ding Derui. Distributed fusion with unknown inputs under bandwidth-aware event-triggered mechanisms:monotonicity and boundedness[J]. IEEE Transactions on Signal and Information Processing over Networks,2023,9:521-530.
-Ding Xiaojin, Feng Lijie, Zou Yulong,et al. Deep learning aided spectrum prediction for satellite communication systems[J]. IEEE Transactions on Vehicular Technology,2020,69(12):16314-16319.
-王金龙, 徐煜华, 陈瑾. 无线通信网络智能频谱协同与对抗[J]. 中国科学: 信息科学,2020,50(11):1767-1780.
-Wang Jinlong, Xu Yuhua, Chen Jin. Intelligent spectrum collaboration and confrontation in wireless communication networks[J]. Scientia Sinica(Informationis),2020,50(11):1767-1780.(in Chinese)
-Li Daofeng, Xu Yamei, Zhao Ming,et al. Knowledge-driven machine learning and applications in wireless communications[J]. IEEE Transactions on Cognitive Communications and Networking,2021,8(2):454-467.
-Ding Guoru, Jiao Yutao, Wang Jinlong,et al. Spectrum inference in cognitive radio networks:algorithms and applications[J]. IEEE Communications Surveys &amp;amp; Tutorials,2018,20(1):150-182.
-Han Mingjing, Zhang Han, Li Wei,et al. Semantic-guided graph neural network for heterogeneous graph embedding[J]. Expert Systems with Applications,2023,232:120810.
-Clark B, Mcnamara W M, Walton T A. Winning the invisible war:gaining an enduring US advantage in the electromagnetic spectrum[EB/OL].(2019-11-20)[2025-05-01].https://csbaonline.org/research/publications/winning-the-invisible-war-gaining-an-enduring-u.s-advantage-in-the-electromagnetic-spectrum.
-Shang Bodong, Marojevic V, Yi Yang,et al. Spectrum sharing for UAV communications:spatial spectrum sensing and open issues[J]. IEEE Vehicular Technology Magazine,2020,15(2):104-112.
-Gul N, Been G, Kim S M,et al. Unmanned aerial vehicle based adaptive spectrum sensing for cognitive radio systems[C]//2024 IEEE VTS Asia Pacific Wireless Communications Symposium(APWCS),2024:1-6.
-周伟江, 秦大国, 刘甲. 复杂电磁环境中智能决策对抗技术的应用[J]. 航天电子对抗,2020,36(2):45-50.
-Zhou Weijiang, Qin Daguo, Liu Jia. Application of intelligent decision countermeasure technology in complex electromagnetic environment[J]. Aerospace Electronic Warfare,2020,36(2):45-50.(in Chinese)
-Ren Lei, Dong Jiabao, Liu Shuai,et al. Embodied intelligence toward future smart manufacturing in the era of AI foundation model[J]. IEEE/ASME Transactions on Mechatronics,2025,30(4):2632-2642.
-Krop P, Obremski D, Carolus A,et al. My co-worker ChatGPT:development of an XR application for embodied artificial intelligence in work environments[C]//2025 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops(VRW),2025:1646-1647.
-Li Wei, Wu Wenjun, Wang Huaimin,et al. Crowd intelligence in AI 2.0 era[J]. Frontiers of Information Technology &amp;amp; Electronic Engineering,2017,18(1):15-43.
-Tian Yonglin, Li Xuan, Zhang Hui,et al. VistaGPT:generative parallel transformers for vehicles with intelligent systems for transport automation[J]. IEEE Transactions on Intelligent Vehicles,2023,8(9):4198-4207.
-Wang Feiyue, Miao Qinghai, Li Xuan,et al. What does ChatGPT say:the DAO from algorithmic intelligence to linguistic intelligence[J]. IEEE/CAA Journal of Automatica Sinica,2023,10(3):575-579.
-Wang Yutong, Wang Xiao, Wang Xingxia,et al. The ChatGPT after:building knowledge factories for knowledge workers with knowledge automation[J]. IEEE/CAA Journal of Automatica Sinica,2023,10(11):2041-2044.
-Mcneely-White D G, Ortega F R, Beveridge J R,et al. User-aware shared perception for embodied agents[C]//The IEEE International Conference on Humanized Computing and Communication(HCC),2019:46-51.
-胡安华. 首入《政府工作报告》, 具身智能何以竞速未来[J]. 城市周刊,2025(18):4-6.
-HU Anhua. First entry into the government work report,how embodied intelligence competes for the future[J]. City Weekly,2025(18):4-6.(in Chinese)
-陶永, 万嘉昊, 王田苗, 等. 构建具身智能新范式: 人形机器人技术现状及发展趋势综述[J]. 机械工程学报,2025,61(15):121-147.
-Tao Yong, Wan Jiahao, Wang Tianmiao,et al. Establishing a new paradigm of embodied intelligence:a review of the current status and development trends in humanoid robot technology[J]. Journal of Mechanical Engineering,2025,61(15):121-147.(in Chinese)
-李颂元, 朱祥维, 李玺. 基座模型技术背景下的具身智能体综述[J]. 浙江大学学报(工学版),2025,59(2):213-226,268.
-Li Songyuan, Zhu Xiangwei, Li Xi. Survey of embodied agent in context of foundation model[J]. Journal of Zhejiang University(Engineering Science),2025,59(2):213-226,268.(in Chinese)
-陈铂垒, 康嘉绪, 钟萍, 等. 面向具身人工智能的物体目标导航综述[J]. 软件学报,2025,36(4):1715-1757.
-Chen Bolei, Kang Jiaxu, Zhong Ping,et al. Survey on object goal navigation for embodied AI[J]. Journal of Software,2025,36(4):1715-1757.(in Chinese)
-王文晟, 谭宁, 黄凯, 等. 基于大模型的具身智能系统综述[J]. 自动化学报,2025,51(1):1-19.
-Wang Wensheng, Tan Ning, Huang Kai,et al. Embodied intelligence systems based on large models:a survey[J]. Acta Automatica Sinica,2025,51(1):1-19.(in Chinese)
-Liu Huaping, Guo Di, Cangelosi A. Embodied intelligence:a synergy of morphology,action,perception and learning[J]. ACM Computing Surveys,2025,57(7):186.
-He Qi, Zhang Yue, Chen Zhi. Joint transmission and understanding of semantics with edge intelligence[C]//ICC 2023-IEEE International Conference on Communications,2023:858-863.
-沈甜雨, 陶子锐, 王亚东, 等. 具身智能研究的关键问题: 自主感知、行动与进化[J]. 自动化学报,2025,51(1):43-71.
-Shen Tianyu, Tao Zirui, Wang Yadong,et al. Key problems of embodied intelligence research:autonomous perception,action,and evolution[J]. Acta Automatica Sinica,2025,51(1):43-71.(in Chinese)
+Basic structure of Attention module
+图
+8
+BiTCN-BiGRU-Attention模型混淆矩阵
+Fig.
+8
+BiTCN-BiGRU-Attention model confusion matrix
+图
+9
+BiTCN-BiGRU-Attention模型提取特征效果
+Fig.
+9
+Feature extraction effect of the BiTCN-BiGRU-Attention model
+图
+10
+加入CGCE后模型提取特征效果
+Fig.
+10
+Feature extraction effect of the model after adding CGCE
+图
+11
+加入CGCE后模型混淆矩阵
+Fig.
+11
+Confusion matrix of the model after adding CGGE
+图
+12
+不同
+K
+1
+与
+K
+2
+组合下模型准确率热力图
+Fig.
+12
+Heatmap of model accuracy under different combinations of
+K
+1
+and
+K
+2
+表
+1
+海空域目标特征空间
+Tab.
+1
+Feature space of air and maritime targets
+表
+2
+模型参数设置
+Tab.
+2
+Model parameter settings
+表
+3
+不同模型结果对比
+Tab.
+3
+Comparison of results for different models
+表
+4
+不同模型其他评估指标结果对比
+Tab.
+4
+Comparison of evaluation metrics for different models
+表
+5
+结果对比
+Tab.
+5
+Comparison of results
+表
+6
+其他评估指标对比
+Tab.
+6
+Comparison of other evaluation metrics
+表
+7
+不同模型加入CGCE后结果对比
+Tab.
+7
+Comparison of the results of different models after incorporating CGCE
+表
+8
+不同模型加入CGCE后其他评估指标结果对比
+Tab.
+8
+Comparison of evaluation metrics for different models after incorporating CGCE
+表
+9
+各模型计算复杂度比较
+Tab.
+9
+Comparison of computational complexity across different models
+Xiang Wenjia, Li Xiaoyu, He Zirui,et al. Intention estimation of adversarial spatial target based on fuzzy inference[J]. Intelligent Automation &amp;amp; Soft Computing,2023,35(3):3627-3639.
+陈优敏, 李长云. 基于知识图谱的目标战术意图识别仿真[J]. 计算机仿真,2019,36(8):1-4,19.
+Chen Youmin, Li Changyun. Simulation of target tactical intention recognition based on knowledge map[J]. Computer Simulation,2019,36(8):1-4,19.(in Chinese)
+尹翔, 张萌, 陈梦乔. 基于判别分析的空中目标作战意图识别[J]. 弹箭与制导学报,2018,38(3):46-50.
+Yin Xiang, Zhang Meng, Chen Mengqiao. Combat intention recognition of the target in the air based on discriminant analysis[J]. Journal of Projectiles, Rockets, Missiles and Guidance,2018,38(3):46-50.(in Chinese)
+Xu Yuheng, Cheng Siyi, Zhang Hubiao,et al. Air target combat intention identification based on IE-DSBN[C]//International Workshop on Electronic Communication and Artificial Intelligence(IWECAI),2020:36-40.
+Xu Ximeng, Yang Rennong, Fu Yu. Situation assessment for air combat based on novel semi-supervised naive Bayes[J]. Journal of Systems Engineering and Electronics,2018,29(4):768-779.
+Takiddin A, Rath S, Ismail M,et al. Data-driven detection of stealth cyber-attacks in DC microgrids[J]. IEEE Systems Journal,2022,16(4):6097-6106.
+Wang Xun, Lu Aiguo, Liu Jin,et al. Intelligent interaction model for battleship control based on the fusion of target intention and operator emotion[J]. Computers and Electrical Engineering,2021,92:107196.
+Zhang Zhuo, Wang Hongfei, Geng Jie,et al. An information fusion method based on deep learning and fuzzy discount-weighting for target intention recognition[J]. Engineering Applications of Artificial Intelligence,2022,109:104610.
+刘钻东, 陈谋, 吴庆宪, 等. 非完备信息下无人机空战目标意图预测[J]. 中国科学: 信息科学,2020,50(5):704-717.
+Liu Zuandong, Chen Mou, Wu Qingxian,et al. Prediction of unmanned aerial vehicle target intention under incomplete information[J]. Scientia Sinica Informationis,2020,50(5):704-717.(in Chinese)
+Chen Li, Liang Xingxing, Feng Yanghe,et al. Online intention recognition with incomplete information based on a weighted contrastive predictive coding model in wargame[J]. IEEE Transactions on Neural Networks and Learning Systems,2023,34(10):7515-7528.
+Teng Fei, Song Yafei, Wang Gang,et al. A GRU-based method for predicting intention of aerial targets[J]. Computational Intelligence and Neuroscience,2021,2021:6082242.
+王科, 李成海, 宋亚飞, 等. 面向空中目标意图识别的时空Transformer模型设计[J]. 西北工业大学学报,2024,42(4):753-763.
+Wang Ke, Li Chenghai, Song Yafei,et al. Design on temporal-spatial Transformer model for air target intention recognition[J]. Journal of Northwestern Polytechnical University,2024,42(4):753-763.(in Chinese)
+欧微, 柳少军, 贺筱媛, 等. 战场对敌目标战术意图智能识别模型研究[J]. 计算机仿真,2017,34(9):10-14,19.
+Ou Wei, Liu Shaojun, He Xiaoyuan,et al. Study on the intelligent recognition model of enemy target′s tactical intention on battlefield[J]. Computer Simulation,2017,34(9):10-14,19.(in Chinese)
+赵福均, 周志杰, 胡昌华, 等. 基于置信规则库和证据推理的空中目标意图识别方法[J]. 电光与控制,2017,24(8):15-19,50.
+Zhao Fujun, Zhou Zhijie, Hu Changhua,et al. Aerial target intention recognition approach based on belief-rule-base and evidential reasoning[J]. Electronics Optics &amp;amp; Control,2017,24(8):15-19,50.(in Chinese)
+陈浩, 任卿龙, 滑艺, 等. 基于模糊神经网络的海面目标战术意图识别[J]. 系统工程与电子技术,2016,38(8):1847-1853.
+Chen Hao, Ren Qinglong, Hua Yi,et al. Fuzzy neural network based tactical intention recognition for sea targets[J]. Systems Engineering and Electronics,2016,38(8):1847-1853.(in Chinese)
+马钰棠, 孙鹏, 张杰勇, 等. 样本不平衡下的空中群组意图识别方法[J]. 系统工程与电子技术,2022,44(12):3747-3755.
+Ma Yutang, Sun Peng, Zhang Jieyong,et al. Air group intention recognition method under imbalance samples[J]. Systems Engineering and Electronics,2022,44(12):3747-3755.(in Chinese)
+周旺旺, 姚佩阳, 张杰勇, 等. 基于深度神经网络的空中目标作战意图识别[J]. 航空学报,2018,39(11):322468.
+Zhou Wangwang, Yao Peiyang, Zhang Jieyong,et al. Combat intention recognition for aerial targets based on deep neural network[J]. Acta Aeronautica et Astronautica Sinica,2018,39(11):322468.(in Chinese)
+Zhang Yujie, Zhang Lei, Sun Duo,et al. Short-term wind power forecasting based on VMD and a hybrid SSA-TCN-BiGRU network[J]. Applied Sciences,2023,13(17):9888.
+Zhang Chu, Peng Tian, Nazir M S. A novel integrated photovoltaic power forecasting model based on variational mode decomposition and CNN-BiGRU considering meteorological variables[J]. Electric Power Systems Research,2022,213:108796.
+朱铭康, 卢先领. 基于Bi-LSTM-Attention模型的人体行为识别算法[J]. 激光与光电子学进展,2019,56(15):151503.
+Zhu Mingkang, Lu Xianling. Human action recognition algorithm based on Bi-LSTM-Attention model[J]. Laser &amp;amp; Optoelectronics Progress,2019,56(15):151503.(in Chinese)
+Pinneri C, Sawant S, Blaes S,et al. Sample-efficient cross-entropy method for real-time planning[C]//The 4th Conference on Robot Learning,2020.
+丁鹏, 宋亚飞. 代价敏感的空中目标意图识别方法[J]. 航空学报,2023,44(24):328551.
+Ding Peng, Song Yafei. A cost-sensitive method for aerial target intention recognition[J]. Acta Aeronautica et Astronautica Sinica,2023,44(24):328551.(in Chinese)
+钱钊, 刘钦, 鹿瑶, 等. 基于长短时神经网络的目标意图识别[J]. 太赫兹科学与电子信息学报,2022,20(11):1156-1162.
+Qian Zhao, Liu Qin, Lu Yao,et al. Identification of target′s combat intention based on long short term memory network[J]. Journal of Terahertz Science and Electronic Information Technology,2022,20(11):1156-1162.(in Chinese)
+滕飞, 刘曙, 宋亚飞. BiLSTM-Attention: 一种空中目标战术意图识别模型[J]. 航空兵器,2021,28(5):24-32.
+Teng Fei, Liu Shu, Song Yafei. BiLSTM-Attention:an air target tactical intention recognition model[J]. Aero Weaponry,2021,28(5):24-32.(in Chinese)
+苟先太, 吴南方. 基于GRU-Attention神经网络的空中群组态势识别方法[J]. 计算机与现代化,2019(10):11-16,33.
+Gou Xiantai, Wu Nanfang. Air group situation recognition method based on GRU-Attention neural network[J]. Computer and Modernization,2019(10):11-16,33.(in Chinese)
+Teng Fei, Guo Xinpeng, Song Yafei,et al. An air target tactical intention recognition model based on bidirectional GRU with attention mechanism[J]. IEEE Access,2021,9:169122-169134.
+Zhu Wenbo, Webb Z T, Mao Kaitian,et al. A deep learning approach for process data visualization using t-distributed stochastic neighbor embedding[J]. Industrial &amp;amp; Engineering Chemistry Research,2019,58(22):9564-9575.
 作者投稿
 投稿指南
 联系我们
@@ -2255,10 +2828,2236 @@ Shen Tianyu, Tao Zirui, Wang Yadong,et al. Key problems of embodied intelligence
 扫码关注
 官方微信
 您是今天第
-2370
+4784
 位访客
 总访问量：
-295170182
+296172150
+电话：
+0731-87028030
+邮箱:journal@nudt.edu.cn
+地址：湖南省长沙市开福区德雅路109号
+邮政编码：410073
+备案号 
+：
+湘ICP备09019258号
+技术支持：北京勤云科技发展有限公司&lt;/pre&gt;</content:encoded></item><item><title>嵌入图神经网络的混合整数线性规划求解器增强技术</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260414?st=search&amp;tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260414?st=search&amp;tab=abstract</guid><description>嵌入图神经网络的混合整数线性规划求解器增强技术
+EI•CA•INSPEC•JST•SCOPUS
+中文核心期刊•CSCD•WJCI
+首页
+期刊介绍
+投稿指南
+来稿须知
+稿件要求
+录用修订
+稿件流程
+相关下载
+编委会
+出版声明
+出版道德声明
+出版伦理声明
+开放获取声明
+联系我们
+期刊订阅
+纸刊订阅
+E-mail订阅
+Rss
+AI检索
+Deepseek
+豆包
+文心一言
+通义
+讯飞星火
+Kimi
+English
+引用本文:
+邓宇凡, 宋智琳, 蒲天乐, 等. 嵌入图神经网络的混合整数线性规划求解器增强技术[J]. 国防科技大学学报,2026,48(4):149-159.
+Citation:
+Deng Yufan, Song Zhilin, Pu Tianle, et al. GNN-guided approach to enhancing mixed-integer linear programming solvers[J]. Journal of National University of Defense Technology, 2026, 48(4)： 149-159.
+嵌入图神经网络的混合整数线性规划求解器增强技术
+doi:
+10.11887/j.issn.1001-2486.25040040
+邓宇凡
+角色:
+第一作者
+机构:
+国防科技大学系统工程学院, 湖南 长沙 410073
+邮箱:
+dengyufan24@nudt.edu.cn
+简介:
+邓宇凡（2002—），男，福建龙岩人，硕士研究生，E-mail: dengyufan24@nudt.edu.cn
+，
+ 宋智琳
+机构:
+国防科技大学系统工程学院, 湖南 长沙 410073
+，
+ 蒲天乐
+机构:
+国防科技大学系统工程学院, 湖南 长沙 410073
+，
+ 范长俊
+角色:
+通信作者
+机构:
+国防科技大学系统工程学院, 湖南 长沙 410073
+邮箱:
+fanchangjun@nudt.edu.cn
+简介:
+范长俊（1990—），男，安徽天长人，副教授，博士，博士生导师，E-mail: fanchangjun@nudt.edu.cn
+国防科技大学系统工程学院, 湖南 长沙 410073
+基金项目:
+国家自然科学基金创新研究群体基金资助项目（72421002）
+ ；
+ 国家自然科学基金青年基金资助项目（62206303）
+ ；
+ 湖南省科技创新计划基金资助项目（2023RC3009）
+ ；
+ 国防科技大学基石基金资助项目（JS24-05）
+详细信息
+收起信息
+作者简介
+邓宇凡（2002—），男，福建龙岩人，硕士研究生，E-mail: dengyufan24@nudt.edu.cn
+通信作者
+范长俊（1990—），男，安徽天长人，副教授，博士，博士生导师，E-mail: fanchangjun@nudt.edu.cn
+中图分类号:
+TP183
+文献标志码:
+A
+文章编号:
+1001-2486(2026)04-149-11
+GNN-guided approach to enhancing mixed-integer linear programming solvers
+Deng Yufan
+Role:
+First Author
+Affiliation:
+College of Systems Engineering, National University of Defense Technology, Changsha 410073 , China
+Email:
+dengyufan24@nudt.edu</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260414?st=search&amp;amp;tab=abstract&lt;/p&gt;&lt;pre&gt;嵌入图神经网络的混合整数线性规划求解器增强技术
+EI•CA•INSPEC•JST•SCOPUS
+中文核心期刊•CSCD•WJCI
+首页
+期刊介绍
+投稿指南
+来稿须知
+稿件要求
+录用修订
+稿件流程
+相关下载
+编委会
+出版声明
+出版道德声明
+出版伦理声明
+开放获取声明
+联系我们
+期刊订阅
+纸刊订阅
+E-mail订阅
+Rss
+AI检索
+Deepseek
+豆包
+文心一言
+通义
+讯飞星火
+Kimi
+English
+引用本文:
+邓宇凡, 宋智琳, 蒲天乐, 等. 嵌入图神经网络的混合整数线性规划求解器增强技术[J]. 国防科技大学学报,2026,48(4):149-159.
+Citation:
+Deng Yufan, Song Zhilin, Pu Tianle, et al. GNN-guided approach to enhancing mixed-integer linear programming solvers[J]. Journal of National University of Defense Technology, 2026, 48(4)： 149-159.
+嵌入图神经网络的混合整数线性规划求解器增强技术
+doi:
+10.11887/j.issn.1001-2486.25040040
+邓宇凡
+角色:
+第一作者
+机构:
+国防科技大学系统工程学院, 湖南 长沙 410073
+邮箱:
+dengyufan24@nudt.edu.cn
+简介:
+邓宇凡（2002—），男，福建龙岩人，硕士研究生，E-mail: dengyufan24@nudt.edu.cn
+，
+ 宋智琳
+机构:
+国防科技大学系统工程学院, 湖南 长沙 410073
+，
+ 蒲天乐
+机构:
+国防科技大学系统工程学院, 湖南 长沙 410073
+，
+ 范长俊
+角色:
+通信作者
+机构:
+国防科技大学系统工程学院, 湖南 长沙 410073
+邮箱:
+fanchangjun@nudt.edu.cn
+简介:
+范长俊（1990—），男，安徽天长人，副教授，博士，博士生导师，E-mail: fanchangjun@nudt.edu.cn
+国防科技大学系统工程学院, 湖南 长沙 410073
+基金项目:
+国家自然科学基金创新研究群体基金资助项目（72421002）
+ ；
+ 国家自然科学基金青年基金资助项目（62206303）
+ ；
+ 湖南省科技创新计划基金资助项目（2023RC3009）
+ ；
+ 国防科技大学基石基金资助项目（JS24-05）
+详细信息
+收起信息
+作者简介
+邓宇凡（2002—），男，福建龙岩人，硕士研究生，E-mail: dengyufan24@nudt.edu.cn
+通信作者
+范长俊（1990—），男，安徽天长人，副教授，博士，博士生导师，E-mail: fanchangjun@nudt.edu.cn
+中图分类号:
+TP183
+文献标志码:
+A
+文章编号:
+1001-2486(2026)04-149-11
+GNN-guided approach to enhancing mixed-integer linear programming solvers
+Deng Yufan
+Role:
+First Author
+Affiliation:
+College of Systems Engineering, National University of Defense Technology, Changsha 410073 , China
+Email:
+dengyufan24@nudt.edu.cn
+，
+ Song Zhilin
+Affiliation:
+College of Systems Engineering, National University of Defense Technology, Changsha 410073 , China
+，
+ Pu Tianle
+Affiliation:
+College of Systems Engineering, National University of Defense Technology, Changsha 410073 , China
+，
+ Fan Changjun
+Role:
+Corresponding Author
+Affiliation:
+College of Systems Engineering, National University of Defense Technology, Changsha 410073 , China
+Email:
+fanchangjun@nudt.edu.cn
+College of Systems Engineering, National University of Defense Technology, Changsha 410073 , China
+摘要
+HTML全文
+图(6)表(7)
+参考文献(32)
+相似文献
+出版信息
+访问统计
+资源附件
+摘要
+现有机器学习方法在求解混合整数线性规划问题时，主要关注节点特征而忽略边特征，限制了模型提取完整约束信息的能力。为解决此局限，本文提出了一种基于Sinkhorn算法加速的边增强图神经网络求解框架。该框架通过将边特征融入注意力计算，有效融合节点与边的特征表示，以学习混合整数线性规划的潜在模式。此外，为克服传统方法在问题规模泛化性和超参数调优上的缺陷，本文设计了一种自适应反悔贪心算法，通过动态调整变量赋值策略提升解的可行性与质量。在组合拍卖和物品放置数据集上的实验结果表明，该框架在primal integral指标上相较于Gurobi和SCIP求解器分别提升了24.88%和5.86%，较现有最优的机器学习方法提升了17.19%。
+关键词
+混合整数线性规划
+/
+图注意力网络
+/
+Sinkhorn算法
+/
+自适应信赖域
+Abstract
+Existing machine learning methods addressing MILP(mixed-integer linear programming) problems primarily focus on node features while neglecting edge features, limiting their ability to extract complete constraint information. To address this limitation, an edge-enhanced graph neural network solving framework based on Sinkhorn algorithm acceleration was proposed. This framework effectively fused node and edge representations by incorporating edge features into the attention mechanism to learn the underlying patterns of MILP. Furthermore, to overcome the shortcomings of traditional methods in problem scale generalization and hyperparameter tuning, an adaptive regret-greedy algorithm was designed to enhance solution feasibility and quality by dynamically adjusting variable assignment strategies. Experimental results on combinatorial auction and item placement datasets show that the proposed framework achieves performance improvements of 24.88% and 5.86% on the primal integral metric compared to the Gurobi and SCIP solvers, respectively, and a 17.19% improvement over the current state-of-the-art machine learning method.
+Keywords
+mixed-integer linear programming
+/
+graph attention network
+/
+Sinkhorn algorithm
+/
+adaptive trust region
+1 前置知识
+1.1 混合整数线性规划问题
+1.2 图卷积网络
+1.3 边增强图注意力网络
+1.4 Sinkhorn 算法
+2 方法框架
+2.1 基于 Sinkhorn 归一化的边增强注意力网络
+2.2 概率分布学习
+2.3 基于置信阈值的反悔贪心搜索方法
+3 实验分析
+3.1 实验设置
+3.1.1 数据集
+3.1.2 评价指标
+3.1.3 参数设置
+3.2 实验结果
+3.2.1 primal gap 指标上的实验结果与分析
+3.2.2 survival rate 指标上的实验结果与分析
+3.2.3 primal integral 指标上的实验结果与分析
+3.2.4 消融实验结果与分析
+3.2.5 与现有先进方法的实验对比与分析
+4 结论
+混合整数线性规划（mixed-integer linear programming，MILP）作为运筹学领域的重要方法，已在生产规划
+[
+1
+]
+、供应链调度
+[
+2
+]
+和资源分配
+[
+3
+-
+4
+]
+等实际中得到广泛应用并发挥重要价值。这类问题因其同时包含连续变量和整数变量的特性，被证明是一类NP-hard难求解问题。传统求解方法如分支定界
+[
+5
+]
+和割平面算法
+[
+6
+]
+虽然取得了显著成功，并成为商业求解器（如Gurobi、CPLEX）的核心算法，但其固有的迭代求解范式存在并行计算不足的缺陷，导致这些求解器在面对工业级大规模问题时，难以充分利用计算资源，求解效率与实效性需求之间存在显著鸿沟。
+近年来，基于机器学习（machine learning，ML）的MILP求解范式取得显著进展
+[
+7
+-
+8
+]
+。这种数据驱动的求解范式通过深度挖掘历史求解数据中的潜在规律来构建更快速的求解器架构。当前，利用ML求解MILP的研究主要沿着两个方向推进：一是将机器学习组件融入传统精确求解算法，特别是分支定界（branch-and-bound，B&amp;amp;B）框架。在这一方向上，研究者利用ML模型替代或增强求解器中的关键启发式决策环节，以更智能地引导搜索过程，研究热点包括学习分支变量选择策略
+[
+9
+-
+10
+]
+、节点选择策略
+[
+11
+-
+12
+]
+以及割平面选择
+[
+13
+-
+14
+]
+等。二是直接利用神经网络预测解，以实现近似求解。本文主要关注ML在近似求解领域中的应用。
+在近似求解领域，Nair等
+[
+15
+]
+开创性地将MILP建模为二部图并转化为预测任务，但其简单的图模型和直接预测范式也暴露了表示能力不足与预测准确率有限两大核心挑战。为应对这些挑战，后续研究主要沿着两条路径展开：其一，通过改进学习范式与网络架构来增强模型表示能力。这类方法或探索全新的生成模型（如Diffusion
+[
+16
+]
+）以直接构造解；或通过对比学习
+[
+17
+]
+等学习方式来挖掘数据中的深层结构信息；或致力于增强核心组件，如Sinkformers
+[
+18
+]
+利用Sinkhorn算法构建了更鲁棒的双随机注意力机制，为设计更强大的图表示学习模块提供了重要启发。其二，设计精巧的后搜索（post-searching）策略来提升预测准确率。这类方法通过修正神经网络的初始预测来提升最终解的质量，典型策略包括基于置信度阈值的变量固定
+[
+19
+]
+和基于信赖域的局部搜索
+[
+20
+]
+。
+然而，尽管上述方法取得了显著进展，但关键瓶颈依然存在：首先，现有神经网络架构大多仍未能充分利用MILP二部图中至关重要的约束系数（即边特征）；其次，现有方法结合的后搜索算法普遍缺乏对不同问题实例的自适应能力，泛化性不足且依赖烦琐调参。因此，亟待研究一个能同时解决图表示瓶颈和搜索策略刚性的集成框架。
+为了应对上述挑战，本文提出了一种基于Sinkhorn归一化的边注意力与自适应反悔贪心的搜索框架（Sinkhorn-regularized edge attention with adaptive regret-based search procedure，SHARP）。该框架由两个核心创新构成：针对神经网络信息提取能力不足的问题，本文设计了基于 Sinkhorn 归一化的边增强图注意力网络（Sinkhorn-normalized edge enhanced graph attention network，SKEGAT），网络首次将边增强图注意力网络
+[
+21
+]
+（edge aggregated graph attention network，EGAT）与 Sinkhorn 归一化算法
+[
+22
+]
+结合，专门用于处理 MILP 问题的二部图表征。通过实现多粒度的特征提取和保障训练过程的稳定性，SKEGAT 能够显著增强模型对 MILP 复杂结构的表征能力。为了提升最终解的质量，本文提出了一种自适应反悔贪心搜索算法，通过动态调整变量赋值策略，在保证求解效率的同时显著提升解的可行性和质量。该策略不仅在求解效率上表现出色，更在解的最终质量上实现了显著提升。此外，这种自适应机制能够敏锐捕捉不同问题实例的结构化差异，从而赋予了整个框架强大的泛化性能。
+1 前置知识
+1.1 混合整数线性规划问题
+混合整数线性规划问题
+[
+23
+]
+是一类组合优化问题。在这些问题中，部分或全部变量被限制为整数值。从形式上而言，一个混合整数线性规划问题
+M
+可以定义如式（1）的形式：
+m
+i
+n
+x
+c
+T
+x
+s. t.
+A
+x
+⩽
+b
+,
+x
+∈
+{
+0,1
+}
+q
+×
+R
+n
+-
+q
+(1)
+其中：
+m
+i
+n
+x
+c
+T
+x
+表示优化目标；决策变量向量
+x
+=（
+x
+1
+，···，
+x
+n
+）
+T
+由
+q
+个二进制变量与
+n
+-
+q
+个连续变量组成；
+c
+∈
+R
+n
+是目标系数向量；
+A
+∈
+R
+m
+×
+n
+和
+b
+∈
+R
+m
+则分别定义了
+m
+个线性约束的系数矩阵与右侧边界。一个解
+x
+如果满足所有约束条件，则称其为可行解。根据Nair等
+[
+15
+]
+学者介绍的理论，任何包含一般整数变量的混合整数线性规划问题均可等价转化为此形式。鉴于其代表性，本文将重点围绕该模型进行讨论。
+Gasse等
+[
+9
+]
+最早提出了将MILP表示为二部图的方法，如
+图1
+所示。该方法的核心思想是将决策变量与约束条件分别映射为二部图的两个顶点集：一个是由
+n
+个决策变量构成的“变量节点”集，另一个则是由
+m
+个线性约束组成的“约束节点”集。这两个顶点集构成了二部图的两个互斥部分。图中的边用于表达变量与约束的关联：当且仅当变量
+i
+出现在约束条件
+j
+中时，代表二者的节点之间才会建立一条带权边，其权重被设定为该变量在约束中的系数值。这种基于图结构的建模方式，不仅完整地保留了MILP的数学特性，还通过其拓扑关系直观地展现了变量和约束之间的内在联系。
+1.2 图卷积网络
+在混合整数线性规划中，图卷积网络（graph convolutional network，GCN）通常用于模型学习和二部图表示后的邻域聚合
+[
+9
+]
+。图卷积网络可以被形式化表示成如式（2）所示的形式：
+图
+1
+混合整数线性规划问题的二部图表示
+Fig.
+1
+Bipartite graph representation of MILP
+h
+v
+k
+=
+f
+2
+k
+h
+v
+k
+-
+1
+,
+f
+1
+k
+h
+u
+k
+-
+1
+:
+(
+u
+,
+v
+)
+∈
+ε
+(2)
+其中，
+ε
+表示二部图中的边集，
+h
+v
+k
+表示节点
+v
+在第
+k
+层的隐藏状态。函数
+f
+1
+k
+将第
+k
+-1层邻居的隐藏状态结合起来以获得聚合信息，而函数
+f
+2
+k
+则将当前节点
+v
+的隐藏状态与其邻居的聚合信息结合起来。对于二部图表示，使用具有两个交错半卷积层的图神经网络可以获得更好的性能。形式上，
+V
+x
+表示
+n
+个变量节点的集合，
+V
+δ
+表示
+m
+个约束节点的集合，
+g
+x
+k
+和
+g
+δ
+k
+均为多层感知机，
+k
+层半卷积图神经网络可以写成如式（3）所示的形式：
+h
+δ
+j
+k
+=
+f
+δ
+k
+h
+δ
+j
+k
+-
+1
+,
+∑
+x
+i
+,
+δ
+j
+∈
+ε
+g
+δ
+k
+h
+x
+k
+-
+1
+,
+h
+δ
+j
+k
+-
+1
+,
+δ
+j
+∈
+V
+δ
+h
+x
+i
+k
+=
+f
+x
+k
+h
+x
+i
+k
+-
+1
+,
+∑
+x
+i
+,
+δ
+j
+∈
+ε
+g
+x
+k
+h
+x
+i
+k
+-
+1
+,
+h
+δ
+j
+k
+,
+x
+i
+∈
+V
+x
+(3)
+1.3 边增强图注意力网络
+为解决现有图神经网络，如 GCN
+[
+24
+]
+和图注意力网络
+[
+25
+]
+（graph attention network，GAT）普遍忽略边特征信息的问题，本文采用EGAT进行消息聚合
+[
+21
+]
+。EGAT建立在GAT之上，其核心在于将边的特征融入注意力机制中，从而更精确地捕捉节点间的复杂关系。
+EGAT的实现依赖于两个关键组件：边特征的双随机归一化与边增强注意力层。
+为了在聚合信息时稳定训练过程，EGAT首先对原始的边特征进行双随机归一化（doubly stochastic normalization，DSN）。假设图的原始边特征为
+E
+^
+i
+j
+，归一化后的特征
+E
+i
+j
+通过以下公式计算：
+E
+~
+i
+j
+=
+E
+^
+i
+j
+∑
+k
+=
+1
+N
+E
+^
+i
+k
+E
+i
+j
+=
+∑
+k
+=
+1
+N
+E
+~
+i
+k
+E
+~
+j
+k
+∑
+v
+=
+1
+N
+E
+~
+t
+k
+(4)
+其中，
+E
+~
+i
+j
+表示经过第一次计算后得到的行归一化边特征矩阵元素，此时它仅满足单侧随机性（即每行元素之和为1）。经过该归一化操作后，得到的边特征矩阵
+E
+成了一个双随机矩阵（doubly stochastic matrix，DSM）。根据定义，双随机矩阵是行和与列和均为1的非负方阵，即满足以下性质：
+E
+i
+j
+⩾
+0
+∑
+i
+=
+1
+N
+E
+i
+j
+=
+∑
+j
+=
+1
+N
+E
+i
+j
+=
+1
+(5)
+双随机矩阵在图论中具有优良的代数特性，如对称性（
+E
+=
+E
+T
+）、半正定性（
+E
+≥0
+）且其最大特征值为1。与传统GAT采用的行归一化（softmax）相比，双随机归一化可以有效防止边特征矩阵的谱在训练中发生爆炸或消失，从而显著提升了模型的训练稳定性。
+EGAT层的核心是其新颖的注意力机制。对于第
+l
+层EGAT而言，其更新后的特征向量
+X
+l
+的数学形式描述如下：
+X
+l
+=
+σ
+α
+l
+X
+l
+-
+1
+W
+l
+(6)
+其中，
+W
+l
+是一个可学习的线性变换矩阵，
+σ
+是非线性激活函数（如ReLU），而
+α
+l
+是关键的边增强注意力系数矩阵。该注意力系数的计算方式如下：
+α
+^
+i
+j
+l
+=
+exp
+⁡
+L
+a
+T
+X
+i
+.
+l
+−
+1
+W
+l
+‖
+X
+j
+.
+l
+−
+1
+W
+l
+E
+i
+j
+l
+−
+1
+α
+l
+=
+D
+SN
+α
+^
+l
+(7)
+其中，‖表示张量拼接操作；
+D
+SN
+表示双重随机归一化算子，
+a
+T
+表示可学习的注意力权重向量；
+α
+^
+l
+表示原始注意力权重矩阵；
+L
+是LeakyReLU激活函数。通过这种方式，
+EGAT
+不仅考虑了节点自身的信息，还显式地将边的特征纳入了注意力权重的计算中，从而实现了对图结构信息更全面的利用。
+1.4 Sinkhorn 算法
+Sinkhorn算法常被用作计算DSM，即行和列的和都为1的非负方阵。Sinkhorn算法在机器学习、计算机视觉、自然语言处理等领域都发挥着重要作用，常用于图匹配
+[
+26
+]
+、图像配准
+[
+18
+]
+、最优传输问题
+[
+27
+]
+中。
+Sinkhorn算法具体流程如算法1所示。其中
+:Ø
+表示逐元素除法；“·”表示矩阵乘法；
+k
+表示迭代次数；
+1
+n
+表示长度为
+n
+的单位向量；
+S
+i
+表示第
+i
+次迭代后得到的双随机矩阵。
+算法
+1
+Sinkhorn算法
+Alg.
+1
+Sinkhorn algorithm
+2 方法框架
+在本节中，提出一种基于边增强图注意力网络与混合整数规划求解器的求解框架SHARP。这一框架主要分为基于 Sinkhorn 归一化的边增强注意力网络、概率分布学习、基于置信阈值的反悔贪心搜索方法三个部分，如
+图2
+所示。
+2.1 基于 Sinkhorn 归一化的边增强注意力网络
+在标准的边增强图注意力网络中，其核心组件“双随机边归一化”在处理二部图时面临理论局限。具体而言，该归一化操作（如式（4）所示）要求输入的边特征矩阵为方阵（即行数与列数相等）。然而，一个包含
+M
+个左节点和
+N
+个右节点的二部图，其天然的边特征矩阵大小为
+N
+×
+M
+，这导致无法直接应用该归一化方法。一种看似直接的解决方案是将这个
+N
+×
+M
+的边矩阵扩展为一个（
+N
++
+M
+）×（
+N
++
+M
+）的对称方阵，通过零填充来补全缺失的边。然而，这种“暴力”扩展的方案会带来难以接受的计算与存储代价，成为模型应用于大规模问题的瓶颈。
+为了解决上述问题，本文针对 MILP 的二部图结构提出SKEGAT。该网络创新地引入Sinkhorn算法，直接在原始的二部图边矩阵上实现双随机归一化，从而避免了矩阵扩展带来的高昂开销。此外，受Ye等
+[
+28
+]
+的启发，本文构建了一种多层半卷积结构，以更高效地提取和利用图的边信息。形式上，令
+E
+代表二部图中的边特征矩阵，一个包含多层半卷积结构的
+k
+层SKEGAT网络可以表示为：
+α
+x
+,
+δ
+j
+k
+=
+S
+sk
+L
+a
+T
+W
+h
+x
+i
+k
+−
+1
+‖
+W
+h
+δ
+j
+k
+−
+1
+E
+x
+i
+δ
+j
+k
+−
+1
+h
+δ
+k
+=
+σ
+α
+k
+h
+x
+k
+−
+1
+,
+E
+k
+−
+1
+g
+k
+h
+δ
+k
+−
+1
+h
+x
+k
+=
+σ
+α
+k
+h
+δ
+k
+,
+E
+k
+−
+1
+g
+k
+h
+x
+k
+−
+1
+E
+k
+=
+α
+k
+(8)
+其中：
+h
+δ
+k
+和
+h
+x
+k
+分别表示第
+k
+层中约束节点和变量节点的隐藏状态向量；
+，
+α
+x
+，
+δ
+j
+k
+表示第
+k
+层中连接变量节点
+x
+i
+和约束节点
+δ
+j
+的边的注意力系数；
+E
+k
+代表第
+k
+层的边特征矩阵，由当前层的注意力系数矩阵
+α
+k
+更新得到；
+σ
+是非线性激活函数；
+g
+k
+是将节点特征从输入空间映射到输出空间的变换，一般常用的是线性变换；
+W
+是线性变换矩阵；
+S
+sk
+（·）表示Sinkhorn算法。
+图
+2
+SHARP整体框架
+Fig.
+2
+The overall framework of SHARP
+为了定量地证明SKEGAT模型在计算效率上的优越性，本文将其与前述传统扩展方案进行严格的时间与空间复杂度比较。
+在时间复杂度方面，传统扩展方案需要处理一个大小为
+n
+=
+N
++
+M
+的扩展方阵。在该方阵上执行标准的双随机归一化操作，其计算量通常与矩阵维度的立方成正比，复杂度高达
+O
+（（
+N
++
+M
+）
+3
+），这对于大规模图而言是不可接受的。
+相比之下，SKEGAT规避了这一计算瓶颈。它所采用的Sinkhorn算法直接在原始的
+N
+×
+M
+矩阵上操作。Sinkhorn算法通过交替迭代地对矩阵的行和列进行归一化来逼近双随机矩阵。对于一个
+N
+×
+M
+的矩阵，一次完整的迭代（包含一次列归一化和一次行归一化）所需的操作数与矩阵元素总数成正比，即
+O
+（
+NM
+）。由于该算法通常在固定的、较小的迭代次数
+k
+内即可收敛，因此Sinkhorn归一化的总时间复杂度为
+O
+（
+kNM
+）。考虑到网络中其他操作（如特征变换与聚合）的复杂度不超过此范畴，整个SKEGAT层的核心时间复杂度即为
+O
+（
+kNM
+）。这相较于传统方案的
+O
+（（
+N
++
+M
+）
+3
+），实现了一个从立方级别到平方级别的跨越。
+在空间复杂度方面，传统方案需要显式地构建并存储整个（
+N
++
+M
+）×（
+N
++
+M
+）的扩展矩阵，导致其空间复杂度为
+O
+（（
+N
++
+M
+）
+2
+）。其中包含了大量由零填充而产生的
+O
+（
+N
+2
++
+M
+2
+）的非必要存储开销。SKEGAT的主要内存开销仅为存储原始的边特征矩阵，其空间复杂度为
+O
+（
+NM
+），完全避免了因矩阵扩展而产生的额外内存负担。
+该方法与EGAT的本质差异在于其归一化机制的选择。EGAT原生的双随机归一化专为通用图（方阵）设计，若强制应用于MILP二部图，则需进行代价高昂的矩阵扩展，导致时间复杂度剧增至
+O
+（（
+N
++
+M
+）
+3
+）。相比之下，SKEGAT创新性地引入Sinkhorn算法，该算法能够直接在原始的N×M 非方阵上高效迭代，以
+O
+（
+kNM
+）的复杂度逼近双随机性。这一设计不仅从根本上避免了矩阵扩展带来的计算瓶颈，也构成了SKEGAT在处理大规模MILP二部图时的核心理论优势。
+2.2 概率分布学习
+在通过SKEGAT网络提取图特征后，将其输入一个概率分布学习模型，旨在为每个实例学习其解空间的条件概率分布。设计该模型遵循一个核心原则：一个解越接近最优解，其条件概率应该越高。受到Nair等
+[
+15
+]
+的启发，通过能量函数来构建此条件分布。对于一个解
+x
+，其条件概率
+（
+）
+p
+（
+x
+;
+M
+）
+可通过下式计算：
+p
+(
+x
+;
+M
+)
+≡
+e
+x
+p
+⁡
+(
+-
+E
+(
+x
+;
+M
+)
+)
+∑
+x
+&amp;#x27;
+e
+x
+p
+⁡
+-
+E
+x
+&amp;#x27;
+;
+M
+,
+w
+h
+e
+r
+e
+E
+(
+x
+;
+M
+)
+≡
+c
+T
+x
+x
+is feasible
++
+∞
+otherwise
+(9)
+式（9）确保了不可行解的概率为零，而最优解拥有最大的概率。模型的训练目标是让神经网络预测的分布逼近上述理论分布。本文使用KL（Kullback-Leibler）散度来衡量这两个分布之间的距离，因此，对于收集到的数据集
+，
+M
+i
+，
+L
+i
+i
+=
+1
+N
+，令
+，
+L
+i
+≡
+x
+i
+，
+j
+j
+=
+1
+N
+i
+表示实例
+M
+i
+的
+N
+i
+可行解集，监督学习的损失函数定义为：
+(10)
+其中，
+P
+θ
+（
+x
+i
+，
+j
+;
+M
+i
+）表示神经网络的预测解概率，
+θ
+表示神经网络可学习参数。
+2.3 基于置信阈值的反悔贪心搜索方法
+为缓解求解器在处理MILP问题时面临的指数级时间复杂度瓶颈，一种有效的思路是利用神经网络学习到的变量边际概率，预先固定部分变量的取值，从而显著缩小问题的搜索空间。
+理论上，如果变量在最优解中取值为1，其预测的边际概率将趋近于1；反之则趋近于0。基于此，本文设计了一种基于置信度阈值的贪心降维策略：引入置信阈值
+λ
+，对于变量
+x
+i
+，设
+p
+θ
+（
+x
+i
+=1;
+M
+）为神经网络输出的变量
+x
+i
+为1的概率，当
+p
+θ
+（
+x
+i
+=1;
+M
+）＜1-
+λ
+时，将其固定为0；同理，当
+p
+θ
+（
+x
+i
+=1;
+M
+）＞
+λ
+时，将其固定为1。设固定的变量下标集合为
+I
+={
+d
+:
+p
+θ
+（
+x
+i
+=1;
+M
+）＜1-
+λ
+or
+p
+θ
+（
+x
+i
+=1;
+M
+）＞
+λ
+}，于是有部分解
+x
+-
+I
+，定义这一过程为固定变量，形式化表示为：
+x
+-
+I
+=
+x
+-
+i
+i
+∈
+I
+, where
+x
+-
+i
+=
+0
+p
+θ
+x
+i
+=
+1
+;
+M
+⩽
+1
+-
+λ
+1
+p
+θ
+x
+i
+=
+1
+;
+M
+⩾
+λ
+(11)
+由此，原MILP问题被简化为一个规模更小的子问题：
+m
+i
+n
+c
+T
+x
+s. t.
+A
+x
+⩽
+b
+,
+x
+∈
+{
+0,1
+}
+q
+×
+R
+n
+-
+q
+,
+x
+∈
+S
+x
+¯
+l
+(12)
+其中，
+S
+x
+-
+l
+≡
+x
+∈
+R
+n
+:
+x
+l
+=
+x
+-
+l
+表示新解中被固定变量的取值，必须与初始固定解
+x
+-
+I
+保持一致。
+然而，这种朴素的贪心策略存在一个本质缺陷：一旦出现变量固定错误（即
+x
+-
+I
+与最优解中的值不同），就可能导致求得次优解，甚至破坏解的可行性。虽然现有研究提出了基于信赖域的搜索方法来缓解此问题，但该方法对超参数的依赖性强，缺乏在不同问题分布上的泛化能力。具体而言，传统的信赖域方法通常通过一个L1范数约束（即
+∑
+i
+∈
+I
+x
+i
+-
+x
+-
+i
+⩽
+K
+）来定义一个以贪心解为中心的几何邻域。这里的
+K
+是一个固定的、绝对值超参数，代表允许偏离的变量个数上限。这种设计导致其泛化能力受限：对于不同规模的问题实例，一个固定的
+K
+值可能过于宽松或过于严苛，需要大量烦琐的手动调参，难以自适应。
+为克服这一局限，本文在上述贪心策略的基础上，受Yoon
+[
+19
+]
+的启发，引入了一种自适应反悔机制，从而构建了基于置信阈值的自适应反悔贪心搜索方法。该方法与传统信赖域方法的本质区别在于，它用一个“组合约束”代替了“几何约束”，并通过“比例系数”克服了“绝对值超参数”带来的泛化难题。该方法在传统贪心策略中引入灵活调整机制，建立反悔决策功能，允许在变量固定过程中对部分次优选择进行修正。在实践中，引入容错参数0＜
+α
+＜1，允许一定比例的变量值与最优解存在差异，即允许在固定变量的过程中有
+α
+|I|的变量的固定值与最优解中的对应值不同。基于此改进，原混合整数线性规划问题可转化为：
+m
+i
+n
+c
+T
+x
+s.t.
+A
+x
+⩽
+b
+,
+x
+∈
+{
+0,1
+}
+q
+×
+R
+n
+-
+q
+,
+x
+∈
+B
+x
+¯
+l
+,
+α
+(13)
+其中，
+，
+，
+B
+x
+¯
+l
+，
+α
+≡
+x
+∈
+R
+n
+:
+x
+l
+-
+x
+¯
+l
+1
+⩽
+α
+|
+I
+|
+，
+表示与初始固定解
+x
+¯
+I
+相比，新解中最多允许
+α
+|
+I
+|
+个变量的取值发生变化。显然，该松弛策略具有以下双重特性：首先，由于S（I）B（I，α），新的约束是对原问题的松弛，搜索空间得以扩大。因此，改进后模型的理论最优目标值将恒定小于或等于原问题的最优目标值。其次，也是最关键的，允许反悔的变量数量 αI 不再是一个固定的绝对值，而是与当前问题被固定的变量规模
+|
+I
+|
+成正比。这使得反悔机制能够根据问题实例的规模动态调整其搜索范围，赋予了整个框架强大的问题规模泛化能力，从而避免了传统信赖域方法对超参数的过度依赖。
+之后，将变换后的混合整数线性规划实例
+M
+′
+作为混合整数线性规划求解器的输入进行求解，即可得到高质量的可行解。
+3 实验分析
+3.1 实验设置
+3.1.1 数据集
+本文的实验评估基于两个具有代表性的混合整数线性规划问题基准，分别对应一个程序化生成的数据集和一个大型开源数据集。
+第一个基准是组合拍卖（combinatorial auction）问题。应遵循Gasse等
+[
+9
+]
+提出的方法，依据任意关系程序（arbitrary relationships procedure）进行实例生成。具体而言，本文生成了规模为300个商品和1 500次出价的实例。本文为此问题构建了一个包含150个独立实例的完整数据集，并将其划分为100个训练实例和50个测试实例。
+第二个基准是物品放置（item placement）问题，其源自NeurIPS ML4CO 2021竞赛提供的大型开源数据集，共包含10 000个实例。然而，由于获取该问题高质量标签（即最优解）的计算成本极为高昂，即使用Gurobi求解器为单个实例获取最优解需耗时约3 600 s（1 h），因此对全量数据进行处理在当前研究阶段不具备可行性。基于计算资源的考量，本文从10 000个原始实例中随机采样了150个实例，同样划分为100个用于训练和50个用于测试。这一策略是在保证实验可行性与验证算法有效性之间取得的审慎平衡。
+之所以选择这两个基准，是因为它们不仅对最先进的求解器构成了挑战，同时也代表了工业界常见的MILP问题类型。此外，它们在相关研究中被广泛使用，从而为本文方法提供了可靠的性能比较基准。为清晰展示最终用于本研究的两个数据集的特征，其具体规模总结见
+表1
+。
+表
+1
+标准数据集的最大问题规模
+Tab.
+1
+Maximum problem size of the datasets
+3.1.2 评价指标
+本文使用primal gap、survival rate以及primal integral作为评价指标。对于primal gap而言，
+t
+时刻的primal gap
+γ
+（
+t
+）是正在评估的算法在
+t
+时刻实现的优化目标值
+f
+（
+x
+t
+）与预先计算的已知最佳目标值
+f
+（
+x
+*
+）之间的相对差值
+[
+29
+]
+。形式化而言，其可以被表述为：
+(14)
+对于survival rate而言，t时刻的survival rate是指在
+t
+时刻primal gap低于指定primal gap阈值的实例在所有实例中所占的比例
+[
+30
+]
+。形式化而言，设有
+N
+个测试实例，记第
+i
+个实例在时刻
+t
+的 primal gap为
+Gap
+i
+（
+t
+），阈值为
+Δ
+。则在时刻
+t
+的survival rate
+S
+（
+t
+）定义为满足
+Gap
+i
+（
+t
+）≤
+Δ
+的实例数占总实例数N的比例，即：
+S
+(
+t
+)
+=
+1
+N
+∑
+i
+=
+1
+N
+1
+G
+a
+p
+i
+(
+t
+)
+⩽
+Δ
+=
+i
+:
+G
+a
+p
+i
+(
+t
+)
+⩽
+Δ
+N
+(15)
+对于primal integral而言，
+t
+时刻的primal integral是指在
+t
+时刻primal gap在[0，
+t
+]上的积分，它反映了找到解的质量和速度。该目标衡量的是求解器求解过程中primal gap曲线下的面积，相当于从求解开始到
+t
+时刻找到的最佳可行解的primal gap在时间上的积分。形式化而言，可以被表述为如式（16）
+[
+31
+]
+所示：
+P
+I
+(
+T
+)
+=
+∫
+t
+=
+0
+T
+G
+a
+p
+(
+t
+)
+d
+t
+=
+∑
+i
+=
+1
+I
+γ
+t
+i
+-
+1
+t
+i
+-
+t
+i
+-
+1
+(16)
+其中：
+Gap
+（
+t
+）表示在
+t
+时刻的原始可行解与最优解之间的 primal gap；
+t
+i
+和
+t
+i
+-1
+分别表示相邻的两个时间记录点，
+γ
+（
+t
+i
+-1
+）表示在前一时刻
+t
+i
+-1
+的解的 primal gap 值，用于近似积分计算。该指标反映了解的质量与收敛速度的综合表现，
+PI
+值越小，说明求解器能够在较短时间内获得更优质量的解。
+3.1.3 参数设置
+使用Gurobi11.0.0作为训练数据收集的后端混合整数线性规划求解器。在训练时，对于每个标准数据集分别采样100个实例，作为Gurobi求解器的输入进行求解，并设置单个实例求解时间限制为3 600 s，使用32个线程。在训练过程中，随机取80个实例组成训练集，剩余20个实例组成验证集。
+在测试中，对每个标准数据集，分别采样50个实例，将SHARP框架和参照方法用primal gap和survival rate两个指标进行评估，并设置单个实例求解时间限制为1 000 s，仅使用单一线程。使用Gurobi和SCIP
+[
+32
+]
+求解器作为SHARP框架的混合整数线性规划求解器。在测试中调整求解器的参数，使得所有求解器都更关注于得到更优的Primal解，并且对所有方法保持求解器参数一致。本文使用的SHARP具体参数如
+表2
+所示。对于PaS（predict-and-search）框架，基本沿用 Han等
+[
+20
+]
+的实验设置，如
+表3
+所示。
+表
+2
+SHARP 框架具体参数
+Tab.
+2
+Specific parameters of the SHARP
+表
+3
+predict-and-search 框架具体参数
+Tab.
+3
+Specific parameters of the predict-and-search
+3.2 实验结果
+本节旨在对所提出的SHARP框架的有效性和先进性进行全面的实验评估。本文将SHARP框架与基准求解器（Gurobi、SCIP）、主流的PaS策略，以及当前先进的ConPaS方法进行多维度对比。所有实验均在组合拍卖和物品放置两个标准数据集上展开，并采用primal gap、survival rate和primal integral等核心指标，从解的质量、求解效率和综合性能三个维度进行系统性分析。
+3.2.1 primal gap 指标上的实验结果与分析
+图3
+展示了求解过程中平均primal gap随时间的变化趋势。
+图3
+中SHARP策略（图中SHARP+Gurobi和SHARP+SCIP）的曲线大部分时间处于对应基础求解器组的最低位置，展现出显著的性能优势。相比之下，Predict-and-Search策略（PaS+Gurobi/SCIP）虽然在一定程度上改善了基础求解器的搜索轨迹，但从整体收敛表现和最终下降幅度来看，其效果仍不及SHARP。
+图
+3
+不同方法求解过程中的平均 primalgap 随时间变化曲线
+Fig.
+3
+Curvesoftheaverageprimalgapovertime duringthesolvingprocessesofdifferentmethods
+3.2.2 survival rate 指标上的实验结果与分析
+图4
+展示了不同求解方法在组合拍卖和物品放置两类数据集上的 survival rate 随时间变化的趋势。从组合拍卖数据集的结果可以看出，作为基础求解器，Gurobi和SCIP的生存率随时间的增长呈现各自的基线特性。值得注意的是，在结合PaS或SHARP策略后，两者的初期生存率均获得了改善，曲线均呈现比基线更陡峭的上升趋势，这表明神经网络方法能有效加速求解过程。特别是SHARP+Gurobi的组合在中期时间段展现出较高的 survival rate，有效突破了Gurobi在复杂约束问题中的计算瓶颈。SHARP+SCIP的后期表现则趋于稳定，说明该策略可能通过优化搜索空间提升了SCIP的收敛效率。
+图
+4
+不同方法求解过程中的平均survival rate 随时间变化曲线
+Fig.
+4
+Curves of the average survival rate over time during the solving processes of different methods
+在物品放置数据集中，各求解器的 survival rate 指标变化与组合拍卖数据集存在明显差异。SCIP作为开源求解器，其基础性能与Gurobi的差距增大，这可能与物品放置问题的结构特性相关，例如稀疏约束或低维度变量更适合Gurobi的启发式算法。两类数据集的对比表明，求解器的性能优劣并非绝对，PaS和SHARP等策略的增益效果因问题类型而异，需结合实际场景需求进行权衡。
+3.2.3 primal integral 指标上的实验结果与分析
+为了从整体上量化并验证不同方法在整个求解时间内的综合性能，本文引入了 primal integral 指标。该指标通过计算 primal gap 曲线与时间轴所围成的面积，全面评估了算法在求解全程中寻找并维持高质量解的综合能力。一个更低的 primal integral 值，代表着求解器能够在整个运行时间内持续保持较小的 primal gap，即其综合表现更优。
+表4
+展示了各方法在该指标下的详细实验结果。
+表
+4
+primal integral 指标下的实验结果
+Tab.
+4
+Experimental results under the primal integral metric
+综合来看，primal integral 指标的定量结果为前文的图表分析提供了坚实的数据支撑。实验表明，SHARP 策略不仅能在求解的特定阶段降低 primal gap（如
+图3
+所示），更能从求解过程的整体性上带来显著的性能增益。尤其是在与高性能求解器 Gurobi 结合时，SHARP 能够稳定且大幅地提升其求解效率和解的质量。
+3.2.4 消融实验结果与分析
+为深入剖析本文所提出的SHARP框架中各关键组件的核心作用，本文进行了一系列实验。本文首先通过消融实验来验证SKEGAT模块的性能优势，随后通过参数敏感性分析来探究置信阈值、反悔系数等超参数对模型性能的影响。
+为准确定量评估SKEGAT模块在整个求解框架中的贡献，本文设计了如下消融实验。实验以集成了SKEGAT的完整模型（后文称 SHARP+SKEGAT）作为基准。作为对照，本文将其中的神经网络模块分别替换为两种主流的图神经网络：GCN和GAT，由此构建了SHARP+GCN和SHARP+GAT两个变体模型。为确保比较的公平性，所有实验均在完全相同的软硬件环境下进行。
+实验结果如
+图5
+所示，该图记录了不同模型在求解过程中平均primal gap随时间演化的曲线。从图中可以清晰地观察到，本文提出的完整模型 SHARP+SKEGAT 在整个求解周期内，其primal gap始终显著低于所有对比方法，展现出最优的求解效率与求解质量。与之形成鲜明对比的是，当核心模块被替换为GAT或GCN后，模型的primal gap均出现了显著上升。这一结果充分表明，SKEGAT 模块在提升 SHARP 框架整体性能方面发挥了关键作用。
+图
+5
+不同图神经网络求解过程中的平均 primal gap 随时间变化曲线（低为优）
+Fig.
+5
+Curves of the average primal gap over time during the solving processes of different graph neural networks (the lower, the better)
+为了深入探究SHARP框架的参数敏感性，本文针对置信阈值及反悔系数两个参数对实验结果的影响进行了分析。本文采用 primal integral 指标作为核心评估指标，并采用 SCIP 作为后置求解器。在该指标下，数值越低代表模型性能越优。实验结果如
+表5
+和
+表6
+所示。
+表
+5
+不同置信阈值对模型性能的影响
+Tab.
+5
+Effect of different confidence thresholds on model performance
+如
+表5
+所示，置信阈值
+λ
+的取值对SHARP框架的性能有显著影响。从表中数据可以看出，primal integral指标随置信阈值
+λ
+的变化呈现显著的“U型”趋势。当
+λ
+从0.90提升至0.95时，模型性能随之优化，primal integral指标从6.79降至1.05。这表明适度提高置信门槛有助于过滤不确定性较高的变量，从而提升决策质量。然而，当阈值继续增至0.99时，性能发生恶化，指标升至2.31。这说明过于严苛的置信阈值会导致固定的变量数量不足，反而使得剩余的解空间过于庞大，从而增加了求解的复杂度。
+表
+6
+不同反悔系数对模型性能的影响
+Tab.
+6
+Effect of different regret coefficients on model performance
+同样地，反悔系数
+α
+的敏感性分析也揭示了类似的规律。如
+表6
+所示，当该系数从0.02增至0.05时，模型性能达到最优状态。此现象证明，一个恰当的反悔系数允许算法在搜索过程中，基于已有的高质量解，策略性地调整部分已固定的变量，从而在探索与利用之间取得平衡，最终引导至更优解。然而，若反悔系数过大（例如增至0.10），算法的探索行为将过于激进，导致解空间剧烈变化，增大了求解的不稳定性与难度，最终导致性能下降。
+3.2.5 与现有先进方法的实验对比与分析
+为进一步验证 SHARP 方法的性能优势，本文将其与先进的 Predict-and-Search 方法 ConPaS
+[
+17
+]
+进行了性能对比。ConPaS 方法由Huang等
+[
+17
+]
+提出，该方法在 Han 等
+[
+20
+]
+的工作基础上，创新性地引入了对比学习训练机制。由于原作者未提供开源实现，本文依据其论文描述对 ConPaS 进行了复现。在复现过程中，本文采用不可行解作为其对比学习的负样本，并设定超参数
+β
+=10。
+本文在标准组合拍卖问题数据集上对两种方法进行了评估。
+图6
+展示了 SHARP 与复现的 ConPaS 在求解过程中平均 primal gap 的变化曲线。从图中可以清晰地观察到，在求解前期，SHARP 方法的 primal gap 曲线快速下降，低于 ConPaS，这表明 SHARP 能在更短的时间内获得高质量的解。尽管在求解后期，SHARP 的收敛速度略缓于 ConPaS，但最终仍能在相近的时间内收敛至最优解。
+图
+6
+SHARP与 ConPaS方法在求解过程中的平均 primalgap对比曲线
+Fig.
+6
+Comparisonofaverageprimalgapcurvesfor SHARPandConPaSduringthesolvingprocess
+为了进行更全面的量化比较，本文引入了 primal integral 指标，该指标综合评估了求解过程的整体效率。如
+表7
+所示，在 Gurobi 单独求解的基础上，ConPaS 的引入将 primal integral 从 0.33 降至 0.31，而 SHARP 则进一步将其降低到 0.30。
+表
+7
+不同方法在 primal integral 指标上的性能对比
+Tab.
+7
+Performance comparison of different methods on the primal integral
+实验结果表明，SHARP 方法在求解效率上相较于先进的 ConPaS 方法具有明显优势。具体而言，SHARP 不仅能在求解初期更快地获得高质量解，其综合求解效率（以 primal integral 衡量）也超越了 ConPaS 和基准求解器 Gurobi。这充分证明了 SHARP 方法在加速组合优化问题求解方面的有效性和先进性。
+4 结论
+为应对大规模MILP的求解挑战，本文提出了SHARP框架。该框架通过两大核心创新系统性地提升了求解性能：一是融合EGAT与Sinkhorn归一化，以深度挖掘约束信息，增强问题表征能力；二是设计自适应反悔贪心搜索算法，通过引入动态修正机制，显著提升了解的质量与泛化性。
+实验结果有力证明了SHARP的优越性，其在多个标准数据集上的性能相较于Gurobi等传统求解器及现有最优机器学习方法，分别实现了高达24.88%和17.19%的提升。尽管 SHARP 在公开基准测试中表现优异，但其在处理大规模、多样化的工业应用时仍面临泛化能力的挑战，主要体现为对复杂数据类型和场景的适应性不足。
+未来的工作将致力于两个核心方向：一方面，通过模型轻量化与参数自适应优化，降低框架对计算资源的依赖；另一方面，也是更关键的，将 SHARP 框架拓展至供应链优化、生产调度等更为复杂的大规模真实工业场景中，旨在检验并拓宽其在现实世界问题中的应用边界与价值。
+图
+1
+混合整数线性规划问题的二部图表示
+Fig.
+1
+Bipartite graph representation of MILP
+下载:
+全尺寸图片
+图
+2
+SHARP整体框架
+Fig.
+2
+The overall framework of SHARP
+下载:
+全尺寸图片
+图
+3
+不同方法求解过程中的平均 primalgap 随时间变化曲线
+Fig.
+3
+Curvesoftheaverageprimalgapovertime duringthesolvingprocessesofdifferentmethods
+下载:
+全尺寸图片
+图
+4
+不同方法求解过程中的平均survival rate 随时间变化曲线
+Fig.
+4
+Curves of the average survival rate over time during the solving processes of different methods
+下载:
+全尺寸图片
+图
+5
+不同图神经网络求解过程中的平均 primal gap 随时间变化曲线（低为优）
+Fig.
+5
+Curves of the average primal gap over time during the solving processes of different graph neural networks (the lower, the better)
+下载:
+全尺寸图片
+图
+6
+SHARP与 ConPaS方法在求解过程中的平均 primalgap对比曲线
+Fig.
+6
+Comparisonofaverageprimalgapcurvesfor SHARPandConPaSduringthesolvingprocess
+下载:
+全尺寸图片
+表
+1
+标准数据集的最大问题规模
+Tab.
+1
+Maximum problem size of the datasets
+下载:
+全尺寸图片
+表
+2
+SHARP 框架具体参数
+Tab.
+2
+Specific parameters of the SHARP
+下载:
+全尺寸图片
+表
+3
+predict-and-search 框架具体参数
+Tab.
+3
+Specific parameters of the predict-and-search
+下载:
+全尺寸图片
+表
+4
+primal integral 指标下的实验结果
+Tab.
+4
+Experimental results under the primal integral metric
+下载:
+全尺寸图片
+表
+5
+不同置信阈值对模型性能的影响
+Tab.
+5
+Effect of different confidence thresholds on model performance
+下载:
+全尺寸图片
+表
+6
+不同反悔系数对模型性能的影响
+Tab.
+6
+Effect of different regret coefficients on model performance
+下载:
+全尺寸图片
+表
+7
+不同方法在 primal integral 指标上的性能对比
+Tab.
+7
+Performance comparison of different methods on the primal integral
+下载:
+全尺寸图片
+图
+1
+混合整数线性规划问题的二部图表示
+Fig.
+1
+Bipartite graph representation of MILP
+图
+2
+SHARP整体框架
+Fig.
+2
+The overall framework of SHARP
+图
+3
+不同方法求解过程中的平均 primalgap 随时间变化曲线
+Fig.
+3
+Curvesoftheaverageprimalgapovertime duringthesolvingprocessesofdifferentmethods
+图
+4
+不同方法求解过程中的平均survival rate 随时间变化曲线
+Fig.
+4
+Curves of the average survival rate over time during the solving processes of different methods
+图
+5
+不同图神经网络求解过程中的平均 primal gap 随时间变化曲线（低为优）
+Fig.
+5
+Curves of the average primal gap over time during the solving processes of different graph neural networks (the lower, the better)
+图
+6
+SHARP与 ConPaS方法在求解过程中的平均 primalgap对比曲线
+Fig.
+6
+Comparisonofaverageprimalgapcurvesfor SHARPandConPaSduringthesolvingprocess
+表
+1
+标准数据集的最大问题规模
+Tab.
+1
+Maximum problem size of the datasets
+表
+2
+SHARP 框架具体参数
+Tab.
+2
+Specific parameters of the SHARP
+表
+3
+predict-and-search 框架具体参数
+Tab.
+3
+Specific parameters of the predict-and-search
+表
+4
+primal integral 指标下的实验结果
+Tab.
+4
+Experimental results under the primal integral metric
+表
+5
+不同置信阈值对模型性能的影响
+Tab.
+5
+Effect of different confidence thresholds on model performance
+表
+6
+不同反悔系数对模型性能的影响
+Tab.
+6
+Effect of different regret coefficients on model performance
+表
+7
+不同方法在 primal integral 指标上的性能对比
+Tab.
+7
+Performance comparison of different methods on the primal integral
+[1]
+Pochet Y, Wolsey L A. Production planning by mixed integer programming[M]. New York: Springer, 2006.
+[2]
+Sawik T. Scheduling in supply chains using mixed integer programming[M]. Hoboken: John Wiley &amp;amp; Sons, Inc., 2011.
+[3]
+Watson J P, Woodruff D L. Progressive hedging innovations for a class of stochastic mixed-integer resource allocation problems[J]. Computational Management Science, 2011, 8: 355-370.
+[4]
+高倩, 杨知方, 李文沅. 电力系统混合整数线性规划问题的运筹决策关键技术综述与展望[J]. 电工技术学报, 2024, 39(11): 3291-3307.
+Gao Qian, Yang Zhifang, Li Wenyuan. Prospect on operations research for mixed-integer linear programming problems in power systems[J]. Transactions of China Electrotechnical Society, 2024, 39(11): 3291-3307.(in Chinese)
+[5]
+Land A H, Doig A G. An automatic method for solving discrete programming problems[M]//Jünger M, Liebling T M, Naddef D, et al.50 years of integer programming 1958—2008. Berlin: Springer, 2010: 105-132.
+[6]
+Gilmore P C, Gomory R E. A linear programming approach to the cutting-stock problem[J]. Operations Research, 1961, 9(6): 771-925.
+[7]
+Zhang Jiayi, Liu Chang, Li Xijun, et al. A survey for solving mixed integer programming via machine learning[J]. Neurocomputing, 2023, 519: 205-217.
+[8]
+胡振震, 袁唯淋, 罗俊仁, 等. 面向多最优解组合优化问题的决策求解算法[J]. 国防科技大学学报, 2022, 44(3): 31-40.
+Hu Zhenzhen, Yuan Weilin, Luo Junren, et al. Decision solving algorithm for multiple optimal solution combinatorial optimization problem[J]. Journal of National University of Defense Technology, 2022, 44(3): 31-40.(in Chinese)
+[9]
+Gasse M, Chételat D, Ferroni N, et al. Exact combinatorial optimization with graph convolutional neural networks[C]//The 33rd International Conference on Neural Information Processing Systems, 2019: 15580-15592.
+[10]
+Khalil E B, Morris C, Lodi A. MIP-GNN: a data-driven framework for guiding combinatorial solvers[J]. Proceedings of the AAAI Conference on Artificial Intelligence, 2022, 36(9): 10219-10227.
+[11]
+He H, Daumé H, Eisner J. Learning to search in branch and bound algorithms[C]//The 28th International Conference on Neural Information Processing Systems, 2014: 3293-3301.
+[12]
+Song Jialin, Lanka R, Yue Yisong, et al. A general large neighborhood search framework for solving integer linear programs[C]//The 34th International Conference on Neural Information Processing Systems, 2020: 20012-20023.
+[13]
+Huang Zeren, Wang Kerong, Liu Furui, et al. Learning to select cuts for efficient mixed-integer programming[J]. Pattern Recognition, 2022, 123: 108353.
+[14]
+Ling Haotian, Wang Zhihai, Wang Jie. Learning to stop cut generation for efficient mixed-integer linear programming[J]. Proceedings of the AAAI Conference on Artificial Intelligence, 2024, 38(18): 20759-20767.
+[15]
+Nair V, Bartunov S, Gimeno F, et al. Solving mixed integer programs using neural networks[PP/OL].arXiv(2020-12-23)[2025-03-13].https: //arxiv.org/abs/2012.13349.
+[16]
+Zeng Hao, Wang Jiaqi, Das A, et al. Effective generation of feasible solutions for integer programming via guided diffusion[C]//The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2024: 4107-4118.
+[17]
+Huang Taoan, FERBER A, Zharmagambetov A, et al. Contrastive predict-and-search for mixed integer linear programs[C]//The 41st International Conference on Machine Learning, 2024: 19757-19771.
+[18]
+Sander M E, Ablin P, Blondel M, et al. Sinkformers: transformers with doubly stochastic attention[C]//The 25th International Conference on Artificial Intelligence and Statistics, 2022: 3515-3530.
+[19]
+Yoon T. Confidence threshold neural diving[PP/OL].arXiv(2022-03-15)[2025-03-14].https: //arxiv.org/abs/2202.07506.
+[20]
+Han Qingyu, Yang Linxin, Chen Qian, et al. A GNN-guided predict-and-search framework for mixed-integer linear programming[C]//The Eleventh International Conference on Learning Representations, 2023: 1-15.
+[21]
+Gong Liyu, Cheng Qiang. Exploiting edge features for graph neural networks[C]//The 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR), 2019: 9203-9211.
+[22]
+Sinkhorn R D, Knopp P J. Concerning nonnegative matrices and doubly stochastic matrices[J]. Pacific Journal of Mathematics, 1967, 21(2): 343-348.
+[23]
+Dakin R J. A tree-search algorithm for mixed integer programming problems[J]. The Computer Journal, 1965, 8(3): 250-255.
+[24]
+Kipf T N, Welling M. Semi-supervised classification with graph convolutional networks[PP/OL].arXiv(2016-09-09)[2025-03-30].https: //arxiv.org/abs/1609.02907.
+[25]
+Veličković P, Cucurull G, Casanova A, et al. Graph attention networks[PP/OL].arXiv(2017-10-30)[2025-03-30].https: //arxiv.org/abs/1710.10903.
+[26]
+Wang Runzhong, Yan Junchi, Yang Xiaokang. Learning combinatorial embedding networks for deep graph matching[C]//The 2019 IEEE/CVF International Conference on Computer Vision(ICCV), 2019: 3056-3065.
+[27]
+Genevay A, Peyré G, Cuturi M. Learning generative models with Sinkhorn divergences[C]//The Twenty-First International Conference on Artificial Intelligence and Statistics, 2018: 1608-1617.
+[28]
+Ye Huigen, Xu Hua, Wang Hongyan. Light-MILPopt: solving large-scale mixed integer linear programs with lightweight optimizer and small-scale training dataset[C]//The Twelfth International Conference on Learning Representations, 2024: 1-24.
+[29]
+Berthold T. Primal heuristics for mixed integer programs[D]. Berlin: Technische Universität Berlin, 2006.
+[30]
+Sonnerat N, Wang Pengming, Ktena I, et al. Learning a large neighborhood search algorithm for mixed integer programs[PP/OL].arXiv(2021-07-21)[2025-03-31].https: //arxiv.org/abs/2107.10201.
+[31]
+Achterberg T, Berthold T, Hendel G. Rounding and propagation heuristics for mixed integer programming[M]//Klatte D, Lüthi H J, Schmedders K. Operations research proceedings 2011. Berlin, Heidelberg: Springer, 2012: 71-76.
+[32]
+ACHTERBERG T. SCIP: solving constraint integer programs[J]. Mathematical Programming Computation, 2009, 1(1): 1-41.
+PDF下载
+XML下载
+导出引用
+引用提醒
+图(6)
+/
+表(7)
+手机扫码阅读
+引用本文
+邓宇凡, 宋智琳, 蒲天乐, 等. 嵌入图神经网络的混合整数线性规划求解器增强技术[J]. 国防科技大学学报,2026,48(4):149-159.
+复制
+Deng Yufan, Song Zhilin, Pu Tianle, et al. GNN-guided approach to enhancing mixed-integer linear programming solvers[J]. Journal of National University of Defense Technology, 2026, 48(4)： 149-159.
+Copy
+计量
+文章访问量:
+204
+HTML全文浏览量:
+186
+PDF下载量:
+513
+被引次数:
+0
+图
+1
+混合整数线性规划问题的二部图表示
+Fig.
+1
+Bipartite graph representation of MILP
+图
+2
+SHARP整体框架
+Fig.
+2
+The overall framework of SHARP
+图
+3
+不同方法求解过程中的平均 primalgap 随时间变化曲线
+Fig.
+3
+Curvesoftheaverageprimalgapovertime duringthesolvingprocessesofdifferentmethods
+图
+4
+不同方法求解过程中的平均survival rate 随时间变化曲线
+Fig.
+4
+Curves of the average survival rate over time during the solving processes of different methods
+图
+5
+不同图神经网络求解过程中的平均 primal gap 随时间变化曲线（低为优）
+Fig.
+5
+Curves of the average primal gap over time during the solving processes of different graph neural networks (the lower, the better)
+图
+6
+SHARP与 ConPaS方法在求解过程中的平均 primalgap对比曲线
+Fig.
+6
+Comparisonofaverageprimalgapcurvesfor SHARPandConPaSduringthesolvingprocess
+表
+1
+标准数据集的最大问题规模
+Tab.
+1
+Maximum problem size of the datasets
+表
+2
+SHARP 框架具体参数
+Tab.
+2
+Specific parameters of the SHARP
+表
+3
+predict-and-search 框架具体参数
+Tab.
+3
+Specific parameters of the predict-and-search
+表
+4
+primal integral 指标下的实验结果
+Tab.
+4
+Experimental results under the primal integral metric
+表
+5
+不同置信阈值对模型性能的影响
+Tab.
+5
+Effect of different confidence thresholds on model performance
+表
+6
+不同反悔系数对模型性能的影响
+Tab.
+6
+Effect of different regret coefficients on model performance
+表
+7
+不同方法在 primal integral 指标上的性能对比
+Tab.
+7
+Performance comparison of different methods on the primal integral
+Pochet Y, Wolsey L A. Production planning by mixed integer programming[M]. New York: Springer,2006.
+Sawik T. Scheduling in supply chains using mixed integer programming[M]. Hoboken: John Wiley &amp;amp; Sons, Inc.,2011.
+Watson J P, Woodruff D L. Progressive hedging innovations for a class of stochastic mixed-integer resource allocation problems[J]. Computational Management Science,2011,8:355-370.
+高倩, 杨知方, 李文沅. 电力系统混合整数线性规划问题的运筹决策关键技术综述与展望[J]. 电工技术学报,2024,39(11):3291-3307.
+Gao Qian, Yang Zhifang, Li Wenyuan. Prospect on operations research for mixed-integer linear programming problems in power systems[J]. Transactions of China Electrotechnical Society,2024,39(11):3291-3307.(in Chinese)
+Land A H, Doig A G. An automatic method for solving discrete programming problems[M]//Jünger M, Liebling T M, Naddef D,et al.50 years of integer programming 1958—2008. Berlin: Springer,2010:105-132.
+Gilmore P C, Gomory R E. A linear programming approach to the cutting-stock problem[J]. Operations Research,1961,9(6):771-925.
+Zhang Jiayi, Liu Chang, Li Xijun,et al. A survey for solving mixed integer programming via machine learning[J]. Neurocomputing,2023,519:205-217.
+胡振震, 袁唯淋, 罗俊仁, 等. 面向多最优解组合优化问题的决策求解算法[J]. 国防科技大学学报,2022,44(3):31-40.
+Hu Zhenzhen, Yuan Weilin, Luo Junren,et al. Decision solving algorithm for multiple optimal solution combinatorial optimization problem[J]. Journal of National University of Defense Technology,2022,44(3):31-40.(in Chinese)
+Gasse M, Chételat D, Ferroni N,et al. Exact combinatorial optimization with graph convolutional neural networks[C]//The 33rd International Conference on Neural Information Processing Systems,2019:15580-15592.
+Khalil E B, Morris C, Lodi A. MIP-GNN:a data-driven framework for guiding combinatorial solvers[J]. Proceedings of the AAAI Conference on Artificial Intelligence,2022,36(9):10219-10227.
+He H, Daumé H, Eisner J. Learning to search in branch and bound algorithms[C]//The 28th International Conference on Neural Information Processing Systems,2014:3293-3301.
+Song Jialin, Lanka R, Yue Yisong,et al. A general large neighborhood search framework for solving integer linear programs[C]//The 34th International Conference on Neural Information Processing Systems,2020:20012-20023.
+Huang Zeren, Wang Kerong, Liu Furui,et al. Learning to select cuts for efficient mixed-integer programming[J]. Pattern Recognition,2022,123:108353.
+Ling Haotian, Wang Zhihai, Wang Jie. Learning to stop cut generation for efficient mixed-integer linear programming[J]. Proceedings of the AAAI Conference on Artificial Intelligence,2024,38(18):20759-20767.
+Nair V, Bartunov S, Gimeno F,et al. Solving mixed integer programs using neural networks[PP/OL].arXiv(2020-12-23)[2025-03-13].https://arxiv.org/abs/2012.13349.
+Zeng Hao, Wang Jiaqi, Das A,et al. Effective generation of feasible solutions for integer programming via guided diffusion[C]//The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining,2024:4107-4118.
+Huang Taoan, FERBER A, Zharmagambetov A,et al. Contrastive predict-and-search for mixed integer linear programs[C]//The 41st International Conference on Machine Learning,2024:19757-19771.
+Sander M E, Ablin P, Blondel M,et al. Sinkformers:transformers with doubly stochastic attention[C]//The 25th International Conference on Artificial Intelligence and Statistics,2022:3515-3530.
+Yoon T. Confidence threshold neural diving[PP/OL].arXiv(2022-03-15)[2025-03-14].https://arxiv.org/abs/2202.07506.
+Han Qingyu, Yang Linxin, Chen Qian,et al. A GNN-guided predict-and-search framework for mixed-integer linear programming[C]//The Eleventh International Conference on Learning Representations,2023:1-15.
+Gong Liyu, Cheng Qiang. Exploiting edge features for graph neural networks[C]//The 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR),2019:9203-9211.
+Sinkhorn R D, Knopp P J. Concerning nonnegative matrices and doubly stochastic matrices[J]. Pacific Journal of Mathematics,1967,21(2):343-348.
+Dakin R J. A tree-search algorithm for mixed integer programming problems[J]. The Computer Journal,1965,8(3):250-255.
+Kipf T N, Welling M. Semi-supervised classification with graph convolutional networks[PP/OL].arXiv(2016-09-09)[2025-03-30].https://arxiv.org/abs/1609.02907.
+Veličković P, Cucurull G, Casanova A,et al. Graph attention networks[PP/OL].arXiv(2017-10-30)[2025-03-30].https://arxiv.org/abs/1710.10903.
+Wang Runzhong, Yan Junchi, Yang Xiaokang. Learning combinatorial embedding networks for deep graph matching[C]//The 2019 IEEE/CVF International Conference on Computer Vision(ICCV),2019:3056-3065.
+Genevay A, Peyré G, Cuturi M. Learning generative models with Sinkhorn divergences[C]//The Twenty-First International Conference on Artificial Intelligence and Statistics,2018:1608-1617.
+Ye Huigen, Xu Hua, Wang Hongyan. Light-MILPopt:solving large-scale mixed integer linear programs with lightweight optimizer and small-scale training dataset[C]//The Twelfth International Conference on Learning Representations,2024:1-24.
+Berthold T. Primal heuristics for mixed integer programs[D]. Berlin: Technische Universität Berlin,2006.
+Sonnerat N, Wang Pengming, Ktena I,et al. Learning a large neighborhood search algorithm for mixed integer programs[PP/OL].arXiv(2021-07-21)[2025-03-31].https://arxiv.org/abs/2107.10201.
+Achterberg T, Berthold T, Hendel G. Rounding and propagation heuristics for mixed integer programming[M]//Klatte D, Lüthi H J, Schmedders K. Operations research proceedings 2011. Berlin, Heidelberg: Springer,2012:71-76.
+ACHTERBERG T. SCIP:solving constraint integer programs[J]. Mathematical Programming Computation,2009,1(1):1-41.
+作者投稿
+投稿指南
+联系我们
+公众号
+返回顶部
+扫码关注
+官方微信
+您是今天第
+4786
+位访客
+总访问量：
+296172150
 电话：
 0731-87028030
 邮箱:journal@nudt.edu.cn
@@ -3133,9 +5932,9 @@ LI Zhigang, QIU Zhinan, WANG Jiachun, et al. Study of high-power microwave prote
 Copy
 计量
 文章访问量:
-29308
+29311
 HTML全文浏览量:
-3963
+3965
 PDF下载量:
 9994
 被引次数:
@@ -3210,10 +6009,1539 @@ HE W, LIU X H, XIAN R C,et al. Kinetics characteristics and bremsstrahlung of ar
 扫码关注
 官方微信
 您是今天第
-2370
+4786
 位访客
 总访问量：
-295170182
+296172150
+电话：
+0731-87028030
+邮箱:journal@nudt.edu.cn
+地址：湖南省长沙市开福区德雅路109号
+邮政编码：410073
+备案号 
+：
+湘ICP备09019258号
+技术支持：北京勤云科技发展有限公司&lt;/pre&gt;</content:encoded></item><item><title>预训练和微调:图组合优化问题的统一求解方法</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260412?st=search&amp;tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260412?st=search&amp;tab=abstract</guid><description>预训练和微调:图组合优化问题的统一求解方法
+EI•CA•INSPEC•JST•SCOPUS
+中文核心期刊•CSCD•WJCI
+首页
+期刊介绍
+投稿指南
+来稿须知
+稿件要求
+录用修订
+稿件流程
+相关下载
+编委会
+出版声明
+出版道德声明
+出版伦理声明
+开放获取声明
+联系我们
+期刊订阅
+纸刊订阅
+E-mail订阅
+Rss
+AI检索
+Deepseek
+豆包
+文心一言
+通义
+讯飞星火
+Kimi
+English
+引用本文:
+蒲天乐, 张柄旭, 曾利, 等. 预训练和微调:图组合优化问题的统一求解方法[J]. 国防科技大学学报, 2026, 48(4): 128-138.
+Citation:
+Pu Tianle, Zhang Bingxu, Zeng Li, et al. Pre-training and fine-tuning: a unified approach for solving graph combinatorial optimization problems [J]. Journal of National University of Defense Technology, 2026, 48(4)： 128-138.
+预训练和微调：图组合优化问题的统一求解方法
+doi:
+10.11887/j.issn.1001-2486.25040026
+蒲天乐
+1
+角色:
+第一作者
+机构:
+1. 国防科技大学 系统工程学院, 湖南 长沙 410073
+邮箱:
+putl22@nudt.edu.cn
+简介:
+蒲天乐（2001—），男，安徽宿州人，博士研究生，E-mail: putl22@nudt.edu.cn
+，
+ 张柄旭
+1
+机构:
+1. 国防科技大学 系统工程学院, 湖南 长沙 410073
+，
+ 曾利
+1,2
+机构:
+1. 国防科技大学 系统工程学院, 湖南 长沙 410073
+2. 四川外国语大学 国际工商管理学院，重庆 400031
+，
+ 陈超
+1
+机构:
+1. 国防科技大学 系统工程学院, 湖南 长沙 410073
+，
+ 程光权
+1
+机构:
+1. 国防科技大学 系统工程学院, 湖南 长沙 410073
+，
+ 胡星辰
+1
+机构:
+1. 国防科技大学 系统工程学院, 湖南 长沙 410073
+，
+ 吕欣
+1
+机构:
+1. 国防科技大学 系统工程学院, 湖南 长沙 410073
+，
+ 范长俊
+1
+角色:
+通信作者
+机构:
+1. 国防科技大学 系统工程学院, 湖南 长沙 410073
+邮箱:
+fanchangjun@nudt.edu.cn
+简介:
+范长俊（1990—），男，安徽天长人，副教授，博士，博士生导师，E-mail: fanchangjun@nudt.edu.cn
+1. 国防科技大学 系统工程学院, 湖南 长沙 410073
+2. 四川外国语大学 国际工商管理学院，重庆 400031
+基金项目:
+国家自然科学基金创新研究群体资助项目（72421002）
+ ；
+ 国家自然科学基金青年基金资助项目（62206303）
+ ；
+ 湖南省科技创新计划资助项目（2023RC3009）
+ ；
+ 重庆市教委科学技术研究重点资助项目（KJZD-K202200904）
+ ；
+ 国防科技大学基石基金资助项目（JS24-05）
+详细信息
+收起信息
+作者简介
+蒲天乐（2001—），男，安徽宿州人，博士研究生，E-mail: putl22@nudt.edu.cn
+通信作者
+范长俊（1990—），男，安徽天长人，副教授，博士，博士生导师，E-mail: fanchangjun@n</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260412?st=search&amp;amp;tab=abstract&lt;/p&gt;&lt;pre&gt;预训练和微调:图组合优化问题的统一求解方法
+EI•CA•INSPEC•JST•SCOPUS
+中文核心期刊•CSCD•WJCI
+首页
+期刊介绍
+投稿指南
+来稿须知
+稿件要求
+录用修订
+稿件流程
+相关下载
+编委会
+出版声明
+出版道德声明
+出版伦理声明
+开放获取声明
+联系我们
+期刊订阅
+纸刊订阅
+E-mail订阅
+Rss
+AI检索
+Deepseek
+豆包
+文心一言
+通义
+讯飞星火
+Kimi
+English
+引用本文:
+蒲天乐, 张柄旭, 曾利, 等. 预训练和微调:图组合优化问题的统一求解方法[J]. 国防科技大学学报, 2026, 48(4): 128-138.
+Citation:
+Pu Tianle, Zhang Bingxu, Zeng Li, et al. Pre-training and fine-tuning: a unified approach for solving graph combinatorial optimization problems [J]. Journal of National University of Defense Technology, 2026, 48(4)： 128-138.
+预训练和微调：图组合优化问题的统一求解方法
+doi:
+10.11887/j.issn.1001-2486.25040026
+蒲天乐
+1
+角色:
+第一作者
+机构:
+1. 国防科技大学 系统工程学院, 湖南 长沙 410073
+邮箱:
+putl22@nudt.edu.cn
+简介:
+蒲天乐（2001—），男，安徽宿州人，博士研究生，E-mail: putl22@nudt.edu.cn
+，
+ 张柄旭
+1
+机构:
+1. 国防科技大学 系统工程学院, 湖南 长沙 410073
+，
+ 曾利
+1,2
+机构:
+1. 国防科技大学 系统工程学院, 湖南 长沙 410073
+2. 四川外国语大学 国际工商管理学院，重庆 400031
+，
+ 陈超
+1
+机构:
+1. 国防科技大学 系统工程学院, 湖南 长沙 410073
+，
+ 程光权
+1
+机构:
+1. 国防科技大学 系统工程学院, 湖南 长沙 410073
+，
+ 胡星辰
+1
+机构:
+1. 国防科技大学 系统工程学院, 湖南 长沙 410073
+，
+ 吕欣
+1
+机构:
+1. 国防科技大学 系统工程学院, 湖南 长沙 410073
+，
+ 范长俊
+1
+角色:
+通信作者
+机构:
+1. 国防科技大学 系统工程学院, 湖南 长沙 410073
+邮箱:
+fanchangjun@nudt.edu.cn
+简介:
+范长俊（1990—），男，安徽天长人，副教授，博士，博士生导师，E-mail: fanchangjun@nudt.edu.cn
+1. 国防科技大学 系统工程学院, 湖南 长沙 410073
+2. 四川外国语大学 国际工商管理学院，重庆 400031
+基金项目:
+国家自然科学基金创新研究群体资助项目（72421002）
+ ；
+ 国家自然科学基金青年基金资助项目（62206303）
+ ；
+ 湖南省科技创新计划资助项目（2023RC3009）
+ ；
+ 重庆市教委科学技术研究重点资助项目（KJZD-K202200904）
+ ；
+ 国防科技大学基石基金资助项目（JS24-05）
+详细信息
+收起信息
+作者简介
+蒲天乐（2001—），男，安徽宿州人，博士研究生，E-mail: putl22@nudt.edu.cn
+通信作者
+范长俊（1990—），男，安徽天长人，副教授，博士，博士生导师，E-mail: fanchangjun@nudt.edu.cn
+中图分类号:
+TP18
+文献标志码:
+A
+文章编号:
+1001-2486(2026)04-128-11
+Pre-training and fine-tuning: a unified approach for solving graph combinatorial optimization problems
+Pu Tianle
+1
+Role:
+First Author
+Affiliation:
+1. College of System Engineering, National University of Defense Technology, Changsha 410073 , China
+Email:
+putl22@nudt.edu.cn
+，
+ Zhang Bingxu
+1
+Affiliation:
+1. College of System Engineering, National University of Defense Technology, Changsha 410073 , China
+，
+ Zeng Li
+1,2
+Affiliation:
+1. College of System Engineering, National University of Defense Technology, Changsha 410073 , China
+2. School of International Business and Management, Sichuan International Studies University, Chongqing 400031 , China
+，
+ Chen Chao
+1
+Affiliation:
+1. College of System Engineering, National University of Defense Technology, Changsha 410073 , China
+，
+ Cheng Guangquan
+1
+Affiliation:
+1. College of System Engineering, National University of Defense Technology, Changsha 410073 , China
+，
+ Hu Xingchen
+1
+Affiliation:
+1. College of System Engineering, National University of Defense Technology, Changsha 410073 , China
+，
+ Lü Xin
+1
+Affiliation:
+1. College of System Engineering, National University of Defense Technology, Changsha 410073 , China
+，
+ Fan Changjun
+1
+Role:
+Corresponding Author
+Affiliation:
+1. College of System Engineering, National University of Defense Technology, Changsha 410073 , China
+Email:
+fanchangjun@nudt.edu.cn
+1. College of System Engineering, National University of Defense Technology, Changsha 410073 , China
+2. School of International Business and Management, Sichuan International Studies University, Chongqing 400031 , China
+摘要
+HTML全文
+图(6)表(5)
+参考文献(26)
+相似文献
+出版信息
+访问统计
+资源附件
+摘要
+图组合优化问题因其非确定性多项式时间困难（non-deterministic polynomial-time hard, NP-hard）特性难以求解，传统精确算法与现有机器学习方法均存在局限。为此，本研究提出一种基于预训练-微调范式的统一求解框架，以增强模型在多种任务上的泛化能力与效率。该框架将不同问题规约至统一形式，构建一致表征空间；通过跨问题预训练学习共性知识；并借助多种微调策略适应不同测试分布。实验表明，所提方法在多个经典任务上均取得优越的泛化性能与稳定效率，为构建通用求解器提供了可行路径。
+关键词
+图组合优化问题
+/
+模型预训练
+/
+模型微调
+/
+统一求解
+Abstract
+Graph combinatorial optimization problems are challenging to solve due to their NP-hard (non-deterministic polynomial-time hard) nature, and both traditional exact algorithms and existing machine learning methods have limitations. To address this, a unified solving framework based on a pre-training and fine-tuning paradigm was proposed, aiming to enhance the model′s generalization capability and efficiency across various tasks. The framework reduced different problems to a unified form, constructing a consistent representation space, learning common knowledge through cross-problem pre-training, and adapting to different test distributions via multiple fine-tuning strategies. Experiments demonstrate that the proposed method achieves superior generalization performance and stable efficiency on multiple classical tasks, providing a viable path toward a general-purpose solver.
+Keywords
+graph combinatorial optimization problem
+/
+model pre-training
+/
+model fine-tuning
+/
+unified solving
+1 预备知识
+1.1 图组合优化问题
+1.2 二次无约束二元优化问题
+2 图组合优化问题统一求解方法
+2.1 整体描述
+2.2 QUBOFormer模型架构
+2.2.1 编码器设计
+2.2.2 解码器设计
+2.3 模型预训练与微调
+2.3.1 模型预训练
+2.3.2 模型微调
+3 实验分析
+3.1 实验设置
+3.1.1 数据集
+3.1.2 基线方法
+3.1.3 评价指标
+3.1.4 超参数设置
+3.2 模拟图结果分析
+3.2.1 微调前后GCOP-PREMA性能变化分析
+3.2.2 GCOP-PREMA与现有先进方法的性能对比分析
+3.3 真实图结果分析
+3.4 算法运行时间分析
+4 结论
+图组合优化问题（graph combinatorial optimization problem，GCOP）在现实世界中占据着至关重要的位置，广泛应用于工业制造
+[
+1
+]
+、物流运输
+[
+2
+]
+、金融投资
+[
+3
+]
+、航空航天
+[
+4
+]
+以及国防军事
+[
+5
+-
+6
+]
+等关键领域。过去数十年间，此类问题主要依赖于传统算法求解，这些算法往往面临求解效率与质量之间的权衡挑战。随着大数据时代的到来，GCOP呈现规模庞大、形式多样、变化迅速及不确定性增加的新趋势，进一步考验了传统算法的适用性。近年来，人工智能技术的发展为解决GCOP提供了新的视角，催生了一系列高效的机器学习算法。这些算法借助GPU加速计算，并通过数据驱动的方法揭示问题内在规律，逐渐成为解决GCOP的主要手段。然而，这类算法通常针对特定问题设计，难以跨领域应用，限制了其实际价值。
+最近，ChatGPT和DeepSeek等大语言模型的出现，展示了通用模型解决问题的巨大潜力。早期研究者
+[
+7
+-
+8
+]
+主要从理论层面探讨如何提升跨实例求解质量，但并未给出具体的求解器实现。与之形成对比的是， MVMoE
+[
+9
+]
+和 MTNCO
+[
+10
+]
+针对多种车辆路径问题及其变体开发了可泛化的求解框架。近期，MAB-MTL
+[
+11
+]
+、GCNCO
+[
+12
+]
+以及 GOAL
+[
+13
+]
+采用类似的“头部-编码器-解码器”架构，为不同的组合优化问题学习共享嵌入。然而，这些方法大多遵循强化学习范式，导致效率和可扩展性受限。除此之外，还有工作致力于构建组合优化问题的通用表示。例如 UniCO
+[
+14
+]
+通过矩阵编码将多种问题统一为旅行商问题，而UNCO
+[
+15
+]
+则借助大型语言模型表示出问题的“文本-属性”特征。迄今为止，具有强大表达能力的二次无约束二元优化（quadratic unconstrained binary optimization，QUBO）形式尚未被系统地用作跨任务学习的统一表示，这在开发通用神经组合优化求解器的研究中仍然是一片空白。
+尽管统一求解模型为GCOP带来了新的解决方案，但现有方法仍局限于理论框架内，且在分布外泛化方面存在局限。为此，本文提出了一种通过统一问题重构与模型架构来求解图组合优化问题（solving graph combinatorial optimization problems via unifying problem reformulation and model architecture，GCOP-PREMA）的新方法以克服上述难题。具体来说，GCOP-PREMA首先将不同类型的GCOP转化为QUBO问题，并通过深度学习模型对混合数据集进行预训练，然后根据具体应用场景调整模型参数，提高其泛化能力和实用性。
+1 预备知识
+1.1 图组合优化问题
+GCOP是离散优化领域的重要分支，其核心特征在于基于图模型的组合决策过程。这类问题的数学框架建立在图论基础上，决策变量与顶点或边直接关联，目标函数与约束条件均取决于图的几何特性。给定图
+G
+=（
+V
+，
+E
+），其中
+V
+为顶点集合，
+E
+为边集合，需在满足结构化约束的解集
+Γ
+（
+G
+）中，确定使目标函数
+f
+达到极值的决策变量配置。研究聚焦于四类基础性图优化问题。
+1）最小节点覆盖
+[
+16
+]
+（minimum vertex cover，MVC）：在图模型中选取数目最少的顶点组成集合，确保每条边至少有一个端点被包含其中，即所有边均被该集合覆盖。
+(1)
+式中，
+S
+为顶点子集或解的集合，|
+S
+|为集合
+S
+的基数（元素个数）。
+2）最大独立集
+[
+17
+]
+（maximum independent set，MIS）：构造图内规模最大的顶点子集，满足集合内任意两个顶点在图结构中不存在直接边连接，保持顶点间的非邻接性。
+(2)
+3）极大团
+[
+18
+]
+（maximum clique，MC）问题：寻找顶点数量最多的全连通子图，即子图中任意两顶点均有边直接相连，形成最大规模的完全连接结构。
+(3)
+4）最大割
+[
+19
+]
+（maximum cut，MaxCut）问题：将顶点集划分为两个互斥子集（
+S
+，
+V
+\
+S
+），使得连接这两个子集的所有边权值之和最大化，即跨分区边的总权重达到极值。
+m
+a
+x
+Σ
+(
+u
+,
+v
+)
+∈
+E
+∩
+(
+S
+×
+(
+V
+S
+)
+)
+w
+(
+u
+,
+v
+)
+(4)
+式中，
+w
+（
+u
+，
+v
+）为边（
+u
+，
+v
+）的权重。
+1.2 二次无约束二元优化问题
+QUBO问题是典型的离散优化模型，其数学表达仅包含二次多项式目标函数且不包含显式约束项。其标准形式定义为：
+f
+(
+x
+)
+=
+Σ
+i
+=
+1
+n
+a
+i
+x
+i
++
+Σ
+i
+=
+1
+n
+Σ
+j
+=
+i
++
+1
+n
+b
+i
+,
+j
+x
+i
+x
+j
+(5)
+式中，
+x
+i
+∈{0，1}为二元决策变量。该模型可等价表示为矩阵运算形式：
+m
+i
+n
+f
+(
+x
+)
+=
+x
+T
+Q
+x
+(6)
+式中，
+Q
+为对称系数矩阵，其对角线元素
+a
+i
+对应单变量线性项系数，非对角线元素
+b
+i
+，
+j
+反映变量间的二次耦合强度。
+QUBO框架与图论存在深度关联：通过将图组合优化问题的目标函数和约束条件映射到QUBO模型，可构建对应的权重图表示，如
+图1
+所示。在此权重图中，顶点表示二元变量
+x
+i
+，顶点权重对应
+a
+i
+值，边连接反映变量间的二次交互关系，边权重即为
+b
+i
+，
+j
+的数值。
+图
+1
+QUBO图的示意图
+Fig.
+1
+Schematic representation of the QUBO graph
+对于含约束条件的原问题，通常采用惩罚函数法将其转化为QUBO形式。具体而言，将约束条件
+C
+（
+x
+）=0改写为二次惩罚项
+P
+·
+C
+2
+（
+x
+）并叠加至目标函数，其中
+P
+为足够大的正惩罚系数以保证满足约束。典型约束条件的QUBO转换规则可参见
+表1
+列出的标准化处理方法。
+表
+1
+常见约束的 QUBO 转换
+Tab.
+1
+QUBO conversion of common constraints
+表2
+展示了MVC、MIS、MC和MaxCut的QUBO形式。
+表
+2
+经典图组合优化问题的QUBO形式
+Tab.
+2
+QUBO form of the classical graph combinatorial optimization problem
+2 图组合优化问题统一求解方法
+GCOP-PREMA旨在通过在统一的QUBO问题空间中预训练模型，并利用多样化的微调技术来解决多种图组合优化问题。在预训练阶段，GCOP-PREMA使用了两种类型的数据集：一种是从多种不同的图组合优化问题转换而来的QUBO图；另一种则是基于随机图模型直接生成的QUBO图。这种混合数据集的方式有助于增强模型的泛化能力。
+完成预训练后，GCOP-PREMA会加载该预训练模型，并根据具体应用场景的需求选择性地冻结部分参数。此外，GCOP-PREMA设计了五种微调策略，每种策略针对模型的不同参数部分进行调整，以确保最佳性能表现。面对具体的下游任务时，GCOP-PREMA将加载相应的微调数据集，针对性地调整模型参数，以更好地满足下游任务要求。
+2.1 整体描述
+如
+图2
+所示，GCOP-PREMA的统一架构主要包含预训练和微调两个阶段。在预训练阶段，GCOP-PREMA利用大量的QUBO图来学习最优变量分配策略，即训练一个通用的QUBO神经求解器，其网络架构包含消息传递神经网络（message passing neural network，MPNN）层、转换器（Transformer）层和解码器（Decoder）层。此阶段的核心目标是使模型能够有效地提取和理解QUBO问题的一般结构特性。经过预训练，预训练模型不仅能掌握解决多种图组合优化问题所需的共同特征，还能增强对新问题的学习能力。
+进入微调阶段时，已预训练好的模型被加载使用，并根据需要冻结部分参数，确保学到的通用特征不被修改。接着，依据具体的下游任务需求，针对性地调整剩余参数。这一过程不仅保留了预训练阶段获得的广泛适用的知识，还通过少量标记数据进一步优化模型，使其更加贴合特定图组合优化问题的需求。通过这种两阶段的方法，GCOP-PREMA不仅能够在预训练过程中捕捉到QUBO问题的基本特征，还能够在微调阶段有效地将这些特征应用到具体的组合优化任务中，从而显著提升模型的泛化能力和求解效率。这种方法代表了一种灵活且强大的解决方案，适用于广泛的图组合优化挑战。
+2.2 QUBOFormer模型架构
+QUBO图蕴含了丰富的目标函数和约束信息，其中节点代表决策变量，边则表示变量间的相互约束。因此，准确提取并利用QUBO图中的节点特征和边特征对于问题求解至关重要。机器学习方法需要深入挖掘这些图结构及其特征中隐含的模式。尤其在分布外泛化的情况下，对QUBO图特性的精确捕捉显得尤为重要。基于QUBO图的独特结构特点以及预训练与微调任务的需求，本文设计了一个专门用于QUBO图特征提取的增强型图Transformer模型——QUBOFormer，该模型由编码器和解码器两大部分组成。
+图
+2
+GCOP-PREMA总体框架
+Fig.
+2
+GCOP-PREMA overall framework
+在编码器阶段，QUBOFormer巧妙融合了传统消息传递神经网络与Transformer架构的优势，通过每层中的特征聚合来高效捕获节点和边的信息。具体来说，QUBOFormer引入了“点-边”（node-to-edge）和“边-点”（edge-to-node）的双重聚合策略，并创新性地加入了边Transformer机制，从而使节点和边的特征得到了更有效的表征。为了提升模型的表现力同时控制其复杂度，在初始特征提取阶段采用了中心性编码（centrality encoding，CE）和拉普拉斯位置编码（Laplacian positional encoding，LPE）等位置编码技术。这样的设计不仅增强了模型对QUBO图结构的理解能力，而且由于位置编码仅在初始化时应用，因此并未显著增加计算负担。
+至于解码器部分，QUBOFormer采用多层感知机（multilayer perceptron，MLP）进行解码处理，以生成最终的问题解决方案。
+图3
+详细展示了QUBOFormer模型的具体架构，特别选取了部分节点和边来直观展示特征更新的过程，以便更好地理解整个特征提取和转换流程，其中，
+Q
+是查询向量，
+K
+是键向量，
+O
+是输出向量，
+V
+和
+E
+指的是邻居节点和边的特征向量，PE指位置编码，“×
+H
+”指当前神经网络层有
+H
+层。
+图
+3
+QUBOFormer模型架构
+Fig.
+3
+QUBOFormer model architecture
+2.2.1 编码器设计
+在编码器阶段，主要目标是将QUBO图有效地映射到一个低维向量空间，以便捕捉图中节点和边的复杂关系及特性。这一过程主要包括三个关键步骤：节点和边的特征初始化、消息传递层的聚合以及Transformer层的聚合。
+（1）初始化特征
+x
+i
+表示节点
+v
+i
+的初始特征，
+x
+ij
+表示边
+e
+ij
+的初始特征，QUBOFormer使用多层感知机将节点和边的初始特征编码到向量空间：
+h
+i
+(
+0
+)
+=
+R
+e
+L
+U
+W
+1
+x
+i
+(7)
+h
+i
+j
+(
+0
+)
+=
+R
+e
+L
+U
+W
+2
+x
+i
+j
+(8)
+其中，
+（
+）
+h
+i
+（
+0
+）
+和
+（
+）
+h
+i
+j
+（
+0
+）
+分别表示节点
+v
+i
+和边
+e
+ij
+的初始特征，
+W
+1
+和
+W
+2
+均是学习得到的权重矩阵。
+为了增强QUBOFormer模型的表达能力，设计了三种不同的位置编码方式：中心性编码、拉普拉斯位置编码以及无位置编码（no positional encoding，NPE）。这三种编码方式使得QUBOFormer在处理图结构数据时能够根据具体任务需求灵活选择最适合的位置信息编码策略。
+首先，中心性编码是基于节点在图中的重要性或中心度来对节点进行编码的。这种编码方式反映了节点作为信息传递中心的重要性。常见的中心性度量包括度中心性、接近中心性和介数中心性等。以度中心性为例，其数学形式可以表示为：
+h
+i
+(
+0
+)
+=
+R
+e
+L
+U
+W
+1
+x
+i
++
+R
+e
+L
+U
+W
+3
+⋅
+D
+e
+g
+x
+i
+(9)
+式中：
+W
+3
+是学习得到的权重矩阵；
+Deg
+（
+x
+i
+）表示节点
+v
+i
+的度数（即与节点相连的边的数量），该值反映了节点的重要性。
+其次，拉普拉斯位置编码利用图的拉普拉斯矩阵特征向量来进行编码。该方法首先计算图的归一化拉普拉斯矩阵，并从中提取前
+k
+个最小非零特征值对应的特征向量。每个节点的位置编码由这些特征向量组成，提供了一种有效的方式来捕捉图的全局结构信息。其数学形式为：
+h
+i
+(
+0
+)
+=
+R
+e
+L
+U
+W
+1
+x
+i
++
+R
+e
+L
+U
+W
+3
+⋅
+L
+a
+p
+x
+i
+(10)
+式中，
+Lap
+（
+x
+i
+）表示通过拉普拉斯矩阵计算出的节点
+v
+i
+的特征值或特征向量，用于反映节点在其所在图中的位置特性。
+最后，无位置编码指的是不使用任何额外的位置信息编码，直接依赖于图本身的结构信息和节点特征进行学习。这种方法适用于那些图结构本身已经包含了足够信息的任务场景，或者当增加位置编码可能引入不必要的复杂性时。尽管没有使用额外的位置编码，但通过消息传递机制，模型仍然能够学习到一定的结构信息。
+（2）消息传递层
+消息传递网络在处理图结构数据的任务中展现出了卓越的性能。QUBOFormer通过采用“点-边”和“边-点”两种聚合方式来实现信息的有效传递与更新，增强了模型对图结构的理解能力，如式（11）、式（12）所示。
+h
+M
+i
+(
+l
+)
+=
+R
+e
+L
+U
+W
+4
+h
+i
+(
+l
+-
+1
+)
++
+h
+M
+i
+(
+l
+-
+1
+)
+,
+W
+5
+h
+M
+j
+(
+0
+)
+,
+h
+M
+i
+(
+l
+)
+(11)
+h
+M
+i
+(
+l
+)
+=
+R
+e
+L
+U
+W
+6
+Σ
+v
+∈
+N
+v
+i
+h
+M
+j
+(
+l
+)
+,
+W
+7
+h
+M
+i
+(
+l
+-
+1
+)
+(12)
+其中，下标
+M
+表示是在消息传递层聚合得到的特征向量，
+N
+（
+v
+i
+）表示节点
+v
+i
+的邻居节点集合，
+W
+4
+至
+W
+7
+均是学习得到的权重矩阵，[·]表示特征向量的拼接操作。
+此外，为了保持不同深度层间特征的区分度，避免因多层传播导致的特征同质化，QUBOFormer在节点和边特征的更新过程中引入了残差连接机制，具体更新过程如下所示：
+h
+M
+i
+(
+l
+)
+=
+W
+8
+h
+M
+i
+(
+l
+)
+,
+h
+i
+(
+l
+-
+1
+)
+(13)
+式中，
+W
+8
+是学习得到的权重矩阵。
+2.2.2 解码器设计
+解码器在QUBOFormer中的核心功能是将状态-动作对（
+s
+i
+，
+a
+i
+）转换为一个
+Q
+值
+Q
+（
+s
+i
+，
+a
+i
+;
+θ
+），用于评估在特定状态
+s
+i
+下执行动作
+a
+i
+的效果。具体来说，在处理QUBO图时，状态可以由该状态下整个图的嵌入向量
+z
+S
+来描述，而动作则通过节点在此状态下的嵌入向量
+z
+i
+来表示。
+Q
+值的计算方式如下：
+Q
+(
+h
+,
+v
+,
+θ
+)
+=
+W
+15
+⋅
+R
+e
+L
+U
+W
+14
+⋅
+R
+e
+L
+U
+W
+13
+z
+S
+,
+z
+i
+(14)
+式中，
+W
+13
+至
+W
+15
+是学习得到的权重矩阵，
+θ
+则代表了 QUBOFormer模型的参数集合。
+2.3 模型预训练与微调
+2.3.1 模型预训练
+GCOP-PREMA的预训练过程采用深义
+Q
+网络（deep Q-network，DQN）算法，旨在预训练一个通用的QUBO求解模型，使其能够捕捉不同图组合优化问题中的共性特征。这有助于未经特定任务训练的模型更快更好地适应新的问题场景。
+1）数据准备。GCOP-PREMA使用两类不同的数据集进行训练。①混合QUBO图：由多种不同的图组合优化问题转换生成的QUBO图组成的混合数据集。②随机QUBO图：基于随机图模型直接生成的QUBO图。
+2）轨迹生成.将QUBO问题的优化视为马尔可夫决策过程，其中：①状态（state），代表QUBO图当前的状态。②动作（action），指确定一个决策变量的取值。③奖励（reward），定义为执行动作后QUBO问题目标函数的变化值。在每个片段（episode）中，从初始状态（所有决策变量初始化为0）开始，通过一系列的动作选择，逐步翻转决策变量的状态，直至达到终止状态（所有决策变量取值为1）。在此过程中产生的“状态-动作-奖励”序列被称为轨迹（trajectory），这些轨迹被存储在经验回放池中以供后续学习使用。
+3）参数更新。每隔一定数量的片段，GCOP-PREMA从经验回放池中抽取批量训练样本，以更新QUBOFormer的参数，目的是最小化如下损失函数：
+(15)
+式中：
+θ
+表示当前网络的参数，
+θ
+-
+是目标网络的参数，通常以固定间隔复制当前网络的参数；
+γ
+是介于0和1之间的折扣因子。此外，为了应对罚项系数对模型泛化能力的影响，GCOP-PREMA引入了自适应罚项调整机制。该机制根据验证集中可行解的比例动态调整罚项系数，公式如下：
+λ
+t
+=
+λ
+0
+1
+-
+t
+T
+(16)
+式中，
+t
+表示当前处理到的片段序号，
+T
+是总的片段数量，
+λ
+0
+是初始罚项系数。这种机制有助于缓解罚项系数过大或过小对模型训练造成的负面影响，从而提高模型的泛化能力和解决实际问题的能力。
+2.3.2 模型微调
+GCOP-PREMA的预训练阶段旨在使模型能够从未标注的大量QUBO图中学习到一般性的特征表示，这对于理解图组合优化问题的核心结构至关重要。通过这一过程，模型可以从丰富的数据中提取出普遍适用的模式和规律，为后续解决各种具体问题奠定基础。完成预训练后，为了进一步提升模型在特定应用场景中的表现，微调步骤显得尤为重要。这一过程允许模型在保留预训练期间学到的知识的同时，根据特定任务的需求进行调整。例如，在编码器层微调中，仅解冻编码器层的参数，保持解码器和其他层的参数不变，使得模型可以专注于从新的QUBO图中提取更有效的结构信息，特别适用于输入数据分布有轻微变化但基本结构与预训练数据相似的情况。
+在微调过程中，针对不同需求设计了多种策略。比如解码器层微调，它仅解冻解码器层的参数，而保持其他部分不变，这有助于模型调整其决策机制以适应特定的任务场景，尤其当输入数据特征与预训练数据相似但解空间有所变化时更为有效。另一种策略是消息传递层微调，这种方法只更新消息传递层的参数，强化了局部特征表示，优化节点间的信息交互，非常适合处理复杂度较高的图结构。此外，Transformer层微调则专注于增强模型处理长距离依赖的能力，适合需要改进序列数据和依赖关系处理性能的场合。最后，全参数微调策略通过对整个模型的所有层进行微调，使得模型能够全面适应新任务需求，特别是在微调数据集与预训练数据集存在显著差异的情况下尤为有用。
+微调阶段的具体操作包括加载针对下游特定任务的数据集，并进行决策还原。在此过程中，模型依据验证集上的解的可行性动态调整罚项系数，确保生成的解决方案既有效又可行。随后，加载预训练好的模型，并根据选择的微调策略冻结或解冻相应的部分参数。例如，默认情况下可能仅对解码器部分的参数进行微调优化。最终，利用经过微调后的模型进行测试，评估其在实际应用中的性能。
+3 实验分析
+为验证GCOP-PREMA框架的求解效能与跨场景适应性，设计了多维度实验验证体系，覆盖从理论仿真图到实际应用图的综合测试场景。
+3.1 实验设置
+3.1.1 数据集
+在预训练阶段，框架采用双源异构数据进行特征学习：一方面通过多类图组合优化问题向QUBO形式的系统化转换构建混合数据集，另一方面基于BA（Barabási-Albert）和ER（Erdös-Rényi）等经典随机图模型生成动态QUBO图集，以此增强模型对图结构多样性的适应能力。
+性能评估阶段则采用分层测试策略，针对MVC、MIS、MC三类问题使用BA/ER合成数据进行基础性能验证，同时在MaxCut问题上引入Optsicom项目提供的电力网络与通信拓扑真实数据以检验实际应用潜力。对于MVC、MIS、MC问题的真实场景测试，精选了涵盖生物化学与社交网络领域的五个基准数据集——ENZYMES蛋白质交互网络、PROTEINS结构图谱、IMDB-BINARY影视合作网络、COLLAB科研协作网络以及MUTAG分子反应网络，构建了跨学科领域的多维测试环境。
+3.1.2 基线方法
+由于当前图组合优化多任务统一求解领域缺乏成熟基准方法，实验选取了两类对比基准。一类是单问题专用算法，包括传统贪心启发式方法
+[
+20
+-
+23
+]
+、基于统计物理的平均场退火算法
+[
+24
+]
+，以及前沿的S2V-DQN强化学习模型
+[
+25
+]
+和VAG-CO图注意力网络
+[
+26
+]
+。另一类是针对GCOP-PREMA框架自身的消融实验组，重点考察编码策略与微调模式的影响。编码策略对比涵盖节点中心性编码（记为GCOP-PREMA-CE）、图拉普拉斯位置编码（记为GCOP-PREMA-LPE），以及无位置编码（记为GCOP-PREMA-NPE）三种变体基线；而微调模式则系统探究了编码器层微调（记为GCOP-PREMA-Encoder）、解码器层微调（记为GCOP-PREMA-Decoder）、消息传递层微调（记为GCOP-PREMA-MPNN）、Transformer层微调（记为GCOP-PREMA-Transformer），以及全参数微调（记为GCOP-PREMA-ALL）的作用差异，通过不同组合形成七种框架变体进行性能解构。
+3.1.3 评价指标
+评价体系以优化质量与稳定性为核心，采用相对优化率（approximation ratio，AR）作为核心指标。该指标通过计算各方法所得解与商业求解器Gurobi在3 600 s时限内获取的最优参考解的比值实现归一化处理，同时辅以跨测试实例的标准差分析解的质量波动性。对于最小化问题，AR定义为算法解与参考解的比值；对于最大化问题，则采用倒数形式处理，使得所有AR值均以趋近1为优化目标，从而实现跨问题类型的统一量化评估。
+对于给定的最小化优化问题实例，设
+S
+algo
+为待评估算法得到的解值，
+S
+ref
+为Gurobi求解器在限定时间内获得的最优参考解值，则相对优化率为
+r
+=
+S
+algo
+S
+ref
+(17)
+该值越接近1，表明算法解越接近参考最优解。则平均相对优化率和标准差分别为：
+r
+-
+=
+1
+N
+Σ
+i
+=
+1
+N
+r
+i
+(18)
+σ
+r
+=
+1
+N
+-
+1
+Σ
+i
+=
+1
+N
+r
+i
+-
+r
+-
+2
+(19)
+其中，
+N
+为测试集实例数量，
+r
+i
+为第
+i
+个实例的优化率。
+3.1.4 超参数设置
+预训练阶段，GCOP-PREMA 的超参数设置如
+表3
+所示。而在微调阶段，GCOP-PREMA的超参数设置如
+表4
+所示。
+表
+3
+GCOP-PREMA预训练阶段实验超参数设置
+Tab.
+3
+GCOP-PREMA experimental hyperparameter settings for the pre-training phase
+表
+4
+GCOP-PREMA微调阶段实验超参数设置
+Tab.
+4
+GCOP-PREMA experimental hyperparameter settings for the fine-tuning phase
+3.2 模拟图结果分析
+本节在模拟图上系统验证了GCOP-PREMA框架对MVC、MIS、MC及MaxCut四类图组合优化问题的求解效能。
+3.2.1 微调前后GCOP-PREMA性能变化分析
+预训练阶段采用节点规模15~20的BA图混合数据集，测试阶段则选取50个节点规模40~50的BA图进行验证。
+表5
+展示了在各实验设置下，模型相对于专业求解器在50张图上的平均性能比值及其标准差，其中“NoFT”表示的是未经过微调的预训练模型。实验发现，经过10 000步长的参数微调后，模型性能显著提升：MIS问题优化效能实现56.67%的显著跃升，MaxCut问题亦获得28.44%的增益。在编码策略对比中，中心性编码（CE）以最优表现接近专业求解器水平，拉普拉斯位置编码（LPE）次之，而无位置编码（NPE）在关键指标上存在可观测差距。这表明节点中心性特征对于捕捉图结构关键信息具有决定性作用，尤其在节点度分布显著影响邻域关系的组合优化场景中。
+表
+5
+微调前后GCOP-PREMA在不同问题上的表现
+Tab.
+5
+Performance of GCOP-PREMA on different questions before and after fine-tuning
+3.2.2 GCOP-PREMA与现有先进方法的性能对比分析
+为进一步评估GCOP-PREMA模型的有效性，本节首先在由节点规模为15至20的BA图组成的混合数据集上进行了预训练，随后在节点规模扩展至200~300的50张大规模BA图测试中，GCOP-PREMA展现出强大的泛化能力。在整个实验过程中，模型的微调步长均被严格控制在不超过10 000步的范围内。
+图4
+汇总并呈现了各个方法在处理不同规模图时的平均比值及其标准差。实验结果表明，GCOP-PREMA-CE在所有问题类型中均超越现有单任务算法，其精度与商业求解器Gurobi的差距控制在5%以内。LPE在小规模图处理中保持竞争优势，但随着节点规模增大，其性能逐渐收敛于传统贪心算法（Greedy）水平。值得注意的是，NPE在非完全子图优化场景（如MVC、MIS、MaxCut）中仍表现出12%~16%的优化优势，验证了框架基础架构的有效性。该现象揭示：尽管编码策略对性能存在显著调节作用，但预训练阶段建立的多任务表征学习能力仍是模型实现跨问题泛化的核心驱动力。
+图
+4
+不同方法在模拟图上的表现
+Fig.
+4
+Representation of different methods on simulation graphs
+3.3 真实图结果分析
+基于GSet、ENZYMES等跨领域真实图数据的测试表明，GCOP-PREMA在复杂实际场景中保持稳健性能。
+图5
+展示了在各个问题上，不同方法的平均比值和相应的标准差。其中MFA指的是平均场近似方法，MFA-Anneal指的是平均场近似退火方法。在MaxCut问题的电力网络拓扑优化中，模型通过10 000步微调后达到98.3%的Gurobi参考解覆盖度，较S2V-DQN强化学习方法提升7.2个百分点。对于MUTAG中的MIS问题求解，中心性编码变体在蛋白质结构预测任务中可实现89.4%的平均优化率，较传统图注意力网络（VAG-CO）提升11.6%。特别需要指出的是，在IMDB-BINARY影视合作网络的MVC问题求解中，模型在保证97.8%边覆盖率的前提下，将所需节点数较贪心算法减少14.3%，验证了该方法在稀疏图结构中的独特优势。
+图
+5
+不同方法在真实图上的表现
+Fig.
+5
+Representation of different methods on real graphs
+3.4 算法运行时间分析
+最后，为全面评估 GCOP-PREMA 模型的高效性，对不同方法的运行时间进行了比较。以 MVC 问题为例，在包含 50 张节点数为 40~50 的 BA 图上进行测试，各方法的运行时间对比如
+图6
+所示。
+图
+6
+不同方法的运行时间
+Fig.
+6
+Running time of different methods
+由
+图6
+可知，GCOP-PREMA-CE的求解时间分布最为均匀，表明其在处理不同问题实例时具有优异的效率稳定性。相比之下，S2V-DQN的求解时间波动较大，反映出其在某些实例上可能存在效率瓶颈。在求解质量方面，GCOP-PREMA-CE、GCOP-PREMA-LPE和S2V-DQN在多数实例上均达到了与专业求解器相当的高精度水平，而 GCOP-PREMA-NPE 的求解精度则略显不足。
+4 结论
+针对图组合优化问题在分布外泛化方面面临的挑战，本研究借鉴大语言模型的成功经验，提出了一种基于预训练-微调范式的统一求解方法GCOP-PREMA。通过将四类经典图组合优化问题统一建模并构建多任务预训练机制，实现了跨问题类型的知识迁移与共享。
+大量实验验证表明，所提方法在多项基准测试中均表现出优越性能。基于多任务预训练的微调机制对性能提升具有强正向效应，其中MIS问题的优化效能增益达56.67%，印证了迁移学习在图优化领域的巨大潜力。在跨规模、跨场景测试中，GCOP-PREMA框架相较于传统贪心算法取得6.36%~16.12%的优化率提升，在MaxCut问题上的求解精度超越现有机器学习方法9.8个百分点。尽管在蛋白质网络MC问题求解中较专用算法存在0.96%的微小差距，但该框架通过单一模型架构实现了四类非确定性多项式时间难（nondeterministic polynomia-time hard，NP-hard）问题的近最优求解，充分验证了预训练-微调范式在图组合优化领域的普适价值与通用性。
+未来研究将着重解决不同图优化任务间的优化不平衡问题，并探索扩散模型等新兴技术在此领域的应用潜力，以进一步提升统一求解框架的性能与适用范围。
+图
+1
+QUBO图的示意图
+Fig.
+1
+Schematic representation of the QUBO graph
+下载:
+全尺寸图片
+图
+2
+GCOP-PREMA总体框架
+Fig.
+2
+GCOP-PREMA overall framework
+下载:
+全尺寸图片
+图
+3
+QUBOFormer模型架构
+Fig.
+3
+QUBOFormer model architecture
+下载:
+全尺寸图片
+图
+4
+不同方法在模拟图上的表现
+Fig.
+4
+Representation of different methods on simulation graphs
+下载:
+全尺寸图片
+图
+5
+不同方法在真实图上的表现
+Fig.
+5
+Representation of different methods on real graphs
+下载:
+全尺寸图片
+图
+6
+不同方法的运行时间
+Fig.
+6
+Running time of different methods
+下载:
+全尺寸图片
+表
+1
+常见约束的 QUBO 转换
+Tab.
+1
+QUBO conversion of common constraints
+下载:
+全尺寸图片
+表
+2
+经典图组合优化问题的QUBO形式
+Tab.
+2
+QUBO form of the classical graph combinatorial optimization problem
+下载:
+全尺寸图片
+表
+3
+GCOP-PREMA预训练阶段实验超参数设置
+Tab.
+3
+GCOP-PREMA experimental hyperparameter settings for the pre-training phase
+下载:
+全尺寸图片
+表
+4
+GCOP-PREMA微调阶段实验超参数设置
+Tab.
+4
+GCOP-PREMA experimental hyperparameter settings for the fine-tuning phase
+下载:
+全尺寸图片
+表
+5
+微调前后GCOP-PREMA在不同问题上的表现
+Tab.
+5
+Performance of GCOP-PREMA on different questions before and after fine-tuning
+下载:
+全尺寸图片
+图
+1
+QUBO图的示意图
+Fig.
+1
+Schematic representation of the QUBO graph
+图
+2
+GCOP-PREMA总体框架
+Fig.
+2
+GCOP-PREMA overall framework
+图
+3
+QUBOFormer模型架构
+Fig.
+3
+QUBOFormer model architecture
+图
+4
+不同方法在模拟图上的表现
+Fig.
+4
+Representation of different methods on simulation graphs
+图
+5
+不同方法在真实图上的表现
+Fig.
+5
+Representation of different methods on real graphs
+图
+6
+不同方法的运行时间
+Fig.
+6
+Running time of different methods
+表
+1
+常见约束的 QUBO 转换
+Tab.
+1
+QUBO conversion of common constraints
+表
+2
+经典图组合优化问题的QUBO形式
+Tab.
+2
+QUBO form of the classical graph combinatorial optimization problem
+表
+3
+GCOP-PREMA预训练阶段实验超参数设置
+Tab.
+3
+GCOP-PREMA experimental hyperparameter settings for the pre-training phase
+表
+4
+GCOP-PREMA微调阶段实验超参数设置
+Tab.
+4
+GCOP-PREMA experimental hyperparameter settings for the fine-tuning phase
+表
+5
+微调前后GCOP-PREMA在不同问题上的表现
+Tab.
+5
+Performance of GCOP-PREMA on different questions before and after fine-tuning
+[1]
+张洁, 汪俊亮, 吕佑龙, 等. 大数据驱动的智能制造[J]. 中国机械工程, 2019, 30(2): 127-133, 158.
+Zhang Jie, Wang Junliang, Lü Youlong, et al. Big data-driven intelligent manufacturing[J]. China Mechanical Engineering, 2019, 30(2): 127-133, 158.(in Chinese)
+[2]
+Wang Qi, Tang Chunlei. Deep reinforcement learning for transportation network combinatorial optimization: a survey[J]. Knowledge-Based Systems, 2021, 233: 107526.
+[3]
+Juan A A, Faulin J, Grasman S E, et al. A review of simheuristics: extending metaheuristics to deal with stochastic combinatorial optimization problems[J]. Operations Research Perspectives, 2015, 2: 62-72.
+[4]
+马丽娜, 田勇, 徐灿. 民用航空器飞行轨迹优化研究综述[J]. 航空计算技术, 2021, 51(1): 130-134.
+Ma Lina, Tian Yong, Xu Can. Survey review of trajectory optimization for civil aircrafts[J]. Aeronautical Computing Technique, 2021, 51(1): 130-134.(in Chinese)
+[5]
+陈曼, 周凤星. 改进粒子群算法的舰载武器目标分配[J]. 火力与指挥控制, 2018, 43(11): 72-76.
+Chen Man, Zhou Fengxing. Shipborne weapon target assignment based on improved particle swarm optimization[J]. Fire Control &amp;amp; Command Control, 2018, 43(11): 72-76.(in Chinese)
+[6]
+刘瑶, 夏阳升, 石建迈. 车载多无人机协同多区域覆盖路径规划方法[J]. 系统工程与电子技术, 2023, 45(5): 1380-1390.
+Liu Yao, Xia Yangsheng, Shi Jianmai. Path planning method for multi-area coverage by cooperated ground vehicle multi-drone[J]. System Engineering and Electronics, 2023, 45(5): 1380-1390.(in Chinese)
+[7]
+Li Peng, Liu Bo. Multi-task combinatorial optimization: adaptive multi-modality knowledge transfer by an explicit inter-task distance[PP/OL].arXiv(2023-05-22)[2025-03-11].https: //arxiv.org/abs/2305.12807v1.
+[8]
+Wang Chenguang, Yu Zhouliang, McAleer S, et al. ASP: learn a universal neural solver![J]. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2024, 46(6): 4102-4114.
+[9]
+Zhou Jianan, Cao Zhiguang, Wu Yaoxin, et al. MVMoE: multi-task vehicle routing solver with mixture-of-experts[C]//The 41st International Conference on Machine Learning(ICML2024), 2024.
+[10]
+Liu Fei, Lin Xi, Wang Zhenkun, et al. Multi-task learning for routing problem with cross-problem zero-shot generalization[C]//The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2024.
+[11]
+Wang Chenguang, Fu Zhanghua, Lu Pinyan, et al. Efficient training of multi-task neural solver for combinatorial optimization[PP/OL].arXiv(2023-05-10)[2025-03-25].https: //arxiv.org/abs/2305.06361.
+[12]
+Li Yang, Liu Jiaxi, Wu Qitian, et al. Toward learning generalized cross-problem solving strategies for combinatorial optimization[C]//The 13th International Conference on Learning Representations(ICLR), 2025.
+[13]
+Drakulić D, Michel S, Andreoli J-M. GOAL: a generalist combinatorial optimization agent learner[C]//The 13th International Conference on Learning Representations(ICLR), 2025.
+[14]
+Pan Wenzheng, Xiong Hao, Ma Jiale, et al. UniCO: on unified combinatorial optimization via problem reduction to matrix-encoded general TSP[C]//The 13th International Conference on Learning Representations(ICLR), 2025.
+[15]
+Jiang Xia, Wu Yaoxin, Wang Yuan, et al. UNCO: towards unifying neural combinatorial optimization through large language model[PP/OL].arXiv(2024-08-22)[2025-03-27].https: //arxiv.org/abs/2408.12214v2.
+[16]
+Goemans M X, Williamson D P. Improved approximation algorithms for maximum cut and satisfiability problems using semidefinite programming[J]. Journal of the ACM, 1995, 42(6): 1115-1145.
+[17]
+Li Xiaotian, Nakano K, Tsukiyama S, et al. Generating hard quadratic unconstrained binary optimization instances via the method of combining bit reduction and duplication technique[J]. International Journal of Parallel, Emergent and Distributed Systems, 2024, 39(5): 589-608.
+[18]
+Barabasi A L, Albert R. Emergence of scaling in random networks[J]. Science, 1999, 286(5439): 509-512.
+[19]
+Erdös P, Rényi A. On random graphs I[J]. Publications Mathematicae Debrecen, 1959, 6: 290-297.
+[20]
+Morris C, Kriege N M, Bause F, et al. TUDataset: a collection of benchmark datasets for learning with graphs[PP/OL].arXiv(2020-07-16)[2025-03-27].https: //arxiv.org/abs/2007.08663.
+[21]
+Kleinberg J, Tardos É. Algorithm design[M]. Boston: Addison-Wesley, 2005.
+[22]
+Papadimitriou C H, Steiglitz K. Combinatorial optimization: algorithms and complexity[M]. Upper Saddle River: Prentice-Hall, 1982.
+[23]
+Wormald N C. Differential equations for random processes and random graphs[J]. The Annals of Applied Probability, 1995, 5(4): 1217-1235.
+[24]
+Bilbro G, Mann R, Miller T K, et al. Optimization by mean field annealing[C]//The 2nd International Conference on Neural Information Processing Systems, 1988.
+[25]
+Dai Hanjun, Khalil E B, Zhang Yuyu, et al. Learning combinatorial optimization algorithms over graphs[C]//The 31st Conference on Neural Information Processing Systems, 2017.
+[26]
+Sanokowski S, Berghammer W, Hochreiter S, et al. Variational annealing on graphs for combinatorial optimization[PP/OL].arXiv(2023-11-23)[2025-03-25].https: //arxiv.org/abs/2311.14156.
+PDF下载
+XML下载
+导出引用
+引用提醒
+图(6)
+/
+表(5)
+手机扫码阅读
+引用本文
+蒲天乐, 张柄旭, 曾利, 等. 预训练和微调:图组合优化问题的统一求解方法[J]. 国防科技大学学报, 2026, 48(4): 128-138.
+复制
+Pu Tianle, Zhang Bingxu, Zeng Li, et al. Pre-training and fine-tuning: a unified approach for solving graph combinatorial optimization problems [J]. Journal of National University of Defense Technology, 2026, 48(4)： 128-138.
+Copy
+计量
+文章访问量:
+194
+HTML全文浏览量:
+182
+PDF下载量:
+493
+被引次数:
+0
+图
+1
+QUBO图的示意图
+Fig.
+1
+Schematic representation of the QUBO graph
+图
+2
+GCOP-PREMA总体框架
+Fig.
+2
+GCOP-PREMA overall framework
+图
+3
+QUBOFormer模型架构
+Fig.
+3
+QUBOFormer model architecture
+图
+4
+不同方法在模拟图上的表现
+Fig.
+4
+Representation of different methods on simulation graphs
+图
+5
+不同方法在真实图上的表现
+Fig.
+5
+Representation of different methods on real graphs
+图
+6
+不同方法的运行时间
+Fig.
+6
+Running time of different methods
+表
+1
+常见约束的 QUBO 转换
+Tab.
+1
+QUBO conversion of common constraints
+表
+2
+经典图组合优化问题的QUBO形式
+Tab.
+2
+QUBO form of the classical graph combinatorial optimization problem
+表
+3
+GCOP-PREMA预训练阶段实验超参数设置
+Tab.
+3
+GCOP-PREMA experimental hyperparameter settings for the pre-training phase
+表
+4
+GCOP-PREMA微调阶段实验超参数设置
+Tab.
+4
+GCOP-PREMA experimental hyperparameter settings for the fine-tuning phase
+表
+5
+微调前后GCOP-PREMA在不同问题上的表现
+Tab.
+5
+Performance of GCOP-PREMA on different questions before and after fine-tuning
+张洁, 汪俊亮, 吕佑龙, 等. 大数据驱动的智能制造[J]. 中国机械工程,2019,30(2):127-133,158.
+Zhang Jie, Wang Junliang, Lü Youlong,et al. Big data-driven intelligent manufacturing[J]. China Mechanical Engineering,2019,30(2):127-133,158.(in Chinese)
+Wang Qi, Tang Chunlei. Deep reinforcement learning for transportation network combinatorial optimization:a survey[J]. Knowledge-Based Systems,2021,233:107526.
+Juan A A, Faulin J, Grasman S E,et al. A review of simheuristics:extending metaheuristics to deal with stochastic combinatorial optimization problems[J]. Operations Research Perspectives,2015,2:62-72.
+马丽娜, 田勇, 徐灿. 民用航空器飞行轨迹优化研究综述[J]. 航空计算技术,2021,51(1):130-134.
+Ma Lina, Tian Yong, Xu Can. Survey review of trajectory optimization for civil aircrafts[J]. Aeronautical Computing Technique,2021,51(1):130-134.(in Chinese)
+陈曼, 周凤星. 改进粒子群算法的舰载武器目标分配[J]. 火力与指挥控制,2018,43(11):72-76.
+Chen Man, Zhou Fengxing. Shipborne weapon target assignment based on improved particle swarm optimization[J]. Fire Control &amp;amp; Command Control,2018,43(11):72-76.(in Chinese)
+刘瑶, 夏阳升, 石建迈. 车载多无人机协同多区域覆盖路径规划方法[J]. 系统工程与电子技术,2023,45(5):1380-1390.
+Liu Yao, Xia Yangsheng, Shi Jianmai. Path planning method for multi-area coverage by cooperated ground vehicle multi-drone[J]. System Engineering and Electronics,2023,45(5):1380-1390.(in Chinese)
+Li Peng, Liu Bo. Multi-task combinatorial optimization:adaptive multi-modality knowledge transfer by an explicit inter-task distance[PP/OL].arXiv(2023-05-22)[2025-03-11].https://arxiv.org/abs/2305.12807v1.
+Wang Chenguang, Yu Zhouliang, McAleer S,et al. ASP:learn a universal neural solver![J]. IEEE Transactions on Pattern Analysis and Machine Intelligence,2024,46(6):4102-4114.
+Zhou Jianan, Cao Zhiguang, Wu Yaoxin,et al. MVMoE:multi-task vehicle routing solver with mixture-of-experts[C]//The 41st International Conference on Machine Learning(ICML2024),2024.
+Liu Fei, Lin Xi, Wang Zhenkun,et al. Multi-task learning for routing problem with cross-problem zero-shot generalization[C]//The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining,2024.
+Wang Chenguang, Fu Zhanghua, Lu Pinyan,et al. Efficient training of multi-task neural solver for combinatorial optimization[PP/OL].arXiv(2023-05-10)[2025-03-25].https://arxiv.org/abs/2305.06361.
+Li Yang, Liu Jiaxi, Wu Qitian,et al. Toward learning generalized cross-problem solving strategies for combinatorial optimization[C]//The 13th International Conference on Learning Representations(ICLR),2025.
+Drakulić D, Michel S, Andreoli J-M. GOAL:a generalist combinatorial optimization agent learner[C]//The 13th International Conference on Learning Representations(ICLR),2025.
+Pan Wenzheng, Xiong Hao, Ma Jiale,et al. UniCO:on unified combinatorial optimization via problem reduction to matrix-encoded general TSP[C]//The 13th International Conference on Learning Representations(ICLR),2025.
+Jiang Xia, Wu Yaoxin, Wang Yuan,et al. UNCO:towards unifying neural combinatorial optimization through large language model[PP/OL].arXiv(2024-08-22)[2025-03-27].https://arxiv.org/abs/2408.12214v2.
+Goemans M X, Williamson D P. Improved approximation algorithms for maximum cut and satisfiability problems using semidefinite programming[J]. Journal of the ACM,1995,42(6):1115-1145.
+Li Xiaotian, Nakano K, Tsukiyama S,et al. Generating hard quadratic unconstrained binary optimization instances via the method of combining bit reduction and duplication technique[J]. International Journal of Parallel, Emergent and Distributed Systems,2024,39(5):589-608.
+Barabasi A L, Albert R. Emergence of scaling in random networks[J]. Science,1999,286(5439):509-512.
+Erdös P, Rényi A. On random graphs I[J]. Publications Mathematicae Debrecen,1959,6:290-297.
+Morris C, Kriege N M, Bause F,et al. TUDataset:a collection of benchmark datasets for learning with graphs[PP/OL].arXiv(2020-07-16)[2025-03-27].https://arxiv.org/abs/2007.08663.
+Kleinberg J, Tardos É. Algorithm design[M]. Boston: Addison-Wesley,2005.
+Papadimitriou C H, Steiglitz K. Combinatorial optimization:algorithms and complexity[M]. Upper Saddle River: Prentice-Hall,1982.
+Wormald N C. Differential equations for random processes and random graphs[J]. The Annals of Applied Probability,1995,5(4):1217-1235.
+Bilbro G, Mann R, Miller T K,et al. Optimization by mean field annealing[C]//The 2nd International Conference on Neural Information Processing Systems,1988.
+Dai Hanjun, Khalil E B, Zhang Yuyu,et al. Learning combinatorial optimization algorithms over graphs[C]//The 31st Conference on Neural Information Processing Systems,2017.
+Sanokowski S, Berghammer W, Hochreiter S,et al. Variational annealing on graphs for combinatorial optimization[PP/OL].arXiv(2023-11-23)[2025-03-25].https://arxiv.org/abs/2311.14156.
+作者投稿
+投稿指南
+联系我们
+公众号
+返回顶部
+扫码关注
+官方微信
+您是今天第
+4787
+位访客
+总访问量：
+296172150
 电话：
 0731-87028030
 邮箱:journal@nudt.edu.cn
