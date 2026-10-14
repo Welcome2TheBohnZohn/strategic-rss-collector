@@ -6,7 +6,7 @@ Include regex: norincogroup\.com\.cn/.+
 Include text regex: 
 
 Candidate links: 50
-All links discovered: 195
+All links discovered: 194
 
 === MATCHED CANDIDATES ===
 
@@ -191,6 +191,14 @@ http://www.norincogroup.com.cn/art/2026/9/23/art_85_577177.html
   赋能矿山搬运，一机集团瑞特公司挺进矿用机器人领域
 http://www.norincogroup.com.cn/art/2026/9/22/art_85_577176.html
   兵器工业集团2家单位入选首批国家新兴产业发展示范...
+https://www.xinhuanet.com/20261007/814c5c1b6a1745f7a365271723e23885/c.html
+  新华网：巴基斯坦地铁有了女司机
+https://article.xuexi.cn/articles/index.html?art_id=14675308009055212473&item_id=14675308009055212473&study_style_id=feeds_opaque&pid=&ptype=-1&source=share&share_to=wx_single
+  学习强国平台：兵器工业集团矿山自动搬运机器人关键...
+https://article.xuexi.cn/articles/index.html?art_id=2372083704538763703&item_id=2372083704538763703&study_style_id=feeds_opaque&pid=&ptype=-1&source=share&share_to=wx_single
+  学习强国平台：兵器工业集团北方国际签署埃塞俄比亚...
+https://article.xuexi.cn/articles/index.html?art_id=8698552898583523157&item_id=8698552898583523157&study_style_id=feeds_opaque&pid=&ptype=-1&source=share&share_to=wx_single
+  学习强国平台：兵器工业集团亮相2026中国国际应...
 https://article.xuexi.cn/articles/index.html?art_id=15932905174364500122&item_id=15932905174364500122&study_style_id=feeds_opaque&pid=&ptype=-1&source=share&share_to=wx_single
   学习强国平台：助学长镜头拉满23载
 https://article.xuexi.cn/articles/index.html?art_id=10489531575390561900&item_id=10489531575390561900&study_style_id=feeds_opaque&pid=&ptype=-1&source=share&share_to=wx_single
@@ -199,14 +207,6 @@ https://article.xuexi.cn/articles/index.html?art_id=12437900691988132778&item_id
   学习强国平台：突破四大行业痛点 核心技术达国际先...
 https://article.xuexi.cn/articles/index.html?art_id=7002558973007350261&item_id=7002558973007350261&study_style_id=feeds_opaque&pid=&ptype=-1&source=share&share_to=wx_single
   学习强国平台：击穿仍可续行 这项技术补上了装备机...
-https://article.xuexi.cn/articles/index.html?art_id=15236024441546017063&item_id=15236024441546017063&study_style_id=feeds_opaque&pid=&ptype=-1&source=share&share_to=wx_single
-  学习强国平台：北方兵器城入选全国工业旅游发展优秀...
-https://article.xuexi.cn/articles/index.html?art_id=17285522168597764783&item_id=17285522168597764783&study_style_id=feeds_opaque&pid=&ptype=-1&source=share&share_to=wx_single
-  学习强国平台：兵器工业集团超大型高端能源装备核心...
-https://article.xuexi.cn/articles/index.html?art_id=11385876609027107289&item_id=11385876609027107289&study_style_id=feeds_opaque&pid=&ptype=-1&source=share&share_to=wx_single
-  学习强国平台：国内首台矿用永磁移动式排水车通过井...
-https://article.xuexi.cn/articles/index.html?art_id=8733729406625615025&item_id=8733729406625615025&study_style_id=feeds_opaque&pid=&ptype=-1&source=share&share_to=wx_single
-  学习强国平台：兵器工业集团一机钻具首次闯入中东高...
 http://www.sasac.gov.cn/n2588025/n2643314/c35968530/content.html
   国务院国资委党委学习贯彻习近平总书记就发展先进制...
 http://www.sasac.gov.cn/n2588025/n2643314/c35847444/content.html
@@ -394,14 +394,13 @@ http://www.norincogroup.com.cn/picture/0/f63663387e434b25ae9eb65e9f48f6ad.jpg
 http://www.norincogroup.com.cn/picture/0/s_a6c39e08f7024b93899de7c38119f06e.jpg
 http://www.norincogroup.com.cn/picture/0/s_b522cee4dd8d4ea99da33bfede03bd00.jpg
 http://www.norincogroup.com.cn/picture/0/s_682ad87660764229a4f93b4188642a26.jpg
+https://article.xuexi.cn/articles/index.html?art_id=14675308009055212473&amp;item_id=14675308009055212473&amp;study_style_id=feeds_opaque&amp;pid=&amp;ptype=-1&amp;source=share&amp;share_to=wx_single
+https://article.xuexi.cn/articles/index.html?art_id=2372083704538763703&amp;item_id=2372083704538763703&amp;study_style_id=feeds_opaque&amp;pid=&amp;ptype=-1&amp;source=share&amp;share_to=wx_single
+https://article.xuexi.cn/articles/index.html?art_id=8698552898583523157&amp;item_id=8698552898583523157&amp;study_style_id=feeds_opaque&amp;pid=&amp;ptype=-1&amp;source=share&amp;share_to=wx_single
 https://article.xuexi.cn/articles/index.html?art_id=15932905174364500122&amp;item_id=15932905174364500122&amp;study_style_id=feeds_opaque&amp;pid=&amp;ptype=-1&amp;source=share&amp;share_to=wx_single
 https://article.xuexi.cn/articles/index.html?art_id=10489531575390561900&amp;item_id=10489531575390561900&amp;study_style_id=feeds_opaque&amp;pid=&amp;ptype=-1&amp;source=share&amp;share_to=wx_single
 https://article.xuexi.cn/articles/index.html?art_id=12437900691988132778&amp;item_id=12437900691988132778&amp;study_style_id=feeds_opaque&amp;pid=&amp;ptype=-1&amp;source=share&amp;share_to=wx_single
 https://article.xuexi.cn/articles/index.html?art_id=7002558973007350261&amp;item_id=7002558973007350261&amp;study_style_id=feeds_opaque&amp;pid=&amp;ptype=-1&amp;source=share&amp;share_to=wx_single
-https://article.xuexi.cn/articles/index.html?art_id=15236024441546017063&amp;item_id=15236024441546017063&amp;study_style_id=feeds_opaque&amp;pid=&amp;ptype=-1&amp;source=share&amp;share_to=wx_single
-https://article.xuexi.cn/articles/index.html?art_id=17285522168597764783&amp;item_id=17285522168597764783&amp;study_style_id=feeds_opaque&amp;pid=&amp;ptype=-1&amp;source=share&amp;share_to=wx_single
-https://article.xuexi.cn/articles/index.html?art_id=11385876609027107289&amp;item_id=11385876609027107289&amp;study_style_id=feeds_opaque&amp;pid=&amp;ptype=-1&amp;source=share&amp;share_to=wx_single
-https://article.xuexi.cn/articles/index.html?art_id=8733729406625615025&amp;item_id=8733729406625615025&amp;study_style_id=feeds_opaque&amp;pid=&amp;ptype=-1&amp;source=share&amp;share_to=wx_single
 http://www.norincogroup.com.cn/picture/0/1610091647122417824.png
 http://www.norincogroup.com.cn/picture/0/fe4c8ea2a21b4ec3bd6dbb78398bfc4c.png
 http://www.norincogroup.com.cn/picture/0/515b3dc48fee4d239034c9beb643c20b.jpg

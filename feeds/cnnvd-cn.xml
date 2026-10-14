@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Tue, 13 Oct 2026 23:02:16 +0000</lastBuildDate><item><title>CNNVD-2026-21374411 - GitLab 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-21374411</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-21374411</guid><pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate><description>GitLab 授权问题漏洞
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Wed, 14 Oct 2026 05:12:02 +0000</lastBuildDate><item><title>CNNVD-2026-21374411 - GitLab 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-21374411</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-21374411</guid><pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate><description>GitLab 授权问题漏洞
 危害等级: 中危
 收录时间：2026-10-13 | 更新时间: 2026-10-13 16:32:20
 CNNVD编号: CNNVD-2026-21374411</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-21374411&lt;/p&gt;&lt;pre&gt;GitLab 授权问题漏洞
@@ -47,16 +47,16 @@ CNNVD编号: CNNVD-2026-88169123&lt;/pre&gt;</content:encoded></item><item><titl
 CNNVD编号: CNNVD-2026-59804117</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-59804117&lt;/p&gt;&lt;pre&gt;GitLab 权限许可和访问控制问题漏洞
 危害等级: 中危
 收录时间：2026-10-13 | 更新时间: 2026-10-13 16:39:39
-CNNVD编号: CNNVD-2026-59804117&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-69085124 - GitLab 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-69085124</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-69085124</guid><pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate><description>GitLab 授权问题漏洞
-危害等级: 中危
-收录时间：2026-10-13 | 更新时间: 2026-10-13 16:38:30
-CNNVD编号: CNNVD-2026-69085124</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-69085124&lt;/p&gt;&lt;pre&gt;GitLab 授权问题漏洞
-危害等级: 中危
-收录时间：2026-10-13 | 更新时间: 2026-10-13 16:38:30
-CNNVD编号: CNNVD-2026-69085124&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-21529610 - GitLab 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-21529610</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-21529610</guid><pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate><description>GitLab 授权问题漏洞
-危害等级: 中危
-收录时间：2026-10-13 | 更新时间: 2026-10-13 16:37:44
-CNNVD编号: CNNVD-2026-21529610</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-21529610&lt;/p&gt;&lt;pre&gt;GitLab 授权问题漏洞
-危害等级: 中危
-收录时间：2026-10-13 | 更新时间: 2026-10-13 16:37:44
-CNNVD编号: CNNVD-2026-21529610&lt;/pre&gt;</content:encoded></item></channel></rss>
+CNNVD编号: CNNVD-2026-59804117&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-52303760 - Rapid7 Metasploit Framework 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-52303760</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-52303760</guid><pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate><description>Rapid7 Metasploit Framework 授权问题漏洞
+危害等级: 超危
+收录时间：2026-10-13 | 更新时间: 2026-10-13 17:07:31
+CNNVD编号: CNNVD-2026-52303760</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-52303760&lt;/p&gt;&lt;pre&gt;Rapid7 Metasploit Framework 授权问题漏洞
+危害等级: 超危
+收录时间：2026-10-13 | 更新时间: 2026-10-13 17:07:31
+CNNVD编号: CNNVD-2026-52303760&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-11332438 - OpenS100 Project OpenS100 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-11332438</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-11332438</guid><pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate><description>OpenS100 Project OpenS100 缓冲区错误漏洞
+危害等级: 高危
+收录时间：2026-10-13 | 更新时间: 2026-10-13 17:08:54
+CNNVD编号: CNNVD-2026-11332438</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-11332438&lt;/p&gt;&lt;pre&gt;OpenS100 Project OpenS100 缓冲区错误漏洞
+危害等级: 高危
+收录时间：2026-10-13 | 更新时间: 2026-10-13 17:08:54
+CNNVD编号: CNNVD-2026-11332438&lt;/pre&gt;</content:encoded></item></channel></rss>

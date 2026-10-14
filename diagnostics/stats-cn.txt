@@ -10,8 +10,8 @@ All links discovered: 227
 
 === MATCHED CANDIDATES ===
 
-https://www.stats.gov.cn/sj/zxfb/202609/t20260909_1965262.html
-  2026年8月份工业生产者出厂价格同比上涨3.8% 环比上涨0.4%
+https://www.stats.gov.cn/sj/zxfb/202610/t20261014_1965476.html
+  2026年9月份工业生产者出厂价格同比上涨5.0% 环比上涨1.2%
 https://www.stats.gov.cn/sj/zxfb/202609/t20260928_1965425.html
   2026年1—8月份全国规模以上工业企业利润增长15.7%
 https://www.stats.gov.cn/sj/zxfb/202610/t20261008_1965465.html
@@ -22,12 +22,12 @@ https://www.stats.gov.cn/sj/zxfb/202609/t20260915_1965304.html
   2026年8月份70个大中城市商品住宅销售价格变动情况
 https://www.stats.gov.cn/sj/zxfb/202609/t20260914_1965293.html
   2026年9月上旬流通领域重要生产资料市场价格变动情况
-https://www.stats.gov.cn/sj/zxfb/202609/t20260903_1965182.html
-  2026年8月下旬流通领域重要生产资料市场价格变动情况
 https://www.stats.gov.cn/sj/zxfb/202609/t20260915_1965311.html
   2026年1—8月份社会消费品零售总额增长1.1%
 https://www.stats.gov.cn/sj/zxfb/202609/t20260915_1965308.html
   2026年8月份规模以上工业增加值增长5.2%
+https://www.stats.gov.cn/sj/zxfb/202610/t20261014_1965477.html
+  2026年9月份居民消费价格同比上涨0.9%
 https://www.stats.gov.cn/sj/zxfb/202609/t20260915_1965309.html
   2026年1—8月份全国固定资产投资基本情况
 https://www.stats.gov.cn/sj/zxfb/202609/t20260909_1965263.html
@@ -71,6 +71,10 @@ https://www.stats.gov.cn/zt_18555/
   专题
 https://www.stats.gov.cn/sj/zxfb/
   数据发布
+https://www.stats.gov.cn/sj/zxfb/202610/t20261014_1965477.html
+  2026年9月份居民消费价格同比上涨0.9%
+https://www.stats.gov.cn/sj/zxfb/202610/t20261014_1965476.html
+  2026年9月份工业生产者出厂价格同比上涨5.0% 环比上涨1.2%
 https://www.stats.gov.cn/sj/zxfb/202610/t20261008_1965465.html
   2026年9月下旬流通领域重要生产资料市场价格变动情况
 https://www.stats.gov.cn/sj/zxfb/202609/t20260930_1965449.html
@@ -97,10 +101,6 @@ https://www.stats.gov.cn/sj/zxfb/202609/t20260914_1965293.html
   2026年9月上旬流通领域重要生产资料市场价格变动情况
 https://www.stats.gov.cn/sj/zxfb/202609/t20260909_1965263.html
   2026年8月份居民消费价格同比上涨0.8%
-https://www.stats.gov.cn/sj/zxfb/202609/t20260909_1965262.html
-  2026年8月份工业生产者出厂价格同比上涨3.8% 环比上涨0.4%
-https://www.stats.gov.cn/sj/zxfb/202609/t20260903_1965182.html
-  2026年8月下旬流通领域重要生产资料市场价格变动情况
 http://www.gov.cn/
   中央人民政府门户网站
 http://www.fmprc.gov.cn/

@@ -82,14 +82,10 @@ https://www.ncpssd.cn/topics/detailsList?id=4&wfColumn=1&resourceType=0
   建设中国特色新型智库
 https://www.ncpssd.cn/message?id=18622
   积极助力现代公共文化服务体系建设 ——国家哲学社会科学文献中心走进贵州省“两会”
-https://www.ncpssd.cn/message?id=22373
-  庆祝中华人民共和国成立77周年招待会在京举行 习近平发表重要讲话
 https://www.ncpssd.cn/message?id=22412
   习近平同巴布亚新几内亚总督达达埃就中巴新建交50周年互致贺电
 https://www.ncpssd.cn/message?id=18580
   国家哲学社会科学文献中心为贵阳市“两会”提供学术资源服务
-https://www.ncpssd.cn/message?id=22372
-  习近平：在庆祝中华人民共和国成立77周年招待会上的讲话
 https://www.ncpssd.cn/message?id=19563
   国家哲学社会科学文献中心发布最受欢迎期刊报告
 https://www.ncpssd.cn/message?id=19564
@@ -116,6 +112,10 @@ https://www.ncpssd.cn/js/sensorsdata.min.js
   sensorsdata.min.js
 https://www.ncpssd.cn/Literature/ancientbooklistNew
   ancientbooklistNew
+https://www.ncpssd.cn/js/jquery.base64.js
+  jquery.base64.js
+https://www.ncpssd.cn/message?id=22418
+  习近平会见多哥部长会议主席福雷
 
 === ALL DISCOVERED LINKS ===
 
@@ -161,16 +161,16 @@ https://www.ncpssd.cn/messages
 https://www.ncpssd.cn/message?id=22416
 https://www.ncpssd.cn/message?id=22415
 https://www.ncpssd.cn/message?id=22266
+https://www.ncpssd.cn/message?id=22418
+  习近平会见多哥部长会议主席福雷
+https://www.ncpssd.cn/message?id=22417
+  习近平同博茨瓦纳总统博科会谈
 https://www.ncpssd.cn/message?id=22414
   习近平出席全国卫生与健康大会并发表重要讲话
 https://www.ncpssd.cn/message?id=22413
   习近平致电祝贺马迪塞就任爱沙尼亚总统
 https://www.ncpssd.cn/message?id=22412
   习近平同巴布亚新几内亚总督达达埃就中巴新建交50周年互致贺电
-https://www.ncpssd.cn/message?id=22372
-  习近平：在庆祝中华人民共和国成立77周年招待会上的讲话
-https://www.ncpssd.cn/message?id=22373
-  庆祝中华人民共和国成立77周年招待会在京举行 习近平发表重要讲话
 https://www.ncpssd.cn/message?id=19563
   国家哲学社会科学文献中心发布最受欢迎期刊报告
 https://www.ncpssd.cn/message?id=19564
