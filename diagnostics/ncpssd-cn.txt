@@ -84,6 +84,8 @@ https://www.ncpssd.cn/message?id=18622
   积极助力现代公共文化服务体系建设 ——国家哲学社会科学文献中心走进贵州省“两会”
 https://www.ncpssd.cn/message?id=18580
   国家哲学社会科学文献中心为贵阳市“两会”提供学术资源服务
+https://www.ncpssd.cn/message?id=22420
+  习近平：以更高标准、更实举措推进全面从严治党
 https://www.ncpssd.cn/message?id=22419
   习近平向第140届中国进出口商品交易会致贺信
 https://www.ncpssd.cn/message?id=19563
@@ -104,8 +106,6 @@ https://www.ncpssd.cn/sso/getTokenCurrentUser?ssoClient=wxEN
   getTokenCurrentUser
 https://www.ncpssd.cn/Literature/ancientbooklistNew?nav=5
   ancientbooklistNew
-https://www.ncpssd.cn/message?id=22413
-  习近平致电祝贺马迪塞就任爱沙尼亚总统
 https://www.ncpssd.cn/js/jquery.hiSlider.js
   jquery.hiSlider.js
 https://www.ncpssd.cn/js/sensorsdata.min.js
@@ -161,6 +161,8 @@ https://www.ncpssd.cn/messages
 https://www.ncpssd.cn/message?id=22416
 https://www.ncpssd.cn/message?id=22415
 https://www.ncpssd.cn/message?id=22266
+https://www.ncpssd.cn/message?id=22420
+  习近平：以更高标准、更实举措推进全面从严治党
 https://www.ncpssd.cn/message?id=22419
   习近平向第140届中国进出口商品交易会致贺信
 https://www.ncpssd.cn/message?id=22418
@@ -169,8 +171,6 @@ https://www.ncpssd.cn/message?id=22417
   习近平同博茨瓦纳总统博科会谈
 https://www.ncpssd.cn/message?id=22414
   习近平出席全国卫生与健康大会并发表重要讲话
-https://www.ncpssd.cn/message?id=22413
-  习近平致电祝贺马迪塞就任爱沙尼亚总统
 https://www.ncpssd.cn/message?id=19563
   国家哲学社会科学文献中心发布最受欢迎期刊报告
 https://www.ncpssd.cn/message?id=19564
