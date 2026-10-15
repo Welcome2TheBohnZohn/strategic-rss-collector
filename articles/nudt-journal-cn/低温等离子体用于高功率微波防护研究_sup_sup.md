@@ -816,11 +816,11 @@ LI Zhigang, QIU Zhinan, WANG Jiachun, et al. Study of high-power microwave prote
 Copy
 计量
 文章访问量:
-29312
+29317
 HTML全文浏览量:
-3967
+3971
 PDF下载量:
-9994
+9995
 被引次数:
 0
 图
@@ -893,10 +893,10 @@ HE W, LIU X H, XIAN R C,et al. Kinetics characteristics and bremsstrahlung of ar
 扫码关注
 官方微信
 您是今天第
-952
+2568
 位访客
 总访问量：
-296172150
+297008917
 电话：
 0731-87028030
 邮箱:journal@nudt.edu.cn

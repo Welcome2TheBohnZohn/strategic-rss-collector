@@ -1,5 +1,5 @@
 Strategic RSS Collector Status
-Generated: 2026-10-14 21:59:06 UTC
+Generated: 2026-10-15 04:58:08 UTC
 
 Status meanings:
 OK = Feed contains one or more items
@@ -213,9 +213,9 @@ FAILED = Source could not be retrieved
   Links discovered: 309
   Candidate links/items: 10
   Attempted items/articles: 10
-  Items/articles with text: 9
-  Items/articles with dates: 9
-  RSS feed items: 9
+  Items/articles with text: 6
+  Items/articles with dates: 6
+  RSS feed items: 6
   SSL verification: OFF
   Request timeout: 12s
   Max retries: 1
@@ -271,12 +271,12 @@ Call log:
   Start URL: http://www.81.cn/szb_223187/gfbszblb/index.html
   Resolved URL: http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-10-15&paperName=zggfb&paperNumber=01
   HTTP: 200
-  Links discovered: 276
-  Candidate links/items: 12
-  Attempted items/articles: 12
-  Items/articles with text: 12
-  Items/articles with dates: 12
-  RSS feed items: 12
+  Links discovered: 260
+  Candidate links/items: 9
+  Attempted items/articles: 9
+  Items/articles with text: 9
+  Items/articles with dates: 9
+  RSS feed items: 9
   SSL verification: ON
   Request timeout: 30s
   Max retries: 4
@@ -307,7 +307,7 @@ Call log:
   Candidate links/items: 50
   Attempted items/articles: 12
   Items/articles with text: 12
-  Items/articles with dates: 7
+  Items/articles with dates: 8
   RSS feed items: 12
   SSL verification: OFF
   Request timeout: 12s

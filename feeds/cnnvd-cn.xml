@@ -1,62 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Wed, 14 Oct 2026 21:59:06 +0000</lastBuildDate><item><title>CNNVD-2026-64694278 - Microsoft RPC Endpoint Mapper Service 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-64694278</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-64694278</guid><pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate><description>Microsoft RPC Endpoint Mapper Service 资源管理错误漏洞
-危害等级: 中危
-收录时间：2026-10-13 | 更新时间: 2026-10-14 16:22:06
-CNNVD编号: CNNVD-2026-64694278</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-64694278&lt;/p&gt;&lt;pre&gt;Microsoft RPC Endpoint Mapper Service 资源管理错误漏洞
-危害等级: 中危
-收录时间：2026-10-13 | 更新时间: 2026-10-14 16:22:06
-CNNVD编号: CNNVD-2026-64694278&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-12799428 - Microsoft Windows Storage Spaces Controller 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-12799428</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-12799428</guid><pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate><description>Microsoft Windows Storage Spaces Controller 缓冲区错误漏洞
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Thu, 15 Oct 2026 04:58:08 +0000</lastBuildDate><item><title>CNNVD-2026-30819259 - Microsoft Office SharePoint 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-30819259</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-30819259</guid><pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate><description>Microsoft Office SharePoint 授权问题漏洞
 危害等级: 高危
-收录时间：2026-10-13 | 更新时间: 2026-10-14 16:22:38
-CNNVD编号: CNNVD-2026-12799428</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-12799428&lt;/p&gt;&lt;pre&gt;Microsoft Windows Storage Spaces Controller 缓冲区错误漏洞
+收录时间：2026-10-14 | 更新时间: 2026-10-15 10:05:02
+CNNVD编号: CNNVD-2026-30819259</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-30819259&lt;/p&gt;&lt;pre&gt;Microsoft Office SharePoint 授权问题漏洞
 危害等级: 高危
-收录时间：2026-10-13 | 更新时间: 2026-10-14 16:22:38
-CNNVD编号: CNNVD-2026-12799428&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-94412936 - Microsoft Office Outlook 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-94412936</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-94412936</guid><pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate><description>Microsoft Office Outlook 缓冲区错误漏洞
+收录时间：2026-10-14 | 更新时间: 2026-10-15 10:05:02
+CNNVD编号: CNNVD-2026-30819259&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-83183334 - Microsoft DNS Server 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-83183334</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-83183334</guid><pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate><description>Microsoft DNS Server 缓冲区错误漏洞
+危害等级: 中危
+收录时间：2026-10-13 | 更新时间: 2026-10-14 16:18:39
+CNNVD编号: CNNVD-2026-83183334</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-83183334&lt;/p&gt;&lt;pre&gt;Microsoft DNS Server 缓冲区错误漏洞
+危害等级: 中危
+收录时间：2026-10-13 | 更新时间: 2026-10-14 16:18:39
+CNNVD编号: CNNVD-2026-83183334&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-17505002 - Microsoft DNS Server 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-17505002</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-17505002</guid><pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate><description>Microsoft DNS Server 缓冲区错误漏洞
+危害等级: 中危
+收录时间：2026-10-13 | 更新时间: 2026-10-14 16:18:38
+CNNVD编号: CNNVD-2026-17505002</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-17505002&lt;/p&gt;&lt;pre&gt;Microsoft DNS Server 缓冲区错误漏洞
+危害等级: 中危
+收录时间：2026-10-13 | 更新时间: 2026-10-14 16:18:38
+CNNVD编号: CNNVD-2026-17505002&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-96746414 - Microsoft DNS Server 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-96746414</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-96746414</guid><pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate><description>Microsoft DNS Server 缓冲区错误漏洞
+危害等级: 中危
+收录时间：2026-10-13 | 更新时间: 2026-10-14 16:18:37
+CNNVD编号: CNNVD-2026-96746414</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-96746414&lt;/p&gt;&lt;pre&gt;Microsoft DNS Server 缓冲区错误漏洞
+危害等级: 中危
+收录时间：2026-10-13 | 更新时间: 2026-10-14 16:18:37
+CNNVD编号: CNNVD-2026-96746414&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-26462820 - Microsoft DNS Server 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-26462820</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-26462820</guid><pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate><description>Microsoft DNS Server 缓冲区错误漏洞
+危害等级: 中危
+收录时间：2026-10-13 | 更新时间: 2026-10-14 16:18:35
+CNNVD编号: CNNVD-2026-26462820</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-26462820&lt;/p&gt;&lt;pre&gt;Microsoft DNS Server 缓冲区错误漏洞
+危害等级: 中危
+收录时间：2026-10-13 | 更新时间: 2026-10-14 16:18:35
+CNNVD编号: CNNVD-2026-26462820&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-79586779 - SAP S/4HANA 代码注入漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-79586779</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-79586779</guid><pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate><description>SAP S/4HANA 代码注入漏洞
 危害等级: 超危
-收录时间：2026-10-13 | 更新时间: 2026-10-14 16:22:33
-CNNVD编号: CNNVD-2026-94412936</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-94412936&lt;/p&gt;&lt;pre&gt;Microsoft Office Outlook 缓冲区错误漏洞
+收录时间：2026-10-13 | 更新时间: 2026-10-14 11:55:10
+CNNVD编号: CNNVD-2026-79586779</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-79586779&lt;/p&gt;&lt;pre&gt;SAP S/4HANA 代码注入漏洞
 危害等级: 超危
-收录时间：2026-10-13 | 更新时间: 2026-10-14 16:22:33
-CNNVD编号: CNNVD-2026-94412936&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-59808837 - Microsoft Windows Search Component 竞争条件问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-59808837</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-59808837</guid><pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate><description>Microsoft Windows Search Component 竞争条件问题漏洞
-危害等级: 高危
-收录时间：2026-10-13 | 更新时间: 2026-10-14 16:22:31
-CNNVD编号: CNNVD-2026-59808837</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-59808837&lt;/p&gt;&lt;pre&gt;Microsoft Windows Search Component 竞争条件问题漏洞
-危害等级: 高危
-收录时间：2026-10-13 | 更新时间: 2026-10-14 16:22:31
-CNNVD编号: CNNVD-2026-59808837&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-21287772 - Microsoft Windows Deployment Services 竞争条件问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-21287772</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-21287772</guid><pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate><description>Microsoft Windows Deployment Services 竞争条件问题漏洞
-危害等级: 高危
-收录时间：2026-10-13 | 更新时间: 2026-10-14 16:22:31
-CNNVD编号: CNNVD-2026-21287772</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-21287772&lt;/p&gt;&lt;pre&gt;Microsoft Windows Deployment Services 竞争条件问题漏洞
-危害等级: 高危
-收录时间：2026-10-13 | 更新时间: 2026-10-14 16:22:31
-CNNVD编号: CNNVD-2026-21287772&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-53442713 - Microsoft Windows Universal Plug and Play Device Host 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-53442713</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-53442713</guid><pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate><description>Microsoft Windows Universal Plug and Play Device Host 缓冲区错误漏洞
-危害等级: 高危
-收录时间：2026-10-13 | 更新时间: 2026-10-14 16:22:50
-CNNVD编号: CNNVD-2026-53442713</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-53442713&lt;/p&gt;&lt;pre&gt;Microsoft Windows Universal Plug and Play Device Host 缓冲区错误漏洞
-危害等级: 高危
-收录时间：2026-10-13 | 更新时间: 2026-10-14 16:22:50
-CNNVD编号: CNNVD-2026-53442713&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-15514785 - Microsoft Windows Print Spooler Components 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-15514785</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-15514785</guid><pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate><description>Microsoft Windows Print Spooler Components 缓冲区错误漏洞
+收录时间：2026-10-13 | 更新时间: 2026-10-14 11:55:10
+CNNVD编号: CNNVD-2026-79586779&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-18587783 - SAP NetWeaver Enterprise Portal 权限许可和访问控制问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-18587783</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-18587783</guid><pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate><description>SAP NetWeaver Enterprise Portal 权限许可和访问控制问题漏洞
 危害等级: 中危
-收录时间：2026-10-13 | 更新时间: 2026-10-14 16:22:45
-CNNVD编号: CNNVD-2026-15514785</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-15514785&lt;/p&gt;&lt;pre&gt;Microsoft Windows Print Spooler Components 缓冲区错误漏洞
+收录时间：2026-10-13 | 更新时间: 2026-10-14 11:55:14
+CNNVD编号: CNNVD-2026-18587783</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-18587783&lt;/p&gt;&lt;pre&gt;SAP NetWeaver Enterprise Portal 权限许可和访问控制问题漏洞
 危害等级: 中危
-收录时间：2026-10-13 | 更新时间: 2026-10-14 16:22:45
-CNNVD编号: CNNVD-2026-15514785&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-53207969 - Microsoft .NET 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-53207969</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-53207969</guid><pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate><description>Microsoft .NET 输入验证错误漏洞
+收录时间：2026-10-13 | 更新时间: 2026-10-14 11:55:14
+CNNVD编号: CNNVD-2026-18587783&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-16550018 - SAP Commerce Cloud SQL注入漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-16550018</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-16550018</guid><pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate><description>SAP Commerce Cloud SQL注入漏洞
+危害等级: 高危
+收录时间：2026-10-13 | 更新时间: 2026-10-14 11:55:10
+CNNVD编号: CNNVD-2026-16550018</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-16550018&lt;/p&gt;&lt;pre&gt;SAP Commerce Cloud SQL注入漏洞
+危害等级: 高危
+收录时间：2026-10-13 | 更新时间: 2026-10-14 11:55:10
+CNNVD编号: CNNVD-2026-16550018&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-20959598 - SAP NetWeaver Enterprise Portal 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-20959598</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-20959598</guid><pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate><description>SAP NetWeaver Enterprise Portal 输入验证错误漏洞
 危害等级: 中危
-收录时间：2026-10-13 | 更新时间: 2026-10-14 16:22:13
-CNNVD编号: CNNVD-2026-53207969</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-53207969&lt;/p&gt;&lt;pre&gt;Microsoft .NET 输入验证错误漏洞
+收录时间：2026-10-13 | 更新时间: 2026-10-14 11:55:24
+CNNVD编号: CNNVD-2026-20959598</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-20959598&lt;/p&gt;&lt;pre&gt;SAP NetWeaver Enterprise Portal 输入验证错误漏洞
 危害等级: 中危
-收录时间：2026-10-13 | 更新时间: 2026-10-14 16:22:13
-CNNVD编号: CNNVD-2026-53207969&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-75577739 - Microsoft .NET 软件供应链问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75577739</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75577739</guid><pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate><description>Microsoft .NET 软件供应链问题漏洞
-危害等级: 高危
-收录时间：2026-10-13 | 更新时间: 2026-10-14 16:22:13
-CNNVD编号: CNNVD-2026-75577739</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75577739&lt;/p&gt;&lt;pre&gt;Microsoft .NET 软件供应链问题漏洞
-危害等级: 高危
-收录时间：2026-10-13 | 更新时间: 2026-10-14 16:22:13
-CNNVD编号: CNNVD-2026-75577739&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-76157795 - Microsoft Windows Internal System User Profile 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-76157795</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-76157795</guid><pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate><description>Microsoft Windows Internal System User Profile 资源管理错误漏洞
-危害等级: 高危
-收录时间：2026-10-13 | 更新时间: 2026-10-14 16:22:12
-CNNVD编号: CNNVD-2026-76157795</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-76157795&lt;/p&gt;&lt;pre&gt;Microsoft Windows Internal System User Profile 资源管理错误漏洞
-危害等级: 高危
-收录时间：2026-10-13 | 更新时间: 2026-10-14 16:22:12
-CNNVD编号: CNNVD-2026-76157795&lt;/pre&gt;</content:encoded></item></channel></rss>
+收录时间：2026-10-13 | 更新时间: 2026-10-14 11:55:24
+CNNVD编号: CNNVD-2026-20959598&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-15088675 - SAP S/4HANA 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-15088675</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-15088675</guid><pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate><description>SAP S/4HANA 授权问题漏洞
+危害等级: 中危
+收录时间：2026-10-13 | 更新时间: 2026-10-14 11:55:46
+CNNVD编号: CNNVD-2026-15088675</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-15088675&lt;/p&gt;&lt;pre&gt;SAP S/4HANA 授权问题漏洞
+危害等级: 中危
+收录时间：2026-10-13 | 更新时间: 2026-10-14 11:55:46
+CNNVD编号: CNNVD-2026-15088675&lt;/pre&gt;</content:encoded></item></channel></rss>
