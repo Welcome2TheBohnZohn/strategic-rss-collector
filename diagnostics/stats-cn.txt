@@ -30,14 +30,14 @@ https://www.stats.gov.cn/sj/zxfb/202610/t20261014_1965477.html
   2026年9月份居民消费价格同比上涨0.9%
 https://www.stats.gov.cn/sj/zxfb/202609/t20260915_1965309.html
   2026年1—8月份全国固定资产投资基本情况
-https://www.stats.gov.cn/sj/zxfb/202609/t20260909_1965263.html
-  2026年8月份居民消费价格同比上涨0.8%
 https://www.stats.gov.cn/sj/zxfb/202609/t20260915_1965310.html
   2026年1—8月份全国房地产市场基本情况
 https://www.stats.gov.cn/sj/zxfb/202609/t20260930_1965449.html
   2026年9月中国采购经理指数运行情况
 https://www.stats.gov.cn/sj/zxfb/202609/t20260915_1965307.html
   8月份国民经济运行平稳、发展向新向优
+https://www.stats.gov.cn/sj/zxfb/202610/t20261016_1965512.html
+  2025年全国科技经费投入统计公报
 https://www.stats.gov.cn/sj/zxfb/202609/t20260915_1965312.html
   2026年8月份能源生产情况
 
@@ -71,6 +71,8 @@ https://www.stats.gov.cn/zt_18555/
   专题
 https://www.stats.gov.cn/sj/zxfb/
   数据发布
+https://www.stats.gov.cn/sj/zxfb/202610/t20261016_1965512.html
+  2025年全国科技经费投入统计公报
 https://www.stats.gov.cn/sj/zxfb/202610/t20261014_1965477.html
   2026年9月份居民消费价格同比上涨0.9%
 https://www.stats.gov.cn/sj/zxfb/202610/t20261014_1965476.html
@@ -99,8 +101,6 @@ https://www.stats.gov.cn/sj/zxfb/202609/t20260915_1965304.html
   2026年8月份70个大中城市商品住宅销售价格变动情况
 https://www.stats.gov.cn/sj/zxfb/202609/t20260914_1965293.html
   2026年9月上旬流通领域重要生产资料市场价格变动情况
-https://www.stats.gov.cn/sj/zxfb/202609/t20260909_1965263.html
-  2026年8月份居民消费价格同比上涨0.8%
 http://www.gov.cn/
   中央人民政府门户网站
 http://www.fmprc.gov.cn/

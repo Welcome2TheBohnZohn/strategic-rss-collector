@@ -6,7 +6,7 @@ Include regex: /gfbw/|/xwfyr/|/wzll/
 Include text regex: 
 
 Candidate links: 50
-All links discovered: 243
+All links discovered: 244
 
 === MATCHED CANDIDATES ===
 
@@ -86,20 +86,20 @@ http://www.mod.gov.cn/gfbw/wzll/16493382.html
   “长城-2026”反恐国际论坛在京闭幕
 http://www.mod.gov.cn/gfbw/xwfyr/16491923.html
   2026年10月上旬国防部例行新闻发布
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16493355.html
+http://www.mod.gov.cn/gfbw/sy/tt_214026/16493506.html
+  习近平致信祝贺湖南大学建校100周年
+http://www.mod.gov.cn/gfbw/qwfb/16493349.html
   《求是》杂志发表习近平总书记重要文章
 http://www.mod.gov.cn/gfbw/gffw/16488819.html
   2026年下半年新兵运输工作全面启动
-http://www.mod.gov.cn/gfbw/jmsd/16492484.html
-  长城瞭望丨常清思想垃圾 常掏灵魂旮旯
 http://www.mod.gov.cn/gfbw/jmsd/16493002.html
   强军论坛丨练兵备战力戒“脱实向虚”
-http://www.mod.gov.cn/gfbw/jmsd/16492483.html
-  我眼中的政治整训丨搭好台才能唱好戏
 http://www.mod.gov.cn/gfbw/fgwx/16448582.html
   中华人民共和国民族团结进步促进法
 http://www.mod.gov.cn/gfbw/jmsd/16490931.html
   解放军报评论员：推进祖国统一大业
+http://www.mod.gov.cn/gfbw/jmsd/16493470.html
+  强军论坛丨见人所未见 行人所未行
 http://www.mod.gov.cn/gfbw/sy/rt/16492834.html
   习近平会见多哥部长会议主席福雷
 http://www.mod.gov.cn/gfbw/qwfb/16492807.html
@@ -298,10 +298,10 @@ http://www.mod.gov.cn/gfbw/sy/jt_214028/16491335.html
   陆军某部官兵执行巡逻任务
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16491231.html
   海军某支队开展海上多科目训练
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16493355.html
-  《求是》杂志发表习近平总书记重要文章
-http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16493354.html
-  《以更高标准、更实举措推进全面从严治党》
+http://www.mod.gov.cn/gfbw/sy/tt_214026/16493506.html
+  习近平致信祝贺湖南大学建校100周年
+http://www.mod.gov.cn/gfbw/sy/tt_214026/16493508.html
+  贺信全文
 http://www.mod.gov.cn/gfbw/sy/rt/16492818.html
   习近平出席全国卫生与健康大会并发表重要讲话
 http://www.mod.gov.cn/gfbw/sy/rt/16492828.html
@@ -312,6 +312,10 @@ http://www.mod.gov.cn/gfbw/sy/rt/16490689.html
   习近平等党和国家领导人出席庆祝中华人民共和国成立77周年招待会
 http://www.mod.gov.cn/gfbw/sy/rt/16490629.html
   习近平等党和国家领导人出席烈士纪念日向人民英雄敬献花篮仪式
+http://www.mod.gov.cn/gfbw/qwfb/16493349.html
+  《求是》杂志发表习近平总书记重要文章
+http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16493354.html
+  《以更高标准、更实举措推进全面从严治党》
 http://www.mod.gov.cn/gfbw/qwfb/16493356.html
   习近平向第140届中国进出口商品交易会致贺信
 http://www.mod.gov.cn/gfbw/qwfb/16493089.html
@@ -322,18 +326,16 @@ http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16492809.html
   中博联合声明
 http://www.mod.gov.cn/gfbw/qwfb/16492807.html
   习近平会见多哥部长会议主席福雷
-http://www.mod.gov.cn/gfbw/qwfb/16489956.html
-  张升民会见王戟同志先进事迹报告团成员并讲话
 http://www.mod.gov.cn/gfbw/qwfb/16491925.html
   2026年10月上旬国防部例行新闻发布
+http://www.mod.gov.cn/gfbw/qwfb/16489956.html
+  张升民会见王戟同志先进事迹报告团成员并讲话
 http://www.mod.gov.cn/gfbw/qwfb/16492998.html
   海军辽宁舰航母编队赴西太平洋相关海域开展训练
 http://www.mod.gov.cn/gfbw/qwfb/16493384.html
   “长城-2026”反恐国际论坛在京闭幕
 http://www.mod.gov.cn/gfbw/qwfb/16493197.html
   中巴“喀喇昆仑-2026”陆军联合训练举行开训仪式
-http://www.mod.gov.cn/gfbw/qwfb/16493419.html
-  《伟大远征》第一集《问道》
 http://www.mod.gov.cn/gfbw/jswj/16492058.html
   海军“吉祥方舟”号医院船结束访问几内亚
 http://www.mod.gov.cn/gfbw/jswj/16489422.html
@@ -405,12 +407,12 @@ http://www.mod.gov.cn/gfbw/jmsd/index.html
   军媒视点
 http://www.mod.gov.cn/gfbw/jmsd/16490931.html
   解放军报评论员：推进祖国统一大业
+http://www.mod.gov.cn/gfbw/jmsd/16493492.html
+  清风正气歌丨接力守护见赤诚
+http://www.mod.gov.cn/gfbw/jmsd/16493470.html
+  强军论坛丨见人所未见 行人所未行
 http://www.mod.gov.cn/gfbw/jmsd/16493002.html
   强军论坛丨练兵备战力戒“脱实向虚”
-http://www.mod.gov.cn/gfbw/jmsd/16492484.html
-  长城瞭望丨常清思想垃圾 常掏灵魂旮旯
-http://www.mod.gov.cn/gfbw/jmsd/16492483.html
-  我眼中的政治整训丨搭好台才能唱好戏
 http://www.mod.gov.cn/gfbw/gfdy/16487706.html
   云南省贡山县人武部结对帮扶独龙江乡马库村
 http://www.mod.gov.cn/gfbw/gfdy/16493246.html
