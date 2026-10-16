@@ -6,7 +6,7 @@ Include regex: sastind\.gov\.cn/.+
 Include text regex: 
 
 Candidate links: 50
-All links discovered: 69
+All links discovered: 70
 
 === MATCHED CANDIDATES ===
 
@@ -16,8 +16,6 @@ https://www.sastind.gov.cn/n10624520/c10712789/content.html
   国家国防科工局党组召开全体党员干部大会 传达学习贯彻党的二...
 https://www.sastind.gov.cn/n10086167/n10086216/c10779740/content.html
   通知公告 | 国家国防科技工业局2027年度考试录用公务员...
-https://www.sastind.gov.cn/n10086167/n10086216/c10775042/content.html
-  通知公告 | 探月与航天工程中心2026年第二批社会招聘公...
 https://www.sastind.gov.cn/n10086200/n10086344/c10775762/content.html
   工作动态 | 国家国防科工局贯彻落实全国安全生产视频会议...
 https://www.sastind.gov.cn/n10086167/n10086216/c10775162/content.html
@@ -38,6 +36,8 @@ https://www.sastind.gov.cn/n10086200/n10086319/c10779660/content.html
   中华人民共和国和博茨瓦纳共和国关于建立全面战略合...
 https://www.sastind.gov.cn/n10624520/c10712740/content.html
   国家国防科工局党组召开第三轮巡视集中反馈会议
+https://www.sastind.gov.cn/n10086200/n10086319/c10786564/content.html
+  第20期《求是》杂志发表习近平总书记重要文章
 https://www.sastind.gov.cn/n10086200/n10086319/c10780152/content.html
   习近平：以更高标准、更实举措推进全面从严治党
 https://www.sastind.gov.cn/n10086200/n10086319/c10779940/content.html
@@ -46,8 +46,8 @@ https://www.sastind.gov.cn/n10086200/n10086344/c10775702/content.html
   工作动态 | 十三载接力同行 军工情润泽红土
 https://www.sastind.gov.cn/n10086200/n10086319/c10780242/content.html
   习近平致信祝贺湖南大学建校100周年
-https://www.sastind.gov.cn/n10086200/n10086319/c10779640/content.html
-  习近平同博茨瓦纳总统博科会谈
+https://www.sastind.gov.cn/n10086167/n10086216/c10786982/content.html
+  通知公告 |核出口管制清单
 https://www.sastind.gov.cn/n10115275/n10119032/index.html
   地方国防科技工业管理部门
 https://www.sastind.gov.cn/n10086167/n10086182/n10640116/index.html
@@ -179,6 +179,8 @@ https://www.sastind.gov.cn/n10624520/c10708010/content.html
   国家国防科工局召开2025年机关退休干部大会暨半年情况通报会
 https://www.sastind.gov.cn/n10624520/c10705260/content.html
   国家国防科工局召开《习近平谈治国理政》第五卷学习部署会
+https://www.sastind.gov.cn/n10086200/n10086319/c10786564/content.html
+  第20期《求是》杂志发表习近平总书记重要文章
 https://www.sastind.gov.cn/n10086200/n10086319/c10780242/content.html
   习近平致信祝贺湖南大学建校100周年
 https://www.sastind.gov.cn/n10086200/n10086319/c10780152/content.html
@@ -191,8 +193,6 @@ https://www.sastind.gov.cn/n10086200/n10086319/c10779672/content.html
   习近平在全国卫生与健康大会上强调 坚定不移走中国...
 https://www.sastind.gov.cn/n10086200/n10086319/c10779660/content.html
   中华人民共和国和博茨瓦纳共和国关于建立全面战略合...
-https://www.sastind.gov.cn/n10086200/n10086319/c10779640/content.html
-  习近平同博茨瓦纳总统博科会谈
 https://www.cnsa.gov.cn/n6758823/n6758844/n10777482/index.html
 https://www.sastind.gov.cn/n10086200/n10086344/c10779422/content.html
   工作动态 | 国家国防科工局创新组团式帮扶机制 汉中地...
@@ -202,12 +202,14 @@ https://www.sastind.gov.cn/n10086200/n10086344/c10775702/content.html
   工作动态 | 十三载接力同行 军工情润泽红土
 https://www.sastind.gov.cn/n10086200/n10086344/c10775636/content.html
   工作动态 | “时代楷模”王戟同志先进事迹报告会在京举行
+https://www.sastind.gov.cn/n10086167/n10086216/c10786982/attr/10787128.pdf
+  通知公告 | 核出口管制清单
+https://www.sastind.gov.cn/n10086167/n10086216/c10786982/content.html
+  通知公告 |核出口管制清单
 https://www.sastind.gov.cn/n10086167/n10086216/c10779740/content.html
   通知公告 | 国家国防科技工业局2027年度考试录用公务员...
 https://www.sastind.gov.cn/n10086167/n10086216/c10775162/content.html
   通知公告 | 国家国防科工局 公安部关于印发《国防科研生...
-https://www.sastind.gov.cn/n10086167/n10086216/c10775042/content.html
-  通知公告 | 探月与航天工程中心2026年第二批社会招聘公...
 https://www.sastind.gov.cn/n10086167/n10086182/n10640116/index.html
   单忠德
 https://www.sastind.gov.cn/n10086167/n10086182/n10094594/index.html

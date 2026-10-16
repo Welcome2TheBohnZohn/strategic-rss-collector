@@ -1,0 +1,7 @@
+# Statement by the Ministry of Foreign Affairs of the Islamic Republic of Iran condemning the opening of Colombia’s embassy in Occupied al-Quds
+
+Published: 2026-10-15 00:00:00
+
+Source: https://en.mfa.gov.ir/portal/newsview/796051
+
+The Ministry of Foreign Affairs of the Islamic Republic of Iran strongly condemns the Colombian government’s move to open its embassy in occupied al-Quds, deeming it contrary to the Charter of the United Nations and the fundamental principles of international law. Al-Quds is an inseparable part of Palestinian territory, and all states are obligated under international law to refrain from any action that would amount to recognition of the Israeli regime’s occupation. Undoubtedly, the alignment of Colombia’s current ruling establishment with the occupying and genocidal regime, and their legitimization of the occupation of Palestinian territory, stand in stark contradiction to the ideals of independence and justice that have shaped a significant part of the history of the struggles of the people of Colombia and Latin America. The Colombian ruling body's move to open the country’s embassy in occupied Jerusalem runs counter to Colombia’s international legal obligations to respect the right of peoples to self-determination and amounts to endorsing occupation and violating the Palestinian people’s right to self-determination. The Colombian government must accept responsibility for the consequences of its unethical decision, which is contrary to international law.
