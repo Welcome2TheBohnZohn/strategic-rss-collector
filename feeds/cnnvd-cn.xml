@@ -1,62 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Fri, 16 Oct 2026 04:50:31 +0000</lastBuildDate><item><title>CNNVD-2026-86624899 - Eclipse NetX Duo 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-86624899</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-86624899</guid><pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate><description>Eclipse NetX Duo 授权问题漏洞
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Fri, 16 Oct 2026 11:43:27 +0000</lastBuildDate><item><title>CNNVD-2026-32770779 - WordPress FluentCart A New Era of eCommerce 信息泄露漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-32770779</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-32770779</guid><pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate><description>WordPress FluentCart A New Era of eCommerce 信息泄露漏洞
 危害等级: 高危
-收录时间：2026-10-14 | 更新时间: 2026-10-15 16:19:33
-CNNVD编号: CNNVD-2026-86624899</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-86624899&lt;/p&gt;&lt;pre&gt;Eclipse NetX Duo 授权问题漏洞
+收录时间：2026-10-15 | 更新时间: 2026-10-16 16:41:54
+CNNVD编号: CNNVD-2026-32770779</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-32770779&lt;/p&gt;&lt;pre&gt;WordPress FluentCart A New Era of eCommerce 信息泄露漏洞
 危害等级: 高危
-收录时间：2026-10-14 | 更新时间: 2026-10-15 16:19:33
-CNNVD编号: CNNVD-2026-86624899&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-89693468 - Epic Games Unreal Engine 配置错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-89693468</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-89693468</guid><pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate><description>Epic Games Unreal Engine 配置错误漏洞
+收录时间：2026-10-15 | 更新时间: 2026-10-16 16:41:54
+CNNVD编号: CNNVD-2026-32770779&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-43012498 - WordPress Ajax Search Lite 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-43012498</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-43012498</guid><pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate><description>WordPress Ajax Search Lite 授权问题漏洞
+危害等级: 中危
+收录时间：2026-10-15 | 更新时间: 2026-10-16 16:41:53
+CNNVD编号: CNNVD-2026-43012498</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-43012498&lt;/p&gt;&lt;pre&gt;WordPress Ajax Search Lite 授权问题漏洞
+危害等级: 中危
+收录时间：2026-10-15 | 更新时间: 2026-10-16 16:41:53
+CNNVD编号: CNNVD-2026-43012498&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-11443786 - ggml whisper.cpp 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-11443786</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-11443786</guid><pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate><description>ggml whisper.cpp 缓冲区错误漏洞
+危害等级: 低危
+收录时间：2026-10-15 | 更新时间: 2026-10-16 16:41:53
+CNNVD编号: CNNVD-2026-11443786</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-11443786&lt;/p&gt;&lt;pre&gt;ggml whisper.cpp 缓冲区错误漏洞
+危害等级: 低危
+收录时间：2026-10-15 | 更新时间: 2026-10-16 16:41:53
+CNNVD编号: CNNVD-2026-11443786&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-67821012 - Libxmp 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-67821012</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-67821012</guid><pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate><description>Libxmp 缓冲区错误漏洞
+危害等级: 中危
+收录时间：2026-10-15 | 更新时间: 2026-10-16 16:41:50
+CNNVD编号: CNNVD-2026-67821012</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-67821012&lt;/p&gt;&lt;pre&gt;Libxmp 缓冲区错误漏洞
+危害等级: 中危
+收录时间：2026-10-15 | 更新时间: 2026-10-16 16:41:50
+CNNVD编号: CNNVD-2026-67821012&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-34294952 - Helium Edu Helium Platform 服务端请求伪造漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-34294952</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-34294952</guid><pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate><description>Helium Edu Helium Platform 服务端请求伪造漏洞
+危害等级: 中危
+收录时间：2026-10-15 | 更新时间: 2026-10-16 16:41:45
+CNNVD编号: CNNVD-2026-34294952</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-34294952&lt;/p&gt;&lt;pre&gt;Helium Edu Helium Platform 服务端请求伪造漏洞
+危害等级: 中危
+收录时间：2026-10-15 | 更新时间: 2026-10-16 16:41:45
+CNNVD编号: CNNVD-2026-34294952&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-74589562 - Lychee Organisation Lychee 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-74589562</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-74589562</guid><pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate><description>Lychee Organisation Lychee 授权问题漏洞
 危害等级: 高危
-收录时间：2026-10-14 | 更新时间: 2026-10-15 16:19:35
-CNNVD编号: CNNVD-2026-89693468</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-89693468&lt;/p&gt;&lt;pre&gt;Epic Games Unreal Engine 配置错误漏洞
+收录时间：2026-10-15 | 更新时间: 2026-10-16 16:41:44
+CNNVD编号: CNNVD-2026-74589562</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-74589562&lt;/p&gt;&lt;pre&gt;Lychee Organisation Lychee 授权问题漏洞
 危害等级: 高危
-收录时间：2026-10-14 | 更新时间: 2026-10-15 16:19:35
-CNNVD编号: CNNVD-2026-89693468&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-50073222 - Gitea 权限许可和访问控制问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-50073222</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-50073222</guid><pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate><description>Gitea 权限许可和访问控制问题漏洞
+收录时间：2026-10-15 | 更新时间: 2026-10-16 16:41:44
+CNNVD编号: CNNVD-2026-74589562&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-44437375 - GEO CORPORATION ゲオアプリ 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-44437375</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-44437375</guid><pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate><description>GEO CORPORATION ゲオアプリ 授权问题漏洞
 危害等级: 中危
-收录时间：2026-10-14 | 更新时间: 2026-10-15 16:19:45
-CNNVD编号: CNNVD-2026-50073222</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-50073222&lt;/p&gt;&lt;pre&gt;Gitea 权限许可和访问控制问题漏洞
+收录时间：2026-10-15 | 更新时间: 2026-10-16 16:41:43
+CNNVD编号: CNNVD-2026-44437375</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-44437375&lt;/p&gt;&lt;pre&gt;GEO CORPORATION ゲオアプリ 授权问题漏洞
 危害等级: 中危
-收录时间：2026-10-14 | 更新时间: 2026-10-15 16:19:45
-CNNVD编号: CNNVD-2026-50073222&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-22444024 - Gitea 权限许可和访问控制问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22444024</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22444024</guid><pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate><description>Gitea 权限许可和访问控制问题漏洞
-危害等级: 中危
-收录时间：2026-10-14 | 更新时间: 2026-10-15 16:19:45
-CNNVD编号: CNNVD-2026-22444024</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22444024&lt;/p&gt;&lt;pre&gt;Gitea 权限许可和访问控制问题漏洞
-危害等级: 中危
-收录时间：2026-10-14 | 更新时间: 2026-10-15 16:19:45
-CNNVD编号: CNNVD-2026-22444024&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-93044991 - Gitea 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-93044991</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-93044991</guid><pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate><description>Gitea 资源管理错误漏洞
-危害等级: 中危
-收录时间：2026-10-14 | 更新时间: 2026-10-15 16:19:45
-CNNVD编号: CNNVD-2026-93044991</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-93044991&lt;/p&gt;&lt;pre&gt;Gitea 资源管理错误漏洞
-危害等级: 中危
-收录时间：2026-10-14 | 更新时间: 2026-10-15 16:19:45
-CNNVD编号: CNNVD-2026-93044991&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-64942448 - David Printcart Store – Web to Print Product Designer for WooCommerce 任意文件上传漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-64942448</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-64942448</guid><pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate><description>David Printcart Store – Web to Print Product Designer for WooCommerce 任意文件上传漏洞
+收录时间：2026-10-15 | 更新时间: 2026-10-16 16:41:43
+CNNVD编号: CNNVD-2026-44437375&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-59811666 - Linux kernel 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-59811666</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-59811666</guid><pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate><description>Linux kernel 安全漏洞
 危害等级: 超危
-收录时间：2026-10-14 | 更新时间: 2026-10-15 16:19:33
-CNNVD编号: CNNVD-2026-64942448</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-64942448&lt;/p&gt;&lt;pre&gt;David Printcart Store – Web to Print Product Designer for WooCommerce 任意文件上传漏洞
+收录时间：2026-10-15 | 更新时间: 2026-10-16 16:41:42
+CNNVD编号: CNNVD-2026-59811666</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-59811666&lt;/p&gt;&lt;pre&gt;Linux kernel 安全漏洞
 危害等级: 超危
-收录时间：2026-10-14 | 更新时间: 2026-10-15 16:19:33
-CNNVD编号: CNNVD-2026-64942448&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-49304181 - F5 NGINX Plus 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-49304181</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-49304181</guid><pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate><description>F5 NGINX Plus 输入验证错误漏洞
+收录时间：2026-10-15 | 更新时间: 2026-10-16 16:41:42
+CNNVD编号: CNNVD-2026-59811666&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-85965197 - Linux kernel 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-85965197</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-85965197</guid><pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate><description>Linux kernel 安全漏洞
+危害等级: 超危
+收录时间：2026-10-15 | 更新时间: 2026-10-16 16:41:32
+CNNVD编号: CNNVD-2026-85965197</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-85965197&lt;/p&gt;&lt;pre&gt;Linux kernel 安全漏洞
+危害等级: 超危
+收录时间：2026-10-15 | 更新时间: 2026-10-16 16:41:32
+CNNVD编号: CNNVD-2026-85965197&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-24693624 - heasarc CFITSIO 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-24693624</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-24693624</guid><pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate><description>heasarc CFITSIO 缓冲区错误漏洞
 危害等级: 中危
-收录时间：2026-10-14 | 更新时间: 2026-10-15 16:19:40
-CNNVD编号: CNNVD-2026-49304181</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-49304181&lt;/p&gt;&lt;pre&gt;F5 NGINX Plus 输入验证错误漏洞
+收录时间：2026-10-15 | 更新时间: 2026-10-16 16:41:50
+CNNVD编号: CNNVD-2026-24693624</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-24693624&lt;/p&gt;&lt;pre&gt;heasarc CFITSIO 缓冲区错误漏洞
 危害等级: 中危
-收录时间：2026-10-14 | 更新时间: 2026-10-15 16:19:40
-CNNVD编号: CNNVD-2026-49304181&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-77651452 - F5 NGINX Plus 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-77651452</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-77651452</guid><pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate><description>F5 NGINX Plus 资源管理错误漏洞
-危害等级: 高危
-收录时间：2026-10-14 | 更新时间: 2026-10-15 16:19:40
-CNNVD编号: CNNVD-2026-77651452</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-77651452&lt;/p&gt;&lt;pre&gt;F5 NGINX Plus 资源管理错误漏洞
-危害等级: 高危
-收录时间：2026-10-14 | 更新时间: 2026-10-15 16:19:40
-CNNVD编号: CNNVD-2026-77651452&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-83059731 - Akamai Guardicore Platform Agent 命令注入漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-83059731</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-83059731</guid><pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate><description>Akamai Guardicore Platform Agent 命令注入漏洞
-危害等级: 中危
-收录时间：2026-10-14 | 更新时间: 2026-10-15 16:18:51
-CNNVD编号: CNNVD-2026-83059731</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-83059731&lt;/p&gt;&lt;pre&gt;Akamai Guardicore Platform Agent 命令注入漏洞
-危害等级: 中危
-收录时间：2026-10-14 | 更新时间: 2026-10-15 16:18:51
-CNNVD编号: CNNVD-2026-83059731&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-75188556 - Akamai Guardicore Platform Agent 数字错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75188556</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75188556</guid><pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate><description>Akamai Guardicore Platform Agent 数字错误漏洞
-危害等级: 中危
-收录时间：2026-10-14 | 更新时间: 2026-10-15 16:18:51
-CNNVD编号: CNNVD-2026-75188556</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75188556&lt;/p&gt;&lt;pre&gt;Akamai Guardicore Platform Agent 数字错误漏洞
-危害等级: 中危
-收录时间：2026-10-14 | 更新时间: 2026-10-15 16:18:51
-CNNVD编号: CNNVD-2026-75188556&lt;/pre&gt;</content:encoded></item></channel></rss>
+收录时间：2026-10-15 | 更新时间: 2026-10-16 16:41:50
+CNNVD编号: CNNVD-2026-24693624&lt;/pre&gt;</content:encoded></item></channel></rss>
