@@ -20,6 +20,8 @@ http://www.mod.gov.cn/gfbw/fgwx/16482045.html
   中华人民共和国国防动员法
 http://www.mod.gov.cn/gfbw/fgwx/16444625.html
   中央军委政治工作部等6部门联合印发《关于做好边远艰苦地区和大龄未婚官兵婚恋服务工作的意见》
+http://www.mod.gov.cn/gfbw/sy/tt_214026/16493867.html
+  “有高远目标，更有耐心有定力”——习近平总书记在内蒙古乌兰察布考察纪实
 http://www.mod.gov.cn/gfbw/gfdy/16493246.html
   河南省漯河市召陵区探索军地一体应急保障新路径建立预储机制 贯通保障链路
 http://www.mod.gov.cn/gfbw/gffw/16490106.html
@@ -52,8 +54,6 @@ http://www.mod.gov.cn/gfbw/wzll/16493767.html
   南沙某守备部队建立“官兵之家”，优化为兵服务质效
 http://www.mod.gov.cn/gfbw/jsxd/16491543.html
   中国海军第48批护航编队抵达马来西亚进行友好访问
-http://www.mod.gov.cn/gfbw/qwfb/16493567.html
-  国防部：中方将以有力行动遏制任何祸乱南海的行径
 http://www.mod.gov.cn/gfbw/jswj/16488353.html
   中国海军“吉祥方舟”号医院船结束访问毛里塔尼亚
 http://www.mod.gov.cn/gfbw/jsxd/16490415.html
@@ -298,8 +298,8 @@ http://www.mod.gov.cn/gfbw/sy/jt_214028/16491335.html
   陆军某部官兵执行巡逻任务
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16491231.html
   海军某支队开展海上多科目训练
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16493648.html
-  习近平在内蒙古乌兰察布考察
+http://www.mod.gov.cn/gfbw/sy/tt_214026/16493867.html
+  “有高远目标，更有耐心有定力”——习近平总书记在内蒙古乌兰察布考察纪实
 http://www.mod.gov.cn/gfbw/sy/rt/16493699.html
   习近平在内蒙古乌兰察布考察
 http://www.mod.gov.cn/gfbw/sy/rt/16492818.html
@@ -310,6 +310,8 @@ http://www.mod.gov.cn/gfbw/sy/rt/16492834.html
   习近平会见多哥部长会议主席福雷
 http://www.mod.gov.cn/gfbw/sy/rt/16490689.html
   习近平等党和国家领导人出席庆祝中华人民共和国成立77周年招待会
+http://www.mod.gov.cn/gfbw/qwfb/16493868.html
+  习近平在内蒙古乌兰察布考察
 http://www.mod.gov.cn/gfbw/qwfb/16493505.html
   习近平致信祝贺湖南大学建校100周年
 http://www.mod.gov.cn/gfbw/sy/tt_214026/16493508.html
@@ -322,18 +324,16 @@ http://www.mod.gov.cn/gfbw/qwfb/16493356.html
   习近平向第140届中国进出口商品交易会致贺信
 http://www.mod.gov.cn/gfbw/qwfb/16493089.html
   习近平出席全国卫生与健康大会并发表重要讲话
-http://www.mod.gov.cn/gfbw/qwfb/16493564.html
-  中国海军将举办2026年西太平洋海军论坛医学研讨会
 http://www.mod.gov.cn/gfbw/qwfb/16493583.html
   2026年10月中旬国防部例行新闻发布
+http://www.mod.gov.cn/gfbw/qwfb/16493564.html
+  中国海军将举办2026年西太平洋海军论坛医学研讨会
 http://www.mod.gov.cn/gfbw/qwfb/16493565.html
   国防部：驻华空军武官将赴天津参访
 http://www.mod.gov.cn/gfbw/qwfb/16493566.html
   联合国维和无人机培训班将在西安举办
 http://www.mod.gov.cn/gfbw/qwfb/16493568.html
   国防部：菲个别政客为一己私利破坏中菲两国两军关系
-http://www.mod.gov.cn/gfbw/qwfb/16493567.html
-  国防部：中方将以有力行动遏制任何祸乱南海的行径
 http://www.mod.gov.cn/gfbw/jswj/16492058.html
   海军“吉祥方舟”号医院船结束访问几内亚
 http://www.mod.gov.cn/gfbw/jswj/16489422.html
@@ -370,14 +370,14 @@ http://www.mod.gov.cn/gfbw/xwfyr/16491899.html
   日本“新型军国主义”灰犀牛加速狂奔 威胁地区和平稳定
 http://www.mod.gov.cn/gfbw/xwfyr/16491923.html
   2026年10月上旬国防部例行新闻发布
+http://www.mod.gov.cn/gfbw/spbb_214126/16493899.html
+  《伟大远征》第三集《铁流》
 http://www.mod.gov.cn/gfbw/spbb_214126/16493703.html
   《伟大远征》第二集《定向》
+http://www.mod.gov.cn/gfbw/spbb_214126/16493900.html
+  《伟大远征》第一集《问道》
 http://www.mod.gov.cn/gfbw/spbb_214126/16492092.html
   AI微短剧《铁记得》第四集
-http://www.mod.gov.cn/gfbw/spbb_214126/16491838.html
-  AI微短剧《铁记得》第三集
-http://www.mod.gov.cn/gfbw/spbb_214126/16491697.html
-  AI微短剧《铁记得》第二集
 https://www.81.cn/jfjbmap/content/2022-03/21/node_2.htm
 http://www.81.cn/rmjz_203219/zggfb/index.html
   中国国防报
@@ -514,7 +514,7 @@ http://www.mod.gov.cn/gfbw/jswj/_attachment/2026/10/11/16492058_4bac93b09e6b6dda
 http://www.mod.gov.cn/gfbw/wzll/_attachment/2026/09/21/16487929_597d176f0af87a3946ecafb4704fe574.jpg
 http://www.mod.gov.cn/gfbw/jsxd/_attachment/2026/10/08/16491543_1435698845fc0ee204de122f24f6e62c.jpg
 http://www.mod.gov.cn/gfbw/xwfyr/lxjzhzt/_attachment/2026/09/30/16490674_45f93abb8ab64cb03661fac3cb561bf4.jpg
-http://www.mod.gov.cn/gfbw/spbb_214126/_attachment/2026/10/16/16493703_e6413af678f4f0cec317eb7501f3f06a.png
+http://www.mod.gov.cn/gfbw/spbb_214126/_attachment/2026/10/17/16493899_d2449bd5b87e46959bf958497d3d76c7.jpg
 http://www.mod.gov.cn/template/tenant207/t179/img/brief.jpg
 http://www.plapic.com.cn/jfjhb/wqhg/_attachment/2026/09/03/16483310_d73f966d3b4f4e2e1e0e6e519257b599.jpg
 http://www.mod.gov.cn/template/tenant207/t179/img/gfb.jpg
