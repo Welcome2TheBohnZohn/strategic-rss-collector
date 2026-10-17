@@ -94,8 +94,6 @@ https://www.ncpssd.cn/message?id=19564
   《在学术期刊中合理应用人工智能的倡议书》发布
 https://www.ncpssd.cn/message?id=18273
   国家哲学社会科学文献中心走进贵州省图书馆学会
-https://www.ncpssd.cn/message?id=22414
-  习近平出席全国卫生与健康大会并发表重要讲话
 https://www.ncpssd.cn/js/jquery-1.11.1.min.js
   jquery-1.11.1.min.js
 https://www.ncpssd.cn/css/jquery.hiSlider.css
@@ -106,6 +104,10 @@ https://www.ncpssd.cn/sso/getTokenCurrentUser?ssoClient=wxEN
   getTokenCurrentUser
 https://www.ncpssd.cn/Literature/ancientbooklistNew?nav=5
   ancientbooklistNew
+https://www.ncpssd.cn/message?id=22422
+  习近平致湖南大学建校100周年的贺信
+https://www.ncpssd.cn/message?id=22421
+  习近平致信祝贺湖南大学建校100周年
 https://www.ncpssd.cn/js/jquery.hiSlider.js
   jquery.hiSlider.js
 https://www.ncpssd.cn/js/sensorsdata.min.js
@@ -114,8 +116,6 @@ https://www.ncpssd.cn/Literature/ancientbooklistNew
   ancientbooklistNew
 https://www.ncpssd.cn/js/jquery.base64.js
   jquery.base64.js
-https://www.ncpssd.cn/message?id=22418
-  习近平会见多哥部长会议主席福雷
 
 === ALL DISCOVERED LINKS ===
 
@@ -161,16 +161,16 @@ https://www.ncpssd.cn/messages
 https://www.ncpssd.cn/message?id=22416
 https://www.ncpssd.cn/message?id=22415
 https://www.ncpssd.cn/message?id=22266
+https://www.ncpssd.cn/message?id=22423
+  习近平在内蒙古乌兰察布考察
+https://www.ncpssd.cn/message?id=22422
+  习近平致湖南大学建校100周年的贺信
+https://www.ncpssd.cn/message?id=22421
+  习近平致信祝贺湖南大学建校100周年
 https://www.ncpssd.cn/message?id=22420
   习近平：以更高标准、更实举措推进全面从严治党
 https://www.ncpssd.cn/message?id=22419
   习近平向第140届中国进出口商品交易会致贺信
-https://www.ncpssd.cn/message?id=22418
-  习近平会见多哥部长会议主席福雷
-https://www.ncpssd.cn/message?id=22417
-  习近平同博茨瓦纳总统博科会谈
-https://www.ncpssd.cn/message?id=22414
-  习近平出席全国卫生与健康大会并发表重要讲话
 https://www.ncpssd.cn/message?id=19563
   国家哲学社会科学文献中心发布最受欢迎期刊报告
 https://www.ncpssd.cn/message?id=19564
