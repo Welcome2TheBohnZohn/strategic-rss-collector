@@ -6,7 +6,7 @@ Include regex: cssc\.net\.cn/n5/n18/c\d+/content\.html
 Include text regex: 
 
 Candidate links: 10
-All links discovered: 309
+All links discovered: 310
 
 === MATCHED CANDIDATES ===
 
@@ -18,14 +18,14 @@ http://www.cssc.net.cn/n5/n18/c34218/content.html
   中船集团在全国班组长大赛国防科技赛道决赛中斩获佳绩
 http://www.cssc.net.cn/n5/n18/c34216/content.html
   一图读懂｜中船集团青年突击队组建管理工作指引
+http://www.cssc.net.cn/n5/n18/c34236/content.html
+  中国船舶集团党组向全体离退休老同志致慰问信
 http://www.cssc.net.cn/n5/n18/c34204/content.html
   中船集团召开2026年三季度经济运行分析会
 http://www.cssc.net.cn/n5/n18/c34203/content.html
   中船集团召开穿透式监管工作启动部署会
 http://www.cssc.net.cn/n5/n18/c34209/content.html
   中船集团召开进一步深化改革部署会
-http://www.cssc.net.cn/n5/n18/c34193/content.html
-  国庆出游，“十要十不要”请记牢！
 http://www.cssc.net.cn/n5/n18/c34225/content.html
   中船集团采购与招标中心成立
 http://www.cssc.net.cn/n5/n18/c34196/content.html
@@ -77,6 +77,8 @@ http://www.cssc.net.cn/n5/n1255/index.html
   头条新闻
 http://www.cssc.net.cn/n5/n1390/index.html
   上市公司
+http://www.cssc.net.cn/n5/n18/c34236/content.html
+  中国船舶集团党组向全体离退休老同志致慰问信
 http://www.cssc.net.cn/n5/n18/c34225/content.html
   中船集团采购与招标中心成立
 http://www.cssc.net.cn/n5/n18/c34218/content.html
@@ -95,8 +97,6 @@ http://www.cssc.net.cn/n5/n18/c34196/content.html
   今日寒露｜中船二十四节气
 http://www.cssc.net.cn/n5/n18/c34195/content.html
   中船集团党组国庆期间开展“四不两直”安全检查 慰问坚守一线员工
-http://www.cssc.net.cn/n5/n18/c34193/content.html
-  国庆出游，“十要十不要”请记牢！
 http://www.cssc.net.cn/n5/n18/index_6204_1.html
 http://www.cssc.net.cn/n5/n18/index_6204_2.html
 http://www.cssc.net.cn/n5/n18/index_6204_3.html
@@ -333,6 +333,7 @@ http://www.cssc.net.cn/n5/n18/index_6204_233.html
 http://www.cssc.net.cn/n5/n18/index_6204_234.html
 http://www.cssc.net.cn/n5/n18/index_6204_235.html
 http://www.cssc.net.cn/n5/n18/index_6204_236.html
+http://www.cssc.net.cn/n5/n18/index_6204_237.html
 http://www.cssc.net.cn/n129/n131/index.html
   联系我们
 http://www.cssc.net.cn/n129/n133/index.html
