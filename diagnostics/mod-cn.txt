@@ -14,8 +14,6 @@ http://www.mod.gov.cn/gfbw/fgwx/16482016.html
   全国人大常委会表决通过新修订的国防动员法
 http://www.mod.gov.cn/gfbw/jswj/16492058.html
   海军“吉祥方舟”号医院船结束访问几内亚
-http://www.mod.gov.cn/gfbw/spbb_214126/16492092.html
-  AI微短剧《铁记得》第四集
 http://www.mod.gov.cn/gfbw/fgwx/16482045.html
   中华人民共和国国防动员法
 http://www.mod.gov.cn/gfbw/fgwx/16444625.html
@@ -98,8 +96,6 @@ http://www.mod.gov.cn/gfbw/jmsd/16490931.html
   解放军报评论员：推进祖国统一大业
 http://www.mod.gov.cn/gfbw/sy/rt/16492834.html
   习近平会见多哥部长会议主席福雷
-http://www.mod.gov.cn/gfbw/sy/jt_214028/16491231.html
-  海军某支队开展海上多科目训练
 http://www.mod.gov.cn/gfbw/sy/rt/16492828.html
   习近平同博茨瓦纳总统博科会谈
 http://www.mod.gov.cn/gfbw/xwfyr/lxjzhzt/2026lxjzh/2026n9y/index.html
@@ -110,6 +106,10 @@ http://www.mod.gov.cn/gfbw/jmsd/16493764.html
   强军论坛丨让红色故事常讲常新
 http://www.mod.gov.cn/gfbw/tp_214132/16492771.html
   第75集团军某旅开展飞行训练
+http://www.mod.gov.cn/gfbw/sy/jt_214028/16491680.html
+  北部战区海军某大队开展训练
+http://www.mod.gov.cn/gfbw/sy/rt/16493699.html
+  习近平在内蒙古乌兰察布考察
 
 === ALL DISCOVERED LINKS ===
 
@@ -288,6 +288,8 @@ http://www.mod.gov.cn/gfbw/zt/index.html
   专题
 http://www.81.cn/xue-xi/102942.htm
   学习
+http://www.mod.gov.cn/gfbw/sy/jt_214028/16494373.html
+  陆军某旅开展编队飞行训练
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16491885.html
   空军某部开展飞行训练
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16491884.html
@@ -296,8 +298,6 @@ http://www.mod.gov.cn/gfbw/sy/jt_214028/16491680.html
   北部战区海军某大队开展训练
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16491335.html
   陆军某部官兵执行巡逻任务
-http://www.mod.gov.cn/gfbw/sy/jt_214028/16491231.html
-  海军某支队开展海上多科目训练
 http://www.mod.gov.cn/gfbw/sy/tt_214026/16493867.html
   “有高远目标，更有耐心有定力”——习近平总书记在内蒙古乌兰察布考察纪实
 http://www.mod.gov.cn/gfbw/sy/rt/16493699.html
@@ -370,14 +370,14 @@ http://www.mod.gov.cn/gfbw/xwfyr/16491899.html
   日本“新型军国主义”灰犀牛加速狂奔 威胁地区和平稳定
 http://www.mod.gov.cn/gfbw/xwfyr/16491923.html
   2026年10月上旬国防部例行新闻发布
+http://www.mod.gov.cn/gfbw/spbb_214126/16494336.html
+  《伟大远征》第四集《信仰》
 http://www.mod.gov.cn/gfbw/spbb_214126/16493899.html
   《伟大远征》第三集《铁流》
 http://www.mod.gov.cn/gfbw/spbb_214126/16493703.html
   《伟大远征》第二集《定向》
 http://www.mod.gov.cn/gfbw/spbb_214126/16493900.html
   《伟大远征》第一集《问道》
-http://www.mod.gov.cn/gfbw/spbb_214126/16492092.html
-  AI微短剧《铁记得》第四集
 https://www.81.cn/jfjbmap/content/2022-03/21/node_2.htm
 http://www.81.cn/rmjz_203219/zggfb/index.html
   中国国防报
@@ -451,16 +451,16 @@ http://www.mod.gov.cn/gfbw/tp_214132/jsjs/index.html
   军事纪实
 http://www.mod.gov.cn/gfbw/tp_214132/tsjs/index.html
   图说军史
+http://www.mod.gov.cn/gfbw/tp_214132/16494364.html
+  陆军某旅组织驾驶训练
+http://www.mod.gov.cn/gfbw/tp_214132/16494351.html
+  空军某部开展飞行训练
 http://www.mod.gov.cn/gfbw/tp_214132/16492877.html
   海军某支队开展海上训练
 http://www.mod.gov.cn/gfbw/tp_214132/16492771.html
   第75集团军某旅开展飞行训练
 http://www.mod.gov.cn/gfbw/tp_214132/16492405.html
   陆军某旅开展飞行训练
-http://www.mod.gov.cn/gfbw/tp_214132/16492156.html
-  陆军某部开展远程机动训练
-http://www.mod.gov.cn/gfbw/tp_214132/16492162.html
-  空军某部开展飞行训练
 http://www.gfbzb.gov.cn/
   全国征兵网
 http://www.xinhuanet.com/
@@ -500,11 +500,11 @@ http://www.mod.gov.cn/ysym_243892/Ibbgdtsy/index.html
 http://www.mod.gov.cn/template/tenant207/t179/img/env-header-xs-2026-10.jpg
 http://www.mod.gov.cn/template/tenant207/t179/img/logo.png
 http://www.mod.gov.cn/template/tenant207/t179/img/logo-i.png
+http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/10/18/16494373_1ac0323111bf24a3ac8743a237c229a9.jpg
 http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/10/10/16491885_6c9f09e3d68c555b982f9c74a81444aa.jpg
 http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/10/10/16491884_c0a589d66022aa8a1ad39246015d3e0d.jpg
 http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/10/09/16491680_53e9e8cbb9c70ffe7818d5b8bd38ebe0.jpg
 http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/10/07/16491335_cd414506dd917aebaca9d499fff38fcc.jpg
-http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/10/06/16491231_c3a798b93068a134fa191dde89d665a3.jpg
 http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/10/16/16493699_7e616b1db5c60170b9d99d7b6380cfe2.jpg
 http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/10/13/16492818_05e021df49030e171b56a05f5e6265c9.jpg
 http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/10/13/16492828_5b2dd760f6aa1c9226686a935e7fbc04.jpg
@@ -514,7 +514,7 @@ http://www.mod.gov.cn/gfbw/jswj/_attachment/2026/10/11/16492058_4bac93b09e6b6dda
 http://www.mod.gov.cn/gfbw/wzll/_attachment/2026/09/21/16487929_597d176f0af87a3946ecafb4704fe574.jpg
 http://www.mod.gov.cn/gfbw/jsxd/_attachment/2026/10/08/16491543_1435698845fc0ee204de122f24f6e62c.jpg
 http://www.mod.gov.cn/gfbw/xwfyr/lxjzhzt/_attachment/2026/09/30/16490674_45f93abb8ab64cb03661fac3cb561bf4.jpg
-http://www.mod.gov.cn/gfbw/spbb_214126/_attachment/2026/10/17/16493899_d2449bd5b87e46959bf958497d3d76c7.jpg
+http://www.mod.gov.cn/gfbw/spbb_214126/_attachment/2026/10/18/16494336_6b67bab6b90cb274b941d769da7a26c5.jpg
 http://www.mod.gov.cn/template/tenant207/t179/img/brief.jpg
 http://www.plapic.com.cn/jfjhb/wqhg/_attachment/2026/09/03/16483310_d73f966d3b4f4e2e1e0e6e519257b599.jpg
 http://www.mod.gov.cn/template/tenant207/t179/img/gfb.jpg
@@ -530,11 +530,11 @@ http://www.mod.gov.cn/gfbw/jmsd/_attachment/2024/05/04/16490931_dcd32098417c948f
 http://www.mod.gov.cn/gfbw/gfdy/_attachment/2026/09/20/16487706_b3976ec10633c6611756bb8b41668750.png
 http://www.mod.gov.cn/gfbw/gfjy_index/_attachment/2026/10/14/16492962_c6f2c1e8e1644808d5370079314e82ac.jpg
 http://www.mod.gov.cn/gfbw/zt/_attachment/2026/08/20/16479151_1572281a51f5ab63ef863d55fdea15e0.jpg
+http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/10/18/16494364_39e543c71562d5fb67a89347e2e0c75c.jpg
+http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/10/18/16494351_78fac1d34a4019eed7a06503d533e6be.jpg
 http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/10/14/16492877_909a7ca2d9681622574671e172700a4d.jpg
 http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/10/13/16492771_36698287b4f28cfaab281d2524b81828.jpg
 http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/10/12/16492405_dcd549df99846d180109213a07155d62.jpg
-http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/10/11/16492156_0db1336f9ed9f2a80f339600d1a3925f.jpg
-http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/10/11/16492162_e85d74072d3f109ab9298f8f4bd17b4e.jpg
 http://www.81.cn/page/report.htm
 http://www.mod.gov.cn/template/tenant207/t179/js/javascript.js?v=20224291
 http://www.mod.gov.cn/material/js/jquery.s2t.js?v=2022
