@@ -1,62 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Mon, 19 Oct 2026 04:58:29 +0000</lastBuildDate><item><title>CNNVD-2026-40852109 - WordPress WholesaleX 权限许可和访问控制问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-40852109</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-40852109</guid><pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate><description>WordPress WholesaleX 权限许可和访问控制问题漏洞
-危害等级: 中危
-收录时间：2026-10-15 | 更新时间: 2026-10-16 16:29:44
-CNNVD编号: CNNVD-2026-40852109</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-40852109&lt;/p&gt;&lt;pre&gt;WordPress WholesaleX 权限许可和访问控制问题漏洞
-危害等级: 中危
-收录时间：2026-10-15 | 更新时间: 2026-10-16 16:29:44
-CNNVD编号: CNNVD-2026-40852109&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-74975079 - EspoCRM 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-74975079</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-74975079</guid><pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate><description>EspoCRM 跨站脚本漏洞
-危害等级: 中危
-收录时间：2026-10-15 | 更新时间: 2026-10-16 16:29:46
-CNNVD编号: CNNVD-2026-74975079</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-74975079&lt;/p&gt;&lt;pre&gt;EspoCRM 跨站脚本漏洞
-危害等级: 中危
-收录时间：2026-10-15 | 更新时间: 2026-10-16 16:29:46
-CNNVD编号: CNNVD-2026-74975079&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-97721413 - CREEMA Handmade Marketplace App - Creema 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-97721413</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-97721413</guid><pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate><description>CREEMA Handmade Marketplace App - Creema 输入验证错误漏洞
-危害等级: 中危
-收录时间：2026-10-15 | 更新时间: 2026-10-16 16:29:46
-CNNVD编号: CNNVD-2026-97721413</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-97721413&lt;/p&gt;&lt;pre&gt;CREEMA Handmade Marketplace App - Creema 输入验证错误漏洞
-危害等级: 中危
-收录时间：2026-10-15 | 更新时间: 2026-10-16 16:29:46
-CNNVD编号: CNNVD-2026-97721413&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-73947600 - Eclipse Jetty 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-73947600</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-73947600</guid><pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate><description>Eclipse Jetty 输入验证错误漏洞
-危害等级: 中危
-收录时间：2026-10-15 | 更新时间: 2026-10-16 16:29:46
-CNNVD编号: CNNVD-2026-73947600</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-73947600&lt;/p&gt;&lt;pre&gt;Eclipse Jetty 输入验证错误漏洞
-危害等级: 中危
-收录时间：2026-10-15 | 更新时间: 2026-10-16 16:29:46
-CNNVD编号: CNNVD-2026-73947600&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-11319043 - FreeBSD 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-11319043</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-11319043</guid><pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate><description>FreeBSD 缓冲区错误漏洞
-危害等级: 高危
-收录时间：2026-10-15 | 更新时间: 2026-10-16 16:29:48
-CNNVD编号: CNNVD-2026-11319043</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-11319043&lt;/p&gt;&lt;pre&gt;FreeBSD 缓冲区错误漏洞
-危害等级: 高危
-收录时间：2026-10-15 | 更新时间: 2026-10-16 16:29:48
-CNNVD编号: CNNVD-2026-11319043&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-61955187 - Apostrophe Technologies ApostropheCMS 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-61955187</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-61955187</guid><pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate><description>Apostrophe Technologies ApostropheCMS 授权问题漏洞
-危害等级: 中危
-收录时间：2026-10-15 | 更新时间: 2026-10-16 16:29:58
-CNNVD编号: CNNVD-2026-61955187</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-61955187&lt;/p&gt;&lt;pre&gt;Apostrophe Technologies ApostropheCMS 授权问题漏洞
-危害等级: 中危
-收录时间：2026-10-15 | 更新时间: 2026-10-16 16:29:58
-CNNVD编号: CNNVD-2026-61955187&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-27779287 - Cato Networks Cato Client for Windows 加密问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-27779287</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-27779287</guid><pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate><description>Cato Networks Cato Client for Windows 加密问题漏洞
-危害等级: 中危
-收录时间：2026-10-15 | 更新时间: 2026-10-16 16:29:52
-CNNVD编号: CNNVD-2026-27779287</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-27779287&lt;/p&gt;&lt;pre&gt;Cato Networks Cato Client for Windows 加密问题漏洞
-危害等级: 中危
-收录时间：2026-10-15 | 更新时间: 2026-10-16 16:29:52
-CNNVD编号: CNNVD-2026-27779287&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-12127309 - EspoCRM 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-12127309</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-12127309</guid><pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate><description>EspoCRM 授权问题漏洞
-危害等级: 中危
-收录时间：2026-10-15 | 更新时间: 2026-10-16 16:29:52
-CNNVD编号: CNNVD-2026-12127309</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-12127309&lt;/p&gt;&lt;pre&gt;EspoCRM 授权问题漏洞
-危害等级: 中危
-收录时间：2026-10-15 | 更新时间: 2026-10-16 16:29:52
-CNNVD编号: CNNVD-2026-12127309&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-35264971 - EspoCRM 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-35264971</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-35264971</guid><pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate><description>EspoCRM 授权问题漏洞
-危害等级: 中危
-收录时间：2026-10-15 | 更新时间: 2026-10-16 16:29:52
-CNNVD编号: CNNVD-2026-35264971</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-35264971&lt;/p&gt;&lt;pre&gt;EspoCRM 授权问题漏洞
-危害等级: 中危
-收录时间：2026-10-15 | 更新时间: 2026-10-16 16:29:52
-CNNVD编号: CNNVD-2026-35264971&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-92748263 - EspoCRM 反序列化注入漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-92748263</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-92748263</guid><pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate><description>EspoCRM 反序列化注入漏洞
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Mon, 19 Oct 2026 13:38:27 +0000</lastBuildDate><item><title>CNNVD-2026-43119323 - Linux kernel 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-43119323</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-43119323</guid><pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate><description>Linux kernel 安全漏洞
 危害等级: 超危
-收录时间：2026-10-15 | 更新时间: 2026-10-16 16:29:51
-CNNVD编号: CNNVD-2026-92748263</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-92748263&lt;/p&gt;&lt;pre&gt;EspoCRM 反序列化注入漏洞
+收录时间：2026-10-18 | 更新时间: 2026-10-19 16:43:25
+CNNVD编号: CNNVD-2026-43119323</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-43119323&lt;/p&gt;&lt;pre&gt;Linux kernel 安全漏洞
 危害等级: 超危
-收录时间：2026-10-15 | 更新时间: 2026-10-16 16:29:51
-CNNVD编号: CNNVD-2026-92748263&lt;/pre&gt;</content:encoded></item></channel></rss>
+收录时间：2026-10-18 | 更新时间: 2026-10-19 16:43:25
+CNNVD编号: CNNVD-2026-43119323&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-73118744 - Linux kernel 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-73118744</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-73118744</guid><pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate><description>Linux kernel 安全漏洞
+危害等级: 超危
+收录时间：2026-10-18 | 更新时间: 2026-10-19 16:43:20
+CNNVD编号: CNNVD-2026-73118744</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-73118744&lt;/p&gt;&lt;pre&gt;Linux kernel 安全漏洞
+危害等级: 超危
+收录时间：2026-10-18 | 更新时间: 2026-10-19 16:43:20
+CNNVD编号: CNNVD-2026-73118744&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-54887080 - Linux kernel 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-54887080</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-54887080</guid><pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate><description>Linux kernel 安全漏洞
+危害等级: 超危
+收录时间：2026-10-18 | 更新时间: 2026-10-19 16:43:17
+CNNVD编号: CNNVD-2026-54887080</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-54887080&lt;/p&gt;&lt;pre&gt;Linux kernel 安全漏洞
+危害等级: 超危
+收录时间：2026-10-18 | 更新时间: 2026-10-19 16:43:17
+CNNVD编号: CNNVD-2026-54887080&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-80526979 - Linux kernel 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-80526979</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-80526979</guid><pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate><description>Linux kernel 安全漏洞
+危害等级: 超危
+收录时间：2026-10-18 | 更新时间: 2026-10-19 16:43:16
+CNNVD编号: CNNVD-2026-80526979</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-80526979&lt;/p&gt;&lt;pre&gt;Linux kernel 安全漏洞
+危害等级: 超危
+收录时间：2026-10-18 | 更新时间: 2026-10-19 16:43:16
+CNNVD编号: CNNVD-2026-80526979&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-10973860 - Linux kernel 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-10973860</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-10973860</guid><pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate><description>Linux kernel 安全漏洞
+危害等级: 超危
+收录时间：2026-10-18 | 更新时间: 2026-10-19 16:43:11
+CNNVD编号: CNNVD-2026-10973860</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-10973860&lt;/p&gt;&lt;pre&gt;Linux kernel 安全漏洞
+危害等级: 超危
+收录时间：2026-10-18 | 更新时间: 2026-10-19 16:43:11
+CNNVD编号: CNNVD-2026-10973860&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-90521629 - Linux kernel 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-90521629</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-90521629</guid><pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate><description>Linux kernel 安全漏洞
+危害等级: 超危
+收录时间：2026-10-18 | 更新时间: 2026-10-19 16:44:59
+CNNVD编号: CNNVD-2026-90521629</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-90521629&lt;/p&gt;&lt;pre&gt;Linux kernel 安全漏洞
+危害等级: 超危
+收录时间：2026-10-18 | 更新时间: 2026-10-19 16:44:59
+CNNVD编号: CNNVD-2026-90521629&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-15262647 - Linux kernel 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-15262647</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-15262647</guid><pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate><description>Linux kernel 安全漏洞
+危害等级: 超危
+收录时间：2026-10-18 | 更新时间: 2026-10-19 16:43:30
+CNNVD编号: CNNVD-2026-15262647</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-15262647&lt;/p&gt;&lt;pre&gt;Linux kernel 安全漏洞
+危害等级: 超危
+收录时间：2026-10-18 | 更新时间: 2026-10-19 16:43:30
+CNNVD编号: CNNVD-2026-15262647&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-59998339 - Linux kernel 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-59998339</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-59998339</guid><pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate><description>Linux kernel 安全漏洞
+危害等级: 超危
+收录时间：2026-10-18 | 更新时间: 2026-10-19 16:43:30
+CNNVD编号: CNNVD-2026-59998339</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-59998339&lt;/p&gt;&lt;pre&gt;Linux kernel 安全漏洞
+危害等级: 超危
+收录时间：2026-10-18 | 更新时间: 2026-10-19 16:43:30
+CNNVD编号: CNNVD-2026-59998339&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-20173570 - Linux kernel 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-20173570</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-20173570</guid><pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate><description>Linux kernel 安全漏洞
+危害等级: 超危
+收录时间：2026-10-18 | 更新时间: 2026-10-19 16:43:27
+CNNVD编号: CNNVD-2026-20173570</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-20173570&lt;/p&gt;&lt;pre&gt;Linux kernel 安全漏洞
+危害等级: 超危
+收录时间：2026-10-18 | 更新时间: 2026-10-19 16:43:27
+CNNVD编号: CNNVD-2026-20173570&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-53775688 - Linux kernel 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-53775688</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-53775688</guid><pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate><description>Linux kernel 安全漏洞
+危害等级: 超危
+收录时间：2026-10-18 | 更新时间: 2026-10-19 16:48:27
+CNNVD编号: CNNVD-2026-53775688</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-53775688&lt;/p&gt;&lt;pre&gt;Linux kernel 安全漏洞
+危害等级: 超危
+收录时间：2026-10-18 | 更新时间: 2026-10-19 16:48:27
+CNNVD编号: CNNVD-2026-53775688&lt;/pre&gt;</content:encoded></item></channel></rss>

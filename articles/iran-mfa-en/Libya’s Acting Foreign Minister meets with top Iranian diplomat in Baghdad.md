@@ -1,7 +1,0 @@
-# Libya’s Acting Foreign Minister meets with top Iranian diplomat in Baghdad
-
-Published: 2026-10-17 00:00:00
-
-Source: https://en.mfa.gov.ir/portal/newsview/796139
-
-Seyed Abbas Araghchi, Minister of Foreign Affairs of the Islamic Republic of Iran, who is in Baghdad to attend the 52nd Session of the Council of Foreign Ministers of the Organization of Islamic Cooperation (OIC), met and held talks with Taher al-Baour, Libya’s Acting Foreign Minister, on the sidelines of the session on Saturday afternoon. During the meeting, the two sides reviewed Tehran-Tripoli bilateral relations and emphasized the importance of strengthening consultations with a view to further enhancing relations between the two countries. The Iranian foreign minister reiterated Iran’s principled position in support of Libya's national sovereignty and territorial integrity and unity, as well as the need to end any foreign interference in the country’s internal affairs. Araghchi stressed that security and stability in Libya are prerequisites for peace and stability in North Africa. The two sides also held consultations on regional developments and issues concerning the Islamic world. Referring to the continued occupation and genocide by the Israeli regime in Palestine, the Iranian foreign minister described the Palestine issue as the highest priority of the Muslim Ummah and the international community, and called for urgent and serious action by the Organization of Islamic Cooperation to end the genocide in Gaza and bring an end to the Israeli regime’s impunity.
