@@ -12,6 +12,10 @@ at a joint press conference with Foreign Minister of Iran
 Abbas Araghchi
 following Russia-Iran talks.
 🔴
+X (ex-Twitter)
+🔴
+Facebook
+🔴
 Ruptly
 🔴
 Russia’s MFA website
