@@ -33,73 +33,8 @@ Deepseek
 讯飞星火
 Kimi
 English
-AI智能辅读
-本章节主要描述了高功率微波攻击方式对电子信息系统安全构成的巨大威胁，可能改变未来战争的作战样式和战争形态。美、俄、英、日、法等国高度重视这一领域，美国已投入使用的装备包括主动拒止系统、警惕鹰系统、携带高功率微波弹头的AGM-86巡航导弹及用于空域封锁的高功率微波炮，并继续加大在该领域的研发投入。针对高功率微波攻击，目前基于固态半导体器件的电路级防护能力有限，主要适用于数千瓦以内的脉冲功率，而频率选择表面、能量选择表面和等离子体被认为是可能的防护方法。其中，等离子体具有敏感性，能随入射高功率微波强度改变状态，影响入射波传输。该章节对等离子体在高功率微波防护中的应用进行了仿真与实验分析，研究了柱状等离子体阵列与高功率微波相互作用的物理过程和机理，并通过实验验证了其防护效果，同时总结了基于等离子体的高功率微波防护技术需解决的主要问题。
-1 基本理论
-本章节主要描述了为了研究高功率微波作用下等离子体产生的电磁屏蔽效应，采用流体近似方法进行仿真分析。通过波动方程对电磁波在密度均匀的等离子体中的传播过程进行了表征，考虑了电场强度、磁场强度、入射波角频率以及真空和等离子体中相关物理常数的影响。同时，利用电子传递方程分析了外加电磁场所导致的等离子体内电子密度变化，涉及电子迁移率、电子扩散率及由内部碰撞反应引起的电子产生与消失源项。此外，还通过重物质传递方程探讨了电磁场对其他带电粒子分布的影响，包括第k种粒子的摩尔分数、气体密度、平均流体速率及其扩散通量等参数的变化。
-2 仿真计算模型
-本章节主要描述了采用COMSOL软件构建的一个仿真计算模型，该模型旨在模拟电磁波通过空气介质和等离子体介质后的传播过程。模型设置中，电磁波从上边界进入并向下传播，最终在完美匹配层被完全吸收，以防止反射产生的二次激励影响结果准确性。等离子体层由多根柱状等离子体单元组成，这些单元紧密排列且参数一致。仿真条件设定了入射电磁波的场强E
-0
-和频率f，并选择惰性气体Ar作为工作气体，具体气体压强为P，所涉及的粒子种类及碰撞反应见表1。
-3 仿真计算结果分析
-本章节主要描述了假设初始气体温度为300K、压强400Pa条件下，电子均匀分布密度1.0×10
-16
-m
--3
-的等离子体在高功率微波作用下的仿真计算结果。研究中使用的等离子体直径25mm，玻璃管壁厚度0.3mm，初始电子能为3eV，碰撞频率5×10
-9
-Hz，入射微波频率6GHz、电场强度2×10
-6
-V/m。仿真结果显示，在t=2.15×10
--10
-s时，等离子体区域的电场与空气区域基本一致，表明初始时刻入射波可无损透过等离子体；而在t=3.98×10
--10
-s至t=5.99×10
--10
-s期间，上下方空气区域的电场值变化显著，说明此阶段内等离子体与高功率微波发生了剧烈相互作用；到了t=9.03×10
--10
-s到t=0.001s时，等离子体上方出现驻波场，下方电场几乎为零，显示出强烈的电磁屏蔽特性。进一步分析表明，在高功率微波的作用下，等离子体内电子经历加速、非弹性碰撞、雪崩效应和新的粒子平衡建立的过程，导致等离子体的电磁参数发生变化，从而表现出类似于金属的屏蔽效果，实现了对入射高功率微波的有效防护。
-4 实验验证
-本章节主要描述了实验设备连接示意图：高功率微波信号由L波段高功率微波源产生，经定向耦合器分成两路。一路作为参考信号接入高精度示波器；另一路由发射喇叭辐射后通过柱状等离子体阵列被接收喇叭接收，并最终作为接收信号接入高精度示波器。实验中使用的等离子体采用高频辉光放电方式产生，初始平均电子密度约为1.2×10
-16
-m
--3
-。实验使用了1.3GHz的高功率微波源，脉冲宽度为1000ns。在等离子体未开启时，接收信号与参考信号基本一致；而在等离子体开启后，高功率微波透射衰减超过20dB，表明等离子体对高功率微波具有显著的防护作用。进一步实验显示双层等离子体可使高功率微波透射衰减值超过26dB，证实了增加等离子体厚度能提升防护效果。然而，该实验为初步探索，在极化方式、微波频率、等离子体状态等方面尚需进一步研究和完善。
-5 结论
-本章节总结了基于等离子体流体近似方法建立的高功率微波与等离子体相互作用仿真计算模型，研究了入射电场随时间演变的过程，并分析了等离子体防护高功率微波的机理。仿真结果显示，当高功率微波通过等离子体时会被吸收并引发电子雪崩，产生更高密度的等离子体，导致对高功率微波的反射效应增强，直至仅有少量能量进入等离子体维持后续电子。随着微波能量继续增大，这一过程会重复发生直到新的动态平衡形成；当微波消失后，等离子体会快速恢复到初始状态。研究还探讨了高功率微波频率、脉宽、等离子体初始电子密度和放电气体种类等因素对相互作用的影响。实验通过高频辉光放电产生柱状等离子体阵列验证了其对高功率微波的有效防护作用，并致力于开发小型化等离子体防护器件，解决包括不影响低功率电磁信号传输、缩短非线性效应响应时间、拓宽响应频率以及提高装置抗高功率微波能力等问题。
-* 以上内容由AI自动生成，内容仅供参考。对于因使用本网站以上内容产生的相关后果，本网站不承担任何商业和法律责任
-AI智能问答
-1：等离子体如何用于防护高功率微波攻击？
-2：在高功率微波作用下，等离子体中的哪些方程被用来表征电磁波的传播过程和带电粒子的行为？
-3：仿真计算模型中使用了什么软件进行电磁波传播模拟？
-4：高功率微波对等离子体电磁特性有何影响？
-5：等离子体对高功率微波的防护效果如何？
-6：高功率微波与等离子体相互作用会产生什么效应？
-* 以上内容由AI自动生成，内容仅供参考。对于因使用本网站以上内容产生的相关后果，本网站不承担任何商业和法律责任
-AI语音讲解
-Pause
-Play
-% buffered
-00:00
-00:00
-07:32
-Unmute
-Mute
-Disable captions
-Enable captions
-PIP
-Exit fullscreen
-Enter fullscreen
-Play
-* 以上内容由AI自动生成，内容仅供参考。对于因使用本网站以上内容产生的相关后果，本网站不承担任何商业和法律责任
-AI思维导图
-导出Markdown
-导出图片
-* 以上内容由AI自动生成，内容仅供参考。对于因使用本网站以上内容产生的相关后果，本网站不承担任何商业和法律责任
 引用本文:
-李志刚，邱志楠，汪家春，等.低温等离子体用于高功率微波防护研究<sup></sup>[J].国防科技大学学报,2023,45(6):84-89.
 Citation:
-LI Zhigang, QIU Zhinan, WANG Jiachun, et al. Study of high-power microwave protection technology based on low-temperature plasma[J]. Journal of National University of Defense Technology,2023,45(6):84-89.
 低温等离子体用于高功率微波防护研究
 *
 doi:
@@ -132,7 +67,7 @@ class1_48@163.com；
 ，
  陈宗胜
 角色:
-通信作者
+通讯作者
 机构:
 国防科技大学 脉冲功率激光技术国家重点实验室, 安徽 合肥 230037
 邮箱:
@@ -146,11 +81,11 @@ chenzongsh12@163.com
 收起信息
 作者简介
 李志刚（1990—），男，山东济宁人，副研究员，博士，E-mail: class1_48@163.com；
-通信作者
+通讯作者
 陈宗胜，男，安徽合肥人，副研究员，博士，E-mail: chenzongsh12@163.com
 中图分类号:
 TN01
-文献标志码:
+文献标识码:
 A
 文章编号:
 1001-2486(2023)06-084-06
@@ -190,7 +125,7 @@ State Key Laboratory of Pulsed Power Laser Technology, National University of De
 摘要
 HTML全文
 图(6)表(1)
-参考文献(12)
+参考文献
 相似文献
 出版信息
 访问统计
@@ -769,38 +704,6 @@ Test results in condition of emission power 144 kW, plasma turned on
 Table
 1
 Collision reaction functions and types inside Ar plasma
-[1]
-刘振林, 杨光, 段难, 等. 高功率微波导弹对战场环境的影响及对抗技术研究[J]. 微波学报, 2020, 36(增刊1): 358-361.
-LIU Z L, YANG G, DUAN N, et al. Research on the impact of CHAMP on the battlefield environment and the countermeasure technology[J]. Journal of Microwaves, 2020, 36(Suppl 1): 358-361.(in Chinese)
-[2]
-冯奇, 傅镇波. 高功率微波武器典型场景应用分析[J]. 中国电子科学研究院学报, 2021, 16(9): 916-920.
-FENG Q, FU Z B. Application analysis of HPM weapon in typical scenarios[J]. Journal of China Academy of Electronics and Information Technology, 2021, 16(9): 916-920.(in Chinese)
-[3]
-刘洋, 程立. 电磁脉冲防护技术研究现状[J]. 材料导报, 2016, 30(增刊2): 272-275.
-LIU Y, CHENG L. Research status of electromagnetic pulse weapon and its protection technology[J]. Materials Review, 2016, 30(Suppl 2): 272-275.(in Chinese)
-[4]
-宋玮, 邵浩, 张治强, 等. 射频击穿等离子体对高功率微波传输特性的影响[J]. 物理学报, 2014, 63(6): 158-162.
-SONG W, SHAO H, ZHANG Z Q, et al. High power microwave propagation properties in radio frequency breakdown plasma[J]. Acta Physica Sinica, 2014, 63(6): 158-162.(in Chinese)
-[5]
-KOURTZANIDIS K, BOEUF J P, ROGIER F. Three dimensional simulations of pattern formation during high-pressure, freely localized microwave breakdown in air[J]. Physics of Plasmas, 2014, 21(12): 123513.
-[6]
-赵朋程, 郭立新, 李慧敏.110 GHz高功率微波在大气击穿等离子体中的传输、反射和吸收[J]. 电波科学学报, 2016, 31(3): 512-515.
-ZHAO P C, GUO L X, LI H M. Transmission, reflection and absorption of 110 GHz high-power microwave in air breakdown plasma[J]. Chinese Journal of Radio Science, 2016, 31(3): 512-515.(in Chinese)
-[7]
-PAYNE K, XU K, CHOI J H, et al. Multiphysics analysis of plasma-based tunable absorber for high-power microwave applications[J]. IEEE Transactions on Antennas and Propagation, 2021, 69(11): 7624-7636.
-[8]
-WANG H Y, HU F, HU B, et al. Characteristics of microwave breakdown in cavity filter under high power microwave environment[C]//Proceedings of 2020 IEEE MTT-S International Conference on Numerical Electromagnetic and Multiphysics Modeling and Optimization(NEMO), 2020.
-[9]
-郑灵, 赵青, 罗先刚, 等. 等离子体中电磁波传输特性理论与实验研究[J]. 物理学报, 2012, 61(15): 343-349.
-ZHENG L, ZHAO Q, LUO X G, et al. Theoretical and experimental studies of electromagnetic wave transmission in plasma[J]. Acta Physica Sinica, 2012, 61(15): 343-349.(in Chinese)
-[10]
-李志刚, 陈宗胜. 等离子体与高功率微波相互作用中电子分布特性[J]. 国防科技大学学报, 2020, 42(1): 10-17.
-LI Z G, CHEN Z S. Distributions of the electron in the interactions between high power microwave and plasma[J]. Journal of National University of Defense Technology, 2020, 42(1): 10-17.(in Chinese)
-[11]
-袁忠才, 时家明. 高功率微波与等离子体相互作用理论和数值研究[J]. 物理学报, 2014, 63(9): 255-264.
-YUAN Z C, SHI J M. Theoretical and numerical studies on interactions between high-power microwave and plasma[J]. Acta Physica Sinica, 2014, 63(9): 255-264.(in Chinese)
-[12]
-HE W, LIU X H, XIAN R C, et al. Kinetics characteristics and bremsstrahlung of argon DC discharge under atmospheric pressure[J]. Plasma Science and Technology, 2013, 15(4): 335-342.
 PDF下载
 XML下载
 导出引用
@@ -810,19 +713,13 @@ XML下载
 表(1)
 手机扫码阅读
 引用本文
-李志刚，邱志楠，汪家春，等.低温等离子体用于高功率微波防护研究<sup></sup>[J].国防科技大学学报,2023,45(6):84-89.
 复制
-LI Zhigang, QIU Zhinan, WANG Jiachun, et al. Study of high-power microwave protection technology based on low-temperature plasma[J]. Journal of National University of Defense Technology,2023,45(6):84-89.
 Copy
 计量
 文章访问量:
-29370
 HTML全文浏览量:
-4019
 PDF下载量:
-10006
 被引次数:
-0
 图
 1
 高功率微波与柱状等离子体阵列相互作用的仿真计算模型示意图
@@ -893,7 +790,7 @@ HE W, LIU X H, XIAN R C,et al. Kinetics characteristics and bremsstrahlung of ar
 扫码关注
 官方微信
 您是今天第
-827
+2595
 位访客
 总访问量：
 303250197

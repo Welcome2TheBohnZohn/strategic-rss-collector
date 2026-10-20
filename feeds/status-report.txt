@@ -1,5 +1,5 @@
 Strategic RSS Collector Status
-Generated: 2026-10-19 22:36:52 UTC
+Generated: 2026-10-20 05:12:56 UTC
 
 Status meanings:
 OK = Feed contains one or more items
@@ -11,7 +11,7 @@ FAILED = Source could not be retrieved
   Start URL: https://www.mod.gov.cn/
   Resolved URL: http://www.mod.gov.cn/
   HTTP: 200
-  Links discovered: 243
+  Links discovered: 244
   Candidate links/items: 50
   Attempted items/articles: 12
   Items/articles with text: 12
@@ -27,7 +27,7 @@ FAILED = Source could not be retrieved
   Start URL: http://www.81.cn/?big=jian
   Resolved URL: http://www.81.cn/?big=jian
   HTTP: 200
-  Links discovered: 526
+  Links discovered: 527
   Candidate links/items: 50
   Attempted items/articles: 12
   Items/articles with text: 12
@@ -103,7 +103,7 @@ FAILED = Source could not be retrieved
   Start URL: https://flk.npc.gov.cn/law-search/search/list
   Resolved URL: https://flk.npc.gov.cn/law-search/search/list
   HTTP: 200
-  Links discovered: 1585
+  Links discovered: 1586
   Candidate links/items: 50
   Attempted items/articles: 12
   Items/articles with text: 12
@@ -305,9 +305,9 @@ Call log:
   HTTP: 200
   Links discovered: 1937
   Candidate links/items: 50
-  Attempted items/articles: 12
+  Attempted items/articles: 14
   Items/articles with text: 12
-  Items/articles with dates: 8
+  Items/articles with dates: 9
   RSS feed items: 12
   SSL verification: OFF
   Request timeout: 12s
@@ -321,7 +321,7 @@ Call log:
   HTTP: 200
   Links discovered: 196
   Candidate links/items: 50
-  Attempted items/articles: 33
+  Attempted items/articles: 39
   Items/articles with text: 12
   Items/articles with dates: 12
   RSS feed items: 12
