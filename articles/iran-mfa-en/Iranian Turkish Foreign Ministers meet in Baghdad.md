@@ -1,7 +1,0 @@
-# Iranian Turkish Foreign Ministers meet in Baghdad
-
-Published: 2026-10-17 00:00:00
-
-Source: https://en.mfa.gov.ir/portal/newsview/796141
-
-Seyed Abbas Araghchi, Minister of Foreign Affairs of the Islamic Republic of Iran, who has traveled to Baghdad to attend the annual session of the Council of Foreign Ministers of the Organization of Islamic Cooperation (OIC), met and held talks with Turkish Foreign Minister Hakan Fidan on the sidelines of the session. During the meeting, the two sides discussed bilateral relations and the latest regional developments, particularly the situation in Palestine and the ongoing genocide of Palestinians. Referring to the theme of the session, “Dialogue and Solidarity,” the Iranian foreign minister stressed the need for Islamic countries to pay due attention to the Palestine issue and take practical measures to halt the Zionist regime’s crimes against Palestinians and help realize the Palestinian people’s right to self-determination. Emphasizing the importance of strengthening cooperation and coordination among Islamic countries, the two sides also discussed the need to make use of the capacities of the Organization of Islamic Cooperation to address challenges facing the Islamic world, including Islamophobia. The latest developments in the Persian Gulf region and the Strait of Hormuz were also reviewed during the meeting, and Araghchi briefed his Turkish counterpart on ongoing developments.

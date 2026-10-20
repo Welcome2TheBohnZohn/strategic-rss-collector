@@ -1,33 +1,33 @@
 # 📍 The Armed Forces of the Russian Federation continue the special military operation.
 
-Published: 2026-10-19 11:40:25
+Published: 2026-10-20 10:14:32
 
-Source: https://t.me/mod_russia_en/30151
+Source: https://t.me/mod_russia_en/30167
 
 The Armed Forces of the Russian Federation continue the special military operation.
 📍
 Units of the Sever Group of Forces took advantageous lines and positions
-. Russian troops inflicted fire damage on manpower and hardware of two mechanised brigades and a motorised infantry brigade of the Armed Forces of Ukraine near Vysokoye, Izbitskoye, Velikiy Burluk, and Tomakhovka (Kharkov region).
+. Russian troops inflicted fire damage on manpower and hardware of a mechanised brigade and a motorised infantry brigade of the AFU near Izbitskoye, Berezhnoye, Velikiy Burluk, and Tomakhovka in Kharkov region.
 🔥
 In Sumy region,
-strikes were delivered at formations of two mechanised brigades of the Armed Forces of Ukraine and a territorial defence brigades close to Sukhodol, Sennoye, and Gnilitsa in Sumy region.
+strikes were delivered at formations of a mechanised brigade of the AFU and a territorial defence brigade close to Khoten, Nikolskoye, and Velikaya Rybitsa (Sumy region).
 ▪️
-The AFU losses amounted to more than 230 troops, 26 motor vehicles, and a Bogdana self-propelled artillery system.
+The enemy lost more than 235 troops, 13 motor vehicles, and two electronic warfare stations.
 ↗️
-The Zapad Group of Forces improved the situation along the front line
-. Manpower and hardware two mechanised brigades of the Armed Forces of Ukraine and one marine brigade were hit close to Gusinka, Lozovaya-Vtoraya, and Grushevka (Kharkov region).
+The Zapad Group of Forces improved the situation along the front line.
+Russian troops engaged manpower and hardware of a mechanised brigade of the AFU, a marine brigade, and a territorial defence brigade close to Pleskachovka, Blagodatovka, Tamarganovka (Kharkov region), Raygorodok, and Bogorodichnoye (Donetsk People's Republic).
 ▪️
-The AFU losses amounted to up to 240 troops, seven armoured fighting vehicles, 25 motor vehicles, and two field artillery guns.
+The AFU losses amounted to up to 220 troops, one armoured fighting vehicle, 22 motor vehicles, three field artillery guns, and three electronic warfare stations.
 📍
-Units of the Yuzhnaya Group of Forces improved the tactical situation
-. Russian units inflicted damage on formations of two mechanised brigades, a motorised infantry brigade, an airmobile brigade of the Armed Forces of Ukraine, and a territorial defence brigade near Novoselovka, Kramatorsk, and Semenovka (Donetsk People's Republic).
+Units of the Yuzhnaya Group of Forces improved the tactical situation.
+Russian units inflicted losses on formations of two mechanised brigades, an air assault brigade, an airmobile brigade of the AFU, and a territorial defence brigade near Kramatorsk, Druzhkovka, Kondratovka, and Semenovka in the Donetsk People's Republic.
 ▪️
-The AFU losses amounted to up to 230 troops, three armoured fighting vehicles, one Akatsiya self-propelled artillery system, and 20 motor vehicles.
+The enemy lost up to 215 troops, one tank and two armoured fighting vehicles, 44 motor vehicles, one artillery gun, and one electronic warfare station.
 💥
-The Tsentr Group of Forces took more advantageous lines and positions
-. Manpower and hardware of three mechanised brigades, an airborne brigade of the Armed Forces of Ukraine, a marine brigade, and two national guard brigades have been hit near Nikolayevka, Krivorozhye, Starovarvarovka, Roganskoye, Verovka, Belozerskoye, and Maryevka (Donetsk People's Republic).
+The Tsentr Group of Forces took more advantageous lines and positions.
+The Group's units engaged manpower and hardware of five mechanised brigades, a jaeger brigade, an airborne brigade of the AFU, and two national guard brigades near Zavidovo-Kudashevo, Krivorozhye, Starorayskoye, Starovarvarovka, Shilovka, Malotaranovka, Verovka, Belozerskoye (Donetsk People's Republic), and Novopavlovka (Dnepropetrovsk region).
 ▪️
-The AFU losses amounted to up to 345 troops, two armoured personnel carriers, eight armoured fighting vehicles, seven motor vehicles, two field artillery guns, and two electronic warfare stations.
+Up to 340 troops, six armoured fighting vehicles, five motor vehicles, two field artillery guns, and two electronic warfare stations have been neutralised.
 👉
 See
 Part 2

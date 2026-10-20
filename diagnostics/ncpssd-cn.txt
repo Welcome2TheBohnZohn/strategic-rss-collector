@@ -154,8 +154,6 @@ https://www.ncpssd.cn/service/index?id=15
   学术网站导航
 https://www.ncpssd.cn/service/index?id=17
   社科机构导航
-http://wpa.b.qq.com/cgi/wpa.php?ln=1&key=XzgwMDE4NTkzM180NzUyOThfODAwMTg1OTMzXzJf
-  在线咨询
 https://www.ncpssd.cn/messages
   查看更多
 https://www.ncpssd.cn/message?id=22416
@@ -298,6 +296,7 @@ https://www.ncpssd.cn/js/util/ms.util.js?b=
 https://www.ncpssd.cn/js/jquery.md5.js
 https://www.ncpssd.cn/js/axios/axios.js
 https://www.ncpssd.cn/js/web/xss.js
+https://webchat02.7moor.com/javascripts/7moorInit.js?accessId=31764640-cb90-11f1-a532-a5cbbb4bd5cd&autoShow=false&language=ZHCN
 https://log.ncpssd.cn/ubancpssd
 http://183.242.161.51:19002/ubancpssd
 https://www.ncpssd.cn/modifiedTitle/review
