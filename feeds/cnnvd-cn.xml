@@ -1,62 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Wed, 21 Oct 2026 05:07:31 +0000</lastBuildDate><item><title>CNNVD-2026-26069103 - IBM Concert 信息泄露漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-26069103</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-26069103</guid><pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate><description>IBM Concert 信息泄露漏洞
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Wed, 21 Oct 2026 12:09:26 +0000</lastBuildDate><item><title>CNNVD-2026-84461689 - TYPO3 Analytics 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-84461689</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-84461689</guid><pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate><description>TYPO3 Analytics 授权问题漏洞
 危害等级: 中危
-收录时间：2026-10-19 | 更新时间: 2026-10-20 16:23:44
-CNNVD编号: CNNVD-2026-26069103</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-26069103&lt;/p&gt;&lt;pre&gt;IBM Concert 信息泄露漏洞
+收录时间：2026-10-20 | 更新时间: 2026-10-21 16:49:26
+CNNVD编号: CNNVD-2026-84461689</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-84461689&lt;/p&gt;&lt;pre&gt;TYPO3 Analytics 授权问题漏洞
 危害等级: 中危
-收录时间：2026-10-19 | 更新时间: 2026-10-20 16:23:44
-CNNVD编号: CNNVD-2026-26069103&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-38053372 - IBM Concert 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-38053372</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-38053372</guid><pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate><description>IBM Concert 跨站脚本漏洞
+收录时间：2026-10-20 | 更新时间: 2026-10-21 16:49:26
+CNNVD编号: CNNVD-2026-84461689&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-26477039 - TYPO3 Accessible Form Captcha 信任管理问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-26477039</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-26477039</guid><pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate><description>TYPO3 Accessible Form Captcha 信任管理问题漏洞
 危害等级: 中危
-收录时间：2026-10-19 | 更新时间: 2026-10-20 16:23:44
-CNNVD编号: CNNVD-2026-38053372</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-38053372&lt;/p&gt;&lt;pre&gt;IBM Concert 跨站脚本漏洞
+收录时间：2026-10-20 | 更新时间: 2026-10-21 16:49:25
+CNNVD编号: CNNVD-2026-26477039</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-26477039&lt;/p&gt;&lt;pre&gt;TYPO3 Accessible Form Captcha 信任管理问题漏洞
 危害等级: 中危
-收录时间：2026-10-19 | 更新时间: 2026-10-20 16:23:44
-CNNVD编号: CNNVD-2026-38053372&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-50049474 - Apache Camel 代码注入漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-50049474</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-50049474</guid><pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate><description>Apache Camel 代码注入漏洞
-危害等级: 高危
-收录时间：2026-10-19 | 更新时间: 2026-10-20 16:23:42
-CNNVD编号: CNNVD-2026-50049474</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-50049474&lt;/p&gt;&lt;pre&gt;Apache Camel 代码注入漏洞
-危害等级: 高危
-收录时间：2026-10-19 | 更新时间: 2026-10-20 16:23:42
-CNNVD编号: CNNVD-2026-50049474&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-23389061 - Apache Camel 路径遍历漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-23389061</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-23389061</guid><pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate><description>Apache Camel 路径遍历漏洞
-危害等级: 高危
-收录时间：2026-10-19 | 更新时间: 2026-10-20 16:23:42
-CNNVD编号: CNNVD-2026-23389061</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-23389061&lt;/p&gt;&lt;pre&gt;Apache Camel 路径遍历漏洞
-危害等级: 高危
-收录时间：2026-10-19 | 更新时间: 2026-10-20 16:23:42
-CNNVD编号: CNNVD-2026-23389061&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-22372765 - Apache Camel 会话机制问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22372765</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22372765</guid><pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate><description>Apache Camel 会话机制问题漏洞
+收录时间：2026-10-20 | 更新时间: 2026-10-21 16:49:25
+CNNVD编号: CNNVD-2026-26477039&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-31613563 - TYPO3 Shop by coding.ms 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-31613563</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-31613563</guid><pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate><description>TYPO3 Shop by coding.ms 授权问题漏洞
 危害等级: 中危
-收录时间：2026-10-19 | 更新时间: 2026-10-20 16:23:40
-CNNVD编号: CNNVD-2026-22372765</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22372765&lt;/p&gt;&lt;pre&gt;Apache Camel 会话机制问题漏洞
+收录时间：2026-10-20 | 更新时间: 2026-10-21 16:49:31
+CNNVD编号: CNNVD-2026-31613563</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-31613563&lt;/p&gt;&lt;pre&gt;TYPO3 Shop by coding.ms 授权问题漏洞
 危害等级: 中危
-收录时间：2026-10-19 | 更新时间: 2026-10-20 16:23:40
-CNNVD编号: CNNVD-2026-22372765&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-11161918 - Apache Camel 竞争条件问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-11161918</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-11161918</guid><pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate><description>Apache Camel 竞争条件问题漏洞
+收录时间：2026-10-20 | 更新时间: 2026-10-21 16:49:31
+CNNVD编号: CNNVD-2026-31613563&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-86184249 - tox-dev filelock 后置链接漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-86184249</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-86184249</guid><pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate><description>tox-dev filelock 后置链接漏洞
 危害等级: 中危
-收录时间：2026-10-19 | 更新时间: 2026-10-20 16:23:39
-CNNVD编号: CNNVD-2026-11161918</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-11161918&lt;/p&gt;&lt;pre&gt;Apache Camel 竞争条件问题漏洞
+收录时间：2026-10-20 | 更新时间: 2026-10-21 16:49:18
+CNNVD编号: CNNVD-2026-86184249</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-86184249&lt;/p&gt;&lt;pre&gt;tox-dev filelock 后置链接漏洞
 危害等级: 中危
-收录时间：2026-10-19 | 更新时间: 2026-10-20 16:23:39
-CNNVD编号: CNNVD-2026-11161918&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-22766801 - Apache Camel 加密问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22766801</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22766801</guid><pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate><description>Apache Camel 加密问题漏洞
+收录时间：2026-10-20 | 更新时间: 2026-10-21 16:49:18
+CNNVD编号: CNNVD-2026-86184249&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-99109327 - Google Agent Development Kit 路径遍历漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-99109327</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-99109327</guid><pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate><description>Google Agent Development Kit 路径遍历漏洞
+危害等级: 超危
+收录时间：2026-10-20 | 更新时间: 2026-10-21 16:49:08
+CNNVD编号: CNNVD-2026-99109327</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-99109327&lt;/p&gt;&lt;pre&gt;Google Agent Development Kit 路径遍历漏洞
+危害等级: 超危
+收录时间：2026-10-20 | 更新时间: 2026-10-21 16:49:08
+CNNVD编号: CNNVD-2026-99109327&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-81440309 - Apostrophe Technologies ApostropheCMS 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-81440309</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-81440309</guid><pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate><description>Apostrophe Technologies ApostropheCMS 跨站脚本漏洞
 危害等级: 中危
-收录时间：2026-10-19 | 更新时间: 2026-10-20 16:23:39
-CNNVD编号: CNNVD-2026-22766801</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22766801&lt;/p&gt;&lt;pre&gt;Apache Camel 加密问题漏洞
+收录时间：2026-10-20 | 更新时间: 2026-10-21 16:27:03
+CNNVD编号: CNNVD-2026-81440309</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-81440309&lt;/p&gt;&lt;pre&gt;Apostrophe Technologies ApostropheCMS 跨站脚本漏洞
 危害等级: 中危
-收录时间：2026-10-19 | 更新时间: 2026-10-20 16:23:39
-CNNVD编号: CNNVD-2026-22766801&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-92810324 - IBM MQ Operator 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-92810324</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-92810324</guid><pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate><description>IBM MQ Operator 缓冲区错误漏洞
+收录时间：2026-10-20 | 更新时间: 2026-10-21 16:27:03
+CNNVD编号: CNNVD-2026-81440309&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-76969703 - Apostrophe Technologies ApostropheCMS 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-76969703</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-76969703</guid><pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate><description>Apostrophe Technologies ApostropheCMS 跨站脚本漏洞
+危害等级: 低危
+收录时间：2026-10-20 | 更新时间: 2026-10-21 16:27:02
+CNNVD编号: CNNVD-2026-76969703</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-76969703&lt;/p&gt;&lt;pre&gt;Apostrophe Technologies ApostropheCMS 跨站脚本漏洞
+危害等级: 低危
+收录时间：2026-10-20 | 更新时间: 2026-10-21 16:27:02
+CNNVD编号: CNNVD-2026-76969703&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-16573800 - Apostrophe Technologies ApostropheCMS 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-16573800</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-16573800</guid><pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate><description>Apostrophe Technologies ApostropheCMS 资源管理错误漏洞
 危害等级: 中危
-收录时间：2026-10-19 | 更新时间: 2026-10-20 16:28:10
-CNNVD编号: CNNVD-2026-92810324</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-92810324&lt;/p&gt;&lt;pre&gt;IBM MQ Operator 缓冲区错误漏洞
+收录时间：2026-10-20 | 更新时间: 2026-10-21 16:27:01
+CNNVD编号: CNNVD-2026-16573800</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-16573800&lt;/p&gt;&lt;pre&gt;Apostrophe Technologies ApostropheCMS 资源管理错误漏洞
 危害等级: 中危
-收录时间：2026-10-19 | 更新时间: 2026-10-20 16:28:10
-CNNVD编号: CNNVD-2026-92810324&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-94749310 - IBM MQ Operator 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-94749310</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-94749310</guid><pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate><description>IBM MQ Operator 缓冲区错误漏洞
+收录时间：2026-10-20 | 更新时间: 2026-10-21 16:27:01
+CNNVD编号: CNNVD-2026-16573800&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-76952169 - Apostrophe Technologies ApostropheCMS 权限许可和访问控制问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-76952169</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-76952169</guid><pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate><description>Apostrophe Technologies ApostropheCMS 权限许可和访问控制问题漏洞
 危害等级: 中危
-收录时间：2026-10-19 | 更新时间: 2026-10-20 16:28:09
-CNNVD编号: CNNVD-2026-94749310</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-94749310&lt;/p&gt;&lt;pre&gt;IBM MQ Operator 缓冲区错误漏洞
+收录时间：2026-10-20 | 更新时间: 2026-10-21 16:26:56
+CNNVD编号: CNNVD-2026-76952169</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-76952169&lt;/p&gt;&lt;pre&gt;Apostrophe Technologies ApostropheCMS 权限许可和访问控制问题漏洞
 危害等级: 中危
-收录时间：2026-10-19 | 更新时间: 2026-10-20 16:28:09
-CNNVD编号: CNNVD-2026-94749310&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-72074905 - rdesktop 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-72074905</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-72074905</guid><pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate><description>rdesktop 缓冲区错误漏洞
-危害等级: 高危
-收录时间：2026-10-19 | 更新时间: 2026-10-20 16:28:57
-CNNVD编号: CNNVD-2026-72074905</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-72074905&lt;/p&gt;&lt;pre&gt;rdesktop 缓冲区错误漏洞
-危害等级: 高危
-收录时间：2026-10-19 | 更新时间: 2026-10-20 16:28:57
-CNNVD编号: CNNVD-2026-72074905&lt;/pre&gt;</content:encoded></item></channel></rss>
+收录时间：2026-10-20 | 更新时间: 2026-10-21 16:26:56
+CNNVD编号: CNNVD-2026-76952169&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-54191078 - Apostrophe Technologies ApostropheCMS 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-54191078</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-54191078</guid><pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate><description>Apostrophe Technologies ApostropheCMS 授权问题漏洞
+危害等级: 中危
+收录时间：2026-10-20 | 更新时间: 2026-10-21 16:26:53
+CNNVD编号: CNNVD-2026-54191078</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-54191078&lt;/p&gt;&lt;pre&gt;Apostrophe Technologies ApostropheCMS 授权问题漏洞
+危害等级: 中危
+收录时间：2026-10-20 | 更新时间: 2026-10-21 16:26:53
+CNNVD编号: CNNVD-2026-54191078&lt;/pre&gt;</content:encoded></item></channel></rss>

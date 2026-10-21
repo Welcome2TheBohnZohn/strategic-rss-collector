@@ -156,9 +156,9 @@ https://www.ncpssd.cn/service/index?id=17
   社科机构导航
 https://www.ncpssd.cn/messages
   查看更多
+https://www.ncpssd.cn/message?id=22426
 https://www.ncpssd.cn/message?id=22416
 https://www.ncpssd.cn/message?id=22415
-https://www.ncpssd.cn/message?id=22266
 https://www.ncpssd.cn/message?id=22425
   习近平致中央社会主义学院建院70周年的贺信
 https://www.ncpssd.cn/message?id=22424
@@ -316,9 +316,9 @@ https://ft.ncpssd.cn/image/get/npssd/pageStyle?url=img/1717135759278.jpg
 https://www.ncpssd.cn/images/close2.png
 https://www.ncpssd.cn/images/qu.png
 https://www.ncpssd.cn/images/add1.png
+https://ft.ncpssd.cn/image/get/npssd/column?url=img/1792561670672.jpg
 https://ft.ncpssd.cn/image/get/npssd/column?url=img/1791879890008.jpg
 https://ft.ncpssd.cn/image/get/npssd/column?url=img/1791877288067.jpg
-https://ft.ncpssd.cn/image/get/npssd/column?url=img/1789348224230.jpg
 https://ft.ncpssd.cn/image/get/npssd/topic?url=img/1758001813519.jpg
 https://ft.ncpssd.cn/image/get/npssd/topic?url=img/1763085826266.jpg
 https://www.ncpssd.cn/images/word1.png
