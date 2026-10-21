@@ -1,5 +1,47 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Tue, 20 Oct 2026 21:51:43 +0000</lastBuildDate><item><title>CNNVD-2026-92810324 - IBM MQ Operator 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-92810324</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-92810324</guid><pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate><description>IBM MQ Operator 缓冲区错误漏洞
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Wed, 21 Oct 2026 05:07:31 +0000</lastBuildDate><item><title>CNNVD-2026-26069103 - IBM Concert 信息泄露漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-26069103</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-26069103</guid><pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate><description>IBM Concert 信息泄露漏洞
+危害等级: 中危
+收录时间：2026-10-19 | 更新时间: 2026-10-20 16:23:44
+CNNVD编号: CNNVD-2026-26069103</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-26069103&lt;/p&gt;&lt;pre&gt;IBM Concert 信息泄露漏洞
+危害等级: 中危
+收录时间：2026-10-19 | 更新时间: 2026-10-20 16:23:44
+CNNVD编号: CNNVD-2026-26069103&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-38053372 - IBM Concert 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-38053372</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-38053372</guid><pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate><description>IBM Concert 跨站脚本漏洞
+危害等级: 中危
+收录时间：2026-10-19 | 更新时间: 2026-10-20 16:23:44
+CNNVD编号: CNNVD-2026-38053372</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-38053372&lt;/p&gt;&lt;pre&gt;IBM Concert 跨站脚本漏洞
+危害等级: 中危
+收录时间：2026-10-19 | 更新时间: 2026-10-20 16:23:44
+CNNVD编号: CNNVD-2026-38053372&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-50049474 - Apache Camel 代码注入漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-50049474</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-50049474</guid><pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate><description>Apache Camel 代码注入漏洞
+危害等级: 高危
+收录时间：2026-10-19 | 更新时间: 2026-10-20 16:23:42
+CNNVD编号: CNNVD-2026-50049474</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-50049474&lt;/p&gt;&lt;pre&gt;Apache Camel 代码注入漏洞
+危害等级: 高危
+收录时间：2026-10-19 | 更新时间: 2026-10-20 16:23:42
+CNNVD编号: CNNVD-2026-50049474&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-23389061 - Apache Camel 路径遍历漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-23389061</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-23389061</guid><pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate><description>Apache Camel 路径遍历漏洞
+危害等级: 高危
+收录时间：2026-10-19 | 更新时间: 2026-10-20 16:23:42
+CNNVD编号: CNNVD-2026-23389061</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-23389061&lt;/p&gt;&lt;pre&gt;Apache Camel 路径遍历漏洞
+危害等级: 高危
+收录时间：2026-10-19 | 更新时间: 2026-10-20 16:23:42
+CNNVD编号: CNNVD-2026-23389061&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-22372765 - Apache Camel 会话机制问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22372765</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22372765</guid><pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate><description>Apache Camel 会话机制问题漏洞
+危害等级: 中危
+收录时间：2026-10-19 | 更新时间: 2026-10-20 16:23:40
+CNNVD编号: CNNVD-2026-22372765</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22372765&lt;/p&gt;&lt;pre&gt;Apache Camel 会话机制问题漏洞
+危害等级: 中危
+收录时间：2026-10-19 | 更新时间: 2026-10-20 16:23:40
+CNNVD编号: CNNVD-2026-22372765&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-11161918 - Apache Camel 竞争条件问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-11161918</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-11161918</guid><pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate><description>Apache Camel 竞争条件问题漏洞
+危害等级: 中危
+收录时间：2026-10-19 | 更新时间: 2026-10-20 16:23:39
+CNNVD编号: CNNVD-2026-11161918</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-11161918&lt;/p&gt;&lt;pre&gt;Apache Camel 竞争条件问题漏洞
+危害等级: 中危
+收录时间：2026-10-19 | 更新时间: 2026-10-20 16:23:39
+CNNVD编号: CNNVD-2026-11161918&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-22766801 - Apache Camel 加密问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22766801</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22766801</guid><pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate><description>Apache Camel 加密问题漏洞
+危害等级: 中危
+收录时间：2026-10-19 | 更新时间: 2026-10-20 16:23:39
+CNNVD编号: CNNVD-2026-22766801</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22766801&lt;/p&gt;&lt;pre&gt;Apache Camel 加密问题漏洞
+危害等级: 中危
+收录时间：2026-10-19 | 更新时间: 2026-10-20 16:23:39
+CNNVD编号: CNNVD-2026-22766801&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-92810324 - IBM MQ Operator 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-92810324</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-92810324</guid><pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate><description>IBM MQ Operator 缓冲区错误漏洞
 危害等级: 中危
 收录时间：2026-10-19 | 更新时间: 2026-10-20 16:28:10
 CNNVD编号: CNNVD-2026-92810324</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-92810324&lt;/p&gt;&lt;pre&gt;IBM MQ Operator 缓冲区错误漏洞
@@ -17,46 +59,4 @@ CNNVD编号: CNNVD-2026-94749310&lt;/pre&gt;</content:encoded></item><item><titl
 CNNVD编号: CNNVD-2026-72074905</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-72074905&lt;/p&gt;&lt;pre&gt;rdesktop 缓冲区错误漏洞
 危害等级: 高危
 收录时间：2026-10-19 | 更新时间: 2026-10-20 16:28:57
-CNNVD编号: CNNVD-2026-72074905&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-76847338 - netpbm 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-76847338</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-76847338</guid><pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate><description>netpbm 缓冲区错误漏洞
-危害等级: 中危
-收录时间：2026-10-19 | 更新时间: 2026-10-20 16:28:56
-CNNVD编号: CNNVD-2026-76847338</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-76847338&lt;/p&gt;&lt;pre&gt;netpbm 缓冲区错误漏洞
-危害等级: 中危
-收录时间：2026-10-19 | 更新时间: 2026-10-20 16:28:56
-CNNVD编号: CNNVD-2026-76847338&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-45231016 - IBM MQ Operator 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-45231016</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-45231016</guid><pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate><description>IBM MQ Operator 缓冲区错误漏洞
-危害等级: 中危
-收录时间：2026-10-19 | 更新时间: 2026-10-20 16:23:55
-CNNVD编号: CNNVD-2026-45231016</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-45231016&lt;/p&gt;&lt;pre&gt;IBM MQ Operator 缓冲区错误漏洞
-危害等级: 中危
-收录时间：2026-10-19 | 更新时间: 2026-10-20 16:23:55
-CNNVD编号: CNNVD-2026-45231016&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-73247518 - IBM MQ Operator 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-73247518</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-73247518</guid><pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate><description>IBM MQ Operator 资源管理错误漏洞
-危害等级: 中危
-收录时间：2026-10-19 | 更新时间: 2026-10-20 16:23:52
-CNNVD编号: CNNVD-2026-73247518</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-73247518&lt;/p&gt;&lt;pre&gt;IBM MQ Operator 资源管理错误漏洞
-危害等级: 中危
-收录时间：2026-10-19 | 更新时间: 2026-10-20 16:23:52
-CNNVD编号: CNNVD-2026-73247518&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-95609032 - Diem project diem 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-95609032</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-95609032</guid><pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate><description>Diem project diem 输入验证错误漏洞
-危害等级: 低危
-收录时间：2026-10-19 | 更新时间: 2026-10-20 16:35:08
-CNNVD编号: CNNVD-2026-95609032</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-95609032&lt;/p&gt;&lt;pre&gt;Diem project diem 输入验证错误漏洞
-危害等级: 低危
-收录时间：2026-10-19 | 更新时间: 2026-10-20 16:35:08
-CNNVD编号: CNNVD-2026-95609032&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-54994397 - Diem project diem 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-54994397</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-54994397</guid><pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate><description>Diem project diem 授权问题漏洞
-危害等级: 低危
-收录时间：2026-10-19 | 更新时间: 2026-10-20 16:35:08
-CNNVD编号: CNNVD-2026-54994397</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-54994397&lt;/p&gt;&lt;pre&gt;Diem project diem 授权问题漏洞
-危害等级: 低危
-收录时间：2026-10-19 | 更新时间: 2026-10-20 16:35:08
-CNNVD编号: CNNVD-2026-54994397&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-13275289 - Themeum Tutor LMS – eLearning and online course solution 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-13275289</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-13275289</guid><pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate><description>Themeum Tutor LMS – eLearning and online course solution 跨站脚本漏洞
-危害等级: 中危
-收录时间：2026-10-19 | 更新时间: 2026-10-20 16:35:15
-CNNVD编号: CNNVD-2026-13275289</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-13275289&lt;/p&gt;&lt;pre&gt;Themeum Tutor LMS – eLearning and online course solution 跨站脚本漏洞
-危害等级: 中危
-收录时间：2026-10-19 | 更新时间: 2026-10-20 16:35:15
-CNNVD编号: CNNVD-2026-13275289&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-55299974 - eremef.xyz Bandcamp Experimental Transport Assistant 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-55299974</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-55299974</guid><pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate><description>eremef.xyz Bandcamp Experimental Transport Assistant 授权问题漏洞
-危害等级: 中危
-收录时间：2026-10-19 | 更新时间: 2026-10-20 16:35:00
-CNNVD编号: CNNVD-2026-55299974</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-55299974&lt;/p&gt;&lt;pre&gt;eremef.xyz Bandcamp Experimental Transport Assistant 授权问题漏洞
-危害等级: 中危
-收录时间：2026-10-19 | 更新时间: 2026-10-20 16:35:00
-CNNVD编号: CNNVD-2026-55299974&lt;/pre&gt;</content:encoded></item></channel></rss>
+CNNVD编号: CNNVD-2026-72074905&lt;/pre&gt;</content:encoded></item></channel></rss>

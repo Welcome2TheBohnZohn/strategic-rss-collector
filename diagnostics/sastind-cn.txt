@@ -6,7 +6,7 @@ Include regex: sastind\.gov\.cn/.+
 Include text regex: 
 
 Candidate links: 50
-All links discovered: 70
+All links discovered: 69
 
 === MATCHED CANDIDATES ===
 
@@ -16,6 +16,8 @@ https://www.sastind.gov.cn/n10624520/c10712789/content.html
   国家国防科工局党组召开全体党员干部大会 传达学习贯彻党的二...
 https://www.sastind.gov.cn/n10086200/n10086331/c10790000/content.html
   军工科技 | 铸大国剑盾 守万家灯火 ——写在人民军工创建...
+https://www.sastind.gov.cn/n10086167/n10086216/c10786982/content.html
+  通知公告 | 国家原子能机构、商务部、外交部、海关总署公告...
 https://www.sastind.gov.cn/n10086167/n10086216/c10779740/content.html
   通知公告 | 国家国防科技工业局2027年度考试录用公务员...
 https://www.sastind.gov.cn/n10086200/n10086344/c10775762/content.html
@@ -46,8 +48,6 @@ https://www.sastind.gov.cn/n10086200/n10086319/c10788880/content.html
   李强会见伊朗第一副总统阿雷夫
 https://www.sastind.gov.cn/n10086200/n10086319/c10788900/content.html
   李强会见白俄罗斯总理图尔钦
-https://www.sastind.gov.cn/n10086167/n10086216/c10786982/content.html
-  通知公告 |核出口管制清单
 https://www.sastind.gov.cn/n10115275/n10119032/index.html
   地方国防科技工业管理部门
 https://www.sastind.gov.cn/n10086167/n10086182/n10640116/index.html
@@ -204,10 +204,8 @@ https://www.sastind.gov.cn/n10086200/n10086344/c10775636/content.html
   工作动态 | “时代楷模”王戟同志先进事迹报告会在京举行
 https://www.sastind.gov.cn/n10086200/n10086331/c10790000/content.html
   军工科技 | 铸大国剑盾 守万家灯火 ——写在人民军工创建...
-https://www.sastind.gov.cn/n10086167/n10086216/c10786982/attr/10787128.pdf
-  通知公告 | 核出口管制清单
 https://www.sastind.gov.cn/n10086167/n10086216/c10786982/content.html
-  通知公告 |核出口管制清单
+  通知公告 | 国家原子能机构、商务部、外交部、海关总署公告...
 https://www.sastind.gov.cn/n10086167/n10086216/c10779740/content.html
   通知公告 | 国家国防科技工业局2027年度考试录用公务员...
 https://www.sastind.gov.cn/n10086167/n10086182/n10640116/index.html

@@ -1,5 +1,5 @@
 Strategic RSS Collector Status
-Generated: 2026-10-20 21:51:43 UTC
+Generated: 2026-10-21 05:07:31 UTC
 
 Status meanings:
 OK = Feed contains one or more items
@@ -27,7 +27,7 @@ FAILED = Source could not be retrieved
   Start URL: http://www.81.cn/?big=jian
   Resolved URL: http://www.81.cn/?big=jian
   HTTP: 200
-  Links discovered: 527
+  Links discovered: 528
   Candidate links/items: 50
   Attempted items/articles: 12
   Items/articles with text: 12
@@ -119,7 +119,7 @@ FAILED = Source could not be retrieved
   Start URL: https://www.sastind.gov.cn/
   Resolved URL: https://www.sastind.gov.cn/
   HTTP: 200
-  Links discovered: 70
+  Links discovered: 69
   Candidate links/items: 50
   Attempted items/articles: 12
   Items/articles with text: 12
@@ -213,9 +213,9 @@ FAILED = Source could not be retrieved
   Links discovered: 310
   Candidate links/items: 10
   Attempted items/articles: 10
-  Items/articles with text: 6
-  Items/articles with dates: 6
-  RSS feed items: 6
+  Items/articles with text: 10
+  Items/articles with dates: 10
+  RSS feed items: 10
   SSL verification: OFF
   Request timeout: 12s
   Max retries: 1
@@ -269,7 +269,7 @@ Call log:
 [OK] china-defense-news-cn - China National Defense News
   Source type: newspaper
   Start URL: http://www.81.cn/szb_223187/gfbszblb/index.html
-  Resolved URL: http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-10-20&paperName=zggfb&paperNumber=01
+  Resolved URL: http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-10-21&paperName=zggfb&paperNumber=01
   HTTP: 200
   Links discovered: 276
   Candidate links/items: 13
@@ -307,7 +307,7 @@ Call log:
   Candidate links/items: 50
   Attempted items/articles: 12
   Items/articles with text: 12
-  Items/articles with dates: 8
+  Items/articles with dates: 7
   RSS feed items: 12
   SSL verification: OFF
   Request timeout: 12s
