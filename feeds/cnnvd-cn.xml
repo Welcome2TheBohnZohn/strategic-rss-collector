@@ -1,62 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Wed, 21 Oct 2026 17:29:25 +0000</lastBuildDate><item><title>CNNVD-2026-56346678 - Apple iOS 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-56346678</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-56346678</guid><pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate><description>Apple iOS 安全漏洞
-危害等级: 超危
-收录时间：2026-10-20 | 更新时间: 2026-10-21 16:18:44
-CNNVD编号: CNNVD-2026-56346678</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-56346678&lt;/p&gt;&lt;pre&gt;Apple iOS 安全漏洞
-危害等级: 超危
-收录时间：2026-10-20 | 更新时间: 2026-10-21 16:18:44
-CNNVD编号: CNNVD-2026-56346678&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-68011963 - Advantech adam-3600 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-68011963</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-68011963</guid><pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate><description>Advantech adam-3600 安全漏洞
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Wed, 21 Oct 2026 21:59:24 +0000</lastBuildDate><item><title>CNNVD-2026-84461689 - TYPO3 Analytics 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-84461689</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-84461689</guid><pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate><description>TYPO3 Analytics 授权问题漏洞
 危害等级: 中危
-收录时间：2026-10-20 | 更新时间: 2026-10-21 16:14:34
-CNNVD编号: CNNVD-2026-68011963</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-68011963&lt;/p&gt;&lt;pre&gt;Advantech adam-3600 安全漏洞
+收录时间：2026-10-20 | 更新时间: 2026-10-21 16:49:26
+CNNVD编号: CNNVD-2026-84461689</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-84461689&lt;/p&gt;&lt;pre&gt;TYPO3 Analytics 授权问题漏洞
 危害等级: 中危
-收录时间：2026-10-20 | 更新时间: 2026-10-21 16:14:34
-CNNVD编号: CNNVD-2026-68011963&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-71003931 - Advantech adam-3600 异常处理不当漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-71003931</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-71003931</guid><pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate><description>Advantech adam-3600 异常处理不当漏洞
-危害等级: 高危
-收录时间：2026-10-20 | 更新时间: 2026-10-21 16:14:38
-CNNVD编号: CNNVD-2026-71003931</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-71003931&lt;/p&gt;&lt;pre&gt;Advantech adam-3600 异常处理不当漏洞
-危害等级: 高危
-收录时间：2026-10-20 | 更新时间: 2026-10-21 16:14:38
-CNNVD编号: CNNVD-2026-71003931&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-56736695 - Apple macOS 权限许可和访问控制问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-56736695</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-56736695</guid><pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate><description>Apple macOS 权限许可和访问控制问题漏洞
+收录时间：2026-10-20 | 更新时间: 2026-10-21 16:49:26
+CNNVD编号: CNNVD-2026-84461689&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-26477039 - TYPO3 Accessible Form Captcha 信任管理问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-26477039</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-26477039</guid><pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate><description>TYPO3 Accessible Form Captcha 信任管理问题漏洞
+危害等级: 中危
+收录时间：2026-10-20 | 更新时间: 2026-10-21 16:49:25
+CNNVD编号: CNNVD-2026-26477039</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-26477039&lt;/p&gt;&lt;pre&gt;TYPO3 Accessible Form Captcha 信任管理问题漏洞
+危害等级: 中危
+收录时间：2026-10-20 | 更新时间: 2026-10-21 16:49:25
+CNNVD编号: CNNVD-2026-26477039&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-31613563 - TYPO3 Shop by coding.ms 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-31613563</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-31613563</guid><pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate><description>TYPO3 Shop by coding.ms 授权问题漏洞
+危害等级: 中危
+收录时间：2026-10-20 | 更新时间: 2026-10-21 16:49:31
+CNNVD编号: CNNVD-2026-31613563</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-31613563&lt;/p&gt;&lt;pre&gt;TYPO3 Shop by coding.ms 授权问题漏洞
+危害等级: 中危
+收录时间：2026-10-20 | 更新时间: 2026-10-21 16:49:31
+CNNVD编号: CNNVD-2026-31613563&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-86184249 - tox-dev filelock 后置链接漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-86184249</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-86184249</guid><pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate><description>tox-dev filelock 后置链接漏洞
+危害等级: 中危
+收录时间：2026-10-20 | 更新时间: 2026-10-21 16:49:18
+CNNVD编号: CNNVD-2026-86184249</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-86184249&lt;/p&gt;&lt;pre&gt;tox-dev filelock 后置链接漏洞
+危害等级: 中危
+收录时间：2026-10-20 | 更新时间: 2026-10-21 16:49:18
+CNNVD编号: CNNVD-2026-86184249&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-99109327 - Google Agent Development Kit 路径遍历漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-99109327</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-99109327</guid><pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate><description>Google Agent Development Kit 路径遍历漏洞
+危害等级: 超危
+收录时间：2026-10-20 | 更新时间: 2026-10-21 16:49:08
+CNNVD编号: CNNVD-2026-99109327</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-99109327&lt;/p&gt;&lt;pre&gt;Google Agent Development Kit 路径遍历漏洞
+危害等级: 超危
+收录时间：2026-10-20 | 更新时间: 2026-10-21 16:49:08
+CNNVD编号: CNNVD-2026-99109327&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-81440309 - Apostrophe Technologies ApostropheCMS 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-81440309</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-81440309</guid><pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate><description>Apostrophe Technologies ApostropheCMS 跨站脚本漏洞
+危害等级: 中危
+收录时间：2026-10-20 | 更新时间: 2026-10-21 16:27:03
+CNNVD编号: CNNVD-2026-81440309</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-81440309&lt;/p&gt;&lt;pre&gt;Apostrophe Technologies ApostropheCMS 跨站脚本漏洞
+危害等级: 中危
+收录时间：2026-10-20 | 更新时间: 2026-10-21 16:27:03
+CNNVD编号: CNNVD-2026-81440309&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-76969703 - Apostrophe Technologies ApostropheCMS 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-76969703</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-76969703</guid><pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate><description>Apostrophe Technologies ApostropheCMS 跨站脚本漏洞
 危害等级: 低危
-收录时间：2026-10-20 | 更新时间: 2026-10-21 16:19:12
-CNNVD编号: CNNVD-2026-56736695</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-56736695&lt;/p&gt;&lt;pre&gt;Apple macOS 权限许可和访问控制问题漏洞
+收录时间：2026-10-20 | 更新时间: 2026-10-21 16:27:02
+CNNVD编号: CNNVD-2026-76969703</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-76969703&lt;/p&gt;&lt;pre&gt;Apostrophe Technologies ApostropheCMS 跨站脚本漏洞
 危害等级: 低危
-收录时间：2026-10-20 | 更新时间: 2026-10-21 16:19:12
-CNNVD编号: CNNVD-2026-56736695&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-83666812 - Apple macOS 信息泄露漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-83666812</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-83666812</guid><pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate><description>Apple macOS 信息泄露漏洞
+收录时间：2026-10-20 | 更新时间: 2026-10-21 16:27:02
+CNNVD编号: CNNVD-2026-76969703&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-16573800 - Apostrophe Technologies ApostropheCMS 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-16573800</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-16573800</guid><pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate><description>Apostrophe Technologies ApostropheCMS 资源管理错误漏洞
 危害等级: 中危
-收录时间：2026-10-20 | 更新时间: 2026-10-21 16:19:04
-CNNVD编号: CNNVD-2026-83666812</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-83666812&lt;/p&gt;&lt;pre&gt;Apple macOS 信息泄露漏洞
+收录时间：2026-10-20 | 更新时间: 2026-10-21 16:27:01
+CNNVD编号: CNNVD-2026-16573800</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-16573800&lt;/p&gt;&lt;pre&gt;Apostrophe Technologies ApostropheCMS 资源管理错误漏洞
 危害等级: 中危
-收录时间：2026-10-20 | 更新时间: 2026-10-21 16:19:04
-CNNVD编号: CNNVD-2026-83666812&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-42810297 - Apple iOS 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-42810297</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-42810297</guid><pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate><description>Apple iOS 资源管理错误漏洞
+收录时间：2026-10-20 | 更新时间: 2026-10-21 16:27:01
+CNNVD编号: CNNVD-2026-16573800&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-76952169 - Apostrophe Technologies ApostropheCMS 权限许可和访问控制问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-76952169</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-76952169</guid><pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate><description>Apostrophe Technologies ApostropheCMS 权限许可和访问控制问题漏洞
 危害等级: 中危
-收录时间：2026-10-20 | 更新时间: 2026-10-21 16:19:02
-CNNVD编号: CNNVD-2026-42810297</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-42810297&lt;/p&gt;&lt;pre&gt;Apple iOS 资源管理错误漏洞
+收录时间：2026-10-20 | 更新时间: 2026-10-21 16:26:56
+CNNVD编号: CNNVD-2026-76952169</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-76952169&lt;/p&gt;&lt;pre&gt;Apostrophe Technologies ApostropheCMS 权限许可和访问控制问题漏洞
 危害等级: 中危
-收录时间：2026-10-20 | 更新时间: 2026-10-21 16:19:02
-CNNVD编号: CNNVD-2026-42810297&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-42818690 - Apple macOS 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-42818690</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-42818690</guid><pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate><description>Apple macOS 安全漏洞
-危害等级: 超危
-收录时间：2026-10-20 | 更新时间: 2026-10-21 16:19:11
-CNNVD编号: CNNVD-2026-42818690</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-42818690&lt;/p&gt;&lt;pre&gt;Apple macOS 安全漏洞
-危害等级: 超危
-收录时间：2026-10-20 | 更新时间: 2026-10-21 16:19:11
-CNNVD编号: CNNVD-2026-42818690&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-41514451 - Apple macOS 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-41514451</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-41514451</guid><pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate><description>Apple macOS 安全漏洞
-危害等级: 超危
-收录时间：2026-10-20 | 更新时间: 2026-10-21 16:19:05
-CNNVD编号: CNNVD-2026-41514451</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-41514451&lt;/p&gt;&lt;pre&gt;Apple macOS 安全漏洞
-危害等级: 超危
-收录时间：2026-10-20 | 更新时间: 2026-10-21 16:19:05
-CNNVD编号: CNNVD-2026-41514451&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-98972852 - Apple macOS 信息泄露漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-98972852</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-98972852</guid><pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate><description>Apple macOS 信息泄露漏洞
+收录时间：2026-10-20 | 更新时间: 2026-10-21 16:26:56
+CNNVD编号: CNNVD-2026-76952169&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-54191078 - Apostrophe Technologies ApostropheCMS 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-54191078</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-54191078</guid><pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate><description>Apostrophe Technologies ApostropheCMS 授权问题漏洞
 危害等级: 中危
-收录时间：2026-10-20 | 更新时间: 2026-10-21 16:19:04
-CNNVD编号: CNNVD-2026-98972852</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-98972852&lt;/p&gt;&lt;pre&gt;Apple macOS 信息泄露漏洞
+收录时间：2026-10-20 | 更新时间: 2026-10-21 16:26:53
+CNNVD编号: CNNVD-2026-54191078</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-54191078&lt;/p&gt;&lt;pre&gt;Apostrophe Technologies ApostropheCMS 授权问题漏洞
 危害等级: 中危
-收录时间：2026-10-20 | 更新时间: 2026-10-21 16:19:04
-CNNVD编号: CNNVD-2026-98972852&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-91401064 - Apple iOS 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-91401064</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-91401064</guid><pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate><description>Apple iOS 授权问题漏洞
-危害等级: 低危
-收录时间：2026-10-20 | 更新时间: 2026-10-21 16:18:51
-CNNVD编号: CNNVD-2026-91401064</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-91401064&lt;/p&gt;&lt;pre&gt;Apple iOS 授权问题漏洞
-危害等级: 低危
-收录时间：2026-10-20 | 更新时间: 2026-10-21 16:18:51
-CNNVD编号: CNNVD-2026-91401064&lt;/pre&gt;</content:encoded></item></channel></rss>
+收录时间：2026-10-20 | 更新时间: 2026-10-21 16:26:53
+CNNVD编号: CNNVD-2026-54191078&lt;/pre&gt;</content:encoded></item></channel></rss>

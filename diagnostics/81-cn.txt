@@ -60,8 +60,6 @@ http://www.81.cn/wh_208575/jdt_208576/16491845.html
   中国第16批赴南苏丹（瓦乌）维和部队通过联合国战备能力评估
 http://www.81.cn/bq_208581/16493612.html
   武器知识小剧场——光学隐身是什么原理？武器隐身也是同理吗？
-http://www.81.cn/hj_208557/16494976.html
-  北部战区海军航空兵某部为官兵"人生关键帧"送上关心与陪伴
 http://www.81.cn/hjj_208561/jdt_208562/16487736.html
   探访火箭军某部“地窝子”哨所，倾听官兵生死与共的坚守故事
 http://www.81.cn/lq_208565/jdt_208566/16491407.html
@@ -110,6 +108,8 @@ http://www.81.cn/yw_208727/16495188.html
   神舟二十三号航天员乘组在轨致敬红军长征胜利90周年
 http://www.81.cn/yw_208727/16495180.html
   当镜头与水墨相融：你的征途已化作山河里最亮的那抹红
+http://www.81.cn/bz_208549/16495170.html
+  第75集团军某旅组织空地协同训练，提升遂行任务水平
 
 === ALL DISCOVERED LINKS ===
 
@@ -378,18 +378,18 @@ http://www.81.cn/ss_208539/16494954.html
   长征文物资源家底基本摸清
 http://www.81.cn/zt/2023nzt/xxgcxjpxsdzgtsshzysxztjy/index.html
 http://www.81.cn/zt/2023nzt/flsxjjbnmbjkjcsjyljd/index.html
-http://www.81.cn/bz_208549/jdt_208550/16495001.html
-  陆军某旅远程火力分队开展实弹射击训练
+http://www.81.cn/bz_208549/jdt_208550/16495269.html
+  陆军某部开展机动训练
+http://www.81.cn/bz_208549/16495255.html
+  空军航空兵某旅开展飞行训练
+http://www.81.cn/bz_208549/16495254.html
+  海军某部借助科技手段破解伞降训练难题
 http://www.81.cn/bz_208549/16495173.html
   “刀尖”起舞
 http://www.81.cn/bz_208549/16495170.html
   第75集团军某旅组织空地协同训练，提升遂行任务水平
 http://www.81.cn/bz_208549/16495006.html
   “主角”之争成了过去时，各军兵种主动融入体系攥指成拳
-http://www.81.cn/bz_208549/16494999.html
-  空军某部开展装载训练
-http://www.81.cn/bz_208549/16494995.html
-  海军航空兵某场站探索跨军种联合保障模式
 http://www.81.cn/jw_208551/jdt_208552/16438857.html
   中央军委主席习近平签署命令 发布《军事理论工作条例》
 http://www.81.cn/jw_208551/16490376.html
@@ -432,24 +432,24 @@ http://www.81.cn/lj_208555/16492231.html
   第79集团军组织预任政治干部培训 集中淬火夯实能力根基
 http://www.81.cn/lj_208555/16492234.html
   面对重大演训任务,第80集团军某旅400余名老兵主动延期退役
-http://www.81.cn/hj_208557/jdt_208558/16494927.html
-  海军航空兵某团开展搜攻潜训练
+http://www.81.cn/hj_208557/jdt_208558/16495240.html
+  海军某支队开展海上补给训练
 http://www.81.cn/hj_208557/16493415.html
   昼夜接续，战鹰砺羽不打烊
 http://www.81.cn/hj_208557/16493302.html
   海军“吉祥方舟”号医院船访问科特迪瓦
-http://www.81.cn/hj_208557/16495009.html
-  成长无先后，多元育才让每名战士找到自己的赛道
+http://www.81.cn/hj_208557/16495253.html
+  海军某部借助科技手段破解伞降训练难题
+http://www.81.cn/hj_208557/jdt_208558/16494927.html
+  海军航空兵某团开展搜攻潜训练
 http://www.81.cn/hj_208557/jdt_208558/16494704.html
   海军某支队开展训练
-http://www.81.cn/hj_208557/jdt_208558/16492278.html
-  东部战区海军某油料技术保障大队开展应急油料保障演练
+http://www.81.cn/hj_208557/16495009.html
+  成长无先后，多元育才让每名战士找到自己的赛道
 http://www.81.cn/hj_208557/16494994.html
   海军航空兵某场站探索跨军种联合保障模式
 http://www.81.cn/hj_208557/16494979.html
   海军某支队开展海上训练
-http://www.81.cn/hj_208557/16494976.html
-  北部战区海军航空兵某部为官兵"人生关键帧"送上关心与陪伴
 http://www.81.cn/kj_208559/jdt_208560/16494851.html
   执笔为剑，卫国擎天丨2027年空军文职人员公开招考宣介活动，向青年发出强军邀约
 http://www.81.cn/kj_208559/16494885.html
@@ -458,10 +458,10 @@ http://www.81.cn/kj_208559/16494881.html
   空军航空兵某旅：学思践悟 向战奋飞
 http://www.81.cn/kj_208559/16494996.html
   空军某部开展政治干部学军事活动让“生命线”更有生命力
+http://www.81.cn/kj_208559/jdt_208560/16495257.html
+  空军航空兵某旅开展飞行训练
 http://www.81.cn/kj_208559/jdt_208560/16494998.html
   空军某部开展装载训练
-http://www.81.cn/kj_208559/jdt_208560/16494395.html
-  空军航空兵某旅开展飞行训练
 http://www.81.cn/kj_208559/16492102.html
   徙木立信在军营丨空军某部党委探索重难点问题“揭榜攻关”工作机制
 http://www.81.cn/kj_208559/16492172.html
@@ -504,18 +504,18 @@ http://www.81.cn/lq_208565/16489914.html
   薪火联勤 | 苏维埃时期的后方供给
 http://www.81.cn/lq_208565/16489912.html
   百余名在校博士研究生走进解放军总医院
-http://www.81.cn/wj_208567/jdt_208568/16495174.html
-  “刀尖”起舞
+http://www.81.cn/wj_208567/jdt_208568/16495265.html
+  武警海南总队某中队官兵忠诚守护祖国南大门
 http://www.81.cn/wj_208567/16494946.html
   武警南宁支队组织战场救护演练锤炼官兵应急救援能力
 http://www.81.cn/wj_208567/16492854.html
   小猫，你是怎么认识武警哥哥的？
 http://www.81.cn/wj_208567/16494978.html
   分量悄然增加的巡逻包，藏着官兵的为民心
+http://www.81.cn/wj_208567/jdt_208568/16495174.html
+  “刀尖”起舞
 http://www.81.cn/wj_208567/jdt_208568/16492865.html
   武警新疆总队某支队举办“砺剑-2026”军体运动会
-http://www.81.cn/wj_208567/jdt_208568/16492414.html
-  武警贵州总队安顺支队组织刺杀对抗训练
 http://www.81.cn/wj_208567/16494925.html
   武警双鸭山支队落实条令要求规范内务标准
 http://www.81.cn/wj_208567/16494356.html
@@ -986,27 +986,27 @@ http://www.81.cn/template/tenant207/t1774/img/jfjb-weibo1.jpg
 http://www.81.cn/byds_206407/byds_206410/_attachment/2026/10/21/16495145_e4b153273c1fba582fa3d300a5c9553b.jpg
 http://www.81.cn/wzsy/Banner_207703/ljy/_attachment/2023/04/14/16217016_2535c332a2450a31c2e8310a2331320d.png
 http://www.81.cn/wzsy/Banner_207703/ljy/_attachment/2023/08/31/16217015_5171ca201142e820b17b49869c704001.jpg
-http://www.81.cn/bz_208549/jdt_208550/_attachment/2026/10/21/16495001_1435bceeec1942a57edb18f805217a4e.jpg
+http://www.81.cn/bz_208549/jdt_208550/_attachment/2026/10/22/16495269_77e6fa752ffbb3d5be149ebc13b8edb0.jpg
 http://www.81.cn/jw_208551/jdt_208552/_attachment/2026/01/23/16438857_f3dface94fa9997b6b768004bc1711fe.jpg
 http://www.81.cn/zq_208553/jdt_208554/_attachment/2026/10/13/16492717_7a0d7ce50c2c9546b08055ccaab1769c.jpg
 http://www.81.cn/lj_208555/jdt_208556/_attachment/2026/10/14/16492983_49b8cef8a6eaa46bf65da447f244fba6.png
 http://www.81.cn/lj_208555/jdt_208556/_attachment/2026/10/13/16492487_ceeb618ea0279dc906a0282b6c204cb4.jpg
 http://www.81.cn/lj_208555/jdt_208556/_attachment/2026/10/13/16492469_b794c44dc61f73afced8b35585256111.jpg
+http://www.81.cn/hj_208557/jdt_208558/_attachment/2026/10/22/16495240_ee3d154691df973343b4cff14c207046.jpg
 http://www.81.cn/hj_208557/jdt_208558/_attachment/2026/10/20/16494927_d7cffdfbec39f323d2ad3b1bc4cb46ce.jpg
 http://www.81.cn/hj_208557/jdt_208558/_attachment/2026/10/20/16494704_5a3fcf5e94445fb72e139ec3c7a63f52.jpg
-http://www.81.cn/hj_208557/jdt_208558/_attachment/2026/10/11/16492278_cacd6f1f60bc426fe7750adb032df4d0.jpg
 http://www.81.cn/kj_208559/jdt_208560/_attachment/2026/10/20/16494851_ad7e29cf3eae18bc87c46c14e0eb2f8b.png
+http://www.81.cn/kj_208559/jdt_208560/_attachment/2026/10/22/16495257_c5e251653807da0daa1d9959415053e7.jpg
 http://www.81.cn/kj_208559/jdt_208560/_attachment/2026/10/21/16494998_fbdd640879d761eb55b5e49c53d20363.jpg
-http://www.81.cn/kj_208559/jdt_208560/_attachment/2026/10/19/16494395_aa38c59bee1c53428b840d9db75722ce.jpg
 http://www.81.cn/hjj_208561/jdt_208562/_attachment/2026/10/10/16491851_d0bb384dddfc0a4337f51ab95e03b100.jpg
 http://www.81.cn/hjj_208561/jdt_208562/_attachment/2026/09/20/16487736_c595538899d2c0401948dab6d1abc3de.jpg
 http://www.81.cn/hjj_208561/jdt_208562/_attachment/2026/09/17/16486919_4fcd3c5ce81ef9963f7410917ac5fe0b.jpg
 http://www.81.cn/lq_208565/jdt_208566/_attachment/2026/10/07/16491407_90ec2fb24d0081653bebd18e5ac24151.png
 http://www.81.cn/lq_208565/jdt_208566/_attachment/2026/09/22/16488318_0731b52ed5dc0aed526d0772f137f83c.png
 http://www.81.cn/lq_208565/jdt_208566/_attachment/2026/09/19/16487672_66e50afa1f38ee8107126dedb0edaea5.jpg
+http://www.81.cn/wj_208567/jdt_208568/_attachment/2026/10/16/16495265_90c9b090ebe0cc6f1a5caf977956fef6.jpg
 http://www.81.cn/wj_208567/jdt_208568/_attachment/2026/10/21/16495174_083a3a908dfd0716e95596b3e45cac9c.jpg
 http://www.81.cn/wj_208567/jdt_208568/_attachment/2026/10/13/16492865_56ffa533715a14757b399202257b6cc8.jpg
-http://www.81.cn/wj_208567/jdt_208568/_attachment/2026/10/13/16492414_31d03f02f1c487520361c830de45bd2d.jpg
 http://www.81.cn/jx_208569/jdt_208570/_attachment/2026/09/23/16488427_828cf1533ea6ccc54e635a65478d0ce8.png
 http://www.81.cn/jx_208569/jdt_208570/_attachment/2026/07/18/16474403_82e63d082f1d6d3fb22db5775bd20c51.jpg
 http://www.81.cn/tz/jdt_208572/_attachment/2026/10/04/16491046_c0221c2266314d72540cd0e959aaee3a.jpg
