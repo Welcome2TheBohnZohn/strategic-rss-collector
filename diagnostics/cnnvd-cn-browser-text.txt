@@ -23,66 +23,66 @@ CNNVD动态
 重置
 收起 
 漏洞信息
-TYPO3 Analytics 授权问题漏洞
-中危
-收录时间：2026-10-20
-|
-更新时间: 2026-10-21 16:49:26
-CNNVD编号：CNNVD-2026-84461689
-TYPO3 Accessible Form Captcha 信任管理问题漏洞
-中危
-收录时间：2026-10-20
-|
-更新时间: 2026-10-21 16:49:25
-CNNVD编号：CNNVD-2026-26477039
-TYPO3 Shop by coding.ms 授权问题漏洞
-中危
-收录时间：2026-10-20
-|
-更新时间: 2026-10-21 16:49:31
-CNNVD编号：CNNVD-2026-31613563
-tox-dev filelock 后置链接漏洞
-中危
-收录时间：2026-10-20
-|
-更新时间: 2026-10-21 16:49:18
-CNNVD编号：CNNVD-2026-86184249
-Google Agent Development Kit 路径遍历漏洞
+Apple iOS 安全漏洞
 超危
 收录时间：2026-10-20
 |
-更新时间: 2026-10-21 16:49:08
-CNNVD编号：CNNVD-2026-99109327
-Apostrophe Technologies ApostropheCMS 跨站脚本漏洞
+更新时间: 2026-10-21 16:18:44
+CNNVD编号：CNNVD-2026-56346678
+Advantech adam-3600 安全漏洞
 中危
 收录时间：2026-10-20
 |
-更新时间: 2026-10-21 16:27:03
-CNNVD编号：CNNVD-2026-81440309
-Apostrophe Technologies ApostropheCMS 跨站脚本漏洞
+更新时间: 2026-10-21 16:14:34
+CNNVD编号：CNNVD-2026-68011963
+Advantech adam-3600 异常处理不当漏洞
+高危
+收录时间：2026-10-20
+|
+更新时间: 2026-10-21 16:14:38
+CNNVD编号：CNNVD-2026-71003931
+Apple macOS 权限许可和访问控制问题漏洞
 低危
 收录时间：2026-10-20
 |
-更新时间: 2026-10-21 16:27:02
-CNNVD编号：CNNVD-2026-76969703
-Apostrophe Technologies ApostropheCMS 资源管理错误漏洞
+更新时间: 2026-10-21 16:19:12
+CNNVD编号：CNNVD-2026-56736695
+Apple macOS 信息泄露漏洞
 中危
 收录时间：2026-10-20
 |
-更新时间: 2026-10-21 16:27:01
-CNNVD编号：CNNVD-2026-16573800
-Apostrophe Technologies ApostropheCMS 权限许可和访问控制问题漏洞
+更新时间: 2026-10-21 16:19:04
+CNNVD编号：CNNVD-2026-83666812
+Apple iOS 资源管理错误漏洞
 中危
 收录时间：2026-10-20
 |
-更新时间: 2026-10-21 16:26:56
-CNNVD编号：CNNVD-2026-76952169
-Apostrophe Technologies ApostropheCMS 授权问题漏洞
+更新时间: 2026-10-21 16:19:02
+CNNVD编号：CNNVD-2026-42810297
+Apple macOS 安全漏洞
+超危
+收录时间：2026-10-20
+|
+更新时间: 2026-10-21 16:19:11
+CNNVD编号：CNNVD-2026-42818690
+Apple macOS 安全漏洞
+超危
+收录时间：2026-10-20
+|
+更新时间: 2026-10-21 16:19:05
+CNNVD编号：CNNVD-2026-41514451
+Apple macOS 信息泄露漏洞
 中危
 收录时间：2026-10-20
 |
-更新时间: 2026-10-21 16:26:53
-CNNVD编号：CNNVD-2026-54191078
+更新时间: 2026-10-21 16:19:04
+CNNVD编号：CNNVD-2026-98972852
+Apple iOS 授权问题漏洞
+低危
+收录时间：2026-10-20
+|
+更新时间: 2026-10-21 16:18:51
+CNNVD编号：CNNVD-2026-91401064
 共 404043 条
 12345640405
 前往页
