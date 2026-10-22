@@ -1,5 +1,5 @@
 Strategic RSS Collector Status
-Generated: 2026-10-21 21:59:24 UTC
+Generated: 2026-10-22 05:05:36 UTC
 
 Status meanings:
 OK = Feed contains one or more items
@@ -11,7 +11,7 @@ FAILED = Source could not be retrieved
   Start URL: https://www.mod.gov.cn/
   Resolved URL: http://www.mod.gov.cn/
   HTTP: 200
-  Links discovered: 244
+  Links discovered: 243
   Candidate links/items: 50
   Attempted items/articles: 12
   Items/articles with text: 12
@@ -27,7 +27,7 @@ FAILED = Source could not be retrieved
   Start URL: http://www.81.cn/?big=jian
   Resolved URL: http://www.81.cn/?big=jian
   HTTP: 200
-  Links discovered: 530
+  Links discovered: 528
   Candidate links/items: 50
   Attempted items/articles: 12
   Items/articles with text: 12
@@ -119,7 +119,7 @@ FAILED = Source could not be retrieved
   Start URL: https://www.sastind.gov.cn/
   Resolved URL: https://www.sastind.gov.cn/
   HTTP: 200
-  Links discovered: 69
+  Links discovered: 68
   Candidate links/items: 50
   Attempted items/articles: 12
   Items/articles with text: 12
@@ -144,44 +144,26 @@ FAILED = Source could not be retrieved
   Max retries: 2
   Retry backoff: 2s
 
-[FAILED] iran-mfa-en - Iran Ministry of Foreign Affairs English
+[OK] iran-mfa-en - Iran Ministry of Foreign Affairs English
   Source type: iran_mfa
   Start URL: https://en.mfa.gov.ir/portal/NewsAgencyShow/699
   Resolved URL: https://en.mfa.gov.ir/portal/NewsAgencyShow/699
-  HTTP: None
-  Attempted items/articles: 0
-  Items/articles with text: 0
-  Items/articles with dates: 0
-  RSS feed items: 0
+  HTTP: 200
+  Attempted items/articles: 12
+  Items/articles with text: 12
+  Items/articles with dates: 12
+  RSS feed items: 12
   SSL verification: ON
   Request timeout: 20s
   Max retries: 2
   Retry backoff: 2s
-  Error: Iran MFA archive endpoints could not be retrieved.
 
-[FAILED] irna-en - IRNA English
+[OK] irna-en - IRNA English
   Source type: rss
   Start URL: https://en.irna.ir/rss
   Resolved URL: https://en.irna.ir/rss
-  HTTP: None
-  Attempted items/articles: 0
-  Items/articles with text: 0
-  Items/articles with dates: 0
-  RSS feed items: 0
-  SSL verification: ON
-  Request timeout: 12s
-  Max retries: 1
-  Retry backoff: 1s
-  Error: https://en.irna.ir/rss -> ConnectionError: HTTPSConnectionPool(host='en.irna.ir', port=443): Max retries exceeded with url: /rss (Caused by NameResolutionError("HTTPSConnection(host='en.irna.ir', port=443): Failed to resolve 'en.irna.ir' ([Errno -3] Temporary failure in name resolution)"))
-
-[OK] avic-cn - Aviation Industry Corporation of China AVIC
-  Source type: html
-  Start URL: https://www.avic.com/
-  Resolved URL: https://www.avic.com/
   HTTP: 200
-  Links discovered: 179
-  Candidate links/items: 50
-  Attempted items/articles: 13
+  Attempted items/articles: 30
   Items/articles with text: 12
   Items/articles with dates: 12
   RSS feed items: 12
@@ -189,6 +171,23 @@ FAILED = Source could not be retrieved
   Request timeout: 12s
   Max retries: 1
   Retry backoff: 1s
+
+[FAILED] avic-cn - Aviation Industry Corporation of China AVIC
+  Source type: html
+  Start URL: https://www.avic.com/
+  Resolved URL: https://www.avic.com/
+  HTTP: None
+  Links discovered: 0
+  Candidate links/items: 0
+  Attempted items/articles: 0
+  Items/articles with text: 0
+  Items/articles with dates: 0
+  RSS feed items: 0
+  SSL verification: ON
+  Request timeout: 12s
+  Max retries: 1
+  Retry backoff: 1s
+  Error: https://www.avic.com/ -> ConnectionError: HTTPSConnectionPool(host='www.avic.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError("HTTPSConnection(host='www.avic.com', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
 
 [OK] norinco-cn - NORINCO Group
   Source type: browser
@@ -304,7 +303,7 @@ Call log:
   Start URL: https://journal.nudt.edu.cn/
   Resolved URL: http://journal.nudt.edu.cn/
   HTTP: 200
-  Links discovered: 1937
+  Links discovered: 1938
   Candidate links/items: 50
   Attempted items/articles: 12
   Items/articles with text: 12
@@ -364,7 +363,7 @@ Call log:
   Retry backoff: 1s
 
 SUMMARY
-Working: 19
+Working: 20
 Fetched but no items: 0
-Failed: 3
+Failed: 2
 Total sources: 22

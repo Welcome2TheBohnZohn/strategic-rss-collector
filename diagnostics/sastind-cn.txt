@@ -6,7 +6,7 @@ Include regex: sastind\.gov\.cn/.+
 Include text regex: 
 
 Candidate links: 50
-All links discovered: 69
+All links discovered: 68
 
 === MATCHED CANDIDATES ===
 
@@ -30,12 +30,12 @@ https://www.sastind.gov.cn/n10086200/n10086344/c10775636/content.html
   工作动态 | “时代楷模”王戟同志先进事迹报告会在京举行
 https://www.sastind.gov.cn/n10624520/c10705260/content.html
   国家国防科工局召开《习近平谈治国理政》第五卷学习部署会
+https://www.sastind.gov.cn/n10086200/n10086319/c10794944/content.html
+  中共中央办公厅 国务院办公厅关于推动科技创新和产...
 https://www.sastind.gov.cn/n10086200/n10086319/c10788944/content.html
   习近平致信祝贺中央社会主义学院建院70周年强调 ...
 https://www.sastind.gov.cn/n10624520/c10712740/content.html
   国家国防科工局党组召开第三轮巡视集中反馈会议
-https://www.sastind.gov.cn/n10086200/n10086319/c10787384/content.html
-  总书记指引“十五五”帮扶工作迈向常态化新阶段
 https://www.sastind.gov.cn/n10086200/n10086344/c10775702/content.html
   工作动态 | 十三载接力同行 军工情润泽红土
 https://www.sastind.gov.cn/n10086200/n10086319/c10788952/content.html
@@ -44,12 +44,14 @@ https://www.sastind.gov.cn/n10086200/n10086319/c10788930/content.html
   李强同塔吉克斯坦总理拉苏尔佐达会谈
 https://www.sastind.gov.cn/n10086200/n10086319/c10788897/content.html
   李强会见塔吉克斯坦总统拉赫蒙
-https://www.sastind.gov.cn/n10086200/n10086319/c10788880/content.html
-  李强会见伊朗第一副总统阿雷夫
+https://www.sastind.gov.cn/n10086200/n10086319/c10794956/content.html
+  习近平总书记心中的伟大远征
 https://www.sastind.gov.cn/n10086200/n10086319/c10788900/content.html
   李强会见白俄罗斯总理图尔钦
 https://www.sastind.gov.cn/n10115275/n10119032/index.html
   地方国防科技工业管理部门
+https://www.sastind.gov.cn/n10086200/n10086361/n10754160/index.html
+  index.html
 https://www.sastind.gov.cn/n10086167/n10086182/n10640116/index.html
   index.html
 https://www.sastind.gov.cn/n10086167/n10086182/n10094594/index.html
@@ -57,8 +59,6 @@ https://www.sastind.gov.cn/n10086167/n10086182/n10094594/index.html
 https://www.sastind.gov.cn/n10086167/n10086182/n10587645/index.html
   index.html
 https://www.sastind.gov.cn/n10086167/n10086182/n10686345/index.html
-  index.html
-https://www.sastind.gov.cn/n10086200/n10086361/n10754160/index.html
   index.html
 https://www.sastind.gov.cn/n10086200/n10086361/n10723221/index.html
   index.html
@@ -179,6 +179,10 @@ https://www.sastind.gov.cn/n10624520/c10708010/content.html
   国家国防科工局召开2025年机关退休干部大会暨半年情况通报会
 https://www.sastind.gov.cn/n10624520/c10705260/content.html
   国家国防科工局召开《习近平谈治国理政》第五卷学习部署会
+https://www.sastind.gov.cn/n10086200/n10086319/c10794956/content.html
+  习近平总书记心中的伟大远征
+https://www.sastind.gov.cn/n10086200/n10086319/c10794944/content.html
+  中共中央办公厅 国务院办公厅关于推动科技创新和产...
 https://www.sastind.gov.cn/n10086200/n10086319/c10788952/content.html
   习近平致中央社会主义学院建院70周年的贺信
 https://www.sastind.gov.cn/n10086200/n10086319/c10788944/content.html
@@ -189,11 +193,7 @@ https://www.sastind.gov.cn/n10086200/n10086319/c10788897/content.html
   李强会见塔吉克斯坦总统拉赫蒙
 https://www.sastind.gov.cn/n10086200/n10086319/c10788900/content.html
   李强会见白俄罗斯总理图尔钦
-https://www.sastind.gov.cn/n10086200/n10086319/c10788880/content.html
-  李强会见伊朗第一副总统阿雷夫
-https://www.sastind.gov.cn/n10086200/n10086319/c10787384/content.html
-  总书记指引“十五五”帮扶工作迈向常态化新阶段
-https://www.cnsa.gov.cn/n6758823/n6758844/n10777482/index.html
+https://www.sastind.gov.cn/n10086200/n10086361/n10754160/index.html
 https://www.sastind.gov.cn/n10086200/n10086344/c10779422/content.html
   工作动态 | 国家国防科工局创新组团式帮扶机制 汉中地...
 https://www.sastind.gov.cn/n10086200/n10086344/c10775762/content.html
@@ -217,7 +217,6 @@ https://www.sastind.gov.cn/n10086167/n10086182/n10587645/index.html
 https://www.sastind.gov.cn/n10086167/n10086182/n10686345/index.html
   刘建桥
 https://liuyan.www.gov.cn/2024wwzfgzbgtjy/bmdf.html?q=gjgfkgj
-https://www.sastind.gov.cn/n10086200/n10086361/n10754160/index.html
 https://www.sastind.gov.cn/n10086200/n10086361/n10723221/index.html
 https://www.sastind.gov.cn/n10086200/n10086336/n10086375/index.html
   国防科工局文告
