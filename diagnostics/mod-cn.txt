@@ -6,7 +6,7 @@ Include regex: /gfbw/|/xwfyr/|/wzll/
 Include text regex: 
 
 Candidate links: 50
-All links discovered: 243
+All links discovered: 244
 
 === MATCHED CANDIDATES ===
 
@@ -22,8 +22,6 @@ http://www.mod.gov.cn/gfbw/gfjy_index/16495053.html
   40余名参战老兵齐聚江苏金湖为烈士母亲庆贺百岁寿辰——“烈士为国尽忠，我们替他尽孝”
 http://www.mod.gov.cn/gfbw/gfjy_index/16495066.html
   “人民群众就是最可靠的后方”——纪念中国工农红军长征胜利90周年主题展览参观见闻
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16495347.html
-  纪念中国工农红军长征胜利90周年大会在京隆重举行 习近平出席大会并发表重要讲话
 http://www.mod.gov.cn/gfbw/gfdy/16495059.html
   云南省军地检察机关联手化解涉军执行积案——为戍边官兵撑起权益“保护伞”
 http://www.mod.gov.cn/gfbw/gfdy/16493246.html
@@ -32,6 +30,8 @@ http://www.mod.gov.cn/gfbw/gffw/16490106.html
   安徽省宣城市扎实做好退役士兵选岗工作 拓宽岗位来源 提高安置质效
 http://www.mod.gov.cn/gfbw/gffw/16488523.html
   海口军代室以航空方式保障部分新兵跨海奔赴军营——空中通道增效率
+http://www.mod.gov.cn/gfbw/sy/tt_214026/16495386.html
+  习近平出席纪念中国工农红军长征胜利90周年大会并发表重要讲话
 http://www.mod.gov.cn/gfbw/gfdy/16495061.html
   安徽省淮南市军地优化接收退役军人工作流程返乡报到“一窗办结”
 http://www.mod.gov.cn/gfbw/jsxd/16484704.html
@@ -298,8 +298,10 @@ http://www.mod.gov.cn/gfbw/sy/jt_214028/16494373.html
   陆军某旅开展编队飞行训练
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16491885.html
   空军某部开展飞行训练
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16495347.html
-  纪念中国工农红军长征胜利90周年大会在京隆重举行 习近平出席大会并发表重要讲话
+http://www.mod.gov.cn/gfbw/sy/tt_214026/16495386.html
+  习近平出席纪念中国工农红军长征胜利90周年大会并发表重要讲话
+http://www.mod.gov.cn/gfbw/sy/tt_214026/16495390.html
+  讲话全文
 http://www.mod.gov.cn/gfbw/sy/rt/16495367.html
   纪念中国工农红军长征胜利90周年大会在京隆重举行
 http://www.mod.gov.cn/gfbw/sy/rt/16493699.html

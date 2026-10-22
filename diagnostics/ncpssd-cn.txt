@@ -82,8 +82,12 @@ https://www.ncpssd.cn/topics/detailsList?id=4&wfColumn=1&resourceType=0
   建设中国特色新型智库
 https://www.ncpssd.cn/message?id=18622
   积极助力现代公共文化服务体系建设 ——国家哲学社会科学文献中心走进贵州省“两会”
+https://www.ncpssd.cn/message?id=22427
+  习近平出席纪念中国工农红军长征胜利90周年大会并发表重要讲话
 https://www.ncpssd.cn/message?id=18580
   国家哲学社会科学文献中心为贵阳市“两会”提供学术资源服务
+https://www.ncpssd.cn/message?id=22428
+  习近平：在纪念中国工农红军长征胜利90周年大会上的讲话
 https://www.ncpssd.cn/message?id=19563
   国家哲学社会科学文献中心发布最受欢迎期刊报告
 https://www.ncpssd.cn/message?id=19564
@@ -104,10 +108,6 @@ https://www.ncpssd.cn/sso/getTokenCurrentUser?ssoClient=wxEN
   getTokenCurrentUser
 https://www.ncpssd.cn/Literature/ancientbooklistNew?nav=5
   ancientbooklistNew
-https://www.ncpssd.cn/message?id=22422
-  习近平致湖南大学建校100周年的贺信
-https://www.ncpssd.cn/message?id=22421
-  习近平致信祝贺湖南大学建校100周年
 https://www.ncpssd.cn/js/jquery.hiSlider.js
   jquery.hiSlider.js
 https://www.ncpssd.cn/js/sensorsdata.min.js
@@ -159,16 +159,16 @@ https://www.ncpssd.cn/messages
 https://www.ncpssd.cn/message?id=22426
 https://www.ncpssd.cn/message?id=22416
 https://www.ncpssd.cn/message?id=22415
+https://www.ncpssd.cn/message?id=22428
+  习近平：在纪念中国工农红军长征胜利90周年大会上的讲话
+https://www.ncpssd.cn/message?id=22427
+  习近平出席纪念中国工农红军长征胜利90周年大会并发表重要讲话
 https://www.ncpssd.cn/message?id=22425
   习近平致中央社会主义学院建院70周年的贺信
 https://www.ncpssd.cn/message?id=22424
   习近平致信祝贺中央社会主义学院建院70周年
 https://www.ncpssd.cn/message?id=22423
   习近平在内蒙古乌兰察布考察
-https://www.ncpssd.cn/message?id=22422
-  习近平致湖南大学建校100周年的贺信
-https://www.ncpssd.cn/message?id=22421
-  习近平致信祝贺湖南大学建校100周年
 https://www.ncpssd.cn/message?id=19563
   国家哲学社会科学文献中心发布最受欢迎期刊报告
 https://www.ncpssd.cn/message?id=19564

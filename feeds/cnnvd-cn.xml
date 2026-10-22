@@ -1,62 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Thu, 22 Oct 2026 05:05:36 +0000</lastBuildDate><item><title>CNNVD-2026-41545346 - PHP 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-41545346</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-41545346</guid><pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate><description>PHP 资源管理错误漏洞
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Thu, 22 Oct 2026 12:14:44 +0000</lastBuildDate><item><title>CNNVD-2026-70899238 - Apache Traffic Server 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-70899238</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-70899238</guid><pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate><description>Apache Traffic Server 输入验证错误漏洞
 危害等级: 超危
-收录时间：2026-10-21 | 更新时间: 2026-10-22 10:49:33
-CNNVD编号: CNNVD-2026-41545346</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-41545346&lt;/p&gt;&lt;pre&gt;PHP 资源管理错误漏洞
+收录时间：2026-10-21 | 更新时间: 2026-10-22 16:23:24
+CNNVD编号: CNNVD-2026-70899238</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-70899238&lt;/p&gt;&lt;pre&gt;Apache Traffic Server 输入验证错误漏洞
 危害等级: 超危
-收录时间：2026-10-21 | 更新时间: 2026-10-22 10:49:33
-CNNVD编号: CNNVD-2026-41545346&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-75300632 - PHP 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75300632</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75300632</guid><pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate><description>PHP 资源管理错误漏洞
-危害等级: 超危
-收录时间：2026-10-21 | 更新时间: 2026-10-22 10:48:58
-CNNVD编号: CNNVD-2026-75300632</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75300632&lt;/p&gt;&lt;pre&gt;PHP 资源管理错误漏洞
-危害等级: 超危
-收录时间：2026-10-21 | 更新时间: 2026-10-22 10:48:58
-CNNVD编号: CNNVD-2026-75300632&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-84461689 - TYPO3 Analytics 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-84461689</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-84461689</guid><pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate><description>TYPO3 Analytics 授权问题漏洞
+收录时间：2026-10-21 | 更新时间: 2026-10-22 16:23:24
+CNNVD编号: CNNVD-2026-70899238&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-41295108 - Agent2Agent A2A Rust SDK 竞争条件问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-41295108</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-41295108</guid><pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate><description>Agent2Agent A2A Rust SDK 竞争条件问题漏洞
 危害等级: 中危
-收录时间：2026-10-20 | 更新时间: 2026-10-21 16:49:26
-CNNVD编号: CNNVD-2026-84461689</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-84461689&lt;/p&gt;&lt;pre&gt;TYPO3 Analytics 授权问题漏洞
+收录时间：2026-10-21 | 更新时间: 2026-10-22 16:22:01
+CNNVD编号: CNNVD-2026-41295108</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-41295108&lt;/p&gt;&lt;pre&gt;Agent2Agent A2A Rust SDK 竞争条件问题漏洞
 危害等级: 中危
-收录时间：2026-10-20 | 更新时间: 2026-10-21 16:49:26
-CNNVD编号: CNNVD-2026-84461689&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-26477039 - TYPO3 Accessible Form Captcha 信任管理问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-26477039</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-26477039</guid><pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate><description>TYPO3 Accessible Form Captcha 信任管理问题漏洞
+收录时间：2026-10-21 | 更新时间: 2026-10-22 16:22:01
+CNNVD编号: CNNVD-2026-41295108&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-75641732 - Electron 跨站请求伪造漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75641732</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75641732</guid><pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate><description>Electron 跨站请求伪造漏洞
 危害等级: 中危
-收录时间：2026-10-20 | 更新时间: 2026-10-21 16:49:25
-CNNVD编号: CNNVD-2026-26477039</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-26477039&lt;/p&gt;&lt;pre&gt;TYPO3 Accessible Form Captcha 信任管理问题漏洞
+收录时间：2026-10-21 | 更新时间: 2026-10-22 16:22:00
+CNNVD编号: CNNVD-2026-75641732</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75641732&lt;/p&gt;&lt;pre&gt;Electron 跨站请求伪造漏洞
 危害等级: 中危
-收录时间：2026-10-20 | 更新时间: 2026-10-21 16:49:25
-CNNVD编号: CNNVD-2026-26477039&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-31613563 - TYPO3 Shop by coding.ms 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-31613563</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-31613563</guid><pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate><description>TYPO3 Shop by coding.ms 授权问题漏洞
-危害等级: 中危
-收录时间：2026-10-20 | 更新时间: 2026-10-21 16:49:31
-CNNVD编号: CNNVD-2026-31613563</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-31613563&lt;/p&gt;&lt;pre&gt;TYPO3 Shop by coding.ms 授权问题漏洞
-危害等级: 中危
-收录时间：2026-10-20 | 更新时间: 2026-10-21 16:49:31
-CNNVD编号: CNNVD-2026-31613563&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-86184249 - tox-dev filelock 后置链接漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-86184249</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-86184249</guid><pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate><description>tox-dev filelock 后置链接漏洞
-危害等级: 中危
-收录时间：2026-10-20 | 更新时间: 2026-10-21 16:49:18
-CNNVD编号: CNNVD-2026-86184249</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-86184249&lt;/p&gt;&lt;pre&gt;tox-dev filelock 后置链接漏洞
-危害等级: 中危
-收录时间：2026-10-20 | 更新时间: 2026-10-21 16:49:18
-CNNVD编号: CNNVD-2026-86184249&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-99109327 - Google Agent Development Kit 路径遍历漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-99109327</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-99109327</guid><pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate><description>Google Agent Development Kit 路径遍历漏洞
-危害等级: 超危
-收录时间：2026-10-20 | 更新时间: 2026-10-21 16:49:08
-CNNVD编号: CNNVD-2026-99109327</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-99109327&lt;/p&gt;&lt;pre&gt;Google Agent Development Kit 路径遍历漏洞
-危害等级: 超危
-收录时间：2026-10-20 | 更新时间: 2026-10-21 16:49:08
-CNNVD编号: CNNVD-2026-99109327&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-81440309 - Apostrophe Technologies ApostropheCMS 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-81440309</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-81440309</guid><pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate><description>Apostrophe Technologies ApostropheCMS 跨站脚本漏洞
-危害等级: 中危
-收录时间：2026-10-20 | 更新时间: 2026-10-21 16:27:03
-CNNVD编号: CNNVD-2026-81440309</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-81440309&lt;/p&gt;&lt;pre&gt;Apostrophe Technologies ApostropheCMS 跨站脚本漏洞
-危害等级: 中危
-收录时间：2026-10-20 | 更新时间: 2026-10-21 16:27:03
-CNNVD编号: CNNVD-2026-81440309&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-76969703 - Apostrophe Technologies ApostropheCMS 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-76969703</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-76969703</guid><pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate><description>Apostrophe Technologies ApostropheCMS 跨站脚本漏洞
+收录时间：2026-10-21 | 更新时间: 2026-10-22 16:22:00
+CNNVD编号: CNNVD-2026-75641732&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-99681480 - Electron 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-99681480</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-99681480</guid><pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate><description>Electron 授权问题漏洞
 危害等级: 低危
-收录时间：2026-10-20 | 更新时间: 2026-10-21 16:27:02
-CNNVD编号: CNNVD-2026-76969703</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-76969703&lt;/p&gt;&lt;pre&gt;Apostrophe Technologies ApostropheCMS 跨站脚本漏洞
+收录时间：2026-10-21 | 更新时间: 2026-10-22 16:22:00
+CNNVD编号: CNNVD-2026-99681480</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-99681480&lt;/p&gt;&lt;pre&gt;Electron 授权问题漏洞
 危害等级: 低危
-收录时间：2026-10-20 | 更新时间: 2026-10-21 16:27:02
-CNNVD编号: CNNVD-2026-76969703&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-16573800 - Apostrophe Technologies ApostropheCMS 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-16573800</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-16573800</guid><pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate><description>Apostrophe Technologies ApostropheCMS 资源管理错误漏洞
+收录时间：2026-10-21 | 更新时间: 2026-10-22 16:22:00
+CNNVD编号: CNNVD-2026-99681480&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-13355291 - FreeRDP 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-13355291</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-13355291</guid><pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate><description>FreeRDP 资源管理错误漏洞
+危害等级: 高危
+收录时间：2026-10-21 | 更新时间: 2026-10-22 16:21:58
+CNNVD编号: CNNVD-2026-13355291</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-13355291&lt;/p&gt;&lt;pre&gt;FreeRDP 资源管理错误漏洞
+危害等级: 高危
+收录时间：2026-10-21 | 更新时间: 2026-10-22 16:21:58
+CNNVD编号: CNNVD-2026-13355291&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-41081022 - Apache Traffic Server 命令注入漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-41081022</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-41081022</guid><pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate><description>Apache Traffic Server 命令注入漏洞
+危害等级: 超危
+收录时间：2026-10-21 | 更新时间: 2026-10-22 16:23:25
+CNNVD编号: CNNVD-2026-41081022</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-41081022&lt;/p&gt;&lt;pre&gt;Apache Traffic Server 命令注入漏洞
+危害等级: 超危
+收录时间：2026-10-21 | 更新时间: 2026-10-22 16:23:25
+CNNVD编号: CNNVD-2026-41081022&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-93403937 - FreeRDP 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-93403937</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-93403937</guid><pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate><description>FreeRDP 缓冲区错误漏洞
 危害等级: 中危
-收录时间：2026-10-20 | 更新时间: 2026-10-21 16:27:01
-CNNVD编号: CNNVD-2026-16573800</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-16573800&lt;/p&gt;&lt;pre&gt;Apostrophe Technologies ApostropheCMS 资源管理错误漏洞
+收录时间：2026-10-21 | 更新时间: 2026-10-22 16:21:58
+CNNVD编号: CNNVD-2026-93403937</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-93403937&lt;/p&gt;&lt;pre&gt;FreeRDP 缓冲区错误漏洞
 危害等级: 中危
-收录时间：2026-10-20 | 更新时间: 2026-10-21 16:27:01
-CNNVD编号: CNNVD-2026-16573800&lt;/pre&gt;</content:encoded></item></channel></rss>
+收录时间：2026-10-21 | 更新时间: 2026-10-22 16:21:58
+CNNVD编号: CNNVD-2026-93403937&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-94220568 - FreeRDP 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-94220568</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-94220568</guid><pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate><description>FreeRDP 缓冲区错误漏洞
+危害等级: 高危
+收录时间：2026-10-21 | 更新时间: 2026-10-22 16:21:57
+CNNVD编号: CNNVD-2026-94220568</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-94220568&lt;/p&gt;&lt;pre&gt;FreeRDP 缓冲区错误漏洞
+危害等级: 高危
+收录时间：2026-10-21 | 更新时间: 2026-10-22 16:21:57
+CNNVD编号: CNNVD-2026-94220568&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-37254960 - FreeRDP 加密问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-37254960</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-37254960</guid><pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate><description>FreeRDP 加密问题漏洞
+危害等级: 高危
+收录时间：2026-10-21 | 更新时间: 2026-10-22 16:21:57
+CNNVD编号: CNNVD-2026-37254960</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-37254960&lt;/p&gt;&lt;pre&gt;FreeRDP 加密问题漏洞
+危害等级: 高危
+收录时间：2026-10-21 | 更新时间: 2026-10-22 16:21:57
+CNNVD编号: CNNVD-2026-37254960&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-35223302 - ArcadeData ArcadeDB 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-35223302</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-35223302</guid><pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate><description>ArcadeData ArcadeDB 授权问题漏洞
+危害等级: 中危
+收录时间：2026-10-21 | 更新时间: 2026-10-22 16:21:56
+CNNVD编号: CNNVD-2026-35223302</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-35223302&lt;/p&gt;&lt;pre&gt;ArcadeData ArcadeDB 授权问题漏洞
+危害等级: 中危
+收录时间：2026-10-21 | 更新时间: 2026-10-22 16:21:56
+CNNVD编号: CNNVD-2026-35223302&lt;/pre&gt;</content:encoded></item></channel></rss>
