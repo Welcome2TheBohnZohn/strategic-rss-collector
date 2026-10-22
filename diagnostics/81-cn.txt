@@ -10,10 +10,12 @@ All links discovered: 529
 
 === MATCHED CANDIDATES ===
 
-http://www.81.cn/ss_208539/16495457.html
-  赵乐际主持召开十四届全国人大常委会第七十四次委员长会议 决定十四届全国人大常委会第二十五次会议11月2日至6日在京举行
 http://www.81.cn/yw_208727/16495273.html
   “在新的长征路上继续奋勇前进”——习近平主席引领人民军队弘扬伟大长征精神推进新时代强军事业
+http://www.81.cn/yw_208727/16495513.html
+  “长征的历史从未远去，长征的路在不断延伸”——纪念中国工农红军长征胜利90周年大会侧记
+http://www.81.cn/xx_207779/16495462.html
+  独家视频丨习近平提议全体起立 为在长征途中和在各地革命斗争中英勇牺牲的革命烈士默哀
 http://www.81.cn/kj_208559/jdt_208560/16494851.html
   执笔为剑，卫国擎天丨2027年空军文职人员公开招考宣介活动，向青年发出强军邀约
 http://www.81.cn/hjj_208561/jdt_208562/16486919.html
@@ -26,8 +28,6 @@ http://www.81.cn/yw_208727/16495389.html
   以坚定的历史自觉“走自己的路”——纪念中国工农红军长征胜利90周年
 http://www.81.cn/yw_208727/16495274.html
   中共中央办公厅国务院办公厅关于推动科技创新和产业创新深度融合的意见
-http://www.81.cn/yw_208727/16495286.html
-  挫折只是成长路上的磨刀石，那些曾经的“伤疤”终会化为最硬的“铠甲”
 http://www.81.cn/kj_208559/16491599.html
   【在习近平强军思想指引下·从胜利走向胜利】空突利刃 不断飞向新标高
 http://www.81.cn/hjj_208561/16493213.html
@@ -40,10 +40,14 @@ http://www.81.cn/wj_208604/16495020.html
   “巴尔斯”远程拦截无人机——“以机打机”能否破解反无人机作战难题
 http://www.81.cn/kj_208559/16492102.html
   徙木立信在军营丨空军某部党委探索重难点问题“揭榜攻关”工作机制
+http://www.81.cn/yw_208727/16495510.html
+  习近平总书记重要讲话激励全党全军全国各族人民坚定信心勇毅前行
 http://www.81.cn/yw_208727/16495278.html
   纪念中国工农红军长征胜利90周年特刊丨会师凝伟力 北上定乾坤
-http://www.81.cn/ss_208539/16495375.html
-  肯媒总编：长征精神跨越国界，为发展中国家破解困境带来深刻启迪
+http://www.81.cn/xx_207779/16495490.html
+  学习新语丨习近平总书记在纪念长征胜利90周年大会重要讲话速览
+http://www.81.cn/xx_207779/16495461.html
+  习近平出席纪念中国工农红军长征胜利90周年大会并发表重要讲话
 http://www.81.cn/lj_208555/16492234.html
   面对重大演训任务,第80集团军某旅400余名老兵主动延期退役
 http://www.81.cn/js_208592/jdt_208593/16495410.html
@@ -52,6 +56,8 @@ http://www.81.cn/dy_208579/16491499.html
   安徽省南陵县人武部组织学生探访新四军小道，聆听土塘村红色故事
 http://www.81.cn/js_208585/16487676.html
   父亲的赤诚与担当、我的热爱与向往，都镌刻在苍茫壮阔的雪山之间
+http://www.81.cn/ss_208539/16495507.html
+  出版界推出一批纪念中国工农红军长征胜利90周年优秀主题图书
 http://www.81.cn/nb_208573/jdt_208574/16488421.html
   空军航空大学组织空军第14批女飞行学员开展首次高空跳伞训练
 http://www.81.cn/nb_208573/16474930.html
@@ -66,10 +72,6 @@ http://www.81.cn/bq_208581/16493612.html
   武器知识小剧场——光学隐身是什么原理？武器隐身也是同理吗？
 http://www.81.cn/yw_208727/16495425.html
   细节·长征丨由诗成歌，他把万里长征写成代代相传的信仰之声
-http://www.81.cn/yw_208727/16495287.html
-  红军送给乡亲的蜂蜜罐，装着“今后的生活一定比蜜甜”的承诺
-http://www.81.cn/ss_208539/16495424.html
-  国家广播电视总局印发《广播电视和网络视听“十五五”规划》
 http://www.81.cn/hjj_208561/jdt_208562/16487736.html
   探访火箭军某部“地窝子”哨所，倾听官兵生死与共的坚守故事
 http://www.81.cn/lq_208565/jdt_208566/16491407.html
@@ -100,16 +102,14 @@ http://www.81.cn/wz_208577/16463518.html
   为何仅入职一年多的文职人员，就接连经历3个“没想到”？
 http://www.81.cn/js_208585/jdt_208586/16469323.html
   随军家属安置工作持续提质增效，一系列务实举措为军属解忧
-http://www.81.cn/xx_207779/16495451.html
-  弘扬伟大长征精神、走好新的长征路，习近平总书记这样说
-http://www.81.cn/ss_208539/16495374.html
-  日媒批评高市独断专行 称其执政像“无人踩刹车的巴士”
 http://www.81.cn/bz_208549/16495006.html
   “主角”之争成了过去时，各军兵种主动融入体系攥指成拳
 http://www.81.cn/jw_208551/jdt_208552/16438857.html
   中央军委主席习近平签署命令 发布《军事理论工作条例》
 http://www.81.cn/kj_208559/16494996.html
   空军某部开展政治干部学军事活动让“生命线”更有生命力
+http://www.81.cn/hjj_208561/16493467.html
+  火箭军某部提高入营新兵保障精准度，被装适体率100%
 
 === ALL DISCOVERED LINKS ===
 
@@ -254,20 +254,34 @@ http://www.81.cn/jwtt/16495388.html
   讲话全文
 http://www.81.cn/yw_208727/16495273.html
   “在新的长征路上继续奋勇前进”——习近平主席引领人民军队弘扬伟大长征精神推进新时代强军事业
+http://www.81.cn/yw_208727/16495510.html
+  习近平总书记重要讲话激励全党全军全国各族人民坚定信心勇毅前行
+http://www.81.cn/yw_208727/16495513.html
+  “长征的历史从未远去，长征的路在不断延伸”——纪念中国工农红军长征胜利90周年大会侧记
+http://www.81.cn/yw_208727/16495503.html
+  第一观察 | 党和人民军队铿锵前进的制胜之道
+http://www.81.cn/yw_208727/16495403.html
+  “党的创新理论大家读”丛书（第一辑）出版发行
 http://www.81.cn/yw_208727/16495389.html
   以坚定的历史自觉“走自己的路”——纪念中国工农红军长征胜利90周年
+http://www.81.cn/yw_208727/16495010.html
+  “胜利的方向”大型互动融媒专题上线
 http://www.81.cn/yw_208727/16495275.html
   解放军报社论：弘扬伟大长征精神 奋进强国强军新征程
 http://www.81.cn/yw_208727/16495274.html
   中共中央办公厅国务院办公厅关于推动科技创新和产业创新深度融合的意见
-http://www.81.cn/yw_208727/16495403.html
-  “党的创新理论大家读”丛书（第一辑）出版发行
 http://www.81.cn/yw_208727/16495279.html
   寻根铸魂向百年·重走长征路｜翻越，岂止于皑皑雪山
-http://www.81.cn/yw_208727/16495010.html
-  “胜利的方向”大型互动融媒专题上线
+http://www.81.cn/yw_208727/16495500.html
+  人民日报评论员：在新的长征路上奋力创造新的辉煌
 http://www.81.cn/yw_208727/16495442.html
   “王戟老师教会我，科研要有信仰”
+http://www.81.cn/yw_208727/16495276.html
+  强军论坛丨在“如果”中淬炼胜战之钥
+http://www.81.cn/yw_208727/16495441.html
+  战友你好 今日霜降
+http://www.81.cn/yw_208727/16495464.html
+  2026年西太平洋海军论坛医学研讨会在上海举办
 http://www.81.cn/yw_208727/16495277.html
   陆军某旅组织复杂环境下实战化训练——高原索降砺尖兵
 http://www.81.cn/yw_208727/16495278.html
@@ -276,20 +290,6 @@ http://www.81.cn/yw_208727/16495425.html
   细节·长征丨由诗成歌，他把万里长征写成代代相传的信仰之声
 http://www.81.cn/yw_208727/16495449.html
   大渡河上的这三座桥，藏着什么答案
-http://www.81.cn/yw_208727/16495276.html
-  强军论坛丨在“如果”中淬炼胜战之钥
-http://www.81.cn/yw_208727/16495362.html
-  网评：走过来时路，走好脚下路
-http://www.81.cn/yw_208727/16495282.html
-  档案启示丨“革命力量大团结的光辉典范”
-http://www.81.cn/yw_208727/16495283.html
-  感知一张红军党员登记表的重量：“把一切交给党”
-http://www.81.cn/yw_208727/16495287.html
-  红军送给乡亲的蜂蜜罐，装着“今后的生活一定比蜜甜”的承诺
-http://www.81.cn/yw_208727/16495289.html
-  一块老百姓豁出命保护的旧木板，见证军民同心情谊
-http://www.81.cn/yw_208727/16495286.html
-  挫折只是成长路上的磨刀石，那些曾经的“伤疤”终会化为最硬的“铠甲”
 http://www.81.cn/syjdt/16495366.html
   纪念中国工农红军长征胜利90周年大会在京隆重举行
 http://www.81.cn/syjdt/16495445.html
@@ -302,20 +302,20 @@ http://www.81.cn/syjdt/16495202.html
   《承志者·向远征》第十集‌‌《大会师》
 http://www.81.cn/syjdt/16495196.html
   《承志者·向远征》第九集‌‌《报喜》
+http://www.81.cn/xx_207779/16495492.html
+  学习快评丨同心协力走好新的长征路
+http://www.81.cn/xx_207779/16495490.html
+  学习新语丨习近平总书记在纪念长征胜利90周年大会重要讲话速览
+http://www.81.cn/xx_207779/16495488.html
+  学习快评丨深刻认识长征胜利蕴含的制胜之道
+http://www.81.cn/xx_207779/16495461.html
+  习近平出席纪念中国工农红军长征胜利90周年大会并发表重要讲话
+http://www.81.cn/xx_207779/16495462.html
+  独家视频丨习近平提议全体起立 为在长征途中和在各地革命斗争中英勇牺牲的革命烈士默哀
+http://www.81.cn/xx_207779/16495460.html
+  习近平：新征程是党和人民的新长征
 http://www.81.cn/xx_207779/16495456.html
   独家视频丨习近平：在新的长征路上奋力创造新的辉煌
-http://www.81.cn/xx_207779/16495451.html
-  弘扬伟大长征精神、走好新的长征路，习近平总书记这样说
-http://www.81.cn/xx_207779/16495378.html
-  经纬线·让总书记驻足的长征故事：一幅油画
-http://www.81.cn/xx_207779/16495377.html
-  【央视快评】不忘初心，走好新的长征路
-http://www.81.cn/xx_207779/16495376.html
-  【我们的长征路】习言道｜一镜到底见证长征力量
-http://www.81.cn/xx_207779/16495339.html
-  一见·答好草地之问
-http://www.81.cn/xx_207779/16495271.html
-  钟华论：在新的长征路上继续奋勇前进
 http://tv.81.cn/jbmtd_211970/16495354.html
 https://weibo.com/jfjb
 http://www.81.cn/byds_206407/byds_206410/16495439.html
@@ -352,28 +352,28 @@ http://www.81.cn/fyr/16493374.html
   外交部：日当政者应正视历史，反省罪责，洗心革面
 http://www.81.cn/fyr/16493182.html
   国台办：民进党当局歪曲历史媚日恋殖，是历史罪人
-http://www.81.cn/ss_208539/16495457.html
-  赵乐际主持召开十四届全国人大常委会第七十四次委员长会议 决定十四届全国人大常委会第二十五次会议11月2日至6日在京举行
-http://www.81.cn/ss_208539/16495453.html
-  水利部对4省份启动洪水防御Ⅳ级应急响应
-http://www.81.cn/ss_208539/16495452.html
-  金融街论坛非洲分会场聚焦“一带一路”投融资合作
-http://www.81.cn/ss_208539/16495429.html
-  如果你问，我们为什么要一再回望长征……
-http://www.81.cn/ss_208539/16495428.html
-  微视频｜画映长征魂
-http://www.81.cn/ss_208539/16495424.html
-  国家广播电视总局印发《广播电视和网络视听“十五五”规划》
-http://www.81.cn/ss_208539/16495406.html
-  首届阿曼中国电影周在马斯喀特开幕
-http://www.81.cn/ss_208539/16495379.html
-  韩国国防部：为避免意外冲突　朝鲜必须回到对话桌前
-http://www.81.cn/ss_208539/16495375.html
-  肯媒总编：长征精神跨越国界，为发展中国家破解困境带来深刻启迪
-http://www.81.cn/ss_208539/16495374.html
-  日媒批评高市独断专行 称其执政像“无人踩刹车的巴士”
-http://www.81.cn/ss_208539/16495373.html
-  原创说唱丨这就是长征
+http://www.81.cn/ss_208539/16495514.html
+  应急管理部启动国家自然灾害救助四级应急响应
+http://www.81.cn/ss_208539/16495512.html
+  西部战区空军1架无人机飞赴那曲震区进行勘察
+http://www.81.cn/ss_208539/16495508.html
+  两部门启动国家地震灾害四级应急响应
+http://www.81.cn/ss_208539/16495507.html
+  出版界推出一批纪念中国工农红军长征胜利90周年优秀主题图书
+http://www.81.cn/ss_208539/16495506.html
+  中国地震局对西藏那曲市巴青县地震启动二级应急响应
+http://www.81.cn/ss_208539/16495504.html
+  我国已同153国缔结3196对友好城市（省州）关系
+http://www.81.cn/ss_208539/16495495.html
+  王毅同刚果（布）外长邦达会谈
+http://www.81.cn/ss_208539/16495494.html
+  西藏那曲市巴青县发生7.0级地震
+http://www.81.cn/ss_208539/16495487.html
+  国新办发布会聚焦“十五五”商务高质量发展
+http://www.81.cn/ss_208539/16495482.html
+  卢旺达外交官：中国是宝贵的发展伙伴
+http://www.81.cn/ss_208539/16495480.html
+  综述｜中方专家呼吁深化中欧合作推动全球气候治理
 http://www.81.cn/zt/2023nzt/xxgcxjpxsdzgtsshzysxztjy/index.html
 http://www.81.cn/zt/2023nzt/flsxjjbnmbjkjcsjyljd/index.html
 http://www.81.cn/bz_208549/jdt_208550/16495269.html
@@ -582,16 +582,16 @@ http://www.81.cn/ll_208543/16495005.html
   党员干部要正心修身强党性
 http://www.81.cn/pl_208541/jdt_208542/16495423.html
   漫评丨“星球大战”重出江湖？美军又想忽悠谁，还能忽悠谁
+http://www.81.cn/pl_208541/16495505.html
+  新华时评丨警惕日本正滑入“新的战前状态”
+http://www.81.cn/pl_208541/16495497.html
+  人民日报评论员：在新的长征路上奋力创造新的辉煌
 http://www.81.cn/pl_208541/16495342.html
   长征之歌何以“歌”长征（评论员观察）
 http://www.81.cn/pl_208541/16495341.html
   人民：长征胜利的力量之源
 http://www.81.cn/pl_208541/16494643.html
   新华时评｜坚定信心迎难而上实现“十五五”良好开局
-http://www.81.cn/pl_208541/16494532.html
-  长征精神何以穿越时空、历久弥新（人民论坛）
-http://www.81.cn/pl_208541/16494358.html
-  新华时评丨膜拜战犯，是对历史正义的亵渎
 http://www.81.cn/wh_208575/jdt_208576/16491845.html
   中国第16批赴南苏丹（瓦乌）维和部队通过联合国战备能力评估
 http://www.81.cn/wh_208575/16494667.html
@@ -628,8 +628,8 @@ http://www.81.cn/wh_208594/16495045.html
   “红星”依然照征程——从《红星》报到“长征副刊”
 http://www.81.cn/wh_208594/16494892.html
   敌人怎么也想不通，哪来的这么多船？
-http://www.81.cn/yd_208600/jdt_208601/16494374.html
-  长征主题图书的互译与国际传播
+http://www.81.cn/yd_208600/jdt_208601/16495509.html
+  出版界推出一批纪念红军长征胜利90周年优秀主题图书
 http://www.81.cn/yd_208600/16495404.html
   长征，在世界民族解放与人类抗争史上留下深刻的回响
 http://www.81.cn/yd_208600/16495408.html
@@ -827,18 +827,18 @@ http://www.81.cn/js_208585/16482687.html
   军娃夏令营，体验别样暑假生活
 http://eng.chinamil.com.cn/2025xb/M_251449/P_251468/16495224.html
   H-6K bombers in flight training
+http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16495468.html
+  Xi calls for new achievements on new Long March
 http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16494309.html
   Xi stresses prioritizing ecological conservation, pursuing green development
-http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16493413.html
-  Xi's article on advancing Party self-governance to be published
+http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16495446.html
+  Chinese Peacekeepers to South Sudan (Juba) Awarded UN Peace Medal of Honor
 http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16495232.html
   China-Pakistan Joint Army Training Enters Multi-subject Live-force Phase
 http://eng.chinamil.com.cn/2025xb/C_251453/EC/16494914.html
   UN Unmanned Aerial Systems Course kicks off in China
 http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16494618.html
   Chinese naval hospital ship provides medical services at university and orphanage in Côte d'Ivoire
-http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16493907.html
-  China, ROK maritime authorities hold joint patrol to maintain fishing order
 http://eng.chinamil.com.cn/2025xb/B/16493677.html
   Ode to the Long March | The Spark Ignites
 http://eng.chinamil.com.cn/2025xb/B/16493496.html
@@ -1018,7 +1018,7 @@ http://www.81.cn/pl_208541/jdt_208542/_attachment/2026/10/22/16495423_ed1d840ff8
 http://www.81.cn/wh_208575/jdt_208576/_attachment/2026/10/10/16491845_d6a1221ecf768f50434513c9f09675a7.jpg
 http://www.81.cn/js_208592/jdt_208593/_attachment/2026/10/22/16495410_2b4e585932669589535a141dd6563f90.jpg
 http://www.81.cn/wh_208594/jdt_208595/_attachment/2026/10/22/16495317_30a573afe1c7b820cb08c97570a41928.jpg
-http://www.81.cn/yd_208600/jdt_208601/_attachment/2026/10/18/16494374_3d284c6750c4ae93740adac2e84743fe.jpg
+http://www.81.cn/yd_208600/jdt_208601/_attachment/2026/10/22/16495509_056eb82ad1f7808de58ef90b4a69b7cf.jpg
 http://www.81.cn/tp_207717/jdt_207718/_attachment/2026/10/21/16495181_21ced420330013674500b6d1c9f9e02c.jpg
 http://www.81.cn/pk/jdt_208611/_attachment/2026/10/16/16493485_61f97c22c0e49bff06e276a285ab0d33.jpg
 http://www.81.cn/tj_208608/jdt_208609/_attachment/2026/10/21/16495042_ea52d8166fa930e0cd846504ed20a5c1.png

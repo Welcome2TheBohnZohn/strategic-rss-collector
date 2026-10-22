@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>National University of Defense Technology Journal</title><link>https://journal.nudt.edu.cn/</link><description>Generated RSS feed for National University of Defense Technology Journal</description><language>zh-CN</language><lastBuildDate>Thu, 22 Oct 2026 12:11:06 +0000</lastBuildDate><item><title>多核数字信号处理器矩阵乘卷积算法性能评测</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/202301009?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/202301009?tab=abstract</guid><pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate><description>(1. 国防科技大学 计算机学院, 湖南 长沙 410073;2. 国防科技大学 并行与分布处理国防科技重点实验室, 湖南 长沙 410073)
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>National University of Defense Technology Journal</title><link>https://journal.nudt.edu.cn/</link><description>Generated RSS feed for National University of Defense Technology Journal</description><language>zh-CN</language><lastBuildDate>Thu, 22 Oct 2026 17:22:11 +0000</lastBuildDate><item><title>多核数字信号处理器矩阵乘卷积算法性能评测</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/202301009?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/202301009?tab=abstract</guid><pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate><description>(1. 国防科技大学 计算机学院, 湖南 长沙 410073;2. 国防科技大学 并行与分布处理国防科技重点实验室, 湖南 长沙 410073)
 
 王庆林(1987—),男,贵州思南人,副研究员,博士,硕士生导师,E-mail:wangqinglin_thu@163.com; 裴向东(通信作者),男,山西长治人,博士研究生,E-mail:18903588277@163.com
 
@@ -405,8 +405,7 @@ i
 其中，
 λ
 为碰撞过程中的嵌入深度或弹性变形，
-K
-i
+\begin{equation}K_{i}\end{equation}
 为碰撞刚度。对于机翼气动弹性系统，碰撞力可表示为：
 （2）
 其中，
@@ -467,8 +466,7 @@ c
 分别为来流的压强和声速；
 γ
 为比热比；
-v
-z
+\begin{equation}v_{z}\end{equation}
 为翼面下洗速度，对于上下表面可以分别表示为
 v
 z
@@ -597,28 +595,22 @@ mx
 a
 b
 为机翼距弹性轴的质量矩；
-I
-α
+\begin{equation}I_{α}\end{equation}
 =
 m
 (
-r
-a
+\begin{equation}r_{a}\end{equation}
 b
 )
 2
 为机翼相对于弹性轴的惯性矩；
-c
-h
+\begin{equation}c_{h}\end{equation}
 、
-c
-α
+\begin{equation}c_{α}\end{equation}
 为两个方向的阻尼系数；
-K
-h
+\begin{equation}K_{h}\end{equation}
 、
-K
-α
+\begin{equation}K_{α}\end{equation}
 分别为机翼沉浮和俯仰方向的结构刚度系数；
 e
 1
@@ -677,16 +669,14 @@ t
 /
 b
 ，
-ω
-h
+\begin{equation}ω_{h}\end{equation}
 =
 K
 h
 /
 m
 ，
-ω
-α
+\begin{equation}ω_{α}\end{equation}
 =
 K
 α
@@ -697,44 +687,34 @@ I
 ω
 ¯
 =
-ω
-h
+\begin{equation}ω_{h}\end{equation}
 /
-ω
-α
+\begin{equation}ω_{α}\end{equation}
 ，
 μ
 =
 m
 /(4
-ρ
-b
-2
+\begin{equation}ρb^{2}\end{equation}
 )，
 V
 =
 U
 ∞
 /(
-b
-ω
-α
+\begin{equation}bω_{α}\end{equation}
 )，
-ζ
-h
+\begin{equation}ζ_{h}\end{equation}
 =
-c
-h
+\begin{equation}c_{h}\end{equation}
 /
 m
 K
 h
 ，
-ζ
-α
+\begin{equation}ζ_{α}\end{equation}
 =
-c
-α
+\begin{equation}c_{α}\end{equation}
 /
 I
 α
@@ -744,8 +724,7 @@ K
 μ
 s
 =
-m
-s
+\begin{equation}m_{s}\end{equation}
 /
 m
 ，
@@ -782,8 +761,7 @@ p
 ω
 s
 /
-ω
-α
+\begin{equation}ω_{α}\end{equation}
 ，
 δ
 s
@@ -896,19 +874,15 @@ v
 =5 000，
 Ma
 =5.0，
-x
-a
+\begin{equation}x_{a}\end{equation}
 =0.25，
-r
-a
+\begin{equation}r_{a}\end{equation}
 =0.5，
 a
 =-0.2，
-ζ
-h
+\begin{equation}ζ_{h}\end{equation}
 =0.01，
-ζ
-α
+\begin{equation}ζ_{α}\end{equation}
 =0.01，
 ω
 ¯
@@ -1515,7 +1489,7 @@ Theodorsen T. General theory of aerodynamic instability and the mechanism of flu
 扫码关注
 官方微信
 您是今天第
-4788
+261
 位访客
 总访问量：
 309293800
@@ -3207,86 +3181,6 @@ Gou Xiantai, Wu Nanfang. Air group situation recognition method based on GRU-Att
 Teng Fei, Guo Xinpeng, Song Yafei, et al. An air target tactical intention recognition model based on bidirectional GRU with attention mechanism[J]. IEEE Access, 2021, 9: 169122-169134.
 [27]
 Zhu Wenbo, Webb Z T, Mao Kaitian, et al. A deep learning approach for process data visualization using t-distributed stochastic neighbor embedding[J]. Industrial &amp;amp; Engineering Chemistry Research, 2019, 58(22): 9564-9575.
-[1]
-刘明骞,郑诗斐,李兵兵.
-基于深度学习的MPSK信号调制识别
-[J].国防科技大学学报,2019,41(5):153-158.
-[2]
-龙古灿,张小虎,于起峰.
-用于视频图像帧间运动补偿的深度卷积神经网络
-[J].国防科技大学学报,2016,38(5):143-148.
-[3]
-张玺君,郝俊.
-EEMD+BiGRU组合模型在短时交通流量预测中的应用
-[J].国防科技大学学报,2023,45(2):73-80.
-[4]
-赵文栋,张明智,贺筱媛,郭圣明.
-空中目标作战任务智能判识方法研究
-[J].指挥控制与仿真,2022(3):14-19.
-[5]
-孟庆宁;徐锋;刘娟娟;徐燕;赵秋月.
-基于改进YOLOv5的战场小目标及其部件识别研究
-[J].火力与指挥控制,2025(6):176-184.
-[6]
-孟庆宁;徐锋;刘娟娟;徐燕;赵秋月.
-基于改进YOLOv5的战场小目标及其部件识别研究
-[J].火力与指挥控制,2025,50(7):176-184.
-[7]
-吴云松;曹伟;潘继飞;许金鑫;张志强;籍林峰.
-有源无源数据协同的目标识别算法
-[J].现代防御技术,2026(1).
-[8]
-欧微,柳少军,贺筱媛,郭圣明.
-基于时序特征编码的目标战术意图识别算法?
-[J].指挥控制与仿真,2016(6):36-41.
-[9]
-王昊冉,老松杨,白亮,刘钢.
-基于MEBN的战术级空中目标意图识别
-[J].火力与指挥控制,2012,37(10).
-[10]
-杜明林;王学文;岳忠奇;郝熠;赵媛.
-基于深度像素互相关的孪生网络目标跟踪算法
-[J].火力与指挥控制,2026,51(1):81-87.
-[11]
-禹宁,谷良,狄婷.
-基于深度学习的网络攻击检测模型
-[J].火力与指挥控制,2023,48(5):66-74.
-[12]
-丁鹏,宋亚飞,夏智权.
-意图驱动的防空武器-目标动态分配方法
-[J].火力与指挥控制,2023,48(12):17-26.
-[13]
-谭继远,张立民,钟兆根.
-基于卷积双向长短期神经网络的调制方式识别
-[J].火力与指挥控制,2020,45(6):129-134.
-[14]
-黄迎春;邢秀祺.
-融合CNN-GRU和Transformer的网络入侵检测方法*
-[J].火力与指挥控制,2025,50(6):21-27.
-[15]
-贺俊,张雅声,尹灿斌,方宇强.
-基于CGRU-SVM的星载SAR工作模式识别方法
-[J].指挥控制与仿真,2022(3):99-105.
-[16]
-贾燎原;曹伟;张晓峰;陆翔;周恒亮.
-基于残差BiLSTM和改进CBAM的航迹关联方法
-[J].火力与指挥控制,2025(2):100-106+115.
-[17]
-黄权印;蔡益朝;李浩;吴卫华;王辰洋.
-基于GRU预测的改进UKF普适目标跟踪算法
-[J].现代防御技术,2025(6):134-148.
-[18]
-张慧敏,黄炜嘉,李锋.
-基于Ghost-YOLOv5s的SAR图像舰船目标检测
-[J].火力与指挥控制,2024,49(4):24-30.
-[19]
-周铭瑞;汪洋;彭程;刘冬梅;余星辰;李波.
-CHARM-Net:基于混合注意力增强的异构递归网络脑电情绪识别模型
-[J].兵器装备工程学报,2025(11):248-257.
-[20]
-崔丽;罗南超;吴敬花.
-基于ARR-DETR的小目标车辆检测方法
-[J].火力与指挥控制,2025,50(10):145-154.
 PDF下载
 XML下载
 导出引用
@@ -3304,9 +3198,9 @@ Copy
 文章访问量:
 261
 HTML全文浏览量:
-262
+263
 PDF下载量:
-621
+622
 被引次数:
 0
 图
@@ -3495,7 +3389,6 @@ Zhu Wenbo, Webb Z T, Mao Kaitian,et al. A deep learning approach for process dat
 扫码关注
 官方微信
 您是今天第
-4788
 位访客
 总访问量：
 309293800
@@ -3537,7 +3430,7 @@ Deepseek
 Kimi
 English
 引用本文:
-邓宇凡, 宋智琳, 蒲天乐, 等. 嵌入图神经网络的混合整数线性规划求解器增强技术[J]. 国防科技大学学报,2026,48(4):149-159.
+邓宇凡, 宋智琳, 蒲天乐, 等. 嵌入图神经网络的混合整数线性规划求解器增强技术[J]. 国防科技大学学报, 2026, 48(4)： 149-159.
 Citation:
 Deng Yufan, Song Zhilin, Pu Tianle, et al. GNN-guided approach to enhancing mixed-integer linear programming solvers[J]. Journal of National University of Defense Technology, 2026, 48(4)： 149-159.
 嵌入图神经网络的混合整数线性规划求解器增强技术
@@ -3563,7 +3456,7 @@ dengyufan24@nudt.edu.cn
 ，
  范长俊
 角色:
-通信作者
+通讯作者
 机构:
 国防科技大学系统工程学院, 湖南 长沙 410073
 邮箱:
@@ -3583,11 +3476,11 @@ fanchangjun@nudt.edu.cn
 收起信息
 作者简介
 邓宇凡（2002—），男，福建龙岩人，硕士研究生，E-mail: dengyufan24@nudt.edu.cn
-通信作者
+通讯作者
 范长俊（1990—），男，安徽天长人，副教授，博士，博士生导师，E-mail: fanchangjun@nudt.edu.cn
 中图分类号:
 TP183
-文献标志码:
+文献标识码:
 A
 文章编号:
 1001-2486(2026)04-149-11
@@ -3598,7 +3491,7 @@ First Author
 Affiliation:
 College of Systems Engineering, National University of Defense Technology, Changsha 410073 , China
 Email:
-dengyufan24@nudt.edu</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260414?st=search&amp;amp;tab=abstract&lt;/p&gt;&lt;pre&gt;嵌入图神经网络的混合整数线性规划求解器增强技术
+dengyufan24@nudt.</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260414?st=search&amp;amp;tab=abstract&lt;/p&gt;&lt;pre&gt;嵌入图神经网络的混合整数线性规划求解器增强技术
 EI•CA•INSPEC•JST•SCOPUS
 中文核心期刊•CSCD•WJCI
 首页
@@ -3628,7 +3521,7 @@ Deepseek
 Kimi
 English
 引用本文:
-邓宇凡, 宋智琳, 蒲天乐, 等. 嵌入图神经网络的混合整数线性规划求解器增强技术[J]. 国防科技大学学报,2026,48(4):149-159.
+邓宇凡, 宋智琳, 蒲天乐, 等. 嵌入图神经网络的混合整数线性规划求解器增强技术[J]. 国防科技大学学报, 2026, 48(4)： 149-159.
 Citation:
 Deng Yufan, Song Zhilin, Pu Tianle, et al. GNN-guided approach to enhancing mixed-integer linear programming solvers[J]. Journal of National University of Defense Technology, 2026, 48(4)： 149-159.
 嵌入图神经网络的混合整数线性规划求解器增强技术
@@ -3654,7 +3547,7 @@ dengyufan24@nudt.edu.cn
 ，
  范长俊
 角色:
-通信作者
+通讯作者
 机构:
 国防科技大学系统工程学院, 湖南 长沙 410073
 邮箱:
@@ -3674,11 +3567,11 @@ fanchangjun@nudt.edu.cn
 收起信息
 作者简介
 邓宇凡（2002—），男，福建龙岩人，硕士研究生，E-mail: dengyufan24@nudt.edu.cn
-通信作者
+通讯作者
 范长俊（1990—），男，安徽天长人，副教授，博士，博士生导师，E-mail: fanchangjun@nudt.edu.cn
 中图分类号:
 TP183
-文献标志码:
+文献标识码:
 A
 文章编号:
 1001-2486(2026)04-149-11
@@ -3710,7 +3603,7 @@ College of Systems Engineering, National University of Defense Technology, Chang
 摘要
 HTML全文
 图(6)表(7)
-参考文献(32)
+参考文献
 相似文献
 出版信息
 访问统计
@@ -4338,12 +4231,8 @@ i
 表示第
 i
 次迭代后得到的双随机矩阵。
-算法
-1
-Sinkhorn算法
-Alg.
-1
-Sinkhorn algorithm
+算法1 Sinkhorn算法
+Alg.1 Sinkhorn algorithm
 2 方法框架
 在本节中，提出一种基于边增强图注意力网络与混合整数规划求解器的求解框架SHARP。这一框架主要分为基于 Sinkhorn 归一化的边增强注意力网络、概率分布学习、基于置信阈值的反悔贪心搜索方法三个部分，如
 图2
@@ -5513,72 +5402,6 @@ Effect of different regret coefficients on model performance
 Tab.
 7
 Performance comparison of different methods on the primal integral
-[1]
-Pochet Y, Wolsey L A. Production planning by mixed integer programming[M]. New York: Springer, 2006.
-[2]
-Sawik T. Scheduling in supply chains using mixed integer programming[M]. Hoboken: John Wiley &amp;amp; Sons, Inc., 2011.
-[3]
-Watson J P, Woodruff D L. Progressive hedging innovations for a class of stochastic mixed-integer resource allocation problems[J]. Computational Management Science, 2011, 8: 355-370.
-[4]
-高倩, 杨知方, 李文沅. 电力系统混合整数线性规划问题的运筹决策关键技术综述与展望[J]. 电工技术学报, 2024, 39(11): 3291-3307.
-Gao Qian, Yang Zhifang, Li Wenyuan. Prospect on operations research for mixed-integer linear programming problems in power systems[J]. Transactions of China Electrotechnical Society, 2024, 39(11): 3291-3307.(in Chinese)
-[5]
-Land A H, Doig A G. An automatic method for solving discrete programming problems[M]//Jünger M, Liebling T M, Naddef D, et al.50 years of integer programming 1958—2008. Berlin: Springer, 2010: 105-132.
-[6]
-Gilmore P C, Gomory R E. A linear programming approach to the cutting-stock problem[J]. Operations Research, 1961, 9(6): 771-925.
-[7]
-Zhang Jiayi, Liu Chang, Li Xijun, et al. A survey for solving mixed integer programming via machine learning[J]. Neurocomputing, 2023, 519: 205-217.
-[8]
-胡振震, 袁唯淋, 罗俊仁, 等. 面向多最优解组合优化问题的决策求解算法[J]. 国防科技大学学报, 2022, 44(3): 31-40.
-Hu Zhenzhen, Yuan Weilin, Luo Junren, et al. Decision solving algorithm for multiple optimal solution combinatorial optimization problem[J]. Journal of National University of Defense Technology, 2022, 44(3): 31-40.(in Chinese)
-[9]
-Gasse M, Chételat D, Ferroni N, et al. Exact combinatorial optimization with graph convolutional neural networks[C]//The 33rd International Conference on Neural Information Processing Systems, 2019: 15580-15592.
-[10]
-Khalil E B, Morris C, Lodi A. MIP-GNN: a data-driven framework for guiding combinatorial solvers[J]. Proceedings of the AAAI Conference on Artificial Intelligence, 2022, 36(9): 10219-10227.
-[11]
-He H, Daumé H, Eisner J. Learning to search in branch and bound algorithms[C]//The 28th International Conference on Neural Information Processing Systems, 2014: 3293-3301.
-[12]
-Song Jialin, Lanka R, Yue Yisong, et al. A general large neighborhood search framework for solving integer linear programs[C]//The 34th International Conference on Neural Information Processing Systems, 2020: 20012-20023.
-[13]
-Huang Zeren, Wang Kerong, Liu Furui, et al. Learning to select cuts for efficient mixed-integer programming[J]. Pattern Recognition, 2022, 123: 108353.
-[14]
-Ling Haotian, Wang Zhihai, Wang Jie. Learning to stop cut generation for efficient mixed-integer linear programming[J]. Proceedings of the AAAI Conference on Artificial Intelligence, 2024, 38(18): 20759-20767.
-[15]
-Nair V, Bartunov S, Gimeno F, et al. Solving mixed integer programs using neural networks[PP/OL].arXiv(2020-12-23)[2025-03-13].https: //arxiv.org/abs/2012.13349.
-[16]
-Zeng Hao, Wang Jiaqi, Das A, et al. Effective generation of feasible solutions for integer programming via guided diffusion[C]//The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2024: 4107-4118.
-[17]
-Huang Taoan, FERBER A, Zharmagambetov A, et al. Contrastive predict-and-search for mixed integer linear programs[C]//The 41st International Conference on Machine Learning, 2024: 19757-19771.
-[18]
-Sander M E, Ablin P, Blondel M, et al. Sinkformers: transformers with doubly stochastic attention[C]//The 25th International Conference on Artificial Intelligence and Statistics, 2022: 3515-3530.
-[19]
-Yoon T. Confidence threshold neural diving[PP/OL].arXiv(2022-03-15)[2025-03-14].https: //arxiv.org/abs/2202.07506.
-[20]
-Han Qingyu, Yang Linxin, Chen Qian, et al. A GNN-guided predict-and-search framework for mixed-integer linear programming[C]//The Eleventh International Conference on Learning Representations, 2023: 1-15.
-[21]
-Gong Liyu, Cheng Qiang. Exploiting edge features for graph neural networks[C]//The 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR), 2019: 9203-9211.
-[22]
-Sinkhorn R D, Knopp P J. Concerning nonnegative matrices and doubly stochastic matrices[J]. Pacific Journal of Mathematics, 1967, 21(2): 343-348.
-[23]
-Dakin R J. A tree-search algorithm for mixed integer programming problems[J]. The Computer Journal, 1965, 8(3): 250-255.
-[24]
-Kipf T N, Welling M. Semi-supervised classification with graph convolutional networks[PP/OL].arXiv(2016-09-09)[2025-03-30].https: //arxiv.org/abs/1609.02907.
-[25]
-Veličković P, Cucurull G, Casanova A, et al. Graph attention networks[PP/OL].arXiv(2017-10-30)[2025-03-30].https: //arxiv.org/abs/1710.10903.
-[26]
-Wang Runzhong, Yan Junchi, Yang Xiaokang. Learning combinatorial embedding networks for deep graph matching[C]//The 2019 IEEE/CVF International Conference on Computer Vision(ICCV), 2019: 3056-3065.
-[27]
-Genevay A, Peyré G, Cuturi M. Learning generative models with Sinkhorn divergences[C]//The Twenty-First International Conference on Artificial Intelligence and Statistics, 2018: 1608-1617.
-[28]
-Ye Huigen, Xu Hua, Wang Hongyan. Light-MILPopt: solving large-scale mixed integer linear programs with lightweight optimizer and small-scale training dataset[C]//The Twelfth International Conference on Learning Representations, 2024: 1-24.
-[29]
-Berthold T. Primal heuristics for mixed integer programs[D]. Berlin: Technische Universität Berlin, 2006.
-[30]
-Sonnerat N, Wang Pengming, Ktena I, et al. Learning a large neighborhood search algorithm for mixed integer programs[PP/OL].arXiv(2021-07-21)[2025-03-31].https: //arxiv.org/abs/2107.10201.
-[31]
-Achterberg T, Berthold T, Hendel G. Rounding and propagation heuristics for mixed integer programming[M]//Klatte D, Lüthi H J, Schmedders K. Operations research proceedings 2011. Berlin, Heidelberg: Springer, 2012: 71-76.
-[32]
-ACHTERBERG T. SCIP: solving constraint integer programs[J]. Mathematical Programming Computation, 2009, 1(1): 1-41.
 PDF下载
 XML下载
 导出引用
@@ -5588,19 +5411,15 @@ XML下载
 表(7)
 手机扫码阅读
 引用本文
-邓宇凡, 宋智琳, 蒲天乐, 等. 嵌入图神经网络的混合整数线性规划求解器增强技术[J]. 国防科技大学学报,2026,48(4):149-159.
+邓宇凡, 宋智琳, 蒲天乐, 等. 嵌入图神经网络的混合整数线性规划求解器增强技术[J]. 国防科技大学学报, 2026, 48(4)： 149-159.
 复制
 Deng Yufan, Song Zhilin, Pu Tianle, et al. GNN-guided approach to enhancing mixed-integer linear programming solvers[J]. Journal of National University of Defense Technology, 2026, 48(4)： 149-159.
 Copy
 计量
 文章访问量:
-258
 HTML全文浏览量:
-240
 PDF下载量:
-539
 被引次数:
-0
 图
 1
 混合整数线性规划问题的二部图表示
@@ -5721,7 +5540,6 @@ ACHTERBERG T. SCIP:solving constraint integer programs[J]. Mathematical Programm
 扫码关注
 官方微信
 您是今天第
-4788
 位访客
 总访问量：
 309293800
@@ -6599,11 +6417,11 @@ LI Zhigang, QIU Zhinan, WANG Jiachun, et al. Study of high-power microwave prote
 Copy
 计量
 文章访问量:
-29399
+29402
 HTML全文浏览量:
-4047
+4050
 PDF下载量:
-10019
+10020
 被引次数:
 0
 图
@@ -6676,7 +6494,7 @@ HE W, LIU X H, XIAN R C,et al. Kinetics characteristics and bremsstrahlung of ar
 扫码关注
 官方微信
 您是今天第
-4788
+264
 位访客
 总访问量：
 309293800
@@ -8098,7 +7916,7 @@ Copy
 HTML全文浏览量:
 232
 PDF下载量:
-527
+528
 被引次数:
 0
 图
@@ -8205,7 +8023,7 @@ Sanokowski S, Berghammer W, Hochreiter S,et al. Variational annealing on graphs 
 扫码关注
 官方微信
 您是今天第
-4788
+264
 位访客
 总访问量：
 309293800

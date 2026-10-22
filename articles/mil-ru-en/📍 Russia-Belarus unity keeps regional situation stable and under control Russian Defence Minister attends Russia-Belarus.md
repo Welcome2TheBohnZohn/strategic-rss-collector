@@ -51,6 +51,6 @@ According to him,
 the past period for our defence agencies was marked by intensive and substantial efforts.
 ‘We have started putting the strategic military partnership programme for 2026-2030 into practice’.
 ‘Belarus-Russia unity keeps regional situation stable and under control,
-’– Lieutenant General Viktor Khrenin added.
+’ Lieutenant General Viktor Khrenin added.
 🔹
 Russian Defence Ministry
