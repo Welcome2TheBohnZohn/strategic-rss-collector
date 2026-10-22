@@ -1,62 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Thu, 22 Oct 2026 17:25:53 +0000</lastBuildDate><item><title>CNNVD-2026-54093308 - Apache Traffic Server 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-54093308</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-54093308</guid><pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate><description>Apache Traffic Server 输入验证错误漏洞
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Thu, 22 Oct 2026 21:51:09 +0000</lastBuildDate><item><title>CNNVD-2026-70899238 - Apache Traffic Server 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-70899238</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-70899238</guid><pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate><description>Apache Traffic Server 输入验证错误漏洞
 危害等级: 超危
-收录时间：2026-10-21 | 更新时间: 2026-10-22 17:03:03
-CNNVD编号: CNNVD-2026-54093308</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-54093308&lt;/p&gt;&lt;pre&gt;Apache Traffic Server 输入验证错误漏洞
+收录时间：2026-10-21 | 更新时间: 2026-10-22 16:23:24
+CNNVD编号: CNNVD-2026-70899238</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-70899238&lt;/p&gt;&lt;pre&gt;Apache Traffic Server 输入验证错误漏洞
 危害等级: 超危
-收录时间：2026-10-21 | 更新时间: 2026-10-22 17:03:03
-CNNVD编号: CNNVD-2026-54093308&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-86720311 - GPAC MP4Box 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-86720311</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-86720311</guid><pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate><description>GPAC MP4Box 安全漏洞
-危害等级: 超危
-收录时间：2026-10-21 | 更新时间: 2026-10-22 17:03:02
-CNNVD编号: CNNVD-2026-86720311</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-86720311&lt;/p&gt;&lt;pre&gt;GPAC MP4Box 安全漏洞
-危害等级: 超危
-收录时间：2026-10-21 | 更新时间: 2026-10-22 17:03:02
-CNNVD编号: CNNVD-2026-86720311&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-39343127 - GPAC MP4Box 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-39343127</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-39343127</guid><pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate><description>GPAC MP4Box 安全漏洞
-危害等级: 超危
-收录时间：2026-10-21 | 更新时间: 2026-10-22 17:03:01
-CNNVD编号: CNNVD-2026-39343127</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-39343127&lt;/p&gt;&lt;pre&gt;GPAC MP4Box 安全漏洞
-危害等级: 超危
-收录时间：2026-10-21 | 更新时间: 2026-10-22 17:03:01
-CNNVD编号: CNNVD-2026-39343127&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-39741566 - GPAC MP4Box 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-39741566</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-39741566</guid><pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate><description>GPAC MP4Box 安全漏洞
-危害等级: 超危
-收录时间：2026-10-21 | 更新时间: 2026-10-22 17:03:01
-CNNVD编号: CNNVD-2026-39741566</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-39741566&lt;/p&gt;&lt;pre&gt;GPAC MP4Box 安全漏洞
-危害等级: 超危
-收录时间：2026-10-21 | 更新时间: 2026-10-22 17:03:01
-CNNVD编号: CNNVD-2026-39741566&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-59898227 - Cisco TelePresence Video Communication Server Expressway 信息泄露漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-59898227</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-59898227</guid><pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate><description>Cisco TelePresence Video Communication Server Expressway 信息泄露漏洞
+收录时间：2026-10-21 | 更新时间: 2026-10-22 16:23:24
+CNNVD编号: CNNVD-2026-70899238&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-41295108 - Agent2Agent A2A Rust SDK 竞争条件问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-41295108</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-41295108</guid><pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate><description>Agent2Agent A2A Rust SDK 竞争条件问题漏洞
 危害等级: 中危
-收录时间：2026-10-21 | 更新时间: 2026-10-22 16:54:03
-CNNVD编号: CNNVD-2026-59898227</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-59898227&lt;/p&gt;&lt;pre&gt;Cisco TelePresence Video Communication Server Expressway 信息泄露漏洞
+收录时间：2026-10-21 | 更新时间: 2026-10-22 16:22:01
+CNNVD编号: CNNVD-2026-41295108</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-41295108&lt;/p&gt;&lt;pre&gt;Agent2Agent A2A Rust SDK 竞争条件问题漏洞
 危害等级: 中危
-收录时间：2026-10-21 | 更新时间: 2026-10-22 16:54:03
-CNNVD编号: CNNVD-2026-59898227&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-27073407 - Cisco TelePresence Video Communication Server Expressway 信任管理问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-27073407</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-27073407</guid><pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate><description>Cisco TelePresence Video Communication Server Expressway 信任管理问题漏洞
-危害等级: 超危
-收录时间：2026-10-21 | 更新时间: 2026-10-22 16:54:02
-CNNVD编号: CNNVD-2026-27073407</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-27073407&lt;/p&gt;&lt;pre&gt;Cisco TelePresence Video Communication Server Expressway 信任管理问题漏洞
-危害等级: 超危
-收录时间：2026-10-21 | 更新时间: 2026-10-22 16:54:02
-CNNVD编号: CNNVD-2026-27073407&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-48870495 - Cisco Emergency Responder 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-48870495</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-48870495</guid><pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate><description>Cisco Emergency Responder 输入验证错误漏洞
-危害等级: 超危
-收录时间：2026-10-21 | 更新时间: 2026-10-22 16:54:01
-CNNVD编号: CNNVD-2026-48870495</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-48870495&lt;/p&gt;&lt;pre&gt;Cisco Emergency Responder 输入验证错误漏洞
-危害等级: 超危
-收录时间：2026-10-21 | 更新时间: 2026-10-22 16:54:01
-CNNVD编号: CNNVD-2026-48870495&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-14098994 - Cisco Emergency Responder 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-14098994</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-14098994</guid><pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate><description>Cisco Emergency Responder 跨站脚本漏洞
-危害等级: 超危
-收录时间：2026-10-21 | 更新时间: 2026-10-22 16:54:00
-CNNVD编号: CNNVD-2026-14098994</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-14098994&lt;/p&gt;&lt;pre&gt;Cisco Emergency Responder 跨站脚本漏洞
-危害等级: 超危
-收录时间：2026-10-21 | 更新时间: 2026-10-22 16:54:00
-CNNVD编号: CNNVD-2026-14098994&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-81881718 - Cisco Unified Communications Manager 权限许可和访问控制问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-81881718</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-81881718</guid><pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate><description>Cisco Unified Communications Manager 权限许可和访问控制问题漏洞
+收录时间：2026-10-21 | 更新时间: 2026-10-22 16:22:01
+CNNVD编号: CNNVD-2026-41295108&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-75641732 - Electron 跨站请求伪造漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75641732</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75641732</guid><pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate><description>Electron 跨站请求伪造漏洞
 危害等级: 中危
-收录时间：2026-10-21 | 更新时间: 2026-10-22 16:53:59
-CNNVD编号: CNNVD-2026-81881718</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-81881718&lt;/p&gt;&lt;pre&gt;Cisco Unified Communications Manager 权限许可和访问控制问题漏洞
+收录时间：2026-10-21 | 更新时间: 2026-10-22 16:22:00
+CNNVD编号: CNNVD-2026-75641732</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75641732&lt;/p&gt;&lt;pre&gt;Electron 跨站请求伪造漏洞
 危害等级: 中危
-收录时间：2026-10-21 | 更新时间: 2026-10-22 16:53:59
-CNNVD编号: CNNVD-2026-81881718&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-61593855 - Cisco Emergency Responder 路径遍历漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-61593855</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-61593855</guid><pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate><description>Cisco Emergency Responder 路径遍历漏洞
+收录时间：2026-10-21 | 更新时间: 2026-10-22 16:22:00
+CNNVD编号: CNNVD-2026-75641732&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-99681480 - Electron 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-99681480</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-99681480</guid><pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate><description>Electron 授权问题漏洞
+危害等级: 低危
+收录时间：2026-10-21 | 更新时间: 2026-10-22 16:22:00
+CNNVD编号: CNNVD-2026-99681480</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-99681480&lt;/p&gt;&lt;pre&gt;Electron 授权问题漏洞
+危害等级: 低危
+收录时间：2026-10-21 | 更新时间: 2026-10-22 16:22:00
+CNNVD编号: CNNVD-2026-99681480&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-13355291 - FreeRDP 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-13355291</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-13355291</guid><pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate><description>FreeRDP 资源管理错误漏洞
 危害等级: 高危
-收录时间：2026-10-21 | 更新时间: 2026-10-22 16:53:58
-CNNVD编号: CNNVD-2026-61593855</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-61593855&lt;/p&gt;&lt;pre&gt;Cisco Emergency Responder 路径遍历漏洞
+收录时间：2026-10-21 | 更新时间: 2026-10-22 16:21:58
+CNNVD编号: CNNVD-2026-13355291</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-13355291&lt;/p&gt;&lt;pre&gt;FreeRDP 资源管理错误漏洞
 危害等级: 高危
-收录时间：2026-10-21 | 更新时间: 2026-10-22 16:53:58
-CNNVD编号: CNNVD-2026-61593855&lt;/pre&gt;</content:encoded></item></channel></rss>
+收录时间：2026-10-21 | 更新时间: 2026-10-22 16:21:58
+CNNVD编号: CNNVD-2026-13355291&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-41081022 - Apache Traffic Server 命令注入漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-41081022</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-41081022</guid><pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate><description>Apache Traffic Server 命令注入漏洞
+危害等级: 超危
+收录时间：2026-10-21 | 更新时间: 2026-10-22 16:23:25
+CNNVD编号: CNNVD-2026-41081022</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-41081022&lt;/p&gt;&lt;pre&gt;Apache Traffic Server 命令注入漏洞
+危害等级: 超危
+收录时间：2026-10-21 | 更新时间: 2026-10-22 16:23:25
+CNNVD编号: CNNVD-2026-41081022&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-93403937 - FreeRDP 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-93403937</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-93403937</guid><pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate><description>FreeRDP 缓冲区错误漏洞
+危害等级: 中危
+收录时间：2026-10-21 | 更新时间: 2026-10-22 16:21:58
+CNNVD编号: CNNVD-2026-93403937</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-93403937&lt;/p&gt;&lt;pre&gt;FreeRDP 缓冲区错误漏洞
+危害等级: 中危
+收录时间：2026-10-21 | 更新时间: 2026-10-22 16:21:58
+CNNVD编号: CNNVD-2026-93403937&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-94220568 - FreeRDP 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-94220568</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-94220568</guid><pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate><description>FreeRDP 缓冲区错误漏洞
+危害等级: 高危
+收录时间：2026-10-21 | 更新时间: 2026-10-22 16:21:57
+CNNVD编号: CNNVD-2026-94220568</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-94220568&lt;/p&gt;&lt;pre&gt;FreeRDP 缓冲区错误漏洞
+危害等级: 高危
+收录时间：2026-10-21 | 更新时间: 2026-10-22 16:21:57
+CNNVD编号: CNNVD-2026-94220568&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-37254960 - FreeRDP 加密问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-37254960</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-37254960</guid><pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate><description>FreeRDP 加密问题漏洞
+危害等级: 高危
+收录时间：2026-10-21 | 更新时间: 2026-10-22 16:21:57
+CNNVD编号: CNNVD-2026-37254960</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-37254960&lt;/p&gt;&lt;pre&gt;FreeRDP 加密问题漏洞
+危害等级: 高危
+收录时间：2026-10-21 | 更新时间: 2026-10-22 16:21:57
+CNNVD编号: CNNVD-2026-37254960&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-35223302 - ArcadeData ArcadeDB 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-35223302</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-35223302</guid><pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate><description>ArcadeData ArcadeDB 授权问题漏洞
+危害等级: 中危
+收录时间：2026-10-21 | 更新时间: 2026-10-22 16:21:56
+CNNVD编号: CNNVD-2026-35223302</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-35223302&lt;/p&gt;&lt;pre&gt;ArcadeData ArcadeDB 授权问题漏洞
+危害等级: 中危
+收录时间：2026-10-21 | 更新时间: 2026-10-22 16:21:56
+CNNVD编号: CNNVD-2026-35223302&lt;/pre&gt;</content:encoded></item></channel></rss>
