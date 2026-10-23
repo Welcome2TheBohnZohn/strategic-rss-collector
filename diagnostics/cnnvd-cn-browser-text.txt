@@ -23,68 +23,68 @@ CNNVD动态
 重置
 收起 
 漏洞信息
-Apache Traffic Server 输入验证错误漏洞
-超危
-收录时间：2026-10-21
+Drupal SAML SSO - Service Provider 跨站脚本漏洞
+低危
+收录时间：2026-10-22
 |
-更新时间: 2026-10-22 17:03:03
-CNNVD编号：CNNVD-2026-54093308
-GPAC MP4Box 安全漏洞
-超危
-收录时间：2026-10-21
+更新时间: 2026-10-23 16:25:48
+CNNVD编号：CNNVD-2026-49113541
+Drupal SAML SSO - Service Provider 授权问题漏洞
+低危
+收录时间：2026-10-22
 |
-更新时间: 2026-10-22 17:03:02
-CNNVD编号：CNNVD-2026-86720311
-GPAC MP4Box 安全漏洞
-超危
-收录时间：2026-10-21
-|
-更新时间: 2026-10-22 17:03:01
-CNNVD编号：CNNVD-2026-39343127
-GPAC MP4Box 安全漏洞
-超危
-收录时间：2026-10-21
-|
-更新时间: 2026-10-22 17:03:01
-CNNVD编号：CNNVD-2026-39741566
-Cisco TelePresence Video Communication Server Expressway 信息泄露漏洞
+更新时间: 2026-10-23 16:25:47
+CNNVD编号：CNNVD-2026-66867511
+Drupal SAML SSO - Service Provider 信任管理问题漏洞
 中危
-收录时间：2026-10-21
+收录时间：2026-10-22
 |
-更新时间: 2026-10-22 16:54:03
-CNNVD编号：CNNVD-2026-59898227
-Cisco TelePresence Video Communication Server Expressway 信任管理问题漏洞
-超危
-收录时间：2026-10-21
-|
-更新时间: 2026-10-22 16:54:02
-CNNVD编号：CNNVD-2026-27073407
-Cisco Emergency Responder 输入验证错误漏洞
-超危
-收录时间：2026-10-21
-|
-更新时间: 2026-10-22 16:54:01
-CNNVD编号：CNNVD-2026-48870495
-Cisco Emergency Responder 跨站脚本漏洞
-超危
-收录时间：2026-10-21
-|
-更新时间: 2026-10-22 16:54:00
-CNNVD编号：CNNVD-2026-14098994
-Cisco Unified Communications Manager 权限许可和访问控制问题漏洞
+更新时间: 2026-10-23 16:25:46
+CNNVD编号：CNNVD-2026-35489900
+Drupal SAML SSO - Service Provider 输入验证错误漏洞
 中危
-收录时间：2026-10-21
+收录时间：2026-10-22
 |
-更新时间: 2026-10-22 16:53:59
-CNNVD编号：CNNVD-2026-81881718
-Cisco Emergency Responder 路径遍历漏洞
+更新时间: 2026-10-23 16:25:49
+CNNVD编号：CNNVD-2026-45968315
+Drupal SAML SSO - Service Provider 授权问题漏洞
+中危
+收录时间：2026-10-22
+|
+更新时间: 2026-10-23 16:25:49
+CNNVD编号：CNNVD-2026-12278303
+Bytecode Alliance wasmtime 后置链接漏洞
 高危
-收录时间：2026-10-21
+收录时间：2026-10-22
 |
-更新时间: 2026-10-22 16:53:58
-CNNVD编号：CNNVD-2026-61593855
-共 405681 条
-12345640569
+更新时间: 2026-10-23 16:27:07
+CNNVD编号：CNNVD-2026-11646845
+Bytecode Alliance wasmtime 资源管理错误漏洞
+中危
+收录时间：2026-10-22
+|
+更新时间: 2026-10-23 16:27:06
+CNNVD编号：CNNVD-2026-83816790
+KNIME Business Hub 资源管理错误漏洞
+中危
+收录时间：2026-10-22
+|
+更新时间: 2026-10-23 16:27:05
+CNNVD编号：CNNVD-2026-38091888
+KNIME Business Hub 信息泄露漏洞
+中危
+收录时间：2026-10-22
+|
+更新时间: 2026-10-23 16:27:04
+CNNVD编号：CNNVD-2026-77918018
+KNIME Business Hub 授权问题漏洞
+中危
+收录时间：2026-10-22
+|
+更新时间: 2026-10-23 16:27:04
+CNNVD编号：CNNVD-2026-11013260
+共 406492 条
+12345640650
 前往页
 快速导航
 首页

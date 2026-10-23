@@ -6,7 +6,7 @@ Include regex: /gfbw/|/xwfyr/|/wzll/
 Include text regex: 
 
 Candidate links: 50
-All links discovered: 244
+All links discovered: 242
 
 === MATCHED CANDIDATES ===
 
@@ -18,10 +18,10 @@ http://www.mod.gov.cn/gfbw/fgwx/16482045.html
   中华人民共和国国防动员法
 http://www.mod.gov.cn/gfbw/fgwx/16444625.html
   中央军委政治工作部等6部门联合印发《关于做好边远艰苦地区和大龄未婚官兵婚恋服务工作的意见》
-http://www.mod.gov.cn/gfbw/gfjy_index/16495053.html
-  40余名参战老兵齐聚江苏金湖为烈士母亲庆贺百岁寿辰——“烈士为国尽忠，我们替他尽孝”
 http://www.mod.gov.cn/gfbw/gfjy_index/16495066.html
   “人民群众就是最可靠的后方”——纪念中国工农红军长征胜利90周年主题展览参观见闻
+http://www.mod.gov.cn/gfbw/qwfb/16495575.html
+  全军官兵认真学习习主席在纪念中国工农红军长征胜利90周年大会上的重要讲话
 http://www.mod.gov.cn/gfbw/gfdy/16495059.html
   云南省军地检察机关联手化解涉军执行积案——为戍边官兵撑起权益“保护伞”
 http://www.mod.gov.cn/gfbw/gfdy/16493246.html
@@ -30,7 +30,7 @@ http://www.mod.gov.cn/gfbw/gffw/16490106.html
   安徽省宣城市扎实做好退役士兵选岗工作 拓宽岗位来源 提高安置质效
 http://www.mod.gov.cn/gfbw/gffw/16488523.html
   海口军代室以航空方式保障部分新兵跨海奔赴军营——空中通道增效率
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16495386.html
+http://www.mod.gov.cn/gfbw/qwfb/16495595.html
   习近平出席纪念中国工农红军长征胜利90周年大会并发表重要讲话
 http://www.mod.gov.cn/gfbw/gfdy/16495061.html
   安徽省淮南市军地优化接收退役军人工作流程返乡报到“一窗办结”
@@ -40,6 +40,10 @@ http://www.mod.gov.cn/gfbw/gfjy_index/16495063.html
   “唤起工农千百万”——红军在长征中开展战争动员的经验与启示
 http://www.mod.gov.cn/gfbw/gffw/16469120.html
   速览！2026年军校招生政策解读，你想知道的都在这里→
+http://www.mod.gov.cn/gfbw/sy/tt_214026/16495594.html
+  中共中央政治局召开会议 中共中央总书记习近平主持会议
+http://www.mod.gov.cn/gfbw/wzll/16495582.html
+  纪念中国工农红军长征胜利90周年特刊丨甘以热血赴长路
 http://www.mod.gov.cn/gfbw/xwfyr/16491899.html
   日本“新型军国主义”灰犀牛加速狂奔 威胁地区和平稳定
 http://www.mod.gov.cn/gfbw/jswj/16487981.html
@@ -48,26 +52,24 @@ http://www.mod.gov.cn/gfbw/jmsd/16495306.html
   解放军报社论：弘扬伟大长征精神 奋进强国强军新征程
 http://www.mod.gov.cn/gfbw/sy/rt/16495367.html
   纪念中国工农红军长征胜利90周年大会在京隆重举行
+http://www.mod.gov.cn/gfbw/qwfb/16495537.html
+  习近平对西藏那曲市巴青县7.0级地震作出重要指示
 http://www.mod.gov.cn/gfbw/qwfb/16493568.html
   国防部：菲个别政客为一己私利破坏中菲两国两军关系
 http://www.mod.gov.cn/gfbw/wzll/16487929.html
   探访陆军某边防旅二十连，品读官兵与六座界桩的故事
-http://www.mod.gov.cn/gfbw/wzll/16493767.html
-  南沙某守备部队建立“官兵之家”，优化为兵服务质效
+http://www.mod.gov.cn/gfbw/wzll/16495580.html
+  新疆军区某红军团官兵信念如磐——再出发，我心依旧
 http://www.mod.gov.cn/gfbw/jsxd/16491543.html
   中国海军第48批护航编队抵达马来西亚进行友好访问
 http://www.mod.gov.cn/gfbw/gfjy_index/16495355.html
   寻根铸魂向百年·重走长征路｜翻越，岂止于皑皑雪山
-http://www.mod.gov.cn/gfbw/qwfb/16493567.html
-  国防部：中方将以有力行动遏制任何祸乱南海的行径
 http://www.mod.gov.cn/gfbw/jswj/16488353.html
   中国海军“吉祥方舟”号医院船结束访问毛里塔尼亚
 http://www.mod.gov.cn/gfbw/jsxd/16495067.html
   走向世界舞台的中国军队丨海风传善意 情暖阿比让
 http://www.mod.gov.cn/gfbw/jsxd/16490415.html
   我赴阿卜耶伊维和直升机分队完成友军轮换运输任务
-http://www.mod.gov.cn/gfbw/qwfb/16493356.html
-  习近平向第140届中国进出口商品交易会致贺信
 http://www.mod.gov.cn/gfbw/spbb_214126/16495168.html
   赴山河 从头越——追随统帅回望长征之路丨接力
 http://www.mod.gov.cn/gfbw/spbb_214126/16495158.html
@@ -76,40 +78,38 @@ http://www.mod.gov.cn/gfbw/spbb_214126/16495157.html
   赴山河 从头越——追随统帅回望长征之路丨同心
 http://www.mod.gov.cn/gfbw/sy/rt/16492818.html
   习近平出席全国卫生与健康大会并发表重要讲话
-http://www.mod.gov.cn/gfbw/qwfb/16493089.html
-  习近平出席全国卫生与健康大会并发表重要讲话
 http://www.mod.gov.cn/gfbw/qwfb/16495071.html
   中国军网“胜利的方向”大型互动融媒专题上线
-http://www.mod.gov.cn/gfbw/wzll/16493973.html
-  第八十集团军某旅引导官兵摆脱训练“舒适区”
 http://www.mod.gov.cn/gfbw/xwfyr/16491902.html
   国防部：愿同美方一道落实好两国元首重要共识
-http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16493354.html
-  《以更高标准、更实举措推进全面从严治党》
+http://www.mod.gov.cn/gfbw/qwfb/16495743.html
+  习近平向2026全球治理论坛（雄安）致信
 http://www.mod.gov.cn/gfbw/jswj/16489422.html
   中国海军“吉祥方舟”号医院船抵达塞内加尔
 http://www.mod.gov.cn/gfbw/gfdy/16487706.html
   云南省贡山县人武部结对帮扶独龙江乡马库村
 http://www.mod.gov.cn/gfbw/qwfb/16493583.html
   2026年10月中旬国防部例行新闻发布
+http://www.mod.gov.cn/gfbw/qwfb/16495745.html
+  人民子弟兵投入西藏那曲市巴青县抗震救灾
 http://www.mod.gov.cn/gfbw/xwfyr/16491923.html
   2026年10月上旬国防部例行新闻发布
-http://www.mod.gov.cn/gfbw/qwfb/16493505.html
-  习近平致信祝贺湖南大学建校100周年
-http://www.mod.gov.cn/gfbw/qwfb/16493349.html
-  《求是》杂志发表习近平总书记重要文章
 http://www.mod.gov.cn/gfbw/gffw/16488819.html
   2026年下半年新兵运输工作全面启动
+http://www.mod.gov.cn/gfbw/gfjy_index/16495623.html
+  “时代楷模”王戟是新时代青年要追的星
 http://www.mod.gov.cn/gfbw/jmsd/16495363.html
   强军论坛丨在“如果”中淬炼胜战之钥
-http://www.mod.gov.cn/gfbw/jmsd/16494748.html
-  强军论坛丨从问题中提炼“胜战密码”
 http://www.mod.gov.cn/gfbw/fgwx/16448582.html
   中华人民共和国民族团结进步促进法
 http://www.mod.gov.cn/gfbw/jmsd/16490931.html
   解放军报评论员：推进祖国统一大业
 http://www.mod.gov.cn/gfbw/sy/rt/16492834.html
   习近平会见多哥部长会议主席福雷
+http://www.mod.gov.cn/gfbw/wzll/16494464.html
+  万里边疆行丨碧海唱响“同心曲”
+http://www.mod.gov.cn/gfbw/sy/rt/16492828.html
+  习近平同博茨瓦纳总统博科会谈
 
 === ALL DISCOVERED LINKS ===
 
@@ -298,10 +298,8 @@ http://www.mod.gov.cn/gfbw/sy/jt_214028/16494373.html
   陆军某旅开展编队飞行训练
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16491885.html
   空军某部开展飞行训练
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16495386.html
-  习近平出席纪念中国工农红军长征胜利90周年大会并发表重要讲话
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16495390.html
-  讲话全文
+http://www.mod.gov.cn/gfbw/sy/tt_214026/16495594.html
+  中共中央政治局召开会议 中共中央总书记习近平主持会议
 http://www.mod.gov.cn/gfbw/sy/rt/16495367.html
   纪念中国工农红军长征胜利90周年大会在京隆重举行
 http://www.mod.gov.cn/gfbw/sy/rt/16493699.html
@@ -312,30 +310,28 @@ http://www.mod.gov.cn/gfbw/sy/rt/16492828.html
   习近平同博茨瓦纳总统博科会谈
 http://www.mod.gov.cn/gfbw/sy/rt/16492834.html
   习近平会见多哥部长会议主席福雷
+http://www.mod.gov.cn/gfbw/qwfb/16495743.html
+  习近平向2026全球治理论坛（雄安）致信
+http://www.mod.gov.cn/gfbw/qwfb/16495595.html
+  习近平出席纪念中国工农红军长征胜利90周年大会并发表重要讲话
+http://www.mod.gov.cn/gfbw/sy/tt_214026/16495390.html
+  讲话全文
+http://www.mod.gov.cn/gfbw/qwfb/16495537.html
+  习近平对西藏那曲市巴青县7.0级地震作出重要指示
 http://www.mod.gov.cn/gfbw/qwfb/16493868.html
   习近平在内蒙古乌兰察布考察
-http://www.mod.gov.cn/gfbw/qwfb/16493505.html
-  习近平致信祝贺湖南大学建校100周年
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16493508.html
-  贺信全文
-http://www.mod.gov.cn/gfbw/qwfb/16493349.html
-  《求是》杂志发表习近平总书记重要文章
-http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16493354.html
-  《以更高标准、更实举措推进全面从严治党》
-http://www.mod.gov.cn/gfbw/qwfb/16493356.html
-  习近平向第140届中国进出口商品交易会致贺信
-http://www.mod.gov.cn/gfbw/qwfb/16493089.html
-  习近平出席全国卫生与健康大会并发表重要讲话
+http://www.mod.gov.cn/gfbw/qwfb/16495575.html
+  全军官兵认真学习习主席在纪念中国工农红军长征胜利90周年大会上的重要讲话
 http://www.mod.gov.cn/gfbw/qwfb/16493583.html
   2026年10月中旬国防部例行新闻发布
+http://www.mod.gov.cn/gfbw/qwfb/16495745.html
+  人民子弟兵投入西藏那曲市巴青县抗震救灾
 http://www.mod.gov.cn/gfbw/qwfb/16495071.html
   中国军网“胜利的方向”大型互动融媒专题上线
 http://www.mod.gov.cn/gfbw/qwfb/16495199.html
   中国海警局新闻发言人发表谈话
 http://www.mod.gov.cn/gfbw/qwfb/16493568.html
   国防部：菲个别政客为一己私利破坏中菲两国两军关系
-http://www.mod.gov.cn/gfbw/qwfb/16493567.html
-  国防部：中方将以有力行动遏制任何祸乱南海的行径
 http://www.mod.gov.cn/gfbw/jswj/16492058.html
   海军“吉祥方舟”号医院船结束访问几内亚
 http://www.mod.gov.cn/gfbw/jswj/16489422.html
@@ -346,12 +342,12 @@ http://www.mod.gov.cn/gfbw/jswj/16487981.html
   中国军队将参加东盟防长扩大会“三叉戟决心”实兵演习
 http://www.mod.gov.cn/gfbw/wzll/16487929.html
   探访陆军某边防旅二十连，品读官兵与六座界桩的故事
+http://www.mod.gov.cn/gfbw/wzll/16495582.html
+  纪念中国工农红军长征胜利90周年特刊丨甘以热血赴长路
+http://www.mod.gov.cn/gfbw/wzll/16495580.html
+  新疆军区某红军团官兵信念如磐——再出发，我心依旧
 http://www.mod.gov.cn/gfbw/wzll/16494464.html
   万里边疆行丨碧海唱响“同心曲”
-http://www.mod.gov.cn/gfbw/wzll/16493973.html
-  第八十集团军某旅引导官兵摆脱训练“舒适区”
-http://www.mod.gov.cn/gfbw/wzll/16493767.html
-  南沙某守备部队建立“官兵之家”，优化为兵服务质效
 http://www.mod.gov.cn/gfbw/jsxd/16491543.html
   中国海军第48批护航编队抵达马来西亚进行友好访问
 http://www.mod.gov.cn/gfbw/jsxd/16495067.html
@@ -407,12 +403,12 @@ http://www.mod.gov.cn/gfbw/jmsd/index.html
   军媒视点
 http://www.mod.gov.cn/gfbw/jmsd/16490931.html
   解放军报评论员：推进祖国统一大业
+http://www.mod.gov.cn/gfbw/jmsd/16495579.html
+  同心协力走好新的长征路
 http://www.mod.gov.cn/gfbw/jmsd/16495363.html
   强军论坛丨在“如果”中淬炼胜战之钥
 http://www.mod.gov.cn/gfbw/jmsd/16495306.html
   解放军报社论：弘扬伟大长征精神 奋进强国强军新征程
-http://www.mod.gov.cn/gfbw/jmsd/16494748.html
-  强军论坛丨从问题中提炼“胜战密码”
 http://www.mod.gov.cn/gfbw/gfdy/16487706.html
   云南省贡山县人武部结对帮扶独龙江乡马库村
 http://www.mod.gov.cn/gfbw/gfdy/16495061.html
@@ -421,8 +417,8 @@ http://www.mod.gov.cn/gfbw/gfdy/16495059.html
   云南省军地检察机关联手化解涉军执行积案——为戍边官兵撑起权益“保护伞”
 http://www.mod.gov.cn/gfbw/gfdy/16493246.html
   河南省漯河市召陵区探索军地一体应急保障新路径建立预储机制 贯通保障链路
-http://www.mod.gov.cn/gfbw/gfjy_index/16495053.html
-  40余名参战老兵齐聚江苏金湖为烈士母亲庆贺百岁寿辰——“烈士为国尽忠，我们替他尽孝”
+http://www.mod.gov.cn/gfbw/gfjy_index/16495623.html
+  “时代楷模”王戟是新时代青年要追的星
 http://www.mod.gov.cn/gfbw/gfjy_index/16495355.html
   寻根铸魂向百年·重走长征路｜翻越，岂止于皑皑雪山
 http://www.mod.gov.cn/gfbw/gfjy_index/16495066.html
@@ -530,7 +526,7 @@ http://www.mod.gov.cn/gfbw/gffw/_attachment/2026/06/23/16469120_2c1b5255a439fe69
 http://www.mod.gov.cn/gfbw/fgwx/_attachment/2026/08/29/16482045_39fe87031f5e43b702cd40c766cbb855.jpg
 http://www.mod.gov.cn/gfbw/jmsd/_attachment/2024/05/04/16490931_dcd32098417c948f79ee5da482a6b299.jpeg
 http://www.mod.gov.cn/gfbw/gfdy/_attachment/2026/09/20/16487706_b3976ec10633c6611756bb8b41668750.png
-http://www.mod.gov.cn/gfbw/gfjy_index/_attachment/2026/10/21/16495053_0e9f4e3863f71942ba454e40dc34627b.png
+http://www.mod.gov.cn/gfbw/gfjy_index/_attachment/2026/10/23/16495623_90c8a0ca9530a7bcc8797a02e5258cf5.jpg
 http://www.mod.gov.cn/gfbw/zt/_attachment/2026/08/20/16479151_1572281a51f5ab63ef863d55fdea15e0.jpg
 http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/10/22/16495268_77e6fa752ffbb3d5be149ebc13b8edb0.jpg
 http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/10/22/16495259_c5e251653807da0daa1d9959415053e7.jpg
