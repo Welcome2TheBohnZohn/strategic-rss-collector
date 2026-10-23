@@ -23,24 +23,6 @@ CNNVD动态
 重置
 收起 
 漏洞信息
-Drupal SAML SSO - Service Provider 跨站脚本漏洞
-低危
-收录时间：2026-10-22
-|
-更新时间: 2026-10-23 16:25:48
-CNNVD编号：CNNVD-2026-49113541
-Drupal SAML SSO - Service Provider 授权问题漏洞
-低危
-收录时间：2026-10-22
-|
-更新时间: 2026-10-23 16:25:47
-CNNVD编号：CNNVD-2026-66867511
-Drupal SAML SSO - Service Provider 信任管理问题漏洞
-中危
-收录时间：2026-10-22
-|
-更新时间: 2026-10-23 16:25:46
-CNNVD编号：CNNVD-2026-35489900
 Drupal SAML SSO - Service Provider 输入验证错误漏洞
 中危
 收录时间：2026-10-22
@@ -53,36 +35,54 @@ Drupal SAML SSO - Service Provider 授权问题漏洞
 |
 更新时间: 2026-10-23 16:25:49
 CNNVD编号：CNNVD-2026-12278303
-Bytecode Alliance wasmtime 后置链接漏洞
+Drupal Calculate Working Days 授权问题漏洞
+中危
+收录时间：2026-10-22
+|
+更新时间: 2026-10-23 16:26:07
+CNNVD编号：CNNVD-2026-74721341
+Drupal Monobank payment API 加密问题漏洞
+低危
+收录时间：2026-10-22
+|
+更新时间: 2026-10-23 16:26:06
+CNNVD编号：CNNVD-2026-83648604
+Drupal Webform 资源管理错误漏洞
+中危
+收录时间：2026-10-22
+|
+更新时间: 2026-10-23 16:25:34
+CNNVD编号：CNNVD-2026-93859545
+Drupal Webform 授权问题漏洞
+中危
+收录时间：2026-10-22
+|
+更新时间: 2026-10-23 16:25:32
+CNNVD编号：CNNVD-2026-30204950
+Drupal Webform 授权问题漏洞
+中危
+收录时间：2026-10-22
+|
+更新时间: 2026-10-23 16:25:27
+CNNVD编号：CNNVD-2026-35413757
+Drupal Tawk.to - Live 跨站请求伪造漏洞
+中危
+收录时间：2026-10-22
+|
+更新时间: 2026-10-23 16:25:27
+CNNVD编号：CNNVD-2026-12866938
+AiDot Linkind Matter Smart Plug 安全漏洞
 高危
 收录时间：2026-10-22
 |
-更新时间: 2026-10-23 16:27:07
-CNNVD编号：CNNVD-2026-11646845
-Bytecode Alliance wasmtime 资源管理错误漏洞
+更新时间: 2026-10-23 16:26:21
+CNNVD编号：CNNVD-2026-40798412
+Drupal Artificial Intelligence 授权问题漏洞
 中危
 收录时间：2026-10-22
 |
-更新时间: 2026-10-23 16:27:06
-CNNVD编号：CNNVD-2026-83816790
-KNIME Business Hub 资源管理错误漏洞
-中危
-收录时间：2026-10-22
-|
-更新时间: 2026-10-23 16:27:05
-CNNVD编号：CNNVD-2026-38091888
-KNIME Business Hub 信息泄露漏洞
-中危
-收录时间：2026-10-22
-|
-更新时间: 2026-10-23 16:27:04
-CNNVD编号：CNNVD-2026-77918018
-KNIME Business Hub 授权问题漏洞
-中危
-收录时间：2026-10-22
-|
-更新时间: 2026-10-23 16:27:04
-CNNVD编号：CNNVD-2026-11013260
+更新时间: 2026-10-23 16:26:07
+CNNVD编号：CNNVD-2026-30584080
 共 406492 条
 12345640650
 前往页
