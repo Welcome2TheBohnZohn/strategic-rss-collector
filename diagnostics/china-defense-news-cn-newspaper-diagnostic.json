@@ -1,51 +1,5 @@
 {
-  "issue_date": "2026-10-22",
-  "issue_pages": [
-    {
-      "paper_number": "01",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-10-22&paperName=zggfb&paperNumber=01",
-      "links": 71,
-      "article_links": 3
-    },
-    {
-      "paper_number": "02",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-10-22&paperName=zggfb&paperNumber=02",
-      "links": 51,
-      "article_links": 0
-    },
-    {
-      "paper_number": "03",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-10-22&paperName=zggfb&paperNumber=03",
-      "links": 63,
-      "article_links": 1
-    },
-    {
-      "paper_number": "04",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-10-22&paperName=zggfb&paperNumber=04",
-      "links": 63,
-      "article_links": 1
-    }
-  ],
-  "candidates": [
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-22&paperNumber=01&articleid=988812",
-      "anchor_title": "六盘山下，风展红旗如画"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-22&paperNumber=01&articleid=988811",
-      "anchor_title": "在新时代长征路上续写荣光"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-22&paperNumber=01&articleid=988814",
-      "anchor_title": "实景课堂让红色历史可触可感"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-22&paperNumber=03&articleid=988816",
-      "anchor_title": "让长征故事常讲常新"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-22&paperNumber=04&articleid=988810",
-      "anchor_title": "勇闯天险急先锋"
-    }
-  ]
+  "issue_date": null,
+  "issue_pages": [],
+  "candidates": []
 }

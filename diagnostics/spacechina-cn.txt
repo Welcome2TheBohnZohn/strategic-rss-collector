@@ -6,26 +6,26 @@ Include regex: spacechina\.com/n25/n2014789/.+
 Include text regex: 
 
 Candidate links: 50
-All links discovered: 172
+All links discovered: 173
 
 === MATCHED CANDIDATES ===
 
 https://www.spacechina.com/n25/n2014789/n2014819/c3578292/content.html
   关于有关企业擅自将中国航天科技集团有限公司作为协办单位发布《2022中国（北京）国际航空航天技...
-https://www.spacechina.com/n25/n2014789/n2014804/c4731541/content.html
-  我国牵头修订的国际标准（Ed2）《航天系统 —航天器空间碎片减缓详细要求》正式发布
 https://www.spacechina.com/n25/n2014789/n2014809/c4734381/content.html
   航天科技十一院YH-1000S无人运输机圆满完成首次大载重多件连投试验...
 https://www.spacechina.com/n25/n2014789/n2014809/c4734449/content.html
   航天科技九院7107厂以“三能协同”为抓手 全力以赴“战”批产
-https://www.spacechina.com/n25/n2014789/n2014809/c4732515/content.html
-  航天科技九院7107厂精密加工事业部严把质量关口 冲刺生产目标
 https://www.spacechina.com/n25/n2014789/n2014809/c4732561/content.html
   航天科技五院西安分院以严慎细实举措誓夺年度型号任务圆满成功
 https://www.spacechina.com/n25/n2014789/n2014809/c4732554/content.html
   航天科技集团中国乐凯乐凯胶片新研产品亮相平遥国际摄影大展
 https://www.spacechina.com/n25/n2014789/n2014809/c4732475/content.html
   航天科技八院811所狠抓产品高质量交付与批产提质增效侧记
+https://www.spacechina.com/n25/n2014789/n2014804/c4736321/content.html
+  庆祝中国航天事业创建70周年离退休人员文艺演出圆满举行
+https://www.spacechina.com/n25/n2014789/n2014809/c4732575/content.html
+  航天科技九院704所商业星载导航接收机完成首次在轨验证
 https://www.spacechina.com/n25/n2014789/n2014814/c4593148/content.html
   航天科技集团资源卫星中心接待南非代表团深化双方沟通合作
 https://www.spacechina.com/n25/n2014789/n2014814/c4547665/content.html
@@ -36,8 +36,6 @@ https://www.spacechina.com/n25/n2014789/n2014804/c4729726/content.html
   航天科技集团将携近百项高新科技成果亮相第十六...
 https://www.spacechina.com/n25/n2014789/n2014804/c4722789/content.html
   江山万里星河阔 七秩航天路正长——写在中国航...
-https://www.spacechina.com/n25/n2014789/n2014804/c4715521/content.html
-  长征六号改运载火箭成功发射遥感四十号04组卫...
 https://www.spacechina.com/n25/n2014789/n2014799/c4641081/content.html
   航天科技集团召开“七一”大会暨树立和践行正确...
 https://www.spacechina.com/n25/n2014789/n2014799/c4544883/content.html
@@ -50,28 +48,32 @@ https://www.spacechina.com/n25/n2014789/n2014814/c4608394/content.html
   航天科技集团长城公司举办青年国际市场营销知识大赛
 https://www.spacechina.com/n25/n2014789/n2014814/c4581068/content.html
   航天科技集团所属长城公司 “十五五”开局攻坚实录
+https://www.spacechina.com/n25/n2014789/n2014809/c4736261/content.html
+  航天科技八院浦江四号卫星在轨应用取得阶段性成果
 https://www.spacechina.com/n25/n2014789/n2014814/c4699641/content.html
   航天科技集团新研产品亮相2026世界机器人大会
 https://www.spacechina.com/n25/n2014789/n2014819/c2793422/content.html
   关于清理拖欠民营企业账款线索信访联系方式的通知
-https://www.spacechina.com/n25/n2014789/n2014809/c4731201/content.html
-  航天科技八院802所智慧物资管理系统研发纪实
 https://www.spacechina.com/n25/n2014789/n2014814/c4605995/content.html
   航天科技九院最新产业成果亮相汉诺威工业博览会
 https://www.spacechina.com/n25/n2014789/n2014814/c4600529/content.html
   长六火箭成功发射巴基斯坦PRSC-EO3卫星
 https://www.spacechina.com/n25/n2014789/n2014804/c4728390/content.html
   长十二火箭成功发射卫星互联网低轨27组卫星
-https://www.spacechina.com/n25/n2014789/n2014809/c4732501/content.html
-  航天科技四院41所扎实推进质量提升工作侧记
+https://www.spacechina.com/n25/n2014789/n2014809/c4732621/content.html
+  航天科技六院举办太白县优质农副产品推介活动
 https://www.spacechina.com/n25/n2014789/n2014814/c4533791/content.html
   航天科技集团长征国际亮相阿布扎比无人系统展
 https://www.spacechina.com/n25/n2014789/n2014819/c3566705/content.html
   关于公布打击假冒国企专项行动举报方式的公告
+https://www.spacechina.com/n25/n2014789/n2014804/c4736201/content.html
+  走好新时代航天人的长征路——写在中...
+https://www.spacechina.com/n25/n2014789/n2014804/c4736181/content.html
+  神舟二十三号航天员乘组在轨致敬红军...
+https://www.spacechina.com/n25/n2014789/n2014804/c4731541/content.html
+  我国牵头修订的国际标准（Ed2）《...
 https://www.spacechina.com/n25/n2014789/n2014804/c4731043/content.html
   航天科技集团亮相第77届国际宇航大...
-https://www.spacechina.com/n25/n2014789/n2014804/c4729923/content.html
-  航天科技集团各级党组织推动学习贯彻...
 https://www.spacechina.com/n25/n2014789/n2014799/c4712463/content.html
   航天科技集团召开“9·21”质量日...
 https://www.spacechina.com/n25/n2014789/n2014799/c4709461/content.html
@@ -108,8 +110,6 @@ https://www.spacechina.com/n25/n2014789/n2014819/c4707383/content.html
   严正声明
 https://www.spacechina.com/n25/n2014789/index.html
   新闻中心
-https://www.spacechina.com/n25/n2014789/n2014804/index.html
-  集团要闻
 
 === ALL DISCOVERED LINKS ===
 
@@ -234,8 +234,8 @@ https://www.spacechina.com/n25/n1995122/n1997293/index.html
   企业信息
 https://www.spacechina.com/n25/n1995122/n1997298/index.html
   人才招聘
-https://www.spacechina.com/n25/n2014789/n2014804/c4731541/content.html
-  我国牵头修订的国际标准（Ed2）《航天系统 —航天器空间碎片减缓详细要求》正式发布
+https://www.spacechina.com/n25/n2014789/n2014804/c4736321/content.html
+  庆祝中国航天事业创建70周年离退休人员文艺演出圆满举行
 https://www.spacechina.com/n25/n2014789/n2014804/c4729726/content.html
   航天科技集团将携近百项高新科技成果亮相第十六...
 https://www.spacechina.com/n25/n2014789/n2014804/c4728390/content.html
@@ -244,12 +244,14 @@ https://www.spacechina.com/n25/n2014789/n2014804/c4726726/content.html
   航天科技集团举行升旗仪式
 https://www.spacechina.com/n25/n2014789/n2014804/c4722789/content.html
   江山万里星河阔 七秩航天路正长——写在中国航...
-https://www.spacechina.com/n25/n2014789/n2014804/c4715521/content.html
-  长征六号改运载火箭成功发射遥感四十号04组卫...
+https://www.spacechina.com/n25/n2014789/n2014804/c4736201/content.html
+  走好新时代航天人的长征路——写在中...
+https://www.spacechina.com/n25/n2014789/n2014804/c4736181/content.html
+  神舟二十三号航天员乘组在轨致敬红军...
+https://www.spacechina.com/n25/n2014789/n2014804/c4731541/content.html
+  我国牵头修订的国际标准（Ed2）《...
 https://www.spacechina.com/n25/n2014789/n2014804/c4731043/content.html
   航天科技集团亮相第77届国际宇航大...
-https://www.spacechina.com/n25/n2014789/n2014804/c4729923/content.html
-  航天科技集团各级党组织推动学习贯彻...
 https://www.spacechina.com/n25/n2014789/n2014799/c4717181/content.html
   航天科技集团召开档案工作会
 https://www.spacechina.com/n25/n2014789/n2014799/c4641081/content.html
@@ -270,6 +272,12 @@ https://www.spacechina.com/n25/n2014789/n2014799/c4702321/content.html
   航天科技集团部署开展2026年“质...
 https://www.spacechina.com/n25/n2014789/n2014799/c4697461/content.html
   航天科技集团党组传达学习习近平总书...
+https://www.spacechina.com/n25/n2014789/n2014809/c4736261/content.html
+  航天科技八院浦江四号卫星在轨应用取得阶段性成果
+https://www.spacechina.com/n25/n2014789/n2014809/c4732621/content.html
+  航天科技六院举办太白县优质农副产品推介活动
+https://www.spacechina.com/n25/n2014789/n2014809/c4732575/content.html
+  航天科技九院704所商业星载导航接收机完成首次在轨验证
 https://www.spacechina.com/n25/n2014789/n2014809/c4732554/content.html
   航天科技集团中国乐凯乐凯胶片新研产品亮相平遥国际摄影大展
 https://www.spacechina.com/n25/n2014789/n2014809/c4732561/content.html
@@ -284,12 +292,6 @@ https://www.spacechina.com/n25/n2014789/n2014809/c4734421/content.html
   航天科技八院八部试验队攻坚侧记
 https://www.spacechina.com/n25/n2014789/n2014809/c4734381/content.html
   航天科技十一院YH-1000S无人运输机圆满完成首次大载重多件连投试验...
-https://www.spacechina.com/n25/n2014789/n2014809/c4732515/content.html
-  航天科技九院7107厂精密加工事业部严把质量关口 冲刺生产目标
-https://www.spacechina.com/n25/n2014789/n2014809/c4732501/content.html
-  航天科技四院41所扎实推进质量提升工作侧记
-https://www.spacechina.com/n25/n2014789/n2014809/c4731201/content.html
-  航天科技八院802所智慧物资管理系统研发纪实
 https://www.spacechina.com/n25/n2014789/n2014814/c4699641/content.html
   航天科技集团新研产品亮相2026世界机器人大会
 https://mp.weixin.qq.com/s/Yt3B7WiOp9SW3Cy7KSVNBQ
@@ -316,24 +318,24 @@ https://mp.weixin.qq.com/s/Sp6vBhWNvf-INQQ4RUtJNw
 https://www.news.cn/photo/20260730/57c05645ad7d4eb6af7647385e128048/c.html
 http://gd.news.cn/20260706/6ae067203bb14d75aa9d615a3a548841/c.html
 https://www.stdaily.com/web/gdxw/2026-07/06/content_542450.html
+https://www.news.cn/20261021/88625fe19fa94c1386d57c0d1920081f/c.html
+  新华社：神舟二十三号航天员乘组在轨致敬红军长征胜利90周年
 https://www.news.cn/20261019/e9fdf20532104009913a6a6f257e51b2/c.html
   新华社：“天宫”迎来新收获
 https://www.news.cn/20261017/a6e10158c7c048de8a8688d5119c39d4/c.html
   新华社：神二十航天员寄语全国青少年
-https://www.news.cn/20261015/2a38f3a6e07347d2aa054371fa2945ba/c.html
-  新华社：“羲和号”升空5周年 科学成果对外公布
 http://www.sasac.gov.cn/n2588025/n2643314/c35392672/content.html
 http://www.sasac.gov.cn/n2588025/n2643314/c35351188/content.html
 http://www.sasac.gov.cn/n2588025/n2643314/c34380965/content.html
 http://www.sasac.gov.cn/n2588025/n2643314/c34041102/content.html
 http://www.sasac.gov.cn/n2588025/n2643314/c33954662/content.html
 http://www.sasac.gov.cn/n2588025/n2643314/c33667926/content.html
+http://www.sasac.gov.cn/n2588025/n2643314/c36082277/content.html
+  程福波会见空客公司首席执行官傅里
 http://www.sasac.gov.cn/n2588025/n2643314/c35999480/content.html
   《新型工业化》刊发程福波署名文章
 http://www.scio.gov.cn/live/2026/39602/index.html
   国新办举行“开局起步‘十五五’”系列主题新闻发布会
-http://www.sasac.gov.cn/n2588025/n2643314/c36059338/content.html
-  国务院国资委举办第五届中央企业熠星创新创意大赛决赛
 http://zhuanti.spacechina.com/n4716421/index.html
 http://zhuanti.spacechina.com/n4615143/index.html
 http://zhuanti.spacechina.com/n4591921/
