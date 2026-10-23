@@ -1,5 +1,5 @@
 Strategic RSS Collector Status
-Generated: 2026-10-23 12:11:48 UTC
+Generated: 2026-10-23 17:34:12 UTC
 
 Status meanings:
 OK = Feed contains one or more items
@@ -135,7 +135,7 @@ FAILED = Source could not be retrieved
   Start URL: https://t.me/s/MFARussia
   Resolved URL: https://t.me/s/MFARussia
   HTTP: 200
-  Attempted items/articles: 14
+  Attempted items/articles: 13
   Items/articles with text: 12
   Items/articles with dates: 12
   RSS feed items: 12
@@ -212,9 +212,9 @@ FAILED = Source could not be retrieved
   Links discovered: 310
   Candidate links/items: 10
   Attempted items/articles: 10
-  Items/articles with text: 9
-  Items/articles with dates: 9
-  RSS feed items: 9
+  Items/articles with text: 10
+  Items/articles with dates: 10
+  RSS feed items: 10
   SSL verification: OFF
   Request timeout: 12s
   Max retries: 1
@@ -225,7 +225,7 @@ FAILED = Source could not be retrieved
   Start URL: https://www.spacechina.com/n25/n2014789/index.html
   Resolved URL: https://www.spacechina.com/n25/n2014789/index.html
   HTTP: 200
-  Links discovered: 173
+  Links discovered: 172
   Candidate links/items: 50
   Attempted items/articles: 12
   Items/articles with text: 12
