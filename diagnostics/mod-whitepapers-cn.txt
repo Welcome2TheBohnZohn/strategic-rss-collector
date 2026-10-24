@@ -6,7 +6,7 @@ Include regex: /gfbw/fgwx/bps/
 Include text regex: 
 
 Candidate links: 28
-All links discovered: 179
+All links discovered: 178
 
 === MATCHED CANDIDATES ===
 
@@ -295,15 +295,13 @@ http://www.mod.gov.cn/gfbw/fgwx/bps/4846424.html
   《新时代的中国国防》白皮书（全文） 2019-07-24 11:24
 http://www.mod.gov.cn/gfbw/qwfb/16495751.html
   中共中央政治局召开会议 习近平主持会议
-http://www.mod.gov.cn/gfbw/qwfb/16495595.html
-  习近平出席纪念中国工农红军长征胜利90周年大会并发表重要讲话
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16495390.html
-  讲话全文
+http://www.mod.gov.cn/gfbw/qwfb/16495743.html
+  习近平向2026全球治理论坛（雄安）致信
 http://www.mod.gov.cn/gfbw/qwfb/16495537.html
   习近平对西藏那曲市巴青县7.0级地震作出重要指示
 http://www.mod.gov.cn/gfbw/qwfb/16493868.html
   习近平在内蒙古乌兰察布考察
-http://www.mod.gov.cn/gfbw/qwfb/16495575.html
+http://www.mod.gov.cn/gfbw/qwfb/16495839.html
   全军官兵认真学习习主席在纪念中国工农红军长征胜利90周年大会上的重要讲话
 http://www.mod.gov.cn/gfbw/spbb_214126/16495225.html
   《伟大远征》第七集《丰碑》
