@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>National University of Defense Technology Journal</title><link>https://journal.nudt.edu.cn/</link><description>Generated RSS feed for National University of Defense Technology Journal</description><language>zh-CN</language><lastBuildDate>Sun, 25 Oct 2026 11:45:13 +0000</lastBuildDate><item><title>多核数字信号处理器矩阵乘卷积算法性能评测</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/202301009?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/202301009?tab=abstract</guid><pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate><description>(1. 国防科技大学 计算机学院, 湖南 长沙 410073;2. 国防科技大学 并行与分布处理国防科技重点实验室, 湖南 长沙 410073)
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>National University of Defense Technology Journal</title><link>https://journal.nudt.edu.cn/</link><description>Generated RSS feed for National University of Defense Technology Journal</description><language>zh-CN</language><lastBuildDate>Sun, 25 Oct 2026 16:35:21 +0000</lastBuildDate><item><title>多核数字信号处理器矩阵乘卷积算法性能评测</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/202301009?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/202301009?tab=abstract</guid><pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate><description>(1. 国防科技大学 计算机学院, 湖南 长沙 410073;2. 国防科技大学 并行与分布处理国防科技重点实验室, 湖南 长沙 410073)
 
 王庆林(1987—),男,贵州思南人,副研究员,博士,硕士生导师,E-mail:wangqinglin_thu@163.com; 裴向东(通信作者),男,山西长治人,博士研究生,E-mail:18903588277@163.com
 
@@ -405,7 +405,8 @@ i
 其中，
 λ
 为碰撞过程中的嵌入深度或弹性变形，
-\begin{equation}K_{i}\end{equation}
+K
+i
 为碰撞刚度。对于机翼气动弹性系统，碰撞力可表示为：
 （2）
 其中，
@@ -466,7 +467,8 @@ c
 分别为来流的压强和声速；
 γ
 为比热比；
-\begin{equation}v_{z}\end{equation}
+v
+z
 为翼面下洗速度，对于上下表面可以分别表示为
 v
 z
@@ -595,22 +597,28 @@ mx
 a
 b
 为机翼距弹性轴的质量矩；
-\begin{equation}I_{α}\end{equation}
+I
+α
 =
 m
 (
-\begin{equation}r_{a}\end{equation}
+r
+a
 b
 )
 2
 为机翼相对于弹性轴的惯性矩；
-\begin{equation}c_{h}\end{equation}
+c
+h
 、
-\begin{equation}c_{α}\end{equation}
+c
+α
 为两个方向的阻尼系数；
-\begin{equation}K_{h}\end{equation}
+K
+h
 、
-\begin{equation}K_{α}\end{equation}
+K
+α
 分别为机翼沉浮和俯仰方向的结构刚度系数；
 e
 1
@@ -669,14 +677,16 @@ t
 /
 b
 ，
-\begin{equation}ω_{h}\end{equation}
+ω
+h
 =
 K
 h
 /
 m
 ，
-\begin{equation}ω_{α}\end{equation}
+ω
+α
 =
 K
 α
@@ -687,34 +697,44 @@ I
 ω
 ¯
 =
-\begin{equation}ω_{h}\end{equation}
+ω
+h
 /
-\begin{equation}ω_{α}\end{equation}
+ω
+α
 ，
 μ
 =
 m
 /(4
-\begin{equation}ρb^{2}\end{equation}
+ρ
+b
+2
 )，
 V
 =
 U
 ∞
 /(
-\begin{equation}bω_{α}\end{equation}
+b
+ω
+α
 )，
-\begin{equation}ζ_{h}\end{equation}
+ζ
+h
 =
-\begin{equation}c_{h}\end{equation}
+c
+h
 /
 m
 K
 h
 ，
-\begin{equation}ζ_{α}\end{equation}
+ζ
+α
 =
-\begin{equation}c_{α}\end{equation}
+c
+α
 /
 I
 α
@@ -724,7 +744,8 @@ K
 μ
 s
 =
-\begin{equation}m_{s}\end{equation}
+m
+s
 /
 m
 ，
@@ -761,7 +782,8 @@ p
 ω
 s
 /
-\begin{equation}ω_{α}\end{equation}
+ω
+α
 ，
 δ
 s
@@ -874,15 +896,19 @@ v
 =5 000，
 Ma
 =5.0，
-\begin{equation}x_{a}\end{equation}
+x
+a
 =0.25，
-\begin{equation}r_{a}\end{equation}
+r
+a
 =0.5，
 a
 =-0.2，
-\begin{equation}ζ_{h}\end{equation}
+ζ
+h
 =0.01，
-\begin{equation}ζ_{α}\end{equation}
+ζ
+α
 =0.01，
 ω
 ¯
@@ -1489,7 +1515,7 @@ Theodorsen T. General theory of aerodynamic instability and the mechanism of flu
 扫码关注
 官方微信
 您是今天第
-3311
+65
 位访客
 总访问量：
 310428478
@@ -1852,6 +1878,9 @@ t
 n
 (1)
 设向量
+，
+，
+，
 I
 =
 i
@@ -1976,6 +2005,8 @@ n
 中元素
 s
 与卷积核滤波器
+，
+，
 {
 0
 ，
@@ -2109,6 +2140,7 @@ t
 分别是时刻
 t
 前向和后向隐藏层的输出；
+和
 h
 →
 t
@@ -2294,6 +2326,7 @@ N
 y
 n
 表示模型预测样本的类别；
+，
 q
 ^
 n
@@ -2304,6 +2337,7 @@ n
 个样本对应于类别
 m
 的预测概率；
+，
 p
 ^
 n
@@ -2346,6 +2380,8 @@ x
 2
 (12)
 其中，
+（
+）
 ∇
 x
 f
@@ -2353,6 +2389,8 @@ f
 x
 ）
 表示模型输出的梯度，
+（
+）
 ∇
 x
 f
@@ -2466,6 +2504,7 @@ X
 i
 (15)
 其中，
+，
 x
 norm
 i
@@ -2504,6 +2543,9 @@ error
 ]
 作为评价指标。
 在意图识别任务中，计算某类意图的精确率、 召回率和 F1分数时，将该类的样本视为正类，而其余类别的样本则被视为负类。各项指标的计算公式如下所示：
+准
+确
+率
 准确率
 =
 P
@@ -2523,6 +2565,9 @@ T
 N
 F
 (16)
+精
+确
+率
 精确率
 =
 P
@@ -2533,6 +2578,9 @@ T
 P
 F
 (17)
+召
+回
+率
 召回率
 =
 P
@@ -2543,6 +2591,8 @@ T
 N
 F
 (18)
+分
+数
 F
 1
 分数
@@ -3172,9 +3222,9 @@ Jiang Tingshuai, Yu Tianyuan, Bai Liang, et al. Maritime and aerial target inten
 Copy
 计量
 文章访问量:
-272
+273
 HTML全文浏览量:
-275
+276
 PDF下载量:
 651
 被引次数:
@@ -3365,7 +3415,7 @@ Zhu Wenbo, Webb Z T, Mao Kaitian,et al. A deep learning approach for process dat
 扫码关注
 官方微信
 您是今天第
-3311
+67
 位访客
 总访问量：
 310428478
@@ -5464,9 +5514,9 @@ Deng Yufan, Song Zhilin, Pu Tianle, et al. GNN-guided approach to enhancing mixe
 Copy
 计量
 文章访问量:
-281
+283
 HTML全文浏览量:
-261
+262
 PDF下载量:
 554
 被引次数:
@@ -5591,7 +5641,7 @@ ACHTERBERG T. SCIP:solving constraint integer programs[J]. Mathematical Programm
 扫码关注
 官方微信
 您是今天第
-3311
+68
 位访客
 总访问量：
 310428478
@@ -6471,7 +6521,7 @@ Copy
 文章访问量:
 29438
 HTML全文浏览量:
-4081
+4082
 PDF下载量:
 10041
 被引次数:
@@ -6546,7 +6596,7 @@ HE W, LIU X H, XIAN R C,et al. Kinetics characteristics and bremsstrahlung of ar
 扫码关注
 官方微信
 您是今天第
-3311
+68
 位访客
 总访问量：
 310428478
@@ -7964,11 +8014,11 @@ Pu Tianle, Zhang Bingxu, Zeng Li, et al. Pre-training and fine-tuning: a unified
 Copy
 计量
 文章访问量:
-261
+262
 HTML全文浏览量:
-243
+244
 PDF下载量:
-538
+539
 被引次数:
 0
 图
@@ -8075,7 +8125,7 @@ Sanokowski S, Berghammer W, Hochreiter S,et al. Variational annealing on graphs 
 扫码关注
 官方微信
 您是今天第
-3311
+69
 位访客
 总访问量：
 310428478
