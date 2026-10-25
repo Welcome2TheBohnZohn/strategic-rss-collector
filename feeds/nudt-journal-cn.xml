@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>National University of Defense Technology Journal</title><link>https://journal.nudt.edu.cn/</link><description>Generated RSS feed for National University of Defense Technology Journal</description><language>zh-CN</language><lastBuildDate>Sun, 25 Oct 2026 16:35:21 +0000</lastBuildDate><item><title>多核数字信号处理器矩阵乘卷积算法性能评测</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/202301009?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/202301009?tab=abstract</guid><pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate><description>(1. 国防科技大学 计算机学院, 湖南 长沙 410073;2. 国防科技大学 并行与分布处理国防科技重点实验室, 湖南 长沙 410073)
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>National University of Defense Technology Journal</title><link>https://journal.nudt.edu.cn/</link><description>Generated RSS feed for National University of Defense Technology Journal</description><language>zh-CN</language><lastBuildDate>Sun, 25 Oct 2026 21:02:48 +0000</lastBuildDate><item><title>多核数字信号处理器矩阵乘卷积算法性能评测</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/202301009?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/202301009?tab=abstract</guid><pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate><description>(1. 国防科技大学 计算机学院, 湖南 长沙 410073;2. 国防科技大学 并行与分布处理国防科技重点实验室, 湖南 长沙 410073)
 
 王庆林(1987—),男,贵州思南人,副研究员,博士,硕士生导师,E-mail:wangqinglin_thu@163.com; 裴向东(通信作者),男,山西长治人,博士研究生,E-mail:18903588277@163.com
 
@@ -103,7 +103,7 @@ Deepseek
 Kimi
 English
 引用本文:
-钮耀斌, 杨伟奇, 黄伟. 采用碰振吸振子的高速机翼气动弹性系统阵风响应减缓[J]. 国防科技大学学报, 2026, 48(5)：205-212.
+钮耀斌, 杨伟奇, 黄伟. 采用碰振吸振子的高速机翼气动弹性系统阵风响应减缓[J]. 国防科技大学学报, 2026, 48(5): 205-212.
 Citation:
 Niu Yaobin, Yang Weiqi, Huang Wei. Gust response alleviation of aircraft wing aeroelastic system in supersonic flow using vibro-impact oscillator[J]. Journal of National University of Defense Technology, 2026, 48(5): 205-212.
 采用碰振吸振子的高速机翼气动弹性系统阵风响应减缓
@@ -154,7 +154,7 @@ National Key Laboratory of Advanced Propulsion Technology, National University o
 ，
  Huang Wei
 Affiliation:
-N</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260519?st=search&amp;amp;tab=abstract&lt;/p&gt;&lt;pre&gt;采用碰振吸振子的高速机翼气动弹性系统阵风响应减缓
+</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260519?st=search&amp;amp;tab=abstract&lt;/p&gt;&lt;pre&gt;采用碰振吸振子的高速机翼气动弹性系统阵风响应减缓
 EI•CA•INSPEC•JST•SCOPUS
 中文核心期刊•CSCD•WJCI
 首页
@@ -184,7 +184,7 @@ Deepseek
 Kimi
 English
 引用本文:
-钮耀斌, 杨伟奇, 黄伟. 采用碰振吸振子的高速机翼气动弹性系统阵风响应减缓[J]. 国防科技大学学报, 2026, 48(5)：205-212.
+钮耀斌, 杨伟奇, 黄伟. 采用碰振吸振子的高速机翼气动弹性系统阵风响应减缓[J]. 国防科技大学学报, 2026, 48(5): 205-212.
 Citation:
 Niu Yaobin, Yang Weiqi, Huang Wei. Gust response alleviation of aircraft wing aeroelastic system in supersonic flow using vibro-impact oscillator[J]. Journal of National University of Defense Technology, 2026, 48(5): 205-212.
 采用碰振吸振子的高速机翼气动弹性系统阵风响应减缓
@@ -240,7 +240,7 @@ National Key Laboratory of Advanced Propulsion Technology, National University o
 摘要
 HTML全文
 图(10)表(0)
-参考文献
+参考文献(31)
 相似文献
 出版信息
 访问统计
@@ -1396,6 +1396,151 @@ RMS of response acceleration varies with initial gap
 Fig.
 10
 RMS of response acceleration varies with installation position
+[1]
+杨超, 邱祈生, 周宜涛, 等. 飞机阵风响应减缓技术综述[J]. 航空学报, 2022, 43(10): 527350.
+Yang Chao, Qiu Qisheng, Zhou Yitao, et al. Review of aircraft gust alleviation technology[J]. Acta Aeronautica et Astronautica Sinica, 2022, 43(10): 527350. (in Chinese)
+[2]
+Yue Chengyu, Zhao Yonghui. Active disturbance rejection controller design for alleviation of gust-induced aeroelastic responses[J]. Aerospace Science and Technology, 2023, 133: 108116.
+[3]
+Fournier H, Massioni P, Tu Pham M, et al. Robust gust load alleviation of flexible aircraft equipped with lidar[J]. Journal of Guidance, Control, and Dynamics, 2021, 45(1): 58-72.
+[4]
+张育鸣, 戴玉婷, 黄广靖, 等. 柔性变形后缘翼型阵风减缓及气动噪声分析[J]. 航空学报, 2024, 45(10): 129219.
+Zhang Yuming, Dai Yuting, Huang Guangjing, et al. Gust alleviation and aeroacoustic characteristics of flexible morphing trailing edge airfoil[J]. Acta Aeronautica et Astronautica Sinica, 2024, 45(10): 129219. (in Chinese)
+[5]
+Yao Zhuoer, Kan Zi, Li Daochun. Gust response of spanwise morphing wing by simulation and wind tunnel testing[J]. Aerospace, 2023, 10(4): 328.
+[6]
+Niu Yaobin, Wang Zhongwei, Yang Huixin, et al. Aerothermoelastic response of hypersonic 2-D lifting surface[J]. Fluctuation and Noise Letters, 2012, 11(2): 1250017.
+[7]
+Masrour J, Sadati S H, Shahravi M. Gust response analysis based on a nonlinear structural model and the unsteady aerodynamics of a flexible aircraft[J]. Aircraft Engineering and Aerospace Technology, 2023, 95(6): 899-911.
+[8]
+王浩, 罗振兵, 邓雄, 等. 基于合成双射流的翼型阵风载荷减缓[J]. 航空学报, 2024, 45(16): 129660.
+Wang Hao, Luo Zhenbing, Deng Xiong, et al. Airfoil gust load alleviation based on dual synthetic jets[J]. Acta Aeronautica et Astronautica Sinica, 2024, 45(16): 129660. (in Chinese)
+[9]
+Li Da, Yang Hui, Qi Na, et al. Observer-based sliding mode control for piezoelectric wing bending-torsion coupling flutter involving delayed output[J]. Journal of Vibration and Control, 2021, 27(15/16): 1824-1841.
+[10]
+Yuan Jiaxin, Qiu Zhan, Wang Fuxin. Sliding mode observer controller design for a two dimensional aeroelastic system with gust load[J]. Asian Journal of Control, 2019, 21(1): 130-142.
+[11]
+Li Yonghong, Qin Ning. Gust load alleviation on an aircraft wing by trailing edge circulation control[J]. Journal of Fluids and Structures, 2021, 107: 103407.
+[12]
+De Souza A D R, Vuillemin P, Poussot-Vassal C, et al. Gust load alleviation using reduced-order aeroelastic models and observer-based robust control[J]. Journal of Guidance Control and Dynamics, 2023, 46(5): 949-957.
+[13]
+Carrillo Córcoles X, Mertens C, Sciacchitano A, et al. Effect of wing stiffness and folding wingtip release threshold on gust loads[J]. Journal of Aircraft, 2023, 60(6): 1917-1936.
+[14]
+Hu Yating, Dai Yuting, Wu You, et al. Time-domain feedforward control for gust response alleviation based on seamless morphing wing[J]. AIAA Journal, 2022, 60(10): 5707-5722.
+[15]
+He Tianyi, Su Weihua. Robust control of gust-induced vibration of highly flexible aircraft[J]. Aerospace Science and Technology, 2023, 143: 108703.
+[16]
+Zhou Yitao, Wu Zhigang, Yang Chao. Gust alleviation and wind tunnel test by using combined feedforward control and feedback control[J]. Aerospace, 2022, 9(4): 225.
+[17]
+钮耀斌, 王中伟, 黄伟. 高速飞行器间隙非线性机翼颤振的非线性能量阱抑制[J]. 国防科技大学学报, 2024, 46(2): 79-85.
+Niu Yaobin, Wang Zhongwei, Huang Wei. Suppression of nonlinear flutter for a wing with freeplay of high speed aircraft using nonlinear energy sink[J]. Journal of National University of Defense Technology, 2024, 46(2): 79-85. (in Chinese)
+[18]
+Eugeni M, Saltari F, Mastroddi F. Structural damping models for passive aeroelastic control[J]. Aerospace Science and Technology, 2021, 118: 107011.
+[19]
+Liu Haojie, Wang Xiao. Aeroservoelastic design of piezo-composite wings for gust load alleviation[J]. Journal of Fluids and Structures, 2019, 88: 83-99.
+[20]
+Guo Shijun, De Los Monteros J, Liu Ying. Gust alleviation of a large aircraft with a passive twist wingtip[J]. Aerospace, 2015, 2(2): 135-154.
+[21]
+He Shun, Guo Shijun, Liu Ying, et al. Passive gust alleviation of a flying-wing aircraft by analysis and wind-tunnel test of a scaled model in dynamic similarity[J]. Aerospace Science and Technology, 2021, 113: 106689.
+[22]
+Szczyglowski C P, Neild S A, Titurus B, et al. Passive gust loads alleviation in a truss-braced wing using an inerter-based device[J]. Journal of Aircraft, 2019, 56(6): 2260-2271.
+[23]
+Wang Jingjing, Zhang Chao, Zheng Yuqiang. A novel mass damper enabled by three types of mass attachments and internal vibro impacts[J]. Journal of Sound and Vibration, 2022, 534: 117065.
+[24]
+AL-Shudeifat M A, Saeed A S. Comparison of a modified vibro-impact nonlinear energy sink with other kinds of NESs[J]. Meccanica, 2021, 56(4): 735-752.
+[25]
+Li Tao, Qiu Donghai, Seguy S, et al. Activation characteristic of a vibro-impact energy sink and its application to chatter control in turning[J]. Journal of Sound and Vibration, 2017, 405: 1-18.
+[26]
+Fang Bin, Theurich T, Krack M, et al. Vibration suppression and modal energy transfers in a linear beam with attached vibro-impact nonlinear energy sinks[J]. Communications in Nonlinear Science and Numerical Simulation, 2020, 91: 105415.
+[27]
+Chabrier R, Chevallier G, Foltête E, et al. Experimental investigations of a vibro-impact absorber attached to a continuous structure[J]. Mechanical Systems and Signal Processing, 2022, 180: 109382.
+[28]
+Wu Xuze, Sun Yu, Wang Yu, et al. Passive chaos suppression for the planar slider-crank mechanism with a clearance joint by attached vibro-impact oscillator[J]. Mechanism and Machine Theory, 2022, 174: 104882.
+[29]
+Li Wenke, Wang Zhiming, Brennan M J, et al. Design and optimization of a two-degrees-of-freedom single-sided vibro-impact nonlinear energy sink for transient vibration suppression of a thin plate[J]. Journal of Sound and Vibration, 2024, 587: 118512.
+[30]
+Xia Yuanfeng, Pang Jian, Yang Liang, et al. Investigation on clearance-induced vibro-impacts of torsional system based on Hertz contact nonlinearity[J]. Mechanism and Machine Theory, 2021, 162: 104342.
+[31]
+Theodorsen T. General theory of aerodynamic instability and the mechanism of flutter: PB185078[R/OL]. https: //ntrs.nasa.gov/api/citations/19930090935/downloads/19930090935.pdf.
+[1]
+钮耀斌,王中伟,毛佳,张礼学.
+基于微分求积法的高超声速机翼蒙皮颤振研究
+[J].国防科技大学学报,2012,34(2):141-144.
+[2]
+胡茑庆,陈敏,刘耀宗,杨光,温熙森.
+非线性转子系统碰摩现象的动力学仿真
+[J].国防科技大学学报,2000,22(6):101-104.
+[3]
+陈棣湘,潘孟春,罗飞路.
+高速磁浮列车气隙磁场测量系统的研究
+[J].国防科技大学学报,2007,29(3):123-125.
+[4]
+赵雨睿,宋川江,王翔,黄知涛.
+采用重构吸引子的辐射源个体识别技术
+[J].国防科技大学学报,2023,45(5):12-20.
+[5]
+钮耀斌,王中伟,黄伟.
+高速飞行器间隙非线性机翼颤振的非线性能量阱抑制
+[J].国防科技大学学报,2024,46(2):79-85.
+[6]
+代胡亮,邢浩然,何毅翔,陆子,张岚斌,王琳.
+非线性吸能器抑制柱体结构驰振的理论与实验研究
+[J].国防科技大学学报,2025,47(5):116-124.
+[7]
+郝建新,蔡宣平,孙茂印.
+高速三维地形显示系统的体系结构
+[J].国防科技大学学报,1994,16(3):19-24.
+[8]
+贾文隽,华欣,史继拓,左晨熠.
+基于流固耦合的仿生海鸥机翼气动弹性分析
+[J].兵器装备工程学报,2020,41(7).
+[9]
+姚焱熠,魏明英.
+采用滑模控制器提高稳定控制系统快速响应的研究
+[J].现代防御技术,2007,35(3):58-60.
+[10]
+朱石坚.
+双层隔振系统运动响应的分析
+[J].海军工程大学学报,1985(3).
+[11]
+孙宝,张文超,李占龙,秦园.
+基于闭式解算法的粘弹性振子系统阻尼效应分析
+[J].兵器装备工程学报,2020(12):166-170.
+[12]
+富威,吴琼,赵书樊,龚军军,徐芸洁,王美娟.
+基于动力吸振器的舰炮径筒减振分析
+[J].兵器装备工程学报,2020,41(10):91-95.
+[13]
+李太和,张春熹.
+一个实用的高速串行数据传输系统
+[J].军械工程学院学报,1991(2).
+[14]
+魏云毅,赵存生,闫政涛,李东昱.
+新型电磁主动吸振器的设计及分析
+[J].兵器装备工程学报,2022(5):146-150.
+[15]
+朱德生,朱自强,邱朝宁,沈琪琪.
+采用标准晶振的数字计算式频率合成器
+[J].军事通信技术,1983(1).
+[16]
+梁晋涛,王养丽.
+悬挂激振系统激振性能的分析
+[J].武警工程学院学报,1998,14(1):24-26.
+[17]
+周玉君,雍歧卫,王淳勇,范乾权.
+管道瞬态激振响应管长的计算
+[J].后勤工程学院学报,2009,25(5):42-45.
+[18]
+张振华,吴梵,冯文山.
+液管道系统动力响应的研究进展
+[J].海军工程大学学报,2000(5):25-33.
+[19]
+高守贵.
+采用微处理器的瞄准线稳定系统
+[J].火力与指挥控制,1985(2).
+[20]
+高速多通道数据采集传输系统的设计
+[J].火力与指挥控制
 PDF下载
 XML下载
 导出引用
@@ -1403,14 +1548,17 @@ XML下载
 图(10)
 手机扫码阅读
 引用本文
-钮耀斌, 杨伟奇, 黄伟. 采用碰振吸振子的高速机翼气动弹性系统阵风响应减缓[J]. 国防科技大学学报, 2026, 48(5)：205-212.
+钮耀斌, 杨伟奇, 黄伟. 采用碰振吸振子的高速机翼气动弹性系统阵风响应减缓[J]. 国防科技大学学报, 2026, 48(5): 205-212.
 复制
 Niu Yaobin, Yang Weiqi, Huang Wei. Gust response alleviation of aircraft wing aeroelastic system in supersonic flow using vibro-impact oscillator[J]. Journal of National University of Defense Technology, 2026, 48(5): 205-212.
 Copy
 计量
 文章访问量:
+99
 HTML全文浏览量:
+97
 PDF下载量:
+135
 被引次数:
 图
 1
@@ -1515,7 +1663,7 @@ Theodorsen T. General theory of aerodynamic instability and the mechanism of flu
 扫码关注
 官方微信
 您是今天第
-65
+630
 位访客
 总访问量：
 310428478
@@ -3222,11 +3370,11 @@ Jiang Tingshuai, Yu Tianyuan, Bai Liang, et al. Maritime and aerial target inten
 Copy
 计量
 文章访问量:
-273
+274
 HTML全文浏览量:
 276
 PDF下载量:
-651
+653
 被引次数:
 0
 图
@@ -3415,7 +3563,7 @@ Zhu Wenbo, Webb Z T, Mao Kaitian,et al. A deep learning approach for process dat
 扫码关注
 官方微信
 您是今天第
-67
+634
 位访客
 总访问量：
 310428478
@@ -5514,13 +5662,9 @@ Deng Yufan, Song Zhilin, Pu Tianle, et al. GNN-guided approach to enhancing mixe
 Copy
 计量
 文章访问量:
-283
 HTML全文浏览量:
-262
 PDF下载量:
-554
 被引次数:
-0
 图
 1
 混合整数线性规划问题的二部图表示
@@ -5641,7 +5785,6 @@ ACHTERBERG T. SCIP:solving constraint integer programs[J]. Mathematical Programm
 扫码关注
 官方微信
 您是今天第
-68
 位访客
 总访问量：
 310428478
@@ -6519,9 +6662,9 @@ LI Zhigang, QIU Zhinan, WANG Jiachun, et al. Study of high-power microwave prote
 Copy
 计量
 文章访问量:
-29438
+29441
 HTML全文浏览量:
-4082
+4083
 PDF下载量:
 10041
 被引次数:
@@ -6596,7 +6739,7 @@ HE W, LIU X H, XIAN R C,et al. Kinetics characteristics and bremsstrahlung of ar
 扫码关注
 官方微信
 您是今天第
-68
+636
 位访客
 总访问量：
 310428478
@@ -8014,11 +8157,11 @@ Pu Tianle, Zhang Bingxu, Zeng Li, et al. Pre-training and fine-tuning: a unified
 Copy
 计量
 文章访问量:
-262
+263
 HTML全文浏览量:
-244
+245
 PDF下载量:
-539
+540
 被引次数:
 0
 图
@@ -8125,7 +8268,7 @@ Sanokowski S, Berghammer W, Hochreiter S,et al. Variational annealing on graphs 
 扫码关注
 官方微信
 您是今天第
-69
+636
 位访客
 总访问量：
 310428478

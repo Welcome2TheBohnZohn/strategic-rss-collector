@@ -1,91 +1,67 @@
 {
-  "issue_date": "2026-10-23",
+  "issue_date": "2026-10-26",
   "issue_pages": [
     {
       "paper_number": "01",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-10-23&paperName=zggfb&paperNumber=01",
-      "links": 67,
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-10-26&paperName=zggfb&paperNumber=01",
+      "links": 71,
       "article_links": 3
     },
     {
       "paper_number": "02",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-10-23&paperName=zggfb&paperNumber=02",
-      "links": 73,
-      "article_links": 6
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-10-26&paperName=zggfb&paperNumber=02",
+      "links": 69,
+      "article_links": 3
     },
     {
       "paper_number": "03",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-10-23&paperName=zggfb&paperNumber=03",
-      "links": 69,
-      "article_links": 4
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-10-26&paperName=zggfb&paperNumber=03",
+      "links": 63,
+      "article_links": 1
     },
     {
       "paper_number": "04",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-10-23&paperName=zggfb&paperNumber=04",
-      "links": 67,
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-10-26&paperName=zggfb&paperNumber=04",
+      "links": 69,
       "article_links": 2
     }
   ],
   "candidates": [
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-23&paperNumber=01&articleid=988915",
-      "anchor_title": "纪念中国工农红军长征胜利90周年大会在京隆重举行"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-26&paperNumber=01&articleid=989023",
+      "anchor_title": "精准“落子”，盘活拥军“一盘棋”"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-23&paperNumber=01&articleid=988916",
-      "anchor_title": "弘扬伟大长征精神"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-26&paperNumber=01&articleid=989022",
+      "anchor_title": "“多问问乡亲们有啥难题”"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-23&paperNumber=01&articleid=988917",
-      "anchor_title": "把革命前辈开创的伟大事业不断推向前进"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-26&paperNumber=01&articleid=989025",
+      "anchor_title": "捐献藏品映照赤诚初心"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-23&paperNumber=02&articleid=988922",
-      "anchor_title": "在纪念中国工农红军长征胜利90周年大会上的讲话"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-26&paperNumber=02&articleid=989029",
+      "anchor_title": "烈火淬过的名字，他们永远铭记"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-23&paperNumber=02&articleid=988923",
-      "anchor_title": "在新的长征路上奋力创造新的辉煌"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-26&paperNumber=02&articleid=989030",
+      "anchor_title": "红军井畔“新长征”"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-23&paperNumber=02&articleid=988924",
-      "anchor_title": "弘扬伟大长征精神"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-26&paperNumber=02&articleid=989031",
+      "anchor_title": "让“清澈的爱”可感可触"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-23&paperNumber=02&articleid=988925",
-      "anchor_title": "把革命前辈开创的伟大事业不断推向前进"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-26&paperNumber=03&articleid=989027",
+      "anchor_title": "筑牢国防动员的法治根基"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-23&paperNumber=02&articleid=988926",
-      "anchor_title": "中国邮政发行《中国工农红军长征胜利90周年》纪念邮票"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-26&paperNumber=04&articleid=989032",
+      "anchor_title": "法德下一代战车项目陷困境"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-23&paperNumber=02&articleid=988927",
-      "anchor_title": "谷神星一号海射型遥八运载火箭发射成功"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-23&paperNumber=03&articleid=988918",
-      "anchor_title": "红军不怕远征难"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-23&paperNumber=03&articleid=988919",
-      "anchor_title": "铁索·荣光"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-23&paperNumber=03&articleid=988920",
-      "anchor_title": "草地的回响"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-23&paperNumber=03&articleid=988921",
-      "anchor_title": "晨牧"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-23&paperNumber=04&articleid=988928",
-      "anchor_title": "北约核演习折射欧洲核威慑困境"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-23&paperNumber=04&articleid=988929",
-      "anchor_title": "德国陆军欲补纵深打击短板"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-26&paperNumber=04&articleid=989033",
+      "anchor_title": "美接收韩制自行火炮样车"
     }
   ]
 }
