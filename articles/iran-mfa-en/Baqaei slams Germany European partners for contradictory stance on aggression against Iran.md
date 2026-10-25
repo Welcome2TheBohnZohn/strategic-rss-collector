@@ -1,0 +1,9 @@
+# Baqaei slams Germany European partners for contradictory stance on aggression against Iran
+
+Published: 2026-10-24 00:00:00
+
+Source: https://en.mfa.gov.ir/portal/newsview/796528
+
+Iranian Foreign Ministry Spokesperson Esmaeil Baqaei criticized Germany and several European countries for their contradictory positions on the US-Israeli military aggression against Iran, recalling German Chancellor Friedrich Merz’s June 2025 remarks in support of Israel’s actions in a post on X and quoting German philosopher Friedrich Schiller to underscore his criticism. "June 2025: German Chancellor Friedrich Merz, speaking about Israel’s aggression against Iran, said: “This is the dirty work Israel is doing for all of us.” October 2026: German Foreign Minister (and others) warn against renewed attacks on Iran and stress the need to prevent further escalation. Friedrich Schiller, The Maid of Orleans, Act III, Scene VI: “O exalted Reason, bright daughter of the divine mind, wise architect of the universe and guide of the stars—who are you, then, if, bound to the tail of the wild horse of madness, you must watch helplessly, crying out, as you are dragged alongside that drunken rider into the abyss?”"
+
+June 2025: German Chancellor Friedrich Merz, speaking about Israel’s aggression against Iran, said: “This is the dirty work Israel is doing for all of us.” October 2026: German Foreign Minister (and others) warn against renewed attacks on Iran and stress the need to prevent further escalation. Friedrich Schiller, The Maid of Orleans, Act III, Scene VI: “O exalted Reason, bright daughter of the divine mind, wise architect of the universe and guide of the stars—who are you, then, if, bound to the tail of the wild horse of madness, you must watch helplessly, crying out, as you are dragged alongside that drunken rider into the abyss?”
