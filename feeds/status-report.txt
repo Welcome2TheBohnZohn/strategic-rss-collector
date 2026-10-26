@@ -1,5 +1,5 @@
 Strategic RSS Collector Status
-Generated: 2026-10-25 21:06:28 UTC
+Generated: 2026-10-26 05:05:57 UTC
 
 Status meanings:
 OK = Feed contains one or more items
@@ -27,7 +27,7 @@ FAILED = Source could not be retrieved
   Start URL: http://www.81.cn/?big=jian
   Resolved URL: http://www.81.cn/?big=jian
   HTTP: 200
-  Links discovered: 529
+  Links discovered: 528
   Candidate links/items: 50
   Attempted items/articles: 12
   Items/articles with text: 12
@@ -172,21 +172,22 @@ FAILED = Source could not be retrieved
   Max retries: 1
   Retry backoff: 1s
 
-[OK] avic-cn - Aviation Industry Corporation of China AVIC
+[FAILED] avic-cn - Aviation Industry Corporation of China AVIC
   Source type: html
   Start URL: https://www.avic.com/
   Resolved URL: https://www.avic.com/
-  HTTP: 200
-  Links discovered: 179
-  Candidate links/items: 50
-  Attempted items/articles: 13
-  Items/articles with text: 12
-  Items/articles with dates: 12
-  RSS feed items: 12
+  HTTP: None
+  Links discovered: 0
+  Candidate links/items: 0
+  Attempted items/articles: 0
+  Items/articles with text: 0
+  Items/articles with dates: 0
+  RSS feed items: 0
   SSL verification: ON
   Request timeout: 12s
   Max retries: 1
   Retry backoff: 1s
+  Error: https://www.avic.com/ -> ConnectionError: HTTPSConnectionPool(host='www.avic.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError("HTTPSConnection(host='www.avic.com', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
 
 [OK] norinco-cn - NORINCO Group
   Source type: browser
@@ -225,7 +226,7 @@ FAILED = Source could not be retrieved
   Start URL: https://www.spacechina.com/n25/n2014789/index.html
   Resolved URL: https://www.spacechina.com/n25/n2014789/index.html
   HTTP: 200
-  Links discovered: 170
+  Links discovered: 169
   Candidate links/items: 50
   Attempted items/articles: 12
   Items/articles with text: 12
@@ -304,10 +305,10 @@ Call log:
   HTTP: 200
   Links discovered: 1962
   Candidate links/items: 50
-  Attempted items/articles: 12
-  Items/articles with text: 12
-  Items/articles with dates: 7
-  RSS feed items: 12
+  Attempted items/articles: 50
+  Items/articles with text: 6
+  Items/articles with dates: 5
+  RSS feed items: 6
   SSL verification: OFF
   Request timeout: 12s
   Max retries: 1
@@ -320,7 +321,7 @@ Call log:
   HTTP: 200
   Links discovered: 196
   Candidate links/items: 50
-  Attempted items/articles: 39
+  Attempted items/articles: 40
   Items/articles with text: 12
   Items/articles with dates: 12
   RSS feed items: 12
@@ -362,7 +363,7 @@ Call log:
   Retry backoff: 1s
 
 SUMMARY
-Working: 21
+Working: 20
 Fetched but no items: 0
-Failed: 1
+Failed: 2
 Total sources: 22
