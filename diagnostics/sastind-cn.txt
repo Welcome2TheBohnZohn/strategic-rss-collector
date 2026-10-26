@@ -6,7 +6,7 @@ Include regex: sastind\.gov\.cn/.+
 Include text regex: 
 
 Candidate links: 50
-All links discovered: 68
+All links discovered: 67
 
 === MATCHED CANDIDATES ===
 
@@ -18,8 +18,6 @@ https://www.sastind.gov.cn/n10086200/n10086331/c10790000/content.html
   军工科技 | 铸大国剑盾 守万家灯火 ——写在人民军工创建...
 https://www.sastind.gov.cn/n10086167/n10086216/c10786982/content.html
   通知公告 | 国家原子能机构、商务部、外交部、海关总署公告...
-https://www.sastind.gov.cn/n10086167/n10086216/c10779740/content.html
-  通知公告 | 国家国防科技工业局2027年度考试录用公务员...
 https://www.sastind.gov.cn/n10086200/n10086344/c10795160/content.html
   工作动态 | 国家国防科工局召开党组会议 传达学习习近平...
 https://www.sastind.gov.cn/n10086200/n10086344/c10775762/content.html
@@ -110,6 +108,8 @@ https://www.sastind.gov.cn/n10086200/n10100131/index.html
   媒体报道
 https://www.sastind.gov.cn/n10086205/n10086403/index.html
   军工文化
+https://www.sastind.gov.cn/n10086205/n10086389/index.html
+  军工风采
 
 === ALL DISCOVERED LINKS ===
 
@@ -206,8 +206,6 @@ https://www.sastind.gov.cn/n10086200/n10086331/c10790000/content.html
   军工科技 | 铸大国剑盾 守万家灯火 ——写在人民军工创建...
 https://www.sastind.gov.cn/n10086167/n10086216/c10786982/content.html
   通知公告 | 国家原子能机构、商务部、外交部、海关总署公告...
-https://www.sastind.gov.cn/n10086167/n10086216/c10779740/content.html
-  通知公告 | 国家国防科技工业局2027年度考试录用公务员...
 https://www.sastind.gov.cn/n10086167/n10086182/n10640116/index.html
   单忠德
 https://www.sastind.gov.cn/n10086167/n10086182/n10094594/index.html

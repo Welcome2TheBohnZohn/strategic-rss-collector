@@ -1,62 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Mon, 26 Oct 2026 05:05:56 +0000</lastBuildDate><item><title>CNNVD-2026-49113541 - Drupal SAML SSO - Service Provider 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-49113541</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-49113541</guid><pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate><description>Drupal SAML SSO - Service Provider 跨站脚本漏洞
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Mon, 26 Oct 2026 13:22:57 +0000</lastBuildDate><item><title>CNNVD-2026-31646501 - Parse Platform Parse Server 权限许可和访问控制问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-31646501</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-31646501</guid><pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate><description>Parse Platform Parse Server 权限许可和访问控制问题漏洞
 危害等级: 低危
-收录时间：2026-10-22 | 更新时间: 2026-10-23 16:25:48
-CNNVD编号: CNNVD-2026-49113541</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-49113541&lt;/p&gt;&lt;pre&gt;Drupal SAML SSO - Service Provider 跨站脚本漏洞
+收录时间：2026-10-25 | 更新时间: 2026-10-26 16:21:00
+CNNVD编号: CNNVD-2026-31646501</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-31646501&lt;/p&gt;&lt;pre&gt;Parse Platform Parse Server 权限许可和访问控制问题漏洞
 危害等级: 低危
-收录时间：2026-10-22 | 更新时间: 2026-10-23 16:25:48
-CNNVD编号: CNNVD-2026-49113541&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-66867511 - Drupal SAML SSO - Service Provider 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-66867511</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-66867511</guid><pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate><description>Drupal SAML SSO - Service Provider 授权问题漏洞
+收录时间：2026-10-25 | 更新时间: 2026-10-26 16:21:00
+CNNVD编号: CNNVD-2026-31646501&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-75731107 - SiYuan 加密问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75731107</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75731107</guid><pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate><description>SiYuan 加密问题漏洞
+危害等级: 高危
+收录时间：2026-10-25 | 更新时间: 2026-10-26 16:20:59
+CNNVD编号: CNNVD-2026-75731107</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75731107&lt;/p&gt;&lt;pre&gt;SiYuan 加密问题漏洞
+危害等级: 高危
+收录时间：2026-10-25 | 更新时间: 2026-10-26 16:20:59
+CNNVD编号: CNNVD-2026-75731107&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-53217164 - SiYuan 路径遍历漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-53217164</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-53217164</guid><pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate><description>SiYuan 路径遍历漏洞
+危害等级: 中危
+收录时间：2026-10-25 | 更新时间: 2026-10-26 16:20:59
+CNNVD编号: CNNVD-2026-53217164</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-53217164&lt;/p&gt;&lt;pre&gt;SiYuan 路径遍历漏洞
+危害等级: 中危
+收录时间：2026-10-25 | 更新时间: 2026-10-26 16:20:59
+CNNVD编号: CNNVD-2026-53217164&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-62720180 - Parse Platform Parse Server 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-62720180</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-62720180</guid><pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate><description>Parse Platform Parse Server 授权问题漏洞
+危害等级: 高危
+收录时间：2026-10-25 | 更新时间: 2026-10-26 16:20:58
+CNNVD编号: CNNVD-2026-62720180</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-62720180&lt;/p&gt;&lt;pre&gt;Parse Platform Parse Server 授权问题漏洞
+危害等级: 高危
+收录时间：2026-10-25 | 更新时间: 2026-10-26 16:20:58
+CNNVD编号: CNNVD-2026-62720180&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-15747854 - vLLM 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-15747854</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-15747854</guid><pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate><description>vLLM 输入验证错误漏洞
+危害等级: 高危
+收录时间：2026-10-25 | 更新时间: 2026-10-26 16:20:57
+CNNVD编号: CNNVD-2026-15747854</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-15747854&lt;/p&gt;&lt;pre&gt;vLLM 输入验证错误漏洞
+危害等级: 高危
+收录时间：2026-10-25 | 更新时间: 2026-10-26 16:20:57
+CNNVD编号: CNNVD-2026-15747854&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-85595045 - YesWiki SQL注入漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-85595045</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-85595045</guid><pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate><description>YesWiki SQL注入漏洞
+危害等级: 高危
+收录时间：2026-10-25 | 更新时间: 2026-10-26 16:20:48
+CNNVD编号: CNNVD-2026-85595045</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-85595045&lt;/p&gt;&lt;pre&gt;YesWiki SQL注入漏洞
+危害等级: 高危
+收录时间：2026-10-25 | 更新时间: 2026-10-26 16:20:48
+CNNVD编号: CNNVD-2026-85595045&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-12855090 - YesWiki 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-12855090</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-12855090</guid><pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate><description>YesWiki 跨站脚本漏洞
+危害等级: 中危
+收录时间：2026-10-25 | 更新时间: 2026-10-26 16:20:49
+CNNVD编号: CNNVD-2026-12855090</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-12855090&lt;/p&gt;&lt;pre&gt;YesWiki 跨站脚本漏洞
+危害等级: 中危
+收录时间：2026-10-25 | 更新时间: 2026-10-26 16:20:49
+CNNVD编号: CNNVD-2026-12855090&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-57233035 - Mansi Khamkar Restaurant_IMS 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-57233035</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-57233035</guid><pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate><description>Mansi Khamkar Restaurant_IMS 输入验证错误漏洞
+危害等级: 中危
+收录时间：2026-10-25 | 更新时间: 2026-10-26 16:24:12
+CNNVD编号: CNNVD-2026-57233035</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-57233035&lt;/p&gt;&lt;pre&gt;Mansi Khamkar Restaurant_IMS 输入验证错误漏洞
+危害等级: 中危
+收录时间：2026-10-25 | 更新时间: 2026-10-26 16:24:12
+CNNVD编号: CNNVD-2026-57233035&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-97070182 - ImageMagick 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-97070182</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-97070182</guid><pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate><description>ImageMagick 跨站脚本漏洞
+危害等级: 中危
+收录时间：2026-10-25 | 更新时间: 2026-10-26 16:23:07
+CNNVD编号: CNNVD-2026-97070182</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-97070182&lt;/p&gt;&lt;pre&gt;ImageMagick 跨站脚本漏洞
+危害等级: 中危
+收录时间：2026-10-25 | 更新时间: 2026-10-26 16:23:07
+CNNVD编号: CNNVD-2026-97070182&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-89472866 - ImageMagick 数字错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-89472866</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-89472866</guid><pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate><description>ImageMagick 数字错误漏洞
 危害等级: 低危
-收录时间：2026-10-22 | 更新时间: 2026-10-23 16:25:47
-CNNVD编号: CNNVD-2026-66867511</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-66867511&lt;/p&gt;&lt;pre&gt;Drupal SAML SSO - Service Provider 授权问题漏洞
+收录时间：2026-10-25 | 更新时间: 2026-10-26 16:23:07
+CNNVD编号: CNNVD-2026-89472866</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-89472866&lt;/p&gt;&lt;pre&gt;ImageMagick 数字错误漏洞
 危害等级: 低危
-收录时间：2026-10-22 | 更新时间: 2026-10-23 16:25:47
-CNNVD编号: CNNVD-2026-66867511&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-35489900 - Drupal SAML SSO - Service Provider 信任管理问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-35489900</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-35489900</guid><pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate><description>Drupal SAML SSO - Service Provider 信任管理问题漏洞
-危害等级: 中危
-收录时间：2026-10-22 | 更新时间: 2026-10-23 16:25:46
-CNNVD编号: CNNVD-2026-35489900</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-35489900&lt;/p&gt;&lt;pre&gt;Drupal SAML SSO - Service Provider 信任管理问题漏洞
-危害等级: 中危
-收录时间：2026-10-22 | 更新时间: 2026-10-23 16:25:46
-CNNVD编号: CNNVD-2026-35489900&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-45968315 - Drupal SAML SSO - Service Provider 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-45968315</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-45968315</guid><pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate><description>Drupal SAML SSO - Service Provider 输入验证错误漏洞
-危害等级: 中危
-收录时间：2026-10-22 | 更新时间: 2026-10-23 16:25:49
-CNNVD编号: CNNVD-2026-45968315</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-45968315&lt;/p&gt;&lt;pre&gt;Drupal SAML SSO - Service Provider 输入验证错误漏洞
-危害等级: 中危
-收录时间：2026-10-22 | 更新时间: 2026-10-23 16:25:49
-CNNVD编号: CNNVD-2026-45968315&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-12278303 - Drupal SAML SSO - Service Provider 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-12278303</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-12278303</guid><pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate><description>Drupal SAML SSO - Service Provider 授权问题漏洞
-危害等级: 中危
-收录时间：2026-10-22 | 更新时间: 2026-10-23 16:25:49
-CNNVD编号: CNNVD-2026-12278303</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-12278303&lt;/p&gt;&lt;pre&gt;Drupal SAML SSO - Service Provider 授权问题漏洞
-危害等级: 中危
-收录时间：2026-10-22 | 更新时间: 2026-10-23 16:25:49
-CNNVD编号: CNNVD-2026-12278303&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-38091888 - KNIME Business Hub 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-38091888</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-38091888</guid><pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate><description>KNIME Business Hub 资源管理错误漏洞
-危害等级: 中危
-收录时间：2026-10-22 | 更新时间: 2026-10-23 16:27:05
-CNNVD编号: CNNVD-2026-38091888</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-38091888&lt;/p&gt;&lt;pre&gt;KNIME Business Hub 资源管理错误漏洞
-危害等级: 中危
-收录时间：2026-10-22 | 更新时间: 2026-10-23 16:27:05
-CNNVD编号: CNNVD-2026-38091888&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-77918018 - KNIME Business Hub 信息泄露漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-77918018</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-77918018</guid><pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate><description>KNIME Business Hub 信息泄露漏洞
-危害等级: 中危
-收录时间：2026-10-22 | 更新时间: 2026-10-23 16:27:04
-CNNVD编号: CNNVD-2026-77918018</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-77918018&lt;/p&gt;&lt;pre&gt;KNIME Business Hub 信息泄露漏洞
-危害等级: 中危
-收录时间：2026-10-22 | 更新时间: 2026-10-23 16:27:04
-CNNVD编号: CNNVD-2026-77918018&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-11013260 - KNIME Business Hub 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-11013260</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-11013260</guid><pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate><description>KNIME Business Hub 授权问题漏洞
-危害等级: 中危
-收录时间：2026-10-22 | 更新时间: 2026-10-23 16:27:04
-CNNVD编号: CNNVD-2026-11013260</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-11013260&lt;/p&gt;&lt;pre&gt;KNIME Business Hub 授权问题漏洞
-危害等级: 中危
-收录时间：2026-10-22 | 更新时间: 2026-10-23 16:27:04
-CNNVD编号: CNNVD-2026-11013260&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-89135758 - crawlseo 加密问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-89135758</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-89135758</guid><pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate><description>crawlseo 加密问题漏洞
-危害等级: 中危
-收录时间：2026-10-22 | 更新时间: 2026-10-23 16:27:04
-CNNVD编号: CNNVD-2026-89135758</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-89135758&lt;/p&gt;&lt;pre&gt;crawlseo 加密问题漏洞
-危害等级: 中危
-收录时间：2026-10-22 | 更新时间: 2026-10-23 16:27:04
-CNNVD编号: CNNVD-2026-89135758&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-42447679 - KNIME Business Hub 权限许可和访问控制问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-42447679</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-42447679</guid><pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate><description>KNIME Business Hub 权限许可和访问控制问题漏洞
-危害等级: 中危
-收录时间：2026-10-22 | 更新时间: 2026-10-23 16:27:03
-CNNVD编号: CNNVD-2026-42447679</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-42447679&lt;/p&gt;&lt;pre&gt;KNIME Business Hub 权限许可和访问控制问题漏洞
-危害等级: 中危
-收录时间：2026-10-22 | 更新时间: 2026-10-23 16:27:03
-CNNVD编号: CNNVD-2026-42447679&lt;/pre&gt;</content:encoded></item></channel></rss>
+收录时间：2026-10-25 | 更新时间: 2026-10-26 16:23:07
+CNNVD编号: CNNVD-2026-89472866&lt;/pre&gt;</content:encoded></item></channel></rss>
