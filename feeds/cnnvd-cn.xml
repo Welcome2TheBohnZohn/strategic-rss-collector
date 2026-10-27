@@ -1,62 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Tue, 27 Oct 2026 05:23:57 +0000</lastBuildDate><item><title>CNNVD-2026-31646501 - Parse Platform Parse Server 权限许可和访问控制问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-31646501</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-31646501</guid><pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate><description>Parse Platform Parse Server 权限许可和访问控制问题漏洞
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Tue, 27 Oct 2026 12:33:41 +0000</lastBuildDate><item><title>CNNVD-2026-69563521 - SourceCodester Online Food Ordering System 权限许可和访问控制问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-69563521</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-69563521</guid><pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate><description>SourceCodester Online Food Ordering System 权限许可和访问控制问题漏洞
 危害等级: 低危
-收录时间：2026-10-25 | 更新时间: 2026-10-26 16:21:00
-CNNVD编号: CNNVD-2026-31646501</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-31646501&lt;/p&gt;&lt;pre&gt;Parse Platform Parse Server 权限许可和访问控制问题漏洞
+收录时间：2026-10-27 | 更新时间: 2026-10-27 16:45:13
+CNNVD编号: CNNVD-2026-69563521</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-69563521&lt;/p&gt;&lt;pre&gt;SourceCodester Online Food Ordering System 权限许可和访问控制问题漏洞
 危害等级: 低危
-收录时间：2026-10-25 | 更新时间: 2026-10-26 16:21:00
-CNNVD编号: CNNVD-2026-31646501&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-75731107 - SiYuan 加密问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75731107</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75731107</guid><pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate><description>SiYuan 加密问题漏洞
-危害等级: 高危
-收录时间：2026-10-25 | 更新时间: 2026-10-26 16:20:59
-CNNVD编号: CNNVD-2026-75731107</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75731107&lt;/p&gt;&lt;pre&gt;SiYuan 加密问题漏洞
-危害等级: 高危
-收录时间：2026-10-25 | 更新时间: 2026-10-26 16:20:59
-CNNVD编号: CNNVD-2026-75731107&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-53217164 - SiYuan 路径遍历漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-53217164</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-53217164</guid><pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate><description>SiYuan 路径遍历漏洞
-危害等级: 中危
-收录时间：2026-10-25 | 更新时间: 2026-10-26 16:20:59
-CNNVD编号: CNNVD-2026-53217164</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-53217164&lt;/p&gt;&lt;pre&gt;SiYuan 路径遍历漏洞
-危害等级: 中危
-收录时间：2026-10-25 | 更新时间: 2026-10-26 16:20:59
-CNNVD编号: CNNVD-2026-53217164&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-62720180 - Parse Platform Parse Server 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-62720180</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-62720180</guid><pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate><description>Parse Platform Parse Server 授权问题漏洞
-危害等级: 高危
-收录时间：2026-10-25 | 更新时间: 2026-10-26 16:20:58
-CNNVD编号: CNNVD-2026-62720180</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-62720180&lt;/p&gt;&lt;pre&gt;Parse Platform Parse Server 授权问题漏洞
-危害等级: 高危
-收录时间：2026-10-25 | 更新时间: 2026-10-26 16:20:58
-CNNVD编号: CNNVD-2026-62720180&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-15747854 - vLLM 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-15747854</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-15747854</guid><pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate><description>vLLM 输入验证错误漏洞
-危害等级: 高危
-收录时间：2026-10-25 | 更新时间: 2026-10-26 16:20:57
-CNNVD编号: CNNVD-2026-15747854</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-15747854&lt;/p&gt;&lt;pre&gt;vLLM 输入验证错误漏洞
-危害等级: 高危
-收录时间：2026-10-25 | 更新时间: 2026-10-26 16:20:57
-CNNVD编号: CNNVD-2026-15747854&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-85595045 - YesWiki SQL注入漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-85595045</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-85595045</guid><pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate><description>YesWiki SQL注入漏洞
-危害等级: 高危
-收录时间：2026-10-25 | 更新时间: 2026-10-26 16:20:48
-CNNVD编号: CNNVD-2026-85595045</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-85595045&lt;/p&gt;&lt;pre&gt;YesWiki SQL注入漏洞
-危害等级: 高危
-收录时间：2026-10-25 | 更新时间: 2026-10-26 16:20:48
-CNNVD编号: CNNVD-2026-85595045&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-12855090 - YesWiki 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-12855090</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-12855090</guid><pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate><description>YesWiki 跨站脚本漏洞
-危害等级: 中危
-收录时间：2026-10-25 | 更新时间: 2026-10-26 16:20:49
-CNNVD编号: CNNVD-2026-12855090</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-12855090&lt;/p&gt;&lt;pre&gt;YesWiki 跨站脚本漏洞
-危害等级: 中危
-收录时间：2026-10-25 | 更新时间: 2026-10-26 16:20:49
-CNNVD编号: CNNVD-2026-12855090&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-57233035 - Mansi Khamkar Restaurant_IMS 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-57233035</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-57233035</guid><pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate><description>Mansi Khamkar Restaurant_IMS 输入验证错误漏洞
-危害等级: 中危
-收录时间：2026-10-25 | 更新时间: 2026-10-26 16:24:12
-CNNVD编号: CNNVD-2026-57233035</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-57233035&lt;/p&gt;&lt;pre&gt;Mansi Khamkar Restaurant_IMS 输入验证错误漏洞
-危害等级: 中危
-收录时间：2026-10-25 | 更新时间: 2026-10-26 16:24:12
-CNNVD编号: CNNVD-2026-57233035&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-97070182 - ImageMagick 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-97070182</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-97070182</guid><pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate><description>ImageMagick 跨站脚本漏洞
-危害等级: 中危
-收录时间：2026-10-25 | 更新时间: 2026-10-26 16:23:07
-CNNVD编号: CNNVD-2026-97070182</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-97070182&lt;/p&gt;&lt;pre&gt;ImageMagick 跨站脚本漏洞
-危害等级: 中危
-收录时间：2026-10-25 | 更新时间: 2026-10-26 16:23:07
-CNNVD编号: CNNVD-2026-97070182&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-89472866 - ImageMagick 数字错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-89472866</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-89472866</guid><pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate><description>ImageMagick 数字错误漏洞
+收录时间：2026-10-27 | 更新时间: 2026-10-27 16:45:13
+CNNVD编号: CNNVD-2026-69563521&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-93713705 - Saruf Ratul HR-Payroll-Management-System 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-93713705</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-93713705</guid><pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate><description>Saruf Ratul HR-Payroll-Management-System 跨站脚本漏洞
 危害等级: 低危
-收录时间：2026-10-25 | 更新时间: 2026-10-26 16:23:07
-CNNVD编号: CNNVD-2026-89472866</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-89472866&lt;/p&gt;&lt;pre&gt;ImageMagick 数字错误漏洞
+收录时间：2026-10-27 | 更新时间: 2026-10-27 16:45:06
+CNNVD编号: CNNVD-2026-93713705</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-93713705&lt;/p&gt;&lt;pre&gt;Saruf Ratul HR-Payroll-Management-System 跨站脚本漏洞
 危害等级: 低危
-收录时间：2026-10-25 | 更新时间: 2026-10-26 16:23:07
-CNNVD编号: CNNVD-2026-89472866&lt;/pre&gt;</content:encoded></item></channel></rss>
+收录时间：2026-10-27 | 更新时间: 2026-10-27 16:45:06
+CNNVD编号: CNNVD-2026-93713705&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-82509768 - Cure53 DOMPurify 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-82509768</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-82509768</guid><pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate><description>Cure53 DOMPurify 跨站脚本漏洞
+危害等级: 中危
+收录时间：2026-10-27 | 更新时间: 2026-10-27 16:44:50
+CNNVD编号: CNNVD-2026-82509768</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-82509768&lt;/p&gt;&lt;pre&gt;Cure53 DOMPurify 跨站脚本漏洞
+危害等级: 中危
+收录时间：2026-10-27 | 更新时间: 2026-10-27 16:44:50
+CNNVD编号: CNNVD-2026-82509768&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-47276571 - OpenPanel 信息泄露漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-47276571</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-47276571</guid><pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate><description>OpenPanel 信息泄露漏洞
+危害等级: 中危
+收录时间：2026-10-27 | 更新时间: 2026-10-27 16:44:50
+CNNVD编号: CNNVD-2026-47276571</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-47276571&lt;/p&gt;&lt;pre&gt;OpenPanel 信息泄露漏洞
+危害等级: 中危
+收录时间：2026-10-27 | 更新时间: 2026-10-27 16:44:50
+CNNVD编号: CNNVD-2026-47276571&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-21564058 - Parse Platform parse-server 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-21564058</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-21564058</guid><pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate><description>Parse Platform parse-server 输入验证错误漏洞
+危害等级: 中危
+收录时间：2026-10-27 | 更新时间: 2026-10-27 16:44:51
+CNNVD编号: CNNVD-2026-21564058</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-21564058&lt;/p&gt;&lt;pre&gt;Parse Platform parse-server 输入验证错误漏洞
+危害等级: 中危
+收录时间：2026-10-27 | 更新时间: 2026-10-27 16:44:51
+CNNVD编号: CNNVD-2026-21564058&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-91855990 - OpenPanel 权限许可和访问控制问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-91855990</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-91855990</guid><pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate><description>OpenPanel 权限许可和访问控制问题漏洞
+危害等级: 中危
+收录时间：2026-10-27 | 更新时间: 2026-10-27 16:44:50
+CNNVD编号: CNNVD-2026-91855990</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-91855990&lt;/p&gt;&lt;pre&gt;OpenPanel 权限许可和访问控制问题漏洞
+危害等级: 中危
+收录时间：2026-10-27 | 更新时间: 2026-10-27 16:44:50
+CNNVD编号: CNNVD-2026-91855990&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-44843729 - ASUS Motherboard 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-44843729</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-44843729</guid><pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate><description>ASUS Motherboard 缓冲区错误漏洞
+危害等级: 中危
+收录时间：2026-10-27 | 更新时间: 2026-10-27 16:43:21
+CNNVD编号: CNNVD-2026-44843729</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-44843729&lt;/p&gt;&lt;pre&gt;ASUS Motherboard 缓冲区错误漏洞
+危害等级: 中危
+收录时间：2026-10-27 | 更新时间: 2026-10-27 16:43:21
+CNNVD编号: CNNVD-2026-44843729&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-86524183 - OpenPanel SQL注入漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-86524183</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-86524183</guid><pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate><description>OpenPanel SQL注入漏洞
+危害等级: 高危
+收录时间：2026-10-27 | 更新时间: 2026-10-27 16:44:45
+CNNVD编号: CNNVD-2026-86524183</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-86524183&lt;/p&gt;&lt;pre&gt;OpenPanel SQL注入漏洞
+危害等级: 高危
+收录时间：2026-10-27 | 更新时间: 2026-10-27 16:44:45
+CNNVD编号: CNNVD-2026-86524183&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-33985656 - OpenPanel SQL注入漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-33985656</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-33985656</guid><pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate><description>OpenPanel SQL注入漏洞
+危害等级: 高危
+收录时间：2026-10-27 | 更新时间: 2026-10-27 16:44:45
+CNNVD编号: CNNVD-2026-33985656</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-33985656&lt;/p&gt;&lt;pre&gt;OpenPanel SQL注入漏洞
+危害等级: 高危
+收录时间：2026-10-27 | 更新时间: 2026-10-27 16:44:45
+CNNVD编号: CNNVD-2026-33985656&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-69537315 - YesWiki SQL注入漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-69537315</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-69537315</guid><pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate><description>YesWiki SQL注入漏洞
+危害等级: 高危
+收录时间：2026-10-27 | 更新时间: 2026-10-27 16:44:44
+CNNVD编号: CNNVD-2026-69537315</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-69537315&lt;/p&gt;&lt;pre&gt;YesWiki SQL注入漏洞
+危害等级: 高危
+收录时间：2026-10-27 | 更新时间: 2026-10-27 16:44:44
+CNNVD编号: CNNVD-2026-69537315&lt;/pre&gt;</content:encoded></item></channel></rss>
