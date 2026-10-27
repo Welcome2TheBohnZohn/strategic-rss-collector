@@ -1,83 +1,99 @@
 {
-  "issue_date": "2026-10-27",
+  "issue_date": "2026-10-28",
   "issue_pages": [
     {
       "paper_number": "01",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-10-27&paperName=zggfb&paperNumber=01",
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-10-28&paperName=zggfb&paperNumber=01",
       "links": 71,
-      "article_links": 3
-    },
-    {
-      "paper_number": "02",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-10-27&paperName=zggfb&paperNumber=02",
-      "links": 73,
       "article_links": 5
     },
     {
+      "paper_number": "02",
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-10-28&paperName=zggfb&paperNumber=02",
+      "links": 75,
+      "article_links": 6
+    },
+    {
       "paper_number": "03",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-10-27&paperName=zggfb&paperNumber=03",
-      "links": 63,
-      "article_links": 1
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-10-28&paperName=zggfb&paperNumber=03",
+      "links": 73,
+      "article_links": 3
     },
     {
       "paper_number": "04",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-10-27&paperName=zggfb&paperNumber=04",
-      "links": 69,
-      "article_links": 4
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-10-28&paperName=zggfb&paperNumber=04",
+      "links": 67,
+      "article_links": 3
     }
   ],
   "candidates": [
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-27&paperNumber=01&articleid=989104",
-      "anchor_title": "红色井冈何以如此“燃”"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-28&paperNumber=01&articleid=989175",
+      "anchor_title": "变“粗放备勤”为“精准备战”"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-27&paperNumber=01&articleid=989103",
-      "anchor_title": "荒芜大漠不缺青春热血"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-28&paperNumber=01&articleid=989176",
+      "anchor_title": "从“各吹各号”到“攥指成拳”"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-27&paperNumber=01&articleid=989107",
-      "anchor_title": "暖心回访"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-28&paperNumber=01&articleid=989174",
+      "anchor_title": "17棵青松在诉说"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-27&paperNumber=02&articleid=989094",
-      "anchor_title": "把长征故事讲给更多人听"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-28&paperNumber=01&articleid=989177",
+      "anchor_title": "废旧电路板变身歼-35模型"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-27&paperNumber=02&articleid=989093",
-      "anchor_title": "烈士纪念碑前的“国防教育课”"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-28&paperNumber=01&articleid=989178",
+      "anchor_title": "“青春长征号”正式首发"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-27&paperNumber=02&articleid=989095",
-      "anchor_title": "跨境协查打通政治考核堵点"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-28&paperNumber=02&articleid=989165",
+      "anchor_title": "英模人物走进城市新地标"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-27&paperNumber=02&articleid=989096",
-      "anchor_title": "小装置堵住保密管理漏洞"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-28&paperNumber=02&articleid=989167",
+      "anchor_title": "户外大屏播放红色短视频"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-27&paperNumber=02&articleid=989097",
-      "anchor_title": "战备物资“下楼” 应急响应“提速”"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-28&paperNumber=02&articleid=989166",
+      "anchor_title": "把安全课堂“搬”到群众身边"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-27&paperNumber=03&articleid=989108",
-      "anchor_title": "动员之弓拉满弦"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-28&paperNumber=02&articleid=989168",
+      "anchor_title": "在“微长征”中感悟初心"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-27&paperNumber=04&articleid=989099",
-      "anchor_title": "电动飞机离战场有多远"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-28&paperNumber=02&articleid=989169",
+      "anchor_title": "妙笔绘湘江 童心忆英烈"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-27&paperNumber=04&articleid=989100",
-      "anchor_title": "水雷上的“小手柄”"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-28&paperNumber=02&articleid=989170",
+      "anchor_title": "微新闻"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-27&paperNumber=04&articleid=989102",
-      "anchor_title": "美军加速发展廉价高超声速武器"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-28&paperNumber=03&articleid=989180",
+      "anchor_title": "跨越万水千山 仍需跋山涉水"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-27&paperNumber=04&articleid=989101",
-      "anchor_title": "前沿技术"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-28&paperNumber=03&articleid=989181",
+      "anchor_title": "“编筐编篓，重在收口”"
+    },
+    {
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-28&paperNumber=03&articleid=989184",
+      "anchor_title": "物流园里练集结"
+    },
+    {
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-28&paperNumber=04&articleid=989171",
+      "anchor_title": "高超声速武器发展竞逐激烈"
+    },
+    {
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-28&paperNumber=04&articleid=989173",
+      "anchor_title": "美空军后勤体系调整成效有限"
+    },
+    {
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-28&paperNumber=04&articleid=989172",
+      "anchor_title": "防务资讯"
     }
   ]
 }

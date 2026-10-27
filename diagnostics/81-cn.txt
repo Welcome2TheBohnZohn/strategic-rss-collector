@@ -10,12 +10,14 @@ All links discovered: 528
 
 === MATCHED CANDIDATES ===
 
+http://www.81.cn/yw_208727/16496535.html
+  不断实现党的自我净化、自我完善、自我革新、自我提高——习近平党建思想引领新时代全面从严治党系列述评之三
 http://www.81.cn/ss_208539/16496445.html
   坚持人民至上，中国共产党的成功密码（读懂中国·读懂中国式现代化）——一位西班牙共产党员的中国见闻与思考
-http://www.81.cn/yw_208727/16496329.html
-  坚守初心使命，始终保持党同人民群众的血肉联系——习近平党建思想引领新时代全面从严治党系列述评之二
 http://www.81.cn/pl_208541/16496222.html
   科学认识新时代全面从严治党的伟大成就与重要启示（深入学习贯彻习近平新时代中国特色社会主义思想）
+http://www.81.cn/ss_208539/16496541.html
+  专访｜全面从严治党是中国共产党永葆生机活力的关键——访俄罗斯共产党中央委员会副主席诺维科夫
 http://www.81.cn/kj_208559/jdt_208560/16494851.html
   执笔为剑，卫国擎天丨2027年空军文职人员公开招考宣介活动，向青年发出强军邀约
 http://www.81.cn/yw_208727/16496401.html
@@ -28,8 +30,6 @@ http://www.81.cn/jw_208551/16471442.html
   中央军委发出通报 表彰全军优秀共产党员、优秀党务工作者和先进基层党组织
 http://www.81.cn/wz_208577/16459656.html
   2026年军队文职人员公开招考第二批免笔试直接面试岗位招考工作全面展开
-http://www.81.cn/yw_208727/16496293.html
-  习近平《在纪念中国工农红军长征胜利90周年大会上的讲话》单行本出版
 http://www.81.cn/hjj_208561/16493213.html
   火箭军某基地强化政治干部战时政治工作能力——“生命线”向发射架延伸
 http://www.81.cn/wj_208604/16495019.html
@@ -48,6 +48,8 @@ http://www.81.cn/xx_207779/16496259.html
   壹视界·任仲平文章解读丨长征胜利90周年，蕴含怎样的制胜之道？
 http://www.81.cn/kj_208559/16492102.html
   徙木立信在军营丨空军某部党委探索重难点问题“揭榜攻关”工作机制
+http://www.81.cn/ss_208539/16496540.html
+  全国人大常委会副委员长郑建邦率团出席第十二届金砖国家议会论坛
 http://www.81.cn/yw_208727/16496460.html
   学习贯彻习近平党建思想 | 强化领导干部政治担当的几点思考
 http://www.81.cn/nb_208573/jdt_208574/16488421.html
@@ -86,6 +88,8 @@ http://www.81.cn/yw_208727/16496404.html
   感受红色圣地的厚重底蕴，他们用双脚丈量黄土地的道道沟壑
 http://www.81.cn/lj_208555/jdt_208556/16496171.html
   “战略骑兵”淬火再出征——来自第八十一集团军某旅的报告
+http://www.81.cn/hj_208557/16496542.html
+  新一代“长征”潜艇官兵接续奋斗，锻造共和国“水下盾牌”
 http://www.81.cn/lq_208565/16495008.html
   被装巡修队活跃驻训场，为一线战友提供坚实的联勤“衣”靠
 http://www.81.cn/jx_208569/16494983.html
@@ -106,10 +110,6 @@ http://www.81.cn/yw_208727/16496341.html
   新华社社评：以永远在路上的坚韧和执着推进全面从严治党
 http://www.81.cn/yw_208727/16496448.html
   中印尼“利刃-2026”陆军反恐联合训练举行开训仪式
-http://www.81.cn/jw_208551/jdt_208552/16438857.html
-  中央军委主席习近平签署命令 发布《军事理论工作条例》
-http://www.81.cn/zq_208553/16496176.html
-  让阳光照进“敏感地带”，向不正之风和人情关系说“不”
 
 === ALL DISCOVERED LINKS ===
 
@@ -254,30 +254,28 @@ http://www.81.cn/yw_208727/16496507.html
   习近平致电祝贺卢拉当选连任巴西总统
 http://www.81.cn/yw_208727/16496510.html
   习近平向日本前首相福田康夫遗属致唁电
-http://www.81.cn/yw_208727/16496293.html
-  习近平《在纪念中国工农红军长征胜利90周年大会上的讲话》单行本出版
-http://www.81.cn/yw_208727/16496329.html
-  坚守初心使命，始终保持党同人民群众的血肉联系——习近平党建思想引领新时代全面从严治党系列述评之二
+http://www.81.cn/yw_208727/16496535.html
+  不断实现党的自我净化、自我完善、自我革新、自我提高——习近平党建思想引领新时代全面从严治党系列述评之三
 http://www.81.cn/yw_208727/16496401.html
   牢牢抓住管党治党责任的“牛鼻子”——推动学习贯彻习近平党建思想走深走实系列谈
 http://www.81.cn/yw_208727/16496460.html
   学习贯彻习近平党建思想 | 强化领导干部政治担当的几点思考
+http://www.81.cn/yw_208727/16496538.html
+  新华社评论员：谱写新时代强军兴军新篇章
 http://www.81.cn/yw_208727/16496385.html
   军报记者寻根行丨清澈的初心
 http://www.81.cn/yw_208727/16496341.html
   新华社社评：以永远在路上的坚韧和执着推进全面从严治党
-http://www.81.cn/yw_208727/16496365.html
-  新华社评论员：依靠顽强斗争夺取新的伟大胜利
 http://www.81.cn/yw_208727/16496386.html
   军报记者基层行丨陆军训练场走来“联训好搭档”
 http://www.81.cn/yw_208727/16496466.html
   中方将派驻菲武官出席第13届东盟防长扩大会
 http://www.81.cn/yw_208727/16496448.html
   中印尼“利刃-2026”陆军反恐联合训练举行开训仪式
-http://www.81.cn/yw_208727/16496400.html
-  革命理想信念能够迸发无穷力量
 http://www.81.cn/yw_208727/16496387.html
   加快实现军事训练转型升级丨从“静谧空间”到“战场环境”
+http://www.81.cn/yw_208727/16496400.html
+  革命理想信念能够迸发无穷力量
 http://www.81.cn/yw_208727/16496389.html
   强军论坛丨敏捷响应加快发展新质战斗力
 http://www.81.cn/yw_208727/16496391.html
@@ -288,6 +286,8 @@ http://www.81.cn/yw_208727/16496393.html
   抗震抢险救灾·子弟兵在行动丨拳拳爱民心 浓浓鱼水情
 http://www.81.cn/yw_208727/16496404.html
   感受红色圣地的厚重底蕴，他们用双脚丈量黄土地的道道沟壑
+http://www.81.cn/yw_208727/16496388.html
+  美丽中国行丨北国江畔筑起生态屏障
 http://www.81.cn/syjdt/16495445.html
   一图速览｜习近平在纪念中国工农红军长征胜利90周年大会上的讲话
 http://www.81.cn/syjdt/16496166.html
@@ -350,6 +350,10 @@ http://www.81.cn/fyr/16495699.html
   外交部介绍德国总统施泰因迈尔访华安排
 http://www.81.cn/fyr/16495692.html
   外交部：中国将持续深化同联合国全方位合作
+http://www.81.cn/ss_208539/16496541.html
+  专访｜全面从严治党是中国共产党永葆生机活力的关键——访俄罗斯共产党中央委员会副主席诺维科夫
+http://www.81.cn/ss_208539/16496540.html
+  全国人大常委会副委员长郑建邦率团出席第十二届金砖国家议会论坛
 http://www.81.cn/ss_208539/16496524.html
   中国青少年发展基金会拨付资金支持西藏那曲救灾
 http://www.81.cn/ss_208539/16496516.html
@@ -368,10 +372,6 @@ http://www.81.cn/ss_208539/16496442.html
   国际观察丨胜选后，卢拉将如何开启第四任期
 http://www.81.cn/ss_208539/16496420.html
   纪念东京审判开庭80周年图片展在纽约联合国总部开展
-http://www.81.cn/ss_208539/16496412.html
-  二十届中央第八轮巡视完成进驻
-http://www.81.cn/ss_208539/16496376.html
-  特写：驻华使节眼中的长征
 http://www.81.cn/zt/2023nzt/xxgcxjpxsdzgtsshzysxztjy/index.html
 http://www.81.cn/zt/2023nzt/flsxjjbnmbjkjcsjyljd/index.html
 http://www.81.cn/bz_208549/jdt_208550/16496331.html
@@ -430,22 +430,22 @@ http://www.81.cn/lj_208555/16496084.html
   陆军某旅弘扬互助传统激发练兵热情
 http://www.81.cn/hj_208557/jdt_208558/16495604.html
   在深蓝远征中校准和平航向——海军第48批护航编队履行职责使命回眸
+http://www.81.cn/hj_208557/16496542.html
+  新一代“长征”潜艇官兵接续奋斗，锻造共和国“水下盾牌”
 http://www.81.cn/hj_208557/16495603.html
   中国海军第48批护航编队完成任务返回青岛
 http://www.81.cn/hj_208557/16495338.html
   砺剑大洋，直击海军某护卫舰支队实弹射击训练
-http://www.81.cn/hj_208557/16496490.html
-  北部战区海军某大队：换届不卸责，场地接着建
 http://www.81.cn/hj_208557/jdt_208558/16496127.html
   海军某支队开展训练
 http://www.81.cn/hj_208557/jdt_208558/16496092.html
   海军某支队开展舰载直升机跨昼夜起降训练
+http://www.81.cn/hj_208557/16496490.html
+  北部战区海军某大队：换届不卸责，场地接着建
 http://www.81.cn/hj_208557/16496110.html
   海军某部“红井连”赓续爱民为民优良传统
 http://www.81.cn/hj_208557/16493415.html
   昼夜接续，战鹰砺羽不打烊
-http://www.81.cn/hj_208557/16493302.html
-  海军“吉祥方舟”号医院船访问科特迪瓦
 http://www.81.cn/kj_208559/jdt_208560/16494851.html
   执笔为剑，卫国擎天丨2027年空军文职人员公开招考宣介活动，向青年发出强军邀约
 http://www.81.cn/kj_208559/16495878.html
@@ -825,18 +825,18 @@ http://www.81.cn/js_208585/16487677.html
   我家门口的光荣牌
 http://eng.chinamil.com.cn/2025xb/H_251454/F_251457/16495700.html
   Multiple helicopters lift off for training
-http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16495609.html
-  Xi orders all-out rescue efforts after 7.0-magnitude earthquake in Xizang
-http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16495468.html
-  Xi calls for new achievements on new Long March
+http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16496545.html
+  Xi Focus: Xi leads CPC to advance full, rigorous self-governance
+http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16496486.html
+  6th Chinese Peacekeeping Helicopter Contingent to UNISFA completes equipment rotation mission
+http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16496468.html
+  China, Indonesia hold joint counter-terrorism training
+http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16496348.html
+  China to host UN peacekeeping senior strategic seminar
+http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16496308.html
+  Chinese peacekeepers complete emergency reinforcement mission in Abyei
 http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16496078.html
   76th anniv. of CPV's participation in War to Resist U.S. Aggression and Aid Korea commemorated in NE China's Shenyang
-http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16495898.html
-  Chinese naval hospital ship arrives in Ghana on medical mission
-http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16495718.html
-  China-Pakistan "Karakoram-2026" Joint Army Training Concludes
-http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16495690.html
-  48th Chinese naval escort taskforce returns to Qingdao
 http://eng.chinamil.com.cn/2025xb/B/16493677.html
   Ode to the Long March | The Spark Ignites
 http://eng.chinamil.com.cn/2025xb/B/16493496.html
