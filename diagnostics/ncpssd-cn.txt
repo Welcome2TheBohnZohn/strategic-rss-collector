@@ -84,14 +84,10 @@ https://www.ncpssd.cn/message?id=18622
   积极助力现代公共文化服务体系建设 ——国家哲学社会科学文献中心走进贵州省“两会”
 https://www.ncpssd.cn/message?id=18580
   国家哲学社会科学文献中心为贵阳市“两会”提供学术资源服务
-https://www.ncpssd.cn/message?id=22428
-  习近平：在纪念中国工农红军长征胜利90周年大会上的讲话
 https://www.ncpssd.cn/message?id=22469
   中共中央政治局召开会议 中共中央总书记习近平主持会议
 https://www.ncpssd.cn/message?id=22471
   习近平同比利时国王菲利普就中比建交55周年互致贺信
-https://www.ncpssd.cn/message?id=22430
-  习近平对西藏那曲市巴青县7.0级地震作出重要指示
 https://www.ncpssd.cn/message?id=19563
   国家哲学社会科学文献中心发布最受欢迎期刊报告
 https://www.ncpssd.cn/message?id=19564
@@ -110,12 +106,16 @@ https://www.ncpssd.cn/sso/getTokenCurrentUser?ssoClient=wxEN
   getTokenCurrentUser
 https://www.ncpssd.cn/Literature/ancientbooklistNew?nav=5
   ancientbooklistNew
+https://www.ncpssd.cn/message?id=22473
+  习近平向日本前首相福田康夫遗属致唁电
 https://www.ncpssd.cn/js/jquery.hiSlider.js
   jquery.hiSlider.js
 https://www.ncpssd.cn/js/sensorsdata.min.js
   sensorsdata.min.js
 https://www.ncpssd.cn/Literature/ancientbooklistNew
   ancientbooklistNew
+https://www.ncpssd.cn/message?id=22472
+  习近平致电祝贺卢拉当选连任巴西总统
 
 === ALL DISCOVERED LINKS ===
 
@@ -159,16 +159,16 @@ https://www.ncpssd.cn/messages
 https://www.ncpssd.cn/message?id=22436
 https://www.ncpssd.cn/message?id=22426
 https://www.ncpssd.cn/message?id=22416
+https://www.ncpssd.cn/message?id=22473
+  习近平向日本前首相福田康夫遗属致唁电
+https://www.ncpssd.cn/message?id=22472
+  习近平致电祝贺卢拉当选连任巴西总统
 https://www.ncpssd.cn/message?id=22471
   习近平同比利时国王菲利普就中比建交55周年互致贺信
 https://www.ncpssd.cn/message?id=22470
   习近平向2026全球治理论坛（雄安）致信
 https://www.ncpssd.cn/message?id=22469
   中共中央政治局召开会议 中共中央总书记习近平主持会议
-https://www.ncpssd.cn/message?id=22430
-  习近平对西藏那曲市巴青县7.0级地震作出重要指示
-https://www.ncpssd.cn/message?id=22428
-  习近平：在纪念中国工农红军长征胜利90周年大会上的讲话
 https://www.ncpssd.cn/message?id=19563
   国家哲学社会科学文献中心发布最受欢迎期刊报告
 https://www.ncpssd.cn/message?id=19564
