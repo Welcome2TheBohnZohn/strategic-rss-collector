@@ -70,8 +70,8 @@ While I do not subscribe to that logic, I will send it back to its authors via T
 Here in Russia, the court will give
 the final legal assessment
 of the circumstances of the case.
-As for Japanese commentators who so confidently claim that being a journalist inherently rules out involvement in intelligence activities, t
-hey would do well to familiarise themselves with their own history first.
+As for Japanese commentators who so confidently claim that being a journalist inherently rules out involvement in intelligence activities,
+they would do well to familiarise themselves with their own history first.
 Kuroi’s book
 was published in Tokyo,
 Sugishima’s account
