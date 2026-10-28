@@ -10,8 +10,6 @@ All links discovered: 528
 
 === MATCHED CANDIDATES ===
 
-http://www.81.cn/yw_208727/16496535.html
-  不断实现党的自我净化、自我完善、自我革新、自我提高——习近平党建思想引领新时代全面从严治党系列述评之三
 http://www.81.cn/pl_208541/16496222.html
   科学认识新时代全面从严治党的伟大成就与重要启示（深入学习贯彻习近平新时代中国特色社会主义思想）
 http://www.81.cn/ss_208539/16496541.html
@@ -22,6 +20,8 @@ http://www.81.cn/dy_208579/16495661.html
   山东省威海市文登区与新疆边防哨所开展视频连线教育活动——“云端”共话国防情
 http://www.81.cn/hjj_208561/jdt_208562/16486919.html
   “中国火箭军”新媒体矩阵推出微短剧《东风起》——铸剑之路在AI光影里铺展
+http://www.81.cn/ss_208539/16496715.html
+  向“新”而行 以“质”争先——从“十五五”专项规划看新质生产力发展前景
 http://www.81.cn/jw_208551/16471442.html
   中央军委发出通报 表彰全军优秀共产党员、优秀党务工作者和先进基层党组织
 http://www.81.cn/wz_208577/16459656.html
@@ -42,10 +42,10 @@ http://www.81.cn/wj_208604/16495020.html
   “巴尔斯”远程拦截无人机——“以机打机”能否破解反无人机作战难题
 http://www.81.cn/kj_208559/16492102.html
   徙木立信在军营丨空军某部党委探索重难点问题“揭榜攻关”工作机制
-http://www.81.cn/yw_208727/16496561.html
-  肩并肩 练协同——中巴“喀喇昆仑-2026”陆军联合训练见闻
 http://www.81.cn/ss_208539/16496540.html
   全国人大常委会副委员长郑建邦率团出席第十二届金砖国家议会论坛
+http://www.81.cn/pl_208541/16496714.html
+  新华时评·中国经济新观察｜抓好秋冬种，为明年农业生产打好基础
 http://www.81.cn/xx_207779/16496703.html
   拾光纪·“只要触犯了党纪国法，都要受到严肃追究和严厉惩处”
 http://www.81.cn/nb_208573/jdt_208574/16488421.html
@@ -102,14 +102,14 @@ http://www.81.cn/wz_208577/16463518.html
   为何仅入职一年多的文职人员，就接连经历3个“没想到”？
 http://www.81.cn/js_208585/jdt_208586/16469323.html
   随军家属安置工作持续提质增效，一系列务实举措为军属解忧
-http://www.81.cn/yw_208727/16496448.html
-  中印尼“利刃-2026”陆军反恐联合训练举行开训仪式
+http://www.81.cn/yw_208727/16496737.html
+  持续深化政治整训·军营新风丨别让捎带早餐“捎”走规矩
+http://www.81.cn/ss_208539/16496720.html
+  2028年洛杉矶奥运会和残奥会口号公布：“群星共耀”
 http://www.81.cn/jw_208551/jdt_208552/16438857.html
   中央军委主席习近平签署命令 发布《军事理论工作条例》
 http://www.81.cn/zq_208553/16496176.html
   让阳光照进“敏感地带”，向不正之风和人情关系说“不”
-http://www.81.cn/lj_208555/jdt_208556/16495634.html
-  “擦肩”战斗闯难关，第82集团军某旅官兵传承长征精神
 
 === ALL DISCOVERED LINKS ===
 
@@ -248,22 +248,36 @@ http://www.81.cn/zt/2024nzt/srxxgcxjpwhsx/index.html
 http://www.81.cn/zt/2026nzt/slhjxzqzjg/index.html
 https://www.xuexi.cn/
 http://www.81.cn/xxqj_207719/index.html
-http://www.81.cn/jwtt/16496560.html
-  在习近平强军思想指引下·奋进强军路 打好攻坚战丨攻坚路上的“实战之思”
+http://www.81.cn/jwtt/16496738.html
+  探寻“中国之治”的成功密码——新时代全面从严治党为世界政党建设带来深刻启迪
 http://www.81.cn/yw_208727/16496507.html
   习近平致电祝贺卢拉当选连任巴西总统
 http://www.81.cn/yw_208727/16496510.html
   习近平向日本前首相福田康夫遗属致唁电
-http://www.81.cn/yw_208727/16496535.html
-  不断实现党的自我净化、自我完善、自我革新、自我提高——习近平党建思想引领新时代全面从严治党系列述评之三
 http://www.81.cn/yw_208727/16496575.html
   党和人民军队铿锵前进的制胜之道
+http://www.81.cn/yw_208727/16496730.html
+  我军基层建设底盘更稳活力更足
+http://www.81.cn/yw_208727/16496732.html
+  西部战区空军某部聚力提高党委领战能力
+http://www.81.cn/yw_208727/16496733.html
+  清风正气歌丨长征路上的民心答卷
+http://www.81.cn/yw_208727/16496739.html
+  强军论坛丨 提高保障的精度与速度
+http://www.81.cn/yw_208727/16496734.html
+  万里边疆行丨江海前哨筑防线
+http://www.81.cn/yw_208727/16496737.html
+  持续深化政治整训·军营新风丨别让捎带早餐“捎”走规矩
+http://www.81.cn/yw_208727/16496740.html
+  陆军兵种大学某系聚焦战场需求推动教学改革
+http://www.81.cn/yw_208727/16496741.html
+  空军某部挖掘气象雷达潜能深化对抗训练
 http://www.81.cn/yw_208727/16496565.html
   海军某基地深入学习贯彻习近平强军思想——从严管党治党 凝聚胜战力量
-http://www.81.cn/yw_208727/16496538.html
-  新华社评论员：谱写新时代强军兴军新篇章
 http://www.81.cn/yw_208727/16496566.html
   八一锐评丨善“磨刀”方能利“砍柴”
+http://www.81.cn/yw_208727/16496724.html
+  新华社评论员：坚持党的领导 加强党的建设
 http://www.81.cn/yw_208727/16496647.html
   中方赴法德举行防务战略磋商
 http://www.81.cn/yw_208727/16496556.html
@@ -274,20 +288,6 @@ http://www.81.cn/yw_208727/16496645.html
   8位在韩中国人民志愿军烈士身份被确认
 http://www.81.cn/yw_208727/16496558.html
   信息支援部队某部打造信息服务平台畅通民主渠道
-http://www.81.cn/yw_208727/16496574.html
-  军营观察丨茫茫戈壁，有一片“精神的绿洲”
-http://www.81.cn/yw_208727/16496570.html
-  任务部队持续奋战在那曲抗震救灾一线
-http://www.81.cn/yw_208727/16496568.html
-  国旗之下同心 国歌声里同行
-http://www.81.cn/yw_208727/16496559.html
-  联合国维和高级战略研讨班在长沙举办
-http://www.81.cn/yw_208727/16496561.html
-  肩并肩 练协同——中巴“喀喇昆仑-2026”陆军联合训练见闻
-http://www.81.cn/yw_208727/16496448.html
-  中印尼“利刃-2026”陆军反恐联合训练举行开训仪式
-http://www.81.cn/yw_208727/16496567.html
-  “中原观训”系列报道丨战场保障“一键响应”
 http://www.81.cn/syjdt/16496669.html
   《星火照征途》・第一集《一把军号》
 http://www.81.cn/syjdt/16496166.html
@@ -350,6 +350,12 @@ http://www.81.cn/fyr/16495929.html
   商务部回应美发布新版对外投资限制拟议规则
 http://www.81.cn/fyr/16495726.html
   商务部：敦促美方立即停止对中国科研机构采取歧视性、限制性措施
+http://www.81.cn/ss_208539/16496731.html
+  刘延东同志逝世
+http://www.81.cn/ss_208539/16496720.html
+  2028年洛杉矶奥运会和残奥会口号公布：“群星共耀”
+http://www.81.cn/ss_208539/16496715.html
+  向“新”而行 以“质”争先——从“十五五”专项规划看新质生产力发展前景
 http://www.81.cn/ss_208539/16496687.html
   李鸿忠会见欧洲议会国际贸易委员会代表团
 http://www.81.cn/ss_208539/16496680.html
@@ -366,12 +372,6 @@ http://www.81.cn/ss_208539/16496540.html
   全国人大常委会副委员长郑建邦率团出席第十二届金砖国家议会论坛
 http://www.81.cn/ss_208539/16496524.html
   中国青少年发展基金会拨付资金支持西藏那曲救灾
-http://www.81.cn/ss_208539/16496516.html
-  何维会见欧洲议会左翼党团代表团
-http://www.81.cn/ss_208539/16496464.html
-  国际可再生能源署：中国为全球能源转型作出重要贡献
-http://www.81.cn/ss_208539/16496459.html
-  中方敦促妥善解决海湾战争科威特失踪人员和财产问题
 http://www.81.cn/zt/2023nzt/xxgcxjpxsdzgtsshzysxztjy/index.html
 http://www.81.cn/zt/2023nzt/flsxjjbnmbjkjcsjyljd/index.html
 http://www.81.cn/bz_208549/jdt_208550/16496331.html
@@ -580,6 +580,8 @@ http://www.81.cn/ll_208543/16496367.html
   学有所思丨当官就要做到端端正正
 http://www.81.cn/pl_208541/jdt_208542/16496525.html
   漫评丨借“安全焦虑”搞海外军事扩张，日本又要为祸人间
+http://www.81.cn/pl_208541/16496714.html
+  新华时评·中国经济新观察｜抓好秋冬种，为明年农业生产打好基础
 http://www.81.cn/pl_208541/16496620.html
   持之以恒推进全面从严治党
 http://www.81.cn/pl_208541/16496526.html
@@ -588,8 +590,6 @@ http://www.81.cn/pl_208541/16496446.html
   外媒这样看长征精神——读懂长征 读懂当代中国（国际论道）
 http://www.81.cn/pl_208541/16496222.html
   科学认识新时代全面从严治党的伟大成就与重要启示（深入学习贯彻习近平新时代中国特色社会主义思想）
-http://www.81.cn/pl_208541/16495968.html
-  新华社评论员：坚守党的理想信念宗旨 创造新的历史伟业
 http://www.81.cn/wh_208575/jdt_208576/16491845.html
   中国第16批赴南苏丹（瓦乌）维和部队通过联合国战备能力评估
 http://www.81.cn/wh_208575/16494667.html
@@ -823,20 +823,20 @@ http://www.81.cn/js_208585/16496045.html
   短暂的相聚时光，为军人留下心底柔软的念想
 http://www.81.cn/js_208585/16487677.html
   我家门口的光荣牌
-http://eng.chinamil.com.cn/2025xb/H_251454/F_251457/16495700.html
-  Multiple helicopters lift off for training
+http://eng.chinamil.com.cn/2025xb/H_251454/F_251457/16496679.html
+  Surface-to-air missile streaks skyward
 http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16496545.html
   Xi Focus: Xi leads CPC to advance full, rigorous self-governance
+http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16496709.html
+  China confirms identities of 8 more CPV martyrs from War to Resist U.S. Aggression and Aid Korea
+http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16496693.html
+  China-Indonesia "Sharp Knife 2026" joint army counter-terrorism training kicks off
+http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16496677.html
+  Chinese military holds strategic consultations with France, Germany
 http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16496486.html
   6th Chinese Peacekeeping Helicopter Contingent to UNISFA completes equipment rotation mission
 http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16496468.html
   China, Indonesia hold joint counter-terrorism training
-http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16496348.html
-  China to host UN peacekeeping senior strategic seminar
-http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16496308.html
-  Chinese peacekeepers complete emergency reinforcement mission in Abyei
-http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16496078.html
-  76th anniv. of CPV's participation in War to Resist U.S. Aggression and Aid Korea commemorated in NE China's Shenyang
 http://eng.chinamil.com.cn/2025xb/B/16493677.html
   Ode to the Long March | The Spark Ignites
 http://eng.chinamil.com.cn/2025xb/B/16493496.html
@@ -1035,7 +1035,7 @@ http://www.81.cn/wj_208604/jdt_208605/_attachment/2026/07/10/16472973_7b13b521e9
 http://www.81.cn/jy_208587/jdt_208588/_attachment/2026/09/21/16487939_565353f8a5af7298df75b218e3f98dfa.jpg
 http://www.81.cn/lb_208583/jdt_208584/_attachment/2026/10/16/16495669_91c1809accc9355a0538339a1cc4924f.jpg
 http://www.81.cn/js_208585/jdt_208586/_attachment/2026/05/26/16469323_1259bdded6780f0acacbf574df89b3e3.jpg
-http://www.81.cn/ChinaMilitary/tjtw/_attachment/2026/10/25/16496082_f30a2f76ef36f3d57fa4dc221bad7478.jpg
+http://www.81.cn/ChinaMilitary/tjtw/_attachment/2026/10/28/16496721_5f3d94ef4c54bde49e436d4e7ed0e83f.jpg
 http://mail.chinamil.com.cn/
 http://www.81.cn/template/tenant207/t829/css/footer.css
 http://www.81.cn/template/tenant207/t1774/js/javascript.js?v=3.0.3

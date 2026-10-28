@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>National University of Defense Technology Journal</title><link>https://journal.nudt.edu.cn/</link><description>Generated RSS feed for National University of Defense Technology Journal</description><language>zh-CN</language><lastBuildDate>Wed, 28 Oct 2026 13:12:16 +0000</lastBuildDate><item><title>多核数字信号处理器矩阵乘卷积算法性能评测</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/202301009?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/202301009?tab=abstract</guid><pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate><description>(1. 国防科技大学 计算机学院, 湖南 长沙 410073;2. 国防科技大学 并行与分布处理国防科技重点实验室, 湖南 长沙 410073)
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>National University of Defense Technology Journal</title><link>https://journal.nudt.edu.cn/</link><description>Generated RSS feed for National University of Defense Technology Journal</description><language>zh-CN</language><lastBuildDate>Wed, 28 Oct 2026 22:47:04 +0000</lastBuildDate><item><title>多核数字信号处理器矩阵乘卷积算法性能评测</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/202301009?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/202301009?tab=abstract</guid><pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate><description>(1. 国防科技大学 计算机学院, 湖南 长沙 410073;2. 国防科技大学 并行与分布处理国防科技重点实验室, 湖南 长沙 410073)
 
 王庆林(1987—),男,贵州思南人,副研究员,博士,硕士生导师,E-mail:wangqinglin_thu@163.com; 裴向东(通信作者),男,山西长治人,博士研究生,E-mail:18903588277@163.com
 
@@ -895,7 +895,613 @@ a
 Fig.
 2
 Vibration amplitude of the wing flutter system varies with speed
-2.2 气动弹性阵风响应特性&lt;/pre&gt;</content:encoded></item><item><title>双向门控循环时序网络驱动的空海域目标意图识别</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260420?st=search&amp;tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260420?st=search&amp;tab=abstract</guid><description>双向门控循环时序网络驱动的空海域目标意图识别
+2.2 气动弹性阵风响应特性
+采用龙格-库塔法对机翼气动弹性系统的阵风响应进行分析，其中
+ζ
+s
+=0.1，
+ω
+p
+=1.0，
+μ
+s
+=0.01，
+d
+=-0.7，
+δ
+s
+=0.000 1，
+l
+=100，
+α
+g
+=-4/150，仿真结果如
+图3~6
+所示。
+图
+3
+阵风响应位移随时间的变化
+Fig.
+3
+Variation of gust response displacement with time
+图
+4
+阵风响应速度随时间的变化
+Fig.
+4
+Variation of gust response speed with time
+图
+5
+阵风响应加速度随时间的变化
+Fig.
+5
+Variation of gust response acceleration with time
+图
+6
+相对位移及碰撞力随时间的变化曲线
+Fig.
+6
+Variation of relative displacement and contact force with time
+图3
+为机翼气动弹性阵风响应位移随时间的变化曲线。由
+图3
+可以看出，机翼在未遇到风时，气动弹性系统处于稳定状态，振动位移幅值为0。当机翼在无量纲时间5 000遇到阵风后，系统出现振荡现象。在沉浮方向，由于阵风的存在，响应的振动中心偏移至9.5×10
+-5
+处；振幅最大出现在第一个响应峰，为1.24×10
+-4
+，随后系统振幅逐渐减小并降至1.05×10
+-4
+；当阵风在无量纲时间10 000突然消失后，气动弹性系统的振动中心回归到0点，不再出现中心偏移的情况，振幅最大为1.28×10
+-4
+，之后系统在阻尼作用下振动幅值逐渐减小，当时间为50 000时振幅下降至3.5×10
+-5
+。而当采用碰振吸振子进行控制后，在阵风出现时刻振动中心的偏移量与无控情况保持一致，振动幅值为1.23×10
+-4
+，相比无控系统略有下降；当时间为50 000时振动幅值下降至9.5×10
+-6
+，相比无控系统振幅减小72.9%，说明在碰振吸振子的作用下振动幅值会有明显的下降。在俯仰方向，阵风响应的振动中心偏移至-7.2×10
+-5
+处，振动幅值为2.9×10
+-4
+，随后逐渐下降至阵风消失前的1.33×10
+-4
+；当阵风在无量纲时间10 000突然消失后，系统响应的振动中心回到0点，振幅变为2.9×10
+-4
+，随后在阻尼作用下逐渐下降至6.93×10
+-5
+。而当采用碰振吸振子进行控制后，在阵风出现时刻振幅为2.58×10
+-4
+，随后逐渐减小至1.15×10
+-4
+；当阵风在无量纲时间10 000突然消失后，系统响应的振动中心回到0点，振幅变为2.33×10
+-4
+，随后逐渐下降至2.85×10
+-5
+，相比无控系统振幅下降58.9%。从沉浮位移幅值和俯仰位移幅值两方面均可以看出，碰振吸振子对气动弹性阵风响应的减缓具有较好的效果。
+图4
+给出了机翼气动弹性系统阵风响应速度随时间的变化曲线。由
+图4
+可以看出，机翼气动弹性系统在遇到阵风后开始振动。在沉浮方向，最大速度幅值出现在5 980时刻左右，约为5.2×10
+-6
+，随后振动速度幅值逐渐减小，在无量纲时间50 000时刻，振动速度幅值降至2.46×10
+-7
+；当采用碰振吸振子对气动弹性系统进行控制后，其最大幅值出现在第一个峰值，约为5.0×10
+-6
+，在无量纲时间为50 000时，其振动速度减小为2×10
+-7
+，相比无控气动弹性系统振动速度幅值约减小18.7%。同时，由于碰振吸振子的存在，机翼振动速度会出现突变，主要是因为吸振子在运动过程中与机翼蒙皮发生了碰撞，产生了内部的附加力，这也是碰振吸振子起到了作用。在俯仰方向，振动速度的变化情况也比较相似，其最大振动速度幅值为1.05×10
+-5
+，随后逐渐减小至6.5×10
+-7
+；而有碰振吸振子的系统速度峰值为8.95×10
+-6
+，随后逐渐减小至6.0×10
+-7
+，速度幅值约减小7.7%。同样，由于碰振吸振子的存在，机翼俯仰方向的振动速度也出现了速度突变的情况。因此，从阵风响应振动速度的角度可以看出，碰振吸振子可以改变阵风响应的速度，使响应速度产生突变，对阵风响应的减缓具有一定的效果。
+响应加速度是衡量阵风响应的主要指标，可以反映出机翼的载荷大小。
+图5
+给出了机翼气动弹性系统阵风响应加速度随时间的变化曲线。由
+图5
+可以看出，机翼气动弹性系统的阵风加速度在遇到阵风后会出现比较大的加速度幅值，随后加速度逐渐减小。相比无控状态气动弹性系统，有碰振吸振子的振动加速度会有比较明显的局部峰值，其峰值有些时刻甚至会超过无控系统，如在无量纲时间5 595时刻，其局部加速度峰值达到了2.65×10
+-7
+，超过了无控系统的峰值。但这些局部突变加速度持续时间较短，因此其振动加速度总均方根值（root mean square, RMS）相对较小。根据统计分析，在沉浮方向，阵风响应的加速度均方根值为3.85×10
+-8
+，而有碰振吸振子系统其加速度均方根值为3.16×10
+-8
+，相对而言下降17.9%。在俯仰方向，无控系统的加速度均方根值为7.38×10
+-8
+，有碰振吸振子系统的加速度均方根值为5.94×10
+-8
+，下降比例为19.5%。因此，从振动加速度可以看出，碰振吸振子的引入可以减小响应加速度的均方根值，对于气动弹性阵风响应具有较好的减缓效果。
+为更好地分析碰振吸振子对气动弹性响应的减缓机制，分析碰振吸振子在阵风响应减缓中的作用过程，记机翼与振子的相对位移为
+δ
+t
+：
+δ
+t
+=
+ξ
++
+d
+α
+−
+ξ
+s
+（13）
+当-
+δ
+s
+&amp;lt;
+δ
+t
+&amp;lt;
+δ
+s
+时，说明振子与蒙皮间仍具有间隙而不会发生碰撞；当
+δ
+t
+=
+δ
+s
+或
+δ
+t
+=-
+δ
+s
+时，振子与机翼蒙皮间隙为0；当
+δ
+t
+&amp;gt;
+δ
+s
+或
+δ
+t
+&amp;lt;-
+δ
+s
+时，振子与蒙皮发生碰撞，此时会产生一定的碰撞力。机翼与振子的相对位移以及碰撞力随时间的变化规律如
+图6
+所示。由
+图6
+可以看出，在阵风刚出现时，相对位移值比较大，频繁到达或超过0.000 1，说明在阵风初始阶段，碰振吸振子与蒙皮发生碰撞，吸收动力学响应的能量从而减缓响应幅值，其对应时刻的碰撞力也相对较大。而随着时间推移，动力学响应振动幅值逐渐减小，使得相对位移逐渐小于原始间隙值0.000 1，此时吸振子将退化为传统的线性系统，不再发生碰撞非线性过程，其碰撞力变为0。
+2.3 碰振吸振子参数对阵风响应减缓的影响
+碰振吸振子参数的选取会对气动弹性系统阵风减缓特性有一定的影响，本小节分析吸振子自振频率比
+ω
+p
+、碰撞刚度
+K
+i
+、初始间隙
+δ
+s
+、安装位置与弹性轴之间的相对距离
+d
+等参数对阵风减缓效果的影响。
+图7
+给出了机翼气动弹性系统阵风响应加速度均方根值随碰振吸振子自振频率比
+ω
+p
+的变化曲线。由
+图7
+可以看出，随着自振频率比的增大，气动弹性系统阵风响应的加速度均方根值呈现先减小后增大的趋势。在
+ω
+p
+=0.2时，沉浮方向的加速度均方根值为3.36×10
+-8
+，并随着
+ω
+p
+的增大而逐渐减小；当
+ω
+p
+=3.4时，达到最小的3.11×10
+-8
+，之后又随
+ω
+p
+的增大而不断增大；当
+ω
+p
+=6时，加速度均方根值增大至3.21×10
+-8
+。在俯仰方向呈现同样的先减小后增大的情况，在
+ω
+p
+=0.2时，俯仰方向振动加速度均方根值为6.41×10
+-8
+；当
+ω
+p
+增大至3.6时，加速度均方根值降至最低的5.76×10
+-8
+，随后均方根值随自振频率比
+ω
+p
+增大而逐渐增大；当
+ω
+p
+=6时，增大至5.96×10
+-8
+。因此，在碰振吸振子自振频率比变化的过程中，存在一个最优数值使得系统阵风响应加速度均方根值最小，此时阵风减缓效果最好。
+图
+7
+均方根值随自振频率比的变化曲线
+Fig.
+7
+RMS of response acceleration varies with frequency ratio
+碰撞刚度主要反映的是碰振吸振子与机翼蒙皮两者的弹性模量、泊松比等材料性能以及接触面的半径、嵌入深度等接触特性。碰撞刚度对气动弹性系统阵风减缓的影响如
+图8
+所示。由
+图8
+可以看出，随着碰撞刚度的增大，阵风响应的均方根值逐渐增大，其阵风减缓效果减弱。当碰撞刚度为4×10
+4
+时，沉浮方向的加速度均方根值为3.2×10
+-8
+，俯仰方向为5.86×10
+-8
+；当碰撞刚度增大至3.6×10
+7
+时，沉浮方向的加速度均方根值为3.7×10
+-8
+，俯仰方向为7.32×10
+-8
+，分别增大了15.6%和24.9%。因此，更小的碰撞刚度可以使系统响应加速度均方根值更小，阵风响应减缓效果更好。
+图
+8
+均方根值随碰撞刚度的变化曲线
+Fig.
+8
+RMS of response acceleration varies with contact stiffness
+图9
+给出了碰振吸振子与蒙皮间的初始间隙
+δ
+s
+对阵风减缓的影响规律。由
+图9
+可以看出，在间隙小于5.5×10
+-4
+时，气动弹性系统阵风响应的加速度均方根值随初始间隙的增大而增大。在初始间隙
+δ
+s
+=5×10
+-5
+时，沉浮方向的加速度均方根值为3.23×10
+-8
+，俯仰方向为6.04×10
+-8
+。随着初始间隙
+δ
+s
+的不断增大，在
+δ
+s
+=5.5×10
+-4
+时，沉浮方向的加速度均方根值为4.31×10
+-8
+，增大了33.4%；俯仰方向的均方根值为9.11×10
+-8
+，增大了50.8%。这说明间隙越小，碰振吸振子起的作用越大，具有更好的阵风减缓效果。而当初始间隙大于5.5×10
+-4
+后，阵风响应的加速度均方根值保持不变，此时碰振吸振子将不会与机翼蒙皮发生碰撞，其将退化为由线性刚度和阻尼组成的线性系统。
+图
+9
+均方根值随初始间隙的变化曲线
+Fig.
+9
+RMS of response acceleration varies with initial gap
+碰振吸振子安装位置与弹性轴之间的相对距离
+d
+对机翼气动弹性系统阵风减缓的影响如
+图10
+所示。由
+图10
+可以看出，随着安装位置与弹性轴相对距离
+d
+的变化，阵风响应加速度均方根值呈现先增大后减小的趋势。当安装位置靠近机翼前缘（
+d
+=-0.7）时，沉浮方向的均方根值为3.16×10
+-8
+，俯仰方向为5.93×10
+-8
+。随着安装位置逐渐远离前缘，其加速度均方根逐渐增大，在
+d
+=-0.3时，加速度均方根值达到最大，此时沉浮方向为4.52×10
+-8
+，俯仰方向为8.97×10
+-8
+。此后，随着碰振吸振子安装位置逐渐靠近机翼后缘，阵风响应的加速度均方根值逐渐减小，在
+d
+=0.5时，沉浮方向为3.77×10
+-8
+，俯仰方向为7.31×10
+-8
+。从整体来看，碰振吸振子离机翼前缘较近时，其响应加速度均方根值更小，阵风响应的减缓效果更好。
+图
+10
+均方根值随安装位置的变化曲线
+Fig.
+10
+RMS of response acceleration varies with installation position
+3 结论
+将碰振吸振子应用于高速机翼气动弹性系统的阵风响应减缓中，研究了碰振吸振子参数对阵风响应的减缓效果及影响规律，主要得出以下结论：
+1）在特定参数下，碰振吸振子对机翼气动弹性阵风响应有很好的减缓效果。从阵风响应位移、响应速度以及响应加速度多个方面分析表明，碰振吸振子可以通过与机翼蒙皮间的碰撞，吸收、转移机翼阵风响应的能量，从而达到阵风减缓的效果。
+2）碰振吸振子参数对阵风响应减缓效果有较大影响。减小碰撞刚度和减小初始间隙均可以提升气动弹性系统阵风响应减缓效果。而碰振吸振子自振频率比需要优化选取，其存在一个最优的频率比使得系统具有较好的阵风响应减缓效果。对于碰振吸振子的安装位置，离机翼前缘较近时其阵风减缓效果更明显。
+碰振吸振子在机翼气动弹性阵风响应减缓方面具有比较好的效果，为机翼的结构设计及阵风响应减缓提供了新的思路，在超声速飞行器、空天飞行器等领域均具有广阔的应用前景。碰振吸振子结构简单，易于在飞行器机翼上实现，后续可瞄准其在实现过程中的具体形式和具体结构，并考虑其对其他专业、其他系统的影响，开展一定的试验研究，为其最终应用奠定基础。
+图
+1
+机翼气动弹性系统示意图
+Fig.
+1
+Schematic of the wing aeroelastic system
+下载:
+全尺寸图片
+图
+2
+机翼颤振系统振动幅值随速度变化
+Fig.
+2
+Vibration amplitude of the wing flutter system varies with speed
+下载:
+全尺寸图片
+图
+3
+阵风响应位移随时间的变化
+Fig.
+3
+Variation of gust response displacement with time
+下载:
+全尺寸图片
+图
+4
+阵风响应速度随时间的变化
+Fig.
+4
+Variation of gust response speed with time
+下载:
+全尺寸图片
+图
+5
+阵风响应加速度随时间的变化
+Fig.
+5
+Variation of gust response acceleration with time
+下载:
+全尺寸图片
+图
+6
+相对位移及碰撞力随时间的变化曲线
+Fig.
+6
+Variation of relative displacement and contact force with time
+下载:
+全尺寸图片
+图
+7
+均方根值随自振频率比的变化曲线
+Fig.
+7
+RMS of response acceleration varies with frequency ratio
+下载:
+全尺寸图片
+图
+8
+均方根值随碰撞刚度的变化曲线
+Fig.
+8
+RMS of response acceleration varies with contact stiffness
+下载:
+全尺寸图片
+图
+9
+均方根值随初始间隙的变化曲线
+Fig.
+9
+RMS of response acceleration varies with initial gap
+下载:
+全尺寸图片
+图
+10
+均方根值随安装位置的变化曲线
+Fig.
+10
+RMS of response acceleration varies with installation position
+下载:
+全尺寸图片
+图
+1
+机翼气动弹性系统示意图
+Fig.
+1
+Schematic of the wing aeroelastic system
+图
+2
+机翼颤振系统振动幅值随速度变化
+Fig.
+2
+Vibration amplitude of the wing flutter system varies with speed
+图
+3
+阵风响应位移随时间的变化
+Fig.
+3
+Variation of gust response displacement with time
+图
+4
+阵风响应速度随时间的变化
+Fig.
+4
+Variation of gust response speed with time
+图
+5
+阵风响应加速度随时间的变化
+Fig.
+5
+Variation of gust response acceleration with time
+图
+6
+相对位移及碰撞力随时间的变化曲线
+Fig.
+6
+Variation of relative displacement and contact force with time
+图
+7
+均方根值随自振频率比的变化曲线
+Fig.
+7
+RMS of response acceleration varies with frequency ratio
+图
+8
+均方根值随碰撞刚度的变化曲线
+Fig.
+8
+RMS of response acceleration varies with contact stiffness
+图
+9
+均方根值随初始间隙的变化曲线
+Fig.
+9
+RMS of response acceleration varies with initial gap
+图
+10
+均方根值随安装位置的变化曲线
+Fig.
+10
+RMS of response acceleration varies with installation position
+PDF下载
+XML下载
+导出引用
+引用提醒
+图(10)
+手机扫码阅读
+引用本文
+钮耀斌, 杨伟奇, 黄伟. 采用碰振吸振子的高速机翼气动弹性系统阵风响应减缓[J]. 国防科技大学学报, 2026, 48(5)：205-212.
+复制
+Niu Yaobin, Yang Weiqi, Huang Wei. Gust response alleviation of aircraft wing aeroelastic system in supersonic flow using vibro-impact oscillator[J]. Journal of National University of Defense Technology, 2026, 48(5): 205-212.
+Copy
+计量
+文章访问量:
+HTML全文浏览量:
+PDF下载量:
+被引次数:
+图
+1
+机翼气动弹性系统示意图
+Fig.
+1
+Schematic of the wing aeroelastic system
+图
+2
+机翼颤振系统振动幅值随速度变化
+Fig.
+2
+Vibration amplitude of the wing flutter system varies with speed
+图
+3
+阵风响应位移随时间的变化
+Fig.
+3
+Variation of gust response displacement with time
+图
+4
+阵风响应速度随时间的变化
+Fig.
+4
+Variation of gust response speed with time
+图
+5
+阵风响应加速度随时间的变化
+Fig.
+5
+Variation of gust response acceleration with time
+图
+6
+相对位移及碰撞力随时间的变化曲线
+Fig.
+6
+Variation of relative displacement and contact force with time
+图
+7
+均方根值随自振频率比的变化曲线
+Fig.
+7
+RMS of response acceleration varies with frequency ratio
+图
+8
+均方根值随碰撞刚度的变化曲线
+Fig.
+8
+RMS of response acceleration varies with contact stiffness
+图
+9
+均方根值随初始间隙的变化曲线
+Fig.
+9
+RMS of response acceleration varies with initial gap
+图
+10
+均方根值随安装位置的变化曲线
+Fig.
+10
+RMS of response acceleration varies with installation position
+杨超, 邱祈生, 周宜涛, 等. 飞机阵风响应减缓技术综述[J]. 航空学报, 2022, 43(10): 527350.
+Yang Chao, Qiu Qisheng, Zhou Yitao, et al. Review of aircraft gust alleviation technology[J]. Acta Aeronautica et Astronautica Sinica, 2022, 43(10): 527350. (in Chinese)
+Yue Chengyu, Zhao Yonghui. Active disturbance rejection controller design for alleviation of gust-induced aeroelastic responses[J]. Aerospace Science and Technology, 2023, 133: 108116.
+Fournier H, Massioni P, Tu Pham M, et al. Robust gust load alleviation of flexible aircraft equipped with lidar[J]. Journal of Guidance, Control, and Dynamics, 2021, 45(1): 58-72.
+张育鸣, 戴玉婷, 黄广靖, 等. 柔性变形后缘翼型阵风减缓及气动噪声分析[J]. 航空学报, 2024, 45(10): 129219.
+Zhang Yuming, Dai Yuting, Huang Guangjing, et al. Gust alleviation and aeroacoustic characteristics of flexible morphing trailing edge airfoil[J]. Acta Aeronautica et Astronautica Sinica, 2024, 45(10): 129219. (in Chinese)
+Yao Zhuoer, Kan Zi, Li Daochun. Gust response of spanwise morphing wing by simulation and wind tunnel testing[J]. Aerospace, 2023, 10(4): 328.
+Niu Yaobin, Wang Zhongwei, Yang Huixin, et al. Aerothermoelastic response of hypersonic 2-D lifting surface[J]. Fluctuation and Noise Letters, 2012, 11(2): 1250017.
+Masrour J, Sadati S H, Shahravi M. Gust response analysis based on a nonlinear structural model and the unsteady aerodynamics of a flexible aircraft[J]. Aircraft Engineering and Aerospace Technology, 2023, 95(6): 899-911.
+王浩, 罗振兵, 邓雄, 等. 基于合成双射流的翼型阵风载荷减缓[J]. 航空学报, 2024, 45(16): 129660.
+Wang Hao, Luo Zhenbing, Deng Xiong, et al. Airfoil gust load alleviation based on dual synthetic jets[J]. Acta Aeronautica et Astronautica Sinica, 2024, 45(16): 129660. (in Chinese)
+Li Da, Yang Hui, Qi Na, et al. Observer-based sliding mode control for piezoelectric wing bending-torsion coupling flutter involving delayed output[J]. Journal of Vibration and Control, 2021, 27(15/16): 1824-1841.
+Yuan Jiaxin, Qiu Zhan, Wang Fuxin. Sliding mode observer controller design for a two dimensional aeroelastic system with gust load[J]. Asian Journal of Control, 2019, 21(1): 130-142.
+Li Yonghong, Qin Ning. Gust load alleviation on an aircraft wing by trailing edge circulation control[J]. Journal of Fluids and Structures, 2021, 107: 103407.
+De Souza A D R, Vuillemin P, Poussot-Vassal C, et al. Gust load alleviation using reduced-order aeroelastic models and observer-based robust control[J]. Journal of Guidance Control and Dynamics, 2023, 46(5): 949-957.
+Carrillo Córcoles X, Mertens C, Sciacchitano A, et al. Effect of wing stiffness and folding wingtip release threshold on gust loads[J]. Journal of Aircraft, 2023, 60(6): 1917-1936.
+Hu Yating, Dai Yuting, Wu You, et al. Time-domain feedforward control for gust response alleviation based on seamless morphing wing[J]. AIAA Journal, 2022, 60(10): 5707-5722.
+He Tianyi, Su Weihua. Robust control of gust-induced vibration of highly flexible aircraft[J]. Aerospace Science and Technology, 2023, 143: 108703.
+Zhou Yitao, Wu Zhigang, Yang Chao. Gust alleviation and wind tunnel test by using combined feedforward control and feedback control[J]. Aerospace, 2022, 9(4): 225.
+钮耀斌, 王中伟, 黄伟. 高速飞行器间隙非线性机翼颤振的非线性能量阱抑制[J]. 国防科技大学学报, 2024, 46(2): 79-85.
+Niu Yaobin, Wang Zhongwei, Huang Wei. Suppression of nonlinear flutter for a wing with freeplay of high speed aircraft using nonlinear energy sink[J]. Journal of National University of Defense Technology, 2024, 46(2): 79-85. (in Chinese)
+Eugeni M, Saltari F, Mastroddi F. Structural damping models for passive aeroelastic control[J]. Aerospace Science and Technology, 2021, 118: 107011.
+Liu Haojie, Wang Xiao. Aeroservoelastic design of piezo-composite wings for gust load alleviation[J]. Journal of Fluids and Structures, 2019, 88: 83-99.
+Guo Shijun, De Los Monteros J, Liu Ying. Gust alleviation of a large aircraft with a passive twist wingtip[J]. Aerospace, 2015, 2(2): 135-154.
+He Shun, Guo Shijun, Liu Ying, et al. Passive gust alleviation of a flying-wing aircraft by analysis and wind-tunnel test of a scaled model in dynamic similarity[J]. Aerospace Science and Technology, 2021, 113: 106689.
+Szczyglowski C P, Neild S A, Titurus B, et al. Passive gust loads alleviation in a truss-braced wing using an inerter-based device[J]. Journal of Aircraft, 2019, 56(6): 2260-2271.
+Wang Jingjing, Zhang Chao, Zheng Yuqiang. A novel mass damper enabled by three types of mass attachments and internal vibro impacts[J]. Journal of Sound and Vibration, 2022, 534: 117065.
+AL-Shudeifat M A, Saeed A S. Comparison of a modified vibro-impact nonlinear energy sink with other kinds of NESs[J]. Meccanica, 2021, 56(4): 735-752.
+Li Tao, Qiu Donghai, Seguy S, et al. Activation characteristic of a vibro-impact energy sink and its application to chatter control in turning[J]. Journal of Sound and Vibration, 2017, 405: 1-18.
+Fang Bin, Theurich T, Krack M, et al. Vibration suppression and modal energy transfers in a linear beam with attached vibro-impact nonlinear energy sinks[J]. Communications in Nonlinear Science and Numerical Simulation, 2020, 91: 105415.
+Chabrier R, Chevallier G, Foltête E, et al. Experimental investigations of a vibro-impact absorber attached to a continuous structure[J]. Mechanical Systems and Signal Processing, 2022, 180: 109382.
+Wu Xuze, Sun Yu, Wang Yu, et al. Passive chaos suppression for the planar slider-crank mechanism with a clearance joint by attached vibro-impact oscillator[J]. Mechanism and Machine Theory, 2022, 174: 104882.
+Li Wenke, Wang Zhiming, Brennan M J, et al. Design and optimization of a two-degrees-of-freedom single-sided vibro-impact nonlinear energy sink for transient vibration suppression of a thin plate[J]. Journal of Sound and Vibration, 2024, 587: 118512.
+Xia Yuanfeng, Pang Jian, Yang Liang, et al. Investigation on clearance-induced vibro-impacts of torsional system based on Hertz contact nonlinearity[J]. Mechanism and Machine Theory, 2021, 162: 104342.
+Theodorsen T. General theory of aerodynamic instability and the mechanism of flutter: PB185078[R/OL]. https://ntrs.nasa.gov/api/citations/19930090935/downloads/19930090935.pdf.
+作者投稿
+投稿指南
+联系我们
+公众号
+返回顶部
+扫码关注
+官方微信
+您是今天第
+1025
+位访客
+总访问量：
+317036958
+电话：
+0731-87028030
+邮箱:journal@nudt.edu.cn
+地址：湖南省长沙市开福区德雅路109号
+邮政编码：410073
+备案号 
+：
+湘ICP备09019258号
+技术支持：北京勤云科技发展有限公司&lt;/pre&gt;</content:encoded></item><item><title>双向门控循环时序网络驱动的空海域目标意图识别</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260420?st=search&amp;tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260420?st=search&amp;tab=abstract</guid><description>双向门控循环时序网络驱动的空海域目标意图识别
 EI•CA•INSPEC•JST•SCOPUS
 中文核心期刊•CSCD•WJCI
 首页
@@ -925,7 +1531,7 @@ Deepseek
 Kimi
 English
 引用本文:
-姜廷帅，于天元，白亮, 等. 双向门控循环时序网络驱动的空海域目标意图识别[J]. 国防科技大学学报, 2026, 48(4)：211-221.
+姜廷帅, 于天元, 白亮, 等. 双向门控循环时序网络驱动的空海域目标意图识别[J]. 国防科技大学学报, 2026, 48(4): 211-221.
 Citation:
 Jiang Tingshuai, Yu Tianyuan, Bai Liang, et al. Maritime and aerial target intention recognition driven by bidirectional gated recurrent temporal networks[J]. Journal of National University of Defense Technology, 2026, 48(4)： 211-221.
 双向门控循环时序网络驱动的空海域目标意图识别
@@ -943,7 +1549,7 @@ jiangtingshuai19@nudt.edu.cn
 ，
  于天元
 角色:
-通讯作者
+通信作者
 机构:
 国防科技大学系统工程学院, 湖南 长沙 410073
 邮箱:
@@ -973,11 +1579,11 @@ ty.yu@nudt.edu.cn
 收起信息
 作者简介
 姜廷帅（2001—），男，山东聊城人，硕士研究生，E-mail: jiangtingshuai19@nudt.edu.cn
-通讯作者
+通信作者
 于天元（1992—），男，辽宁大连人，副教授，博士，硕士生导师，E-mail: ty.yu@nudt.edu.cn
 中图分类号:
 TP391.9
-文献标识码:
+文献标志码:
 A
 文章编号:
 1001-2486(2026)04-211-11
@@ -986,7 +1592,7 @@ Jiang Tingshuai
 Role:
 First Author
 Affiliation:
-College of Systems Engineering, National University of Defense Technology, Chan</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260420?st=search&amp;amp;tab=abstract&lt;/p&gt;&lt;pre&gt;双向门控循环时序网络驱动的空海域目标意图识别
+College of Systems Engineering, National University of Defense Technology, C</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260420?st=search&amp;amp;tab=abstract&lt;/p&gt;&lt;pre&gt;双向门控循环时序网络驱动的空海域目标意图识别
 EI•CA•INSPEC•JST•SCOPUS
 中文核心期刊•CSCD•WJCI
 首页
@@ -1016,7 +1622,7 @@ Deepseek
 Kimi
 English
 引用本文:
-姜廷帅，于天元，白亮, 等. 双向门控循环时序网络驱动的空海域目标意图识别[J]. 国防科技大学学报, 2026, 48(4)：211-221.
+姜廷帅, 于天元, 白亮, 等. 双向门控循环时序网络驱动的空海域目标意图识别[J]. 国防科技大学学报, 2026, 48(4): 211-221.
 Citation:
 Jiang Tingshuai, Yu Tianyuan, Bai Liang, et al. Maritime and aerial target intention recognition driven by bidirectional gated recurrent temporal networks[J]. Journal of National University of Defense Technology, 2026, 48(4)： 211-221.
 双向门控循环时序网络驱动的空海域目标意图识别
@@ -1034,7 +1640,7 @@ jiangtingshuai19@nudt.edu.cn
 ，
  于天元
 角色:
-通讯作者
+通信作者
 机构:
 国防科技大学系统工程学院, 湖南 长沙 410073
 邮箱:
@@ -1064,11 +1670,11 @@ ty.yu@nudt.edu.cn
 收起信息
 作者简介
 姜廷帅（2001—），男，山东聊城人，硕士研究生，E-mail: jiangtingshuai19@nudt.edu.cn
-通讯作者
+通信作者
 于天元（1992—），男，辽宁大连人，副教授，博士，硕士生导师，E-mail: ty.yu@nudt.edu.cn
 中图分类号:
 TP391.9
-文献标识码:
+文献标志码:
 A
 文章编号:
 1001-2486(2026)04-211-11
@@ -1108,7 +1714,7 @@ College of Systems Engineering, National University of Defense Technology, Chang
 摘要
 HTML全文
 图(12)表(9)
-参考文献
+参考文献(27)
 相似文献
 出版信息
 访问统计
@@ -1246,6 +1852,9 @@ t
 n
 (1)
 设向量
+，
+，
+，
 I
 =
 i
@@ -1370,6 +1979,8 @@ n
 中元素
 s
 与卷积核滤波器
+，
+，
 {
 0
 ，
@@ -1503,6 +2114,7 @@ t
 分别是时刻
 t
 前向和后向隐藏层的输出；
+和
 h
 →
 t
@@ -1688,6 +2300,7 @@ N
 y
 n
 表示模型预测样本的类别；
+，
 q
 ^
 n
@@ -1698,6 +2311,7 @@ n
 个样本对应于类别
 m
 的预测概率；
+，
 p
 ^
 n
@@ -1740,6 +2354,8 @@ x
 2
 (12)
 其中，
+（
+）
 ∇
 x
 f
@@ -1747,6 +2363,8 @@ f
 x
 ）
 表示模型输出的梯度，
+（
+）
 ∇
 x
 f
@@ -1860,6 +2478,7 @@ X
 i
 (15)
 其中，
+，
 x
 norm
 i
@@ -1898,6 +2517,9 @@ error
 ]
 作为评价指标。
 在意图识别任务中，计算某类意图的精确率、 召回率和 F1分数时，将该类的样本视为正类，而其余类别的样本则被视为负类。各项指标的计算公式如下所示：
+准
+确
+率
 准确率
 =
 P
@@ -1917,6 +2539,9 @@ T
 N
 F
 (16)
+精
+确
+率
 精确率
 =
 P
@@ -1927,6 +2552,9 @@ T
 P
 F
 (17)
+召
+回
+率
 召回率
 =
 P
@@ -1937,6 +2565,8 @@ T
 N
 F
 (18)
+分
+数
 F
 1
 分数
@@ -2343,7 +2973,435 @@ Comparison of evaluation metrics for different models after incorporating CGCE
 各模型计算复杂度比较
 Tab.
 9
-Comparison of computational complexity across different models&lt;/pre&gt;</content:encoded></item><item><title>嵌入图神经网络的混合整数线性规划求解器增强技术</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260414?st=search&amp;tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260414?st=search&amp;tab=abstract</guid><description>嵌入图神经网络的混合整数线性规划求解器增强技术
+Comparison of computational complexity across different models
+下载:
+全尺寸图片
+图
+1
+空海域目标作战意图识别过程
+Fig.
+1
+Recognition process of operational intentions for air and maritime targets
+图
+2
+不同作战意图轨迹
+Fig.
+2
+Trajectories under different operational intentions
+图
+3
+作战意图威胁排序与编码
+Fig.
+3
+Threat ranking and coding of operational intentions
+图
+4
+BiTCN-BiGRU-Attention整体框架
+Fig.
+4
+Overall framework of the BiTCN-BiGRU-Attention
+图
+5
+BiTCN结构
+Fig.
+5
+BiTCN structure
+图
+6
+BiGRU结构
+Fig.
+6
+BiGRU structure
+图
+7
+注意力模块基本结构
+Fig.
+7
+Basic structure of Attention module
+图
+8
+BiTCN-BiGRU-Attention模型混淆矩阵
+Fig.
+8
+BiTCN-BiGRU-Attention model confusion matrix
+图
+9
+BiTCN-BiGRU-Attention模型提取特征效果
+Fig.
+9
+Feature extraction effect of the BiTCN-BiGRU-Attention model
+图
+10
+加入CGCE后模型提取特征效果
+Fig.
+10
+Feature extraction effect of the model after adding CGCE
+图
+11
+加入CGCE后模型混淆矩阵
+Fig.
+11
+Confusion matrix of the model after adding CGGE
+图
+12
+不同
+K
+1
+与
+K
+2
+组合下模型准确率热力图
+Fig.
+12
+Heatmap of model accuracy under different combinations of
+K
+1
+and
+K
+2
+表
+1
+海空域目标特征空间
+Tab.
+1
+Feature space of air and maritime targets
+表
+2
+模型参数设置
+Tab.
+2
+Model parameter settings
+表
+3
+不同模型结果对比
+Tab.
+3
+Comparison of results for different models
+表
+4
+不同模型其他评估指标结果对比
+Tab.
+4
+Comparison of evaluation metrics for different models
+表
+5
+结果对比
+Tab.
+5
+Comparison of results
+表
+6
+其他评估指标对比
+Tab.
+6
+Comparison of other evaluation metrics
+表
+7
+不同模型加入CGCE后结果对比
+Tab.
+7
+Comparison of the results of different models after incorporating CGCE
+表
+8
+不同模型加入CGCE后其他评估指标结果对比
+Tab.
+8
+Comparison of evaluation metrics for different models after incorporating CGCE
+表
+9
+各模型计算复杂度比较
+Tab.
+9
+Comparison of computational complexity across different models
+[1]
+Xiang Wenjia, Li Xiaoyu, He Zirui, et al. Intention estimation of adversarial spatial target based on fuzzy inference[J]. Intelligent Automation &amp;amp; Soft Computing, 2023, 35(3): 3627-3639.
+[2]
+陈优敏, 李长云. 基于知识图谱的目标战术意图识别仿真[J]. 计算机仿真, 2019, 36(8): 1-4, 19.
+Chen Youmin, Li Changyun. Simulation of target tactical intention recognition based on knowledge map[J]. Computer Simulation, 2019, 36(8): 1-4, 19.(in Chinese)
+[3]
+尹翔, 张萌, 陈梦乔. 基于判别分析的空中目标作战意图识别[J]. 弹箭与制导学报, 2018, 38(3): 46-50.
+Yin Xiang, Zhang Meng, Chen Mengqiao. Combat intention recognition of the target in the air based on discriminant analysis[J]. Journal of Projectiles, Rockets, Missiles and Guidance, 2018, 38(3): 46-50.(in Chinese)
+[4]
+Xu Yuheng, Cheng Siyi, Zhang Hubiao, et al. Air target combat intention identification based on IE-DSBN[C]//International Workshop on Electronic Communication and Artificial Intelligence(IWECAI), 2020: 36-40.
+[5]
+Xu Ximeng, Yang Rennong, Fu Yu. Situation assessment for air combat based on novel semi-supervised naive Bayes[J]. Journal of Systems Engineering and Electronics, 2018, 29(4): 768-779.
+[6]
+Takiddin A, Rath S, Ismail M, et al. Data-driven detection of stealth cyber-attacks in DC microgrids[J]. IEEE Systems Journal, 2022, 16(4): 6097-6106.
+[7]
+Wang Xun, Lu Aiguo, Liu Jin, et al. Intelligent interaction model for battleship control based on the fusion of target intention and operator emotion[J]. Computers and Electrical Engineering, 2021, 92: 107196.
+[8]
+Zhang Zhuo, Wang Hongfei, Geng Jie, et al. An information fusion method based on deep learning and fuzzy discount-weighting for target intention recognition[J]. Engineering Applications of Artificial Intelligence, 2022, 109: 104610.
+[9]
+刘钻东, 陈谋, 吴庆宪, 等. 非完备信息下无人机空战目标意图预测[J]. 中国科学: 信息科学, 2020, 50(5): 704-717.
+Liu Zuandong, Chen Mou, Wu Qingxian, et al. Prediction of unmanned aerial vehicle target intention under incomplete information[J]. Scientia Sinica Informationis, 2020, 50(5): 704-717.(in Chinese)
+[10]
+Chen Li, Liang Xingxing, Feng Yanghe, et al. Online intention recognition with incomplete information based on a weighted contrastive predictive coding model in wargame[J]. IEEE Transactions on Neural Networks and Learning Systems, 2023, 34(10): 7515-7528.
+[11]
+Teng Fei, Song Yafei, Wang Gang, et al. A GRU-based method for predicting intention of aerial targets[J]. Computational Intelligence and Neuroscience, 2021, 2021: 6082242.
+[12]
+王科, 李成海, 宋亚飞, 等. 面向空中目标意图识别的时空Transformer模型设计[J]. 西北工业大学学报, 2024, 42(4): 753-763.
+Wang Ke, Li Chenghai, Song Yafei, et al. Design on temporal-spatial Transformer model for air target intention recognition[J]. Journal of Northwestern Polytechnical University, 2024, 42(4): 753-763.(in Chinese)
+[13]
+欧微, 柳少军, 贺筱媛, 等. 战场对敌目标战术意图智能识别模型研究[J]. 计算机仿真, 2017, 34(9): 10-14, 19.
+Ou Wei, Liu Shaojun, He Xiaoyuan, et al. Study on the intelligent recognition model of enemy target′s tactical intention on battlefield[J]. Computer Simulation, 2017, 34(9): 10-14, 19.(in Chinese)
+[14]
+赵福均, 周志杰, 胡昌华, 等. 基于置信规则库和证据推理的空中目标意图识别方法[J]. 电光与控制, 2017, 24(8): 15-19, 50.
+Zhao Fujun, Zhou Zhijie, Hu Changhua, et al. Aerial target intention recognition approach based on belief-rule-base and evidential reasoning[J]. Electronics Optics &amp;amp; Control, 2017, 24(8): 15-19, 50.(in Chinese)
+[15]
+陈浩, 任卿龙, 滑艺, 等. 基于模糊神经网络的海面目标战术意图识别[J]. 系统工程与电子技术, 2016, 38(8): 1847-1853.
+Chen Hao, Ren Qinglong, Hua Yi, et al. Fuzzy neural network based tactical intention recognition for sea targets[J]. Systems Engineering and Electronics, 2016, 38(8): 1847-1853.(in Chinese)
+[16]
+马钰棠, 孙鹏, 张杰勇, 等. 样本不平衡下的空中群组意图识别方法[J]. 系统工程与电子技术, 2022, 44(12): 3747-3755.
+Ma Yutang, Sun Peng, Zhang Jieyong, et al. Air group intention recognition method under imbalance samples[J]. Systems Engineering and Electronics, 2022, 44(12): 3747-3755.(in Chinese)
+[17]
+周旺旺, 姚佩阳, 张杰勇, 等. 基于深度神经网络的空中目标作战意图识别[J]. 航空学报, 2018, 39(11): 322468.
+Zhou Wangwang, Yao Peiyang, Zhang Jieyong, et al. Combat intention recognition for aerial targets based on deep neural network[J]. Acta Aeronautica et Astronautica Sinica, 2018, 39(11): 322468.(in Chinese)
+[18]
+Zhang Yujie, Zhang Lei, Sun Duo, et al. Short-term wind power forecasting based on VMD and a hybrid SSA-TCN-BiGRU network[J]. Applied Sciences, 2023, 13(17): 9888.
+[19]
+Zhang Chu, Peng Tian, Nazir M S. A novel integrated photovoltaic power forecasting model based on variational mode decomposition and CNN-BiGRU considering meteorological variables[J]. Electric Power Systems Research, 2022, 213: 108796.
+[20]
+朱铭康, 卢先领. 基于Bi-LSTM-Attention模型的人体行为识别算法[J]. 激光与光电子学进展, 2019, 56(15): 151503.
+Zhu Mingkang, Lu Xianling. Human action recognition algorithm based on Bi-LSTM-Attention model[J]. Laser &amp;amp; Optoelectronics Progress, 2019, 56(15): 151503.(in Chinese)
+[21]
+Pinneri C, Sawant S, Blaes S, et al. Sample-efficient cross-entropy method for real-time planning[C]//The 4th Conference on Robot Learning, 2020.
+[22]
+丁鹏, 宋亚飞. 代价敏感的空中目标意图识别方法[J]. 航空学报, 2023, 44(24): 328551.
+Ding Peng, Song Yafei. A cost-sensitive method for aerial target intention recognition[J]. Acta Aeronautica et Astronautica Sinica, 2023, 44(24): 328551.(in Chinese)
+[23]
+钱钊, 刘钦, 鹿瑶, 等. 基于长短时神经网络的目标意图识别[J]. 太赫兹科学与电子信息学报, 2022, 20(11): 1156-1162.
+Qian Zhao, Liu Qin, Lu Yao, et al. Identification of target′s combat intention based on long short term memory network[J]. Journal of Terahertz Science and Electronic Information Technology, 2022, 20(11): 1156-1162.(in Chinese)
+[24]
+滕飞, 刘曙, 宋亚飞. BiLSTM-Attention: 一种空中目标战术意图识别模型[J]. 航空兵器, 2021, 28(5): 24-32.
+Teng Fei, Liu Shu, Song Yafei. BiLSTM-Attention: an air target tactical intention recognition model[J]. Aero Weaponry, 2021, 28(5): 24-32.(in Chinese)
+[25]
+苟先太, 吴南方. 基于GRU-Attention神经网络的空中群组态势识别方法[J]. 计算机与现代化, 2019(10): 11-16, 33.
+Gou Xiantai, Wu Nanfang. Air group situation recognition method based on GRU-Attention neural network[J]. Computer and Modernization, 2019(10): 11-16, 33.(in Chinese)
+[26]
+Teng Fei, Guo Xinpeng, Song Yafei, et al. An air target tactical intention recognition model based on bidirectional GRU with attention mechanism[J]. IEEE Access, 2021, 9: 169122-169134.
+[27]
+Zhu Wenbo, Webb Z T, Mao Kaitian, et al. A deep learning approach for process data visualization using t-distributed stochastic neighbor embedding[J]. Industrial &amp;amp; Engineering Chemistry Research, 2019, 58(22): 9564-9575.
+PDF下载
+XML下载
+导出引用
+引用提醒
+图(12)
+/
+表(9)
+手机扫码阅读
+引用本文
+姜廷帅, 于天元, 白亮, 等. 双向门控循环时序网络驱动的空海域目标意图识别[J]. 国防科技大学学报, 2026, 48(4): 211-221.
+复制
+Jiang Tingshuai, Yu Tianyuan, Bai Liang, et al. Maritime and aerial target intention recognition driven by bidirectional gated recurrent temporal networks[J]. Journal of National University of Defense Technology, 2026, 48(4)： 211-221.
+Copy
+计量
+文章访问量:
+288
+HTML全文浏览量:
+290
+PDF下载量:
+672
+被引次数:
+0
+图
+1
+空海域目标作战意图识别过程
+Fig.
+1
+Recognition process of operational intentions for air and maritime targets
+图
+2
+不同作战意图轨迹
+Fig.
+2
+Trajectories under different operational intentions
+图
+3
+作战意图威胁排序与编码
+Fig.
+3
+Threat ranking and coding of operational intentions
+图
+4
+BiTCN-BiGRU-Attention整体框架
+Fig.
+4
+Overall framework of the BiTCN-BiGRU-Attention
+图
+5
+BiTCN结构
+Fig.
+5
+BiTCN structure
+图
+6
+BiGRU结构
+Fig.
+6
+BiGRU structure
+图
+7
+注意力模块基本结构
+Fig.
+7
+Basic structure of Attention module
+图
+8
+BiTCN-BiGRU-Attention模型混淆矩阵
+Fig.
+8
+BiTCN-BiGRU-Attention model confusion matrix
+图
+9
+BiTCN-BiGRU-Attention模型提取特征效果
+Fig.
+9
+Feature extraction effect of the BiTCN-BiGRU-Attention model
+图
+10
+加入CGCE后模型提取特征效果
+Fig.
+10
+Feature extraction effect of the model after adding CGCE
+图
+11
+加入CGCE后模型混淆矩阵
+Fig.
+11
+Confusion matrix of the model after adding CGGE
+图
+12
+不同
+K
+1
+与
+K
+2
+组合下模型准确率热力图
+Fig.
+12
+Heatmap of model accuracy under different combinations of
+K
+1
+and
+K
+2
+表
+1
+海空域目标特征空间
+Tab.
+1
+Feature space of air and maritime targets
+表
+2
+模型参数设置
+Tab.
+2
+Model parameter settings
+表
+3
+不同模型结果对比
+Tab.
+3
+Comparison of results for different models
+表
+4
+不同模型其他评估指标结果对比
+Tab.
+4
+Comparison of evaluation metrics for different models
+表
+5
+结果对比
+Tab.
+5
+Comparison of results
+表
+6
+其他评估指标对比
+Tab.
+6
+Comparison of other evaluation metrics
+表
+7
+不同模型加入CGCE后结果对比
+Tab.
+7
+Comparison of the results of different models after incorporating CGCE
+表
+8
+不同模型加入CGCE后其他评估指标结果对比
+Tab.
+8
+Comparison of evaluation metrics for different models after incorporating CGCE
+表
+9
+各模型计算复杂度比较
+Tab.
+9
+Comparison of computational complexity across different models
+Xiang Wenjia, Li Xiaoyu, He Zirui,et al. Intention estimation of adversarial spatial target based on fuzzy inference[J]. Intelligent Automation &amp;amp; Soft Computing,2023,35(3):3627-3639.
+陈优敏, 李长云. 基于知识图谱的目标战术意图识别仿真[J]. 计算机仿真,2019,36(8):1-4,19.
+Chen Youmin, Li Changyun. Simulation of target tactical intention recognition based on knowledge map[J]. Computer Simulation,2019,36(8):1-4,19.(in Chinese)
+尹翔, 张萌, 陈梦乔. 基于判别分析的空中目标作战意图识别[J]. 弹箭与制导学报,2018,38(3):46-50.
+Yin Xiang, Zhang Meng, Chen Mengqiao. Combat intention recognition of the target in the air based on discriminant analysis[J]. Journal of Projectiles, Rockets, Missiles and Guidance,2018,38(3):46-50.(in Chinese)
+Xu Yuheng, Cheng Siyi, Zhang Hubiao,et al. Air target combat intention identification based on IE-DSBN[C]//International Workshop on Electronic Communication and Artificial Intelligence(IWECAI),2020:36-40.
+Xu Ximeng, Yang Rennong, Fu Yu. Situation assessment for air combat based on novel semi-supervised naive Bayes[J]. Journal of Systems Engineering and Electronics,2018,29(4):768-779.
+Takiddin A, Rath S, Ismail M,et al. Data-driven detection of stealth cyber-attacks in DC microgrids[J]. IEEE Systems Journal,2022,16(4):6097-6106.
+Wang Xun, Lu Aiguo, Liu Jin,et al. Intelligent interaction model for battleship control based on the fusion of target intention and operator emotion[J]. Computers and Electrical Engineering,2021,92:107196.
+Zhang Zhuo, Wang Hongfei, Geng Jie,et al. An information fusion method based on deep learning and fuzzy discount-weighting for target intention recognition[J]. Engineering Applications of Artificial Intelligence,2022,109:104610.
+刘钻东, 陈谋, 吴庆宪, 等. 非完备信息下无人机空战目标意图预测[J]. 中国科学: 信息科学,2020,50(5):704-717.
+Liu Zuandong, Chen Mou, Wu Qingxian,et al. Prediction of unmanned aerial vehicle target intention under incomplete information[J]. Scientia Sinica Informationis,2020,50(5):704-717.(in Chinese)
+Chen Li, Liang Xingxing, Feng Yanghe,et al. Online intention recognition with incomplete information based on a weighted contrastive predictive coding model in wargame[J]. IEEE Transactions on Neural Networks and Learning Systems,2023,34(10):7515-7528.
+Teng Fei, Song Yafei, Wang Gang,et al. A GRU-based method for predicting intention of aerial targets[J]. Computational Intelligence and Neuroscience,2021,2021:6082242.
+王科, 李成海, 宋亚飞, 等. 面向空中目标意图识别的时空Transformer模型设计[J]. 西北工业大学学报,2024,42(4):753-763.
+Wang Ke, Li Chenghai, Song Yafei,et al. Design on temporal-spatial Transformer model for air target intention recognition[J]. Journal of Northwestern Polytechnical University,2024,42(4):753-763.(in Chinese)
+欧微, 柳少军, 贺筱媛, 等. 战场对敌目标战术意图智能识别模型研究[J]. 计算机仿真,2017,34(9):10-14,19.
+Ou Wei, Liu Shaojun, He Xiaoyuan,et al. Study on the intelligent recognition model of enemy target′s tactical intention on battlefield[J]. Computer Simulation,2017,34(9):10-14,19.(in Chinese)
+赵福均, 周志杰, 胡昌华, 等. 基于置信规则库和证据推理的空中目标意图识别方法[J]. 电光与控制,2017,24(8):15-19,50.
+Zhao Fujun, Zhou Zhijie, Hu Changhua,et al. Aerial target intention recognition approach based on belief-rule-base and evidential reasoning[J]. Electronics Optics &amp;amp; Control,2017,24(8):15-19,50.(in Chinese)
+陈浩, 任卿龙, 滑艺, 等. 基于模糊神经网络的海面目标战术意图识别[J]. 系统工程与电子技术,2016,38(8):1847-1853.
+Chen Hao, Ren Qinglong, Hua Yi,et al. Fuzzy neural network based tactical intention recognition for sea targets[J]. Systems Engineering and Electronics,2016,38(8):1847-1853.(in Chinese)
+马钰棠, 孙鹏, 张杰勇, 等. 样本不平衡下的空中群组意图识别方法[J]. 系统工程与电子技术,2022,44(12):3747-3755.
+Ma Yutang, Sun Peng, Zhang Jieyong,et al. Air group intention recognition method under imbalance samples[J]. Systems Engineering and Electronics,2022,44(12):3747-3755.(in Chinese)
+周旺旺, 姚佩阳, 张杰勇, 等. 基于深度神经网络的空中目标作战意图识别[J]. 航空学报,2018,39(11):322468.
+Zhou Wangwang, Yao Peiyang, Zhang Jieyong,et al. Combat intention recognition for aerial targets based on deep neural network[J]. Acta Aeronautica et Astronautica Sinica,2018,39(11):322468.(in Chinese)
+Zhang Yujie, Zhang Lei, Sun Duo,et al. Short-term wind power forecasting based on VMD and a hybrid SSA-TCN-BiGRU network[J]. Applied Sciences,2023,13(17):9888.
+Zhang Chu, Peng Tian, Nazir M S. A novel integrated photovoltaic power forecasting model based on variational mode decomposition and CNN-BiGRU considering meteorological variables[J]. Electric Power Systems Research,2022,213:108796.
+朱铭康, 卢先领. 基于Bi-LSTM-Attention模型的人体行为识别算法[J]. 激光与光电子学进展,2019,56(15):151503.
+Zhu Mingkang, Lu Xianling. Human action recognition algorithm based on Bi-LSTM-Attention model[J]. Laser &amp;amp; Optoelectronics Progress,2019,56(15):151503.(in Chinese)
+Pinneri C, Sawant S, Blaes S,et al. Sample-efficient cross-entropy method for real-time planning[C]//The 4th Conference on Robot Learning,2020.
+丁鹏, 宋亚飞. 代价敏感的空中目标意图识别方法[J]. 航空学报,2023,44(24):328551.
+Ding Peng, Song Yafei. A cost-sensitive method for aerial target intention recognition[J]. Acta Aeronautica et Astronautica Sinica,2023,44(24):328551.(in Chinese)
+钱钊, 刘钦, 鹿瑶, 等. 基于长短时神经网络的目标意图识别[J]. 太赫兹科学与电子信息学报,2022,20(11):1156-1162.
+Qian Zhao, Liu Qin, Lu Yao,et al. Identification of target′s combat intention based on long short term memory network[J]. Journal of Terahertz Science and Electronic Information Technology,2022,20(11):1156-1162.(in Chinese)
+滕飞, 刘曙, 宋亚飞. BiLSTM-Attention: 一种空中目标战术意图识别模型[J]. 航空兵器,2021,28(5):24-32.
+Teng Fei, Liu Shu, Song Yafei. BiLSTM-Attention:an air target tactical intention recognition model[J]. Aero Weaponry,2021,28(5):24-32.(in Chinese)
+苟先太, 吴南方. 基于GRU-Attention神经网络的空中群组态势识别方法[J]. 计算机与现代化,2019(10):11-16,33.
+Gou Xiantai, Wu Nanfang. Air group situation recognition method based on GRU-Attention neural network[J]. Computer and Modernization,2019(10):11-16,33.(in Chinese)
+Teng Fei, Guo Xinpeng, Song Yafei,et al. An air target tactical intention recognition model based on bidirectional GRU with attention mechanism[J]. IEEE Access,2021,9:169122-169134.
+Zhu Wenbo, Webb Z T, Mao Kaitian,et al. A deep learning approach for process data visualization using t-distributed stochastic neighbor embedding[J]. Industrial &amp;amp; Engineering Chemistry Research,2019,58(22):9564-9575.
+作者投稿
+投稿指南
+联系我们
+公众号
+返回顶部
+扫码关注
+官方微信
+您是今天第
+1027
+位访客
+总访问量：
+317036958
+电话：
+0731-87028030
+邮箱:journal@nudt.edu.cn
+地址：湖南省长沙市开福区德雅路109号
+邮政编码：410073
+备案号 
+：
+湘ICP备09019258号
+技术支持：北京勤云科技发展有限公司&lt;/pre&gt;</content:encoded></item><item><title>嵌入图神经网络的混合整数线性规划求解器增强技术</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260414?st=search&amp;tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260414?st=search&amp;tab=abstract</guid><description>嵌入图神经网络的混合整数线性规划求解器增强技术
 EI•CA•INSPEC•JST•SCOPUS
 中文核心期刊•CSCD•WJCI
 首页
@@ -4415,6 +5473,46 @@ Sonnerat N, Wang Pengming, Ktena I, et al. Learning a large neighborhood search 
 Achterberg T, Berthold T, Hendel G. Rounding and propagation heuristics for mixed integer programming[M]//Klatte D, Lüthi H J, Schmedders K. Operations research proceedings 2011. Berlin, Heidelberg: Springer, 2012: 71-76.
 [32]
 ACHTERBERG T. SCIP: solving constraint integer programs[J]. Mathematical Programming Computation, 2009, 1(1): 1-41.
+[1]
+陈飞玥,朱玉莲,田甲略,蒋珂.
+融合图嵌入的光滑主成分分析网络图像识别算法
+[J].国防科技大学学报,2022,44(3):16-22.
+[2]
+陈飞玥,朱玉莲,田甲略,蒋珂.
+融合图嵌入的Smooth-PCANet图像识别算法
+[J].国防科技大学学报,2022,44(3).
+[3]
+汪开普,马晓艺,卢超,殷旅江,李新宇.
+基于强化学习与遗传算法的机器人并行拆解序列规划方法
+[J].国防科技大学学报,2025,47(2):24-34.
+[4]
+姚奕;陈朝阳;尹瑞江;张帆;霍炎.
+基于知识图谱增强的文本融合问答推理方法
+[J].火力与指挥控制,2025,50(7):18-26.
+[5]
+吴云松;曹伟;潘继飞;许金鑫;张志强;籍林峰.
+有源无源数据协同的目标识别算法
+[J].现代防御技术,2026(1).
+[6]
+张灿;李志刚;袁一东;李莹琦.
+基于尺度自适应YOLOv8的遥感目标检测算法
+[J].火力与指挥控制,2025(7):42-49+54.
+[7]
+李春若,邹子贤.
+一种吞吐量优化的无人机飞行轨迹规划算法
+[J].火力与指挥控制,2021,46(8):167-170.
+[8]
+杜明林;王学文;岳忠奇;郝熠;赵媛.
+基于深度像素互相关的孪生网络目标跟踪算法
+[J].火力与指挥控制,2026,51(1):81-87.
+[9]
+师晓冉,张焱.
+基于图注意力机制的无人机目标红外跟踪技术
+[J].国防科技,2023(3):26-39.
+[10]
+Chase Murray,Mark Karwan.
+A branch‐and‐bound‐based solution approach for dynamic rerouting of airborne platforms
+[J].海军后勤学研究,2013,60(2):141-159.
 PDF下载
 XML下载
 导出引用
@@ -4430,13 +5528,12 @@ Deng Yufan, Song Zhilin, Pu Tianle, et al. GNN-guided approach to enhancing mixe
 Copy
 计量
 文章访问量:
-291
+292
 HTML全文浏览量:
-272
+274
 PDF下载量:
-565
+566
 被引次数:
-0
 图
 1
 混合整数线性规划问题的二部图表示
@@ -4557,7 +5654,7 @@ ACHTERBERG T. SCIP:solving constraint integer programs[J]. Mathematical Programm
 扫码关注
 官方微信
 您是今天第
-4429
+1027
 位访客
 总访问量：
 317036958
@@ -5435,11 +6532,11 @@ LI Zhigang, QIU Zhinan, WANG Jiachun, et al. Study of high-power microwave prote
 Copy
 计量
 文章访问量:
-29479
+29484
 HTML全文浏览量:
-4118
+4122
 PDF下载量:
-10053
+10054
 被引次数:
 0
 图
@@ -5512,7 +6609,7 @@ HE W, LIU X H, XIAN R C,et al. Kinetics characteristics and bremsstrahlung of ar
 扫码关注
 官方微信
 您是今天第
-4429
+1027
 位访客
 总访问量：
 317036958
@@ -6930,9 +8027,9 @@ Pu Tianle, Zhang Bingxu, Zeng Li, et al. Pre-training and fine-tuning: a unified
 Copy
 计量
 文章访问量:
-277
+278
 HTML全文浏览量:
-259
+260
 PDF下载量:
 550
 被引次数:
@@ -7041,7 +8138,7 @@ Sanokowski S, Berghammer W, Hochreiter S,et al. Variational annealing on graphs 
 扫码关注
 官方微信
 您是今天第
-4430
+1027
 位访客
 总访问量：
 317036958
