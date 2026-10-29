@@ -1,71 +1,115 @@
 {
-  "issue_date": "2026-10-29",
+  "issue_date": "2026-10-30",
   "issue_pages": [
     {
       "paper_number": "01",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-10-29&paperName=zggfb&paperNumber=01",
-      "links": 71,
-      "article_links": 3
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-10-30&paperName=zggfb&paperNumber=01",
+      "links": 65,
+      "article_links": 2
     },
     {
       "paper_number": "02",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-10-29&paperName=zggfb&paperNumber=02",
-      "links": 73,
-      "article_links": 4
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-10-30&paperName=zggfb&paperNumber=02",
+      "links": 77,
+      "article_links": 7
     },
     {
       "paper_number": "03",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-10-29&paperName=zggfb&paperNumber=03",
-      "links": 63,
-      "article_links": 1
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-10-30&paperName=zggfb&paperNumber=03",
+      "links": 71,
+      "article_links": 5
     },
     {
       "paper_number": "04",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-10-29&paperName=zggfb&paperNumber=04",
-      "links": 67,
-      "article_links": 2
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-10-30&paperName=zggfb&paperNumber=04",
+      "links": 75,
+      "article_links": 7
     }
   ],
   "candidates": [
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-29&paperNumber=01&articleid=989245",
-      "anchor_title": "课堂随任务开设 教育向战位延伸"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-30&paperNumber=01&articleid=989370",
+      "anchor_title": "中共二十届五中全会在京举行"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-29&paperNumber=01&articleid=989244",
-      "anchor_title": "训练资源共享 专业力量统训"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-30&paperNumber=01&articleid=989371",
+      "anchor_title": "中共中央将于30日上午举行新闻发布会"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-29&paperNumber=01&articleid=989247",
-      "anchor_title": "百岁抗战老兵圆梦了"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-30&paperNumber=02&articleid=989381",
+      "anchor_title": "中共二十届五中全会在京举行"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-29&paperNumber=02&articleid=989251",
-      "anchor_title": "“‘传家宝’是军民同心的见证”"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-30&paperNumber=02&articleid=989377",
+      "anchor_title": "习近平就西班牙高速列车追尾脱轨事故向西班牙国王费利佩六世致慰问电"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-29&paperNumber=02&articleid=989252",
-      "anchor_title": "驿站“充电” 街巷“宣讲”"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-30&paperNumber=02&articleid=989378",
+      "anchor_title": "持之以恒推进全面从严治党"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-29&paperNumber=02&articleid=989254",
-      "anchor_title": "筑牢饮用水源安全防线"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-30&paperNumber=02&articleid=989379",
+      "anchor_title": "中宣部组织召开学习宣传贯彻党的二十届五中全会精神电视电话会议"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-29&paperNumber=02&articleid=989255",
-      "anchor_title": "在科创实践中强化国防意识"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-30&paperNumber=02&articleid=989380",
+      "anchor_title": "张升民同志简历"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-29&paperNumber=03&articleid=989249",
-      "anchor_title": "一座收藏馆 一生红军情"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-30&paperNumber=02&articleid=989382",
+      "anchor_title": "永葆清醒坚定 不断开创新时代管党治党、兴党强党新局面"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-29&paperNumber=04&articleid=989256",
-      "anchor_title": "穿插迂回合围歼敌"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-30&paperNumber=02&articleid=989383",
+      "anchor_title": "“十五五”我国将全面提升农产品品质"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-29&paperNumber=04&articleid=989257",
-      "anchor_title": "人谋为本，权谋为用"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-30&paperNumber=03&articleid=989372",
+      "anchor_title": "美空军规划2035年战斗机机队"
+    },
+    {
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-30&paperNumber=03&articleid=989373",
+      "anchor_title": "法国双航母计划面临多重考验"
+    },
+    {
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-30&paperNumber=03&articleid=989374",
+      "anchor_title": "澳启动中程防空系统采购"
+    },
+    {
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-30&paperNumber=03&articleid=989375",
+      "anchor_title": "欧盟交出首份防务“体检报告”"
+    },
+    {
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-30&paperNumber=03&articleid=989376",
+      "anchor_title": "永葆清醒坚定 不断开创新时代管党治党、兴党强党新局面"
+    },
+    {
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-30&paperNumber=04&articleid=989385",
+      "anchor_title": "丹青映征程"
+    },
+    {
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-30&paperNumber=04&articleid=989386",
+      "anchor_title": "余音犹在"
+    },
+    {
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-30&paperNumber=04&articleid=989387",
+      "anchor_title": "手上的茧"
+    },
+    {
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-30&paperNumber=04&articleid=989388",
+      "anchor_title": "学以致用"
+    },
+    {
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-30&paperNumber=04&articleid=989389",
+      "anchor_title": "至诚报国"
+    },
+    {
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-30&paperNumber=04&articleid=989390",
+      "anchor_title": "风 骨"
+    },
+    {
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-10-30&paperNumber=04&articleid=989391",
+      "anchor_title": "苏区离歌"
     }
   ]
 }
