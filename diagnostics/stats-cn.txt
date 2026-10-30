@@ -10,6 +10,8 @@ All links discovered: 227
 
 === MATCHED CANDIDATES ===
 
+https://www.stats.gov.cn/sj/zxfb/202610/t20261030_1965708.html
+  2026年前三季度全国规模以上文化及相关产业企业营业收入增长4.3%
 https://www.stats.gov.cn/sj/zxfb/202610/t20261027_1965697.html
   2026年1—9月份全国规模以上工业企业利润增长15.5%
 https://www.stats.gov.cn/sj/zxfb/202610/t20261023_1965679.html
@@ -26,8 +28,6 @@ https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965617.html
   2026年9月份规模以上工业增加值增长5.5%
 https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965616.html
   2026年1—9月份全国固定资产投资基本情况
-https://www.stats.gov.cn/sj/zxfb/202610/t20261014_1965477.html
-  2026年9月份居民消费价格同比上涨0.9%
 https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965615.html
   2026年1—9月份全国房地产市场基本情况
 https://www.stats.gov.cn/sj/zxfb/202610/t20261023_1965677.html
@@ -71,6 +71,8 @@ https://www.stats.gov.cn/zt_18555/
   专题
 https://www.stats.gov.cn/sj/zxfb/
   数据发布
+https://www.stats.gov.cn/sj/zxfb/202610/t20261030_1965708.html
+  2026年前三季度全国规模以上文化及相关产业企业营业收入增长4.3%
 https://www.stats.gov.cn/sj/zxfb/202610/t20261027_1965697.html
   2026年1—9月份全国规模以上工业企业利润增长15.5%
 https://www.stats.gov.cn/sj/zxfb/202610/t20261023_1965679.html
@@ -99,8 +101,6 @@ https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965609.html
   2026年9月份70个大中城市商品住宅销售价格变动情况
 https://www.stats.gov.cn/sj/zxfb/202610/t20261016_1965512.html
   2025年全国科技经费投入统计公报
-https://www.stats.gov.cn/sj/zxfb/202610/t20261014_1965477.html
-  2026年9月份居民消费价格同比上涨0.9%
 http://www.gov.cn/
   中央人民政府门户网站
 http://www.fmprc.gov.cn/

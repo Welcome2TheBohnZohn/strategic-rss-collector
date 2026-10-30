@@ -6,7 +6,7 @@ Include regex: spacechina\.com/n25/n2014789/.+
 Include text regex: 
 
 Candidate links: 50
-All links discovered: 169
+All links discovered: 170
 
 === MATCHED CANDIDATES ===
 
@@ -16,6 +16,8 @@ https://www.spacechina.com/n25/n2014789/n2014809/c4738669/content.html
   航天科技六院北京11所全自动包装仓储装车系统首次成套落地盐化工领域
 https://www.spacechina.com/n25/n2014789/n2014809/c4738121/content.html
   航天科技五院西安分院参与主办亚太等离子体和太赫兹科学国际会议
+https://www.spacechina.com/n25/n2014789/n2014819/c4743261/content.html
+  中国航天科技集团有限公司2027年研究生招生专业目录发布
 https://www.spacechina.com/n25/n2014789/n2014809/c4738685/content.html
   航天科技一院航天清华航天造高层供水消防车解应急救援难题
 https://www.spacechina.com/n25/n2014789/n2014814/c4593148/content.html
@@ -40,18 +42,14 @@ https://www.spacechina.com/n25/n2014789/n2014799/c4544191/content.html
   航天科技集团党组领导带队开展春节前安全检查并...
 https://www.spacechina.com/n25/n2014789/n2014799/c4544138/content.html
   航天科技集团党组领导春节前夕看望慰问航天老领...
-https://www.spacechina.com/n25/n2014789/n2014809/c4738041/content.html
-  航天科技八院控制所“五位一体”赋能青年科技创新侧记
-https://www.spacechina.com/n25/n2014789/n2014809/c4738021/content.html
-  航天科技六院101所举行液氢运输生活车退役纪念仪式
 https://www.spacechina.com/n25/n2014789/n2014814/c4608394/content.html
   航天科技集团长城公司举办青年国际市场营销知识大赛
 https://www.spacechina.com/n25/n2014789/n2014814/c4581068/content.html
   航天科技集团所属长城公司 “十五五”开局攻坚实录
+https://www.spacechina.com/n25/n2014789/n2014809/c4738181/content.html
+  航天科技九院7107厂提升能源供需管控水平侧记
 https://www.spacechina.com/n25/n2014789/n2014814/c4699641/content.html
   航天科技集团新研产品亮相2026世界机器人大会
-https://www.spacechina.com/n25/n2014789/n2014819/c2793422/content.html
-  关于清理拖欠民营企业账款线索信访联系方式的通知
 https://www.spacechina.com/n25/n2014789/n2014814/c4605995/content.html
   航天科技九院最新产业成果亮相汉诺威工业博览会
 https://www.spacechina.com/n25/n2014789/n2014814/c4600529/content.html
@@ -72,10 +70,12 @@ https://www.spacechina.com/n25/n2014789/n2014799/c4702321/content.html
   航天科技集团部署开展2026年“质...
 https://www.spacechina.com/n25/n2014789/n2014799/c4697461/content.html
   航天科技集团党组传达学习习近平总书...
+https://www.spacechina.com/n25/n2014789/n2014809/c4738281/content.html
+  航天科技八院811所高效供电系统研发侧记
 https://www.spacechina.com/n25/n2014789/n2014809/c4738135/content.html
   航天科技六院11所推进全流程质量提升侧记
-https://www.spacechina.com/n25/n2014789/n2014809/c4732661/content.html
-  航天科技四院7414厂进度与质量两手抓
+https://www.spacechina.com/n25/n2014789/n2014809/c4738161/content.html
+  航天科技七院7102厂严抓质量保交付
 https://www.spacechina.com/n25/n2014789/n2014809/c4738221/content.html
   航天科技集团航天投资开展党建联学共建
 https://www.spacechina.com/n25/n2014789/n2014804/c4736643/content.html
@@ -266,6 +266,12 @@ https://www.spacechina.com/n25/n2014789/n2014799/c4702321/content.html
   航天科技集团部署开展2026年“质...
 https://www.spacechina.com/n25/n2014789/n2014799/c4697461/content.html
   航天科技集团党组传达学习习近平总书...
+https://www.spacechina.com/n25/n2014789/n2014809/c4738281/content.html
+  航天科技八院811所高效供电系统研发侧记
+https://www.spacechina.com/n25/n2014789/n2014809/c4738181/content.html
+  航天科技九院7107厂提升能源供需管控水平侧记
+https://www.spacechina.com/n25/n2014789/n2014809/c4738161/content.html
+  航天科技七院7102厂严抓质量保交付
 https://www.spacechina.com/n25/n2014789/n2014809/c4738135/content.html
   航天科技六院11所推进全流程质量提升侧记
 https://www.spacechina.com/n25/n2014789/n2014809/c4738121/content.html
@@ -280,12 +286,6 @@ https://www.spacechina.com/n25/n2014789/n2014809/c4738061/content.html
   航天科技五院航天智装产品入选北京市“三新” 认定名单
 https://www.spacechina.com/n25/n2014789/n2014809/c4738221/content.html
   航天科技集团航天投资开展党建联学共建
-https://www.spacechina.com/n25/n2014789/n2014809/c4738041/content.html
-  航天科技八院控制所“五位一体”赋能青年科技创新侧记
-https://www.spacechina.com/n25/n2014789/n2014809/c4738021/content.html
-  航天科技六院101所举行液氢运输生活车退役纪念仪式
-https://www.spacechina.com/n25/n2014789/n2014809/c4732661/content.html
-  航天科技四院7414厂进度与质量两手抓
 https://www.spacechina.com/n25/n2014789/n2014814/c4699641/content.html
   航天科技集团新研产品亮相2026世界机器人大会
 https://mp.weixin.qq.com/s/Yt3B7WiOp9SW3Cy7KSVNBQ
@@ -307,12 +307,13 @@ https://www.spacechina.com/n25/n2014789/n2014814/c4547665/content.html
 https://www.spacechina.com/n25/n2014789/n2014814/c4533791/content.html
   航天科技集团长征国际亮相阿布扎比无人系统展
 https://mp.weixin.qq.com/s/8uGEWzDEcGXrIa2Z-AM0sQ
-  科技日报：长八甲火箭成功发射卫星互联网低轨28组卫星
 https://mp.weixin.qq.com/s/w005xSm2_xt7O8Fp3TcffQ
 https://mp.weixin.qq.com/s/lxhF_k_4B92kP4EovY77yQ
 https://mp.weixin.qq.com/s/Sp6vBhWNvf-INQQ4RUtJNw
 https://www.news.cn/photo/20260730/57c05645ad7d4eb6af7647385e128048/c.html
 http://gd.news.cn/20260706/6ae067203bb14d75aa9d615a3a548841/c.html
+https://mp.weixin.qq.com/s/d1RyMZWRmohfKDLAcFJFKg
+  科技日报：一次升空22秒后爆炸，一次坠入太平洋！中国航天靠什...
 https://www.stdaily.com/web/gdxw/2026-10/25/content_602421.html
   央视新闻：在轨驻留5个月 “太空出差三人组”最新工作进展
 https://mp.weixin.qq.com/s/3dAa5FBU7vOIvYGjoSwn3A
@@ -323,15 +324,17 @@ http://www.sasac.gov.cn/n2588025/n2643314/c34380965/content.html
 http://www.sasac.gov.cn/n2588025/n2643314/c34041102/content.html
 http://www.sasac.gov.cn/n2588025/n2643314/c33954662/content.html
 http://www.sasac.gov.cn/n2588025/n2643314/c33667926/content.html
+http://www.sasac.gov.cn/n2588025/n2643314/c36087840/content.html
+  国务院国资委党委理论学习中心组专题学习
 http://www.sasac.gov.cn/n2588025/n2643314/c36087648/content.html
   国务院国资委党委传达学习习近平总书记近期重要指示重要讲话重要...
 http://www.sasac.gov.cn/n2588025/n2643314/c36085378/content.html
   国务院国资委党委召开国资央企学习贯彻习近平关于基层工作方法的...
-http://www.sasac.gov.cn/n2588025/n2643314/c36082277/content.html
-  程福波会见空客公司首席执行官傅里
 http://zhuanti.spacechina.com/n4716421/index.html
 http://zhuanti.spacechina.com/n4615143/index.html
 http://zhuanti.spacechina.com/n4591921/
+https://www.spacechina.com/n25/n2014789/n2014819/c4743261/content.html
+  中国航天科技集团有限公司2027年研究生招生专业目录发布
 https://www.spacechina.com/n25/n2014789/n2014819/c4707383/content.html
   严正声明
 https://www.spacechina.com/n25/n2014789/n2014819/c4180123/content.html
@@ -340,8 +343,6 @@ https://www.spacechina.com/n25/n2014789/n2014819/c3578292/content.html
   关于有关企业擅自将中国航天科技集团有限公司作为协办单位发布《2022中国（北京）国际航空航天技...
 https://www.spacechina.com/n25/n2014789/n2014819/c3566705/content.html
   关于公布打击假冒国企专项行动举报方式的公告
-https://www.spacechina.com/n25/n2014789/n2014819/c2793422/content.html
-  关于清理拖欠民营企业账款线索信访联系方式的通知
 https://www.spacechina.com/n25/n2014789/n2014834/c4647986/content.html
 https://www.spacechina.com/n25/n2014789/n2014829/c4066436/content.html
   《空间科学与试验学报》
