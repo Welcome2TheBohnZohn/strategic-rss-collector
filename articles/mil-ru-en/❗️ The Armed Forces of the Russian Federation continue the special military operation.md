@@ -9,8 +9,8 @@ The Armed Forces of the Russian Federation continue the special military operati
 From 24 to 30 of October, the Armed Forces of the Russian Federation carried out two massive and nine group strikes
 , which hit enterprises of the Ukrainian defence industry, logistics centres, energy and transport infrastructure facilities used in the interests of the AFU, production workshops and storage areas of ground robotic systems, unmanned aerial vehicles, and uncrewed surface vehicles, as well as temporary deployment areas of Ukrainian armed formations and foreign mercenaries.
 🔥
-In addition, t
-he facilities of the Ukrainian port infrastructure
+In addition,
+the facilities of the Ukrainian port infrastructure
 , which provided for the reception, storage and distribution of military cargo
 , were disabled.
 💥
