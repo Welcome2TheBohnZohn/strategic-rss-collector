@@ -86,8 +86,8 @@ https://www.ncpssd.cn/message?id=22512
   习近平就西班牙高速列车追尾脱轨事故向西班牙国王费利佩六世致慰问电
 https://www.ncpssd.cn/message?id=18580
   国家哲学社会科学文献中心为贵阳市“两会”提供学术资源服务
-https://www.ncpssd.cn/message?id=22471
-  习近平同比利时国王菲利普就中比建交55周年互致贺信
+https://www.ncpssd.cn/message?id=22514
+  中共中央召开党外人士座谈会 习近平主持并发表重要讲话
 https://www.ncpssd.cn/message?id=22513
   中国共产党第二十届中央委员会第五次全体会议公报
 https://www.ncpssd.cn/message?id=19563
@@ -156,9 +156,11 @@ https://www.ncpssd.cn/service/index?id=17
   社科机构导航
 https://www.ncpssd.cn/messages
   查看更多
+https://www.ncpssd.cn/message?id=22515
 https://www.ncpssd.cn/message?id=22436
 https://www.ncpssd.cn/message?id=22426
-https://www.ncpssd.cn/message?id=22416
+https://www.ncpssd.cn/message?id=22514
+  中共中央召开党外人士座谈会 习近平主持并发表重要讲话
 https://www.ncpssd.cn/message?id=22513
   中国共产党第二十届中央委员会第五次全体会议公报
 https://www.ncpssd.cn/message?id=22512
@@ -167,8 +169,6 @@ https://www.ncpssd.cn/message?id=22473
   习近平向日本前首相福田康夫遗属致唁电
 https://www.ncpssd.cn/message?id=22472
   习近平致电祝贺卢拉当选连任巴西总统
-https://www.ncpssd.cn/message?id=22471
-  习近平同比利时国王菲利普就中比建交55周年互致贺信
 https://www.ncpssd.cn/message?id=19563
   国家哲学社会科学文献中心发布最受欢迎期刊报告
 https://www.ncpssd.cn/message?id=19564
@@ -316,9 +316,9 @@ https://ft.ncpssd.cn/image/get/npssd/pageStyle?url=img/1717135759278.jpg
 https://www.ncpssd.cn/images/close2.png
 https://www.ncpssd.cn/images/qu.png
 https://www.ncpssd.cn/images/add1.png
+https://ft.ncpssd.cn/image/get/npssd/column?url=img/1793349015858.jpg
 https://ft.ncpssd.cn/image/get/npssd/column?url=img/1792719159650.jpg
 https://ft.ncpssd.cn/image/get/npssd/column?url=img/1792561670672.jpg
-https://ft.ncpssd.cn/image/get/npssd/column?url=img/1791879890008.jpg
 https://ft.ncpssd.cn/image/get/npssd/topic?url=img/1758001813519.jpg
 https://ft.ncpssd.cn/image/get/npssd/topic?url=img/1763085826266.jpg
 https://www.ncpssd.cn/images/word1.png

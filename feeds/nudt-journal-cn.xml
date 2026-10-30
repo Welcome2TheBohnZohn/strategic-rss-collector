@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>National University of Defense Technology Journal</title><link>https://journal.nudt.edu.cn/</link><description>Generated RSS feed for National University of Defense Technology Journal</description><language>zh-CN</language><lastBuildDate>Fri, 30 Oct 2026 06:03:56 +0000</lastBuildDate><item><title>多核数字信号处理器矩阵乘卷积算法性能评测</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/202301009?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/202301009?tab=abstract</guid><pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate><description>(1. 国防科技大学 计算机学院, 湖南 长沙 410073;2. 国防科技大学 并行与分布处理国防科技重点实验室, 湖南 长沙 410073)
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>National University of Defense Technology Journal</title><link>https://journal.nudt.edu.cn/</link><description>Generated RSS feed for National University of Defense Technology Journal</description><language>zh-CN</language><lastBuildDate>Fri, 30 Oct 2026 13:09:50 +0000</lastBuildDate><item><title>多核数字信号处理器矩阵乘卷积算法性能评测</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/202301009?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/202301009?tab=abstract</guid><pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate><description>(1. 国防科技大学 计算机学院, 湖南 长沙 410073;2. 国防科技大学 并行与分布处理国防科技重点实验室, 湖南 长沙 410073)
 
 王庆林(1987—),男,贵州思南人,副研究员,博士,硕士生导师,E-mail:wangqinglin_thu@163.com; 裴向东(通信作者),男,山西长治人,博士研究生,E-mail:18903588277@163.com
 
@@ -240,7 +240,7 @@ National Key Laboratory of Advanced Propulsion Technology, National University o
 摘要
 HTML全文
 图(10)表(0)
-参考文献
+参考文献(31)
 相似文献
 出版信息
 访问统计
@@ -405,7 +405,8 @@ i
 其中，
 λ
 为碰撞过程中的嵌入深度或弹性变形，
-\begin{equation}K_{i}\end{equation}
+K
+i
 为碰撞刚度。对于机翼气动弹性系统，碰撞力可表示为：
 （2）
 其中，
@@ -466,7 +467,8 @@ c
 分别为来流的压强和声速；
 γ
 为比热比；
-\begin{equation}v_{z}\end{equation}
+v
+z
 为翼面下洗速度，对于上下表面可以分别表示为
 v
 z
@@ -595,22 +597,28 @@ mx
 a
 b
 为机翼距弹性轴的质量矩；
-\begin{equation}I_{α}\end{equation}
+I
+α
 =
 m
 (
-\begin{equation}r_{a}\end{equation}
+r
+a
 b
 )
 2
 为机翼相对于弹性轴的惯性矩；
-\begin{equation}c_{h}\end{equation}
+c
+h
 、
-\begin{equation}c_{α}\end{equation}
+c
+α
 为两个方向的阻尼系数；
-\begin{equation}K_{h}\end{equation}
+K
+h
 、
-\begin{equation}K_{α}\end{equation}
+K
+α
 分别为机翼沉浮和俯仰方向的结构刚度系数；
 e
 1
@@ -669,14 +677,16 @@ t
 /
 b
 ，
-\begin{equation}ω_{h}\end{equation}
+ω
+h
 =
 K
 h
 /
 m
 ，
-\begin{equation}ω_{α}\end{equation}
+ω
+α
 =
 K
 α
@@ -687,34 +697,44 @@ I
 ω
 ¯
 =
-\begin{equation}ω_{h}\end{equation}
+ω
+h
 /
-\begin{equation}ω_{α}\end{equation}
+ω
+α
 ，
 μ
 =
 m
 /(4
-\begin{equation}ρb^{2}\end{equation}
+ρ
+b
+2
 )，
 V
 =
 U
 ∞
 /(
-\begin{equation}bω_{α}\end{equation}
+b
+ω
+α
 )，
-\begin{equation}ζ_{h}\end{equation}
+ζ
+h
 =
-\begin{equation}c_{h}\end{equation}
+c
+h
 /
 m
 K
 h
 ，
-\begin{equation}ζ_{α}\end{equation}
+ζ
+α
 =
-\begin{equation}c_{α}\end{equation}
+c
+α
 /
 I
 α
@@ -724,7 +744,8 @@ K
 μ
 s
 =
-\begin{equation}m_{s}\end{equation}
+m
+s
 /
 m
 ，
@@ -761,7 +782,8 @@ p
 ω
 s
 /
-\begin{equation}ω_{α}\end{equation}
+ω
+α
 ，
 δ
 s
@@ -874,15 +896,19 @@ v
 =5 000，
 Ma
 =5.0，
-\begin{equation}x_{a}\end{equation}
+x
+a
 =0.25，
-\begin{equation}r_{a}\end{equation}
+r
+a
 =0.5，
 a
 =-0.2，
-\begin{equation}ζ_{h}\end{equation}
+ζ
+h
 =0.01，
-\begin{equation}ζ_{α}\end{equation}
+ζ
+α
 =0.01，
 ω
 ¯
@@ -1370,6 +1396,72 @@ RMS of response acceleration varies with initial gap
 Fig.
 10
 RMS of response acceleration varies with installation position
+[1]
+杨超, 邱祈生, 周宜涛, 等. 飞机阵风响应减缓技术综述[J]. 航空学报, 2022, 43(10): 527350.
+Yang Chao, Qiu Qisheng, Zhou Yitao, et al. Review of aircraft gust alleviation technology[J]. Acta Aeronautica et Astronautica Sinica, 2022, 43(10): 527350. (in Chinese)
+[2]
+Yue Chengyu, Zhao Yonghui. Active disturbance rejection controller design for alleviation of gust-induced aeroelastic responses[J]. Aerospace Science and Technology, 2023, 133: 108116.
+[3]
+Fournier H, Massioni P, Tu Pham M, et al. Robust gust load alleviation of flexible aircraft equipped with lidar[J]. Journal of Guidance, Control, and Dynamics, 2021, 45(1): 58-72.
+[4]
+张育鸣, 戴玉婷, 黄广靖, 等. 柔性变形后缘翼型阵风减缓及气动噪声分析[J]. 航空学报, 2024, 45(10): 129219.
+Zhang Yuming, Dai Yuting, Huang Guangjing, et al. Gust alleviation and aeroacoustic characteristics of flexible morphing trailing edge airfoil[J]. Acta Aeronautica et Astronautica Sinica, 2024, 45(10): 129219. (in Chinese)
+[5]
+Yao Zhuoer, Kan Zi, Li Daochun. Gust response of spanwise morphing wing by simulation and wind tunnel testing[J]. Aerospace, 2023, 10(4): 328.
+[6]
+Niu Yaobin, Wang Zhongwei, Yang Huixin, et al. Aerothermoelastic response of hypersonic 2-D lifting surface[J]. Fluctuation and Noise Letters, 2012, 11(2): 1250017.
+[7]
+Masrour J, Sadati S H, Shahravi M. Gust response analysis based on a nonlinear structural model and the unsteady aerodynamics of a flexible aircraft[J]. Aircraft Engineering and Aerospace Technology, 2023, 95(6): 899-911.
+[8]
+王浩, 罗振兵, 邓雄, 等. 基于合成双射流的翼型阵风载荷减缓[J]. 航空学报, 2024, 45(16): 129660.
+Wang Hao, Luo Zhenbing, Deng Xiong, et al. Airfoil gust load alleviation based on dual synthetic jets[J]. Acta Aeronautica et Astronautica Sinica, 2024, 45(16): 129660. (in Chinese)
+[9]
+Li Da, Yang Hui, Qi Na, et al. Observer-based sliding mode control for piezoelectric wing bending-torsion coupling flutter involving delayed output[J]. Journal of Vibration and Control, 2021, 27(15/16): 1824-1841.
+[10]
+Yuan Jiaxin, Qiu Zhan, Wang Fuxin. Sliding mode observer controller design for a two dimensional aeroelastic system with gust load[J]. Asian Journal of Control, 2019, 21(1): 130-142.
+[11]
+Li Yonghong, Qin Ning. Gust load alleviation on an aircraft wing by trailing edge circulation control[J]. Journal of Fluids and Structures, 2021, 107: 103407.
+[12]
+De Souza A D R, Vuillemin P, Poussot-Vassal C, et al. Gust load alleviation using reduced-order aeroelastic models and observer-based robust control[J]. Journal of Guidance Control and Dynamics, 2023, 46(5): 949-957.
+[13]
+Carrillo Córcoles X, Mertens C, Sciacchitano A, et al. Effect of wing stiffness and folding wingtip release threshold on gust loads[J]. Journal of Aircraft, 2023, 60(6): 1917-1936.
+[14]
+Hu Yating, Dai Yuting, Wu You, et al. Time-domain feedforward control for gust response alleviation based on seamless morphing wing[J]. AIAA Journal, 2022, 60(10): 5707-5722.
+[15]
+He Tianyi, Su Weihua. Robust control of gust-induced vibration of highly flexible aircraft[J]. Aerospace Science and Technology, 2023, 143: 108703.
+[16]
+Zhou Yitao, Wu Zhigang, Yang Chao. Gust alleviation and wind tunnel test by using combined feedforward control and feedback control[J]. Aerospace, 2022, 9(4): 225.
+[17]
+钮耀斌, 王中伟, 黄伟. 高速飞行器间隙非线性机翼颤振的非线性能量阱抑制[J]. 国防科技大学学报, 2024, 46(2): 79-85.
+Niu Yaobin, Wang Zhongwei, Huang Wei. Suppression of nonlinear flutter for a wing with freeplay of high speed aircraft using nonlinear energy sink[J]. Journal of National University of Defense Technology, 2024, 46(2): 79-85. (in Chinese)
+[18]
+Eugeni M, Saltari F, Mastroddi F. Structural damping models for passive aeroelastic control[J]. Aerospace Science and Technology, 2021, 118: 107011.
+[19]
+Liu Haojie, Wang Xiao. Aeroservoelastic design of piezo-composite wings for gust load alleviation[J]. Journal of Fluids and Structures, 2019, 88: 83-99.
+[20]
+Guo Shijun, De Los Monteros J, Liu Ying. Gust alleviation of a large aircraft with a passive twist wingtip[J]. Aerospace, 2015, 2(2): 135-154.
+[21]
+He Shun, Guo Shijun, Liu Ying, et al. Passive gust alleviation of a flying-wing aircraft by analysis and wind-tunnel test of a scaled model in dynamic similarity[J]. Aerospace Science and Technology, 2021, 113: 106689.
+[22]
+Szczyglowski C P, Neild S A, Titurus B, et al. Passive gust loads alleviation in a truss-braced wing using an inerter-based device[J]. Journal of Aircraft, 2019, 56(6): 2260-2271.
+[23]
+Wang Jingjing, Zhang Chao, Zheng Yuqiang. A novel mass damper enabled by three types of mass attachments and internal vibro impacts[J]. Journal of Sound and Vibration, 2022, 534: 117065.
+[24]
+AL-Shudeifat M A, Saeed A S. Comparison of a modified vibro-impact nonlinear energy sink with other kinds of NESs[J]. Meccanica, 2021, 56(4): 735-752.
+[25]
+Li Tao, Qiu Donghai, Seguy S, et al. Activation characteristic of a vibro-impact energy sink and its application to chatter control in turning[J]. Journal of Sound and Vibration, 2017, 405: 1-18.
+[26]
+Fang Bin, Theurich T, Krack M, et al. Vibration suppression and modal energy transfers in a linear beam with attached vibro-impact nonlinear energy sinks[J]. Communications in Nonlinear Science and Numerical Simulation, 2020, 91: 105415.
+[27]
+Chabrier R, Chevallier G, Foltête E, et al. Experimental investigations of a vibro-impact absorber attached to a continuous structure[J]. Mechanical Systems and Signal Processing, 2022, 180: 109382.
+[28]
+Wu Xuze, Sun Yu, Wang Yu, et al. Passive chaos suppression for the planar slider-crank mechanism with a clearance joint by attached vibro-impact oscillator[J]. Mechanism and Machine Theory, 2022, 174: 104882.
+[29]
+Li Wenke, Wang Zhiming, Brennan M J, et al. Design and optimization of a two-degrees-of-freedom single-sided vibro-impact nonlinear energy sink for transient vibration suppression of a thin plate[J]. Journal of Sound and Vibration, 2024, 587: 118512.
+[30]
+Xia Yuanfeng, Pang Jian, Yang Liang, et al. Investigation on clearance-induced vibro-impacts of torsional system based on Hertz contact nonlinearity[J]. Mechanism and Machine Theory, 2021, 162: 104342.
+[31]
+Theodorsen T. General theory of aerodynamic instability and the mechanism of flutter: PB185078[R/OL]. https://ntrs.nasa.gov/api/citations/19930090935/downloads/19930090935.pdf.
 PDF下载
 XML下载
 导出引用
@@ -1489,7 +1581,7 @@ Theodorsen T. General theory of aerodynamic instability and the mechanism of flu
 扫码关注
 官方微信
 您是今天第
-3061
+4998
 位访客
 总访问量：
 321246602
@@ -1531,7 +1623,7 @@ Deepseek
 Kimi
 English
 引用本文:
-姜廷帅，于天元，白亮, 等. 双向门控循环时序网络驱动的空海域目标意图识别[J]. 国防科技大学学报, 2026, 48(4)：211-221.
+姜廷帅, 于天元, 白亮, 等. 双向门控循环时序网络驱动的空海域目标意图识别[J]. 国防科技大学学报, 2026, 48(4): 211-221.
 Citation:
 Jiang Tingshuai, Yu Tianyuan, Bai Liang, et al. Maritime and aerial target intention recognition driven by bidirectional gated recurrent temporal networks[J]. Journal of National University of Defense Technology, 2026, 48(4)： 211-221.
 双向门控循环时序网络驱动的空海域目标意图识别
@@ -1549,7 +1641,7 @@ jiangtingshuai19@nudt.edu.cn
 ，
  于天元
 角色:
-通讯作者
+通信作者
 机构:
 国防科技大学系统工程学院, 湖南 长沙 410073
 邮箱:
@@ -1579,11 +1671,11 @@ ty.yu@nudt.edu.cn
 收起信息
 作者简介
 姜廷帅（2001—），男，山东聊城人，硕士研究生，E-mail: jiangtingshuai19@nudt.edu.cn
-通讯作者
+通信作者
 于天元（1992—），男，辽宁大连人，副教授，博士，硕士生导师，E-mail: ty.yu@nudt.edu.cn
 中图分类号:
 TP391.9
-文献标识码:
+文献标志码:
 A
 文章编号:
 1001-2486(2026)04-211-11
@@ -1592,7 +1684,7 @@ Jiang Tingshuai
 Role:
 First Author
 Affiliation:
-College of Systems Engineering, National University of Defense Technology, Chan</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260420?st=search&amp;amp;tab=abstract&lt;/p&gt;&lt;pre&gt;双向门控循环时序网络驱动的空海域目标意图识别
+College of Systems Engineering, National University of Defense Technology, C</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260420?st=search&amp;amp;tab=abstract&lt;/p&gt;&lt;pre&gt;双向门控循环时序网络驱动的空海域目标意图识别
 EI•CA•INSPEC•JST•SCOPUS
 中文核心期刊•CSCD•WJCI
 首页
@@ -1622,7 +1714,7 @@ Deepseek
 Kimi
 English
 引用本文:
-姜廷帅，于天元，白亮, 等. 双向门控循环时序网络驱动的空海域目标意图识别[J]. 国防科技大学学报, 2026, 48(4)：211-221.
+姜廷帅, 于天元, 白亮, 等. 双向门控循环时序网络驱动的空海域目标意图识别[J]. 国防科技大学学报, 2026, 48(4): 211-221.
 Citation:
 Jiang Tingshuai, Yu Tianyuan, Bai Liang, et al. Maritime and aerial target intention recognition driven by bidirectional gated recurrent temporal networks[J]. Journal of National University of Defense Technology, 2026, 48(4)： 211-221.
 双向门控循环时序网络驱动的空海域目标意图识别
@@ -1640,7 +1732,7 @@ jiangtingshuai19@nudt.edu.cn
 ，
  于天元
 角色:
-通讯作者
+通信作者
 机构:
 国防科技大学系统工程学院, 湖南 长沙 410073
 邮箱:
@@ -1670,11 +1762,11 @@ ty.yu@nudt.edu.cn
 收起信息
 作者简介
 姜廷帅（2001—），男，山东聊城人，硕士研究生，E-mail: jiangtingshuai19@nudt.edu.cn
-通讯作者
+通信作者
 于天元（1992—），男，辽宁大连人，副教授，博士，硕士生导师，E-mail: ty.yu@nudt.edu.cn
 中图分类号:
 TP391.9
-文献标识码:
+文献标志码:
 A
 文章编号:
 1001-2486(2026)04-211-11
@@ -1714,7 +1806,7 @@ College of Systems Engineering, National University of Defense Technology, Chang
 摘要
 HTML全文
 图(12)表(9)
-参考文献
+参考文献(27)
 相似文献
 出版信息
 访问统计
@@ -1852,6 +1944,9 @@ t
 n
 (1)
 设向量
+，
+，
+，
 I
 =
 i
@@ -1976,6 +2071,8 @@ n
 中元素
 s
 与卷积核滤波器
+，
+，
 {
 0
 ，
@@ -2109,6 +2206,7 @@ t
 分别是时刻
 t
 前向和后向隐藏层的输出；
+和
 h
 →
 t
@@ -2294,6 +2392,7 @@ N
 y
 n
 表示模型预测样本的类别；
+，
 q
 ^
 n
@@ -2304,6 +2403,7 @@ n
 个样本对应于类别
 m
 的预测概率；
+，
 p
 ^
 n
@@ -2346,6 +2446,8 @@ x
 2
 (12)
 其中，
+（
+）
 ∇
 x
 f
@@ -2353,6 +2455,8 @@ f
 x
 ）
 表示模型输出的梯度，
+（
+）
 ∇
 x
 f
@@ -2466,6 +2570,7 @@ X
 i
 (15)
 其中，
+，
 x
 norm
 i
@@ -2504,6 +2609,9 @@ error
 ]
 作为评价指标。
 在意图识别任务中，计算某类意图的精确率、 召回率和 F1分数时，将该类的样本视为正类，而其余类别的样本则被视为负类。各项指标的计算公式如下所示：
+准
+确
+率
 准确率
 =
 P
@@ -2523,6 +2631,9 @@ T
 N
 F
 (16)
+精
+确
+率
 精确率
 =
 P
@@ -2533,6 +2644,9 @@ T
 P
 F
 (17)
+召
+回
+率
 召回率
 =
 P
@@ -2543,6 +2657,8 @@ T
 N
 F
 (18)
+分
+数
 F
 1
 分数
@@ -3089,6 +3205,74 @@ Comparison of evaluation metrics for different models after incorporating CGCE
 Tab.
 9
 Comparison of computational complexity across different models
+[1]
+Xiang Wenjia, Li Xiaoyu, He Zirui, et al. Intention estimation of adversarial spatial target based on fuzzy inference[J]. Intelligent Automation &amp;amp; Soft Computing, 2023, 35(3): 3627-3639.
+[2]
+陈优敏, 李长云. 基于知识图谱的目标战术意图识别仿真[J]. 计算机仿真, 2019, 36(8): 1-4, 19.
+Chen Youmin, Li Changyun. Simulation of target tactical intention recognition based on knowledge map[J]. Computer Simulation, 2019, 36(8): 1-4, 19.(in Chinese)
+[3]
+尹翔, 张萌, 陈梦乔. 基于判别分析的空中目标作战意图识别[J]. 弹箭与制导学报, 2018, 38(3): 46-50.
+Yin Xiang, Zhang Meng, Chen Mengqiao. Combat intention recognition of the target in the air based on discriminant analysis[J]. Journal of Projectiles, Rockets, Missiles and Guidance, 2018, 38(3): 46-50.(in Chinese)
+[4]
+Xu Yuheng, Cheng Siyi, Zhang Hubiao, et al. Air target combat intention identification based on IE-DSBN[C]//International Workshop on Electronic Communication and Artificial Intelligence(IWECAI), 2020: 36-40.
+[5]
+Xu Ximeng, Yang Rennong, Fu Yu. Situation assessment for air combat based on novel semi-supervised naive Bayes[J]. Journal of Systems Engineering and Electronics, 2018, 29(4): 768-779.
+[6]
+Takiddin A, Rath S, Ismail M, et al. Data-driven detection of stealth cyber-attacks in DC microgrids[J]. IEEE Systems Journal, 2022, 16(4): 6097-6106.
+[7]
+Wang Xun, Lu Aiguo, Liu Jin, et al. Intelligent interaction model for battleship control based on the fusion of target intention and operator emotion[J]. Computers and Electrical Engineering, 2021, 92: 107196.
+[8]
+Zhang Zhuo, Wang Hongfei, Geng Jie, et al. An information fusion method based on deep learning and fuzzy discount-weighting for target intention recognition[J]. Engineering Applications of Artificial Intelligence, 2022, 109: 104610.
+[9]
+刘钻东, 陈谋, 吴庆宪, 等. 非完备信息下无人机空战目标意图预测[J]. 中国科学: 信息科学, 2020, 50(5): 704-717.
+Liu Zuandong, Chen Mou, Wu Qingxian, et al. Prediction of unmanned aerial vehicle target intention under incomplete information[J]. Scientia Sinica Informationis, 2020, 50(5): 704-717.(in Chinese)
+[10]
+Chen Li, Liang Xingxing, Feng Yanghe, et al. Online intention recognition with incomplete information based on a weighted contrastive predictive coding model in wargame[J]. IEEE Transactions on Neural Networks and Learning Systems, 2023, 34(10): 7515-7528.
+[11]
+Teng Fei, Song Yafei, Wang Gang, et al. A GRU-based method for predicting intention of aerial targets[J]. Computational Intelligence and Neuroscience, 2021, 2021: 6082242.
+[12]
+王科, 李成海, 宋亚飞, 等. 面向空中目标意图识别的时空Transformer模型设计[J]. 西北工业大学学报, 2024, 42(4): 753-763.
+Wang Ke, Li Chenghai, Song Yafei, et al. Design on temporal-spatial Transformer model for air target intention recognition[J]. Journal of Northwestern Polytechnical University, 2024, 42(4): 753-763.(in Chinese)
+[13]
+欧微, 柳少军, 贺筱媛, 等. 战场对敌目标战术意图智能识别模型研究[J]. 计算机仿真, 2017, 34(9): 10-14, 19.
+Ou Wei, Liu Shaojun, He Xiaoyuan, et al. Study on the intelligent recognition model of enemy target′s tactical intention on battlefield[J]. Computer Simulation, 2017, 34(9): 10-14, 19.(in Chinese)
+[14]
+赵福均, 周志杰, 胡昌华, 等. 基于置信规则库和证据推理的空中目标意图识别方法[J]. 电光与控制, 2017, 24(8): 15-19, 50.
+Zhao Fujun, Zhou Zhijie, Hu Changhua, et al. Aerial target intention recognition approach based on belief-rule-base and evidential reasoning[J]. Electronics Optics &amp;amp; Control, 2017, 24(8): 15-19, 50.(in Chinese)
+[15]
+陈浩, 任卿龙, 滑艺, 等. 基于模糊神经网络的海面目标战术意图识别[J]. 系统工程与电子技术, 2016, 38(8): 1847-1853.
+Chen Hao, Ren Qinglong, Hua Yi, et al. Fuzzy neural network based tactical intention recognition for sea targets[J]. Systems Engineering and Electronics, 2016, 38(8): 1847-1853.(in Chinese)
+[16]
+马钰棠, 孙鹏, 张杰勇, 等. 样本不平衡下的空中群组意图识别方法[J]. 系统工程与电子技术, 2022, 44(12): 3747-3755.
+Ma Yutang, Sun Peng, Zhang Jieyong, et al. Air group intention recognition method under imbalance samples[J]. Systems Engineering and Electronics, 2022, 44(12): 3747-3755.(in Chinese)
+[17]
+周旺旺, 姚佩阳, 张杰勇, 等. 基于深度神经网络的空中目标作战意图识别[J]. 航空学报, 2018, 39(11): 322468.
+Zhou Wangwang, Yao Peiyang, Zhang Jieyong, et al. Combat intention recognition for aerial targets based on deep neural network[J]. Acta Aeronautica et Astronautica Sinica, 2018, 39(11): 322468.(in Chinese)
+[18]
+Zhang Yujie, Zhang Lei, Sun Duo, et al. Short-term wind power forecasting based on VMD and a hybrid SSA-TCN-BiGRU network[J]. Applied Sciences, 2023, 13(17): 9888.
+[19]
+Zhang Chu, Peng Tian, Nazir M S. A novel integrated photovoltaic power forecasting model based on variational mode decomposition and CNN-BiGRU considering meteorological variables[J]. Electric Power Systems Research, 2022, 213: 108796.
+[20]
+朱铭康, 卢先领. 基于Bi-LSTM-Attention模型的人体行为识别算法[J]. 激光与光电子学进展, 2019, 56(15): 151503.
+Zhu Mingkang, Lu Xianling. Human action recognition algorithm based on Bi-LSTM-Attention model[J]. Laser &amp;amp; Optoelectronics Progress, 2019, 56(15): 151503.(in Chinese)
+[21]
+Pinneri C, Sawant S, Blaes S, et al. Sample-efficient cross-entropy method for real-time planning[C]//The 4th Conference on Robot Learning, 2020.
+[22]
+丁鹏, 宋亚飞. 代价敏感的空中目标意图识别方法[J]. 航空学报, 2023, 44(24): 328551.
+Ding Peng, Song Yafei. A cost-sensitive method for aerial target intention recognition[J]. Acta Aeronautica et Astronautica Sinica, 2023, 44(24): 328551.(in Chinese)
+[23]
+钱钊, 刘钦, 鹿瑶, 等. 基于长短时神经网络的目标意图识别[J]. 太赫兹科学与电子信息学报, 2022, 20(11): 1156-1162.
+Qian Zhao, Liu Qin, Lu Yao, et al. Identification of target′s combat intention based on long short term memory network[J]. Journal of Terahertz Science and Electronic Information Technology, 2022, 20(11): 1156-1162.(in Chinese)
+[24]
+滕飞, 刘曙, 宋亚飞. BiLSTM-Attention: 一种空中目标战术意图识别模型[J]. 航空兵器, 2021, 28(5): 24-32.
+Teng Fei, Liu Shu, Song Yafei. BiLSTM-Attention: an air target tactical intention recognition model[J]. Aero Weaponry, 2021, 28(5): 24-32.(in Chinese)
+[25]
+苟先太, 吴南方. 基于GRU-Attention神经网络的空中群组态势识别方法[J]. 计算机与现代化, 2019(10): 11-16, 33.
+Gou Xiantai, Wu Nanfang. Air group situation recognition method based on GRU-Attention neural network[J]. Computer and Modernization, 2019(10): 11-16, 33.(in Chinese)
+[26]
+Teng Fei, Guo Xinpeng, Song Yafei, et al. An air target tactical intention recognition model based on bidirectional GRU with attention mechanism[J]. IEEE Access, 2021, 9: 169122-169134.
+[27]
+Zhu Wenbo, Webb Z T, Mao Kaitian, et al. A deep learning approach for process data visualization using t-distributed stochastic neighbor embedding[J]. Industrial &amp;amp; Engineering Chemistry Research, 2019, 58(22): 9564-9575.
 PDF下载
 XML下载
 导出引用
@@ -3098,15 +3282,19 @@ XML下载
 表(9)
 手机扫码阅读
 引用本文
-姜廷帅，于天元，白亮, 等. 双向门控循环时序网络驱动的空海域目标意图识别[J]. 国防科技大学学报, 2026, 48(4)：211-221.
+姜廷帅, 于天元, 白亮, 等. 双向门控循环时序网络驱动的空海域目标意图识别[J]. 国防科技大学学报, 2026, 48(4): 211-221.
 复制
 Jiang Tingshuai, Yu Tianyuan, Bai Liang, et al. Maritime and aerial target intention recognition driven by bidirectional gated recurrent temporal networks[J]. Journal of National University of Defense Technology, 2026, 48(4)： 211-221.
 Copy
 计量
 文章访问量:
+297
 HTML全文浏览量:
+300
 PDF下载量:
+683
 被引次数:
+0
 图
 1
 空海域目标作战意图识别过程
@@ -3293,6 +3481,7 @@ Zhu Wenbo, Webb Z T, Mao Kaitian,et al. A deep learning approach for process dat
 扫码关注
 官方微信
 您是今天第
+5000
 位访客
 总访问量：
 321246602
@@ -5391,12 +5580,13 @@ Deng Yufan, Song Zhilin, Pu Tianle, et al. GNN-guided approach to enhancing mixe
 Copy
 计量
 文章访问量:
-298
+300
 HTML全文浏览量:
-279
+281
 PDF下载量:
 574
 被引次数:
+0
 图
 1
 混合整数线性规划问题的二部图表示
@@ -5517,6 +5707,7 @@ ACHTERBERG T. SCIP:solving constraint integer programs[J]. Mathematical Programm
 扫码关注
 官方微信
 您是今天第
+5001
 位访客
 总访问量：
 321246602
@@ -5660,7 +5851,7 @@ Play
 % buffered
 00:00
 00:00
-00:00
+07:32
 Unmute
 Mute
 Disable captions
@@ -6394,9 +6585,9 @@ LI Zhigang, QIU Zhinan, WANG Jiachun, et al. Study of high-power microwave prote
 Copy
 计量
 文章访问量:
-29497
+29502
 HTML全文浏览量:
-4134
+4136
 PDF下载量:
 10059
 被引次数:
@@ -6471,7 +6662,7 @@ HE W, LIU X H, XIAN R C,et al. Kinetics characteristics and bremsstrahlung of ar
 扫码关注
 官方微信
 您是今天第
-3063
+5003
 位访客
 总访问量：
 321246602
@@ -6513,7 +6704,7 @@ Deepseek
 Kimi
 English
 引用本文:
-蒲天乐, 张柄旭, 曾利, 等. 预训练和微调:图组合优化问题的统一求解方法[J]. 国防科技大学学报, 2026, 48(4): 128-138.
+蒲天乐，张柄旭，曾利，等. 预训练和微调：图组合优化问题的统一求解方法[J]. 国防科技大学学报, 2026, 48(4)： 128-138.
 Citation:
 Pu Tianle, Zhang Bingxu, Zeng Li, et al. Pre-training and fine-tuning: a unified approach for solving graph combinatorial optimization problems [J]. Journal of National University of Defense Technology, 2026, 48(4)： 128-138.
 预训练和微调：图组合优化问题的统一求解方法
@@ -6564,7 +6755,7 @@ putl22@nudt.edu.cn
  范长俊
 1
 角色:
-通信作者
+通讯作者
 机构:
 1. 国防科技大学 系统工程学院, 湖南 长沙 410073
 邮箱:
@@ -6587,8 +6778,8 @@ fanchangjun@nudt.edu.cn
 收起信息
 作者简介
 蒲天乐（2001—），男，安徽宿州人，博士研究生，E-mail: putl22@nudt.edu.cn
-通信作者
-范长俊（1990—），男，安徽天长人，副教授，博士，博士生导师，E-mail: fanchangjun@n</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260412?st=search&amp;amp;tab=abstract&lt;/p&gt;&lt;pre&gt;预训练和微调:图组合优化问题的统一求解方法
+通讯作者
+范长俊（1990—），男，安徽天长人，副教授，博士，博士生导师，E-mail: fanchangjun@nudt</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260412?st=search&amp;amp;tab=abstract&lt;/p&gt;&lt;pre&gt;预训练和微调:图组合优化问题的统一求解方法
 EI•CA•INSPEC•JST•SCOPUS
 中文核心期刊•CSCD•WJCI
 首页
@@ -6618,7 +6809,7 @@ Deepseek
 Kimi
 English
 引用本文:
-蒲天乐, 张柄旭, 曾利, 等. 预训练和微调:图组合优化问题的统一求解方法[J]. 国防科技大学学报, 2026, 48(4): 128-138.
+蒲天乐，张柄旭，曾利，等. 预训练和微调：图组合优化问题的统一求解方法[J]. 国防科技大学学报, 2026, 48(4)： 128-138.
 Citation:
 Pu Tianle, Zhang Bingxu, Zeng Li, et al. Pre-training and fine-tuning: a unified approach for solving graph combinatorial optimization problems [J]. Journal of National University of Defense Technology, 2026, 48(4)： 128-138.
 预训练和微调：图组合优化问题的统一求解方法
@@ -6669,7 +6860,7 @@ putl22@nudt.edu.cn
  范长俊
 1
 角色:
-通信作者
+通讯作者
 机构:
 1. 国防科技大学 系统工程学院, 湖南 长沙 410073
 邮箱:
@@ -6692,11 +6883,11 @@ fanchangjun@nudt.edu.cn
 收起信息
 作者简介
 蒲天乐（2001—），男，安徽宿州人，博士研究生，E-mail: putl22@nudt.edu.cn
-通信作者
+通讯作者
 范长俊（1990—），男，安徽天长人，副教授，博士，博士生导师，E-mail: fanchangjun@nudt.edu.cn
 中图分类号:
 TP18
-文献标志码:
+文献标识码:
 A
 文章编号:
 1001-2486(2026)04-128-11
@@ -6754,7 +6945,7 @@ fanchangjun@nudt.edu.cn
 摘要
 HTML全文
 图(6)表(5)
-参考文献(26)
+参考文献
 相似文献
 出版信息
 访问统计
@@ -7158,16 +7349,12 @@ i
 j
 (8)
 其中，
-（
-）
 h
 i
 （
 0
 ）
 和
-（
-）
 h
 i
 j
@@ -7659,357 +7846,4 @@ Fig.
 Running time of different methods
 由
 图6
-可知，GCOP-PREMA-CE的求解时间分布最为均匀，表明其在处理不同问题实例时具有优异的效率稳定性。相比之下，S2V-DQN的求解时间波动较大，反映出其在某些实例上可能存在效率瓶颈。在求解质量方面，GCOP-PREMA-CE、GCOP-PREMA-LPE和S2V-DQN在多数实例上均达到了与专业求解器相当的高精度水平，而 GCOP-PREMA-NPE 的求解精度则略显不足。
-4 结论
-针对图组合优化问题在分布外泛化方面面临的挑战，本研究借鉴大语言模型的成功经验，提出了一种基于预训练-微调范式的统一求解方法GCOP-PREMA。通过将四类经典图组合优化问题统一建模并构建多任务预训练机制，实现了跨问题类型的知识迁移与共享。
-大量实验验证表明，所提方法在多项基准测试中均表现出优越性能。基于多任务预训练的微调机制对性能提升具有强正向效应，其中MIS问题的优化效能增益达56.67%，印证了迁移学习在图优化领域的巨大潜力。在跨规模、跨场景测试中，GCOP-PREMA框架相较于传统贪心算法取得6.36%~16.12%的优化率提升，在MaxCut问题上的求解精度超越现有机器学习方法9.8个百分点。尽管在蛋白质网络MC问题求解中较专用算法存在0.96%的微小差距，但该框架通过单一模型架构实现了四类非确定性多项式时间难（nondeterministic polynomia-time hard，NP-hard）问题的近最优求解，充分验证了预训练-微调范式在图组合优化领域的普适价值与通用性。
-未来研究将着重解决不同图优化任务间的优化不平衡问题，并探索扩散模型等新兴技术在此领域的应用潜力，以进一步提升统一求解框架的性能与适用范围。
-图
-1
-QUBO图的示意图
-Fig.
-1
-Schematic representation of the QUBO graph
-下载:
-全尺寸图片
-图
-2
-GCOP-PREMA总体框架
-Fig.
-2
-GCOP-PREMA overall framework
-下载:
-全尺寸图片
-图
-3
-QUBOFormer模型架构
-Fig.
-3
-QUBOFormer model architecture
-下载:
-全尺寸图片
-图
-4
-不同方法在模拟图上的表现
-Fig.
-4
-Representation of different methods on simulation graphs
-下载:
-全尺寸图片
-图
-5
-不同方法在真实图上的表现
-Fig.
-5
-Representation of different methods on real graphs
-下载:
-全尺寸图片
-图
-6
-不同方法的运行时间
-Fig.
-6
-Running time of different methods
-下载:
-全尺寸图片
-表
-1
-常见约束的 QUBO 转换
-Tab.
-1
-QUBO conversion of common constraints
-下载:
-全尺寸图片
-表
-2
-经典图组合优化问题的QUBO形式
-Tab.
-2
-QUBO form of the classical graph combinatorial optimization problem
-下载:
-全尺寸图片
-表
-3
-GCOP-PREMA预训练阶段实验超参数设置
-Tab.
-3
-GCOP-PREMA experimental hyperparameter settings for the pre-training phase
-下载:
-全尺寸图片
-表
-4
-GCOP-PREMA微调阶段实验超参数设置
-Tab.
-4
-GCOP-PREMA experimental hyperparameter settings for the fine-tuning phase
-下载:
-全尺寸图片
-表
-5
-微调前后GCOP-PREMA在不同问题上的表现
-Tab.
-5
-Performance of GCOP-PREMA on different questions before and after fine-tuning
-下载:
-全尺寸图片
-图
-1
-QUBO图的示意图
-Fig.
-1
-Schematic representation of the QUBO graph
-图
-2
-GCOP-PREMA总体框架
-Fig.
-2
-GCOP-PREMA overall framework
-图
-3
-QUBOFormer模型架构
-Fig.
-3
-QUBOFormer model architecture
-图
-4
-不同方法在模拟图上的表现
-Fig.
-4
-Representation of different methods on simulation graphs
-图
-5
-不同方法在真实图上的表现
-Fig.
-5
-Representation of different methods on real graphs
-图
-6
-不同方法的运行时间
-Fig.
-6
-Running time of different methods
-表
-1
-常见约束的 QUBO 转换
-Tab.
-1
-QUBO conversion of common constraints
-表
-2
-经典图组合优化问题的QUBO形式
-Tab.
-2
-QUBO form of the classical graph combinatorial optimization problem
-表
-3
-GCOP-PREMA预训练阶段实验超参数设置
-Tab.
-3
-GCOP-PREMA experimental hyperparameter settings for the pre-training phase
-表
-4
-GCOP-PREMA微调阶段实验超参数设置
-Tab.
-4
-GCOP-PREMA experimental hyperparameter settings for the fine-tuning phase
-表
-5
-微调前后GCOP-PREMA在不同问题上的表现
-Tab.
-5
-Performance of GCOP-PREMA on different questions before and after fine-tuning
-[1]
-张洁, 汪俊亮, 吕佑龙, 等. 大数据驱动的智能制造[J]. 中国机械工程, 2019, 30(2): 127-133, 158.
-Zhang Jie, Wang Junliang, Lü Youlong, et al. Big data-driven intelligent manufacturing[J]. China Mechanical Engineering, 2019, 30(2): 127-133, 158.(in Chinese)
-[2]
-Wang Qi, Tang Chunlei. Deep reinforcement learning for transportation network combinatorial optimization: a survey[J]. Knowledge-Based Systems, 2021, 233: 107526.
-[3]
-Juan A A, Faulin J, Grasman S E, et al. A review of simheuristics: extending metaheuristics to deal with stochastic combinatorial optimization problems[J]. Operations Research Perspectives, 2015, 2: 62-72.
-[4]
-马丽娜, 田勇, 徐灿. 民用航空器飞行轨迹优化研究综述[J]. 航空计算技术, 2021, 51(1): 130-134.
-Ma Lina, Tian Yong, Xu Can. Survey review of trajectory optimization for civil aircrafts[J]. Aeronautical Computing Technique, 2021, 51(1): 130-134.(in Chinese)
-[5]
-陈曼, 周凤星. 改进粒子群算法的舰载武器目标分配[J]. 火力与指挥控制, 2018, 43(11): 72-76.
-Chen Man, Zhou Fengxing. Shipborne weapon target assignment based on improved particle swarm optimization[J]. Fire Control &amp;amp; Command Control, 2018, 43(11): 72-76.(in Chinese)
-[6]
-刘瑶, 夏阳升, 石建迈. 车载多无人机协同多区域覆盖路径规划方法[J]. 系统工程与电子技术, 2023, 45(5): 1380-1390.
-Liu Yao, Xia Yangsheng, Shi Jianmai. Path planning method for multi-area coverage by cooperated ground vehicle multi-drone[J]. System Engineering and Electronics, 2023, 45(5): 1380-1390.(in Chinese)
-[7]
-Li Peng, Liu Bo. Multi-task combinatorial optimization: adaptive multi-modality knowledge transfer by an explicit inter-task distance[PP/OL].arXiv(2023-05-22)[2025-03-11].https: //arxiv.org/abs/2305.12807v1.
-[8]
-Wang Chenguang, Yu Zhouliang, McAleer S, et al. ASP: learn a universal neural solver![J]. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2024, 46(6): 4102-4114.
-[9]
-Zhou Jianan, Cao Zhiguang, Wu Yaoxin, et al. MVMoE: multi-task vehicle routing solver with mixture-of-experts[C]//The 41st International Conference on Machine Learning(ICML2024), 2024.
-[10]
-Liu Fei, Lin Xi, Wang Zhenkun, et al. Multi-task learning for routing problem with cross-problem zero-shot generalization[C]//The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2024.
-[11]
-Wang Chenguang, Fu Zhanghua, Lu Pinyan, et al. Efficient training of multi-task neural solver for combinatorial optimization[PP/OL].arXiv(2023-05-10)[2025-03-25].https: //arxiv.org/abs/2305.06361.
-[12]
-Li Yang, Liu Jiaxi, Wu Qitian, et al. Toward learning generalized cross-problem solving strategies for combinatorial optimization[C]//The 13th International Conference on Learning Representations(ICLR), 2025.
-[13]
-Drakulić D, Michel S, Andreoli J-M. GOAL: a generalist combinatorial optimization agent learner[C]//The 13th International Conference on Learning Representations(ICLR), 2025.
-[14]
-Pan Wenzheng, Xiong Hao, Ma Jiale, et al. UniCO: on unified combinatorial optimization via problem reduction to matrix-encoded general TSP[C]//The 13th International Conference on Learning Representations(ICLR), 2025.
-[15]
-Jiang Xia, Wu Yaoxin, Wang Yuan, et al. UNCO: towards unifying neural combinatorial optimization through large language model[PP/OL].arXiv(2024-08-22)[2025-03-27].https: //arxiv.org/abs/2408.12214v2.
-[16]
-Goemans M X, Williamson D P. Improved approximation algorithms for maximum cut and satisfiability problems using semidefinite programming[J]. Journal of the ACM, 1995, 42(6): 1115-1145.
-[17]
-Li Xiaotian, Nakano K, Tsukiyama S, et al. Generating hard quadratic unconstrained binary optimization instances via the method of combining bit reduction and duplication technique[J]. International Journal of Parallel, Emergent and Distributed Systems, 2024, 39(5): 589-608.
-[18]
-Barabasi A L, Albert R. Emergence of scaling in random networks[J]. Science, 1999, 286(5439): 509-512.
-[19]
-Erdös P, Rényi A. On random graphs I[J]. Publications Mathematicae Debrecen, 1959, 6: 290-297.
-[20]
-Morris C, Kriege N M, Bause F, et al. TUDataset: a collection of benchmark datasets for learning with graphs[PP/OL].arXiv(2020-07-16)[2025-03-27].https: //arxiv.org/abs/2007.08663.
-[21]
-Kleinberg J, Tardos É. Algorithm design[M]. Boston: Addison-Wesley, 2005.
-[22]
-Papadimitriou C H, Steiglitz K. Combinatorial optimization: algorithms and complexity[M]. Upper Saddle River: Prentice-Hall, 1982.
-[23]
-Wormald N C. Differential equations for random processes and random graphs[J]. The Annals of Applied Probability, 1995, 5(4): 1217-1235.
-[24]
-Bilbro G, Mann R, Miller T K, et al. Optimization by mean field annealing[C]//The 2nd International Conference on Neural Information Processing Systems, 1988.
-[25]
-Dai Hanjun, Khalil E B, Zhang Yuyu, et al. Learning combinatorial optimization algorithms over graphs[C]//The 31st Conference on Neural Information Processing Systems, 2017.
-[26]
-Sanokowski S, Berghammer W, Hochreiter S, et al. Variational annealing on graphs for combinatorial optimization[PP/OL].arXiv(2023-11-23)[2025-03-25].https: //arxiv.org/abs/2311.14156.
-PDF下载
-XML下载
-导出引用
-引用提醒
-图(6)
-/
-表(5)
-手机扫码阅读
-引用本文
-蒲天乐, 张柄旭, 曾利, 等. 预训练和微调:图组合优化问题的统一求解方法[J]. 国防科技大学学报, 2026, 48(4): 128-138.
-复制
-Pu Tianle, Zhang Bingxu, Zeng Li, et al. Pre-training and fine-tuning: a unified approach for solving graph combinatorial optimization problems [J]. Journal of National University of Defense Technology, 2026, 48(4)： 128-138.
-Copy
-计量
-文章访问量:
-284
-HTML全文浏览量:
-265
-PDF下载量:
-553
-被引次数:
-0
-图
-1
-QUBO图的示意图
-Fig.
-1
-Schematic representation of the QUBO graph
-图
-2
-GCOP-PREMA总体框架
-Fig.
-2
-GCOP-PREMA overall framework
-图
-3
-QUBOFormer模型架构
-Fig.
-3
-QUBOFormer model architecture
-图
-4
-不同方法在模拟图上的表现
-Fig.
-4
-Representation of different methods on simulation graphs
-图
-5
-不同方法在真实图上的表现
-Fig.
-5
-Representation of different methods on real graphs
-图
-6
-不同方法的运行时间
-Fig.
-6
-Running time of different methods
-表
-1
-常见约束的 QUBO 转换
-Tab.
-1
-QUBO conversion of common constraints
-表
-2
-经典图组合优化问题的QUBO形式
-Tab.
-2
-QUBO form of the classical graph combinatorial optimization problem
-表
-3
-GCOP-PREMA预训练阶段实验超参数设置
-Tab.
-3
-GCOP-PREMA experimental hyperparameter settings for the pre-training phase
-表
-4
-GCOP-PREMA微调阶段实验超参数设置
-Tab.
-4
-GCOP-PREMA experimental hyperparameter settings for the fine-tuning phase
-表
-5
-微调前后GCOP-PREMA在不同问题上的表现
-Tab.
-5
-Performance of GCOP-PREMA on different questions before and after fine-tuning
-张洁, 汪俊亮, 吕佑龙, 等. 大数据驱动的智能制造[J]. 中国机械工程,2019,30(2):127-133,158.
-Zhang Jie, Wang Junliang, Lü Youlong,et al. Big data-driven intelligent manufacturing[J]. China Mechanical Engineering,2019,30(2):127-133,158.(in Chinese)
-Wang Qi, Tang Chunlei. Deep reinforcement learning for transportation network combinatorial optimization:a survey[J]. Knowledge-Based Systems,2021,233:107526.
-Juan A A, Faulin J, Grasman S E,et al. A review of simheuristics:extending metaheuristics to deal with stochastic combinatorial optimization problems[J]. Operations Research Perspectives,2015,2:62-72.
-马丽娜, 田勇, 徐灿. 民用航空器飞行轨迹优化研究综述[J]. 航空计算技术,2021,51(1):130-134.
-Ma Lina, Tian Yong, Xu Can. Survey review of trajectory optimization for civil aircrafts[J]. Aeronautical Computing Technique,2021,51(1):130-134.(in Chinese)
-陈曼, 周凤星. 改进粒子群算法的舰载武器目标分配[J]. 火力与指挥控制,2018,43(11):72-76.
-Chen Man, Zhou Fengxing. Shipborne weapon target assignment based on improved particle swarm optimization[J]. Fire Control &amp;amp; Command Control,2018,43(11):72-76.(in Chinese)
-刘瑶, 夏阳升, 石建迈. 车载多无人机协同多区域覆盖路径规划方法[J]. 系统工程与电子技术,2023,45(5):1380-1390.
-Liu Yao, Xia Yangsheng, Shi Jianmai. Path planning method for multi-area coverage by cooperated ground vehicle multi-drone[J]. System Engineering and Electronics,2023,45(5):1380-1390.(in Chinese)
-Li Peng, Liu Bo. Multi-task combinatorial optimization:adaptive multi-modality knowledge transfer by an explicit inter-task distance[PP/OL].arXiv(2023-05-22)[2025-03-11].https://arxiv.org/abs/2305.12807v1.
-Wang Chenguang, Yu Zhouliang, McAleer S,et al. ASP:learn a universal neural solver![J]. IEEE Transactions on Pattern Analysis and Machine Intelligence,2024,46(6):4102-4114.
-Zhou Jianan, Cao Zhiguang, Wu Yaoxin,et al. MVMoE:multi-task vehicle routing solver with mixture-of-experts[C]//The 41st International Conference on Machine Learning(ICML2024),2024.
-Liu Fei, Lin Xi, Wang Zhenkun,et al. Multi-task learning for routing problem with cross-problem zero-shot generalization[C]//The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining,2024.
-Wang Chenguang, Fu Zhanghua, Lu Pinyan,et al. Efficient training of multi-task neural solver for combinatorial optimization[PP/OL].arXiv(2023-05-10)[2025-03-25].https://arxiv.org/abs/2305.06361.
-Li Yang, Liu Jiaxi, Wu Qitian,et al. Toward learning generalized cross-problem solving strategies for combinatorial optimization[C]//The 13th International Conference on Learning Representations(ICLR),2025.
-Drakulić D, Michel S, Andreoli J-M. GOAL:a generalist combinatorial optimization agent learner[C]//The 13th International Conference on Learning Representations(ICLR),2025.
-Pan Wenzheng, Xiong Hao, Ma Jiale,et al. UniCO:on unified combinatorial optimization via problem reduction to matrix-encoded general TSP[C]//The 13th International Conference on Learning Representations(ICLR),2025.
-Jiang Xia, Wu Yaoxin, Wang Yuan,et al. UNCO:towards unifying neural combinatorial optimization through large language model[PP/OL].arXiv(2024-08-22)[2025-03-27].https://arxiv.org/abs/2408.12214v2.
-Goemans M X, Williamson D P. Improved approximation algorithms for maximum cut and satisfiability problems using semidefinite programming[J]. Journal of the ACM,1995,42(6):1115-1145.
-Li Xiaotian, Nakano K, Tsukiyama S,et al. Generating hard quadratic unconstrained binary optimization instances via the method of combining bit reduction and duplication technique[J]. International Journal of Parallel, Emergent and Distributed Systems,2024,39(5):589-608.
-Barabasi A L, Albert R. Emergence of scaling in random networks[J]. Science,1999,286(5439):509-512.
-Erdös P, Rényi A. On random graphs I[J]. Publications Mathematicae Debrecen,1959,6:290-297.
-Morris C, Kriege N M, Bause F,et al. TUDataset:a collection of benchmark datasets for learning with graphs[PP/OL].arXiv(2020-07-16)[2025-03-27].https://arxiv.org/abs/2007.08663.
-Kleinberg J, Tardos É. Algorithm design[M]. Boston: Addison-Wesley,2005.
-Papadimitriou C H, Steiglitz K. Combinatorial optimization:algorithms and complexity[M]. Upper Saddle River: Prentice-Hall,1982.
-Wormald N C. Differential equations for random processes and random graphs[J]. The Annals of Applied Probability,1995,5(4):1217-1235.
-Bilbro G, Mann R, Miller T K,et al. Optimization by mean field annealing[C]//The 2nd International Conference on Neural Information Processing Systems,1988.
-Dai Hanjun, Khalil E B, Zhang Yuyu,et al. Learning combinatorial optimization algorithms over graphs[C]//The 31st Conference on Neural Information Processing Systems,2017.
-Sanokowski S, Berghammer W, Hochreiter S,et al. Variational annealing on graphs for combinatorial optimization[PP/OL].arXiv(2023-11-23)[2025-03-25].https://arxiv.org/abs/2311.14156.
-作者投稿
-投稿指南
-联系我们
-公众号
-返回顶部
-扫码关注
-官方微信
-您是今天第
-3063
-位访客
-总访问量：
-321246602
-电话：
-0731-87028030
-邮箱:journal@nudt.edu.cn
-地址：湖南省长沙市开福区德雅路109号
-邮政编码：410073
-备案号 
-：
-湘ICP备09019258号
-技术支持：北京勤云科技发展有限公司&lt;/pre&gt;</content:encoded></item></channel></rss>
+可知，GCOP-PREMA-CE的求解时间分布最为均匀，表明其在处理不同问题实例时具有优异的效率稳定性。相比之下，S2V-DQN的求解时间波动较大，反映出其在某些实例上可能存在效率瓶颈。在求解质量方面，GCOP-PREMA-CE、GCOP-PREMA-LPE和S2V-DQN在多数实例上均达到了与专业求解器相当的高精度水平，而 GCOP-PREMA-NPE 的求解精度则略显不足。&lt;/pre&gt;</content:encoded></item></channel></rss>

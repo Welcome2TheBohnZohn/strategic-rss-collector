@@ -12,6 +12,8 @@ All links discovered: 227
 
 https://www.stats.gov.cn/sj/zxfb/202610/t20261030_1965708.html
   2026年前三季度全国规模以上文化及相关产业企业营业收入增长4.3%
+https://www.stats.gov.cn/sj/zxfb/202610/t20261030_1965711.html
+  社会事业全面发展　民生福祉取得新进步——2025年社会民生统计报告
 https://www.stats.gov.cn/sj/zxfb/202610/t20261027_1965697.html
   2026年1—9月份全国规模以上工业企业利润增长15.5%
 https://www.stats.gov.cn/sj/zxfb/202610/t20261023_1965679.html
@@ -36,8 +38,6 @@ https://www.stats.gov.cn/sj/zxfb/202610/t20261020_1965658.html
   2026年三季度国内生产总值初步核算结果
 https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965612.html
   2026年前三季度居民收入和消费支出情况
-https://www.stats.gov.cn/sj/zxfb/202610/t20261016_1965512.html
-  2025年全国科技经费投入统计公报
 https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965613.html
   2026年9月份能源生产情况
 
@@ -71,6 +71,8 @@ https://www.stats.gov.cn/zt_18555/
   专题
 https://www.stats.gov.cn/sj/zxfb/
   数据发布
+https://www.stats.gov.cn/sj/zxfb/202610/t20261030_1965711.html
+  社会事业全面发展　民生福祉取得新进步——2025年社会民生统计报告
 https://www.stats.gov.cn/sj/zxfb/202610/t20261030_1965708.html
   2026年前三季度全国规模以上文化及相关产业企业营业收入增长4.3%
 https://www.stats.gov.cn/sj/zxfb/202610/t20261027_1965697.html
@@ -99,8 +101,6 @@ https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965611.html
   2026年三季度全国规模以上工业产能利用率为73.1%
 https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965609.html
   2026年9月份70个大中城市商品住宅销售价格变动情况
-https://www.stats.gov.cn/sj/zxfb/202610/t20261016_1965512.html
-  2025年全国科技经费投入统计公报
 http://www.gov.cn/
   中央人民政府门户网站
 http://www.fmprc.gov.cn/
