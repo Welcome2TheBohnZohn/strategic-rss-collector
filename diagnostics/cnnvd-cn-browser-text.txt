@@ -23,66 +23,66 @@ CNNVD动态
 重置
 收起 
 漏洞信息
-WordPress HTML5 Video Player 跨站脚本漏洞
+WordPress PDF Poster 跨站脚本漏洞
 中危
 收录时间：2026-10-29
 |
-更新时间: 2026-10-30 15:29:34
-CNNVD编号：CNNVD-2026-58827827
-Mauricio Sevilla Britto Sistema Web de Inventario Simple en PHP y MySQL 跨站脚本漏洞
-低危
+更新时间: 2026-10-30 15:29:12
+CNNVD编号：CNNVD-2026-68378361
+WordPress Blockonomics 跨站脚本漏洞
+高危
 收录时间：2026-10-29
 |
-更新时间: 2026-10-30 15:29:32
-CNNVD编号：CNNVD-2026-60458605
-Dan Foreman-Mackey Feedfinder2 服务端请求伪造漏洞
+更新时间: 2026-10-30 15:29:07
+CNNVD编号：CNNVD-2026-90903778
+favethemes MLS On The Fly SQL注入漏洞
+高危
+收录时间：2026-10-29
+|
+更新时间: 2026-10-30 15:29:07
+CNNVD编号：CNNVD-2026-93537485
+Sindre Sorhus open 命令注入漏洞
+高危
+收录时间：2026-10-29
+|
+更新时间: 2026-10-30 15:29:24
+CNNVD编号：CNNVD-2026-20291972
+ZITADEL 授权问题漏洞
+高危
+收录时间：2026-10-29
+|
+更新时间: 2026-10-30 15:29:21
+CNNVD编号：CNNVD-2026-68835702
+frangoteam FUXA 授权问题漏洞
 中危
 收录时间：2026-10-29
 |
-更新时间: 2026-10-30 15:29:31
-CNNVD编号：CNNVD-2026-86555266
-openEQUELLA 权限许可和访问控制问题漏洞
-超危
+更新时间: 2026-10-30 15:29:12
+CNNVD编号：CNNVD-2026-89651153
+WordPress Video Gallery 跨站脚本漏洞
+高危
 收录时间：2026-10-29
 |
 更新时间: 2026-10-30 15:29:06
-CNNVD编号：CNNVD-2026-68105624
-openEQUELLA 输入验证错误漏洞
+CNNVD编号：CNNVD-2026-57287466
+dnsmasq 资源管理错误漏洞
 中危
 收录时间：2026-10-29
 |
-更新时间: 2026-10-30 15:29:06
-CNNVD编号：CNNVD-2026-61448971
-openEQUELLA 跨站脚本漏洞
-中危
+更新时间: 2026-10-30 15:28:57
+CNNVD编号：CNNVD-2026-10171285
+Microsoft Edge (Chromium-based) 缓冲区错误漏洞
+高危
 收录时间：2026-10-29
 |
-更新时间: 2026-10-30 15:29:05
-CNNVD编号：CNNVD-2026-75070305
-HashiCorp Nomad 授权问题漏洞
-中危
+更新时间: 2026-10-30 15:28:54
+CNNVD编号：CNNVD-2026-90952629
+Microsoft Edge (Chromium-based) 缓冲区错误漏洞
+高危
 收录时间：2026-10-29
 |
-更新时间: 2026-10-30 15:33:57
-CNNVD编号：CNNVD-2026-13572401
-IBM Langflow OSS 信任管理问题漏洞
-中危
-收录时间：2026-10-29
-|
-更新时间: 2026-10-30 15:33:56
-CNNVD编号：CNNVD-2026-22853322
-Fossify Contacts 安全漏洞
-超危
-收录时间：2026-10-29
-|
-更新时间: 2026-10-30 15:33:55
-CNNVD编号：CNNVD-2026-12894950
-Bander Notepad 安全漏洞
-超危
-收录时间：2026-10-29
-|
-更新时间: 2026-10-30 15:33:55
-CNNVD编号：CNNVD-2026-29125051
+更新时间: 2026-10-30 15:28:54
+CNNVD编号：CNNVD-2026-39991718
 共 409759 条
 12345640976
 前往页
