@@ -20,8 +20,6 @@ https://www.stats.gov.cn/sj/zxfb/202610/t20261023_1965679.html
   2026年10月中旬流通领域重要生产资料市场价格变动情况
 https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965611.html
   2026年三季度全国规模以上工业产能利用率为73.1%
-https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965609.html
-  2026年9月份70个大中城市商品住宅销售价格变动情况
 https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965614.html
   2026年1—9月份社会消费品零售总额增长1.1%
 https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965618.html
@@ -32,6 +30,8 @@ https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965616.html
   2026年1—9月份全国固定资产投资基本情况
 https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965615.html
   2026年1—9月份全国房地产市场基本情况
+https://www.stats.gov.cn/sj/zxfb/202610/t20261031_1965718.html
+  2026年10月中国采购经理指数运行情况
 https://www.stats.gov.cn/sj/zxfb/202610/t20261023_1965677.html
   2025年中国创新指数比上年增长6.4%
 https://www.stats.gov.cn/sj/zxfb/202610/t20261020_1965658.html
@@ -71,6 +71,8 @@ https://www.stats.gov.cn/zt_18555/
   专题
 https://www.stats.gov.cn/sj/zxfb/
   数据发布
+https://www.stats.gov.cn/sj/zxfb/202610/t20261031_1965718.html
+  2026年10月中国采购经理指数运行情况
 https://www.stats.gov.cn/sj/zxfb/202610/t20261030_1965711.html
   社会事业全面发展　民生福祉取得新进步——2025年社会民生统计报告
 https://www.stats.gov.cn/sj/zxfb/202610/t20261030_1965708.html
@@ -99,8 +101,6 @@ https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965612.html
   2026年前三季度居民收入和消费支出情况
 https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965611.html
   2026年三季度全国规模以上工业产能利用率为73.1%
-https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965609.html
-  2026年9月份70个大中城市商品住宅销售价格变动情况
 http://www.gov.cn/
   中央人民政府门户网站
 http://www.fmprc.gov.cn/
