@@ -1,116 +1,42 @@
 # 🎙 Remarks and answers to media questions by Russia’s Foreign Minister Sergey Lavrov following the G20 Foreign Ministers’ Meeting
 
-Published: 2026-10-30 23:31:06
+Published: 2026-11-01 11:59:29
 
-Source: https://t.me/MFARussia/33147
+Source: https://t.me/MFARussia/33165
 
 🎙
 Remarks and answers to media questions
 by Russia’s Foreign Minister Sergey Lavrov following the G20 Foreign Ministers’ Meeting
 (Atlanta, October 30, 2026)
+❓
+Question: Have your contacts with US Secretary of State Marco Rubio taken place, or are they planned? Since we are in the United States, does the resumption of direct air links with the country remain on the agenda? Are there prospects for resolving the issue regarding our diplomatic property?
 💬
 Sergey Lavrov:
-We support
-the US Presidency’s
-firm commitment to
-depoliticising discussions
-and focusing on the issues originally agreed upon as the
-#G20
-’s agenda.
-This year’s meeting is, of course,
-part of the preparations for
-the Miami Summit
-, which will take place in December.
-The main topics were
-the impact of geopolitics on economic processes
-(an important issue),
-energy
-,
-food and supply chains
-– in other words, everything affected by unlawful sanctions and Western policies.
-To our American hosts’ credit, they
-do not shy away
-from discussing these matters and
-listen attentively
-. I do not know to what extent this will be reflected in the final agreed documents, but the approach is right:
-☝️
-depoliticise discussions and focus on real problems
-.
-Another point that US Secretary of State
-Marco Rubio
-particularly emphasised when discussing preparations for the Miami Summit was that
-twenty countries, the European Union and the African Union
-are represented here. Given the influence of
-#G20
-members on the global economy and their combined economic weight, however,
-the decisions we take will affect virtually every country
-. We must always bear this in mind.
-🤝
-Let me reiterate that we welcome this firm commitment to dialogue
-.
-Work on
-the Miami Summit’s outcome documents
-has, in fact, already begun.
-There will be many difficult issues
-, since interests are at stake across all these areas, including energy and food security. The impact of conflicts, including
-the war unleashed against us by the West through the Ukrainian regime
-, remains to be discussed. <...>
-***
-Other key points
-:
-• Under the pragmatic
-US Presidency
-of the
-#G20
-, we believe
-there is a chance of reaching agreements that will be implemented
-.
-•
-We see no need to add another European voice
-[Poland]
-to the G20
-, especially one that is
-far from constructive
-. You know the positions Poland regularly voices at international events. The G20 must reflect actual trends in the global economy, where
-countries of the Global South and East
-are gaining prominence.
-• We spoke [with US Secretary of State
-Marco Rubio
-] about
-certain aspects of our bilateral relations
-and cooperation in multilateral forums, including the
+We had a productive conversation, albeit a short one – for understandable reasons – because, as our host, he has many duties that do not allow him to spend much time on contacts outside the G20 framework.
+Nevertheless, the engagement did take place. We discussed both certain aspects of our bilateral relations and interaction at multilateral venues, including the
 #UN
 , the
 #G20
 and
 #APEC
-, that
-will host a Summit shortly
-in Shenzhen (China).
-• Despite all our differences,
-the US willingness and interest in pursuing dialogue
-at various levels and through a range of other channels
-can only be welcomed
-. This is a good lesson for our European colleagues, who persist in their
+, whose summit will be held very soon, in November, in the Chinese city of Shenzhen.
+I have said on numerous occasions that the Americans observe the rules of classical diplomacy, regardless of the tensions in our relations. There have always been – and there always will be – problems between Russia and the United States. Moreover, as US Secretary of State
+Marco Rubio
+himself acknowledged at our
+first meeting
+in February 2025 in Riyadh, in the overwhelming majority of cases our national interests – America’s and Russia’s – will not coincide.
+However, when those interests do align,
+it would be foolish and wrong not to translate that alignment into the execution of joint, mutually beneficial projects
+. Conversely, when the interests of Russia and the United States do not coincide, it would be a crime to allow that divergence to escalate into an open clash, or indeed into any confrontation at all.
+Therefore – despite all our differences – the readiness and interest of the Americans in dialogue at the most varied levels, including between the presidents, the foreign ministers and a whole host of other channels, can, of course,
+only be welcomed.
+This serves as a good lesson for our European colleagues, who continue to adopt a position of what one might call an
 arrogant boycott
-.
-• Everyone can see that
-the Europeans
-want to squeeze their way
-into the negotiating process
-[on Ukraine]. Clearly, they want to avoid leaving these negotiations solely to Russia and the US at all costs. What matters is not what the Europeans want, but
-what added value they can actually bring
-.
-• As for the talks in Abu Dhabi, I can say that
-they will take place
-. Our position is well known.
-It is unclear
-, however, what the Ukrainians intend to bring to the negotiating table.
-👉
-As President Vladimir Putin has said
-, if Zelensky wants a meeting,
-he can come to Moscow
-. We guarantee his safety and security, which, as far as I understand,
-cannot be guaranteed in Kiev
-.
-Read in full
+. German Foreign Minister Johann Wadephul, who asked for a
+meeting
+with me in New York a month ago, issued a statement yesterday or this morning to the effect that he would tell Sergey Lavrov everything about the
+“aggressive war”
+and would never be photographed with him.
+I call this “family photo diplomacy”.
+If the main concern for them is how they look in the group portrait and who is standing next to them, then
+that says it all.

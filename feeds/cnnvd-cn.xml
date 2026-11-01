@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Sun, 01 Nov 2026 06:24:23 +0000</lastBuildDate><item><title>CNNVD-2026-33215011 - KeePassXC 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-33215011</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-33215011</guid><pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate><description>KeePassXC 缓冲区错误漏洞
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Sun, 01 Nov 2026 13:43:40 +0000</lastBuildDate><item><title>CNNVD-2026-33215011 - KeePassXC 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-33215011</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-33215011</guid><pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate><description>KeePassXC 缓冲区错误漏洞
 危害等级: 中危
 收录时间：2026-10-29 | 更新时间: 2026-10-30 15:52:36
 CNNVD编号: CNNVD-2026-33215011</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-33215011&lt;/p&gt;&lt;pre&gt;KeePassXC 缓冲区错误漏洞
@@ -29,34 +29,34 @@ CNNVD编号: CNNVD-2026-77014805&lt;/pre&gt;</content:encoded></item><item><titl
 CNNVD编号: CNNVD-2026-27730009</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-27730009&lt;/p&gt;&lt;pre&gt;Monkeytype 软件供应链问题漏洞
 危害等级: 超危
 收录时间：2026-10-29 | 更新时间: 2026-10-30 15:52:33
-CNNVD编号: CNNVD-2026-27730009&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-68105624 - openEQUELLA 权限许可和访问控制问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-68105624</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-68105624</guid><pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate><description>openEQUELLA 权限许可和访问控制问题漏洞
-危害等级: 超危
-收录时间：2026-10-29 | 更新时间: 2026-10-30 15:29:06
-CNNVD编号: CNNVD-2026-68105624</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-68105624&lt;/p&gt;&lt;pre&gt;openEQUELLA 权限许可和访问控制问题漏洞
-危害等级: 超危
-收录时间：2026-10-29 | 更新时间: 2026-10-30 15:29:06
-CNNVD编号: CNNVD-2026-68105624&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-61448971 - openEQUELLA 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-61448971</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-61448971</guid><pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate><description>openEQUELLA 输入验证错误漏洞
+CNNVD编号: CNNVD-2026-27730009&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-99587217 - Python-Markdown markdown 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-99587217</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-99587217</guid><pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate><description>Python-Markdown markdown 资源管理错误漏洞
+危害等级: 高危
+收录时间：2026-10-29 | 更新时间: 2026-10-30 15:53:02
+CNNVD编号: CNNVD-2026-99587217</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-99587217&lt;/p&gt;&lt;pre&gt;Python-Markdown markdown 资源管理错误漏洞
+危害等级: 高危
+收录时间：2026-10-29 | 更新时间: 2026-10-30 15:53:02
+CNNVD编号: CNNVD-2026-99587217&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-16191611 - QNAP HBS 3 Hybrid Backup Sync 加密问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-16191611</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-16191611</guid><pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate><description>QNAP HBS 3 Hybrid Backup Sync 加密问题漏洞
+危害等级: 高危
+收录时间：2026-10-29 | 更新时间: 2026-10-30 15:53:35
+CNNVD编号: CNNVD-2026-16191611</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-16191611&lt;/p&gt;&lt;pre&gt;QNAP HBS 3 Hybrid Backup Sync 加密问题漏洞
+危害等级: 高危
+收录时间：2026-10-29 | 更新时间: 2026-10-30 15:53:35
+CNNVD编号: CNNVD-2026-16191611&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-22010358 - Revera FlexNet Publisher 软件供应链问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22010358</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22010358</guid><pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate><description>Revera FlexNet Publisher 软件供应链问题漏洞
+危害等级: 高危
+收录时间：2026-10-29 | 更新时间: 2026-10-30 15:53:02
+CNNVD编号: CNNVD-2026-22010358</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22010358&lt;/p&gt;&lt;pre&gt;Revera FlexNet Publisher 软件供应链问题漏洞
+危害等级: 高危
+收录时间：2026-10-29 | 更新时间: 2026-10-30 15:53:02
+CNNVD编号: CNNVD-2026-22010358&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-13572401 - HashiCorp Nomad 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-13572401</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-13572401</guid><pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate><description>HashiCorp Nomad 授权问题漏洞
 危害等级: 中危
-收录时间：2026-10-29 | 更新时间: 2026-10-30 15:29:06
-CNNVD编号: CNNVD-2026-61448971</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-61448971&lt;/p&gt;&lt;pre&gt;openEQUELLA 输入验证错误漏洞
+收录时间：2026-10-29 | 更新时间: 2026-10-30 15:33:57
+CNNVD编号: CNNVD-2026-13572401</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-13572401&lt;/p&gt;&lt;pre&gt;HashiCorp Nomad 授权问题漏洞
 危害等级: 中危
-收录时间：2026-10-29 | 更新时间: 2026-10-30 15:29:06
-CNNVD编号: CNNVD-2026-61448971&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-54752319 - WordPress Zoho Flow 反序列化注入漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-54752319</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-54752319</guid><pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate><description>WordPress Zoho Flow 反序列化注入漏洞
-危害等级: 超危
-收录时间：2026-10-29 | 更新时间: 2026-10-30 15:53:49
-CNNVD编号: CNNVD-2026-54752319</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-54752319&lt;/p&gt;&lt;pre&gt;WordPress Zoho Flow 反序列化注入漏洞
-危害等级: 超危
-收录时间：2026-10-29 | 更新时间: 2026-10-30 15:53:49
-CNNVD编号: CNNVD-2026-54752319&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-75070305 - openEQUELLA 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75070305</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75070305</guid><pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate><description>openEQUELLA 跨站脚本漏洞
-危害等级: 中危
-收录时间：2026-10-29 | 更新时间: 2026-10-30 15:29:05
-CNNVD编号: CNNVD-2026-75070305</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75070305&lt;/p&gt;&lt;pre&gt;openEQUELLA 跨站脚本漏洞
-危害等级: 中危
-收录时间：2026-10-29 | 更新时间: 2026-10-30 15:29:05
-CNNVD编号: CNNVD-2026-75070305&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-77450355 - ServiceNow AI Platform 权限许可和访问控制问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-77450355</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-77450355</guid><pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate><description>ServiceNow AI Platform 权限许可和访问控制问题漏洞
-危害等级: 中危
-收录时间：2026-10-29 | 更新时间: 2026-10-30 15:52:12
-CNNVD编号: CNNVD-2026-77450355</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-77450355&lt;/p&gt;&lt;pre&gt;ServiceNow AI Platform 权限许可和访问控制问题漏洞
-危害等级: 中危
-收录时间：2026-10-29 | 更新时间: 2026-10-30 15:52:12
-CNNVD编号: CNNVD-2026-77450355&lt;/pre&gt;</content:encoded></item></channel></rss>
+收录时间：2026-10-29 | 更新时间: 2026-10-30 15:33:57
+CNNVD编号: CNNVD-2026-13572401&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-83794221 - IBM Langflow OSS 权限许可和访问控制问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-83794221</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-83794221</guid><pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate><description>IBM Langflow OSS 权限许可和访问控制问题漏洞
+危害等级: 高危
+收录时间：2026-10-29 | 更新时间: 2026-10-30 15:53:35
+CNNVD编号: CNNVD-2026-83794221</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-83794221&lt;/p&gt;&lt;pre&gt;IBM Langflow OSS 权限许可和访问控制问题漏洞
+危害等级: 高危
+收录时间：2026-10-29 | 更新时间: 2026-10-30 15:53:35
+CNNVD编号: CNNVD-2026-83794221&lt;/pre&gt;</content:encoded></item></channel></rss>
