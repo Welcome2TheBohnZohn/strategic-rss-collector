@@ -1,5 +1,5 @@
 Strategic RSS Collector Status
-Generated: 2026-10-31 21:50:07 UTC
+Generated: 2026-11-01 06:24:23 UTC
 
 Status meanings:
 OK = Feed contains one or more items
@@ -209,7 +209,7 @@ FAILED = Source could not be retrieved
   Start URL: http://www.cssc.net.cn/n5/n18/index.html
   Resolved URL: http://www.cssc.net.cn/n5/n18/index.html
   HTTP: 200
-  Links discovered: 311
+  Links discovered: 298
   Candidate links/items: 10
   Attempted items/articles: 10
   Items/articles with text: 10
@@ -304,10 +304,10 @@ Call log:
   HTTP: 200
   Links discovered: 1967
   Candidate links/items: 50
-  Attempted items/articles: 50
-  Items/articles with text: 6
-  Items/articles with dates: 5
-  RSS feed items: 6
+  Attempted items/articles: 12
+  Items/articles with text: 12
+  Items/articles with dates: 7
+  RSS feed items: 12
   SSL verification: OFF
   Request timeout: 12s
   Max retries: 1
