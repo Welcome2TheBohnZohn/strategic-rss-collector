@@ -6,7 +6,7 @@ Include regex: /gfbw/|/xwfyr/|/wzll/
 Include text regex: 
 
 Candidate links: 50
-All links discovered: 241
+All links discovered: 242
 
 === MATCHED CANDIDATES ===
 
@@ -34,9 +34,7 @@ http://www.mod.gov.cn/gfbw/jsxd/16496601.html
   肩并肩 练协同——中巴“喀喇昆仑-2026”陆军联合训练见闻
 http://www.mod.gov.cn/gfbw/jmsd/16497428.html
   解放军报评论员：深刻认识持之以恒推进全面从严治党的重大意义
-http://www.mod.gov.cn/gfbw/gfjy_index/16497430.html
-  解放军和武警部队援建“八一爱民学校”20年，结下累累硕果
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16497465.html
+http://www.mod.gov.cn/gfbw/qwfb/16497452.html
   中共中央关于持之以恒推进全面从严治党若干重大问题的决定
 http://www.mod.gov.cn/gfbw/wzll/16496433.html
   加快实现军事训练转型升级丨从“静谧空间”到“战场环境”
@@ -44,18 +42,24 @@ http://www.mod.gov.cn/gfbw/gffw/16469120.html
   速览！2026年军校招生政策解读，你想知道的都在这里→
 http://www.mod.gov.cn/gfbw/jmsd/16497516.html
   解放军报评论员：持之以恒推进全面从严治党必须遵循的原则
-http://www.mod.gov.cn/gfbw/qwfb/16497096.html
-  中共中央召开党外人士座谈会 习近平主持并发表重要讲话
+http://www.mod.gov.cn/gfbw/gfjy_index/16497691.html
+  河南省南阳市打造沉浸式研学路线——红色记忆闪耀老区沃土
+http://www.mod.gov.cn/gfbw/qwfb/16497658.html
+  中印尼“利刃-2026”陆军反恐联合训练举行结训仪式
 http://www.mod.gov.cn/gfbw/jsxd/16496451.html
   中印尼“利刃-2026”陆军反恐联合训练举行开训仪式
 http://www.mod.gov.cn/gfbw/gfdy/16496423.html
   甘肃省军区传承长征精神加强国防动员和后备力量建设纪实
+http://www.mod.gov.cn/gfbw/qwfb/16497601.html
+  习近平同秘鲁总统藤森庆子就中秘建交55周年互致贺电
 http://www.mod.gov.cn/gfbw/jswj/16496847.html
   “吉祥方舟”号医院船与中国医疗队在加纳开展联合诊疗
 http://www.mod.gov.cn/gfbw/gfdy/16496179.html
   专家解读新修订的国防动员法：筑牢国防动员的法治根基
 http://www.mod.gov.cn/gfbw/sy/rt/16495367.html
   纪念中国工农红军长征胜利90周年大会在京隆重举行
+http://www.mod.gov.cn/gfbw/sy/tt_214026/16497626.html
+  习近平对进一步做好黄河保护治理工作作出重要指示
 http://www.mod.gov.cn/gfbw/jsxd/16496789.html
   中国海军“吉祥方舟”号医院船：温暖守护跨越山海
 http://www.mod.gov.cn/gfbw/spbb_214126/16495168.html
@@ -66,8 +70,6 @@ http://www.mod.gov.cn/gfbw/spbb_214126/16495157.html
   赴山河 从头越——追随统帅回望长征之路丨同心
 http://www.mod.gov.cn/gfbw/gfjy_index/16497515.html
   参战老兵的红色宣讲：我虽老了，但故事常讲常新
-http://www.mod.gov.cn/gfbw/qwfb/16497473.html
-  人民空军成立77周年纪念日系列活动拉开帷幕
 http://www.mod.gov.cn/gfbw/wzll/16496604.html
   “中原观训”系列报道丨战场保障“一键响应”
 http://www.mod.gov.cn/gfbw/xwfyr/16496878.html
@@ -108,8 +110,6 @@ http://www.mod.gov.cn/gfbw/wzll/16497519.html
   军营观察｜青春哨位上的“长征”
 http://www.mod.gov.cn/gfbw/xwfyr/lxjzhzt/2026lxjzh/2026n10y/index.html
   2026年10月例行记者会专题
-http://www.mod.gov.cn/gfbw/xwfyr/16496899.html
-  国防部介绍那曲抗震救灾一线情况
 
 === ALL DISCOVERED LINKS ===
 
@@ -298,8 +298,8 @@ http://www.mod.gov.cn/gfbw/sy/jt_214028/16496130.html
   海军某支队开展训练
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16496073.html
   海军某支队组织海上训练
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16497465.html
-  中共中央关于持之以恒推进全面从严治党若干重大问题的决定
+http://www.mod.gov.cn/gfbw/sy/tt_214026/16497626.html
+  习近平对进一步做好黄河保护治理工作作出重要指示
 http://www.mod.gov.cn/gfbw/sy/rt/16497565.html
   习近平同阿曼苏丹海赛姆会谈
 http://www.mod.gov.cn/gfbw/sy/rt/16497216.html
@@ -310,26 +310,28 @@ http://www.mod.gov.cn/gfbw/sy/rt/16495367.html
   纪念中国工农红军长征胜利90周年大会在京隆重举行
 http://www.mod.gov.cn/gfbw/sy/rt/16493699.html
   习近平在内蒙古乌兰察布考察
-http://www.mod.gov.cn/gfbw/qwfb/16497563.html
+http://www.mod.gov.cn/gfbw/qwfb/16497627.html
   习近平同阿曼苏丹海赛姆会谈
+http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16497612.html
+  中阿联合声明
+http://www.mod.gov.cn/gfbw/qwfb/16497601.html
+  习近平同秘鲁总统藤森庆子就中秘建交55周年互致贺电
+http://www.mod.gov.cn/gfbw/qwfb/16497452.html
+  中共中央关于持之以恒推进全面从严治党若干重大问题的决定
 http://www.mod.gov.cn/gfbw/qwfb/16497464.html
   习近平：关于《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》的说明
 http://www.mod.gov.cn/gfbw/qwfb/16497547.html
   习近平为阿曼苏丹海赛姆举行欢迎仪式
-http://www.mod.gov.cn/gfbw/qwfb/16497096.html
-  中共中央召开党外人士座谈会 习近平主持并发表重要讲话
-http://www.mod.gov.cn/gfbw/qwfb/16496918.html
-  张升民同志简历
 http://www.mod.gov.cn/gfbw/qwfb/16496935.html
   2026年10月国防部例行记者会文字实录
 http://www.mod.gov.cn/gfbw/qwfb/16497312.html
   全军官兵认真学习党的二十届五中全会公报，一致表示——在新的赶考之路上交出新的更加优异的答卷
+http://www.mod.gov.cn/gfbw/qwfb/16497658.html
+  中印尼“利刃-2026”陆军反恐联合训练举行结训仪式
 http://www.mod.gov.cn/gfbw/qwfb/16497540.html
   中越将举行“合作—2026”反恐联合训练
 http://www.mod.gov.cn/gfbw/qwfb/16497163.html
   中国人民解放军南部战区位中国黄岩岛领海领空及周边区域组织战备警巡
-http://www.mod.gov.cn/gfbw/qwfb/16497473.html
-  人民空军成立77周年纪念日系列活动拉开帷幕
 http://www.mod.gov.cn/gfbw/jswj/16497562.html
   中国海军“吉祥方舟”号医院船访问多哥
 http://www.mod.gov.cn/gfbw/jswj/16496847.html
@@ -417,12 +419,12 @@ http://www.mod.gov.cn/gfbw/gfdy/16496179.html
   专家解读新修订的国防动员法：筑牢国防动员的法治根基
 http://www.mod.gov.cn/gfbw/gfjy_index/16496427.html
   军报记者寻根行丨清澈的初心
+http://www.mod.gov.cn/gfbw/gfjy_index/16497691.html
+  河南省南阳市打造沉浸式研学路线——红色记忆闪耀老区沃土
 http://www.mod.gov.cn/gfbw/gfjy_index/16497517.html
   政治建军专刊·淬火要论｜心中无兵莫为官
 http://www.mod.gov.cn/gfbw/gfjy_index/16497515.html
   参战老兵的红色宣讲：我虽老了，但故事常讲常新
-http://www.mod.gov.cn/gfbw/gfjy_index/16497430.html
-  解放军和武警部队援建“八一爱民学校”20年，结下累累硕果
 http://www.81.cn/zt/2026nzt/zmxsdgmjr_252984/index.html
   最美新时代革命军人
 http://www.81.cn/zt/2026nzt/lyyxfcl/index.html

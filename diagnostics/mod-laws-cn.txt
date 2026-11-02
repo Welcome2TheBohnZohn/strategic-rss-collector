@@ -6,7 +6,7 @@ Include regex: /gfbw/fgwx/flfg/
 Include text regex: 
 
 Candidate links: 31
-All links discovered: 171
+All links discovered: 172
 
 === MATCHED CANDIDATES ===
 
@@ -303,16 +303,18 @@ http://www.mod.gov.cn/gfbw/fgwx/flfg/4927099.html
   关于调整规范军人家属随军及落户有关政策意见 2022-11-27 13:46
 http://www.mod.gov.cn/gfbw/fgwx/flfg/16126326.html
   中共中央　国务院　中央军委印发《关于加强和改进新时代全民国防教育工作的意见》 2022-09-01 18:22
-http://www.mod.gov.cn/gfbw/qwfb/16497563.html
+http://www.mod.gov.cn/gfbw/qwfb/16497627.html
   习近平同阿曼苏丹海赛姆会谈
+http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16497612.html
+  中阿联合声明
+http://www.mod.gov.cn/gfbw/qwfb/16497601.html
+  习近平同秘鲁总统藤森庆子就中秘建交55周年互致贺电
+http://www.mod.gov.cn/gfbw/qwfb/16497452.html
+  中共中央关于持之以恒推进全面从严治党若干重大问题的决定
 http://www.mod.gov.cn/gfbw/qwfb/16497464.html
   习近平：关于《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》的说明
 http://www.mod.gov.cn/gfbw/qwfb/16497547.html
   习近平为阿曼苏丹海赛姆举行欢迎仪式
-http://www.mod.gov.cn/gfbw/qwfb/16497096.html
-  中共中央召开党外人士座谈会 习近平主持并发表重要讲话
-http://www.mod.gov.cn/gfbw/qwfb/16496918.html
-  张升民同志简历
 http://www.mod.gov.cn/gfbw/spbb_214126/16495225.html
   《伟大远征》第七集《丰碑》
 http://www.mod.gov.cn/gfbw/spbb_214126/16495168.html
