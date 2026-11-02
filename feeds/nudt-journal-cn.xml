@@ -1,23 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>National University of Defense Technology Journal</title><link>https://journal.nudt.edu.cn/</link><description>Generated RSS feed for National University of Defense Technology Journal</description><language>zh-CN</language><lastBuildDate>Sun, 01 Nov 2026 22:16:11 +0000</lastBuildDate><item><title>多核数字信号处理器矩阵乘卷积算法性能评测</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/202301009?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/202301009?tab=abstract</guid><pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate><description>(1. 国防科技大学 计算机学院, 湖南 长沙 410073;2. 国防科技大学 并行与分布处理国防科技重点实验室, 湖南 长沙 410073)
-
-王庆林(1987—),男,贵州思南人,副研究员,博士,硕士生导师,E-mail:wangqinglin_thu@163.com; 裴向东(通信作者),男,山西长治人,博士研究生,E-mail:18903588277@163.com
-
-(1. College of Computer Science and Technology, National University of Defense Technology, Changsha 410073, China;2. Science and Technology on Parallel and Distributed Processing Laboratory, National University of Defense Technology, Changsha 410073, China)
-
-矩阵乘卷积算法能够为各种卷积配置提供高性能基础实现,是面向给定芯片进行卷积性能优化的首要选择。针对国防科技大学自主研制的飞腾异构多核数字信号处理器(digital signal processor, DSP)芯片的特征以及矩阵乘卷积算法自身的特点,提出了一种面向多核DSP架构的高性能并行矩阵乘卷积实现算法ftmEConv。该算法由输入特征图转换、卷积核转换、矩阵乘以及输出特征图转换这四个均运行在通用多核DSP上的并行化部分构成,通过有效挖掘通用DSP核中功能单元的潜力来提升各个部分的性能。实验结果表明,ftmEConv实现了高达42.90%的计算效率,与芯片上的其他矩阵乘卷积算法实现相比,获得了高达7.79倍的性能加速。
-
-The matrix multiplication-based convolutional algorithm, which can efficiently implement convolutions with different parameters, is the first choice of convolution performance optimization for a given chip. Based on the architecture of Phytium heterogeneous multi-core DSPs(digital signal processors) developed by National University of Defense Technology and the characteristic of the matrix multiplication-based convolutional algorithm, a parallel implementation of the matrix multiplication-based convolutional algorithm (called ftmEConv) for different convolutions on multi-core DSPs was proposed. The ftmEConv consists of four parallelized parts(input feature maps transformation, filter transformation, matrix multiplication, an</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/202301009?tab=abstract&lt;/p&gt;&lt;pre&gt;(1. 国防科技大学 计算机学院, 湖南 长沙 410073;2. 国防科技大学 并行与分布处理国防科技重点实验室, 湖南 长沙 410073)
-
-王庆林(1987—),男,贵州思南人,副研究员,博士,硕士生导师,E-mail:wangqinglin_thu@163.com; 裴向东(通信作者),男,山西长治人,博士研究生,E-mail:18903588277@163.com
-
-(1. College of Computer Science and Technology, National University of Defense Technology, Changsha 410073, China;2. Science and Technology on Parallel and Distributed Processing Laboratory, National University of Defense Technology, Changsha 410073, China)
-
-矩阵乘卷积算法能够为各种卷积配置提供高性能基础实现,是面向给定芯片进行卷积性能优化的首要选择。针对国防科技大学自主研制的飞腾异构多核数字信号处理器(digital signal processor, DSP)芯片的特征以及矩阵乘卷积算法自身的特点,提出了一种面向多核DSP架构的高性能并行矩阵乘卷积实现算法ftmEConv。该算法由输入特征图转换、卷积核转换、矩阵乘以及输出特征图转换这四个均运行在通用多核DSP上的并行化部分构成,通过有效挖掘通用DSP核中功能单元的潜力来提升各个部分的性能。实验结果表明,ftmEConv实现了高达42.90%的计算效率,与芯片上的其他矩阵乘卷积算法实现相比,获得了高达7.79倍的性能加速。
-
-The matrix multiplication-based convolutional algorithm, which can efficiently implement convolutions with different parameters, is the first choice of convolution performance optimization for a given chip. Based on the architecture of Phytium heterogeneous multi-core DSPs(digital signal processors) developed by National University of Defense Technology and the characteristic of the matrix multiplication-based convolutional algorithm, a parallel implementation of the matrix multiplication-based convolutional algorithm (called ftmEConv) for different convolutions on multi-core DSPs was proposed. The ftmEConv consists of four parallelized parts(input feature maps transformation, filter transformation, matrix multiplication, and output feature maps transformation), all of which were optimized for multi-core DSPs, and the performance of each part was improved by effectively exploiting the potential of all functional units in DSP cores. The experimental results demonstrate that ftmEConv achieves computational efficiency of up to 42.90%. Compared with other implementations of the matrix multiplication-based convolutional algorithm on heterogeneous chips, ftmEConv gets a speedup of up to 7.79 times.
-
-王庆林，裴向东，廖林玉，等.多核数字信号处理器矩阵乘卷积算法性能评测[J].国防科技大学学报,2023,45(1):86-94. WANG Qinglin, PEI Xiangdong, LIAO Linyu, et al. Evaluating matrix multiplication-based convolution algorithm on multi-core digital signal processors[J]. Journal of National University of Defense Technology,2023,45(1):86-94.&lt;/pre&gt;</content:encoded></item><item><title>北斗全球系统导航信号恒包络调制和复用技术</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201705002?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201705002?tab=abstract</guid><pubDate>Fri, 08 Jul 2016 00:00:00 +0000</pubDate><description>出于以导频通道为代表的北斗全球导航卫星系统现代化信号结构升级以及后向兼容的需求，北斗系统近几年提出了多种新型恒包络调制和复用技术，包括适用于北斗系统B1频点的正交复用二进制偏移载波（QMBOC）调制和非对称双正交相移键控（ADualQPSK）调制，适用于B2频点的时分复用AltBOC（TD-AltBOC）调制与非对称恒包络二进制偏移载波（ACE-BOC）调制，适用于B3频点的双正交相移键控（DualQPSK）调制，适用于双边带任意信号路数、任意功率配比的广义恒包络二进制偏移载波（GCE-BOC）调制。本文系统性地论述了北斗全球系统中提出的多种新型恒包络调制和复用技术，在此基础上基于GCE-BOC调制总结出了一种恒包络调制的统一解析表示形式，对全面理解北斗全球系统信号设计思路及在此基础上发展设计新型的恒包络调制和复用技术均能提供重要的借鉴。
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>National University of Defense Technology Journal</title><link>https://journal.nudt.edu.cn/</link><description>Generated RSS feed for National University of Defense Technology Journal</description><language>zh-CN</language><lastBuildDate>Mon, 02 Nov 2026 06:20:16 +0000</lastBuildDate><item><title>北斗全球系统导航信号恒包络调制和复用技术</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201705002?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201705002?tab=abstract</guid><pubDate>Fri, 08 Jul 2016 00:00:00 +0000</pubDate><description>出于以导频通道为代表的北斗全球导航卫星系统现代化信号结构升级以及后向兼容的需求，北斗系统近几年提出了多种新型恒包络调制和复用技术，包括适用于北斗系统B1频点的正交复用二进制偏移载波（QMBOC）调制和非对称双正交相移键控（ADualQPSK）调制，适用于B2频点的时分复用AltBOC（TD-AltBOC）调制与非对称恒包络二进制偏移载波（ACE-BOC）调制，适用于B3频点的双正交相移键控（DualQPSK）调制，适用于双边带任意信号路数、任意功率配比的广义恒包络二进制偏移载波（GCE-BOC）调制。本文系统性地论述了北斗全球系统中提出的多种新型恒包络调制和复用技术，在此基础上基于GCE-BOC调制总结出了一种恒包络调制的统一解析表示形式，对全面理解北斗全球系统信号设计思路及在此基础上发展设计新型的恒包络调制和复用技术均能提供重要的借鉴。
 
 For the demand of structural enhancement and backwards compatibility of modern BDS navigation signal which is represented by the pilot channel, BDS has proposed several new constant envelope modulations recently, including QMBOC and ADualQPSK modulations applied to B1 band, TD-AltBOC and ACE-BOC modulations applied to B2 band, DualQPSK modulation applied to B3 band, GCE-BOC modulation that multiplexes arbitrary signals at two different carrier frequencies. All the new modulations were systematically analyzed and a unified analytical expression of constant envelope modulation and multiplexing was summarized on the basis of the GCE-BOC modulation, which can provide an important reference for the comprehensive understanding of the signal design of the BDS global navigation satellite system and the development of new type of constant envelope modulation and multiplexing technology on this basis.
 
@@ -25,15 +7,15 @@ For the demand of structural enhancement and backwards compatibility of modern B
 
 For the demand of structural enhancement and backwards compatibility of modern BDS navigation signal which is represented by the pilot channel, BDS has proposed several new constant envelope modulations recently, including QMBOC and ADualQPSK modulations applied to B1 band, TD-AltBOC and ACE-BOC modulations applied to B2 band, DualQPSK modulation applied to B3 band, GCE-BOC modulation that multiplexes arbitrary signals at two different carrier frequencies. All the new modulations were systematically analyzed and a unified analytical expression of constant envelope modulation and multiplexing was summarized on the basis of the GCE-BOC modulation, which can provide an important reference for the comprehensive understanding of the signal design of the BDS global navigation satellite system and the development of new type of constant envelope modulation and multiplexing technology on this basis.
 
-朱祥维，黄新明，宿晨庚，等.北斗全球系统导航信号恒包络调制和复用技术[J].国防科技大学学报,2017,39(5):6-13. ZHU Xiangwei, HUANG Xinming, SU Chengeng, et al. Constant envelope modulation and multiplexing technologies for BDS global navigation signals[J]. Journal of National University of Defense Technology,2017,39(5):6-13.&lt;/pre&gt;</content:encoded></item><item><title>多传感器信息融合理论在无人机相对导航中的应用</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201705015?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201705015?tab=abstract</guid><pubDate>Mon, 20 Jun 2016 00:00:00 +0000</pubDate><description>为提升无人机的作战效能和作战指标，提升无人机的相对导航精度和导航系统可靠性，以无人机编队的相对导航系统为研究背景，基于容积卡尔曼滤波算法和信息滤波算法，研究容积信息滤波算法。此外，还采用多传感器信息融合理论，利用分布式信息融合结构构建了无人机相对导航滤波器，对来自惯导、视觉和卫星的信息进行融合，获取无人机间的相对位置、速度和姿态信息。该方法提升了无人机相对导航的导航精度、导航可靠性和滤波稳定性，容积信息滤波算法的应用避免了传统滤波算法在高维系统中出现的数值不稳定以及精度降低等问题。数学仿真结果表明，该方法提高了无人机编队之间相对导航的精度和可靠性，证明了算法的有效性。
+朱祥维，黄新明，宿晨庚，等.北斗全球系统导航信号恒包络调制和复用技术[J].国防科技大学学报,2017,39(5):6-13. ZHU Xiangwei, HUANG Xinming, SU Chengeng, et al. Constant envelope modulation and multiplexing technologies for BDS global navigation signals[J]. Journal of National University of Defense Technology,2017,39(5):6-13.&lt;/pre&gt;</content:encoded></item><item><title>高超声速飞行器滑翔制导方法综述</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201703003?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201703003?tab=abstract</guid><pubDate>Sun, 10 Jan 2016 00:00:00 +0000</pubDate><description>阐明高超声速飞行器滑翔制导的基本问题，分析滑翔制导过程面临的复杂多约束、机动任务要求、参数扰动等研究难点；分别就国内外标准轨迹制导方法和预测-校正制导方法相关研究现状展开综述，指出了这两类方法中存在的问题。在此基础上，提出高超声速飞行器滑翔制导研究中亟待解决的关键问题，并指出未来滑翔制导方法的研究热点。
 
-In order to improve the operational effectiveness and operational indicators of the UAV (unmanned aerial vehicle), and to enhance the accuracy and reliability of the UAV relative navigation system, a novel relative navigation method was proposed. Under the background of relative navigation system, the cubature information filter based on the cubature Kalman filter and information filter was studied. Moreover, an INS/GPS/VisNav relative navigation filter was designed by making use of the multi-sensor information fusion theory and distributed information fusion structure to fuse the information from INS, VisNav and GPS, and then the relative position, velocity and attitude were obtained. By making use of this algorithm, the accuracy, reliability and stability of the reliability navigation system were all improved. In addition, the accuracy decrease and numerical instability which often occur to traditional filter were avoided by cubature information filter. Mathematical simulation results indicate that the method can improve the accuracy and reliability of the UAV relative navigation system, and the proposed algorithm is verified.
+The basic problem of gliding guidance for hypersonic vehicles was proposed, and the difficulties of complicated multiple constraints, maneuver requirements, and parameter perturbation in the course of gliding guidance were analyzed. The corresponding research status at home and abroad was surveyed, and the problems were also pointed out. On this basis, the key problems required to be solved at present in the research of gliding guidance for hypersonic vehicles were presented, and the research hotspots in the methods of future gliding guidance were also pointed out. 
 
-金红新，杨涛，王小刚，等.多传感器信息融合理论在无人机相对导航中的应用[J].国防科技大学学报,2017,39(5):90-9</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201705015?tab=abstract&lt;/p&gt;&lt;pre&gt;为提升无人机的作战效能和作战指标，提升无人机的相对导航精度和导航系统可靠性，以无人机编队的相对导航系统为研究背景，基于容积卡尔曼滤波算法和信息滤波算法，研究容积信息滤波算法。此外，还采用多传感器信息融合理论，利用分布式信息融合结构构建了无人机相对导航滤波器，对来自惯导、视觉和卫星的信息进行融合，获取无人机间的相对位置、速度和姿态信息。该方法提升了无人机相对导航的导航精度、导航可靠性和滤波稳定性，容积信息滤波算法的应用避免了传统滤波算法在高维系统中出现的数值不稳定以及精度降低等问题。数学仿真结果表明，该方法提高了无人机编队之间相对导航的精度和可靠性，证明了算法的有效性。
+潘亮，谢愈，彭双春，等.高超声速飞行器滑翔制导方法综述[J].国防科技大学学报,2017,39(3):15-22. PAN Liang, XIE Yu, PENG Shuangchun, et al. A survey of gliding guidance methods for hypersonic vehicles[J]. Journal of National University of Defense Technology,2017,39(3):15-22.</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201703003?tab=abstract&lt;/p&gt;&lt;pre&gt;阐明高超声速飞行器滑翔制导的基本问题，分析滑翔制导过程面临的复杂多约束、机动任务要求、参数扰动等研究难点；分别就国内外标准轨迹制导方法和预测-校正制导方法相关研究现状展开综述，指出了这两类方法中存在的问题。在此基础上，提出高超声速飞行器滑翔制导研究中亟待解决的关键问题，并指出未来滑翔制导方法的研究热点。
 
-In order to improve the operational effectiveness and operational indicators of the UAV (unmanned aerial vehicle), and to enhance the accuracy and reliability of the UAV relative navigation system, a novel relative navigation method was proposed. Under the background of relative navigation system, the cubature information filter based on the cubature Kalman filter and information filter was studied. Moreover, an INS/GPS/VisNav relative navigation filter was designed by making use of the multi-sensor information fusion theory and distributed information fusion structure to fuse the information from INS, VisNav and GPS, and then the relative position, velocity and attitude were obtained. By making use of this algorithm, the accuracy, reliability and stability of the reliability navigation system were all improved. In addition, the accuracy decrease and numerical instability which often occur to traditional filter were avoided by cubature information filter. Mathematical simulation results indicate that the method can improve the accuracy and reliability of the UAV relative navigation system, and the proposed algorithm is verified.
+The basic problem of gliding guidance for hypersonic vehicles was proposed, and the difficulties of complicated multiple constraints, maneuver requirements, and parameter perturbation in the course of gliding guidance were analyzed. The corresponding research status at home and abroad was surveyed, and the problems were also pointed out. On this basis, the key problems required to be solved at present in the research of gliding guidance for hypersonic vehicles were presented, and the research hotspots in the methods of future gliding guidance were also pointed out. 
 
-金红新，杨涛，王小刚，等.多传感器信息融合理论在无人机相对导航中的应用[J].国防科技大学学报,2017,39(5):90-95. JIN Hongxin, YANG Tao, WANG Xiaogang, et al. Application of multisensor information fusion in UAV relative navigation method[J]. Journal of National University of Defense Technology,2017,39(5):90-95.&lt;/pre&gt;</content:encoded></item><item><title>用于减少远程Cache访问延迟的最后一次写访问预测方法</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201501003?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201501003?tab=abstract</guid><pubDate>Wed, 11 Jun 2014 00:00:00 +0000</pubDate><description>国家自然科学基金资助项目（61202119）；国家863计划资助项目(2013AA014301)
+潘亮，谢愈，彭双春，等.高超声速飞行器滑翔制导方法综述[J].国防科技大学学报,2017,39(3):15-22. PAN Liang, XIE Yu, PENG Shuangchun, et al. A survey of gliding guidance methods for hypersonic vehicles[J]. Journal of National University of Defense Technology,2017,39(3):15-22.&lt;/pre&gt;</content:encoded></item><item><title>用于减少远程Cache访问延迟的最后一次写访问预测方法</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201501003?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201501003?tab=abstract</guid><pubDate>Wed, 11 Jun 2014 00:00:00 +0000</pubDate><description>国家自然科学基金资助项目（61202119）；国家863计划资助项目(2013AA014301)
 
 为减少远程Cache访问延迟，提高共享存储系统的性能，提出了一种新的基于程序内在写突发特性的最后一次写访问预测方法，并对一个具体的目录协议进行了改造，以支持该预测方法。通过预测Cache块的最后一次写访问并提前对其进行降级，处理器能直接从主存中读取数据，从而减少了远程Cache访问所需的一个网络跳步数。与当前基于指令的预测方法相比，该方法能极大减少存储开销。基准测试程序的评测结果表明，该方法能获得83.1%的预测准确率，并且能提高8.57%的程序执行性能，同时与基于指令的预测方法相比，该方法能分别减少历史踪迹表69%的存储开销和签名表36%的存储开销。
 
@@ -45,15 +27,15 @@ To reduce remote cache transfer latency and improve the performance of shared me
 
 To reduce remote cache transfer latency and improve the performance of shared memory systems, a new last-write-touch prediction scheme that exploits the inherent write characteristics of a program is proposed and a directory protocol to support the scheme is adapted. By predicting a last-write-touch and self downgrading a cache block in advance, a processor can get the data from the memory directly and one network hop can be saved for a remote cache access. Compared with the existing instruction-based prediction technique, much storage overhead can be reduced. Experimental results show that it can achieve an average prediction accuracy of 83.1%, leading to improvements up to average 8.57% on the final application performance. Moreover, compared with the instruction-based prediction scheme, the scheme can reduce the storage overheads of the history table by 69% and the storage overheads of the signature table by 36%.
 
-夏军，徐炜遐，庞征斌，等.用于减少远程Cache访问延迟的最后一次写访问预测方法[J].国防科技大学学报,2015,37(1):14-20. XIA Jun, XU Weixia, PANG Zhengbin, et al. A last-write-touch prediction scheme used to reduce remote Cache miss latency[J]. Journal of National University of Defense Technology,2015,37(1):14-20.&lt;/pre&gt;</content:encoded></item><item><title>基于用户相关反馈的排序学习算法研究</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201302024?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201302024?tab=abstract</guid><pubDate>Mon, 20 Aug 2012 00:00:00 +0000</pubDate><description>在信息检索中，系统需要根据用户查询将文档按照相似度大小进行排序，吸引了众多信息检索和机器学习领域研究者的眼球，并形成了诸多排序算法模型。然而并未考虑到查询短语与文档构成的特征对与用户相关反馈之间存在的同质性。在机器学习算法基础上，通过提取训练样本的主要特征进行有效聚类，并结合用户的相关反馈获取各个类中相关度判断的置信值，形成相似度判定模型，应用该模型来对测试样本进行相关度排序。算法对LETOR数据集进行了测试，实验表明，信息检索性能指标比其他排序算法有了进一步提高，并且无需复杂的数据预处理工作和手动设定算法参数。
+夏军，徐炜遐，庞征斌，等.用于减少远程Cache访问延迟的最后一次写访问预测方法[J].国防科技大学学报,2015,37(1):14-20. XIA Jun, XU Weixia, PANG Zhengbin, et al. A last-write-touch prediction scheme used to reduce remote Cache miss latency[J]. Journal of National University of Defense Technology,2015,37(1):14-20.&lt;/pre&gt;</content:encoded></item><item><title>用光测图像确定空间目标俯仰角和偏航角的中轴线法</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/200002004?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/200002004?tab=abstract</guid><pubDate>Mon, 18 Nov 2013 00:00:00 +0000</pubDate><description>提出了一种用电影经纬仪等光测设备获得的图像确定火箭等空间轴对称目标的俯仰角和偏航角的新方法——中轴线法; 并对此方法进行了误差分析。此方法利用了目标图像上的大量信息, 测量精度高。采用了间接的方法提取目标的中轴线, 避免了多相机目标匹配的问题。
 
-Many information retrieval applications have to present their results in the form of ranked lists, in which documents must be sorted in a descending order according to their relevance to a given query. This has led the interest of the information retrieval community in methods that automatically learn effective ranking models, and recently machine learning techniques have also been applied to model construction. Most of the existing methods do not take into consideration the fact that significant homogeneity exists between query-document pairs related to user’s feedback. In this research, a novel method which clusters patterns in the training data with their relevance from the user, and then uses the discovered rules to rank documents at query-time. A systematic evaluation of the proposed method using the LETOR benchmark dataset is posposed. The experimental results show that the proposed method outperforms the state-of-the-art methods with no need of time-consuming and laborious pre-processing.
+A new method for measurement of the pitching angle and yaw angle of an axes-symmetric object through the optical images is presented, and the accuracy of the method is analyzed. This method is highly accurate because a large amount of information of the object image is used. The difficulty of object matching among several images is avoided since the object's axis is measured in an indirect way.
 
-蔡 飞，陈洪辉，舒 振.基于用户相关反馈的排序学习算法研究[J].国防科技大学学报,2013,35(2):132-136. CAI Fei, CHEN Honghui, SHU Zhen. Learning to rank based on user relevance feedback[J]. Journal of National University of Defense Technology,2013,35(2):132-136.</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201302024?tab=abstract&lt;/p&gt;&lt;pre&gt;在信息检索中，系统需要根据用户查询将文档按照相似度大小进行排序，吸引了众多信息检索和机器学习领域研究者的眼球，并形成了诸多排序算法模型。然而并未考虑到查询短语与文档构成的特征对与用户相关反馈之间存在的同质性。在机器学习算法基础上，通过提取训练样本的主要特征进行有效聚类，并结合用户的相关反馈获取各个类中相关度判断的置信值，形成相似度判定模型，应用该模型来对测试样本进行相关度排序。算法对LETOR数据集进行了测试，实验表明，信息检索性能指标比其他排序算法有了进一步提高，并且无需复杂的数据预处理工作和手动设定算法参数。
+于起峰，孙祥一，陈国军.用光测图像确定空间目标俯仰角和偏航角的中轴线法[J].国防科技大学学报,2000,22(2):15-19. YU Qifeng, SUN Xiangyi, CHEN Guojun. A New Method of Measure the Pitching and Yaw of the Axes Symmetry Object through the Optical Image[J]. Journal of National University of Defense Technology,2000,22(2):15-19.</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/200002004?tab=abstract&lt;/p&gt;&lt;pre&gt;提出了一种用电影经纬仪等光测设备获得的图像确定火箭等空间轴对称目标的俯仰角和偏航角的新方法——中轴线法; 并对此方法进行了误差分析。此方法利用了目标图像上的大量信息, 测量精度高。采用了间接的方法提取目标的中轴线, 避免了多相机目标匹配的问题。
 
-Many information retrieval applications have to present their results in the form of ranked lists, in which documents must be sorted in a descending order according to their relevance to a given query. This has led the interest of the information retrieval community in methods that automatically learn effective ranking models, and recently machine learning techniques have also been applied to model construction. Most of the existing methods do not take into consideration the fact that significant homogeneity exists between query-document pairs related to user’s feedback. In this research, a novel method which clusters patterns in the training data with their relevance from the user, and then uses the discovered rules to rank documents at query-time. A systematic evaluation of the proposed method using the LETOR benchmark dataset is posposed. The experimental results show that the proposed method outperforms the state-of-the-art methods with no need of time-consuming and laborious pre-processing.
+A new method for measurement of the pitching angle and yaw angle of an axes-symmetric object through the optical images is presented, and the accuracy of the method is analyzed. This method is highly accurate because a large amount of information of the object image is used. The difficulty of object matching among several images is avoided since the object&amp;#x27;s axis is measured in an indirect way.
 
-蔡 飞，陈洪辉，舒 振.基于用户相关反馈的排序学习算法研究[J].国防科技大学学报,2013,35(2):132-136. CAI Fei, CHEN Honghui, SHU Zhen. Learning to rank based on user relevance feedback[J]. Journal of National University of Defense Technology,2013,35(2):132-136.&lt;/pre&gt;</content:encoded></item><item><title>FlatLFS:一种面向海量小文件处理优化的轻量级文件系统</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201302022?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201302022?tab=abstract</guid><pubDate>Thu, 05 Apr 2012 00:00:00 +0000</pubDate><description>海量小文件的高效存储和访问是当前分布式文件系统面临的主要挑战之一。以GFS和HDFS为代表的分布式文件系统大多面向海量大文件的高效存储和访问设计，缺乏小文件处理的针对性优化，导致访问海量小文件时效率低下。针对分布式文件系统中海量小文件访问时的数据服务器优化问题，提出了一种采用扁平式数据存储方法的轻量级文件系统FlatLFS，取代传统文件系统对上层分布式文件系统提供数据存储和访问支持，提高了数据服务器处理小数据块时的I/O性能，从而提升了整个分布式文件系统的性能。实验表明，当数据块大小设定为1M时，FlatLFS的随机读性能分别比ext3、ext4、reiserfs高135%、112%和122%。
+于起峰，孙祥一，陈国军.用光测图像确定空间目标俯仰角和偏航角的中轴线法[J].国防科技大学学报,2000,22(2):15-19. YU Qifeng, SUN Xiangyi, CHEN Guojun. A New Method of Measure the Pitching and Yaw of the Axes Symmetry Object through the Optical Image[J]. Journal of National University of Defense Technology,2000,22(2):15-19.&lt;/pre&gt;</content:encoded></item><item><title>FlatLFS:一种面向海量小文件处理优化的轻量级文件系统</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201302022?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201302022?tab=abstract</guid><pubDate>Thu, 05 Apr 2012 00:00:00 +0000</pubDate><description>海量小文件的高效存储和访问是当前分布式文件系统面临的主要挑战之一。以GFS和HDFS为代表的分布式文件系统大多面向海量大文件的高效存储和访问设计，缺乏小文件处理的针对性优化，导致访问海量小文件时效率低下。针对分布式文件系统中海量小文件访问时的数据服务器优化问题，提出了一种采用扁平式数据存储方法的轻量级文件系统FlatLFS，取代传统文件系统对上层分布式文件系统提供数据存储和访问支持，提高了数据服务器处理小数据块时的I/O性能，从而提升了整个分布式文件系统的性能。实验表明，当数据块大小设定为1M时，FlatLFS的随机读性能分别比ext3、ext4、reiserfs高135%、112%和122%。
 
 The storage and access of massive small files are one of the challenges in the design of DFS(Distributed file system). Most of the DFSs, such as GFS and HDFS, are designed for handling massive big files. The performance of DFSs decreases greatly when accessing massive small files without special optimization for small files. This research focuses on the optimizing of the performance of data server in handling massive small files, and presents a Flat Lightweight File System called FlatLFS in which the user data are managed flat in disks. FlatLFS is supposed to substitute the traditional file system when accessing user data for upper DFSs. With the improvement of the performance of small data block processing on data servers by FlatLFS, the performance of the whole DFSs is greatly improved. The effectiveness of FlatLFS is proved with intensive experiments: when the size of data block is 1M, the performance of random read of FlatLFS is 135%, 112% and 122% higher than ext 3 ,ext4 and reiserfs respectively. 
 
@@ -61,7 +43,15 @@ The storage and access of massive small files are one of the challenges in the d
 
 The storage and access of massive small files are one of the challenges in the design of DFS(Distributed file system). Most of the DFSs, such as GFS and HDFS, are designed for handling massive big files. The performance of DFSs decreases greatly when accessing massive small files without special optimization for small files. This research focuses on the optimizing of the performance of data server in handling massive small files, and presents a Flat Lightweight File System called FlatLFS in which the user data are managed flat in disks. FlatLFS is supposed to substitute the traditional file system when accessing user data for upper DFSs. With the improvement of the performance of small data block processing on data servers by FlatLFS, the performance of the whole DFSs is greatly improved. The effectiveness of FlatLFS is proved with intensive experiments: when the size of data block is 1M, the performance of random read of FlatLFS is 135%, 112% and 122% higher than ext 3 ,ext4 and reiserfs respectively. 
 
-付松龄，廖湘科，黄辰林，等. FlatLFS:一种面向海量小文件处理优化的轻量级文件系统[J].国防科技大学学报,2013,35(2):120-126. FU Songling, LIAO Xiangke, HUANG Chenlin, et al. FlatLFS: a lightweight file system for optimizing the performance of accessing massive small files[J]. Journal of National University of Defense Technology,2013,35(2):120-126.&lt;/pre&gt;</content:encoded></item><item><title>高超声速滑翔飞行器气动性能的数值模拟研究</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201204005?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201204005?tab=abstract</guid><pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate><description>国家自然科学基金资助项目(90916016);湖南省研究生科研创新及国防科技大学优秀研究生创新资助项目(B110102)
+付松龄，廖湘科，黄辰林，等. FlatLFS:一种面向海量小文件处理优化的轻量级文件系统[J].国防科技大学学报,2013,35(2):120-126. FU Songling, LIAO Xiangke, HUANG Chenlin, et al. FlatLFS: a lightweight file system for optimizing the performance of accessing massive small files[J]. Journal of National University of Defense Technology,2013,35(2):120-126.&lt;/pre&gt;</content:encoded></item><item><title>网络舆情中一种基于OLDA的在线话题演化方法</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201201029?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201201029?tab=abstract</guid><pubDate>Tue, 30 Aug 2011 00:00:00 +0000</pubDate><description>研究网络舆情分析中话题演化方法。首先分析网络舆情信息的特点；在此基础上，建立网络舆情信息模型，基于话题模型抽象描述文本内容的隐含语义，进而建立文本流在时间序列上的关联模型；进一步，提出基于OLDA的话题演化方法，针对舆情信息的特点，建立不同时间片话题间的关联。实验结果表明，该方法能够有效检测话题演化，为网络舆情分析提供了有效途径。
+
+The topic evolution was investigated for network public opinion analysis. The properties of network public opinion information were analyzed firstly. Based on the properties, the latent semantics of textual data for network public opinion was described by using the topic model, and the text streams are modeled with a consideration of time for online analysis. Furthermore, a topic evolution method based on OLDA was proposed by incorporating the correlation of topics among time slices. The proposed method was experimentally verified to be efficient for detecting topic evolution of network public opinion. 
+
+胡艳丽，白亮，张维明.网络舆情中一种基于OLDA的在线话题演化方法[J].国防科技大学学报,2012,34(1):150-154. HU Yanli, BAI Liang, ZHANG Weiming. OLDA-based method for online topic evolution  in network public opinion analysis[J]. Journal of National University of Defense Technology,2012,34(1):150-154.</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201201029?tab=abstract&lt;/p&gt;&lt;pre&gt;研究网络舆情分析中话题演化方法。首先分析网络舆情信息的特点；在此基础上，建立网络舆情信息模型，基于话题模型抽象描述文本内容的隐含语义，进而建立文本流在时间序列上的关联模型；进一步，提出基于OLDA的话题演化方法，针对舆情信息的特点，建立不同时间片话题间的关联。实验结果表明，该方法能够有效检测话题演化，为网络舆情分析提供了有效途径。
+
+The topic evolution was investigated for network public opinion analysis. The properties of network public opinion information were analyzed firstly. Based on the properties, the latent semantics of textual data for network public opinion was described by using the topic model, and the text streams are modeled with a consideration of time for online analysis. Furthermore, a topic evolution method based on OLDA was proposed by incorporating the correlation of topics among time slices. The proposed method was experimentally verified to be efficient for detecting topic evolution of network public opinion. 
+
+胡艳丽，白亮，张维明.网络舆情中一种基于OLDA的在线话题演化方法[J].国防科技大学学报,2012,34(1):150-154. HU Yanli, BAI Liang, ZHANG Weiming. OLDA-based method for online topic evolution  in network public opinion analysis[J]. Journal of National University of Defense Technology,2012,34(1):150-154.&lt;/pre&gt;</content:encoded></item><item><title>高超声速滑翔飞行器气动性能的数值模拟研究</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201204005?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201204005?tab=abstract</guid><pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate><description>国家自然科学基金资助项目(90916016);湖南省研究生科研创新及国防科技大学优秀研究生创新资助项目(B110102)
 
 由于具有高的升阻比，乘波构型被认为是高超声速滑翔飞行器的重点参考外形。考虑到高超声速条件下严重的气动加热问题，乘波构型的尖锐前缘需要进行钝化处理，其表面流动特征及气动性能也随之发生变化。基于参考弹道，本文分析了高超声速滑翔飞行器沿飞行轨迹的表面流场特征，并对其在典型飞行工况下的气动性能开展了数值模拟研究。结果表明：对于采用乘波布局设计的高超声速滑翔飞行器，其驻点流动存在三维效应，不能简单视为球头或圆柱绕流；钝化可以缓和严峻的受热形势，同时对其气动力性能造成影响：在2cm钝化半径条件下，其升阻比下降12.34%；高超声速滑翔飞行器的表面受热存在明显的分区特征，不同区域可采用不同的防热处理方法。
 
@@ -1487,21 +1477,7 @@ Theodorsen T. General theory of aerodynamic instability and the mechanism of flu
 公众号
 返回顶部
 扫码关注
-官方微信
-您是今天第
-996
-位访客
-总访问量：
-321246602
-电话：
-0731-87028030
-邮箱:journal@nudt.edu.cn
-地址：湖南省长沙市开福区德雅路109号
-邮政编码：410073
-备案号 
-：
-湘ICP备09019258号
-技术支持：北京勤云科技发展有限公司&lt;/pre&gt;</content:encoded></item><item><title>双向门控循环时序网络驱动的空海域目标意图识别</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260420?st=search&amp;tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260420?st=search&amp;tab=abstract</guid><description>双向门控循环时序网络驱动的空海域目标意图识别
+官方微信&lt;/pre&gt;</content:encoded></item><item><title>双向门控循环时序网络驱动的空海域目标意图识别</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260420?st=search&amp;tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260420?st=search&amp;tab=abstract</guid><description>双向门控循环时序网络驱动的空海域目标意图识别
 EI•CA•INSPEC•JST•SCOPUS
 中文核心期刊•CSCD•WJCI
 首页
@@ -3181,6 +3157,86 @@ Gou Xiantai, Wu Nanfang. Air group situation recognition method based on GRU-Att
 Teng Fei, Guo Xinpeng, Song Yafei, et al. An air target tactical intention recognition model based on bidirectional GRU with attention mechanism[J]. IEEE Access, 2021, 9: 169122-169134.
 [27]
 Zhu Wenbo, Webb Z T, Mao Kaitian, et al. A deep learning approach for process data visualization using t-distributed stochastic neighbor embedding[J]. Industrial &amp;amp; Engineering Chemistry Research, 2019, 58(22): 9564-9575.
+[1]
+刘明骞,郑诗斐,李兵兵.
+基于深度学习的MPSK信号调制识别
+[J].国防科技大学学报,2019,41(5):153-158.
+[2]
+龙古灿,张小虎,于起峰.
+用于视频图像帧间运动补偿的深度卷积神经网络
+[J].国防科技大学学报,2016,38(5):143-148.
+[3]
+张玺君,郝俊.
+EEMD+BiGRU组合模型在短时交通流量预测中的应用
+[J].国防科技大学学报,2023,45(2):73-80.
+[4]
+赵文栋,张明智,贺筱媛,郭圣明.
+空中目标作战任务智能判识方法研究
+[J].指挥控制与仿真,2022(3):14-19.
+[5]
+孟庆宁;徐锋;刘娟娟;徐燕;赵秋月.
+基于改进YOLOv5的战场小目标及其部件识别研究
+[J].火力与指挥控制,2025(6):176-184.
+[6]
+孟庆宁;徐锋;刘娟娟;徐燕;赵秋月.
+基于改进YOLOv5的战场小目标及其部件识别研究
+[J].火力与指挥控制,2025,50(7):176-184.
+[7]
+吴云松;曹伟;潘继飞;许金鑫;张志强;籍林峰.
+有源无源数据协同的目标识别算法
+[J].现代防御技术,2026(1).
+[8]
+欧微,柳少军,贺筱媛,郭圣明.
+基于时序特征编码的目标战术意图识别算法?
+[J].指挥控制与仿真,2016(6):36-41.
+[9]
+王昊冉,老松杨,白亮,刘钢.
+基于MEBN的战术级空中目标意图识别
+[J].火力与指挥控制,2012,37(10).
+[10]
+杜明林;王学文;岳忠奇;郝熠;赵媛.
+基于深度像素互相关的孪生网络目标跟踪算法
+[J].火力与指挥控制,2026,51(1):81-87.
+[11]
+禹宁,谷良,狄婷.
+基于深度学习的网络攻击检测模型
+[J].火力与指挥控制,2023,48(5):66-74.
+[12]
+丁鹏,宋亚飞,夏智权.
+意图驱动的防空武器-目标动态分配方法
+[J].火力与指挥控制,2023,48(12):17-26.
+[13]
+谭继远,张立民,钟兆根.
+基于卷积双向长短期神经网络的调制方式识别
+[J].火力与指挥控制,2020,45(6):129-134.
+[14]
+黄迎春;邢秀祺.
+融合CNN-GRU和Transformer的网络入侵检测方法*
+[J].火力与指挥控制,2025,50(6):21-27.
+[15]
+贺俊,张雅声,尹灿斌,方宇强.
+基于CGRU-SVM的星载SAR工作模式识别方法
+[J].指挥控制与仿真,2022(3):99-105.
+[16]
+贾燎原;曹伟;张晓峰;陆翔;周恒亮.
+基于残差BiLSTM和改进CBAM的航迹关联方法
+[J].火力与指挥控制,2025(2):100-106+115.
+[17]
+黄权印;蔡益朝;李浩;吴卫华;王辰洋.
+基于GRU预测的改进UKF普适目标跟踪算法
+[J].现代防御技术,2025(6):134-148.
+[18]
+张慧敏,黄炜嘉,李锋.
+基于Ghost-YOLOv5s的SAR图像舰船目标检测
+[J].火力与指挥控制,2024,49(4):24-30.
+[19]
+周铭瑞;汪洋;彭程;刘冬梅;余星辰;李波.
+CHARM-Net:基于混合注意力增强的异构递归网络脑电情绪识别模型
+[J].兵器装备工程学报,2025(11):248-257.
+[20]
+崔丽;罗南超;吴敬花.
+基于ARR-DETR的小目标车辆检测方法
+[J].火力与指挥控制,2025,50(10):145-154.
 PDF下载
 XML下载
 导出引用
@@ -3196,12 +3252,13 @@ Jiang Tingshuai, Yu Tianyuan, Bai Liang, et al. Maritime and aerial target inten
 Copy
 计量
 文章访问量:
-306
-HTML全文浏览量:
 309
+HTML全文浏览量:
+312
 PDF下载量:
-695
+698
 被引次数:
+0
 图
 1
 空海域目标作战意图识别过程
@@ -3388,10 +3445,10 @@ Zhu Wenbo, Webb Z T, Mao Kaitian,et al. A deep learning approach for process dat
 扫码关注
 官方微信
 您是今天第
-996
+3210
 位访客
 总访问量：
-321246602
+325121543
 电话：
 0731-87028030
 邮箱:journal@nudt.edu.cn
@@ -3430,7 +3487,7 @@ Deepseek
 Kimi
 English
 引用本文:
-邓宇凡, 宋智琳, 蒲天乐, 等. 嵌入图神经网络的混合整数线性规划求解器增强技术[J]. 国防科技大学学报,2026,48(4):149-159.
+邓宇凡, 宋智琳, 蒲天乐, 等. 嵌入图神经网络的混合整数线性规划求解器增强技术[J]. 国防科技大学学报, 2026, 48(4)： 149-159.
 Citation:
 Deng Yufan, Song Zhilin, Pu Tianle, et al. GNN-guided approach to enhancing mixed-integer linear programming solvers[J]. Journal of National University of Defense Technology, 2026, 48(4)： 149-159.
 嵌入图神经网络的混合整数线性规划求解器增强技术
@@ -3456,7 +3513,7 @@ dengyufan24@nudt.edu.cn
 ，
  范长俊
 角色:
-通信作者
+通讯作者
 机构:
 国防科技大学系统工程学院, 湖南 长沙 410073
 邮箱:
@@ -3476,11 +3533,11 @@ fanchangjun@nudt.edu.cn
 收起信息
 作者简介
 邓宇凡（2002—），男，福建龙岩人，硕士研究生，E-mail: dengyufan24@nudt.edu.cn
-通信作者
+通讯作者
 范长俊（1990—），男，安徽天长人，副教授，博士，博士生导师，E-mail: fanchangjun@nudt.edu.cn
 中图分类号:
 TP183
-文献标志码:
+文献标识码:
 A
 文章编号:
 1001-2486(2026)04-149-11
@@ -3491,7 +3548,7 @@ First Author
 Affiliation:
 College of Systems Engineering, National University of Defense Technology, Changsha 410073 , China
 Email:
-dengyufan24@nudt.edu</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260414?st=search&amp;amp;tab=abstract&lt;/p&gt;&lt;pre&gt;嵌入图神经网络的混合整数线性规划求解器增强技术
+dengyufan24@nudt.</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260414?st=search&amp;amp;tab=abstract&lt;/p&gt;&lt;pre&gt;嵌入图神经网络的混合整数线性规划求解器增强技术
 EI•CA•INSPEC•JST•SCOPUS
 中文核心期刊•CSCD•WJCI
 首页
@@ -3521,7 +3578,7 @@ Deepseek
 Kimi
 English
 引用本文:
-邓宇凡, 宋智琳, 蒲天乐, 等. 嵌入图神经网络的混合整数线性规划求解器增强技术[J]. 国防科技大学学报,2026,48(4):149-159.
+邓宇凡, 宋智琳, 蒲天乐, 等. 嵌入图神经网络的混合整数线性规划求解器增强技术[J]. 国防科技大学学报, 2026, 48(4)： 149-159.
 Citation:
 Deng Yufan, Song Zhilin, Pu Tianle, et al. GNN-guided approach to enhancing mixed-integer linear programming solvers[J]. Journal of National University of Defense Technology, 2026, 48(4)： 149-159.
 嵌入图神经网络的混合整数线性规划求解器增强技术
@@ -3547,7 +3604,7 @@ dengyufan24@nudt.edu.cn
 ，
  范长俊
 角色:
-通信作者
+通讯作者
 机构:
 国防科技大学系统工程学院, 湖南 长沙 410073
 邮箱:
@@ -3567,11 +3624,11 @@ fanchangjun@nudt.edu.cn
 收起信息
 作者简介
 邓宇凡（2002—），男，福建龙岩人，硕士研究生，E-mail: dengyufan24@nudt.edu.cn
-通信作者
+通讯作者
 范长俊（1990—），男，安徽天长人，副教授，博士，博士生导师，E-mail: fanchangjun@nudt.edu.cn
 中图分类号:
 TP183
-文献标志码:
+文献标识码:
 A
 文章编号:
 1001-2486(2026)04-149-11
@@ -3603,7 +3660,7 @@ College of Systems Engineering, National University of Defense Technology, Chang
 摘要
 HTML全文
 图(6)表(7)
-参考文献(32)
+参考文献
 相似文献
 出版信息
 访问统计
@@ -4231,12 +4288,8 @@ i
 表示第
 i
 次迭代后得到的双随机矩阵。
-算法
-1
-Sinkhorn算法
-Alg.
-1
-Sinkhorn algorithm
+算法1 Sinkhorn算法
+Alg.1 Sinkhorn algorithm
 2 方法框架
 在本节中，提出一种基于边增强图注意力网络与混合整数规划求解器的求解框架SHARP。这一框架主要分为基于 Sinkhorn 归一化的边增强注意力网络、概率分布学习、基于置信阈值的反悔贪心搜索方法三个部分，如
 图2
@@ -4370,7 +4423,6 @@ k
 分别表示第
 k
 层中约束节点和变量节点的隐藏状态向量；
-，
 α
 x
 ，
@@ -4507,8 +4559,6 @@ kNM
 的启发，通过能量函数来构建此条件分布。对于一个解
 x
 ，其条件概率
-（
-）
 p
 （
 x
@@ -4572,7 +4622,6 @@ is feasible
 otherwise
 (9)
 式（9）确保了不可行解的概率为零，而最优解拥有最大的概率。模型的训练目标是让神经网络预测的分布逼近上述理论分布。本文使用KL（Kullback-Leibler）散度来衡量这两个分布之间的距离，因此，对于收集到的数据集
-，
 M
 i
 ，
@@ -4583,7 +4632,6 @@ i
 1
 N
 ，令
-，
 L
 i
 ≡
@@ -4844,8 +4892,6 @@ l
 α
 (13)
 其中，
-，
-，
 B
 x
 ¯
@@ -5406,72 +5452,6 @@ Effect of different regret coefficients on model performance
 Tab.
 7
 Performance comparison of different methods on the primal integral
-[1]
-Pochet Y, Wolsey L A. Production planning by mixed integer programming[M]. New York: Springer, 2006.
-[2]
-Sawik T. Scheduling in supply chains using mixed integer programming[M]. Hoboken: John Wiley &amp;amp; Sons, Inc., 2011.
-[3]
-Watson J P, Woodruff D L. Progressive hedging innovations for a class of stochastic mixed-integer resource allocation problems[J]. Computational Management Science, 2011, 8: 355-370.
-[4]
-高倩, 杨知方, 李文沅. 电力系统混合整数线性规划问题的运筹决策关键技术综述与展望[J]. 电工技术学报, 2024, 39(11): 3291-3307.
-Gao Qian, Yang Zhifang, Li Wenyuan. Prospect on operations research for mixed-integer linear programming problems in power systems[J]. Transactions of China Electrotechnical Society, 2024, 39(11): 3291-3307.(in Chinese)
-[5]
-Land A H, Doig A G. An automatic method for solving discrete programming problems[M]//Jünger M, Liebling T M, Naddef D, et al.50 years of integer programming 1958—2008. Berlin: Springer, 2010: 105-132.
-[6]
-Gilmore P C, Gomory R E. A linear programming approach to the cutting-stock problem[J]. Operations Research, 1961, 9(6): 771-925.
-[7]
-Zhang Jiayi, Liu Chang, Li Xijun, et al. A survey for solving mixed integer programming via machine learning[J]. Neurocomputing, 2023, 519: 205-217.
-[8]
-胡振震, 袁唯淋, 罗俊仁, 等. 面向多最优解组合优化问题的决策求解算法[J]. 国防科技大学学报, 2022, 44(3): 31-40.
-Hu Zhenzhen, Yuan Weilin, Luo Junren, et al. Decision solving algorithm for multiple optimal solution combinatorial optimization problem[J]. Journal of National University of Defense Technology, 2022, 44(3): 31-40.(in Chinese)
-[9]
-Gasse M, Chételat D, Ferroni N, et al. Exact combinatorial optimization with graph convolutional neural networks[C]//The 33rd International Conference on Neural Information Processing Systems, 2019: 15580-15592.
-[10]
-Khalil E B, Morris C, Lodi A. MIP-GNN: a data-driven framework for guiding combinatorial solvers[J]. Proceedings of the AAAI Conference on Artificial Intelligence, 2022, 36(9): 10219-10227.
-[11]
-He H, Daumé H, Eisner J. Learning to search in branch and bound algorithms[C]//The 28th International Conference on Neural Information Processing Systems, 2014: 3293-3301.
-[12]
-Song Jialin, Lanka R, Yue Yisong, et al. A general large neighborhood search framework for solving integer linear programs[C]//The 34th International Conference on Neural Information Processing Systems, 2020: 20012-20023.
-[13]
-Huang Zeren, Wang Kerong, Liu Furui, et al. Learning to select cuts for efficient mixed-integer programming[J]. Pattern Recognition, 2022, 123: 108353.
-[14]
-Ling Haotian, Wang Zhihai, Wang Jie. Learning to stop cut generation for efficient mixed-integer linear programming[J]. Proceedings of the AAAI Conference on Artificial Intelligence, 2024, 38(18): 20759-20767.
-[15]
-Nair V, Bartunov S, Gimeno F, et al. Solving mixed integer programs using neural networks[PP/OL].arXiv(2020-12-23)[2025-03-13].https: //arxiv.org/abs/2012.13349.
-[16]
-Zeng Hao, Wang Jiaqi, Das A, et al. Effective generation of feasible solutions for integer programming via guided diffusion[C]//The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2024: 4107-4118.
-[17]
-Huang Taoan, FERBER A, Zharmagambetov A, et al. Contrastive predict-and-search for mixed integer linear programs[C]//The 41st International Conference on Machine Learning, 2024: 19757-19771.
-[18]
-Sander M E, Ablin P, Blondel M, et al. Sinkformers: transformers with doubly stochastic attention[C]//The 25th International Conference on Artificial Intelligence and Statistics, 2022: 3515-3530.
-[19]
-Yoon T. Confidence threshold neural diving[PP/OL].arXiv(2022-03-15)[2025-03-14].https: //arxiv.org/abs/2202.07506.
-[20]
-Han Qingyu, Yang Linxin, Chen Qian, et al. A GNN-guided predict-and-search framework for mixed-integer linear programming[C]//The Eleventh International Conference on Learning Representations, 2023: 1-15.
-[21]
-Gong Liyu, Cheng Qiang. Exploiting edge features for graph neural networks[C]//The 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR), 2019: 9203-9211.
-[22]
-Sinkhorn R D, Knopp P J. Concerning nonnegative matrices and doubly stochastic matrices[J]. Pacific Journal of Mathematics, 1967, 21(2): 343-348.
-[23]
-Dakin R J. A tree-search algorithm for mixed integer programming problems[J]. The Computer Journal, 1965, 8(3): 250-255.
-[24]
-Kipf T N, Welling M. Semi-supervised classification with graph convolutional networks[PP/OL].arXiv(2016-09-09)[2025-03-30].https: //arxiv.org/abs/1609.02907.
-[25]
-Veličković P, Cucurull G, Casanova A, et al. Graph attention networks[PP/OL].arXiv(2017-10-30)[2025-03-30].https: //arxiv.org/abs/1710.10903.
-[26]
-Wang Runzhong, Yan Junchi, Yang Xiaokang. Learning combinatorial embedding networks for deep graph matching[C]//The 2019 IEEE/CVF International Conference on Computer Vision(ICCV), 2019: 3056-3065.
-[27]
-Genevay A, Peyré G, Cuturi M. Learning generative models with Sinkhorn divergences[C]//The Twenty-First International Conference on Artificial Intelligence and Statistics, 2018: 1608-1617.
-[28]
-Ye Huigen, Xu Hua, Wang Hongyan. Light-MILPopt: solving large-scale mixed integer linear programs with lightweight optimizer and small-scale training dataset[C]//The Twelfth International Conference on Learning Representations, 2024: 1-24.
-[29]
-Berthold T. Primal heuristics for mixed integer programs[D]. Berlin: Technische Universität Berlin, 2006.
-[30]
-Sonnerat N, Wang Pengming, Ktena I, et al. Learning a large neighborhood search algorithm for mixed integer programs[PP/OL].arXiv(2021-07-21)[2025-03-31].https: //arxiv.org/abs/2107.10201.
-[31]
-Achterberg T, Berthold T, Hendel G. Rounding and propagation heuristics for mixed integer programming[M]//Klatte D, Lüthi H J, Schmedders K. Operations research proceedings 2011. Berlin, Heidelberg: Springer, 2012: 71-76.
-[32]
-ACHTERBERG T. SCIP: solving constraint integer programs[J]. Mathematical Programming Computation, 2009, 1(1): 1-41.
 PDF下载
 XML下载
 导出引用
@@ -5481,19 +5461,15 @@ XML下载
 表(7)
 手机扫码阅读
 引用本文
-邓宇凡, 宋智琳, 蒲天乐, 等. 嵌入图神经网络的混合整数线性规划求解器增强技术[J]. 国防科技大学学报,2026,48(4):149-159.
+邓宇凡, 宋智琳, 蒲天乐, 等. 嵌入图神经网络的混合整数线性规划求解器增强技术[J]. 国防科技大学学报, 2026, 48(4)： 149-159.
 复制
 Deng Yufan, Song Zhilin, Pu Tianle, et al. GNN-guided approach to enhancing mixed-integer linear programming solvers[J]. Journal of National University of Defense Technology, 2026, 48(4)： 149-159.
 Copy
 计量
 文章访问量:
-312
 HTML全文浏览量:
-291
 PDF下载量:
-582
 被引次数:
-0
 图
 1
 混合整数线性规划问题的二部图表示
@@ -5614,10 +5590,9 @@ ACHTERBERG T. SCIP:solving constraint integer programs[J]. Mathematical Programm
 扫码关注
 官方微信
 您是今天第
-996
 位访客
 总访问量：
-321246602
+325121543
 电话：
 0731-87028030
 邮箱:journal@nudt.edu.cn
@@ -6492,11 +6467,11 @@ LI Zhigang, QIU Zhinan, WANG Jiachun, et al. Study of high-power microwave prote
 Copy
 计量
 文章访问量:
-29525
+29527
 HTML全文浏览量:
-4154
+4157
 PDF下载量:
-10063
+10065
 被引次数:
 0
 图
@@ -6569,10 +6544,10 @@ HE W, LIU X H, XIAN R C,et al. Kinetics characteristics and bremsstrahlung of ar
 扫码关注
 官方微信
 您是今天第
-998
+3210
 位访客
 总访问量：
-321246602
+325121543
 电话：
 0731-87028030
 邮箱:journal@nudt.edu.cn
@@ -7987,9 +7962,9 @@ Pu Tianle, Zhang Bingxu, Zeng Li, et al. Pre-training and fine-tuning: a unified
 Copy
 计量
 文章访问量:
-296
+298
 HTML全文浏览量:
-276
+279
 PDF下载量:
 563
 被引次数:
@@ -8098,10 +8073,10 @@ Sanokowski S, Berghammer W, Hochreiter S,et al. Variational annealing on graphs 
 扫码关注
 官方微信
 您是今天第
-998
+3211
 位访客
 总访问量：
-321246602
+325121543
 电话：
 0731-87028030
 邮箱:journal@nudt.edu.cn
