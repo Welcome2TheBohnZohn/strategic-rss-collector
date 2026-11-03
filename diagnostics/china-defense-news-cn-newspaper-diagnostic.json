@@ -1,99 +1,95 @@
 {
-  "issue_date": "2026-11-03",
+  "issue_date": "2026-11-04",
   "issue_pages": [
     {
       "paper_number": "01",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-03&paperName=zggfb&paperNumber=01",
-      "links": 71,
-      "article_links": 4
-    },
-    {
-      "paper_number": "02",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-03&paperName=zggfb&paperNumber=02",
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-04&paperName=zggfb&paperNumber=01",
       "links": 73,
       "article_links": 5
     },
     {
+      "paper_number": "02",
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-04&paperName=zggfb&paperNumber=02",
+      "links": 75,
+      "article_links": 5
+    },
+    {
       "paper_number": "03",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-03&paperName=zggfb&paperNumber=03",
-      "links": 69,
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-04&paperName=zggfb&paperNumber=03",
+      "links": 73,
       "article_links": 4
     },
     {
       "paper_number": "04",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-03&paperName=zggfb&paperNumber=04",
-      "links": 69,
-      "article_links": 4
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-04&paperName=zggfb&paperNumber=04",
+      "links": 67,
+      "article_links": 2
     }
   ],
   "candidates": [
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-03&paperNumber=01&articleid=989528",
-      "anchor_title": "“红军柚”，透心甜"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-04&paperNumber=01&articleid=989603",
+      "anchor_title": "从“我说你听”到“情景演绎”"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-03&paperNumber=01&articleid=989527",
-      "anchor_title": "把红色太行“绘”进童年记忆"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-04&paperNumber=01&articleid=989604",
+      "anchor_title": "变“看一个点”为“走一条线”"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-03&paperNumber=01&articleid=989529",
-      "anchor_title": "平时协同练 战时攥成拳"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-04&paperNumber=01&articleid=989602",
+      "anchor_title": "长征英烈“重返”鄂豫皖"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-03&paperNumber=01&articleid=989531",
-      "anchor_title": "精准定兵定向 减少人为裁量"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-04&paperNumber=01&articleid=989605",
+      "anchor_title": "“这张照片是我们家的传家宝”"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-03&paperNumber=02&articleid=989536",
-      "anchor_title": "以法治力量守护英烈荣光"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-04&paperNumber=01&articleid=989607",
+      "anchor_title": "“军属的难题马上解决”"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-03&paperNumber=02&articleid=989537",
-      "anchor_title": "云岭传薪火 优抚暖人心"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-04&paperNumber=02&articleid=989614",
+      "anchor_title": "同上一堂课 共爱一片海"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-03&paperNumber=02&articleid=989538",
-      "anchor_title": "退役不褪色 治理当尖兵"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-04&paperNumber=02&articleid=989615",
+      "anchor_title": "用好“活教材” 发挥新效能"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-03&paperNumber=02&articleid=989540",
-      "anchor_title": "古书院厚植家国情"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-04&paperNumber=02&articleid=989617",
+      "anchor_title": "从“大水漫灌”到“精准滴灌”"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-03&paperNumber=02&articleid=989541",
-      "anchor_title": "紧贴任务开展实战化练兵"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-04&paperNumber=02&articleid=989619",
+      "anchor_title": "组织专武干部集训"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-03&paperNumber=03&articleid=989532",
-      "anchor_title": "从伟大长征精神汲取强军胜战磅礴力量"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-04&paperNumber=02&articleid=989618",
+      "anchor_title": "关怀送上门 情暖老兵心"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-03&paperNumber=03&articleid=989533",
-      "anchor_title": "守常通变 胜战之道"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-04&paperNumber=03&articleid=989609",
+      "anchor_title": "方舱集群式保障暖兵心"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-03&paperNumber=03&articleid=989534",
-      "anchor_title": "永葆“赶考”的清醒与坚定"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-04&paperNumber=03&articleid=989608",
+      "anchor_title": "“吹尽狂沙始到金”"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-03&paperNumber=03&articleid=989535",
-      "anchor_title": "加快构建数据动员体系"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-04&paperNumber=03&articleid=989611",
+      "anchor_title": "自动化炊事设备增效率"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-03&paperNumber=04&articleid=989543",
-      "anchor_title": "泵喷推进：潜艇的“静音革命”"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-04&paperNumber=03&articleid=989612",
+      "anchor_title": "把长征精神讲到孩子心里"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-03&paperNumber=04&articleid=989542",
-      "anchor_title": "“森林骑士”"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-04&paperNumber=04&articleid=989621",
+      "anchor_title": "英国海军北极部署实效几何"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-03&paperNumber=04&articleid=989544",
-      "anchor_title": "无创脑控技术赋能单兵操作无人机"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-03&paperNumber=04&articleid=989545",
-      "anchor_title": "英国拟用“机械爪”捕获失效卫星"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-04&paperNumber=04&articleid=989622",
+      "anchor_title": "美军提升基地独立运转能力"
     }
   ]
 }
