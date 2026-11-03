@@ -1,62 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Tue, 03 Nov 2026 01:12:58 +0000</lastBuildDate><item><title>CNNVD-2026-75133681 - Gitea 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75133681</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75133681</guid><pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate><description>Gitea 授权问题漏洞
-危害等级: 超危
-收录时间：2026-11-01 | 更新时间: 2026-11-02 16:26:16
-CNNVD编号: CNNVD-2026-75133681</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75133681&lt;/p&gt;&lt;pre&gt;Gitea 授权问题漏洞
-危害等级: 超危
-收录时间：2026-11-01 | 更新时间: 2026-11-02 16:26:16
-CNNVD编号: CNNVD-2026-75133681&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-67394140 - Gitea 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-67394140</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-67394140</guid><pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate><description>Gitea 授权问题漏洞
-危害等级: 超危
-收录时间：2026-11-01 | 更新时间: 2026-11-02 16:26:15
-CNNVD编号: CNNVD-2026-67394140</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-67394140&lt;/p&gt;&lt;pre&gt;Gitea 授权问题漏洞
-危害等级: 超危
-收录时间：2026-11-01 | 更新时间: 2026-11-02 16:26:15
-CNNVD编号: CNNVD-2026-67394140&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-56697083 - Gitea 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-56697083</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-56697083</guid><pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate><description>Gitea 资源管理错误漏洞
-危害等级: 超危
-收录时间：2026-11-01 | 更新时间: 2026-11-02 16:26:15
-CNNVD编号: CNNVD-2026-56697083</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-56697083&lt;/p&gt;&lt;pre&gt;Gitea 资源管理错误漏洞
-危害等级: 超危
-收录时间：2026-11-01 | 更新时间: 2026-11-02 16:26:15
-CNNVD编号: CNNVD-2026-56697083&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-44185252 - Oray pugongying x5 pro 权限许可和访问控制问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-44185252</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-44185252</guid><pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate><description>Oray pugongying x5 pro 权限许可和访问控制问题漏洞
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Tue, 03 Nov 2026 14:32:55 +0000</lastBuildDate><item><title>CNNVD-2026-49313726 - Ethernut Nut/Net TCP/IP Stack 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-49313726</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-49313726</guid><pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate><description>Ethernut Nut/Net TCP/IP Stack 资源管理错误漏洞
 危害等级: 高危
-收录时间：2026-11-01 | 更新时间: 2026-11-02 16:18:46
-CNNVD编号: CNNVD-2026-44185252</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-44185252&lt;/p&gt;&lt;pre&gt;Oray pugongying x5 pro 权限许可和访问控制问题漏洞
+收录时间：2026-11-02 | 更新时间: 2026-11-03 16:55:32
+CNNVD编号: CNNVD-2026-49313726</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-49313726&lt;/p&gt;&lt;pre&gt;Ethernut Nut/Net TCP/IP Stack 资源管理错误漏洞
 危害等级: 高危
-收录时间：2026-11-01 | 更新时间: 2026-11-02 16:18:46
-CNNVD编号: CNNVD-2026-44185252&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-74823856 - Ruijie RG-ES205GC 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-74823856</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-74823856</guid><pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate><description>Ruijie RG-ES205GC 缓冲区错误漏洞
+收录时间：2026-11-02 | 更新时间: 2026-11-03 16:55:32
+CNNVD编号: CNNVD-2026-49313726&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-92690617 - MediaTek Chipset 异常处理不当漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-92690617</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-92690617</guid><pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate><description>MediaTek Chipset 异常处理不当漏洞
+危害等级: 中危
+收录时间：2026-11-02 | 更新时间: 2026-11-03 16:55:24
+CNNVD编号: CNNVD-2026-92690617</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-92690617&lt;/p&gt;&lt;pre&gt;MediaTek Chipset 异常处理不当漏洞
+危害等级: 中危
+收录时间：2026-11-02 | 更新时间: 2026-11-03 16:55:24
+CNNVD编号: CNNVD-2026-92690617&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-47086309 - Dell Alienware Command Center 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-47086309</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-47086309</guid><pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate><description>Dell Alienware Command Center 输入验证错误漏洞
+危害等级: 中危
+收录时间：2026-11-02 | 更新时间: 2026-11-03 16:55:01
+CNNVD编号: CNNVD-2026-47086309</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-47086309&lt;/p&gt;&lt;pre&gt;Dell Alienware Command Center 输入验证错误漏洞
+危害等级: 中危
+收录时间：2026-11-02 | 更新时间: 2026-11-03 16:55:01
+CNNVD编号: CNNVD-2026-47086309&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-11811645 - Dell Alienware Command Center 权限许可和访问控制问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-11811645</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-11811645</guid><pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate><description>Dell Alienware Command Center 权限许可和访问控制问题漏洞
 危害等级: 高危
-收录时间：2026-11-01 | 更新时间: 2026-11-02 16:16:05
-CNNVD编号: CNNVD-2026-74823856</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-74823856&lt;/p&gt;&lt;pre&gt;Ruijie RG-ES205GC 缓冲区错误漏洞
+收录时间：2026-11-02 | 更新时间: 2026-11-03 16:55:01
+CNNVD编号: CNNVD-2026-11811645</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-11811645&lt;/p&gt;&lt;pre&gt;Dell Alienware Command Center 权限许可和访问控制问题漏洞
 危害等级: 高危
-收录时间：2026-11-01 | 更新时间: 2026-11-02 16:16:05
-CNNVD编号: CNNVD-2026-74823856&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-24945414 - Prefect Prefab 权限许可和访问控制问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-24945414</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-24945414</guid><pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate><description>Prefect Prefab 权限许可和访问控制问题漏洞
+收录时间：2026-11-02 | 更新时间: 2026-11-03 16:55:01
+CNNVD编号: CNNVD-2026-11811645&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-20852766 - Dell OpenManage Enterprise 权限许可和访问控制问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-20852766</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-20852766</guid><pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate><description>Dell OpenManage Enterprise 权限许可和访问控制问题漏洞
+危害等级: 中危
+收录时间：2026-11-02 | 更新时间: 2026-11-03 16:54:57
+CNNVD编号: CNNVD-2026-20852766</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-20852766&lt;/p&gt;&lt;pre&gt;Dell OpenManage Enterprise 权限许可和访问控制问题漏洞
+危害等级: 中危
+收录时间：2026-11-02 | 更新时间: 2026-11-03 16:54:57
+CNNVD编号: CNNVD-2026-20852766&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-38098255 - Linux kernel 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-38098255</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-38098255</guid><pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate><description>Linux kernel 安全漏洞
+危害等级: 高危
+收录时间：2026-11-02 | 更新时间: 2026-11-03 16:54:45
+CNNVD编号: CNNVD-2026-38098255</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-38098255&lt;/p&gt;&lt;pre&gt;Linux kernel 安全漏洞
+危害等级: 高危
+收录时间：2026-11-02 | 更新时间: 2026-11-03 16:54:45
+CNNVD编号: CNNVD-2026-38098255&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-90370726 - Linux kernel 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-90370726</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-90370726</guid><pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate><description>Linux kernel 安全漏洞
 危害等级: 超危
-收录时间：2026-11-01 | 更新时间: 2026-11-02 16:18:45
-CNNVD编号: CNNVD-2026-24945414</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-24945414&lt;/p&gt;&lt;pre&gt;Prefect Prefab 权限许可和访问控制问题漏洞
+收录时间：2026-11-02 | 更新时间: 2026-11-03 16:54:42
+CNNVD编号: CNNVD-2026-90370726</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-90370726&lt;/p&gt;&lt;pre&gt;Linux kernel 安全漏洞
 危害等级: 超危
-收录时间：2026-11-01 | 更新时间: 2026-11-02 16:18:45
-CNNVD编号: CNNVD-2026-24945414&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-94977921 - Ruijie RG-ES205GC 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-94977921</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-94977921</guid><pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate><description>Ruijie RG-ES205GC 跨站脚本漏洞
-危害等级: 低危
-收录时间：2026-11-01 | 更新时间: 2026-11-02 16:16:04
-CNNVD编号: CNNVD-2026-94977921</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-94977921&lt;/p&gt;&lt;pre&gt;Ruijie RG-ES205GC 跨站脚本漏洞
-危害等级: 低危
-收录时间：2026-11-01 | 更新时间: 2026-11-02 16:16:04
-CNNVD编号: CNNVD-2026-94977921&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-86823975 - Gitea 加密问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-86823975</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-86823975</guid><pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate><description>Gitea 加密问题漏洞
-危害等级: 超危
-收录时间：2026-11-01 | 更新时间: 2026-11-02 16:24:38
-CNNVD编号: CNNVD-2026-86823975</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-86823975&lt;/p&gt;&lt;pre&gt;Gitea 加密问题漏洞
-危害等级: 超危
-收录时间：2026-11-01 | 更新时间: 2026-11-02 16:24:38
-CNNVD编号: CNNVD-2026-86823975&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-25571672 - Beam beta9 路径遍历漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-25571672</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-25571672</guid><pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate><description>Beam beta9 路径遍历漏洞
-危害等级: 超危
-收录时间：2026-11-01 | 更新时间: 2026-11-02 16:24:31
-CNNVD编号: CNNVD-2026-25571672</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-25571672&lt;/p&gt;&lt;pre&gt;Beam beta9 路径遍历漏洞
-危害等级: 超危
-收录时间：2026-11-01 | 更新时间: 2026-11-02 16:24:31
-CNNVD编号: CNNVD-2026-25571672&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-97450417 - Gitea 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-97450417</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-97450417</guid><pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate><description>Gitea 授权问题漏洞
-危害等级: 超危
-收录时间：2026-11-01 | 更新时间: 2026-11-02 16:41:21
-CNNVD编号: CNNVD-2026-97450417</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-97450417&lt;/p&gt;&lt;pre&gt;Gitea 授权问题漏洞
-危害等级: 超危
-收录时间：2026-11-01 | 更新时间: 2026-11-02 16:41:21
-CNNVD编号: CNNVD-2026-97450417&lt;/pre&gt;</content:encoded></item></channel></rss>
+收录时间：2026-11-02 | 更新时间: 2026-11-03 16:54:42
+CNNVD编号: CNNVD-2026-90370726&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-10290944 - Linux kernel 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-10290944</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-10290944</guid><pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate><description>Linux kernel 安全漏洞
+危害等级: 高危
+收录时间：2026-11-02 | 更新时间: 2026-11-03 16:54:38
+CNNVD编号: CNNVD-2026-10290944</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-10290944&lt;/p&gt;&lt;pre&gt;Linux kernel 安全漏洞
+危害等级: 高危
+收录时间：2026-11-02 | 更新时间: 2026-11-03 16:54:38
+CNNVD编号: CNNVD-2026-10290944&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-96128246 - Linux kernel 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-96128246</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-96128246</guid><pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate><description>Linux kernel 安全漏洞
+危害等级: 高危
+收录时间：2026-11-02 | 更新时间: 2026-11-03 16:54:36
+CNNVD编号: CNNVD-2026-96128246</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-96128246&lt;/p&gt;&lt;pre&gt;Linux kernel 安全漏洞
+危害等级: 高危
+收录时间：2026-11-02 | 更新时间: 2026-11-03 16:54:36
+CNNVD编号: CNNVD-2026-96128246&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-73748786 - Linux kernel 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-73748786</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-73748786</guid><pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate><description>Linux kernel 安全漏洞
+危害等级: 高危
+收录时间：2026-11-02 | 更新时间: 2026-11-03 16:54:38
+CNNVD编号: CNNVD-2026-73748786</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-73748786&lt;/p&gt;&lt;pre&gt;Linux kernel 安全漏洞
+危害等级: 高危
+收录时间：2026-11-02 | 更新时间: 2026-11-03 16:54:38
+CNNVD编号: CNNVD-2026-73748786&lt;/pre&gt;</content:encoded></item></channel></rss>
