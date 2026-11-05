@@ -1,16 +1,15 @@
-# ❗️ The Armed Forces of the Russian Federation continue to carry out strikes with unmanned aerial vehicles against vessels delivering military cargo to the AFU.
+# ❗️ The Armed Forces of the Russian Federation continue to carry out strikes with unmanned aerial vehicles against vessels involved in delivering military supplies to the AFU.
 
-Published: 2026-11-04 14:45:30
+Published: 2026-11-05 16:33:39
 
-Source: https://t.me/mod_russia_en/30438
+Source: https://t.me/mod_russia_en/30455
 
 ❗️
-The Armed Forces of the Russian Federation continue to carry out strikes
-with unmanned aerial vehicles against vessels delivering military cargo to the AFU.
-💥
-During the day, as a result of the strike,
+The Armed Forces of the Russian Federation continue to carry out strikes with unmanned aerial vehicles against vessels involved in delivering military supplies to the AFU.
+This afternoon, as a result of a strike in the Black Sea, 107 km south-west of Odessa,
 a dry cargo ship
-that was delivering military equipment and dual‑use cargo to Ukraine
-was damaged in the port of Odessa.
+carrying military equipment and dual-use cargo to Ukraine
+was hit
+.
 🔹
 Russian Defence Ministry
