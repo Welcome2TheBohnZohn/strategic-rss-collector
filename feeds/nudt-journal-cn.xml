@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>National University of Defense Technology Journal</title><link>https://journal.nudt.edu.cn/</link><description>Generated RSS feed for National University of Defense Technology Journal</description><language>zh-CN</language><lastBuildDate>Wed, 04 Nov 2026 19:56:42 +0000</lastBuildDate><item><title>国防科技大学微纳光电子与智能感知课题组 | 物理先验结合深度学习的偏振3D重建方法</title><link>https://mp.weixin.qq.com/s/47qqb9QvcE7ZxS0CuGC5pA</link><guid isPermaLink="false">https://mp.weixin.qq.com/s/47qqb9QvcE7ZxS0CuGC5pA</guid><pubDate>Mon, 02 Nov 2026 03:11:00 +0000</pubDate><description>现有三维重建技术普遍受限于昂贵的专业采集设备、对光照条件的严格要求，以及在实时应用场景中的适配性不足。为解决这一问题， 国防科技大学微纳光电子与智能感知课题组 发表 《 物理先验结合深度学习的偏振3D重建方法》 （点击论文标题可阅读全文） ， 基于菲涅耳反射定律，提出一种融合偏振光学特性与深度学习的FUNet模型。该模型以四通道偏振图像作为输入，通过一种可传播梯度的特殊设计，对菲涅耳反射模型进行逆问题求解，从而提取表面法线的物理先验知识，并借助深度神经网络对物理先验知识进行优化。该模型结合偏振图像与表面法线之间的物理关联性以及深度学习的高效数据拟合能力，实现对目标表面法线的快速精确估计。在DeepSfP数据集上的实验结果表明，模型在测试集上平均角度误差为11.49°，显著优于传统方法，从而为低成本、鲁棒性的偏振3D重建提供高效可行的技术思路。
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>National University of Defense Technology Journal</title><link>https://journal.nudt.edu.cn/</link><description>Generated RSS feed for National University of Defense Technology Journal</description><language>zh-CN</language><lastBuildDate>Thu, 05 Nov 2026 07:00:59 +0000</lastBuildDate><item><title>国防科技大学微纳光电子与智能感知课题组 | 物理先验结合深度学习的偏振3D重建方法</title><link>https://mp.weixin.qq.com/s/47qqb9QvcE7ZxS0CuGC5pA</link><guid isPermaLink="false">https://mp.weixin.qq.com/s/47qqb9QvcE7ZxS0CuGC5pA</guid><pubDate>Mon, 02 Nov 2026 03:11:00 +0000</pubDate><description>现有三维重建技术普遍受限于昂贵的专业采集设备、对光照条件的严格要求，以及在实时应用场景中的适配性不足。为解决这一问题， 国防科技大学微纳光电子与智能感知课题组 发表 《 物理先验结合深度学习的偏振3D重建方法》 （点击论文标题可阅读全文） ， 基于菲涅耳反射定律，提出一种融合偏振光学特性与深度学习的FUNet模型。该模型以四通道偏振图像作为输入，通过一种可传播梯度的特殊设计，对菲涅耳反射模型进行逆问题求解，从而提取表面法线的物理先验知识，并借助深度神经网络对物理先验知识进行优化。该模型结合偏振图像与表面法线之间的物理关联性以及深度学习的高效数据拟合能力，实现对目标表面法线的快速精确估计。在DeepSfP数据集上的实验结果表明，模型在测试集上平均角度误差为11.49°，显著优于传统方法，从而为低成本、鲁棒性的偏振3D重建提供高效可行的技术思路。
 
 赵芬, 向秦, 陈杰, 等. 物理先验结合深度学习的偏振3D重建方法[J]. 国防科技大学学报, 2026, 48(5): 57 -67.
 
@@ -9,9 +9,7 @@ Zhao Fen, Xiang Qin, Chen Jie, et al. Polarization 3D reconstruction method base
 
 杨俊波（通信作者） ，国防科技大学教授，博士生导师。教育部新世纪优秀人才，入选全球前2%顶尖科学家榜单。主要从事微纳光电子、光信息处理、超表面与人工智能辅助逆向设计等研究，主持国家863计划项目、国家自然科学基金、国家重点研发计划课题等科研项目20余项。在 Nano Letters 、 ACS Photonics 、 Photonics Research 等国际权威期刊发表SCI/EI论文200余篇，多项成果入选ESI高被引前1‰及中国光学重要成果，获军队科技进步奖三等奖。担任中国宇航学会光电技术专业委员会常务委员、湖南省光学学会理事等学术职务。
 
-国防科技大学微纳光电子与智能感知课题组 长期围绕光信息处理、微纳光电子集成、新型二维材料及超表面器件等方向开展系统深入的研究，致力于探索从材料生长、器件设计到系统集成的全链条关键技术。团队聚焦硅基光子芯片、石墨烯及范德华异质结光电器件、表面等离激元与超材料调控、片上光互连与智能感知等前沿领域，在窄带滤波、波束扫描、量子光源、拓扑光子学等方向取得系列创新成果。近年来，团队承担国家自然科学基金项目和创新特区项目等国家重点课题，获得国家和军队科技成果奖励，获授权国家发明专利多项，相关成果为新一代光通信、红外探测与智能感知提供重要技术支撑。
-
-当前内容可能存在未经审核的第三方商业营销信息，请确认是否继续访问。</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://mp.weixin.qq.com/s/47qqb9QvcE7ZxS0CuGC5pA&lt;/p&gt;&lt;pre&gt;现有三维重建技术普遍受限于昂贵的专业采集设备、对光照条件的严格要求，以及在实时应用场景中的适配性不足。为解决这一问题， 国防科技大学微纳光电子与智能感知课题组 发表 《 物理先验结合深度学习的偏振3D重建方法》 （点击论文标题可阅读全文） ， 基于菲涅耳反射定律，提出一种融合偏振光学特性与深度学习的FUNet模型。该模型以四通道偏振图像作为输入，通过一种可传播梯度的特殊设计，对菲涅耳反射模型进行逆问题求解，从而提取表面法线的物理先验知识，并借助深度神经网络对物理先验知识进行优化。该模型结合偏振图像与表面法线之间的物理关联性以及深度学习的高效数据拟合能力，实现对目标表面法线的快速精确估计。在DeepSfP数据集上的实验结果表明，模型在测试集上平均角度误差为11.49°，显著优于传统方法，从而为低成本、鲁棒性的偏振3D重建提供高效可行的技术思路。
+国防科技大学微纳光电子与智能感知课题组 长期围绕光信息处理、微纳光电子集成、新型二维材料及超表面器件等方向开展系统深入的研究，致力于探索从材料生长、器件设计到系统集成的全链条关键技术。团队聚焦硅基光子芯片、石墨烯及范德华异质结光电器件、表面等离激元与超材料调控、片上光互连与智能感知等前沿领域，在窄带滤波、波束扫描、量子光源、拓扑光子学等方向取得系列创新成果。近年来，团队承担国家自然科学基金项目和创新特区项目等国家重点课题，获得国家和军队科技成果奖励，获授权国家发明专利多项，相关成果为新一代光通信、红外探测与智能感知提供重要技术支撑。</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://mp.weixin.qq.com/s/47qqb9QvcE7ZxS0CuGC5pA&lt;/p&gt;&lt;pre&gt;现有三维重建技术普遍受限于昂贵的专业采集设备、对光照条件的严格要求，以及在实时应用场景中的适配性不足。为解决这一问题， 国防科技大学微纳光电子与智能感知课题组 发表 《 物理先验结合深度学习的偏振3D重建方法》 （点击论文标题可阅读全文） ， 基于菲涅耳反射定律，提出一种融合偏振光学特性与深度学习的FUNet模型。该模型以四通道偏振图像作为输入，通过一种可传播梯度的特殊设计，对菲涅耳反射模型进行逆问题求解，从而提取表面法线的物理先验知识，并借助深度神经网络对物理先验知识进行优化。该模型结合偏振图像与表面法线之间的物理关联性以及深度学习的高效数据拟合能力，实现对目标表面法线的快速精确估计。在DeepSfP数据集上的实验结果表明，模型在测试集上平均角度误差为11.49°，显著优于传统方法，从而为低成本、鲁棒性的偏振3D重建提供高效可行的技术思路。
 
 赵芬, 向秦, 陈杰, 等. 物理先验结合深度学习的偏振3D重建方法[J]. 国防科技大学学报, 2026, 48(5): 57 -67.
 
@@ -21,9 +19,7 @@ Zhao Fen, Xiang Qin, Chen Jie, et al. Polarization 3D reconstruction method base
 
 杨俊波（通信作者） ，国防科技大学教授，博士生导师。教育部新世纪优秀人才，入选全球前2%顶尖科学家榜单。主要从事微纳光电子、光信息处理、超表面与人工智能辅助逆向设计等研究，主持国家863计划项目、国家自然科学基金、国家重点研发计划课题等科研项目20余项。在 Nano Letters 、 ACS Photonics 、 Photonics Research 等国际权威期刊发表SCI/EI论文200余篇，多项成果入选ESI高被引前1‰及中国光学重要成果，获军队科技进步奖三等奖。担任中国宇航学会光电技术专业委员会常务委员、湖南省光学学会理事等学术职务。
 
-国防科技大学微纳光电子与智能感知课题组 长期围绕光信息处理、微纳光电子集成、新型二维材料及超表面器件等方向开展系统深入的研究，致力于探索从材料生长、器件设计到系统集成的全链条关键技术。团队聚焦硅基光子芯片、石墨烯及范德华异质结光电器件、表面等离激元与超材料调控、片上光互连与智能感知等前沿领域，在窄带滤波、波束扫描、量子光源、拓扑光子学等方向取得系列创新成果。近年来，团队承担国家自然科学基金项目和创新特区项目等国家重点课题，获得国家和军队科技成果奖励，获授权国家发明专利多项，相关成果为新一代光通信、红外探测与智能感知提供重要技术支撑。
-
-当前内容可能存在未经审核的第三方商业营销信息，请确认是否继续访问。&lt;/pre&gt;</content:encoded></item><item><title>多核数字信号处理器矩阵乘卷积算法性能评测</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/202301009?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/202301009?tab=abstract</guid><pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate><description>(1. 国防科技大学 计算机学院, 湖南 长沙 410073;2. 国防科技大学 并行与分布处理国防科技重点实验室, 湖南 长沙 410073)
+国防科技大学微纳光电子与智能感知课题组 长期围绕光信息处理、微纳光电子集成、新型二维材料及超表面器件等方向开展系统深入的研究，致力于探索从材料生长、器件设计到系统集成的全链条关键技术。团队聚焦硅基光子芯片、石墨烯及范德华异质结光电器件、表面等离激元与超材料调控、片上光互连与智能感知等前沿领域，在窄带滤波、波束扫描、量子光源、拓扑光子学等方向取得系列创新成果。近年来，团队承担国家自然科学基金项目和创新特区项目等国家重点课题，获得国家和军队科技成果奖励，获授权国家发明专利多项，相关成果为新一代光通信、红外探测与智能感知提供重要技术支撑。&lt;/pre&gt;</content:encoded></item><item><title>多核数字信号处理器矩阵乘卷积算法性能评测</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/202301009?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/202301009?tab=abstract</guid><pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate><description>(1. 国防科技大学 计算机学院, 湖南 长沙 410073;2. 国防科技大学 并行与分布处理国防科技重点实验室, 湖南 长沙 410073)
 
 王庆林(1987—),男,贵州思南人,副研究员,博士,硕士生导师,E-mail:wangqinglin_thu@163.com; 裴向东(通信作者),男,山西长治人,博士研究生,E-mail:18903588277@163.com
 
@@ -445,8 +441,7 @@ i
 其中，
 λ
 为碰撞过程中的嵌入深度或弹性变形，
-K
-i
+\begin{equation}K_{i}\end{equation}
 为碰撞刚度。对于机翼气动弹性系统，碰撞力可表示为：
 （2）
 其中，
@@ -507,8 +502,7 @@ c
 分别为来流的压强和声速；
 γ
 为比热比；
-v
-z
+\begin{equation}v_{z}\end{equation}
 为翼面下洗速度，对于上下表面可以分别表示为
 v
 z
@@ -637,28 +631,22 @@ mx
 a
 b
 为机翼距弹性轴的质量矩；
-I
-α
+\begin{equation}I_{α}\end{equation}
 =
 m
 (
-r
-a
+\begin{equation}r_{a}\end{equation}
 b
 )
 2
 为机翼相对于弹性轴的惯性矩；
-c
-h
+\begin{equation}c_{h}\end{equation}
 、
-c
-α
+\begin{equation}c_{α}\end{equation}
 为两个方向的阻尼系数；
-K
-h
+\begin{equation}K_{h}\end{equation}
 、
-K
-α
+\begin{equation}K_{α}\end{equation}
 分别为机翼沉浮和俯仰方向的结构刚度系数；
 e
 1
@@ -717,16 +705,14 @@ t
 /
 b
 ，
-ω
-h
+\begin{equation}ω_{h}\end{equation}
 =
 K
 h
 /
 m
 ，
-ω
-α
+\begin{equation}ω_{α}\end{equation}
 =
 K
 α
@@ -737,44 +723,34 @@ I
 ω
 ¯
 =
-ω
-h
+\begin{equation}ω_{h}\end{equation}
 /
-ω
-α
+\begin{equation}ω_{α}\end{equation}
 ，
 μ
 =
 m
 /(4
-ρ
-b
-2
+\begin{equation}ρb^{2}\end{equation}
 )，
 V
 =
 U
 ∞
 /(
-b
-ω
-α
+\begin{equation}bω_{α}\end{equation}
 )，
-ζ
-h
+\begin{equation}ζ_{h}\end{equation}
 =
-c
-h
+\begin{equation}c_{h}\end{equation}
 /
 m
 K
 h
 ，
-ζ
-α
+\begin{equation}ζ_{α}\end{equation}
 =
-c
-α
+\begin{equation}c_{α}\end{equation}
 /
 I
 α
@@ -784,8 +760,7 @@ K
 μ
 s
 =
-m
-s
+\begin{equation}m_{s}\end{equation}
 /
 m
 ，
@@ -822,8 +797,7 @@ p
 ω
 s
 /
-ω
-α
+\begin{equation}ω_{α}\end{equation}
 ，
 δ
 s
@@ -936,19 +910,15 @@ v
 =5 000，
 Ma
 =5.0，
-x
-a
+\begin{equation}x_{a}\end{equation}
 =0.25，
-r
-a
+\begin{equation}r_{a}\end{equation}
 =0.5，
 a
 =-0.2，
-ζ
-h
+\begin{equation}ζ_{h}\end{equation}
 =0.01，
-ζ
-α
+\begin{equation}ζ_{α}\end{equation}
 =0.01，
 ω
 ¯
@@ -1555,7 +1525,6 @@ Theodorsen T. General theory of aerodynamic instability and the mechanism of flu
 扫码关注
 官方微信
 您是今天第
-893
 位访客
 总访问量：
 327159805
@@ -2418,6 +2387,85 @@ LI Z G, CHEN Z S. Distributions of the electron in the interactions between high
 YUAN Z C, SHI J M. Theoretical and numerical studies on interactions between high-power microwave and plasma[J]. Acta Physica Sinica, 2014, 63(9): 255-264.(in Chinese)
 [12]
 HE W, LIU X H, XIAN R C, et al. Kinetics characteristics and bremsstrahlung of argon DC discharge under atmospheric pressure[J]. Plasma Science and Technology, 2013, 15(4): 335-342.
+[1]
+李志刚,邱志楠,汪家春,刘丽萍,王俊儒,陈宗胜.
+低温等离子体用于高功率微波防护研究
+[J].国防科技大学学报,2023,45(6):84-89.
+[2]
+李永忠,张亚洲,赫崇峻.
+用于高功率微波测量的电磁探针研究
+[J].国防科技大学学报,1999,21(5):72-74.
+[3]
+李志刚,陈宗胜.
+等离子体与高功率微波相互作用中电子分布特性
+[J].国防科技大学学报,2020,42(1):10-17.
+[4]
+刘洋,程立,汪家春,袁忠才,时家明.
+核电磁脉冲模拟器的电场特性及等离子体阵列的防护性能
+[J].国防科技大学学报,2018,40(4):41-46.
+[5]
+李志刚,程立,马志伟,汪家春,时家明.
+入射频率对高功率微波与等离子体相互作用的影响分析
+[J].国防科技大学学报,2018,40(4):47-52.
+[6]
+王贵林,张飞虎.
+微波铁氧体基片精密研抛技术研究
+[J].国防科技大学学报,2007,29(3):113-117.
+[7]
+张存波.
+微波脉冲对硅基双极型晶体管的损伤特性（高功率微波技术研究所专题组稿）
+[J].国防科技大学学报,2015,37(2).
+[8]
+林峥.
+高功率微波技术在军事上的应用
+[J].军事电子,1994(5):1-5.
+[9]
+陈凯柏,周晓东,高敏.
+毫米波引信高功率微波前门耦合效应研究
+[J].兵器装备工程学报,2020,41(2).
+[10]
+李战国 胡真闫学锋,孙小亮.
+等离子体技术在核化生洗消中的应用研究
+[J].防化研究,2007(2):61-64.
+[11]
+王运华.
+微波消解预处理技术用于食品微量元素分析的研究
+[J].兵团教育学院学报,2002,12(1):71-72.
+[12]
+刘春明.
+光学仪器综合封存防护技术研究
+[J].军械工程学院学报,1993(2).
+[13]
+令钧溥,王蕾,皮明瑶,贺军涛,陈冬群,王朗宁.
+美国反无人机高功率微波技术研究现状及启示
+[J].国防科技,2023(3):74-80.
+[14]
+王忠春,向红军,纵兆春.
+基于高压脉冲等离子体技术的TNT废水处理研究
+[J].军械工程学院学报,2013(4):75-78.
+[15]
+吴新贺,党方超.
+高功率微波空间相干合成基本原理与技术挑战
+[J].国防科技,2022(3):9-14.
+[16]
+复杂战场环境导弹发射装置隐身防护技术研究
+[J].现代防御技术
+[17]
+曹哲,柴振海,高红卫,鲁耀兵.
+分布式阵列相参合成雷达技术研究与试验
+[J].现代防御技术,2012,40(4):1-11.
+[18]
+王鹏,彭博,窦林涛.
+相控阵雷达外场试验目标模拟技术研究
+[J].指挥控制与仿真,2014,36(3).
+[19]
+舒楠,张厚,李圭源,徐海洋.
+X波段雷达前门防护技术研究
+[J].现代防御技术,2011,39(1):138-140,156.
+[20]
+郑翠娥,孙大军,张殿伦.
+一种基于超短基线的高精度多目标水声定位技术研究
+[J].海军工程大学学报,2007,19(2):12-16.
 PDF下载
 XML下载
 导出引用
@@ -2433,13 +2481,12 @@ LI Zhigang, QIU Zhinan, WANG Jiachun, et al. Study of high-power microwave prote
 Copy
 计量
 文章访问量:
-29555
+29560
 HTML全文浏览量:
-4185
+4190
 PDF下载量:
-10075
+10079
 被引次数:
-0
 图
 1
 高功率微波与柱状等离子体阵列相互作用的仿真计算模型示意图
@@ -2510,7 +2557,7 @@ HE W, LIU X H, XIAN R C,et al. Kinetics characteristics and bremsstrahlung of ar
 扫码关注
 官方微信
 您是今天第
-895
+4811
 位访客
 总访问量：
 327159805
