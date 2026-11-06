@@ -1,5 +1,5 @@
 Strategic RSS Collector Status
-Generated: 2026-11-05 20:10:15 UTC
+Generated: 2026-11-06 07:10:49 UTC
 
 Status meanings:
 OK = Feed contains one or more items
@@ -193,7 +193,7 @@ FAILED = Source could not be retrieved
   Start URL: http://www.norincogroup.com.cn/
   Resolved URL: http://www.norincogroup.com.cn/
   HTTP: 200
-  Links discovered: 193
+  Links discovered: 194
   Candidate links/items: 50
   Attempted items/articles: 12
   Items/articles with text: 12
@@ -209,7 +209,7 @@ FAILED = Source could not be retrieved
   Start URL: http://www.cssc.net.cn/n5/n18/index.html
   Resolved URL: http://www.cssc.net.cn/n5/n18/index.html
   HTTP: 200
-  Links discovered: 284
+  Links discovered: 285
   Candidate links/items: 10
   Attempted items/articles: 10
   Items/articles with text: 10
@@ -225,7 +225,7 @@ FAILED = Source could not be retrieved
   Start URL: https://www.spacechina.com/n25/n2014789/index.html
   Resolved URL: https://www.spacechina.com/n25/n2014789/index.html
   HTTP: 200
-  Links discovered: 173
+  Links discovered: 172
   Candidate links/items: 50
   Attempted items/articles: 12
   Items/articles with text: 12
@@ -268,14 +268,14 @@ Call log:
 [OK] china-defense-news-cn - China National Defense News
   Source type: newspaper
   Start URL: http://www.81.cn/szb_223187/gfbszblb/index.html
-  Resolved URL: http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-05&paperName=zggfb&paperNumber=01
+  Resolved URL: http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-06&paperName=zggfb&paperNumber=01
   HTTP: 200
-  Links discovered: 276
-  Candidate links/items: 11
-  Attempted items/articles: 11
-  Items/articles with text: 11
-  Items/articles with dates: 11
-  RSS feed items: 11
+  Links discovered: 288
+  Candidate links/items: 17
+  Attempted items/articles: 12
+  Items/articles with text: 12
+  Items/articles with dates: 12
+  RSS feed items: 12
   SSL verification: ON
   Request timeout: 30s
   Max retries: 4
