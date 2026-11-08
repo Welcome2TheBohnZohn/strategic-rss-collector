@@ -1,62 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Sat, 07 Nov 2026 22:05:50 +0000</lastBuildDate><item><title>CNNVD-2026-52999999 - Apache Juneau 路径遍历漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-52999999</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-52999999</guid><pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate><description>Apache Juneau 路径遍历漏洞
-危害等级: 超危
-收录时间：2026-11-05 | 更新时间: 2026-11-06 15:19:47
-CNNVD编号: CNNVD-2026-52999999</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-52999999&lt;/p&gt;&lt;pre&gt;Apache Juneau 路径遍历漏洞
-危害等级: 超危
-收录时间：2026-11-05 | 更新时间: 2026-11-06 15:19:47
-CNNVD编号: CNNVD-2026-52999999&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-34005346 - Altium 365 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-34005346</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-34005346</guid><pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate><description>Altium 365 输入验证错误漏洞
-危害等级: 高危
-收录时间：2026-11-05 | 更新时间: 2026-11-06 15:19:40
-CNNVD编号: CNNVD-2026-34005346</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-34005346&lt;/p&gt;&lt;pre&gt;Altium 365 输入验证错误漏洞
-危害等级: 高危
-收录时间：2026-11-05 | 更新时间: 2026-11-06 15:19:40
-CNNVD编号: CNNVD-2026-34005346&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-19551346 - ACCEL-PPP 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-19551346</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-19551346</guid><pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate><description>ACCEL-PPP 缓冲区错误漏洞
-危害等级: 高危
-收录时间：2026-11-05 | 更新时间: 2026-11-06 15:19:39
-CNNVD编号: CNNVD-2026-19551346</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-19551346&lt;/p&gt;&lt;pre&gt;ACCEL-PPP 缓冲区错误漏洞
-危害等级: 高危
-收录时间：2026-11-05 | 更新时间: 2026-11-06 15:19:39
-CNNVD编号: CNNVD-2026-19551346&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-11751309 - Aozora Edgechat 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-11751309</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-11751309</guid><pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate><description>Aozora Edgechat 授权问题漏洞
-危害等级: 中危
-收录时间：2026-11-05 | 更新时间: 2026-11-06 15:19:41
-CNNVD编号: CNNVD-2026-11751309</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-11751309&lt;/p&gt;&lt;pre&gt;Aozora Edgechat 授权问题漏洞
-危害等级: 中危
-收录时间：2026-11-05 | 更新时间: 2026-11-06 15:19:41
-CNNVD编号: CNNVD-2026-11751309&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-31920364 - Apache Juneau 跨站请求伪造漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-31920364</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-31920364</guid><pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate><description>Apache Juneau 跨站请求伪造漏洞
-危害等级: 超危
-收录时间：2026-11-05 | 更新时间: 2026-11-06 15:19:47
-CNNVD编号: CNNVD-2026-31920364</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-31920364&lt;/p&gt;&lt;pre&gt;Apache Juneau 跨站请求伪造漏洞
-危害等级: 超危
-收录时间：2026-11-05 | 更新时间: 2026-11-06 15:19:47
-CNNVD编号: CNNVD-2026-31920364&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-77782271 - Apache Juneau 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-77782271</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-77782271</guid><pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate><description>Apache Juneau 输入验证错误漏洞
-危害等级: 超危
-收录时间：2026-11-05 | 更新时间: 2026-11-06 15:19:48
-CNNVD编号: CNNVD-2026-77782271</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-77782271&lt;/p&gt;&lt;pre&gt;Apache Juneau 输入验证错误漏洞
-危害等级: 超危
-收录时间：2026-11-05 | 更新时间: 2026-11-06 15:19:48
-CNNVD编号: CNNVD-2026-77782271&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-99402649 - Apache OFBiz 代码注入漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-99402649</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-99402649</guid><pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate><description>Apache OFBiz 代码注入漏洞
-危害等级: 高危
-收录时间：2026-11-05 | 更新时间: 2026-11-06 15:19:52
-CNNVD编号: CNNVD-2026-99402649</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-99402649&lt;/p&gt;&lt;pre&gt;Apache OFBiz 代码注入漏洞
-危害等级: 高危
-收录时间：2026-11-05 | 更新时间: 2026-11-06 15:19:52
-CNNVD编号: CNNVD-2026-99402649&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-14937624 - Apache OFBiz 信息泄露漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-14937624</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-14937624</guid><pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate><description>Apache OFBiz 信息泄露漏洞
-危害等级: 超危
-收录时间：2026-11-05 | 更新时间: 2026-11-06 15:19:53
-CNNVD编号: CNNVD-2026-14937624</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-14937624&lt;/p&gt;&lt;pre&gt;Apache OFBiz 信息泄露漏洞
-危害等级: 超危
-收录时间：2026-11-05 | 更新时间: 2026-11-06 15:19:53
-CNNVD编号: CNNVD-2026-14937624&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-53464540 - Apache Juneau 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-53464540</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-53464540</guid><pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate><description>Apache Juneau 跨站脚本漏洞
-危害等级: 超危
-收录时间：2026-11-05 | 更新时间: 2026-11-06 15:19:47
-CNNVD编号: CNNVD-2026-53464540</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-53464540&lt;/p&gt;&lt;pre&gt;Apache Juneau 跨站脚本漏洞
-危害等级: 超危
-收录时间：2026-11-05 | 更新时间: 2026-11-06 15:19:47
-CNNVD编号: CNNVD-2026-53464540&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-55170130 - Apache Sling Engine 处理逻辑错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-55170130</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-55170130</guid><pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate><description>Apache Sling Engine 处理逻辑错误漏洞
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Sun, 08 Nov 2026 06:17:18 +0000</lastBuildDate><item><title>CNNVD-2026-55170130 - Apache Sling Engine 处理逻辑错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-55170130</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-55170130</guid><pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate><description>Apache Sling Engine 处理逻辑错误漏洞
 危害等级: 超危
 收录时间：2026-11-05 | 更新时间: 2026-11-06 15:20:08
 CNNVD编号: CNNVD-2026-55170130</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-55170130&lt;/p&gt;&lt;pre&gt;Apache Sling Engine 处理逻辑错误漏洞
 危害等级: 超危
 收录时间：2026-11-05 | 更新时间: 2026-11-06 15:20:08
-CNNVD编号: CNNVD-2026-55170130&lt;/pre&gt;</content:encoded></item></channel></rss>
+CNNVD编号: CNNVD-2026-55170130&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-83887380 - Apache OFBiz 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-83887380</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-83887380</guid><pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate><description>Apache OFBiz 授权问题漏洞
+危害等级: 高危
+收录时间：2026-11-05 | 更新时间: 2026-11-06 15:20:00
+CNNVD编号: CNNVD-2026-83887380</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-83887380&lt;/p&gt;&lt;pre&gt;Apache OFBiz 授权问题漏洞
+危害等级: 高危
+收录时间：2026-11-05 | 更新时间: 2026-11-06 15:20:00
+CNNVD编号: CNNVD-2026-83887380&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-72076909 - Apache OFBiz 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-72076909</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-72076909</guid><pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate><description>Apache OFBiz 跨站脚本漏洞
+危害等级: 超危
+收录时间：2026-11-05 | 更新时间: 2026-11-06 15:20:05
+CNNVD编号: CNNVD-2026-72076909</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-72076909&lt;/p&gt;&lt;pre&gt;Apache OFBiz 跨站脚本漏洞
+危害等级: 超危
+收录时间：2026-11-05 | 更新时间: 2026-11-06 15:20:05
+CNNVD编号: CNNVD-2026-72076909&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-26564052 - Apache OFBiz 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-26564052</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-26564052</guid><pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate><description>Apache OFBiz 授权问题漏洞
+危害等级: 高危
+收录时间：2026-11-05 | 更新时间: 2026-11-06 15:20:00
+CNNVD编号: CNNVD-2026-26564052</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-26564052&lt;/p&gt;&lt;pre&gt;Apache OFBiz 授权问题漏洞
+危害等级: 高危
+收录时间：2026-11-05 | 更新时间: 2026-11-06 15:20:00
+CNNVD编号: CNNVD-2026-26564052&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-45432203 - Apache OFBiz 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-45432203</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-45432203</guid><pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate><description>Apache OFBiz 输入验证错误漏洞
+危害等级: 高危
+收录时间：2026-11-05 | 更新时间: 2026-11-06 15:20:07
+CNNVD编号: CNNVD-2026-45432203</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-45432203&lt;/p&gt;&lt;pre&gt;Apache OFBiz 输入验证错误漏洞
+危害等级: 高危
+收录时间：2026-11-05 | 更新时间: 2026-11-06 15:20:07
+CNNVD编号: CNNVD-2026-45432203&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-57964069 - Apache OFBiz 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-57964069</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-57964069</guid><pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate><description>Apache OFBiz 资源管理错误漏洞
+危害等级: 超危
+收录时间：2026-11-05 | 更新时间: 2026-11-06 15:20:01
+CNNVD编号: CNNVD-2026-57964069</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-57964069&lt;/p&gt;&lt;pre&gt;Apache OFBiz 资源管理错误漏洞
+危害等级: 超危
+收录时间：2026-11-05 | 更新时间: 2026-11-06 15:20:01
+CNNVD编号: CNNVD-2026-57964069&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-74547515 - Apache OFBiz 路径遍历漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-74547515</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-74547515</guid><pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate><description>Apache OFBiz 路径遍历漏洞
+危害等级: 高危
+收录时间：2026-11-05 | 更新时间: 2026-11-06 15:20:06
+CNNVD编号: CNNVD-2026-74547515</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-74547515&lt;/p&gt;&lt;pre&gt;Apache OFBiz 路径遍历漏洞
+危害等级: 高危
+收录时间：2026-11-05 | 更新时间: 2026-11-06 15:20:06
+CNNVD编号: CNNVD-2026-74547515&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-18477033 - Apache OFBiz 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-18477033</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-18477033</guid><pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate><description>Apache OFBiz 授权问题漏洞
+危害等级: 高危
+收录时间：2026-11-05 | 更新时间: 2026-11-06 15:19:54
+CNNVD编号: CNNVD-2026-18477033</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-18477033&lt;/p&gt;&lt;pre&gt;Apache OFBiz 授权问题漏洞
+危害等级: 高危
+收录时间：2026-11-05 | 更新时间: 2026-11-06 15:19:54
+CNNVD编号: CNNVD-2026-18477033&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-55799311 - Apache OFBiz 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-55799311</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-55799311</guid><pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate><description>Apache OFBiz 授权问题漏洞
+危害等级: 中危
+收录时间：2026-11-05 | 更新时间: 2026-11-06 15:19:53
+CNNVD编号: CNNVD-2026-55799311</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-55799311&lt;/p&gt;&lt;pre&gt;Apache OFBiz 授权问题漏洞
+危害等级: 中危
+收录时间：2026-11-05 | 更新时间: 2026-11-06 15:19:53
+CNNVD编号: CNNVD-2026-55799311&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-76596742 - Apache OFBiz 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-76596742</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-76596742</guid><pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate><description>Apache OFBiz 输入验证错误漏洞
+危害等级: 高危
+收录时间：2026-11-05 | 更新时间: 2026-11-06 15:20:06
+CNNVD编号: CNNVD-2026-76596742</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-76596742&lt;/p&gt;&lt;pre&gt;Apache OFBiz 输入验证错误漏洞
+危害等级: 高危
+收录时间：2026-11-05 | 更新时间: 2026-11-06 15:20:06
+CNNVD编号: CNNVD-2026-76596742&lt;/pre&gt;</content:encoded></item></channel></rss>

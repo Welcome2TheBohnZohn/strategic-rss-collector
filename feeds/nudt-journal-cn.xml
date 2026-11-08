@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>National University of Defense Technology Journal</title><link>https://journal.nudt.edu.cn/</link><description>Generated RSS feed for National University of Defense Technology Journal</description><language>zh-CN</language><lastBuildDate>Sat, 07 Nov 2026 22:03:40 +0000</lastBuildDate><item><title>国防科技大学微纳光电子与智能感知课题组 | 物理先验结合深度学习的偏振3D重建方法</title><link>https://mp.weixin.qq.com/s/47qqb9QvcE7ZxS0CuGC5pA</link><guid isPermaLink="false">https://mp.weixin.qq.com/s/47qqb9QvcE7ZxS0CuGC5pA</guid><pubDate>Mon, 02 Nov 2026 03:11:00 +0000</pubDate><description>现有三维重建技术普遍受限于昂贵的专业采集设备、对光照条件的严格要求，以及在实时应用场景中的适配性不足。为解决这一问题， 国防科技大学微纳光电子与智能感知课题组 发表 《 物理先验结合深度学习的偏振3D重建方法》 （点击论文标题可阅读全文） ， 基于菲涅耳反射定律，提出一种融合偏振光学特性与深度学习的FUNet模型。该模型以四通道偏振图像作为输入，通过一种可传播梯度的特殊设计，对菲涅耳反射模型进行逆问题求解，从而提取表面法线的物理先验知识，并借助深度神经网络对物理先验知识进行优化。该模型结合偏振图像与表面法线之间的物理关联性以及深度学习的高效数据拟合能力，实现对目标表面法线的快速精确估计。在DeepSfP数据集上的实验结果表明，模型在测试集上平均角度误差为11.49°，显著优于传统方法，从而为低成本、鲁棒性的偏振3D重建提供高效可行的技术思路。
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>National University of Defense Technology Journal</title><link>https://journal.nudt.edu.cn/</link><description>Generated RSS feed for National University of Defense Technology Journal</description><language>zh-CN</language><lastBuildDate>Sun, 08 Nov 2026 06:14:42 +0000</lastBuildDate><item><title>国防科技大学微纳光电子与智能感知课题组 | 物理先验结合深度学习的偏振3D重建方法</title><link>https://mp.weixin.qq.com/s/47qqb9QvcE7ZxS0CuGC5pA</link><guid isPermaLink="false">https://mp.weixin.qq.com/s/47qqb9QvcE7ZxS0CuGC5pA</guid><pubDate>Mon, 02 Nov 2026 03:11:00 +0000</pubDate><description>现有三维重建技术普遍受限于昂贵的专业采集设备、对光照条件的严格要求，以及在实时应用场景中的适配性不足。为解决这一问题， 国防科技大学微纳光电子与智能感知课题组 发表 《 物理先验结合深度学习的偏振3D重建方法》 （点击论文标题可阅读全文） ， 基于菲涅耳反射定律，提出一种融合偏振光学特性与深度学习的FUNet模型。该模型以四通道偏振图像作为输入，通过一种可传播梯度的特殊设计，对菲涅耳反射模型进行逆问题求解，从而提取表面法线的物理先验知识，并借助深度神经网络对物理先验知识进行优化。该模型结合偏振图像与表面法线之间的物理关联性以及深度学习的高效数据拟合能力，实现对目标表面法线的快速精确估计。在DeepSfP数据集上的实验结果表明，模型在测试集上平均角度误差为11.49°，显著优于传统方法，从而为低成本、鲁棒性的偏振3D重建提供高效可行的技术思路。
 
 赵芬, 向秦, 陈杰, 等. 物理先验结合深度学习的偏振3D重建方法[J]. 国防科技大学学报, 2026, 48(5): 57 -67.
 
@@ -1594,8 +1594,11 @@ Niu Yaobin, Yang Weiqi, Huang Wei. Gust response alleviation of aircraft wing ae
 Copy
 计量
 文章访问量:
+176
 HTML全文浏览量:
+171
 PDF下载量:
+257
 被引次数:
 图
 1
@@ -1700,7 +1703,7 @@ Theodorsen T. General theory of aerodynamic instability and the mechanism of flu
 扫码关注
 官方微信
 您是今天第
-1141
+3653
 位访客
 总访问量：
 329793269
@@ -2578,11 +2581,11 @@ LI Zhigang, QIU Zhinan, WANG Jiachun, et al. Study of high-power microwave prote
 Copy
 计量
 文章访问量:
-29591
+29595
 HTML全文浏览量:
-4219
+4223
 PDF下载量:
-10089
+10090
 被引次数:
 0
 图
@@ -2655,7 +2658,7 @@ HE W, LIU X H, XIAN R C,et al. Kinetics characteristics and bremsstrahlung of ar
 扫码关注
 官方微信
 您是今天第
-1143
+3654
 位访客
 总访问量：
 329793269
