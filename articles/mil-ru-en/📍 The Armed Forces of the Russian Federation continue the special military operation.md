@@ -1,36 +1,33 @@
 # 📍 The Armed Forces of the Russian Federation continue the special military operation.
 
-Published: 2026-11-07 10:00:27
+Published: 2026-11-08 09:29:36
 
-Source: https://t.me/mod_russia_en/30481
+Source: https://t.me/mod_russia_en/30495
 
 The Armed Forces of the Russian Federation continue the special military operation.
 📍
-The Sever Group of Forces improved its tactical situation.
-In Kharkov region, strikes were delivered at manpower and hardware of three mechanised brigades, one motorised infantry brigade, two assault regiments of the Armed Forces of Ukraine, and one territorial defence brigade close to Khatneye, Izbitskoye, Bugayevka, Pogoreloye, Velikiy Burluk, and Kolodeznoye.
+The Sever Group of Forces improved its tactical situation
+. In Kharkov region, strikes were delivered at manpower and hardware of six mechanised brigades, a motorised infantry brigade, two unmanned systems brigades, and two assault regiments of the Armed Forces of Ukraine near Khatneye, Makarovo, Dolzhik, Shevchenkovo, Bugayevka, Martovoye, Kolodeznoye, and Velikiy Burluk (Kharkov region).
 💥
-In addition,
-in Sumy region,
-formations of one mechanised brigade and two airmobile brigades of the AFU
-have been hit
-near Mikhaylovskoye, Vakalovshchina, Bititsa and Sumy.
+Moreover
+, units of two mechanised brigades of the Armed Forces of Ukraine and four territorial defence brigades have been hit near Shostka, Putivl, Vakalovshchina, Velikaiya Rybitsa (Sumy region) and the city of Sumy.
 ▪️
-The enemy lost more than 150 troops, one armoured fighting vehicle, 14 motor vehicles, and three electronic warfare stations.
+The enemy lost up to 170 troops, 11 motor vehicles, a U.S.-made 105-mm M101 howitzer, two counter-fire radars, and two electronic warfare stations.
 ↗️
-The Zapad Group of Forces improved the situation along the front line.
-Russian elements have delivered strikes at manpower and hardware of two mechanised brigades of the AFU and one territorial defence brigade near Maleyevka, Monachinovka, Nechvolodovka (Kharkov region) and Mayaki (Donetsk People's Republic).
+The Zapad Group of Forces improved the situation along the front line
+. Manpower and hardware of a mechanised brigade, an assault brigade, an airmobile brigade of the Armed Forces of Ukraine, and a territorial defence brigade have been hit close to Lesnya Stenka, Maleyevka (Kharkov region), Volchiy Yar, Ilichovka, and Mayaki (Donetsk People's Republic).
 ▪️
-The AFU losses amounted to more than 220 troops, two armoured fighting vehicles, 14 motor vehicles, one field artillery gun, and two electronic warfare stations.
+The AFU losses amounted to more than 230 troops, one British-made Mastiff armoured vehicle, one Canadian-made Senator armoured personnel carrier, 14 motor vehicles, two field artillery guns, and one counter-fire radar.
 📍
-Units of the Yuzhnaya Group of Forces improved the tactical situation.
-Strikes have been delivered at formations of two mechanised brigades, one motorised infantry brigade, one airmobile brigade, one mountain assault brigades of the AFU, one marine brigade, and one territorial defence brigade near Kramatorsk, Slavyansk, Semenovka, Nikolayevka, and Starodubovka (Donetsk People's Republic).
+Units of the Yuzhnaya Group of Forces improved the tactical situation
+. Strikes were delivered at formations of six mechanised brigades, an airmobile brigade, two assault regiments of the Armed Forces of Ukraine, and two marine brigades close to Kramatorsk, Belenkoye, Slavyansk, Krasny Molochar, Nikolayevka, Druzhkovka, and Raygorodok (Donetsk People's Republic).
 ▪️
-The AFU losses amounted to up to 200 troops, two armoured fighting vehicles, 25 motor vehicles, and two electronic warfare stations.
+The AFU losses amounted to more than 170 troops, 24 motor vehicles, and one Bogdana self-propelled artillery system.
 ↗️
-The Tsentr Group of Forces took more advantageous lines and positions.
-Manpower and hardware of two mechanised brigades of the AFU, one marine brigade and two national guard brigades have been hit near Novopavlovka, Kamenka, Andreyevka, Belozerskoye, Veselaya Gora, Krivorozhye, Yakovlevka, Roganskoye (Donetsk People's Republic), and Ivanovka (Dnepropetrovsk region).
+The Tsentr Group of Forces took more advantageous lines and positions
+. Strikes were delivered at manpower and hardware of two mechanised brigades, a jaeger brigade, an airborne brigade, two assault regiments of the Armed Forces of Ukraine, two marine brigades, four national guard brigades, and the Azov Special Operations Brigade near Novopavlovka, Kamenka, Sergeyevka, Krinitsy, Belozerskoye, Uritskoye, Verovka, Krivorozhye, Yakovlevka, Roganskoye in the Donetsk People's Republic, Andronovka, and Fedorovskoye (Dnepropetrovsk region).
 ▪️
-The AFU losses amounted to up to 345 troops, five armoured fighting vehicles, four motor vehicles, and two electronic warfare stations.
+The AFU losses amounted to more than 340 troops, three armoured personnel carriers, six armoured fighting vehicles, 10 motor vehicles, one artillery gun, and seven electronic warfare stations.
 👉
 See
 Part 2
