@@ -1,29 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>National University of Defense Technology Journal</title><link>https://journal.nudt.edu.cn/</link><description>Generated RSS feed for National University of Defense Technology Journal</description><language>zh-CN</language><lastBuildDate>Mon, 09 Nov 2026 06:46:39 +0000</lastBuildDate><item><title>国防科技大学微纳光电子与智能感知课题组 | 物理先验结合深度学习的偏振3D重建方法</title><link>https://mp.weixin.qq.com/s/47qqb9QvcE7ZxS0CuGC5pA</link><guid isPermaLink="false">https://mp.weixin.qq.com/s/47qqb9QvcE7ZxS0CuGC5pA</guid><pubDate>Mon, 02 Nov 2026 03:11:00 +0000</pubDate><description>现有三维重建技术普遍受限于昂贵的专业采集设备、对光照条件的严格要求，以及在实时应用场景中的适配性不足。为解决这一问题， 国防科技大学微纳光电子与智能感知课题组 发表 《 物理先验结合深度学习的偏振3D重建方法》 （点击论文标题可阅读全文） ， 基于菲涅耳反射定律，提出一种融合偏振光学特性与深度学习的FUNet模型。该模型以四通道偏振图像作为输入，通过一种可传播梯度的特殊设计，对菲涅耳反射模型进行逆问题求解，从而提取表面法线的物理先验知识，并借助深度神经网络对物理先验知识进行优化。该模型结合偏振图像与表面法线之间的物理关联性以及深度学习的高效数据拟合能力，实现对目标表面法线的快速精确估计。在DeepSfP数据集上的实验结果表明，模型在测试集上平均角度误差为11.49°，显著优于传统方法，从而为低成本、鲁棒性的偏振3D重建提供高效可行的技术思路。
-
-赵芬, 向秦, 陈杰, 等. 物理先验结合深度学习的偏振3D重建方法[J]. 国防科技大学学报, 2026, 48(5): 57 -67.
-
-Zhao Fen, Xiang Qin, Chen Jie, et al. Polarization 3D reconstruction method based on physics prior knowledge and deep learning[J]. Journal of National University of Defense Technology, 2026, 48(5): 57-67.
-
-赵芬 ，博士、副教授、硕士生导师，国防科技大学博士后。国家自然科学基金项目负责人。长期从事智能系统与工程、微纳光电子与智能感知、光电融合计算等研究。主持国家自然科学基金、中国博士后科学基金面上项目及重庆市自然科学基金等项目，参与多项国家级重大科研项目。在 Photonics Research 、 Nanophotonics 、 Optics and Laser Technology 等期刊发表论文30余篇。
-
-杨俊波（通信作者） ，国防科技大学教授，博士生导师。教育部新世纪优秀人才，入选全球前2%顶尖科学家榜单。主要从事微纳光电子、光信息处理、超表面与人工智能辅助逆向设计等研究，主持国家863计划项目、国家自然科学基金、国家重点研发计划课题等科研项目20余项。在 Nano Letters 、 ACS Photonics 、 Photonics Research 等国际权威期刊发表SCI/EI论文200余篇，多项成果入选ESI高被引前1‰及中国光学重要成果，获军队科技进步奖三等奖。担任中国宇航学会光电技术专业委员会常务委员、湖南省光学学会理事等学术职务。
-
-国防科技大学微纳光电子与智能感知课题组 长期围绕光信息处理、微纳光电子集成、新型二维材料及超表面器件等方向开展系统深入的研究，致力于探索从材料生长、器件设计到系统集成的全链条关键技术。团队聚焦硅基光子芯片、石墨烯及范德华异质结光电器件、表面等离激元与超材料调控、片上光互连与智能感知等前沿领域，在窄带滤波、波束扫描、量子光源、拓扑光子学等方向取得系列创新成果。近年来，团队承担国家自然科学基金项目和创新特区项目等国家重点课题，获得国家和军队科技成果奖励，获授权国家发明专利多项，相关成果为新一代光通信、红外探测与智能感知提供重要技术支撑。
-
-当前内容可能存在未经审核的第三方商业营销信息，请确认是否继续访问。</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://mp.weixin.qq.com/s/47qqb9QvcE7ZxS0CuGC5pA&lt;/p&gt;&lt;pre&gt;现有三维重建技术普遍受限于昂贵的专业采集设备、对光照条件的严格要求，以及在实时应用场景中的适配性不足。为解决这一问题， 国防科技大学微纳光电子与智能感知课题组 发表 《 物理先验结合深度学习的偏振3D重建方法》 （点击论文标题可阅读全文） ， 基于菲涅耳反射定律，提出一种融合偏振光学特性与深度学习的FUNet模型。该模型以四通道偏振图像作为输入，通过一种可传播梯度的特殊设计，对菲涅耳反射模型进行逆问题求解，从而提取表面法线的物理先验知识，并借助深度神经网络对物理先验知识进行优化。该模型结合偏振图像与表面法线之间的物理关联性以及深度学习的高效数据拟合能力，实现对目标表面法线的快速精确估计。在DeepSfP数据集上的实验结果表明，模型在测试集上平均角度误差为11.49°，显著优于传统方法，从而为低成本、鲁棒性的偏振3D重建提供高效可行的技术思路。
-
-赵芬, 向秦, 陈杰, 等. 物理先验结合深度学习的偏振3D重建方法[J]. 国防科技大学学报, 2026, 48(5): 57 -67.
-
-Zhao Fen, Xiang Qin, Chen Jie, et al. Polarization 3D reconstruction method based on physics prior knowledge and deep learning[J]. Journal of National University of Defense Technology, 2026, 48(5): 57-67.
-
-赵芬 ，博士、副教授、硕士生导师，国防科技大学博士后。国家自然科学基金项目负责人。长期从事智能系统与工程、微纳光电子与智能感知、光电融合计算等研究。主持国家自然科学基金、中国博士后科学基金面上项目及重庆市自然科学基金等项目，参与多项国家级重大科研项目。在 Photonics Research 、 Nanophotonics 、 Optics and Laser Technology 等期刊发表论文30余篇。
-
-杨俊波（通信作者） ，国防科技大学教授，博士生导师。教育部新世纪优秀人才，入选全球前2%顶尖科学家榜单。主要从事微纳光电子、光信息处理、超表面与人工智能辅助逆向设计等研究，主持国家863计划项目、国家自然科学基金、国家重点研发计划课题等科研项目20余项。在 Nano Letters 、 ACS Photonics 、 Photonics Research 等国际权威期刊发表SCI/EI论文200余篇，多项成果入选ESI高被引前1‰及中国光学重要成果，获军队科技进步奖三等奖。担任中国宇航学会光电技术专业委员会常务委员、湖南省光学学会理事等学术职务。
-
-国防科技大学微纳光电子与智能感知课题组 长期围绕光信息处理、微纳光电子集成、新型二维材料及超表面器件等方向开展系统深入的研究，致力于探索从材料生长、器件设计到系统集成的全链条关键技术。团队聚焦硅基光子芯片、石墨烯及范德华异质结光电器件、表面等离激元与超材料调控、片上光互连与智能感知等前沿领域，在窄带滤波、波束扫描、量子光源、拓扑光子学等方向取得系列创新成果。近年来，团队承担国家自然科学基金项目和创新特区项目等国家重点课题，获得国家和军队科技成果奖励，获授权国家发明专利多项，相关成果为新一代光通信、红外探测与智能感知提供重要技术支撑。
-
-当前内容可能存在未经审核的第三方商业营销信息，请确认是否继续访问。&lt;/pre&gt;</content:encoded></item><item><title>多核数字信号处理器矩阵乘卷积算法性能评测</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/202301009?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/202301009?tab=abstract</guid><pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate><description>(1. 国防科技大学 计算机学院, 湖南 长沙 410073;2. 国防科技大学 并行与分布处理国防科技重点实验室, 湖南 长沙 410073)
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>National University of Defense Technology Journal</title><link>https://journal.nudt.edu.cn/</link><description>Generated RSS feed for National University of Defense Technology Journal</description><language>zh-CN</language><lastBuildDate>Mon, 09 Nov 2026 22:33:57 +0000</lastBuildDate><item><title>多核数字信号处理器矩阵乘卷积算法性能评测</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/202301009?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/202301009?tab=abstract</guid><pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate><description>(1. 国防科技大学 计算机学院, 湖南 长沙 410073;2. 国防科技大学 并行与分布处理国防科技重点实验室, 湖南 长沙 410073)
 
 王庆林(1987—),男,贵州思南人,副研究员,博士,硕士生导师,E-mail:wangqinglin_thu@163.com; 裴向东(通信作者),男,山西长治人,博士研究生,E-mail:18903588277@163.com
 
@@ -113,7 +89,15 @@ The waverider is considered as an important candidate for the configuration of h
 
 The waverider is considered as an important candidate for the configuration of hypersonic glide vehicle (HGV) in terms of its high lift-to-drag ratio. Due to the severe aerodynamic heating, the sharp leading edge of waverider need be blunted, and the flow characteristics and the aerodynamic performance along the trajectory will change. In the current research, the flow characteristic of a HGV was studied based on a reference trajectory, and a numerical simulation was carried out to evaluate the performance of HGV with a blunt leading edge under a typical condition. The result indicates that the flow near the stagnation point exhibits three-dimensionality which cannot be approximated as a flow around a sphere or cylinder; the heat flux can be reduced and the aerodynamic performance of HGV may decrease as well when the leading edge is blunted: under the condition of 2 cm radii, the lift-to-drag ratio reduces by 12.34%, and different thermal protection methods can be used in different places of HGV.
 
-刘建霞，侯中喜，陈小庆，等.高超声速滑翔飞行器气动性能的数值模拟研究[J].国防科技大学学报,2012,34(4):22-27. LIU Jianxia, HOU Zhongxi, CHEN Xiaoqing, et al. Numerical simulation on the aerodynamic performance of hypersonic glide vehicle[J]. Journal of National University of Defense Technology,2012,34(4):22-27.&lt;/pre&gt;</content:encoded></item><item><title>采用碰振吸振子的高速机翼气动弹性系统阵风响应减缓</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260519?st=search&amp;tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260519?st=search&amp;tab=abstract</guid><description>采用碰振吸振子的高速机翼气动弹性系统阵风响应减缓
+刘建霞，侯中喜，陈小庆，等.高超声速滑翔飞行器气动性能的数值模拟研究[J].国防科技大学学报,2012,34(4):22-27. LIU Jianxia, HOU Zhongxi, CHEN Xiaoqing, et al. Numerical simulation on the aerodynamic performance of hypersonic glide vehicle[J]. Journal of National University of Defense Technology,2012,34(4):22-27.&lt;/pre&gt;</content:encoded></item><item><title>导弹防御系统中的雷达目标识别研究</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/200404002?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/200404002?tab=abstract</guid><pubDate>Thu, 19 Feb 2004 00:00:00 +0000</pubDate><description>以评估美国国家导弹防御(NMD)系统雷达识别能力为背景，分析了地基雷达识别弹道导弹目标的技术途径。根据弹道导弹目标群在飞行中段和再入段表现出的特性差异，提出了涉及目标结构特性、姿态特性以及再入特性的综合识别策略，并初步分析了各种识别措施的可行性。
+
+The technology of the radar discriminating ballistic missile is analyzed so as to evaluate the discrimination capability of ground-based radars in the US National Missile Defense (NMD). According to the characteristics of the ballistic target clusters during the mid-course and re-entry phase, an integrative discrimination strategy for the missile defense system is developed which involves the structure, stance and re-entry characteristics of the target, and each discrimination measure is followed by technical evaluation.
+
+刘永祥，黎湘，庄钊文.导弹防御系统中的雷达目标识别研究[J].国防科技大学学报,2004,26(4):6-9. LIU Yongxiang, LI Xiang, ZHUANG Zhaowen. Research on Radar Target Discrimination in the Missile Defense System[J]. Journal of National University of Defense Technology,2004,26(4):6-9.</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/200404002?tab=abstract&lt;/p&gt;&lt;pre&gt;以评估美国国家导弹防御(NMD)系统雷达识别能力为背景，分析了地基雷达识别弹道导弹目标的技术途径。根据弹道导弹目标群在飞行中段和再入段表现出的特性差异，提出了涉及目标结构特性、姿态特性以及再入特性的综合识别策略，并初步分析了各种识别措施的可行性。
+
+The technology of the radar discriminating ballistic missile is analyzed so as to evaluate the discrimination capability of ground-based radars in the US National Missile Defense (NMD). According to the characteristics of the ballistic target clusters during the mid-course and re-entry phase, an integrative discrimination strategy for the missile defense system is developed which involves the structure, stance and re-entry characteristics of the target, and each discrimination measure is followed by technical evaluation.
+
+刘永祥，黎湘，庄钊文.导弹防御系统中的雷达目标识别研究[J].国防科技大学学报,2004,26(4):6-9. LIU Yongxiang, LI Xiang, ZHUANG Zhaowen. Research on Radar Target Discrimination in the Missile Defense System[J]. Journal of National University of Defense Technology,2004,26(4):6-9.&lt;/pre&gt;</content:encoded></item><item><title>采用碰振吸振子的高速机翼气动弹性系统阵风响应减缓</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260519?st=search&amp;tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260519?st=search&amp;tab=abstract</guid><description>采用碰振吸振子的高速机翼气动弹性系统阵风响应减缓
 EI•CA•INSPEC•JST•SCOPUS
 中文核心期刊•CSCD•WJCI
 首页
@@ -1529,10 +1513,10 @@ Theodorsen T. General theory of aerodynamic instability and the mechanism of flu
 扫码关注
 官方微信
 您是今天第
-5278
+4287
 位访客
 总访问量：
-329793269
+335542776
 电话：
 0731-87028030
 邮箱:journal@nudt.edu.cn
@@ -2407,13 +2391,12 @@ LI Zhigang, QIU Zhinan, WANG Jiachun, et al. Study of high-power microwave prote
 Copy
 计量
 文章访问量:
-29612
+29630
 HTML全文浏览量:
-4241
+4258
 PDF下载量:
-10099
+10103
 被引次数:
-0
 图
 1
 高功率微波与柱状等离子体阵列相互作用的仿真计算模型示意图
@@ -2484,10 +2467,10 @@ HE W, LIU X H, XIAN R C,et al. Kinetics characteristics and bremsstrahlung of ar
 扫码关注
 官方微信
 您是今天第
-5279
+4290
 位访客
 总访问量：
-329793269
+335542776
 电话：
 0731-87028030
 邮箱:journal@nudt.edu.cn
