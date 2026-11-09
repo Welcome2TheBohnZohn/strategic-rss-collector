@@ -22,8 +22,6 @@ http://www.mod.gov.cn/gfbw/qwfb/16498366.html
   “攻击-21”无人机在四川舰成功起降是我军新域新质作战力量建设重要阶段性成果
 http://www.mod.gov.cn/gfbw/gffw/16497951.html
   云南省军地开展“为困难退役军人送温暖”帮扶活动——关怀送上门 情暖老兵心
-http://www.mod.gov.cn/gfbw/gffw/16497751.html
-  云南省在红军长征途经地开展老兵帮扶专项行动 云岭传薪火 优抚暖人心
 http://www.mod.gov.cn/gfbw/gfjy_index/16498314.html
   在习近平强军思想指引下·走好新时代的长征路丨“北上先锋”赤胆踏新程
 http://www.mod.gov.cn/gfbw/gfdy/16497996.html
@@ -88,6 +86,8 @@ http://www.mod.gov.cn/gfbw/qwfb/16498595.html
   习近平参加北京市区人大代表换届选举投票
 http://www.mod.gov.cn/gfbw/qwfb/16498370.html
   2026年11月上旬国防部例行新闻发布
+http://www.mod.gov.cn/gfbw/qwfb/16498849.html
+  习近平致电祝贺约托娃当选保加利亚总统
 http://www.mod.gov.cn/gfbw/jswj/16497562.html
   中国海军“吉祥方舟”号医院船访问多哥
 http://www.mod.gov.cn/gfbw/wzll/16498574.html
@@ -96,6 +96,8 @@ http://www.mod.gov.cn/gfbw/jmsd/16498696.html
   强军论坛丨坚持以党的政治建设为统领
 http://www.mod.gov.cn/gfbw/tp_214132/16497193.html
   武警第二机动总队某支队开展机降训练
+http://www.mod.gov.cn/gfbw/gffw/16498801.html
+  新时代征兵工作阔步迈向高质量发展
 http://www.mod.gov.cn/gfbw/fgwx/16448582.html
   中华人民共和国民族团结进步促进法
 http://www.mod.gov.cn/gfbw/sy/rt/16497216.html
@@ -108,8 +110,6 @@ http://www.mod.gov.cn/gfbw/xwfyr/16496899.html
   国防部介绍那曲抗震救灾一线情况
 http://www.mod.gov.cn/gfbw/jmsd/16498307.html
   强军论坛丨夯实崇廉拒腐思想根基
-http://www.mod.gov.cn/gfbw/sy/jt_214028/16498298.html
-  海军航空大学某团开展飞行训练
 
 === ALL DISCOVERED LINKS ===
 
@@ -310,6 +310,8 @@ http://www.mod.gov.cn/gfbw/sy/rt/16497565.html
   习近平同阿曼苏丹海赛姆会谈
 http://www.mod.gov.cn/gfbw/sy/rt/16497216.html
   习近平同德国总统施泰因迈尔会谈
+http://www.mod.gov.cn/gfbw/qwfb/16498849.html
+  习近平致电祝贺约托娃当选保加利亚总统
 http://www.mod.gov.cn/gfbw/qwfb/16498595.html
   习近平参加北京市区人大代表换届选举投票
 http://www.mod.gov.cn/gfbw/qwfb/16498499.html
@@ -320,8 +322,6 @@ http://www.mod.gov.cn/gfbw/qwfb/16498497.html
   习近平会见奥地利总理施托克尔
 http://www.mod.gov.cn/gfbw/qwfb/16498343.html
   习近平复信澳大利亚青年学生
-http://www.mod.gov.cn/gfbw/qwfb/16498347.html
-  国家主席习近平任免驻外大使
 http://www.mod.gov.cn/gfbw/qwfb/16498370.html
   2026年11月上旬国防部例行新闻发布
 http://www.mod.gov.cn/gfbw/qwfb/16498364.html
@@ -387,12 +387,12 @@ http://cbs.81.cn/
 https://weibo.com/u/5611549371
 http://www.mod.gov.cn/gfbw/gffw/16469120.html
   速览！2026年军校招生政策解读，你想知道的都在这里→
+http://www.mod.gov.cn/gfbw/gffw/16498801.html
+  新时代征兵工作阔步迈向高质量发展
 http://www.mod.gov.cn/gfbw/gffw/16497951.html
   云南省军地开展“为困难退役军人送温暖”帮扶活动——关怀送上门 情暖老兵心
 http://www.mod.gov.cn/gfbw/gffw/16497943.html
   “军属的难题马上解决”
-http://www.mod.gov.cn/gfbw/gffw/16497751.html
-  云南省在红军长征途经地开展老兵帮扶专项行动 云岭传薪火 优抚暖人心
 http://www.mod.gov.cn/gfbw/fgwx/16482045.html
   中华人民共和国国防动员法
 http://www.mod.gov.cn/gfbw/fgwx/16482016.html
@@ -419,8 +419,8 @@ http://www.mod.gov.cn/gfbw/gfdy/16497997.html
   安徽省滁州市军供保障中心提高服务能力——自动化炊事设备增效率
 http://www.mod.gov.cn/gfbw/gfdy/16497996.html
   推动落实适应国防动员需要的数据服务保障制度——“吹尽狂沙始到金”
-http://www.mod.gov.cn/gfbw/gfjy_index/16496427.html
-  军报记者寻根行丨清澈的初心
+http://www.mod.gov.cn/gfbw/gfjy_index/16498839.html
+  新长征，我们都是接棒人
 http://www.mod.gov.cn/gfbw/gfjy_index/16498694.html
   各地各部队广泛开展“长征路上军民情”活动
 http://www.mod.gov.cn/gfbw/gfjy_index/16498608.html
@@ -528,7 +528,7 @@ http://www.mod.gov.cn/gfbw/gffw/_attachment/2026/06/23/16469120_2c1b5255a439fe69
 http://www.mod.gov.cn/gfbw/fgwx/_attachment/2026/08/29/16482045_39fe87031f5e43b702cd40c766cbb855.jpg
 http://www.mod.gov.cn/gfbw/jmsd/_attachment/2026/11/02/16497516_cdf7c1e440c1e9b0ecea3577eaa1b071.png
 http://www.mod.gov.cn/gfbw/gfdy/_attachment/2026/09/20/16487706_b3976ec10633c6611756bb8b41668750.png
-http://www.mod.gov.cn/gfbw/gfjy_index/_attachment/2026/10/27/16496427_24b270398e4f6d1417d0e28bebac7b85.jpg
+http://www.mod.gov.cn/gfbw/gfjy_index/_attachment/2026/11/09/16498839_a929662d3048c0cf2c9aaa2e0e42334e.jpg
 http://www.mod.gov.cn/gfbw/zt/_attachment/2026/08/20/16479151_1572281a51f5ab63ef863d55fdea15e0.jpg
 http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/11/08/16498689_5037f8f2f1bfccc5b137fbd115e923e0.jpg
 http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/11/06/16498602_4508e2c5a1355ffcac54c91f870c3cae.jpg

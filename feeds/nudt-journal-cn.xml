@@ -1,5 +1,55 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>National University of Defense Technology Journal</title><link>https://journal.nudt.edu.cn/</link><description>Generated RSS feed for National University of Defense Technology Journal</description><language>zh-CN</language><lastBuildDate>Sun, 08 Nov 2026 22:17:04 +0000</lastBuildDate><item><title>多传感器信息融合理论在无人机相对导航中的应用</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201705015?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201705015?tab=abstract</guid><pubDate>Mon, 20 Jun 2016 00:00:00 +0000</pubDate><description>为提升无人机的作战效能和作战指标，提升无人机的相对导航精度和导航系统可靠性，以无人机编队的相对导航系统为研究背景，基于容积卡尔曼滤波算法和信息滤波算法，研究容积信息滤波算法。此外，还采用多传感器信息融合理论，利用分布式信息融合结构构建了无人机相对导航滤波器，对来自惯导、视觉和卫星的信息进行融合，获取无人机间的相对位置、速度和姿态信息。该方法提升了无人机相对导航的导航精度、导航可靠性和滤波稳定性，容积信息滤波算法的应用避免了传统滤波算法在高维系统中出现的数值不稳定以及精度降低等问题。数学仿真结果表明，该方法提高了无人机编队之间相对导航的精度和可靠性，证明了算法的有效性。
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>National University of Defense Technology Journal</title><link>https://journal.nudt.edu.cn/</link><description>Generated RSS feed for National University of Defense Technology Journal</description><language>zh-CN</language><lastBuildDate>Mon, 09 Nov 2026 06:46:39 +0000</lastBuildDate><item><title>国防科技大学微纳光电子与智能感知课题组 | 物理先验结合深度学习的偏振3D重建方法</title><link>https://mp.weixin.qq.com/s/47qqb9QvcE7ZxS0CuGC5pA</link><guid isPermaLink="false">https://mp.weixin.qq.com/s/47qqb9QvcE7ZxS0CuGC5pA</guid><pubDate>Mon, 02 Nov 2026 03:11:00 +0000</pubDate><description>现有三维重建技术普遍受限于昂贵的专业采集设备、对光照条件的严格要求，以及在实时应用场景中的适配性不足。为解决这一问题， 国防科技大学微纳光电子与智能感知课题组 发表 《 物理先验结合深度学习的偏振3D重建方法》 （点击论文标题可阅读全文） ， 基于菲涅耳反射定律，提出一种融合偏振光学特性与深度学习的FUNet模型。该模型以四通道偏振图像作为输入，通过一种可传播梯度的特殊设计，对菲涅耳反射模型进行逆问题求解，从而提取表面法线的物理先验知识，并借助深度神经网络对物理先验知识进行优化。该模型结合偏振图像与表面法线之间的物理关联性以及深度学习的高效数据拟合能力，实现对目标表面法线的快速精确估计。在DeepSfP数据集上的实验结果表明，模型在测试集上平均角度误差为11.49°，显著优于传统方法，从而为低成本、鲁棒性的偏振3D重建提供高效可行的技术思路。
+
+赵芬, 向秦, 陈杰, 等. 物理先验结合深度学习的偏振3D重建方法[J]. 国防科技大学学报, 2026, 48(5): 57 -67.
+
+Zhao Fen, Xiang Qin, Chen Jie, et al. Polarization 3D reconstruction method based on physics prior knowledge and deep learning[J]. Journal of National University of Defense Technology, 2026, 48(5): 57-67.
+
+赵芬 ，博士、副教授、硕士生导师，国防科技大学博士后。国家自然科学基金项目负责人。长期从事智能系统与工程、微纳光电子与智能感知、光电融合计算等研究。主持国家自然科学基金、中国博士后科学基金面上项目及重庆市自然科学基金等项目，参与多项国家级重大科研项目。在 Photonics Research 、 Nanophotonics 、 Optics and Laser Technology 等期刊发表论文30余篇。
+
+杨俊波（通信作者） ，国防科技大学教授，博士生导师。教育部新世纪优秀人才，入选全球前2%顶尖科学家榜单。主要从事微纳光电子、光信息处理、超表面与人工智能辅助逆向设计等研究，主持国家863计划项目、国家自然科学基金、国家重点研发计划课题等科研项目20余项。在 Nano Letters 、 ACS Photonics 、 Photonics Research 等国际权威期刊发表SCI/EI论文200余篇，多项成果入选ESI高被引前1‰及中国光学重要成果，获军队科技进步奖三等奖。担任中国宇航学会光电技术专业委员会常务委员、湖南省光学学会理事等学术职务。
+
+国防科技大学微纳光电子与智能感知课题组 长期围绕光信息处理、微纳光电子集成、新型二维材料及超表面器件等方向开展系统深入的研究，致力于探索从材料生长、器件设计到系统集成的全链条关键技术。团队聚焦硅基光子芯片、石墨烯及范德华异质结光电器件、表面等离激元与超材料调控、片上光互连与智能感知等前沿领域，在窄带滤波、波束扫描、量子光源、拓扑光子学等方向取得系列创新成果。近年来，团队承担国家自然科学基金项目和创新特区项目等国家重点课题，获得国家和军队科技成果奖励，获授权国家发明专利多项，相关成果为新一代光通信、红外探测与智能感知提供重要技术支撑。
+
+当前内容可能存在未经审核的第三方商业营销信息，请确认是否继续访问。</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://mp.weixin.qq.com/s/47qqb9QvcE7ZxS0CuGC5pA&lt;/p&gt;&lt;pre&gt;现有三维重建技术普遍受限于昂贵的专业采集设备、对光照条件的严格要求，以及在实时应用场景中的适配性不足。为解决这一问题， 国防科技大学微纳光电子与智能感知课题组 发表 《 物理先验结合深度学习的偏振3D重建方法》 （点击论文标题可阅读全文） ， 基于菲涅耳反射定律，提出一种融合偏振光学特性与深度学习的FUNet模型。该模型以四通道偏振图像作为输入，通过一种可传播梯度的特殊设计，对菲涅耳反射模型进行逆问题求解，从而提取表面法线的物理先验知识，并借助深度神经网络对物理先验知识进行优化。该模型结合偏振图像与表面法线之间的物理关联性以及深度学习的高效数据拟合能力，实现对目标表面法线的快速精确估计。在DeepSfP数据集上的实验结果表明，模型在测试集上平均角度误差为11.49°，显著优于传统方法，从而为低成本、鲁棒性的偏振3D重建提供高效可行的技术思路。
+
+赵芬, 向秦, 陈杰, 等. 物理先验结合深度学习的偏振3D重建方法[J]. 国防科技大学学报, 2026, 48(5): 57 -67.
+
+Zhao Fen, Xiang Qin, Chen Jie, et al. Polarization 3D reconstruction method based on physics prior knowledge and deep learning[J]. Journal of National University of Defense Technology, 2026, 48(5): 57-67.
+
+赵芬 ，博士、副教授、硕士生导师，国防科技大学博士后。国家自然科学基金项目负责人。长期从事智能系统与工程、微纳光电子与智能感知、光电融合计算等研究。主持国家自然科学基金、中国博士后科学基金面上项目及重庆市自然科学基金等项目，参与多项国家级重大科研项目。在 Photonics Research 、 Nanophotonics 、 Optics and Laser Technology 等期刊发表论文30余篇。
+
+杨俊波（通信作者） ，国防科技大学教授，博士生导师。教育部新世纪优秀人才，入选全球前2%顶尖科学家榜单。主要从事微纳光电子、光信息处理、超表面与人工智能辅助逆向设计等研究，主持国家863计划项目、国家自然科学基金、国家重点研发计划课题等科研项目20余项。在 Nano Letters 、 ACS Photonics 、 Photonics Research 等国际权威期刊发表SCI/EI论文200余篇，多项成果入选ESI高被引前1‰及中国光学重要成果，获军队科技进步奖三等奖。担任中国宇航学会光电技术专业委员会常务委员、湖南省光学学会理事等学术职务。
+
+国防科技大学微纳光电子与智能感知课题组 长期围绕光信息处理、微纳光电子集成、新型二维材料及超表面器件等方向开展系统深入的研究，致力于探索从材料生长、器件设计到系统集成的全链条关键技术。团队聚焦硅基光子芯片、石墨烯及范德华异质结光电器件、表面等离激元与超材料调控、片上光互连与智能感知等前沿领域，在窄带滤波、波束扫描、量子光源、拓扑光子学等方向取得系列创新成果。近年来，团队承担国家自然科学基金项目和创新特区项目等国家重点课题，获得国家和军队科技成果奖励，获授权国家发明专利多项，相关成果为新一代光通信、红外探测与智能感知提供重要技术支撑。
+
+当前内容可能存在未经审核的第三方商业营销信息，请确认是否继续访问。&lt;/pre&gt;</content:encoded></item><item><title>多核数字信号处理器矩阵乘卷积算法性能评测</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/202301009?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/202301009?tab=abstract</guid><pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate><description>(1. 国防科技大学 计算机学院, 湖南 长沙 410073;2. 国防科技大学 并行与分布处理国防科技重点实验室, 湖南 长沙 410073)
+
+王庆林(1987—),男,贵州思南人,副研究员,博士,硕士生导师,E-mail:wangqinglin_thu@163.com; 裴向东(通信作者),男,山西长治人,博士研究生,E-mail:18903588277@163.com
+
+(1. College of Computer Science and Technology, National University of Defense Technology, Changsha 410073, China;2. Science and Technology on Parallel and Distributed Processing Laboratory, National University of Defense Technology, Changsha 410073, China)
+
+矩阵乘卷积算法能够为各种卷积配置提供高性能基础实现,是面向给定芯片进行卷积性能优化的首要选择。针对国防科技大学自主研制的飞腾异构多核数字信号处理器(digital signal processor, DSP)芯片的特征以及矩阵乘卷积算法自身的特点,提出了一种面向多核DSP架构的高性能并行矩阵乘卷积实现算法ftmEConv。该算法由输入特征图转换、卷积核转换、矩阵乘以及输出特征图转换这四个均运行在通用多核DSP上的并行化部分构成,通过有效挖掘通用DSP核中功能单元的潜力来提升各个部分的性能。实验结果表明,ftmEConv实现了高达42.90%的计算效率,与芯片上的其他矩阵乘卷积算法实现相比,获得了高达7.79倍的性能加速。
+
+The matrix multiplication-based convolutional algorithm, which can efficiently implement convolutions with different parameters, is the first choice of convolution performance optimization for a given chip. Based on the architecture of Phytium heterogeneous multi-core DSPs(digital signal processors) developed by National University of Defense Technology and the characteristic of the matrix multiplication-based convolutional algorithm, a parallel implementation of the matrix multiplication-based convolutional algorithm (called ftmEConv) for different convolutions on multi-core DSPs was proposed. The ftmEConv consists of four parallelized parts(input feature maps transformation, filter transformation, matrix multiplication, an</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/202301009?tab=abstract&lt;/p&gt;&lt;pre&gt;(1. 国防科技大学 计算机学院, 湖南 长沙 410073;2. 国防科技大学 并行与分布处理国防科技重点实验室, 湖南 长沙 410073)
+
+王庆林(1987—),男,贵州思南人,副研究员,博士,硕士生导师,E-mail:wangqinglin_thu@163.com; 裴向东(通信作者),男,山西长治人,博士研究生,E-mail:18903588277@163.com
+
+(1. College of Computer Science and Technology, National University of Defense Technology, Changsha 410073, China;2. Science and Technology on Parallel and Distributed Processing Laboratory, National University of Defense Technology, Changsha 410073, China)
+
+矩阵乘卷积算法能够为各种卷积配置提供高性能基础实现,是面向给定芯片进行卷积性能优化的首要选择。针对国防科技大学自主研制的飞腾异构多核数字信号处理器(digital signal processor, DSP)芯片的特征以及矩阵乘卷积算法自身的特点,提出了一种面向多核DSP架构的高性能并行矩阵乘卷积实现算法ftmEConv。该算法由输入特征图转换、卷积核转换、矩阵乘以及输出特征图转换这四个均运行在通用多核DSP上的并行化部分构成,通过有效挖掘通用DSP核中功能单元的潜力来提升各个部分的性能。实验结果表明,ftmEConv实现了高达42.90%的计算效率,与芯片上的其他矩阵乘卷积算法实现相比,获得了高达7.79倍的性能加速。
+
+The matrix multiplication-based convolutional algorithm, which can efficiently implement convolutions with different parameters, is the first choice of convolution performance optimization for a given chip. Based on the architecture of Phytium heterogeneous multi-core DSPs(digital signal processors) developed by National University of Defense Technology and the characteristic of the matrix multiplication-based convolutional algorithm, a parallel implementation of the matrix multiplication-based convolutional algorithm (called ftmEConv) for different convolutions on multi-core DSPs was proposed. The ftmEConv consists of four parallelized parts(input feature maps transformation, filter transformation, matrix multiplication, and output feature maps transformation), all of which were optimized for multi-core DSPs, and the performance of each part was improved by effectively exploiting the potential of all functional units in DSP cores. The experimental results demonstrate that ftmEConv achieves computational efficiency of up to 42.90%. Compared with other implementations of the matrix multiplication-based convolutional algorithm on heterogeneous chips, ftmEConv gets a speedup of up to 7.79 times.
+
+王庆林，裴向东，廖林玉，等.多核数字信号处理器矩阵乘卷积算法性能评测[J].国防科技大学学报,2023,45(1):86-94. WANG Qinglin, PEI Xiangdong, LIAO Linyu, et al. Evaluating matrix multiplication-based convolution algorithm on multi-core digital signal processors[J]. Journal of National University of Defense Technology,2023,45(1):86-94.&lt;/pre&gt;</content:encoded></item><item><title>北斗全球系统导航信号恒包络调制和复用技术</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201705002?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201705002?tab=abstract</guid><pubDate>Fri, 08 Jul 2016 00:00:00 +0000</pubDate><description>出于以导频通道为代表的北斗全球导航卫星系统现代化信号结构升级以及后向兼容的需求，北斗系统近几年提出了多种新型恒包络调制和复用技术，包括适用于北斗系统B1频点的正交复用二进制偏移载波（QMBOC）调制和非对称双正交相移键控（ADualQPSK）调制，适用于B2频点的时分复用AltBOC（TD-AltBOC）调制与非对称恒包络二进制偏移载波（ACE-BOC）调制，适用于B3频点的双正交相移键控（DualQPSK）调制，适用于双边带任意信号路数、任意功率配比的广义恒包络二进制偏移载波（GCE-BOC）调制。本文系统性地论述了北斗全球系统中提出的多种新型恒包络调制和复用技术，在此基础上基于GCE-BOC调制总结出了一种恒包络调制的统一解析表示形式，对全面理解北斗全球系统信号设计思路及在此基础上发展设计新型的恒包络调制和复用技术均能提供重要的借鉴。
+
+For the demand of structural enhancement and backwards compatibility of modern BDS navigation signal which is represented by the pilot channel, BDS has proposed several new constant envelope modulations recently, including QMBOC and ADualQPSK modulations applied to B1 band, TD-AltBOC and ACE-BOC modulations applied to B2 band, DualQPSK modulation applied to B3 band, GCE-BOC modulation that multiplexes arbitrary signals at two different carrier frequencies. All the new modulations were systematically analyzed and a unified analytical expression of constant envelope modulation and multiplexing was summarized on the basis of the GCE-BOC modulation, which can provide an important reference for the comprehensive understanding of the signal design of the BDS global navigation satellite system and the development of new type of constant envelope modulation and multiplexing technology on this basis.
+
+朱祥维，黄新明，宿晨庚，等.北斗全球系统导航信号恒包络调制和复用技术[J].国防科技大学学报,2017,39(5):6-13. ZHU Xiangwei, HUANG Xinming, SU Chengeng, et al. Constant envelope modulation and multiplexing technologies for BDS global navigation signals[J]. Journal</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201705002?tab=abstract&lt;/p&gt;&lt;pre&gt;出于以导频通道为代表的北斗全球导航卫星系统现代化信号结构升级以及后向兼容的需求，北斗系统近几年提出了多种新型恒包络调制和复用技术，包括适用于北斗系统B1频点的正交复用二进制偏移载波（QMBOC）调制和非对称双正交相移键控（ADualQPSK）调制，适用于B2频点的时分复用AltBOC（TD-AltBOC）调制与非对称恒包络二进制偏移载波（ACE-BOC）调制，适用于B3频点的双正交相移键控（DualQPSK）调制，适用于双边带任意信号路数、任意功率配比的广义恒包络二进制偏移载波（GCE-BOC）调制。本文系统性地论述了北斗全球系统中提出的多种新型恒包络调制和复用技术，在此基础上基于GCE-BOC调制总结出了一种恒包络调制的统一解析表示形式，对全面理解北斗全球系统信号设计思路及在此基础上发展设计新型的恒包络调制和复用技术均能提供重要的借鉴。
+
+For the demand of structural enhancement and backwards compatibility of modern BDS navigation signal which is represented by the pilot channel, BDS has proposed several new constant envelope modulations recently, including QMBOC and ADualQPSK modulations applied to B1 band, TD-AltBOC and ACE-BOC modulations applied to B2 band, DualQPSK modulation applied to B3 band, GCE-BOC modulation that multiplexes arbitrary signals at two different carrier frequencies. All the new modulations were systematically analyzed and a unified analytical expression of constant envelope modulation and multiplexing was summarized on the basis of the GCE-BOC modulation, which can provide an important reference for the comprehensive understanding of the signal design of the BDS global navigation satellite system and the development of new type of constant envelope modulation and multiplexing technology on this basis.
+
+朱祥维，黄新明，宿晨庚，等.北斗全球系统导航信号恒包络调制和复用技术[J].国防科技大学学报,2017,39(5):6-13. ZHU Xiangwei, HUANG Xinming, SU Chengeng, et al. Constant envelope modulation and multiplexing technologies for BDS global navigation signals[J]. Journal of National University of Defense Technology,2017,39(5):6-13.&lt;/pre&gt;</content:encoded></item><item><title>多传感器信息融合理论在无人机相对导航中的应用</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201705015?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201705015?tab=abstract</guid><pubDate>Mon, 20 Jun 2016 00:00:00 +0000</pubDate><description>为提升无人机的作战效能和作战指标，提升无人机的相对导航精度和导航系统可靠性，以无人机编队的相对导航系统为研究背景，基于容积卡尔曼滤波算法和信息滤波算法，研究容积信息滤波算法。此外，还采用多传感器信息融合理论，利用分布式信息融合结构构建了无人机相对导航滤波器，对来自惯导、视觉和卫星的信息进行融合，获取无人机间的相对位置、速度和姿态信息。该方法提升了无人机相对导航的导航精度、导航可靠性和滤波稳定性，容积信息滤波算法的应用避免了传统滤波算法在高维系统中出现的数值不稳定以及精度降低等问题。数学仿真结果表明，该方法提高了无人机编队之间相对导航的精度和可靠性，证明了算法的有效性。
 
 In order to improve the operational effectiveness and operational indicators of the UAV (unmanned aerial vehicle), and to enhance the accuracy and reliability of the UAV relative navigation system, a novel relative navigation method was proposed. Under the background of relative navigation system, the cubature information filter based on the cubature Kalman filter and information filter was studied. Moreover, an INS/GPS/VisNav relative navigation filter was designed by making use of the multi-sensor information fusion theory and distributed information fusion structure to fuse the information from INS, VisNav and GPS, and then the relative position, velocity and attitude were obtained. By making use of this algorithm, the accuracy, reliability and stability of the reliability navigation system were all improved. In addition, the accuracy decrease and numerical instability which often occur to traditional filter were avoided by cubature information filter. Mathematical simulation results indicate that the method can improve the accuracy and reliability of the UAV relative navigation system, and the proposed algorithm is verified.
 
@@ -7,7 +57,15 @@ In order to improve the operational effectiveness and operational indicators of 
 
 In order to improve the operational effectiveness and operational indicators of the UAV (unmanned aerial vehicle), and to enhance the accuracy and reliability of the UAV relative navigation system, a novel relative navigation method was proposed. Under the background of relative navigation system, the cubature information filter based on the cubature Kalman filter and information filter was studied. Moreover, an INS/GPS/VisNav relative navigation filter was designed by making use of the multi-sensor information fusion theory and distributed information fusion structure to fuse the information from INS, VisNav and GPS, and then the relative position, velocity and attitude were obtained. By making use of this algorithm, the accuracy, reliability and stability of the reliability navigation system were all improved. In addition, the accuracy decrease and numerical instability which often occur to traditional filter were avoided by cubature information filter. Mathematical simulation results indicate that the method can improve the accuracy and reliability of the UAV relative navigation system, and the proposed algorithm is verified.
 
-金红新，杨涛，王小刚，等.多传感器信息融合理论在无人机相对导航中的应用[J].国防科技大学学报,2017,39(5):90-95. JIN Hongxin, YANG Tao, WANG Xiaogang, et al. Application of multisensor information fusion in UAV relative navigation method[J]. Journal of National University of Defense Technology,2017,39(5):90-95.&lt;/pre&gt;</content:encoded></item><item><title>用于减少远程Cache访问延迟的最后一次写访问预测方法</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201501003?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201501003?tab=abstract</guid><pubDate>Wed, 11 Jun 2014 00:00:00 +0000</pubDate><description>国家自然科学基金资助项目（61202119）；国家863计划资助项目(2013AA014301)
+金红新，杨涛，王小刚，等.多传感器信息融合理论在无人机相对导航中的应用[J].国防科技大学学报,2017,39(5):90-95. JIN Hongxin, YANG Tao, WANG Xiaogang, et al. Application of multisensor information fusion in UAV relative navigation method[J]. Journal of National University of Defense Technology,2017,39(5):90-95.&lt;/pre&gt;</content:encoded></item><item><title>高超声速飞行器滑翔制导方法综述</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201703003?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201703003?tab=abstract</guid><pubDate>Sun, 10 Jan 2016 00:00:00 +0000</pubDate><description>阐明高超声速飞行器滑翔制导的基本问题，分析滑翔制导过程面临的复杂多约束、机动任务要求、参数扰动等研究难点；分别就国内外标准轨迹制导方法和预测-校正制导方法相关研究现状展开综述，指出了这两类方法中存在的问题。在此基础上，提出高超声速飞行器滑翔制导研究中亟待解决的关键问题，并指出未来滑翔制导方法的研究热点。
+
+The basic problem of gliding guidance for hypersonic vehicles was proposed, and the difficulties of complicated multiple constraints, maneuver requirements, and parameter perturbation in the course of gliding guidance were analyzed. The corresponding research status at home and abroad was surveyed, and the problems were also pointed out. On this basis, the key problems required to be solved at present in the research of gliding guidance for hypersonic vehicles were presented, and the research hotspots in the methods of future gliding guidance were also pointed out. 
+
+潘亮，谢愈，彭双春，等.高超声速飞行器滑翔制导方法综述[J].国防科技大学学报,2017,39(3):15-22. PAN Liang, XIE Yu, PENG Shuangchun, et al. A survey of gliding guidance methods for hypersonic vehicles[J]. Journal of National University of Defense Technology,2017,39(3):15-22.</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201703003?tab=abstract&lt;/p&gt;&lt;pre&gt;阐明高超声速飞行器滑翔制导的基本问题，分析滑翔制导过程面临的复杂多约束、机动任务要求、参数扰动等研究难点；分别就国内外标准轨迹制导方法和预测-校正制导方法相关研究现状展开综述，指出了这两类方法中存在的问题。在此基础上，提出高超声速飞行器滑翔制导研究中亟待解决的关键问题，并指出未来滑翔制导方法的研究热点。
+
+The basic problem of gliding guidance for hypersonic vehicles was proposed, and the difficulties of complicated multiple constraints, maneuver requirements, and parameter perturbation in the course of gliding guidance were analyzed. The corresponding research status at home and abroad was surveyed, and the problems were also pointed out. On this basis, the key problems required to be solved at present in the research of gliding guidance for hypersonic vehicles were presented, and the research hotspots in the methods of future gliding guidance were also pointed out. 
+
+潘亮，谢愈，彭双春，等.高超声速飞行器滑翔制导方法综述[J].国防科技大学学报,2017,39(3):15-22. PAN Liang, XIE Yu, PENG Shuangchun, et al. A survey of gliding guidance methods for hypersonic vehicles[J]. Journal of National University of Defense Technology,2017,39(3):15-22.&lt;/pre&gt;</content:encoded></item><item><title>用于减少远程Cache访问延迟的最后一次写访问预测方法</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201501003?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201501003?tab=abstract</guid><pubDate>Wed, 11 Jun 2014 00:00:00 +0000</pubDate><description>国家自然科学基金资助项目（61202119）；国家863计划资助项目(2013AA014301)
 
 为减少远程Cache访问延迟，提高共享存储系统的性能，提出了一种新的基于程序内在写突发特性的最后一次写访问预测方法，并对一个具体的目录协议进行了改造，以支持该预测方法。通过预测Cache块的最后一次写访问并提前对其进行降级，处理器能直接从主存中读取数据，从而减少了远程Cache访问所需的一个网络跳步数。与当前基于指令的预测方法相比，该方法能极大减少存储开销。基准测试程序的评测结果表明，该方法能获得83.1%的预测准确率，并且能提高8.57%的程序执行性能，同时与基于指令的预测方法相比，该方法能分别减少历史踪迹表69%的存储开销和签名表36%的存储开销。
 
@@ -19,7 +77,15 @@ To reduce remote cache transfer latency and improve the performance of shared me
 
 To reduce remote cache transfer latency and improve the performance of shared memory systems, a new last-write-touch prediction scheme that exploits the inherent write characteristics of a program is proposed and a directory protocol to support the scheme is adapted. By predicting a last-write-touch and self downgrading a cache block in advance, a processor can get the data from the memory directly and one network hop can be saved for a remote cache access. Compared with the existing instruction-based prediction technique, much storage overhead can be reduced. Experimental results show that it can achieve an average prediction accuracy of 83.1%, leading to improvements up to average 8.57% on the final application performance. Moreover, compared with the instruction-based prediction scheme, the scheme can reduce the storage overheads of the history table by 69% and the storage overheads of the signature table by 36%.
 
-夏军，徐炜遐，庞征斌，等.用于减少远程Cache访问延迟的最后一次写访问预测方法[J].国防科技大学学报,2015,37(1):14-20. XIA Jun, XU Weixia, PANG Zhengbin, et al. A last-write-touch prediction scheme used to reduce remote Cache miss latency[J]. Journal of National University of Defense Technology,2015,37(1):14-20.&lt;/pre&gt;</content:encoded></item><item><title>FlatLFS:一种面向海量小文件处理优化的轻量级文件系统</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201302022?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201302022?tab=abstract</guid><pubDate>Thu, 05 Apr 2012 00:00:00 +0000</pubDate><description>海量小文件的高效存储和访问是当前分布式文件系统面临的主要挑战之一。以GFS和HDFS为代表的分布式文件系统大多面向海量大文件的高效存储和访问设计，缺乏小文件处理的针对性优化，导致访问海量小文件时效率低下。针对分布式文件系统中海量小文件访问时的数据服务器优化问题，提出了一种采用扁平式数据存储方法的轻量级文件系统FlatLFS，取代传统文件系统对上层分布式文件系统提供数据存储和访问支持，提高了数据服务器处理小数据块时的I/O性能，从而提升了整个分布式文件系统的性能。实验表明，当数据块大小设定为1M时，FlatLFS的随机读性能分别比ext3、ext4、reiserfs高135%、112%和122%。
+夏军，徐炜遐，庞征斌，等.用于减少远程Cache访问延迟的最后一次写访问预测方法[J].国防科技大学学报,2015,37(1):14-20. XIA Jun, XU Weixia, PANG Zhengbin, et al. A last-write-touch prediction scheme used to reduce remote Cache miss latency[J]. Journal of National University of Defense Technology,2015,37(1):14-20.&lt;/pre&gt;</content:encoded></item><item><title>基于用户相关反馈的排序学习算法研究</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201302024?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201302024?tab=abstract</guid><pubDate>Mon, 20 Aug 2012 00:00:00 +0000</pubDate><description>在信息检索中，系统需要根据用户查询将文档按照相似度大小进行排序，吸引了众多信息检索和机器学习领域研究者的眼球，并形成了诸多排序算法模型。然而并未考虑到查询短语与文档构成的特征对与用户相关反馈之间存在的同质性。在机器学习算法基础上，通过提取训练样本的主要特征进行有效聚类，并结合用户的相关反馈获取各个类中相关度判断的置信值，形成相似度判定模型，应用该模型来对测试样本进行相关度排序。算法对LETOR数据集进行了测试，实验表明，信息检索性能指标比其他排序算法有了进一步提高，并且无需复杂的数据预处理工作和手动设定算法参数。
+
+Many information retrieval applications have to present their results in the form of ranked lists, in which documents must be sorted in a descending order according to their relevance to a given query. This has led the interest of the information retrieval community in methods that automatically learn effective ranking models, and recently machine learning techniques have also been applied to model construction. Most of the existing methods do not take into consideration the fact that significant homogeneity exists between query-document pairs related to user’s feedback. In this research, a novel method which clusters patterns in the training data with their relevance from the user, and then uses the discovered rules to rank documents at query-time. A systematic evaluation of the proposed method using the LETOR benchmark dataset is posposed. The experimental results show that the proposed method outperforms the state-of-the-art methods with no need of time-consuming and laborious pre-processing.
+
+蔡 飞，陈洪辉，舒 振.基于用户相关反馈的排序学习算法研究[J].国防科技大学学报,2013,35(2):132-136. CAI Fei, CHEN Honghui, SHU Zhen. Learning to rank based on user relevance feedback[J]. Journal of National University of Defense Technology,2013,35(2):132-136.</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201302024?tab=abstract&lt;/p&gt;&lt;pre&gt;在信息检索中，系统需要根据用户查询将文档按照相似度大小进行排序，吸引了众多信息检索和机器学习领域研究者的眼球，并形成了诸多排序算法模型。然而并未考虑到查询短语与文档构成的特征对与用户相关反馈之间存在的同质性。在机器学习算法基础上，通过提取训练样本的主要特征进行有效聚类，并结合用户的相关反馈获取各个类中相关度判断的置信值，形成相似度判定模型，应用该模型来对测试样本进行相关度排序。算法对LETOR数据集进行了测试，实验表明，信息检索性能指标比其他排序算法有了进一步提高，并且无需复杂的数据预处理工作和手动设定算法参数。
+
+Many information retrieval applications have to present their results in the form of ranked lists, in which documents must be sorted in a descending order according to their relevance to a given query. This has led the interest of the information retrieval community in methods that automatically learn effective ranking models, and recently machine learning techniques have also been applied to model construction. Most of the existing methods do not take into consideration the fact that significant homogeneity exists between query-document pairs related to user’s feedback. In this research, a novel method which clusters patterns in the training data with their relevance from the user, and then uses the discovered rules to rank documents at query-time. A systematic evaluation of the proposed method using the LETOR benchmark dataset is posposed. The experimental results show that the proposed method outperforms the state-of-the-art methods with no need of time-consuming and laborious pre-processing.
+
+蔡 飞，陈洪辉，舒 振.基于用户相关反馈的排序学习算法研究[J].国防科技大学学报,2013,35(2):132-136. CAI Fei, CHEN Honghui, SHU Zhen. Learning to rank based on user relevance feedback[J]. Journal of National University of Defense Technology,2013,35(2):132-136.&lt;/pre&gt;</content:encoded></item><item><title>FlatLFS:一种面向海量小文件处理优化的轻量级文件系统</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201302022?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201302022?tab=abstract</guid><pubDate>Thu, 05 Apr 2012 00:00:00 +0000</pubDate><description>海量小文件的高效存储和访问是当前分布式文件系统面临的主要挑战之一。以GFS和HDFS为代表的分布式文件系统大多面向海量大文件的高效存储和访问设计，缺乏小文件处理的针对性优化，导致访问海量小文件时效率低下。针对分布式文件系统中海量小文件访问时的数据服务器优化问题，提出了一种采用扁平式数据存储方法的轻量级文件系统FlatLFS，取代传统文件系统对上层分布式文件系统提供数据存储和访问支持，提高了数据服务器处理小数据块时的I/O性能，从而提升了整个分布式文件系统的性能。实验表明，当数据块大小设定为1M时，FlatLFS的随机读性能分别比ext3、ext4、reiserfs高135%、112%和122%。
 
 The storage and access of massive small files are one of the challenges in the design of DFS(Distributed file system). Most of the DFSs, such as GFS and HDFS, are designed for handling massive big files. The performance of DFSs decreases greatly when accessing massive small files without special optimization for small files. This research focuses on the optimizing of the performance of data server in handling massive small files, and presents a Flat Lightweight File System called FlatLFS in which the user data are managed flat in disks. FlatLFS is supposed to substitute the traditional file system when accessing user data for upper DFSs. With the improvement of the performance of small data block processing on data servers by FlatLFS, the performance of the whole DFSs is greatly improved. The effectiveness of FlatLFS is proved with intensive experiments: when the size of data block is 1M, the performance of random read of FlatLFS is 135%, 112% and 122% higher than ext 3 ,ext4 and reiserfs respectively. 
 
@@ -27,4 +93,2407 @@ The storage and access of massive small files are one of the challenges in the d
 
 The storage and access of massive small files are one of the challenges in the design of DFS(Distributed file system). Most of the DFSs, such as GFS and HDFS, are designed for handling massive big files. The performance of DFSs decreases greatly when accessing massive small files without special optimization for small files. This research focuses on the optimizing of the performance of data server in handling massive small files, and presents a Flat Lightweight File System called FlatLFS in which the user data are managed flat in disks. FlatLFS is supposed to substitute the traditional file system when accessing user data for upper DFSs. With the improvement of the performance of small data block processing on data servers by FlatLFS, the performance of the whole DFSs is greatly improved. The effectiveness of FlatLFS is proved with intensive experiments: when the size of data block is 1M, the performance of random read of FlatLFS is 135%, 112% and 122% higher than ext 3 ,ext4 and reiserfs respectively. 
 
-付松龄，廖湘科，黄辰林，等. FlatLFS:一种面向海量小文件处理优化的轻量级文件系统[J].国防科技大学学报,2013,35(2):120-126. FU Songling, LIAO Xiangke, HUANG Chenlin, et al. FlatLFS: a lightweight file system for optimizing the performance of accessing massive small files[J]. Journal of National University of Defense Technology,2013,35(2):120-126.&lt;/pre&gt;</content:encoded></item></channel></rss>
+付松龄，廖湘科，黄辰林，等. FlatLFS:一种面向海量小文件处理优化的轻量级文件系统[J].国防科技大学学报,2013,35(2):120-126. FU Songling, LIAO Xiangke, HUANG Chenlin, et al. FlatLFS: a lightweight file system for optimizing the performance of accessing massive small files[J]. Journal of National University of Defense Technology,2013,35(2):120-126.&lt;/pre&gt;</content:encoded></item><item><title>网络舆情中一种基于OLDA的在线话题演化方法</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201201029?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201201029?tab=abstract</guid><pubDate>Tue, 30 Aug 2011 00:00:00 +0000</pubDate><description>研究网络舆情分析中话题演化方法。首先分析网络舆情信息的特点；在此基础上，建立网络舆情信息模型，基于话题模型抽象描述文本内容的隐含语义，进而建立文本流在时间序列上的关联模型；进一步，提出基于OLDA的话题演化方法，针对舆情信息的特点，建立不同时间片话题间的关联。实验结果表明，该方法能够有效检测话题演化，为网络舆情分析提供了有效途径。
+
+The topic evolution was investigated for network public opinion analysis. The properties of network public opinion information were analyzed firstly. Based on the properties, the latent semantics of textual data for network public opinion was described by using the topic model, and the text streams are modeled with a consideration of time for online analysis. Furthermore, a topic evolution method based on OLDA was proposed by incorporating the correlation of topics among time slices. The proposed method was experimentally verified to be efficient for detecting topic evolution of network public opinion. 
+
+胡艳丽，白亮，张维明.网络舆情中一种基于OLDA的在线话题演化方法[J].国防科技大学学报,2012,34(1):150-154. HU Yanli, BAI Liang, ZHANG Weiming. OLDA-based method for online topic evolution  in network public opinion analysis[J]. Journal of National University of Defense Technology,2012,34(1):150-154.</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201201029?tab=abstract&lt;/p&gt;&lt;pre&gt;研究网络舆情分析中话题演化方法。首先分析网络舆情信息的特点；在此基础上，建立网络舆情信息模型，基于话题模型抽象描述文本内容的隐含语义，进而建立文本流在时间序列上的关联模型；进一步，提出基于OLDA的话题演化方法，针对舆情信息的特点，建立不同时间片话题间的关联。实验结果表明，该方法能够有效检测话题演化，为网络舆情分析提供了有效途径。
+
+The topic evolution was investigated for network public opinion analysis. The properties of network public opinion information were analyzed firstly. Based on the properties, the latent semantics of textual data for network public opinion was described by using the topic model, and the text streams are modeled with a consideration of time for online analysis. Furthermore, a topic evolution method based on OLDA was proposed by incorporating the correlation of topics among time slices. The proposed method was experimentally verified to be efficient for detecting topic evolution of network public opinion. 
+
+胡艳丽，白亮，张维明.网络舆情中一种基于OLDA的在线话题演化方法[J].国防科技大学学报,2012,34(1):150-154. HU Yanli, BAI Liang, ZHANG Weiming. OLDA-based method for online topic evolution  in network public opinion analysis[J]. Journal of National University of Defense Technology,2012,34(1):150-154.&lt;/pre&gt;</content:encoded></item><item><title>高超声速滑翔飞行器气动性能的数值模拟研究</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201204005?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201204005?tab=abstract</guid><pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate><description>国家自然科学基金资助项目(90916016);湖南省研究生科研创新及国防科技大学优秀研究生创新资助项目(B110102)
+
+由于具有高的升阻比，乘波构型被认为是高超声速滑翔飞行器的重点参考外形。考虑到高超声速条件下严重的气动加热问题，乘波构型的尖锐前缘需要进行钝化处理，其表面流动特征及气动性能也随之发生变化。基于参考弹道，本文分析了高超声速滑翔飞行器沿飞行轨迹的表面流场特征，并对其在典型飞行工况下的气动性能开展了数值模拟研究。结果表明：对于采用乘波布局设计的高超声速滑翔飞行器，其驻点流动存在三维效应，不能简单视为球头或圆柱绕流；钝化可以缓和严峻的受热形势，同时对其气动力性能造成影响：在2cm钝化半径条件下，其升阻比下降12.34%；高超声速滑翔飞行器的表面受热存在明显的分区特征，不同区域可采用不同的防热处理方法。
+
+The waverider is considered as an important candidate for the configuration of hypersonic glide vehicle (HGV) in terms of its high lift-to-drag ratio. Due to the severe aerodynamic heating, the sharp leading edge of waverider need be blunted, and the flow characteristics and the aerodynamic performance along the trajectory will change. In the current research, the flow characteristic of a HGV was studied based on a reference trajectory, and a numerical simulation was carried out to evaluate the performance of HGV with a blunt leading edge under a typical condition. The result indicates that the flow near the stagnation point exhibits three-dimensionality which cannot be approximated as a flow around a sphere or cylinder; the heat flux can be reduced and the aerodynamic performance of HGV may decrease as well when the leading edge is blunted: under the condition of 2 cm radii, the lift-to-drag ratio reduces by 12.34%, and different thermal protection methods can be used in different places of HGV.
+
+刘建霞，侯中喜，陈小庆，等.高超声速滑翔飞行器气动性能的数值模拟研究[J].国防科技大学学报,2012,34(4):22-27. LIU Jianxia, HOU Zhongxi, CHEN Xiaoqing, et al. Numerical </description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; http://journal.nudt.edu.cn/gfkjdxxb/article/abstract/201204005?tab=abstract&lt;/p&gt;&lt;pre&gt;国家自然科学基金资助项目(90916016);湖南省研究生科研创新及国防科技大学优秀研究生创新资助项目(B110102)
+
+由于具有高的升阻比，乘波构型被认为是高超声速滑翔飞行器的重点参考外形。考虑到高超声速条件下严重的气动加热问题，乘波构型的尖锐前缘需要进行钝化处理，其表面流动特征及气动性能也随之发生变化。基于参考弹道，本文分析了高超声速滑翔飞行器沿飞行轨迹的表面流场特征，并对其在典型飞行工况下的气动性能开展了数值模拟研究。结果表明：对于采用乘波布局设计的高超声速滑翔飞行器，其驻点流动存在三维效应，不能简单视为球头或圆柱绕流；钝化可以缓和严峻的受热形势，同时对其气动力性能造成影响：在2cm钝化半径条件下，其升阻比下降12.34%；高超声速滑翔飞行器的表面受热存在明显的分区特征，不同区域可采用不同的防热处理方法。
+
+The waverider is considered as an important candidate for the configuration of hypersonic glide vehicle (HGV) in terms of its high lift-to-drag ratio. Due to the severe aerodynamic heating, the sharp leading edge of waverider need be blunted, and the flow characteristics and the aerodynamic performance along the trajectory will change. In the current research, the flow characteristic of a HGV was studied based on a reference trajectory, and a numerical simulation was carried out to evaluate the performance of HGV with a blunt leading edge under a typical condition. The result indicates that the flow near the stagnation point exhibits three-dimensionality which cannot be approximated as a flow around a sphere or cylinder; the heat flux can be reduced and the aerodynamic performance of HGV may decrease as well when the leading edge is blunted: under the condition of 2 cm radii, the lift-to-drag ratio reduces by 12.34%, and different thermal protection methods can be used in different places of HGV.
+
+刘建霞，侯中喜，陈小庆，等.高超声速滑翔飞行器气动性能的数值模拟研究[J].国防科技大学学报,2012,34(4):22-27. LIU Jianxia, HOU Zhongxi, CHEN Xiaoqing, et al. Numerical simulation on the aerodynamic performance of hypersonic glide vehicle[J]. Journal of National University of Defense Technology,2012,34(4):22-27.&lt;/pre&gt;</content:encoded></item><item><title>采用碰振吸振子的高速机翼气动弹性系统阵风响应减缓</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260519?st=search&amp;tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260519?st=search&amp;tab=abstract</guid><description>采用碰振吸振子的高速机翼气动弹性系统阵风响应减缓
+EI•CA•INSPEC•JST•SCOPUS
+中文核心期刊•CSCD•WJCI
+首页
+期刊介绍
+投稿指南
+来稿须知
+稿件要求
+录用修订
+稿件流程
+相关下载
+编委会
+出版声明
+出版道德声明
+出版伦理声明
+开放获取声明
+联系我们
+期刊订阅
+纸刊订阅
+E-mail订阅
+Rss
+AI检索
+Deepseek
+豆包
+文心一言
+通义
+讯飞星火
+Kimi
+English
+引用本文:
+钮耀斌, 杨伟奇, 黄伟. 采用碰振吸振子的高速机翼气动弹性系统阵风响应减缓[J]. 国防科技大学学报, 2026, 48(5)：205-212.
+Citation:
+Niu Yaobin, Yang Weiqi, Huang Wei. Gust response alleviation of aircraft wing aeroelastic system in supersonic flow using vibro-impact oscillator[J]. Journal of National University of Defense Technology, 2026, 48(5): 205-212.
+采用碰振吸振子的高速机翼气动弹性系统阵风响应减缓
+doi:
+10.11887/j.issn.1001-2486.24060034
+钮耀斌
+角色:
+第一作者
+机构:
+国防科技大学 先进推进技术国家级重点实验室，湖南 长沙 410073
+邮箱:
+niuyaobin1234@126.com
+简介:
+钮耀斌，（1983—），男，浙江嘉兴人，副研究员，博士，E-mail：niuyaobin1234@126.com。
+，
+ 杨伟奇
+机构:
+国防科技大学 先进推进技术国家级重点实验室，湖南 长沙 410073
+，
+ 黄伟
+机构:
+国防科技大学 先进推进技术国家级重点实验室，湖南 长沙 410073
+国防科技大学 先进推进技术国家级重点实验室，湖南 长沙 410073
+基金项目:
+国家部委基金资助项目（JCKY2021205B108）
+详细信息
+收起信息
+作者简介
+钮耀斌，（1983—），男，浙江嘉兴人，副研究员，博士，E-mail：niuyaobin1234@126.com。
+中图分类号:
+V215.3
+文献标志码:
+A
+文章编号:
+1001-2486(2026)05-205-08
+Gust response alleviation of aircraft wing aeroelastic system in supersonic flow using vibro-impact oscillator
+Niu Yaobin
+Role:
+First Author
+Affiliation:
+National Key Laboratory of Advanced Propulsion Technology, National University of Defense Technology, Changsha 410073, China
+Email:
+niuyaobin1234@126.com
+，
+ Yang Weiqi
+Affiliation:
+National Key Laboratory of Advanced Propulsion Technology, National University of Defense Technology, Changsha 410073, China
+，
+ Huang Wei
+Affiliation:
+N</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260519?st=search&amp;amp;tab=abstract&lt;/p&gt;&lt;pre&gt;采用碰振吸振子的高速机翼气动弹性系统阵风响应减缓
+EI•CA•INSPEC•JST•SCOPUS
+中文核心期刊•CSCD•WJCI
+首页
+期刊介绍
+投稿指南
+来稿须知
+稿件要求
+录用修订
+稿件流程
+相关下载
+编委会
+出版声明
+出版道德声明
+出版伦理声明
+开放获取声明
+联系我们
+期刊订阅
+纸刊订阅
+E-mail订阅
+Rss
+AI检索
+Deepseek
+豆包
+文心一言
+通义
+讯飞星火
+Kimi
+English
+引用本文:
+钮耀斌, 杨伟奇, 黄伟. 采用碰振吸振子的高速机翼气动弹性系统阵风响应减缓[J]. 国防科技大学学报, 2026, 48(5)：205-212.
+Citation:
+Niu Yaobin, Yang Weiqi, Huang Wei. Gust response alleviation of aircraft wing aeroelastic system in supersonic flow using vibro-impact oscillator[J]. Journal of National University of Defense Technology, 2026, 48(5): 205-212.
+采用碰振吸振子的高速机翼气动弹性系统阵风响应减缓
+doi:
+10.11887/j.issn.1001-2486.24060034
+钮耀斌
+角色:
+第一作者
+机构:
+国防科技大学 先进推进技术国家级重点实验室，湖南 长沙 410073
+邮箱:
+niuyaobin1234@126.com
+简介:
+钮耀斌，（1983—），男，浙江嘉兴人，副研究员，博士，E-mail：niuyaobin1234@126.com。
+，
+ 杨伟奇
+机构:
+国防科技大学 先进推进技术国家级重点实验室，湖南 长沙 410073
+，
+ 黄伟
+机构:
+国防科技大学 先进推进技术国家级重点实验室，湖南 长沙 410073
+国防科技大学 先进推进技术国家级重点实验室，湖南 长沙 410073
+基金项目:
+国家部委基金资助项目（JCKY2021205B108）
+详细信息
+收起信息
+作者简介
+钮耀斌，（1983—），男，浙江嘉兴人，副研究员，博士，E-mail：niuyaobin1234@126.com。
+中图分类号:
+V215.3
+文献标志码:
+A
+文章编号:
+1001-2486(2026)05-205-08
+Gust response alleviation of aircraft wing aeroelastic system in supersonic flow using vibro-impact oscillator
+Niu Yaobin
+Role:
+First Author
+Affiliation:
+National Key Laboratory of Advanced Propulsion Technology, National University of Defense Technology, Changsha 410073, China
+Email:
+niuyaobin1234@126.com
+，
+ Yang Weiqi
+Affiliation:
+National Key Laboratory of Advanced Propulsion Technology, National University of Defense Technology, Changsha 410073, China
+，
+ Huang Wei
+Affiliation:
+National Key Laboratory of Advanced Propulsion Technology, National University of Defense Technology, Changsha 410073, China
+National Key Laboratory of Advanced Propulsion Technology, National University of Defense Technology, Changsha 410073, China
+摘要
+HTML全文
+图(10)表(0)
+参考文献
+相似文献
+出版信息
+访问统计
+资源附件
+摘要
+为降低高速机翼气动弹性系统的阵风响应量级，将碰振吸振子技术引入气动弹性系统。建立了具有碰振吸振子的机翼气动弹性阵风响应动力学模型，采用赫兹接触模型计算振子与机翼蒙皮之间的碰撞接触力，采用“1-cos”模型计算阵风速度。分析了具有碰振吸振子的机翼气动弹性阵风响应特性，结果表明碰振吸振子可以通过与机翼蒙皮间的碰撞，吸收、转移机翼阵风响应的能量，从而达到阵风减缓的效果。探讨了碰振吸振子参数对阵风响应减缓效果的影响规律，结果表明减小碰撞刚度和初始间隙均可以提升气动弹性系统阵风响应减缓效果，且存在一个最优的自振频率比使得系统具有较好的阵风减缓效果，而离机翼前缘较近处安装吸振子会具有更明显的阵风减缓效果。
+关键词
+碰振吸振子
+/
+机翼
+/
+气动弹性
+/
+阵风响应减缓
+Abstract
+In order to reduce the gust response level of the high-speed wing aeroelastic system, the vibro-impact oscillator technology was introduced into the aeroelastic system. The dynamic model of the aeroelastic gust response for wings with a vibro-impact oscillator was established. The Hertz contact model was used to calculate the collision contact force between the oscillator and the wing skin, the &amp;quot;1-cos&amp;quot; model was used to calculate the gust velocity. The aeroelastic gust response characteristics of wings with vibro-impact oscillator were analyzed. Results show that the vibro-impact oscillator can absorb and transfer the energy of wing gust response through collision with the wing skin, thereby achieving the effect of gust alleviation. The influence of vibro-impact oscillator parameters on the aeroelastic gust response alleviation effect was explored. Results show that reducing collision stiffness and initial clearance can improve the aeroelastic system gust response alleviation effect. There is an optimal frequency ratio that makes the system have a better gust response alleviation effect. For the installation position of the vibro-impact oscillator, its gust alleviation effect is more significant when it is closer to the leading edge of the wing.
+Keywords
+vibro-impact oscillator
+/
+wing
+/
+aeroelastic
+/
+gust response alleviation
+1 模型与动力学方程
+1.1 简化模型
+1.2 赫兹接触力模型
+1.3 非定常气动力
+1.4 动力学方程
+2 结果与讨论
+2.1 模型验证
+2.2 气动弹性阵风响应特性
+2.3 碰振吸振子参数对阵风响应减缓的影响
+3 结论
+气动弹性阵风响应问题一直是飞行器设计过程中的关键问题之一，其直接关系到飞行器的飞行安全性与乘坐舒适性
+[
+1
+-
+2
+]
+。当飞行器在飞行过程中遇到阵风或湍流等外部扰动时，机翼等飞行器升力结构将受到额外的非定常气动载荷，从而出现一定时间的持续振荡现象
+[
+3
+-
+6
+]
+。
+阵风响应减缓主要是通过采取一定措施来减小阵风响应幅值或减少振荡时间，以达到降低振动量级的目的，从而提高气动弹性系统的稳定性和鲁棒性
+[
+7
+-
+8
+]
+。目前，气动弹性阵风响应减缓技术已经进行了许多研究
+[
+9
+-
+11
+]
+，主要包含主动控制和被动控制两类。阵风响应减缓的主动控制技术是减缓阵风的有效方法之一，主要基于安装在结构上的传感器对阵风响应加速度进行测量，然后通过加速度反馈信号控制相应执行机构进行偏转，以产生额外的气动力来抵消阵风载荷
+[
+12
+-
+16
+]
+。阵风响应减缓的被动控制技术主要通过一些巧妙的结构/机械设计来实现，因此不需要传感器的反馈便可实现闭环控制，其更简单、可靠且易于实现
+[
+17
+]
+。目前，关于气动弹性系统阵风被动减缓的研究也很多。Eugeni等
+[
+18
+]
+采用在机翼结构中嵌入阻尼结构的方法来降低气动弹性系统的阵风响应；Liu等
+[
+19
+]
+使用压电复合材料来减轻机翼气动弹性阵风响应；2015年，Guo等
+[
+20
+]
+研究了一种用于大型飞机的新型被动阵风减缓装置（passive gust alleviation device，PGAD），通过轴和弹性铰链安装在机翼的翼尖；He等
+[
+21
+]
+利用数值仿真和风洞试验验证了PGAD具有良好的阵风减缓效果，阵风响应降低可达14.3%；Szczyglowski等
+[
+22
+]
+提出了一种基于减振器的被动控制方法，该方法可以有效地减轻机翼的气动弹性阵风响应。
+碰振吸振子技术是一类新型的振动被动控制技术，主要基于传统的线性吸振子，通过在振子运动范围内设置一定的位移约束，借助振子与约束间的碰撞来吸收振动能量，从而达到减振的目的。碰振本身具有时间短、耗能大的特点，可以短时间内吸收振动能量，对振动控制具有很好的效果
+[
+23
+-
+24
+]
+。2017年，Li等
+[
+25
+]
+将碰振吸振子应用到切削工具的颤振抑制中，并分析了其在宽频带振动中的抑制效果。2020年，Fang等
+[
+26
+]
+采用碰振吸振子对悬臂梁结构进行了振动控制，研究了质量比、碰撞间隙等参数对振动的影响，确定了最佳抑制区域。2022年，Chabrier等
+[
+27
+]
+对采用可调间隙碰振吸振子的悬臂梁结构减振进行实验研究，将碰振吸振子从单自由度系统推广至多模态的多自由度系统中；Wu等
+[
+28
+]
+将碰振吸振子应用于带间隙关节平面曲柄滑块机构的混沌动力学抑制中，分析了刚度系数、间隙和质量等参数对动力学抑制的影响。2024年，Li等
+[
+29
+]
+针对薄板瞬态振动响应，提出了一种两自由度的碰振吸振子，结果表明在板受到地震载荷激励时其具有良好的响应抑制性能，并对阻尼、质量、刚度和安装位置对振动控制的影响进行了分析。
+本文将碰振吸振子引入高速机翼气动弹性系统中，开展碰振吸振子对机翼气动弹性阵风响应的减缓研究，旨在减小气动弹性阵风响应幅值，降低振动量级，提高气动弹性系统稳定性。首先，建立具有碰振吸振子的机翼气动弹性阵风响应动力学模型，采用赫兹接触模型计算振子与机翼蒙皮之间的碰撞力，机翼的非定常气动力采用活塞理论进行计算，阵风速度采用“1-cos”模型计算，阵风产生的气动力则采用等效攻角的方式进行换算。其次，分析具有碰振吸振子的机翼气动弹性阵风响应特性，研究碰振吸振子的阵风减缓效果。最后，分析碰振吸振子参数对气动弹性阵风响应减缓效果的影响规律。
+1 模型与动力学方程
+1.1 简化模型
+选取单位展长的二元机翼，其力学模型如
+图1
+所示。两个自由度分别为：沉浮方向自由度
+h
+，向下为正；俯仰自由度
+α
+，机翼前缘抬头为正。
+b
+为半弦长，弹性轴到重心的距离为
+x
+a
+b
+，弹性轴到机翼中点的距离为
+ab
+，自由来流速度为
+U
+∞
+。碰振吸振子安装在机翼的上下蒙皮之间，振子位移由
+β
+（向下为正）表示，振子与机翼弹性轴之间的距离为
+db
+。
+图
+1
+机翼气动弹性系统示意图
+Fig.
+1
+Schematic of the wing aeroelastic system
+1.2 赫兹接触力模型
+碰振吸振子通过与机翼蒙皮之间的碰撞来吸收机翼的振动能量，从而减小机翼的气动弹性响应量级。碰撞过程中的碰撞力可以采用非线性赫兹接触理论进行计算
+[
+30
+]
+，可以表示为：
+F
+=
+K
+i
+λ
+1.5
+（1）
+其中，
+λ
+为碰撞过程中的嵌入深度或弹性变形，
+\begin{equation}K_{i}\end{equation}
+为碰撞刚度。对于机翼气动弹性系统，碰撞力可表示为：
+（2）
+其中，
+δ
+为碰振吸振子与机翼蒙皮之间的初始间隙。
+1.3 非定常气动力
+针对超声速流速中机翼的非定常气动力可以采用活塞理论进行计算：
+p
+=
+p
+∞
+[
+1
++
+γ
+v
+z
+c
+∞
++
+γ
+(
+1
++
+γ
+)
+4
+(
+v
+z
+c
+∞
+)
+2
++
+γ
+(
+1
++
+γ
+)
+12
+(
+v
+z
+c
+∞
+)
+3
+]
+（3）
+其中：
+p
+∞
+、
+c
+∞
+分别为来流的压强和声速；
+γ
+为比热比；
+\begin{equation}v_{z}\end{equation}
+为翼面下洗速度，对于上下表面可以分别表示为
+v
+z
+u
+=
+(
+v
+∂
+∂
+x
++
+∂
+∂
+t
+)
+z
+(
+x
+,
+t
+)
++
+v
+tan
+⁡
+α
+g
+（4）
+v
+z
+1
+=
+−
+(
+v
+∂
+∂
+x
++
+∂
+∂
+t
+)
+z
+(
+x
+,
+t
+)
+−
+v
+tan
+⁡
+α
+g
+（5）
+其中，
+z
+(
+x
+,
+t
+)为机翼上任意一点的位移，α
+g
+为阵风对应的等效攻角。针对二元机翼可以表示为：
+z
+(
+x
+,
+t
+)
+=
+−
+[
+h
+(
+t
+)
++
+(
+x
+−
+b
+x
+0
+)
+α
+(
+t
+)
+]
+（6）
+机翼在飞行过程中会受到阵风作用，阵风产生的非定常气动力可以采用等效攻角的形式通过活塞理论进行计算，等效攻角可以定义为：
+tan
+⁡
+α
+g
+=
+v
+g
+U
+∞
+（7）
+其中，
+v
+g
+为阵风速度。垂直方向阵风速度可以采用“1-cos”模型计算，可以表示为：
+（8）
+其中，
+l
+为阵风宽度，
+v
+g
+0
+为阵风强度。
+1.4 动力学方程
+由拉格朗日方程得到带有碰振吸振子的二元机翼气动弹性动力学方程为：
+（9）
+其中：
+m
+为单位翼展的质量；
+S
+α
+=
+mx
+a
+b
+为机翼距弹性轴的质量矩；
+\begin{equation}I_{α}\end{equation}
+=
+m
+(
+\begin{equation}r_{a}\end{equation}
+b
+)
+2
+为机翼相对于弹性轴的惯性矩；
+\begin{equation}c_{h}\end{equation}
+、
+\begin{equation}c_{α}\end{equation}
+为两个方向的阻尼系数；
+\begin{equation}K_{h}\end{equation}
+、
+\begin{equation}K_{α}\end{equation}
+分别为机翼沉浮和俯仰方向的结构刚度系数；
+e
+1
+、
+e
+2
+为非线性因子；
+m
+s
+、
+c
+s
+、
+k
+s
+分别为谐振器的质量、阻尼系数和刚度系数；
+L
+、
+M
+为作用在机翼上的气动力和气动力矩，可以根据机翼表面压力分布的积分而得。
+（10）
+其中：Δ
+p
+为机翼上下表面压差，可表示为
+Δ
+p
+=
+p
+z
+u
+−
+p
+z
+l
+（11）
+p
+z
+u
+和
+p
+z
+l
+分别为机翼上下表面压强。
+令
+ξ
+=
+h
+/
+b
+，
+τ
+=
+U
+∞
+t
+/
+b
+，
+\begin{equation}ω_{h}\end{equation}
+=
+K
+h
+/
+m
+，
+\begin{equation}ω_{α}\end{equation}
+=
+K
+α
+/
+I
+α
+，
+ω
+¯
+=
+\begin{equation}ω_{h}\end{equation}
+/
+\begin{equation}ω_{α}\end{equation}
+，
+μ
+=
+m
+/(4
+\begin{equation}ρb^{2}\end{equation}
+)，
+V
+=
+U
+∞
+/(
+\begin{equation}bω_{α}\end{equation}
+)，
+\begin{equation}ζ_{h}\end{equation}
+=
+\begin{equation}c_{h}\end{equation}
+/
+m
+K
+h
+，
+\begin{equation}ζ_{α}\end{equation}
+=
+\begin{equation}c_{α}\end{equation}
+/
+I
+α
+K
+α
+，
+μ
+s
+=
+\begin{equation}m_{s}\end{equation}
+/
+m
+，
+ω
+s
+=
+k
+s
+/
+m
+s
+，
+ξ
+s
+=
+c
+s
+/
+m
+s
+k
+s
+，
+ξ
+s
+=
+β
+/
+b
+，
+ω
+p
+=
+ω
+s
+/
+\begin{equation}ω_{α}\end{equation}
+，
+δ
+s
+=
+δ
+/
+b
+，则机翼的无量纲气动弹性动力学方程可表示为：
+（12）
+其中：
+L
+¯
+=
+1
+M
+a
+μ
+{
+α
++
+ξ
+˙
++
+arctan
+⁡
+[
+α
+g
+sin
+⁡
+(
+π
+t
+l
+)
+2
+b
+ω
+α
+]
+−
+a
+α
+˙
+}
+M
+¯
+=
+1
+M
+a
+μ
+r
+a
+2
+(
+a
+{
+α
++
+ξ
++
+arctan
+⁡
+[
+α
+g
+sin
+⁡
+(
+π
+t
+l
+)
+2
+b
+ω
+α
+]
+−
+a
+α
+˙
+}
+)
+F
+¯
+=
+F
+4
+b
+3
+μ
+ρ
+ω
+α
+2
+v
+2
+2 结果与讨论
+2.1 模型验证
+气动弹性阵风响应动力学模型是在传统机翼颤振动力学模型的基础上，考虑了阵风对气动弹性系统的影响。对于颤振动力学模型，其颤振速度可以使用Theodorsen提出的方法从理论上进行求解
+[
+31
+]
+。在本节中，使用龙格-库塔法对机翼的颤振速度进行分析，如
+图2
+所示，其中
+μ
+=5 000，
+Ma
+=5.0，
+\begin{equation}x_{a}\end{equation}
+=0.25，
+\begin{equation}r_{a}\end{equation}
+=0.5，
+a
+=-0.2，
+\begin{equation}ζ_{h}\end{equation}
+=0.01，
+\begin{equation}ζ_{α}\end{equation}
+=0.01，
+ω
+¯
+=0.5。从
+图2
+可以看出，气动弹性系统的振幅逐渐增大，当无量纲速度达到71.6左右时，其振幅迅速增加，气动弹性系统趋于不稳定颤振状态，表明其颤振速度约为71.6。同时使用Theodorsen方法得到的颤振速度理论解为71.643 8，数值结果与理论颤振速度一致，由此证明了采用的模型和求解方法的合理性和正确性。
+图
+2
+机翼颤振系统振动幅值随速度变化
+Fig.
+2
+Vibration amplitude of the wing flutter system varies with speed
+2.2 气动弹性阵风响应特性
+采用龙格-库塔法对机翼气动弹性系统的阵风响应进行分析，其中
+ζ
+s
+=0.1，
+ω
+p
+=1.0，
+μ
+s
+=0.01，
+d
+=-0.7，
+δ
+s
+=0.000 1，
+l
+=100，
+α
+g
+=-4/150，仿真结果如
+图3~6
+所示。
+图
+3
+阵风响应位移随时间的变化
+Fig.
+3
+Variation of gust response displacement with time
+图
+4
+阵风响应速度随时间的变化
+Fig.
+4
+Variation of gust response speed with time
+图
+5
+阵风响应加速度随时间的变化
+Fig.
+5
+Variation of gust response acceleration with time
+图
+6
+相对位移及碰撞力随时间的变化曲线
+Fig.
+6
+Variation of relative displacement and contact force with time
+图3
+为机翼气动弹性阵风响应位移随时间的变化曲线。由
+图3
+可以看出，机翼在未遇到风时，气动弹性系统处于稳定状态，振动位移幅值为0。当机翼在无量纲时间5 000遇到阵风后，系统出现振荡现象。在沉浮方向，由于阵风的存在，响应的振动中心偏移至9.5×10
+-5
+处；振幅最大出现在第一个响应峰，为1.24×10
+-4
+，随后系统振幅逐渐减小并降至1.05×10
+-4
+；当阵风在无量纲时间10 000突然消失后，气动弹性系统的振动中心回归到0点，不再出现中心偏移的情况，振幅最大为1.28×10
+-4
+，之后系统在阻尼作用下振动幅值逐渐减小，当时间为50 000时振幅下降至3.5×10
+-5
+。而当采用碰振吸振子进行控制后，在阵风出现时刻振动中心的偏移量与无控情况保持一致，振动幅值为1.23×10
+-4
+，相比无控系统略有下降；当时间为50 000时振动幅值下降至9.5×10
+-6
+，相比无控系统振幅减小72.9%，说明在碰振吸振子的作用下振动幅值会有明显的下降。在俯仰方向，阵风响应的振动中心偏移至-7.2×10
+-5
+处，振动幅值为2.9×10
+-4
+，随后逐渐下降至阵风消失前的1.33×10
+-4
+；当阵风在无量纲时间10 000突然消失后，系统响应的振动中心回到0点，振幅变为2.9×10
+-4
+，随后在阻尼作用下逐渐下降至6.93×10
+-5
+。而当采用碰振吸振子进行控制后，在阵风出现时刻振幅为2.58×10
+-4
+，随后逐渐减小至1.15×10
+-4
+；当阵风在无量纲时间10 000突然消失后，系统响应的振动中心回到0点，振幅变为2.33×10
+-4
+，随后逐渐下降至2.85×10
+-5
+，相比无控系统振幅下降58.9%。从沉浮位移幅值和俯仰位移幅值两方面均可以看出，碰振吸振子对气动弹性阵风响应的减缓具有较好的效果。
+图4
+给出了机翼气动弹性系统阵风响应速度随时间的变化曲线。由
+图4
+可以看出，机翼气动弹性系统在遇到阵风后开始振动。在沉浮方向，最大速度幅值出现在5 980时刻左右，约为5.2×10
+-6
+，随后振动速度幅值逐渐减小，在无量纲时间50 000时刻，振动速度幅值降至2.46×10
+-7
+；当采用碰振吸振子对气动弹性系统进行控制后，其最大幅值出现在第一个峰值，约为5.0×10
+-6
+，在无量纲时间为50 000时，其振动速度减小为2×10
+-7
+，相比无控气动弹性系统振动速度幅值约减小18.7%。同时，由于碰振吸振子的存在，机翼振动速度会出现突变，主要是因为吸振子在运动过程中与机翼蒙皮发生了碰撞，产生了内部的附加力，这也是碰振吸振子起到了作用。在俯仰方向，振动速度的变化情况也比较相似，其最大振动速度幅值为1.05×10
+-5
+，随后逐渐减小至6.5×10
+-7
+；而有碰振吸振子的系统速度峰值为8.95×10
+-6
+，随后逐渐减小至6.0×10
+-7
+，速度幅值约减小7.7%。同样，由于碰振吸振子的存在，机翼俯仰方向的振动速度也出现了速度突变的情况。因此，从阵风响应振动速度的角度可以看出，碰振吸振子可以改变阵风响应的速度，使响应速度产生突变，对阵风响应的减缓具有一定的效果。
+响应加速度是衡量阵风响应的主要指标，可以反映出机翼的载荷大小。
+图5
+给出了机翼气动弹性系统阵风响应加速度随时间的变化曲线。由
+图5
+可以看出，机翼气动弹性系统的阵风加速度在遇到阵风后会出现比较大的加速度幅值，随后加速度逐渐减小。相比无控状态气动弹性系统，有碰振吸振子的振动加速度会有比较明显的局部峰值，其峰值有些时刻甚至会超过无控系统，如在无量纲时间5 595时刻，其局部加速度峰值达到了2.65×10
+-7
+，超过了无控系统的峰值。但这些局部突变加速度持续时间较短，因此其振动加速度总均方根值（root mean square, RMS）相对较小。根据统计分析，在沉浮方向，阵风响应的加速度均方根值为3.85×10
+-8
+，而有碰振吸振子系统其加速度均方根值为3.16×10
+-8
+，相对而言下降17.9%。在俯仰方向，无控系统的加速度均方根值为7.38×10
+-8
+，有碰振吸振子系统的加速度均方根值为5.94×10
+-8
+，下降比例为19.5%。因此，从振动加速度可以看出，碰振吸振子的引入可以减小响应加速度的均方根值，对于气动弹性阵风响应具有较好的减缓效果。
+为更好地分析碰振吸振子对气动弹性响应的减缓机制，分析碰振吸振子在阵风响应减缓中的作用过程，记机翼与振子的相对位移为
+δ
+t
+：
+δ
+t
+=
+ξ
++
+d
+α
+−
+ξ
+s
+（13）
+当-
+δ
+s
+&amp;lt;
+δ
+t
+&amp;lt;
+δ
+s
+时，说明振子与蒙皮间仍具有间隙而不会发生碰撞；当
+δ
+t
+=
+δ
+s
+或
+δ
+t
+=-
+δ
+s
+时，振子与机翼蒙皮间隙为0；当
+δ
+t
+&amp;gt;
+δ
+s
+或
+δ
+t
+&amp;lt;-
+δ
+s
+时，振子与蒙皮发生碰撞，此时会产生一定的碰撞力。机翼与振子的相对位移以及碰撞力随时间的变化规律如
+图6
+所示。由
+图6
+可以看出，在阵风刚出现时，相对位移值比较大，频繁到达或超过0.000 1，说明在阵风初始阶段，碰振吸振子与蒙皮发生碰撞，吸收动力学响应的能量从而减缓响应幅值，其对应时刻的碰撞力也相对较大。而随着时间推移，动力学响应振动幅值逐渐减小，使得相对位移逐渐小于原始间隙值0.000 1，此时吸振子将退化为传统的线性系统，不再发生碰撞非线性过程，其碰撞力变为0。
+2.3 碰振吸振子参数对阵风响应减缓的影响
+碰振吸振子参数的选取会对气动弹性系统阵风减缓特性有一定的影响，本小节分析吸振子自振频率比
+ω
+p
+、碰撞刚度
+K
+i
+、初始间隙
+δ
+s
+、安装位置与弹性轴之间的相对距离
+d
+等参数对阵风减缓效果的影响。
+图7
+给出了机翼气动弹性系统阵风响应加速度均方根值随碰振吸振子自振频率比
+ω
+p
+的变化曲线。由
+图7
+可以看出，随着自振频率比的增大，气动弹性系统阵风响应的加速度均方根值呈现先减小后增大的趋势。在
+ω
+p
+=0.2时，沉浮方向的加速度均方根值为3.36×10
+-8
+，并随着
+ω
+p
+的增大而逐渐减小；当
+ω
+p
+=3.4时，达到最小的3.11×10
+-8
+，之后又随
+ω
+p
+的增大而不断增大；当
+ω
+p
+=6时，加速度均方根值增大至3.21×10
+-8
+。在俯仰方向呈现同样的先减小后增大的情况，在
+ω
+p
+=0.2时，俯仰方向振动加速度均方根值为6.41×10
+-8
+；当
+ω
+p
+增大至3.6时，加速度均方根值降至最低的5.76×10
+-8
+，随后均方根值随自振频率比
+ω
+p
+增大而逐渐增大；当
+ω
+p
+=6时，增大至5.96×10
+-8
+。因此，在碰振吸振子自振频率比变化的过程中，存在一个最优数值使得系统阵风响应加速度均方根值最小，此时阵风减缓效果最好。
+图
+7
+均方根值随自振频率比的变化曲线
+Fig.
+7
+RMS of response acceleration varies with frequency ratio
+碰撞刚度主要反映的是碰振吸振子与机翼蒙皮两者的弹性模量、泊松比等材料性能以及接触面的半径、嵌入深度等接触特性。碰撞刚度对气动弹性系统阵风减缓的影响如
+图8
+所示。由
+图8
+可以看出，随着碰撞刚度的增大，阵风响应的均方根值逐渐增大，其阵风减缓效果减弱。当碰撞刚度为4×10
+4
+时，沉浮方向的加速度均方根值为3.2×10
+-8
+，俯仰方向为5.86×10
+-8
+；当碰撞刚度增大至3.6×10
+7
+时，沉浮方向的加速度均方根值为3.7×10
+-8
+，俯仰方向为7.32×10
+-8
+，分别增大了15.6%和24.9%。因此，更小的碰撞刚度可以使系统响应加速度均方根值更小，阵风响应减缓效果更好。
+图
+8
+均方根值随碰撞刚度的变化曲线
+Fig.
+8
+RMS of response acceleration varies with contact stiffness
+图9
+给出了碰振吸振子与蒙皮间的初始间隙
+δ
+s
+对阵风减缓的影响规律。由
+图9
+可以看出，在间隙小于5.5×10
+-4
+时，气动弹性系统阵风响应的加速度均方根值随初始间隙的增大而增大。在初始间隙
+δ
+s
+=5×10
+-5
+时，沉浮方向的加速度均方根值为3.23×10
+-8
+，俯仰方向为6.04×10
+-8
+。随着初始间隙
+δ
+s
+的不断增大，在
+δ
+s
+=5.5×10
+-4
+时，沉浮方向的加速度均方根值为4.31×10
+-8
+，增大了33.4%；俯仰方向的均方根值为9.11×10
+-8
+，增大了50.8%。这说明间隙越小，碰振吸振子起的作用越大，具有更好的阵风减缓效果。而当初始间隙大于5.5×10
+-4
+后，阵风响应的加速度均方根值保持不变，此时碰振吸振子将不会与机翼蒙皮发生碰撞，其将退化为由线性刚度和阻尼组成的线性系统。
+图
+9
+均方根值随初始间隙的变化曲线
+Fig.
+9
+RMS of response acceleration varies with initial gap
+碰振吸振子安装位置与弹性轴之间的相对距离
+d
+对机翼气动弹性系统阵风减缓的影响如
+图10
+所示。由
+图10
+可以看出，随着安装位置与弹性轴相对距离
+d
+的变化，阵风响应加速度均方根值呈现先增大后减小的趋势。当安装位置靠近机翼前缘（
+d
+=-0.7）时，沉浮方向的均方根值为3.16×10
+-8
+，俯仰方向为5.93×10
+-8
+。随着安装位置逐渐远离前缘，其加速度均方根逐渐增大，在
+d
+=-0.3时，加速度均方根值达到最大，此时沉浮方向为4.52×10
+-8
+，俯仰方向为8.97×10
+-8
+。此后，随着碰振吸振子安装位置逐渐靠近机翼后缘，阵风响应的加速度均方根值逐渐减小，在
+d
+=0.5时，沉浮方向为3.77×10
+-8
+，俯仰方向为7.31×10
+-8
+。从整体来看，碰振吸振子离机翼前缘较近时，其响应加速度均方根值更小，阵风响应的减缓效果更好。
+图
+10
+均方根值随安装位置的变化曲线
+Fig.
+10
+RMS of response acceleration varies with installation position
+3 结论
+将碰振吸振子应用于高速机翼气动弹性系统的阵风响应减缓中，研究了碰振吸振子参数对阵风响应的减缓效果及影响规律，主要得出以下结论：
+1）在特定参数下，碰振吸振子对机翼气动弹性阵风响应有很好的减缓效果。从阵风响应位移、响应速度以及响应加速度多个方面分析表明，碰振吸振子可以通过与机翼蒙皮间的碰撞，吸收、转移机翼阵风响应的能量，从而达到阵风减缓的效果。
+2）碰振吸振子参数对阵风响应减缓效果有较大影响。减小碰撞刚度和减小初始间隙均可以提升气动弹性系统阵风响应减缓效果。而碰振吸振子自振频率比需要优化选取，其存在一个最优的频率比使得系统具有较好的阵风响应减缓效果。对于碰振吸振子的安装位置，离机翼前缘较近时其阵风减缓效果更明显。
+碰振吸振子在机翼气动弹性阵风响应减缓方面具有比较好的效果，为机翼的结构设计及阵风响应减缓提供了新的思路，在超声速飞行器、空天飞行器等领域均具有广阔的应用前景。碰振吸振子结构简单，易于在飞行器机翼上实现，后续可瞄准其在实现过程中的具体形式和具体结构，并考虑其对其他专业、其他系统的影响，开展一定的试验研究，为其最终应用奠定基础。
+图
+1
+机翼气动弹性系统示意图
+Fig.
+1
+Schematic of the wing aeroelastic system
+下载:
+全尺寸图片
+图
+2
+机翼颤振系统振动幅值随速度变化
+Fig.
+2
+Vibration amplitude of the wing flutter system varies with speed
+下载:
+全尺寸图片
+图
+3
+阵风响应位移随时间的变化
+Fig.
+3
+Variation of gust response displacement with time
+下载:
+全尺寸图片
+图
+4
+阵风响应速度随时间的变化
+Fig.
+4
+Variation of gust response speed with time
+下载:
+全尺寸图片
+图
+5
+阵风响应加速度随时间的变化
+Fig.
+5
+Variation of gust response acceleration with time
+下载:
+全尺寸图片
+图
+6
+相对位移及碰撞力随时间的变化曲线
+Fig.
+6
+Variation of relative displacement and contact force with time
+下载:
+全尺寸图片
+图
+7
+均方根值随自振频率比的变化曲线
+Fig.
+7
+RMS of response acceleration varies with frequency ratio
+下载:
+全尺寸图片
+图
+8
+均方根值随碰撞刚度的变化曲线
+Fig.
+8
+RMS of response acceleration varies with contact stiffness
+下载:
+全尺寸图片
+图
+9
+均方根值随初始间隙的变化曲线
+Fig.
+9
+RMS of response acceleration varies with initial gap
+下载:
+全尺寸图片
+图
+10
+均方根值随安装位置的变化曲线
+Fig.
+10
+RMS of response acceleration varies with installation position
+下载:
+全尺寸图片
+图
+1
+机翼气动弹性系统示意图
+Fig.
+1
+Schematic of the wing aeroelastic system
+图
+2
+机翼颤振系统振动幅值随速度变化
+Fig.
+2
+Vibration amplitude of the wing flutter system varies with speed
+图
+3
+阵风响应位移随时间的变化
+Fig.
+3
+Variation of gust response displacement with time
+图
+4
+阵风响应速度随时间的变化
+Fig.
+4
+Variation of gust response speed with time
+图
+5
+阵风响应加速度随时间的变化
+Fig.
+5
+Variation of gust response acceleration with time
+图
+6
+相对位移及碰撞力随时间的变化曲线
+Fig.
+6
+Variation of relative displacement and contact force with time
+图
+7
+均方根值随自振频率比的变化曲线
+Fig.
+7
+RMS of response acceleration varies with frequency ratio
+图
+8
+均方根值随碰撞刚度的变化曲线
+Fig.
+8
+RMS of response acceleration varies with contact stiffness
+图
+9
+均方根值随初始间隙的变化曲线
+Fig.
+9
+RMS of response acceleration varies with initial gap
+图
+10
+均方根值随安装位置的变化曲线
+Fig.
+10
+RMS of response acceleration varies with installation position
+PDF下载
+XML下载
+导出引用
+引用提醒
+图(10)
+手机扫码阅读
+引用本文
+钮耀斌, 杨伟奇, 黄伟. 采用碰振吸振子的高速机翼气动弹性系统阵风响应减缓[J]. 国防科技大学学报, 2026, 48(5)：205-212.
+复制
+Niu Yaobin, Yang Weiqi, Huang Wei. Gust response alleviation of aircraft wing aeroelastic system in supersonic flow using vibro-impact oscillator[J]. Journal of National University of Defense Technology, 2026, 48(5): 205-212.
+Copy
+计量
+文章访问量:
+HTML全文浏览量:
+PDF下载量:
+被引次数:
+图
+1
+机翼气动弹性系统示意图
+Fig.
+1
+Schematic of the wing aeroelastic system
+图
+2
+机翼颤振系统振动幅值随速度变化
+Fig.
+2
+Vibration amplitude of the wing flutter system varies with speed
+图
+3
+阵风响应位移随时间的变化
+Fig.
+3
+Variation of gust response displacement with time
+图
+4
+阵风响应速度随时间的变化
+Fig.
+4
+Variation of gust response speed with time
+图
+5
+阵风响应加速度随时间的变化
+Fig.
+5
+Variation of gust response acceleration with time
+图
+6
+相对位移及碰撞力随时间的变化曲线
+Fig.
+6
+Variation of relative displacement and contact force with time
+图
+7
+均方根值随自振频率比的变化曲线
+Fig.
+7
+RMS of response acceleration varies with frequency ratio
+图
+8
+均方根值随碰撞刚度的变化曲线
+Fig.
+8
+RMS of response acceleration varies with contact stiffness
+图
+9
+均方根值随初始间隙的变化曲线
+Fig.
+9
+RMS of response acceleration varies with initial gap
+图
+10
+均方根值随安装位置的变化曲线
+Fig.
+10
+RMS of response acceleration varies with installation position
+杨超, 邱祈生, 周宜涛, 等. 飞机阵风响应减缓技术综述[J]. 航空学报, 2022, 43(10): 527350.
+Yang Chao, Qiu Qisheng, Zhou Yitao, et al. Review of aircraft gust alleviation technology[J]. Acta Aeronautica et Astronautica Sinica, 2022, 43(10): 527350. (in Chinese)
+Yue Chengyu, Zhao Yonghui. Active disturbance rejection controller design for alleviation of gust-induced aeroelastic responses[J]. Aerospace Science and Technology, 2023, 133: 108116.
+Fournier H, Massioni P, Tu Pham M, et al. Robust gust load alleviation of flexible aircraft equipped with lidar[J]. Journal of Guidance, Control, and Dynamics, 2021, 45(1): 58-72.
+张育鸣, 戴玉婷, 黄广靖, 等. 柔性变形后缘翼型阵风减缓及气动噪声分析[J]. 航空学报, 2024, 45(10): 129219.
+Zhang Yuming, Dai Yuting, Huang Guangjing, et al. Gust alleviation and aeroacoustic characteristics of flexible morphing trailing edge airfoil[J]. Acta Aeronautica et Astronautica Sinica, 2024, 45(10): 129219. (in Chinese)
+Yao Zhuoer, Kan Zi, Li Daochun. Gust response of spanwise morphing wing by simulation and wind tunnel testing[J]. Aerospace, 2023, 10(4): 328.
+Niu Yaobin, Wang Zhongwei, Yang Huixin, et al. Aerothermoelastic response of hypersonic 2-D lifting surface[J]. Fluctuation and Noise Letters, 2012, 11(2): 1250017.
+Masrour J, Sadati S H, Shahravi M. Gust response analysis based on a nonlinear structural model and the unsteady aerodynamics of a flexible aircraft[J]. Aircraft Engineering and Aerospace Technology, 2023, 95(6): 899-911.
+王浩, 罗振兵, 邓雄, 等. 基于合成双射流的翼型阵风载荷减缓[J]. 航空学报, 2024, 45(16): 129660.
+Wang Hao, Luo Zhenbing, Deng Xiong, et al. Airfoil gust load alleviation based on dual synthetic jets[J]. Acta Aeronautica et Astronautica Sinica, 2024, 45(16): 129660. (in Chinese)
+Li Da, Yang Hui, Qi Na, et al. Observer-based sliding mode control for piezoelectric wing bending-torsion coupling flutter involving delayed output[J]. Journal of Vibration and Control, 2021, 27(15/16): 1824-1841.
+Yuan Jiaxin, Qiu Zhan, Wang Fuxin. Sliding mode observer controller design for a two dimensional aeroelastic system with gust load[J]. Asian Journal of Control, 2019, 21(1): 130-142.
+Li Yonghong, Qin Ning. Gust load alleviation on an aircraft wing by trailing edge circulation control[J]. Journal of Fluids and Structures, 2021, 107: 103407.
+De Souza A D R, Vuillemin P, Poussot-Vassal C, et al. Gust load alleviation using reduced-order aeroelastic models and observer-based robust control[J]. Journal of Guidance Control and Dynamics, 2023, 46(5): 949-957.
+Carrillo Córcoles X, Mertens C, Sciacchitano A, et al. Effect of wing stiffness and folding wingtip release threshold on gust loads[J]. Journal of Aircraft, 2023, 60(6): 1917-1936.
+Hu Yating, Dai Yuting, Wu You, et al. Time-domain feedforward control for gust response alleviation based on seamless morphing wing[J]. AIAA Journal, 2022, 60(10): 5707-5722.
+He Tianyi, Su Weihua. Robust control of gust-induced vibration of highly flexible aircraft[J]. Aerospace Science and Technology, 2023, 143: 108703.
+Zhou Yitao, Wu Zhigang, Yang Chao. Gust alleviation and wind tunnel test by using combined feedforward control and feedback control[J]. Aerospace, 2022, 9(4): 225.
+钮耀斌, 王中伟, 黄伟. 高速飞行器间隙非线性机翼颤振的非线性能量阱抑制[J]. 国防科技大学学报, 2024, 46(2): 79-85.
+Niu Yaobin, Wang Zhongwei, Huang Wei. Suppression of nonlinear flutter for a wing with freeplay of high speed aircraft using nonlinear energy sink[J]. Journal of National University of Defense Technology, 2024, 46(2): 79-85. (in Chinese)
+Eugeni M, Saltari F, Mastroddi F. Structural damping models for passive aeroelastic control[J]. Aerospace Science and Technology, 2021, 118: 107011.
+Liu Haojie, Wang Xiao. Aeroservoelastic design of piezo-composite wings for gust load alleviation[J]. Journal of Fluids and Structures, 2019, 88: 83-99.
+Guo Shijun, De Los Monteros J, Liu Ying. Gust alleviation of a large aircraft with a passive twist wingtip[J]. Aerospace, 2015, 2(2): 135-154.
+He Shun, Guo Shijun, Liu Ying, et al. Passive gust alleviation of a flying-wing aircraft by analysis and wind-tunnel test of a scaled model in dynamic similarity[J]. Aerospace Science and Technology, 2021, 113: 106689.
+Szczyglowski C P, Neild S A, Titurus B, et al. Passive gust loads alleviation in a truss-braced wing using an inerter-based device[J]. Journal of Aircraft, 2019, 56(6): 2260-2271.
+Wang Jingjing, Zhang Chao, Zheng Yuqiang. A novel mass damper enabled by three types of mass attachments and internal vibro impacts[J]. Journal of Sound and Vibration, 2022, 534: 117065.
+AL-Shudeifat M A, Saeed A S. Comparison of a modified vibro-impact nonlinear energy sink with other kinds of NESs[J]. Meccanica, 2021, 56(4): 735-752.
+Li Tao, Qiu Donghai, Seguy S, et al. Activation characteristic of a vibro-impact energy sink and its application to chatter control in turning[J]. Journal of Sound and Vibration, 2017, 405: 1-18.
+Fang Bin, Theurich T, Krack M, et al. Vibration suppression and modal energy transfers in a linear beam with attached vibro-impact nonlinear energy sinks[J]. Communications in Nonlinear Science and Numerical Simulation, 2020, 91: 105415.
+Chabrier R, Chevallier G, Foltête E, et al. Experimental investigations of a vibro-impact absorber attached to a continuous structure[J]. Mechanical Systems and Signal Processing, 2022, 180: 109382.
+Wu Xuze, Sun Yu, Wang Yu, et al. Passive chaos suppression for the planar slider-crank mechanism with a clearance joint by attached vibro-impact oscillator[J]. Mechanism and Machine Theory, 2022, 174: 104882.
+Li Wenke, Wang Zhiming, Brennan M J, et al. Design and optimization of a two-degrees-of-freedom single-sided vibro-impact nonlinear energy sink for transient vibration suppression of a thin plate[J]. Journal of Sound and Vibration, 2024, 587: 118512.
+Xia Yuanfeng, Pang Jian, Yang Liang, et al. Investigation on clearance-induced vibro-impacts of torsional system based on Hertz contact nonlinearity[J]. Mechanism and Machine Theory, 2021, 162: 104342.
+Theodorsen T. General theory of aerodynamic instability and the mechanism of flutter: PB185078[R/OL]. https://ntrs.nasa.gov/api/citations/19930090935/downloads/19930090935.pdf.
+作者投稿
+投稿指南
+联系我们
+公众号
+返回顶部
+扫码关注
+官方微信
+您是今天第
+5278
+位访客
+总访问量：
+329793269
+电话：
+0731-87028030
+邮箱:journal@nudt.edu.cn
+地址：湖南省长沙市开福区德雅路109号
+邮政编码：410073
+备案号 
+：
+湘ICP备09019258号
+技术支持：北京勤云科技发展有限公司&lt;/pre&gt;</content:encoded></item><item><title>低温等离子体用于高功率微波防护研究&lt;sup&gt;&lt;/sup&gt;</title><link>http://journal.nudt.edu.cn/gfkjdxxb/article/html/202306011?tab=abstract</link><guid isPermaLink="false">http://journal.nudt.edu.cn/gfkjdxxb/article/html/202306011?tab=abstract</guid><description>低温等离子体用于高功率微波防护研究&lt;sup&gt;&lt;/sup&gt;
+EI•CA•INSPEC•JST•SCOPUS
+中文核心期刊•CSCD•WJCI
+首页
+期刊介绍
+投稿指南
+来稿须知
+稿件要求
+录用修订
+稿件流程
+相关下载
+编委会
+出版声明
+出版道德声明
+出版伦理声明
+开放获取声明
+联系我们
+期刊订阅
+纸刊订阅
+E-mail订阅
+Rss
+AI检索
+Deepseek
+豆包
+文心一言
+通义
+讯飞星火
+Kimi
+English
+AI智能辅读
+本章节主要描述了高功率微波攻击方式对电子信息系统安全构成的巨大威胁，可能改变未来战争的作战样式和战争形态。美、俄、英、日、法等国高度重视这一领域，美国已投入使用的装备包括主动拒止系统、警惕鹰系统、携带高功率微波弹头的AGM-86巡航导弹及用于空域封锁的高功率微波炮，并继续加大在该领域的研发投入。针对高功率微波攻击，目前基于固态半导体器件的电路级防护能力有限，主要适用于数千瓦以内的脉冲功率，而频率选择表面、能量选择表面和等离子体被认为是可能的防护方法。其中，等离子体具有敏感性，能随入射高功率微波强度改变状态，影响入射波传输。该章节对等离子体在高功率微波防护中的应用进行了仿真与实验分析，研究了柱状等离子体阵列与高功率微波相互作用的物理过程和机理，并通过实验验证了其防护效果，同时总结了基于等离子体的高功率微波防护技术需解决的主要问题。
+1 基本理论
+本章节主要描述了为了研究高功率微波作用下等离子体产生的电磁屏蔽效应，采用流体近似方法进行仿真分析。通过波动方程对电磁波在密度均匀的等离子体中的传播过程进行了表征，考虑了电场强度、磁场强度、入射波角频率以及真空和等离子体中相关物理常数的影响。同时，利用电子传递方程分析了外加电磁场所导致的等离子体内电子密度变化，涉及电子迁移率、电子扩散率及由内部碰撞反应引起的电子产生与消失源项。此外，还通过重物质传递方程探讨了电磁场对其他带电粒子分布的影响，包括第k种粒子的摩尔分数、气体密度、平均流体速率及其扩散通量等参数的变化。
+2 仿真计算模型
+本章节主要描述了采用COMSOL软件构建的一个仿真计算模型，该模型旨在模拟电磁波通过空气介质和等离子体介质后的传播过程。模型设置中，电磁波从上边界进入并向下传播，最终在完美匹配层被完全吸收，以防止反射产生的二次激励影响结果准确性。等离子体层由多根柱状等离子体单元组成，这些单元紧密排列且参数一致。仿真条件设定了入射电磁波的场强E
+0
+和频率f，并选择惰性气体Ar作为工作气体，具体气体压强为P，所涉及的粒子种类及碰撞反应见表1。
+3 仿真计算结果分析
+本章节主要描述了假设初始气体温度为300K、压强400Pa条件下，电子均匀分布密度1.0×10
+16
+m
+-3
+的等离子体在高功率微波作用下的仿真计算结果。研究中使用的等离子体直径25mm，玻璃管壁厚度0.3mm，初始电子能为3eV，碰撞频率5×10
+9
+Hz，入射微波频率6GHz、电场强度2×10
+6
+V/m。仿真结果显示，在t=2.15×10
+-10
+s时，等离子体区域的电场与空气区域基本一致，表明初始时刻入射波可无损透过等离子体；而在t=3.98×10
+-10
+s至t=5.99×10
+-10
+s期间，上下方空气区域的电场值变化显著，说明此阶段内等离子体与高功率微波发生了剧烈相互作用；到了t=9.03×10
+-10
+s到t=0.001s时，等离子体上方出现驻波场，下方电场几乎为零，显示出强烈的电磁屏蔽特性。进一步分析表明，在高功率微波的作用下，等离子体内电子经历加速、非弹性碰撞、雪崩效应和新的粒子平衡建立的过程</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; http://journal.nudt.edu.cn/gfkjdxxb/article/html/202306011?tab=abstract&lt;/p&gt;&lt;pre&gt;低温等离子体用于高功率微波防护研究&amp;lt;sup&amp;gt;&amp;lt;/sup&amp;gt;
+EI•CA•INSPEC•JST•SCOPUS
+中文核心期刊•CSCD•WJCI
+首页
+期刊介绍
+投稿指南
+来稿须知
+稿件要求
+录用修订
+稿件流程
+相关下载
+编委会
+出版声明
+出版道德声明
+出版伦理声明
+开放获取声明
+联系我们
+期刊订阅
+纸刊订阅
+E-mail订阅
+Rss
+AI检索
+Deepseek
+豆包
+文心一言
+通义
+讯飞星火
+Kimi
+English
+AI智能辅读
+本章节主要描述了高功率微波攻击方式对电子信息系统安全构成的巨大威胁，可能改变未来战争的作战样式和战争形态。美、俄、英、日、法等国高度重视这一领域，美国已投入使用的装备包括主动拒止系统、警惕鹰系统、携带高功率微波弹头的AGM-86巡航导弹及用于空域封锁的高功率微波炮，并继续加大在该领域的研发投入。针对高功率微波攻击，目前基于固态半导体器件的电路级防护能力有限，主要适用于数千瓦以内的脉冲功率，而频率选择表面、能量选择表面和等离子体被认为是可能的防护方法。其中，等离子体具有敏感性，能随入射高功率微波强度改变状态，影响入射波传输。该章节对等离子体在高功率微波防护中的应用进行了仿真与实验分析，研究了柱状等离子体阵列与高功率微波相互作用的物理过程和机理，并通过实验验证了其防护效果，同时总结了基于等离子体的高功率微波防护技术需解决的主要问题。
+1 基本理论
+本章节主要描述了为了研究高功率微波作用下等离子体产生的电磁屏蔽效应，采用流体近似方法进行仿真分析。通过波动方程对电磁波在密度均匀的等离子体中的传播过程进行了表征，考虑了电场强度、磁场强度、入射波角频率以及真空和等离子体中相关物理常数的影响。同时，利用电子传递方程分析了外加电磁场所导致的等离子体内电子密度变化，涉及电子迁移率、电子扩散率及由内部碰撞反应引起的电子产生与消失源项。此外，还通过重物质传递方程探讨了电磁场对其他带电粒子分布的影响，包括第k种粒子的摩尔分数、气体密度、平均流体速率及其扩散通量等参数的变化。
+2 仿真计算模型
+本章节主要描述了采用COMSOL软件构建的一个仿真计算模型，该模型旨在模拟电磁波通过空气介质和等离子体介质后的传播过程。模型设置中，电磁波从上边界进入并向下传播，最终在完美匹配层被完全吸收，以防止反射产生的二次激励影响结果准确性。等离子体层由多根柱状等离子体单元组成，这些单元紧密排列且参数一致。仿真条件设定了入射电磁波的场强E
+0
+和频率f，并选择惰性气体Ar作为工作气体，具体气体压强为P，所涉及的粒子种类及碰撞反应见表1。
+3 仿真计算结果分析
+本章节主要描述了假设初始气体温度为300K、压强400Pa条件下，电子均匀分布密度1.0×10
+16
+m
+-3
+的等离子体在高功率微波作用下的仿真计算结果。研究中使用的等离子体直径25mm，玻璃管壁厚度0.3mm，初始电子能为3eV，碰撞频率5×10
+9
+Hz，入射微波频率6GHz、电场强度2×10
+6
+V/m。仿真结果显示，在t=2.15×10
+-10
+s时，等离子体区域的电场与空气区域基本一致，表明初始时刻入射波可无损透过等离子体；而在t=3.98×10
+-10
+s至t=5.99×10
+-10
+s期间，上下方空气区域的电场值变化显著，说明此阶段内等离子体与高功率微波发生了剧烈相互作用；到了t=9.03×10
+-10
+s到t=0.001s时，等离子体上方出现驻波场，下方电场几乎为零，显示出强烈的电磁屏蔽特性。进一步分析表明，在高功率微波的作用下，等离子体内电子经历加速、非弹性碰撞、雪崩效应和新的粒子平衡建立的过程，导致等离子体的电磁参数发生变化，从而表现出类似于金属的屏蔽效果，实现了对入射高功率微波的有效防护。
+4 实验验证
+本章节主要描述了实验设备连接示意图：高功率微波信号由L波段高功率微波源产生，经定向耦合器分成两路。一路作为参考信号接入高精度示波器；另一路由发射喇叭辐射后通过柱状等离子体阵列被接收喇叭接收，并最终作为接收信号接入高精度示波器。实验中使用的等离子体采用高频辉光放电方式产生，初始平均电子密度约为1.2×10
+16
+m
+-3
+。实验使用了1.3GHz的高功率微波源，脉冲宽度为1000ns。在等离子体未开启时，接收信号与参考信号基本一致；而在等离子体开启后，高功率微波透射衰减超过20dB，表明等离子体对高功率微波具有显著的防护作用。进一步实验显示双层等离子体可使高功率微波透射衰减值超过26dB，证实了增加等离子体厚度能提升防护效果。然而，该实验为初步探索，在极化方式、微波频率、等离子体状态等方面尚需进一步研究和完善。
+5 结论
+本章节总结了基于等离子体流体近似方法建立的高功率微波与等离子体相互作用仿真计算模型，研究了入射电场随时间演变的过程，并分析了等离子体防护高功率微波的机理。仿真结果显示，当高功率微波通过等离子体时会被吸收并引发电子雪崩，产生更高密度的等离子体，导致对高功率微波的反射效应增强，直至仅有少量能量进入等离子体维持后续电子。随着微波能量继续增大，这一过程会重复发生直到新的动态平衡形成；当微波消失后，等离子体会快速恢复到初始状态。研究还探讨了高功率微波频率、脉宽、等离子体初始电子密度和放电气体种类等因素对相互作用的影响。实验通过高频辉光放电产生柱状等离子体阵列验证了其对高功率微波的有效防护作用，并致力于开发小型化等离子体防护器件，解决包括不影响低功率电磁信号传输、缩短非线性效应响应时间、拓宽响应频率以及提高装置抗高功率微波能力等问题。
+* 以上内容由AI自动生成，内容仅供参考。对于因使用本网站以上内容产生的相关后果，本网站不承担任何商业和法律责任
+AI智能问答
+1：等离子体如何用于防护高功率微波攻击？
+2：在高功率微波作用下，等离子体中的哪些方程被用来表征电磁波的传播过程和带电粒子的行为？
+3：仿真计算模型中使用了什么软件进行电磁波传播模拟？
+4：高功率微波对等离子体电磁特性有何影响？
+5：等离子体对高功率微波的防护效果如何？
+6：高功率微波与等离子体相互作用会产生什么效应？
+* 以上内容由AI自动生成，内容仅供参考。对于因使用本网站以上内容产生的相关后果，本网站不承担任何商业和法律责任
+AI语音讲解
+Pause
+Play
+% buffered
+00:00
+00:00
+07:32
+Unmute
+Mute
+Disable captions
+Enable captions
+PIP
+Exit fullscreen
+Enter fullscreen
+Play
+* 以上内容由AI自动生成，内容仅供参考。对于因使用本网站以上内容产生的相关后果，本网站不承担任何商业和法律责任
+AI思维导图
+导出Markdown
+导出图片
+* 以上内容由AI自动生成，内容仅供参考。对于因使用本网站以上内容产生的相关后果，本网站不承担任何商业和法律责任
+引用本文:
+李志刚，邱志楠，汪家春，等.低温等离子体用于高功率微波防护研究&amp;lt;sup&amp;gt;&amp;lt;/sup&amp;gt;[J].国防科技大学学报,2023,45(6):84-89.
+Citation:
+LI Zhigang, QIU Zhinan, WANG Jiachun, et al. Study of high-power microwave protection technology based on low-temperature plasma[J]. Journal of National University of Defense Technology,2023,45(6):84-89.
+低温等离子体用于高功率微波防护研究
+*
+doi:
+10.11887/j.cn.202306012
+李志刚
+角色:
+第一作者
+机构:
+国防科技大学 脉冲功率激光技术国家重点实验室, 安徽 合肥 230037
+邮箱:
+class1_48@163.com；
+简介:
+李志刚（1990—），男，山东济宁人，副研究员，博士，E-mail: class1_48@163.com；
+，
+ 邱志楠
+机构:
+国防科技大学 脉冲功率激光技术国家重点实验室, 安徽 合肥 230037
+，
+ 汪家春
+机构:
+国防科技大学 脉冲功率激光技术国家重点实验室, 安徽 合肥 230037
+，
+ 刘丽萍
+机构:
+国防科技大学 脉冲功率激光技术国家重点实验室, 安徽 合肥 230037
+，
+ 王俊儒
+机构:
+国防科技大学 脉冲功率激光技术国家重点实验室, 安徽 合肥 230037
+，
+ 陈宗胜
+角色:
+通信作者
+机构:
+国防科技大学 脉冲功率激光技术国家重点实验室, 安徽 合肥 230037
+邮箱:
+chenzongsh12@163.com
+简介:
+陈宗胜，男，安徽合肥人，副研究员，博士，E-mail: chenzongsh12@163.com
+国防科技大学 脉冲功率激光技术国家重点实验室, 安徽 合肥 230037
+基金项目:
+安徽省自然科学基金面上资助项目（1908085MF205）
+详细信息
+收起信息
+作者简介
+李志刚（1990—），男，山东济宁人，副研究员，博士，E-mail: class1_48@163.com；
+通信作者
+陈宗胜，男，安徽合肥人，副研究员，博士，E-mail: chenzongsh12@163.com
+中图分类号:
+TN01
+文献标志码:
+A
+文章编号:
+1001-2486(2023)06-084-06
+Study of high-power microwave protection technology based on low-temperature plasma
+LI Zhigang
+Role:
+First Author
+Affiliation:
+State Key Laboratory of Pulsed Power Laser Technology, National University of Defense Technology, Hefei 230037 , China
+Email:
+class1_48@163.com；
+，
+ QIU Zhinan
+Affiliation:
+State Key Laboratory of Pulsed Power Laser Technology, National University of Defense Technology, Hefei 230037 , China
+，
+ WANG Jiachun
+Affiliation:
+State Key Laboratory of Pulsed Power Laser Technology, National University of Defense Technology, Hefei 230037 , China
+，
+ LIU Liping
+Affiliation:
+State Key Laboratory of Pulsed Power Laser Technology, National University of Defense Technology, Hefei 230037 , China
+，
+ WANG Junru
+Affiliation:
+State Key Laboratory of Pulsed Power Laser Technology, National University of Defense Technology, Hefei 230037 , China
+，
+ CHEN Zongsheng
+Role:
+Corresponding Author
+Affiliation:
+State Key Laboratory of Pulsed Power Laser Technology, National University of Defense Technology, Hefei 230037 , China
+Email:
+chenzongsh12@163.com
+State Key Laboratory of Pulsed Power Laser Technology, National University of Defense Technology, Hefei 230037 , China
+摘要
+HTML全文
+图(6)表(1)
+参考文献(12)
+相似文献
+出版信息
+访问统计
+资源附件
+摘要
+等离子体对于高功率微波的攻击具有独特的防护效果。基于等离子体流体近似方法，利用COMSOL软件研究了高功率微波与柱状等离子体阵列相互作用过程中入射电场随时间的演变过程，分析了等离子体防护高功率微波的物理过程和作用机理。研究结果表明，入射的高功率微波会使等离子体参数发生剧烈变化，特别是其电子密度将急剧增加，从而使等离子体对入射的高功率微波表现出类似金属的电磁特性，最终实现对入射高功率微波的有效防护。此外，利用高频辉光放电产生柱状等离子体阵列，通过实验验证了等离子体对高功率微波的防护作用。最后，总结了基于等离子体的高功率微波防护技术需解决的主要问题。
+关键词
+高功率微波
+/
+防护技术
+/
+柱状等离子体阵列
+Abstract
+Plasma has a unique protective effect against high-power microwave attack. Based on the plasma fluid approximation method, the time dependent evolution of the incident electric field during the interaction between high-power microwaves and columnar plasma arrays was studied by using COMSOL software, and the physical process and mechanism of plasma protection against high-power microwaves were analyzed. The results show that the incident high-power microwave will change the plasma parameters drastically, especially the electron density will increase sharply, so that the plasma will show metal-like electromagnetic properties to the incident high-power microwave, and finally realize the effective protection against the incident high-power microwave. In addition, the plasma protection against high-power microwaves was experimentally verified by using columnar plasma arrays generated by high-frequency glow discharge. Finally, the main problems to be solved for plasma-based high-power microwave protection technology were summarized.
+Keywords
+high-power microwave
+/
+protection technology
+/
+columnar plasma arrays
+1 基本理论
+1.1 波动方程
+1.2 电子传递方程
+1.3 重物质传递方程
+2 仿真计算模型
+3 仿真计算结果分析
+4 实验验证
+4.1 实验方案
+4.2 实验结果
+5 结论
+高功率微波攻击方式的出现给电子信息系统安全带来了巨大的威胁。在未来信息化条件下，电子信息系统一旦遭受破坏，再强大的武器装备也会变成“瞎子”“聋子”，甚至变为一堆废铁。可见，高功率微波攻击或将改变未来战争的作战样式，对未来战争形态产生重大影响
+[
+1
+]
+。
+正是认识到高功率微波攻击的强大作战效能，美、俄、英、日、法等国都非常重视，并已有相关装备报道。以美国为例，已投入使用的装备有主动拒止系统、警惕鹰系统、携带高功率微波弹头的AGM-86巡航导弹以及用于空域封锁的高功率微波炮等
+[
+2
+]
+。目前，美军在这一领域仍在继续加大投入。因此，提升装备对高功率微波的防护能力具有重要的军事效益和现实意义。
+目前基于固态半导体器件的电路级防护，其能防护的最大脉冲功率一般在数千瓦以内（具体数值与微波脉冲的宽度有关）。对于更高功率的微波脉冲，可能的防护方法主要有频率选择表面、能量选择表面和等离子体
+[
+3
+-
+5
+]
+。其中等离子体对高功率微波的能量具有敏感性，能够随着入射高功率微波的强弱改变自身的状态，进而影响入射波的传输，兼具了频率选择表面和能量选择表面的优点，具有很好的研究价值和应用前景
+[
+6
+-
+8
+]
+。
+本文针对等离子体对高功率微波的防护效果开展了仿真与实验分析，研究了高功率微波与柱状等离子体阵列相互作用过程中入射电场随时间的演变过程，分析了等离子体防护高功率微波的物理过程和作用机理；在此基础上，通过实验验证了等离子体对高功率微波的防护效果；最后结合相关研究工作，对基于等离子体的高功率微波防护技术需解决的主要问题进行了总结。
+1 基本理论
+为了研究在高功率微波作用下等离子体产生的电磁屏蔽作用，本文采用流体近似方法
+[
+9
+-
+10
+]
+进行仿真分析，分别采用等离子体中的波动方程、电子传递方程和重物质传递方程，对高功率微波在等离子体中的传播过程和等离子体内部电子及其他带电粒子受入射电磁能量的影响进行表征。
+1.1 波动方程
+当电磁波入射到密度均匀的等离子体上时，电磁波在等离子体中的麦克斯韦方程
+[
+11
+]
+为：
+∇
+×
+H
+=
+j
+ω
+ε
+0
+ε
+r
+⋅
+E
+(1)
+∇
+×
+E
+=
+-
+j
+ω
+μ
+0
+H
+(2)
+可得波动方程：
+∇
+×
+∇
+×
+E
+-
+k
+0
+2
+ε
+r
+⋅
+E
+=
+0
+(3)
+其中：
+H
+为磁场强度；
+E
+为电场强度；
+ω
+为入射波的角频率；
+ε
+0
+、
+μ
+0
+、
+k
+0
+分别为真空中的介电常数、磁导率和波数；
+ε
+r
+为等离子体的相对介电常数，可通过式（4）求解。
+ε
+r
+=
+1
+-
+ω
+p
+ω
+(
+ω
+-
+i
+v
+)
+(4)
+式中，
+ω
+p
+为等离子频率，
+υ
+为电子碰撞频率，
+i
+为复数标号。
+1.2 电子传递方程
+在外加电磁场的作用下，等离子体内部电子密度的变化可通过电子传递方程来进行分析，方程可表示为：
+∂
+∂
+t
+n
+e
++
+∇
+⋅
+Γ
+e
+=
+R
+e
+(5)
+Γ
+e
+=
+-
+μ
+e
+⋅
+E
+n
+e
+-
+D
+e
+⋅
+∇
+n
+e
+(6)
+其中：
+n
+e
+为电子数密度；
+μ
+e
+、
+D
+e
+为电子迁移率和电子扩散率；
+R
+e
+为电子源项，表征了内部碰撞反应导致的电子的产生与消失，可通过式（7）求得。
+R
+e
+=
+∑
+j
+=
+1
+M
+x
+j
+k
+j
+N
+n
+n
+e
+(7)
+式中，
+x
+j
+为
+j
+反应中碰撞粒子的摩尔质量分数，
+k
+j
+为
+j
+反应的反应速率，
+N
+n
+为等离子体中总的粒子数密度。
+1.3 重物质传递方程
+外加电磁场还会引发等离子体内部其他带电粒子的分布产生变化，可通过重物质传递方程来进行分析，方程为：
+ρ
+∂
+∂
+t
+ω
+k
++
+ρ
+(
+u
+⋅
+∇
+)
+ω
+k
+=
+∇
+⋅
+j
+k
++
+R
+k
+(8)
+式中：
+ω
+k
+为第
+k
+种粒子的摩尔分数；
+ρ
+为气体密度；
+u
+为平均流体速率；
+j
+k
+为第
+k
+种粒子的扩散通量，可通过式（9）表示。
+j
+k
+=
+ρ
+ω
+k
+V
+k
+(9)
+V
+k
+=
+D
+k
+,
+m
+∇
+ω
+k
+ω
+k
++
+D
+k
+,
+m
+∇
+M
+n
+M
+n
++
+D
+k
+T
+ρ
+ω
+k
+∇
+T
+T
+-
+z
+k
+μ
+k
+,
+m
+E
+(10)
+式中，
+D
+k
+，
+m
+为重物质平均扩散系数，
+M
+n
+为重物质平均摩尔质量，
+D
+T
+k
+、
+z
+k
+、
+μ
+k，m
+分别为第
+k
+种粒子的热扩散系数、电荷数以及平均迁移率，
+T
+为气体温度。
+2 仿真计算模型
+采用COMSOL软件进行计算，具体模型如
+图1
+所示。模型模拟的物理过程为：电磁波从上边界进入模型，向下传播，经空气介质和等离子体介质后，传输至设置的完美匹配层（避免波反射产生的二次激励）被完全吸收。等离子体层由多根前后延伸的柱状等离子体单元紧密排列组成，假设每根等离子体单元的参数完全一致。
+图
+1
+高功率微波与柱状等离子体阵列相互作用的仿真计算模型示意图
+Fig.
+1
+Simulation schematic diagram of the interactions between high-power microwave and columnar plasma arrays
+假设入射电磁波场强为
+E
+0
+，电磁波频率为
+f
+，选择常用的惰性气体Ar作为工作气体，所涉及的粒子种类和碰撞反应在
+表1
+给出
+[
+12
+]
+，气体压强为
+P
+。
+表
+1
+氩等离子体内部碰撞反应方程及类型
+Table
+1
+Collision reaction functions and types inside Ar plasma
+3 仿真计算结果分析
+假设初始时刻气体温度为300 K，压强为400 Pa，电子初始为均匀分布，密度为1.0×10
+16
+m
+-3
+，等离子体直径为25 mm，玻璃管壁厚度为0.3 mm，初始电子能为3 eV，碰撞频率为5×10
+9
+Hz，高功率微波频率为6 GHz，电场强度为2×10
+6
+V/m，极化方向与等离子体管轴向方向一致，计算时间设置为0~0.001 s。
+图2
+为不同时刻计算模型中的电场分布，图中采用统一的颜色图例（
+E
+：0~4×10
+6
+V/m）。高功率微波脉冲从上边界入射，经空气层和等离子体层后被完美匹配层吸收。
+从
+图2
+可以看出，在
+t
+=2.15×10
+-10
+s时刻，等离子体区域的电场值与上下空气区域基本一致，说明在初始时刻入射波几乎可以无损透过等离子体区域。从
+t
+=3.98×10
+-10
+s到
+t
+=5.99×10
+-10
+s，可以明显看到等离子体下方空气区域的电场值越来越小，上方空气电场峰值不断增大。说明这一时间内，等离子体与高功率微波发生了剧烈的相互作用。从
+t
+=9.03×10
+-10
+s到
+t
+=0.001 s可以看到，等离子体上方区域存在明显的驻波场，下方区域仅有很少的能量透过，电场值接近于零，等离子体类似于金属，对入射电磁波表现出较强的屏蔽特性。
+为了更好地解释上述结果的产生原因，
+图3
+给出了计算模型中轴线电子密度和电场分布的演变曲线，图中灰色区域代表玻璃放电管的物理尺寸。
+图3
+中表征的物理过程可描述为：①初始阶段，等离子体内部电子受到高功率微波的加速作用，由低能电子转化为高能电子，并通过弹性碰撞反应，将吸收的电磁能量传递给中性粒子，提高等离子体的内能，在这一阶段非弹性碰撞反应并不显著，电子密度增加缓慢，等离子体本身的电磁参数基本保持不变，入射波几乎无损透过等离子体区域；②随着高能电子不断积累和等离子体内能不断增加，等离子体中非弹性碰撞反应速率显著增大，大量的高能电子被消耗，平均电子能急剧下降，电子雪崩效应产生，大量新生电子参与到等离子体振荡中，等离子体电导率急剧增大，对入射波的衰减急剧增大，等离子体电磁特性发生较大改变，其对入射波的屏蔽作用开始显现，透过等离子体区域的电磁能量不断减小；③当高能电子被大量消耗，直接电离反应（见
+表1
+中反应4）开始减弱，间接电离反应（见
+表1
+中反应5）增强，激发态氩原子被大量消耗用于继续产生新的带电粒子，等离子体电磁特性进一步发生改变，电导率继续增大，入射波在等离子体中趋肤深度不断减小，等离子体对入射波的屏蔽性能更为显著，透过等离子体区域的电磁能量进一步减小；④随着等离子体区域电子密度不断增加，入射的电磁能量除小部分被吸收外，大部分被反射，等离子体内部碰撞反应趋于缓和，电子密度增加速率变缓，空间分布开始变得均匀，等离子体内部逐渐达到新的平衡。
+图
+2
+计算模型中电场强度空间分布随激励时间的演变过程
+Fig.
+2
+Time dependence of the electric field intensity in simulation calculation model
+图
+3
+模型中轴线电子密度和电场分布随激励时间的演变过程
+Fig.
+3
+Time dependence of the axial electron density and electric field distribution in simulation calculation model
+从粒子平衡角度对这一过程进行解释：等离子体与高功率微波之间的相互作用是通过状态改变来维持粒子平衡的。等离子体作为特殊的介质，内部存在一定的粒子平衡，并且具有强烈维持这一平衡的意愿。高功率微波的入射破坏了等离子体中的粒子平衡，等离子体内部随之产生强烈的振荡和碰撞反应，建立新的状态来平衡外加电磁场产生的影响。
+从上面的物理过程分析可知，入射的高功率微波会使等离子体的参数发生剧烈变化，特别是其电子密度将急剧增加，这会引起等离子体电磁参数发生同步改变，从而使等离子体对入射的高功率微波表现出类似金属的电磁特性，最终实现对入射高功率微波的有效防护。
+4 实验验证
+4.1 实验方案
+图4
+为实验设备连接示意图。实验中，高功率微波信号由L波段高功率微波源产生，经定向耦合器后分成两路信号：一路信号经同轴线缆接入高精度示波器，作为参考信号；另一路信号通过同轴线缆传输至发射喇叭以产生高功率微波辐射信号，高功率辐射波传输通过等离子体阵列后被接收喇叭接收，而后经衰减器、检波器、同轴线缆接入高精度示波器，作为接收信号。柱状等离子体阵列与收发喇叭口面平行，距离发射喇叭3 m（满足远场条件），紧贴接收喇叭并使等离子体单元完全覆盖整个接收喇叭口面，从而能够保证到达等离子体阵列处的高功率微波功率密度与到达接收口面的功率密度相一致。等离子体采用高频辉光放电方式产生，其初始平均电子密度约为1.2×10
+16
+m
+-3
+。
+图
+4
+实验测试示意图
+Fig.
+4
+Schematic diagram of the experimental test
+4.2 实验结果
+实验采用1.3 GHz高功率微波源，脉冲宽度为1 000 ns。
+图5
+为脉冲源发射功率为170 kW时（此时辐照到等离子体上的电场强度约为8 100 V/m），等离子体未开启情况下的测试结果，其中黄色线为发射端输入的参考信号测试结果，绿色线为接收信号测试结果。
+图6
+为脉冲源发射功率约为144 kW时（此时辐照到等离子体上的电场强度约为7 450 V/m），等离子体开启情况下的测试结果。对比
+图5
+和
+图6
+可以看出，等离子体对1.3 GHz高功率微波产生了明显的防护作用（透射衰减大于20 dB）。
+图
+5
+发射功率为170 kW、等离子体未开启情况下的测试结果
+Fig.
+5
+Test results in condition of emission power 170 kW, plasma turned off
+实验过程中还对同样条件下的双层等离子体进行了防护验证，高功率微波透射衰减值超过26 dB，显然，等离子体厚度越大，防护效果越好。另外，由于是初步探索实验，在设置上缺少了对极化方式、微波频率、等离子体状态等多因素的考虑，在后续的研究工作中将进一步完善。
+图
+6
+发射功率为144 kW、等离子体开启情况下的测试结果
+Fig.
+6
+Test results in condition of emission power 144 kW, plasma turned on
+5 结论
+本文基于等离子体流体近似方法，建立了高功率微波与等离子体相互作用仿真计算模型，研究了高功率微波与柱状等离子体阵列相互作用过程中入射电场随时间的演变过程，分析了等离子体防护高功率微波的机理和物理过程。仿真结果表明，高功率微波通过等离子体时，会被后者吸收造成电子雪崩，产生更高电子密度的等离子体，使得等离子体对高功率微波的反射效应不断增强。这一过程不断发生，直至仅能有少量的微波能量进入等离子体，用于后产生电子的维持。此后，当进入等离子体中的微波能量继续增大时，电子雪崩效应再次发生，电子密度也会相应继续增大，直至达到新的动态平衡；而当高功率微波消失时，由于缺乏外界能量维持，电子和离子迅速复合，等离子体迅速恢复到与高功率微波相互作用前的状态。同时，利用本文建立的模型，还可以对高功率微波与等离子体相互作用过程中的影响因素（如高功率微波频率、脉宽、等离子体初始电子密度、初始电子能量、放电气体种类和气压等）进行分析。
+此外，利用高频辉光放电产生柱状等离子体阵列，通过实验证实了等离子体对高功率微波具有很好的防护作用。目前正在开展基于等离子体的高功率微波小型化防护器件研究，主要解决的问题有：①对于被保护电子系统工作频带内的小功率电磁信号，防护器件不能影响其正常传输；②在高功率微波作用下，等离子体发生非线性效应的时间尽可能短，以免造成漏过微波功率过大问题；③等离子体产生非线性效应的响应频率要尽可能宽；④等离子体产生装置自身能经得起高功率微波的攻击，同时其体积、质量和功耗满足使用要求。
+图
+1
+高功率微波与柱状等离子体阵列相互作用的仿真计算模型示意图
+Fig.
+1
+Simulation schematic diagram of the interactions between high-power microwave and columnar plasma arrays
+下载:
+全尺寸图片
+(50)
+图
+2
+计算模型中电场强度空间分布随激励时间的演变过程
+Fig.
+2
+Time dependence of the electric field intensity in simulation calculation model
+下载:
+全尺寸图片
+(84)
+图
+3
+模型中轴线电子密度和电场分布随激励时间的演变过程
+Fig.
+3
+Time dependence of the axial electron density and electric field distribution in simulation calculation model
+下载:
+全尺寸图片
+(84)
+图
+4
+实验测试示意图
+Fig.
+4
+Schematic diagram of the experimental test
+下载:
+全尺寸图片
+(98)
+图
+5
+发射功率为170 kW、等离子体未开启情况下的测试结果
+Fig.
+5
+Test results in condition of emission power 170 kW, plasma turned off
+下载:
+全尺寸图片
+(50)
+图
+6
+发射功率为144 kW、等离子体开启情况下的测试结果
+Fig.
+6
+Test results in condition of emission power 144 kW, plasma turned on
+下载:
+全尺寸图片
+(71)
+表
+1
+氩等离子体内部碰撞反应方程及类型
+Table
+1
+Collision reaction functions and types inside Ar plasma
+下载:
+全尺寸图片
+(52)
+图
+1
+高功率微波与柱状等离子体阵列相互作用的仿真计算模型示意图
+Fig.
+1
+Simulation schematic diagram of the interactions between high-power microwave and columnar plasma arrays
+图
+2
+计算模型中电场强度空间分布随激励时间的演变过程
+Fig.
+2
+Time dependence of the electric field intensity in simulation calculation model
+图
+3
+模型中轴线电子密度和电场分布随激励时间的演变过程
+Fig.
+3
+Time dependence of the axial electron density and electric field distribution in simulation calculation model
+图
+4
+实验测试示意图
+Fig.
+4
+Schematic diagram of the experimental test
+图
+5
+发射功率为170 kW、等离子体未开启情况下的测试结果
+Fig.
+5
+Test results in condition of emission power 170 kW, plasma turned off
+图
+6
+发射功率为144 kW、等离子体开启情况下的测试结果
+Fig.
+6
+Test results in condition of emission power 144 kW, plasma turned on
+表
+1
+氩等离子体内部碰撞反应方程及类型
+Table
+1
+Collision reaction functions and types inside Ar plasma
+[1]
+刘振林, 杨光, 段难, 等. 高功率微波导弹对战场环境的影响及对抗技术研究[J]. 微波学报, 2020, 36(增刊1): 358-361.
+LIU Z L, YANG G, DUAN N, et al. Research on the impact of CHAMP on the battlefield environment and the countermeasure technology[J]. Journal of Microwaves, 2020, 36(Suppl 1): 358-361.(in Chinese)
+[2]
+冯奇, 傅镇波. 高功率微波武器典型场景应用分析[J]. 中国电子科学研究院学报, 2021, 16(9): 916-920.
+FENG Q, FU Z B. Application analysis of HPM weapon in typical scenarios[J]. Journal of China Academy of Electronics and Information Technology, 2021, 16(9): 916-920.(in Chinese)
+[3]
+刘洋, 程立. 电磁脉冲防护技术研究现状[J]. 材料导报, 2016, 30(增刊2): 272-275.
+LIU Y, CHENG L. Research status of electromagnetic pulse weapon and its protection technology[J]. Materials Review, 2016, 30(Suppl 2): 272-275.(in Chinese)
+[4]
+宋玮, 邵浩, 张治强, 等. 射频击穿等离子体对高功率微波传输特性的影响[J]. 物理学报, 2014, 63(6): 158-162.
+SONG W, SHAO H, ZHANG Z Q, et al. High power microwave propagation properties in radio frequency breakdown plasma[J]. Acta Physica Sinica, 2014, 63(6): 158-162.(in Chinese)
+[5]
+KOURTZANIDIS K, BOEUF J P, ROGIER F. Three dimensional simulations of pattern formation during high-pressure, freely localized microwave breakdown in air[J]. Physics of Plasmas, 2014, 21(12): 123513.
+[6]
+赵朋程, 郭立新, 李慧敏.110 GHz高功率微波在大气击穿等离子体中的传输、反射和吸收[J]. 电波科学学报, 2016, 31(3): 512-515.
+ZHAO P C, GUO L X, LI H M. Transmission, reflection and absorption of 110 GHz high-power microwave in air breakdown plasma[J]. Chinese Journal of Radio Science, 2016, 31(3): 512-515.(in Chinese)
+[7]
+PAYNE K, XU K, CHOI J H, et al. Multiphysics analysis of plasma-based tunable absorber for high-power microwave applications[J]. IEEE Transactions on Antennas and Propagation, 2021, 69(11): 7624-7636.
+[8]
+WANG H Y, HU F, HU B, et al. Characteristics of microwave breakdown in cavity filter under high power microwave environment[C]//Proceedings of 2020 IEEE MTT-S International Conference on Numerical Electromagnetic and Multiphysics Modeling and Optimization(NEMO), 2020.
+[9]
+郑灵, 赵青, 罗先刚, 等. 等离子体中电磁波传输特性理论与实验研究[J]. 物理学报, 2012, 61(15): 343-349.
+ZHENG L, ZHAO Q, LUO X G, et al. Theoretical and experimental studies of electromagnetic wave transmission in plasma[J]. Acta Physica Sinica, 2012, 61(15): 343-349.(in Chinese)
+[10]
+李志刚, 陈宗胜. 等离子体与高功率微波相互作用中电子分布特性[J]. 国防科技大学学报, 2020, 42(1): 10-17.
+LI Z G, CHEN Z S. Distributions of the electron in the interactions between high power microwave and plasma[J]. Journal of National University of Defense Technology, 2020, 42(1): 10-17.(in Chinese)
+[11]
+袁忠才, 时家明. 高功率微波与等离子体相互作用理论和数值研究[J]. 物理学报, 2014, 63(9): 255-264.
+YUAN Z C, SHI J M. Theoretical and numerical studies on interactions between high-power microwave and plasma[J]. Acta Physica Sinica, 2014, 63(9): 255-264.(in Chinese)
+[12]
+HE W, LIU X H, XIAN R C, et al. Kinetics characteristics and bremsstrahlung of argon DC discharge under atmospheric pressure[J]. Plasma Science and Technology, 2013, 15(4): 335-342.
+PDF下载
+XML下载
+导出引用
+引用提醒
+图(6)
+/
+表(1)
+手机扫码阅读
+引用本文
+李志刚，邱志楠，汪家春，等.低温等离子体用于高功率微波防护研究&amp;lt;sup&amp;gt;&amp;lt;/sup&amp;gt;[J].国防科技大学学报,2023,45(6):84-89.
+复制
+LI Zhigang, QIU Zhinan, WANG Jiachun, et al. Study of high-power microwave protection technology based on low-temperature plasma[J]. Journal of National University of Defense Technology,2023,45(6):84-89.
+Copy
+计量
+文章访问量:
+29612
+HTML全文浏览量:
+4241
+PDF下载量:
+10099
+被引次数:
+0
+图
+1
+高功率微波与柱状等离子体阵列相互作用的仿真计算模型示意图
+Fig.
+1
+Simulation schematic diagram of the interactions between high-power microwave and columnar plasma arrays
+图
+2
+计算模型中电场强度空间分布随激励时间的演变过程
+Fig.
+2
+Time dependence of the electric field intensity in simulation calculation model
+图
+3
+模型中轴线电子密度和电场分布随激励时间的演变过程
+Fig.
+3
+Time dependence of the axial electron density and electric field distribution in simulation calculation model
+图
+4
+实验测试示意图
+Fig.
+4
+Schematic diagram of the experimental test
+图
+5
+发射功率为170 kW、等离子体未开启情况下的测试结果
+Fig.
+5
+Test results in condition of emission power 170 kW, plasma turned off
+图
+6
+发射功率为144 kW、等离子体开启情况下的测试结果
+Fig.
+6
+Test results in condition of emission power 144 kW, plasma turned on
+表
+1
+氩等离子体内部碰撞反应方程及类型
+Table
+1
+Collision reaction functions and types inside Ar plasma
+刘振林, 杨光, 段难, 等. 高功率微波导弹对战场环境的影响及对抗技术研究[J]. 微波学报,2020,36(增刊1):358-361.
+LIU Z L, YANG G, DUAN N,et al. Research on the impact of CHAMP on the battlefield environment and the countermeasure technology[J]. Journal of Microwaves,2020,36(Suppl 1):358-361.(in Chinese)
+冯奇, 傅镇波. 高功率微波武器典型场景应用分析[J]. 中国电子科学研究院学报,2021,16(9):916-920.
+FENG Q, FU Z B. Application analysis of HPM weapon in typical scenarios[J]. Journal of China Academy of Electronics and Information Technology,2021,16(9):916-920.(in Chinese)
+刘洋, 程立. 电磁脉冲防护技术研究现状[J]. 材料导报,2016,30(增刊2):272-275.
+LIU Y, CHENG L. Research status of electromagnetic pulse weapon and its protection technology[J]. Materials Review,2016,30(Suppl 2):272-275.(in Chinese)
+宋玮, 邵浩, 张治强, 等. 射频击穿等离子体对高功率微波传输特性的影响[J]. 物理学报,2014,63(6):158-162.
+SONG W, SHAO H, ZHANG Z Q,et al. High power microwave propagation properties in radio frequency breakdown plasma[J]. Acta Physica Sinica,2014,63(6):158-162.(in Chinese)
+KOURTZANIDIS K, BOEUF J P, ROGIER F. Three dimensional simulations of pattern formation during high-pressure,freely localized microwave breakdown in air[J]. Physics of Plasmas,2014,21(12):123513.
+赵朋程, 郭立新, 李慧敏.110 GHz高功率微波在大气击穿等离子体中的传输、反射和吸收[J]. 电波科学学报,2016,31(3):512-515.
+ZHAO P C, GUO L X, LI H M. Transmission,reflection and absorption of 110 GHz high-power microwave in air breakdown plasma[J]. Chinese Journal of Radio Science,2016,31(3):512-515.(in Chinese)
+PAYNE K, XU K, CHOI J H,et al. Multiphysics analysis of plasma-based tunable absorber for high-power microwave applications[J]. IEEE Transactions on Antennas and Propagation,2021,69(11):7624-7636.
+WANG H Y, HU F, HU B,et al. Characteristics of microwave breakdown in cavity filter under high power microwave environment[C]//Proceedings of 2020 IEEE MTT-S International Conference on Numerical Electromagnetic and Multiphysics Modeling and Optimization(NEMO),2020.
+郑灵, 赵青, 罗先刚, 等. 等离子体中电磁波传输特性理论与实验研究[J]. 物理学报,2012,61(15):343-349.
+ZHENG L, ZHAO Q, LUO X G,et al. Theoretical and experimental studies of electromagnetic wave transmission in plasma[J]. Acta Physica Sinica,2012,61(15):343-349.(in Chinese)
+李志刚, 陈宗胜. 等离子体与高功率微波相互作用中电子分布特性[J]. 国防科技大学学报,2020,42(1):10-17.
+LI Z G, CHEN Z S. Distributions of the electron in the interactions between high power microwave and plasma[J]. Journal of National University of Defense Technology,2020,42(1):10-17.(in Chinese)
+袁忠才, 时家明. 高功率微波与等离子体相互作用理论和数值研究[J]. 物理学报,2014,63(9):255-264.
+YUAN Z C, SHI J M. Theoretical and numerical studies on interactions between high-power microwave and plasma[J]. Acta Physica Sinica,2014,63(9):255-264.(in Chinese)
+HE W, LIU X H, XIAN R C,et al. Kinetics characteristics and bremsstrahlung of argon DC discharge under atmospheric pressure[J]. Plasma Science and Technology,2013,15(4):335-342.
+作者投稿
+投稿指南
+联系我们
+公众号
+返回顶部
+扫码关注
+官方微信
+您是今天第
+5279
+位访客
+总访问量：
+329793269
+电话：
+0731-87028030
+邮箱:journal@nudt.edu.cn
+地址：湖南省长沙市开福区德雅路109号
+邮政编码：410073
+备案号 
+：
+湘ICP备09019258号
+技术支持：北京勤云科技发展有限公司&lt;/pre&gt;</content:encoded></item></channel></rss>

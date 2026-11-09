@@ -10,6 +10,8 @@ All links discovered: 227
 
 === MATCHED CANDIDATES ===
 
+https://www.stats.gov.cn/sj/zxfb/202611/t20261109_1965794.html
+  2026年10月份工业生产者出厂价格同比上涨5.7% 环比上涨0.7%
 https://www.stats.gov.cn/sj/zxfb/202610/t20261030_1965708.html
   2026年前三季度全国规模以上文化及相关产业企业营业收入增长4.3%
 https://www.stats.gov.cn/sj/zxfb/202610/t20261030_1965711.html
@@ -22,6 +24,8 @@ https://www.stats.gov.cn/sj/zxfb/202610/t20261023_1965679.html
   2026年10月中旬流通领域重要生产资料市场价格变动情况
 https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965614.html
   2026年1—9月份社会消费品零售总额增长1.1%
+https://www.stats.gov.cn/sj/zxfb/202611/t20261109_1965795.html
+  2026年10月份居民消费价格同比上涨0.7%
 https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965618.html
   前三季度经济运行总体平稳　高质量发展取得新成效
 https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965617.html
@@ -36,10 +40,6 @@ https://www.stats.gov.cn/sj/zxfb/202610/t20261023_1965677.html
   2025年中国创新指数比上年增长6.4%
 https://www.stats.gov.cn/sj/zxfb/202610/t20261020_1965658.html
   2026年三季度国内生产总值初步核算结果
-https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965612.html
-  2026年前三季度居民收入和消费支出情况
-https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965613.html
-  2026年9月份能源生产情况
 
 === ALL DISCOVERED LINKS ===
 
@@ -71,6 +71,10 @@ https://www.stats.gov.cn/zt_18555/
   专题
 https://www.stats.gov.cn/sj/zxfb/
   数据发布
+https://www.stats.gov.cn/sj/zxfb/202611/t20261109_1965795.html
+  2026年10月份居民消费价格同比上涨0.7%
+https://www.stats.gov.cn/sj/zxfb/202611/t20261109_1965794.html
+  2026年10月份工业生产者出厂价格同比上涨5.7% 环比上涨0.7%
 https://www.stats.gov.cn/sj/zxfb/202611/t20261103_1965738.html
   2026年10月下旬流通领域重要生产资料市场价格变动情况
 https://www.stats.gov.cn/sj/zxfb/202610/t20261031_1965718.html
@@ -97,10 +101,6 @@ https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965615.html
   2026年1—9月份全国房地产市场基本情况
 https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965614.html
   2026年1—9月份社会消费品零售总额增长1.1%
-https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965613.html
-  2026年9月份能源生产情况
-https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965612.html
-  2026年前三季度居民收入和消费支出情况
 http://www.gov.cn/
   中央人民政府门户网站
 http://www.fmprc.gov.cn/
