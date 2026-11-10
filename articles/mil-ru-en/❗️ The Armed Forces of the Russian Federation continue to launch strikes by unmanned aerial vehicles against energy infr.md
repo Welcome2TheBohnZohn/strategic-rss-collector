@@ -1,35 +1,25 @@
-# ❗️ The Armed Forces of the Russian Federation continue to launch strikes by unmanned aerial vehicles against energy infrastructure facilities that operate Ukrainian defence industr
+# ❗️ The Armed Forces of the Russian Federation continue to launch strikes by unmanned aerial vehicles against energy infrastructure facilities, logistics centres of Ukraine, and ves
 
-Published: 2026-11-10 06:31:39
+Published: 2026-11-10 15:10:32
 
-Source: https://t.me/mod_russia_en/30522
+Source: https://t.me/mod_russia_en/30533
 
 ❗️
 The Armed Forces of the Russian Federation continue to launch strikes
-by unmanned aerial vehicles against energy infrastructure facilities that operate Ukrainian defence industry enterprises and vessels with dual-use military equipment and cargo used in the interests of the Armed Forces of Ukraine.
-Last night, the strikes
-hit:
-📍
-in Volnogorsk (Dnepropetrovsk region), a 330 kV
-power substation;
-📍
-in Kremenchug (Poltava region), a 154 kV
-power substation
-;
-📍
-in Pereyaslav and Yagotin (Kiev region), two 110 kV
-power substations.
-In addition, in the Black Sea the following
-targets are hit:
+by unmanned aerial vehicles against energy infrastructure facilities, logistics centres of Ukraine, and vessels involved in the interests of the Armed Forces of Ukraine.
+💥
+This afternoon,
+as a result of the strikes, they hit:
 ▫️
-north-east of Odessa,
-a dry cargo shi
-p with weapons and military equipment and
-a tanker
-delivering POLs to the Ukrainian Army;
+two 330 kV
+and
+110 kV power substations
+, which provided support for enterprises of the Ukrainian defence industry in Nezhin and Sosnitsa (Chernigov region);
 ▫️
-east of Odessa,
+the Epicentr logistics centre
+, where military cargo was stored and distributed in Kirovograd (Kropivnitsky);
+▫️
 a dry cargo ship
-with dual-use cargo for the Armed Forces of Ukraine.
+with weapons and military equipment for the Armed Forces of Ukraine in the Black Sea, 7 km south-western of Odessa.
 🔹
 Russian Defence Ministry

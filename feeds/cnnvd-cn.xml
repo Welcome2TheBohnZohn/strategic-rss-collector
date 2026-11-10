@@ -1,62 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Tue, 10 Nov 2026 07:34:22 +0000</lastBuildDate><item><title>CNNVD-2026-69638383 - Hickory DNS 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-69638383</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-69638383</guid><pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate><description>Hickory DNS 输入验证错误漏洞
-危害等级: 中危
-收录时间：2026-11-08 | 更新时间: 2026-11-09 16:37:46
-CNNVD编号: CNNVD-2026-69638383</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-69638383&lt;/p&gt;&lt;pre&gt;Hickory DNS 输入验证错误漏洞
-危害等级: 中危
-收录时间：2026-11-08 | 更新时间: 2026-11-09 16:37:46
-CNNVD编号: CNNVD-2026-69638383&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-64137680 - Hickory DNS 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-64137680</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-64137680</guid><pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate><description>Hickory DNS 资源管理错误漏洞
-危害等级: 中危
-收录时间：2026-11-08 | 更新时间: 2026-11-09 16:37:45
-CNNVD编号: CNNVD-2026-64137680</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-64137680&lt;/p&gt;&lt;pre&gt;Hickory DNS 资源管理错误漏洞
-危害等级: 中危
-收录时间：2026-11-08 | 更新时间: 2026-11-09 16:37:45
-CNNVD编号: CNNVD-2026-64137680&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-14009034 - Hickory DNS 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-14009034</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-14009034</guid><pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate><description>Hickory DNS 输入验证错误漏洞
-危害等级: 中危
-收录时间：2026-11-08 | 更新时间: 2026-11-09 16:37:44
-CNNVD编号: CNNVD-2026-14009034</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-14009034&lt;/p&gt;&lt;pre&gt;Hickory DNS 输入验证错误漏洞
-危害等级: 中危
-收录时间：2026-11-08 | 更新时间: 2026-11-09 16:37:44
-CNNVD编号: CNNVD-2026-14009034&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-14808040 - OpenEMR 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-14808040</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-14808040</guid><pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate><description>OpenEMR 授权问题漏洞
-危害等级: 中危
-收录时间：2026-11-08 | 更新时间: 2026-11-09 16:37:43
-CNNVD编号: CNNVD-2026-14808040</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-14808040&lt;/p&gt;&lt;pre&gt;OpenEMR 授权问题漏洞
-危害等级: 中危
-收录时间：2026-11-08 | 更新时间: 2026-11-09 16:37:43
-CNNVD编号: CNNVD-2026-14808040&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-57521784 - OpenEMR 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-57521784</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-57521784</guid><pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate><description>OpenEMR 授权问题漏洞
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Tue, 10 Nov 2026 19:56:21 +0000</lastBuildDate><item><title>CNNVD-2026-59358224 - Apache Airflow 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-59358224</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-59358224</guid><pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate><description>Apache Airflow 授权问题漏洞
+危害等级: 超危
+收录时间：2026-11-09 | 更新时间: 2026-11-10 16:31:03
+CNNVD编号: CNNVD-2026-59358224</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-59358224&lt;/p&gt;&lt;pre&gt;Apache Airflow 授权问题漏洞
+危害等级: 超危
+收录时间：2026-11-09 | 更新时间: 2026-11-10 16:31:03
+CNNVD编号: CNNVD-2026-59358224&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-37847836 - Apache Storm Client 反序列化注入漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-37847836</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-37847836</guid><pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate><description>Apache Storm Client 反序列化注入漏洞
+危害等级: 超危
+收录时间：2026-11-09 | 更新时间: 2026-11-10 16:31:01
+CNNVD编号: CNNVD-2026-37847836</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-37847836&lt;/p&gt;&lt;pre&gt;Apache Storm Client 反序列化注入漏洞
+危害等级: 超危
+收录时间：2026-11-09 | 更新时间: 2026-11-10 16:31:01
+CNNVD编号: CNNVD-2026-37847836&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-57706846 - Neo4j GraphQL Library 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-57706846</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-57706846</guid><pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate><description>Neo4j GraphQL Library 授权问题漏洞
 危害等级: 高危
-收录时间：2026-11-08 | 更新时间: 2026-11-09 16:37:42
-CNNVD编号: CNNVD-2026-57521784</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-57521784&lt;/p&gt;&lt;pre&gt;OpenEMR 授权问题漏洞
+收录时间：2026-11-09 | 更新时间: 2026-11-10 16:31:01
+CNNVD编号: CNNVD-2026-57706846</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-57706846&lt;/p&gt;&lt;pre&gt;Neo4j GraphQL Library 授权问题漏洞
 危害等级: 高危
-收录时间：2026-11-08 | 更新时间: 2026-11-09 16:37:42
-CNNVD编号: CNNVD-2026-57521784&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-85187330 - OpenEMR 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-85187330</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-85187330</guid><pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate><description>OpenEMR 授权问题漏洞
-危害等级: 高危
-收录时间：2026-11-08 | 更新时间: 2026-11-09 16:37:41
-CNNVD编号: CNNVD-2026-85187330</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-85187330&lt;/p&gt;&lt;pre&gt;OpenEMR 授权问题漏洞
-危害等级: 高危
-收录时间：2026-11-08 | 更新时间: 2026-11-09 16:37:41
-CNNVD编号: CNNVD-2026-85187330&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-82337711 - Vikunja 会话机制问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-82337711</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-82337711</guid><pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate><description>Vikunja 会话机制问题漏洞
+收录时间：2026-11-09 | 更新时间: 2026-11-10 16:31:01
+CNNVD编号: CNNVD-2026-57706846&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-45678727 - TÜBİTAK BİLGEM Pardus MyComputer 竞争条件问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-45678727</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-45678727</guid><pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate><description>TÜBİTAK BİLGEM Pardus MyComputer 竞争条件问题漏洞
 危害等级: 中危
-收录时间：2026-11-08 | 更新时间: 2026-11-09 16:37:54
-CNNVD编号: CNNVD-2026-82337711</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-82337711&lt;/p&gt;&lt;pre&gt;Vikunja 会话机制问题漏洞
+收录时间：2026-11-09 | 更新时间: 2026-11-10 16:31:00
+CNNVD编号: CNNVD-2026-45678727</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-45678727&lt;/p&gt;&lt;pre&gt;TÜBİTAK BİLGEM Pardus MyComputer 竞争条件问题漏洞
 危害等级: 中危
-收录时间：2026-11-08 | 更新时间: 2026-11-09 16:37:54
-CNNVD编号: CNNVD-2026-82337711&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-56513564 - Vikunja 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-56513564</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-56513564</guid><pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate><description>Vikunja 资源管理错误漏洞
+收录时间：2026-11-09 | 更新时间: 2026-11-10 16:31:00
+CNNVD编号: CNNVD-2026-45678727&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-33985522 - Red Hat jboss fuse 权限许可和访问控制问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-33985522</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-33985522</guid><pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate><description>Red Hat jboss fuse 权限许可和访问控制问题漏洞
+危害等级: 高危
+收录时间：2026-11-09 | 更新时间: 2026-11-10 16:31:03
+CNNVD编号: CNNVD-2026-33985522</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-33985522&lt;/p&gt;&lt;pre&gt;Red Hat jboss fuse 权限许可和访问控制问题漏洞
+危害等级: 高危
+收录时间：2026-11-09 | 更新时间: 2026-11-10 16:31:03
+CNNVD编号: CNNVD-2026-33985522&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-80948454 - BeikeShop 处理逻辑错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-80948454</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-80948454</guid><pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate><description>BeikeShop 处理逻辑错误漏洞
 危害等级: 中危
-收录时间：2026-11-08 | 更新时间: 2026-11-09 16:37:50
-CNNVD编号: CNNVD-2026-56513564</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-56513564&lt;/p&gt;&lt;pre&gt;Vikunja 资源管理错误漏洞
+收录时间：2026-11-09 | 更新时间: 2026-11-10 16:31:26
+CNNVD编号: CNNVD-2026-80948454</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-80948454&lt;/p&gt;&lt;pre&gt;BeikeShop 处理逻辑错误漏洞
 危害等级: 中危
-收录时间：2026-11-08 | 更新时间: 2026-11-09 16:37:50
-CNNVD编号: CNNVD-2026-56513564&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-55624526 - Zcash Foundation ZEBRA 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-55624526</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-55624526</guid><pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate><description>Zcash Foundation ZEBRA 资源管理错误漏洞
+收录时间：2026-11-09 | 更新时间: 2026-11-10 16:31:26
+CNNVD编号: CNNVD-2026-80948454&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-79608697 - Intelbras SG 2404 PoE L2+ 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-79608697</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-79608697</guid><pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate><description>Intelbras SG 2404 PoE L2+ 授权问题漏洞
 危害等级: 高危
-收录时间：2026-11-08 | 更新时间: 2026-11-09 16:37:48
-CNNVD编号: CNNVD-2026-55624526</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-55624526&lt;/p&gt;&lt;pre&gt;Zcash Foundation ZEBRA 资源管理错误漏洞
+收录时间：2026-11-09 | 更新时间: 2026-11-10 16:31:25
+CNNVD编号: CNNVD-2026-79608697</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-79608697&lt;/p&gt;&lt;pre&gt;Intelbras SG 2404 PoE L2+ 授权问题漏洞
 危害等级: 高危
-收录时间：2026-11-08 | 更新时间: 2026-11-09 16:37:48
-CNNVD编号: CNNVD-2026-55624526&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-80432741 - Zcash Foundation ZEBRA 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-80432741</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-80432741</guid><pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate><description>Zcash Foundation ZEBRA 资源管理错误漏洞
-危害等级: 高危
-收录时间：2026-11-08 | 更新时间: 2026-11-09 16:37:47
-CNNVD编号: CNNVD-2026-80432741</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-80432741&lt;/p&gt;&lt;pre&gt;Zcash Foundation ZEBRA 资源管理错误漏洞
-危害等级: 高危
-收录时间：2026-11-08 | 更新时间: 2026-11-09 16:37:47
-CNNVD编号: CNNVD-2026-80432741&lt;/pre&gt;</content:encoded></item></channel></rss>
+收录时间：2026-11-09 | 更新时间: 2026-11-10 16:31:25
+CNNVD编号: CNNVD-2026-79608697&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-26299209 - FFmpeg 数字错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-26299209</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-26299209</guid><pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate><description>FFmpeg 数字错误漏洞
+危害等级: 中危
+收录时间：2026-11-09 | 更新时间: 2026-11-10 16:31:16
+CNNVD编号: CNNVD-2026-26299209</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-26299209&lt;/p&gt;&lt;pre&gt;FFmpeg 数字错误漏洞
+危害等级: 中危
+收录时间：2026-11-09 | 更新时间: 2026-11-10 16:31:16
+CNNVD编号: CNNVD-2026-26299209&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-28727210 - FFmpeg 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-28727210</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-28727210</guid><pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate><description>FFmpeg 资源管理错误漏洞
+危害等级: 中危
+收录时间：2026-11-09 | 更新时间: 2026-11-10 16:31:16
+CNNVD编号: CNNVD-2026-28727210</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-28727210&lt;/p&gt;&lt;pre&gt;FFmpeg 资源管理错误漏洞
+危害等级: 中危
+收录时间：2026-11-09 | 更新时间: 2026-11-10 16:31:16
+CNNVD编号: CNNVD-2026-28727210&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-38517455 - FFmpeg 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-38517455</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-38517455</guid><pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate><description>FFmpeg 资源管理错误漏洞
+危害等级: 中危
+收录时间：2026-11-09 | 更新时间: 2026-11-10 16:31:10
+CNNVD编号: CNNVD-2026-38517455</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-38517455&lt;/p&gt;&lt;pre&gt;FFmpeg 资源管理错误漏洞
+危害等级: 中危
+收录时间：2026-11-09 | 更新时间: 2026-11-10 16:31:10
+CNNVD编号: CNNVD-2026-38517455&lt;/pre&gt;</content:encoded></item></channel></rss>

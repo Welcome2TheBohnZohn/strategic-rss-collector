@@ -6,7 +6,7 @@ Include regex: /gfbw/|/xwfyr/|/wzll/
 Include text regex: 
 
 Candidate links: 50
-All links discovered: 243
+All links discovered: 244
 
 === MATCHED CANDIDATES ===
 
@@ -54,8 +54,6 @@ http://www.mod.gov.cn/gfbw/gfjy_index/16498608.html
   强军文化专刊·文化号角｜点燃官兵心中的“长征星火”
 http://www.mod.gov.cn/gfbw/qwfb/16498364.html
   国防部介绍军队学习贯彻党的二十届五中全会精神情况
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16498594.html
-  中共中央发出通知 部署党的二十一大代表选举工作
 http://www.mod.gov.cn/gfbw/jsxd/16498701.html
   “吉祥方舟”号医院船访问多哥，加纳患者跨国寻医
 http://www.mod.gov.cn/gfbw/tp_214132/16498689.html
@@ -102,6 +100,8 @@ http://www.mod.gov.cn/gfbw/jmsd/16498696.html
   强军论坛丨坚持以党的政治建设为统领
 http://www.mod.gov.cn/gfbw/tp_214132/16497193.html
   武警第二机动总队某支队开展机降训练
+http://www.mod.gov.cn/gfbw/sy/tt_214026/16499068.html
+  习近平同志《论减贫脱贫》出版发行
 http://www.mod.gov.cn/gfbw/gffw/16498801.html
   新时代征兵工作阔步迈向高质量发展
 http://www.mod.gov.cn/gfbw/fgwx/16448582.html
@@ -298,8 +298,10 @@ http://www.mod.gov.cn/gfbw/sy/jt_214028/16498296.html
   陆军某团开展实弹射击考核
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16497977.html
   空军某部开展飞行训练
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16498594.html
-  中共中央发出通知 部署党的二十一大代表选举工作
+http://www.mod.gov.cn/gfbw/sy/tt_214026/16499068.html
+  习近平同志《论减贫脱贫》出版发行
+http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16499052.html
+  主要篇目介绍
 http://www.mod.gov.cn/gfbw/sy/rt/16498492.html
   习近平参加北京市区人大代表换届选举投票
 http://www.mod.gov.cn/gfbw/sy/rt/16498482.html
