@@ -27,62 +27,62 @@ Microsoft Windows Shell 缓冲区错误漏洞
 |
 更新时间: 2026-11-11 14:35:51
 CNNVD编号：CNNVD-2026-59196912
-Microsoft Winsock 资源管理错误漏洞
-高危
-收录时间：2026-11-10
-|
-更新时间: 2026-11-11 14:35:55
-CNNVD编号：CNNVD-2026-50408305
 Microsoft Windows DNS 缓冲区错误漏洞
 中危
 收录时间：2026-11-10
 |
-更新时间: 2026-11-11 14:35:53
-CNNVD编号：CNNVD-2026-22575459
-Microsoft Windows Performance Monitor 缓冲区错误漏洞
+更新时间: 2026-11-11 14:42:52
+CNNVD编号：CNNVD-2026-24235983
+Microsoft Windows USM Communication Manager 异常处理不当漏洞
 高危
 收录时间：2026-11-10
 |
-更新时间: 2026-11-11 14:35:54
-CNNVD编号：CNNVD-2026-75510558
-Microsoft Windows VMSwitch 缓冲区错误漏洞
+更新时间: 2026-11-11 14:42:50
+CNNVD编号：CNNVD-2026-54564629
+Microsoft Winlogon 资源管理错误漏洞
 高危
 收录时间：2026-11-10
 |
-更新时间: 2026-11-11 14:35:52
-CNNVD编号：CNNVD-2026-93715068
-Microsoft BitLocker 缓冲区错误漏洞
-中危
+更新时间: 2026-11-11 14:44:04
+CNNVD编号：CNNVD-2026-89606265
+Microsoft Windows Installer 后置链接漏洞
+高危
 收录时间：2026-11-10
 |
-更新时间: 2026-11-11 14:35:50
-CNNVD编号：CNNVD-2026-65545288
-Apache Airflow 授权问题漏洞
-超危
-收录时间：2026-11-09
-|
-更新时间: 2026-11-10 16:31:03
-CNNVD编号：CNNVD-2026-59358224
-Apache Storm Client 反序列化注入漏洞
-超危
-收录时间：2026-11-09
-|
-更新时间: 2026-11-10 16:31:01
-CNNVD编号：CNNVD-2026-37847836
-Neo4j GraphQL Library 授权问题漏洞
+更新时间: 2026-11-11 14:44:00
+CNNVD编号：CNNVD-2026-61563041
+Microsoft Windows Installer 异常处理不当漏洞
 高危
-收录时间：2026-11-09
+收录时间：2026-11-10
 |
-更新时间: 2026-11-10 16:31:01
-CNNVD编号：CNNVD-2026-57706846
-TÜBİTAK BİLGEM Pardus MyComputer 竞争条件问题漏洞
-中危
-收录时间：2026-11-09
+更新时间: 2026-11-11 14:43:58
+CNNVD编号：CNNVD-2026-63747393
+Microsoft DWM Core Library 缓冲区错误漏洞
+高危
+收录时间：2026-11-10
 |
-更新时间: 2026-11-10 16:31:00
-CNNVD编号：CNNVD-2026-45678727
-共 414054 条
-12345641406
+更新时间: 2026-11-11 14:43:48
+CNNVD编号：CNNVD-2026-81508758
+Microsoft JScript 数字错误漏洞
+高危
+收录时间：2026-11-10
+|
+更新时间: 2026-11-11 14:43:47
+CNNVD编号：CNNVD-2026-23323869
+Microsoft Windows DNS 缓冲区错误漏洞
+高危
+收录时间：2026-11-10
+|
+更新时间: 2026-11-11 14:43:46
+CNNVD编号：CNNVD-2026-96576081
+Microsoft Windows Kernel 竞争条件问题漏洞
+高危
+收录时间：2026-11-10
+|
+更新时间: 2026-11-11 14:44:08
+CNNVD编号：CNNVD-2026-79604987
+共 415583 条
+12345641559
 前往页
 快速导航
 首页
