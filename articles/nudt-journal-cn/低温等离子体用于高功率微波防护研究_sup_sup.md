@@ -895,13 +895,12 @@ LI Zhigang, QIU Zhinan, WANG Jiachun, et al. Study of high-power microwave prote
 Copy
 计量
 文章访问量:
-29643
+29646
 HTML全文浏览量:
-4273
+4276
 PDF下载量:
-10106
+10107
 被引次数:
-0
 图
 1
 高功率微波与柱状等离子体阵列相互作用的仿真计算模型示意图
@@ -972,7 +971,7 @@ HE W, LIU X H, XIAN R C,et al. Kinetics characteristics and bremsstrahlung of ar
 扫码关注
 官方微信
 您是今天第
-1081
+6532
 位访客
 总访问量：
 335542776

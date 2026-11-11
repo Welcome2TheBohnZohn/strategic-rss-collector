@@ -1,5 +1,41 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Tue, 10 Nov 2026 19:56:21 +0000</lastBuildDate><item><title>CNNVD-2026-59358224 - Apache Airflow 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-59358224</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-59358224</guid><pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate><description>Apache Airflow 授权问题漏洞
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Wed, 11 Nov 2026 06:40:34 +0000</lastBuildDate><item><title>CNNVD-2026-59196912 - Microsoft Windows Shell 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-59196912</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-59196912</guid><pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate><description>Microsoft Windows Shell 缓冲区错误漏洞
+危害等级: 高危
+收录时间：2026-11-10 | 更新时间: 2026-11-11 14:35:51
+CNNVD编号: CNNVD-2026-59196912</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-59196912&lt;/p&gt;&lt;pre&gt;Microsoft Windows Shell 缓冲区错误漏洞
+危害等级: 高危
+收录时间：2026-11-10 | 更新时间: 2026-11-11 14:35:51
+CNNVD编号: CNNVD-2026-59196912&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-50408305 - Microsoft Winsock 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-50408305</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-50408305</guid><pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate><description>Microsoft Winsock 资源管理错误漏洞
+危害等级: 高危
+收录时间：2026-11-10 | 更新时间: 2026-11-11 14:35:55
+CNNVD编号: CNNVD-2026-50408305</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-50408305&lt;/p&gt;&lt;pre&gt;Microsoft Winsock 资源管理错误漏洞
+危害等级: 高危
+收录时间：2026-11-10 | 更新时间: 2026-11-11 14:35:55
+CNNVD编号: CNNVD-2026-50408305&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-22575459 - Microsoft Windows DNS 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22575459</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22575459</guid><pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate><description>Microsoft Windows DNS 缓冲区错误漏洞
+危害等级: 中危
+收录时间：2026-11-10 | 更新时间: 2026-11-11 14:35:53
+CNNVD编号: CNNVD-2026-22575459</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22575459&lt;/p&gt;&lt;pre&gt;Microsoft Windows DNS 缓冲区错误漏洞
+危害等级: 中危
+收录时间：2026-11-10 | 更新时间: 2026-11-11 14:35:53
+CNNVD编号: CNNVD-2026-22575459&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-75510558 - Microsoft Windows Performance Monitor 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75510558</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75510558</guid><pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate><description>Microsoft Windows Performance Monitor 缓冲区错误漏洞
+危害等级: 高危
+收录时间：2026-11-10 | 更新时间: 2026-11-11 14:35:54
+CNNVD编号: CNNVD-2026-75510558</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75510558&lt;/p&gt;&lt;pre&gt;Microsoft Windows Performance Monitor 缓冲区错误漏洞
+危害等级: 高危
+收录时间：2026-11-10 | 更新时间: 2026-11-11 14:35:54
+CNNVD编号: CNNVD-2026-75510558&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-93715068 - Microsoft Windows VMSwitch 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-93715068</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-93715068</guid><pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate><description>Microsoft Windows VMSwitch 缓冲区错误漏洞
+危害等级: 高危
+收录时间：2026-11-10 | 更新时间: 2026-11-11 14:35:52
+CNNVD编号: CNNVD-2026-93715068</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-93715068&lt;/p&gt;&lt;pre&gt;Microsoft Windows VMSwitch 缓冲区错误漏洞
+危害等级: 高危
+收录时间：2026-11-10 | 更新时间: 2026-11-11 14:35:52
+CNNVD编号: CNNVD-2026-93715068&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-65545288 - Microsoft BitLocker 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-65545288</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-65545288</guid><pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate><description>Microsoft BitLocker 缓冲区错误漏洞
+危害等级: 中危
+收录时间：2026-11-10 | 更新时间: 2026-11-11 14:35:50
+CNNVD编号: CNNVD-2026-65545288</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-65545288&lt;/p&gt;&lt;pre&gt;Microsoft BitLocker 缓冲区错误漏洞
+危害等级: 中危
+收录时间：2026-11-10 | 更新时间: 2026-11-11 14:35:50
+CNNVD编号: CNNVD-2026-65545288&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-59358224 - Apache Airflow 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-59358224</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-59358224</guid><pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate><description>Apache Airflow 授权问题漏洞
 危害等级: 超危
 收录时间：2026-11-09 | 更新时间: 2026-11-10 16:31:03
 CNNVD编号: CNNVD-2026-59358224</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-59358224&lt;/p&gt;&lt;pre&gt;Apache Airflow 授权问题漏洞
@@ -23,40 +59,4 @@ CNNVD编号: CNNVD-2026-57706846&lt;/pre&gt;</content:encoded></item><item><titl
 CNNVD编号: CNNVD-2026-45678727</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-45678727&lt;/p&gt;&lt;pre&gt;TÜBİTAK BİLGEM Pardus MyComputer 竞争条件问题漏洞
 危害等级: 中危
 收录时间：2026-11-09 | 更新时间: 2026-11-10 16:31:00
-CNNVD编号: CNNVD-2026-45678727&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-33985522 - Red Hat jboss fuse 权限许可和访问控制问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-33985522</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-33985522</guid><pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate><description>Red Hat jboss fuse 权限许可和访问控制问题漏洞
-危害等级: 高危
-收录时间：2026-11-09 | 更新时间: 2026-11-10 16:31:03
-CNNVD编号: CNNVD-2026-33985522</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-33985522&lt;/p&gt;&lt;pre&gt;Red Hat jboss fuse 权限许可和访问控制问题漏洞
-危害等级: 高危
-收录时间：2026-11-09 | 更新时间: 2026-11-10 16:31:03
-CNNVD编号: CNNVD-2026-33985522&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-80948454 - BeikeShop 处理逻辑错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-80948454</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-80948454</guid><pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate><description>BeikeShop 处理逻辑错误漏洞
-危害等级: 中危
-收录时间：2026-11-09 | 更新时间: 2026-11-10 16:31:26
-CNNVD编号: CNNVD-2026-80948454</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-80948454&lt;/p&gt;&lt;pre&gt;BeikeShop 处理逻辑错误漏洞
-危害等级: 中危
-收录时间：2026-11-09 | 更新时间: 2026-11-10 16:31:26
-CNNVD编号: CNNVD-2026-80948454&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-79608697 - Intelbras SG 2404 PoE L2+ 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-79608697</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-79608697</guid><pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate><description>Intelbras SG 2404 PoE L2+ 授权问题漏洞
-危害等级: 高危
-收录时间：2026-11-09 | 更新时间: 2026-11-10 16:31:25
-CNNVD编号: CNNVD-2026-79608697</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-79608697&lt;/p&gt;&lt;pre&gt;Intelbras SG 2404 PoE L2+ 授权问题漏洞
-危害等级: 高危
-收录时间：2026-11-09 | 更新时间: 2026-11-10 16:31:25
-CNNVD编号: CNNVD-2026-79608697&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-26299209 - FFmpeg 数字错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-26299209</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-26299209</guid><pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate><description>FFmpeg 数字错误漏洞
-危害等级: 中危
-收录时间：2026-11-09 | 更新时间: 2026-11-10 16:31:16
-CNNVD编号: CNNVD-2026-26299209</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-26299209&lt;/p&gt;&lt;pre&gt;FFmpeg 数字错误漏洞
-危害等级: 中危
-收录时间：2026-11-09 | 更新时间: 2026-11-10 16:31:16
-CNNVD编号: CNNVD-2026-26299209&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-28727210 - FFmpeg 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-28727210</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-28727210</guid><pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate><description>FFmpeg 资源管理错误漏洞
-危害等级: 中危
-收录时间：2026-11-09 | 更新时间: 2026-11-10 16:31:16
-CNNVD编号: CNNVD-2026-28727210</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-28727210&lt;/p&gt;&lt;pre&gt;FFmpeg 资源管理错误漏洞
-危害等级: 中危
-收录时间：2026-11-09 | 更新时间: 2026-11-10 16:31:16
-CNNVD编号: CNNVD-2026-28727210&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-38517455 - FFmpeg 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-38517455</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-38517455</guid><pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate><description>FFmpeg 资源管理错误漏洞
-危害等级: 中危
-收录时间：2026-11-09 | 更新时间: 2026-11-10 16:31:10
-CNNVD编号: CNNVD-2026-38517455</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-38517455&lt;/p&gt;&lt;pre&gt;FFmpeg 资源管理错误漏洞
-危害等级: 中危
-收录时间：2026-11-09 | 更新时间: 2026-11-10 16:31:10
-CNNVD编号: CNNVD-2026-38517455&lt;/pre&gt;</content:encoded></item></channel></rss>
+CNNVD编号: CNNVD-2026-45678727&lt;/pre&gt;</content:encoded></item></channel></rss>
