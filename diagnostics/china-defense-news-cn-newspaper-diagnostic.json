@@ -1,75 +1,67 @@
 {
-  "issue_date": "2026-11-11",
+  "issue_date": "2026-11-12",
   "issue_pages": [
     {
       "paper_number": "01",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-11&paperName=zggfb&paperNumber=01",
-      "links": 71,
-      "article_links": 3
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-12&paperName=zggfb&paperNumber=01",
+      "links": 73,
+      "article_links": 4
     },
     {
       "paper_number": "02",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-11&paperName=zggfb&paperNumber=02",
-      "links": 73,
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-12&paperName=zggfb&paperNumber=02",
+      "links": 75,
       "article_links": 4
     },
     {
       "paper_number": "03",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-11&paperName=zggfb&paperNumber=03",
-      "links": 73,
-      "article_links": 4
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-12&paperName=zggfb&paperNumber=03",
+      "links": 63,
+      "article_links": 1
     },
     {
       "paper_number": "04",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-11&paperName=zggfb&paperNumber=04",
-      "links": 51,
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-12&paperName=zggfb&paperNumber=04",
+      "links": 63,
       "article_links": 0
     }
   ],
   "candidates": [
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-11&paperNumber=01&articleid=990085",
-      "anchor_title": "老班长，欢迎回“家”"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-12&paperNumber=01&articleid=990162",
+      "anchor_title": "沉浸研学让历史可触可感"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-11&paperNumber=01&articleid=990084",
-      "anchor_title": "“我要替父辈守住那个时代的光”"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-12&paperNumber=01&articleid=990163",
+      "anchor_title": "实景宣讲让课堂生动鲜活"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-11&paperNumber=01&articleid=990088",
-      "anchor_title": "片区统筹，养老服务就近就便"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-12&paperNumber=01&articleid=990161",
+      "anchor_title": "“孔雀蓝”在任务一线拔节成长"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-11&paperNumber=02&articleid=990076",
-      "anchor_title": "把“孔雀蓝”的邀约送到青年身边"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-12&paperNumber=01&articleid=990165",
+      "anchor_title": "千亩荞田铺“金毯”"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-11&paperNumber=02&articleid=990075",
-      "anchor_title": "“云端”讲长征 课堂传薪火"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-12&paperNumber=02&articleid=990154",
+      "anchor_title": "英魂归故里 思念有所寄"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-11&paperNumber=02&articleid=990078",
-      "anchor_title": "军地联训共护路网畅通"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-12&paperNumber=02&articleid=990155",
+      "anchor_title": "读懂先辈的信仰与牺牲"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-11&paperNumber=02&articleid=990079",
-      "anchor_title": "问题清单成为整改“施工图”"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-12&paperNumber=02&articleid=990157",
+      "anchor_title": "逐户回访新兵家庭"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-11&paperNumber=03&articleid=990091",
-      "anchor_title": "姑苏古城新风景"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-12&paperNumber=02&articleid=990159",
+      "anchor_title": "生态鱼“游”出致富路"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-11&paperNumber=03&articleid=990090",
-      "anchor_title": "精准“提出来” 善于“挤进去”"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-11&paperNumber=03&articleid=990093",
-      "anchor_title": "让我们一起播种希望"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-11&paperNumber=03&articleid=990094",
-      "anchor_title": "防空警报接入楼宇广播"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-12&paperNumber=03&articleid=990167",
+      "anchor_title": "雄鹰不坠"
     }
   ]
 }

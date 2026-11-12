@@ -6,7 +6,7 @@ Include regex: norincogroup\.com\.cn/.+
 Include text regex: 
 
 Candidate links: 50
-All links discovered: 194
+All links discovered: 189
 
 === MATCHED CANDIDATES ===
 
@@ -191,22 +191,22 @@ http://www.norincogroup.com.cn/art/2026/11/4/art_85_579817.html
   豫西集团红宇专汽公司推出三温区轻量化纯电动冷藏车
 http://www.norincogroup.com.cn/art/2026/11/4/art_85_579816.html
   北方公司携多款产品亮相两大国际防务展会
+http://www.sasac.gov.cn/n2588025/n2588124/c36148925/content.html
+  【进博会看兵器】国资委网站：兵器工业集团组团参展...
+https://www.chinanews.com/tp/hd2011/2026/11-05/1209944.shtml
+  【进博会看兵器】(第九届进博会)中国兵工集团民用...
+https://cn.chinadaily.com.cn/a/202611/10/WS6af2839fe4b0e14252fca1d2.html
+  【进博会看兵器】中国日报网：兵器工业集团第九届进...
+https://www.news.cn/enterprise/20261109/9b5d649d627f42d78a22b46456434b42/c.html
+  【进博会看兵器】新华网 |‌ 进博会上的双向奔赴...
+https://news.haiwainet.cn/n/2026/1108/c3541083-32996361.html
+  【进博会看兵器】人民日报-海外网：对接、洽谈、签...
+https://biz.haiwainet.cn/n/2025/1110/c3545018-32907707.html
+  【进博会看兵器】人民日报-海外网：进博会上的“一...
 https://article.xuexi.cn/articles/index.html?art_id=7827892551972801199&item_id=7827892551972801199&study_style_id=feeds_opaque&pid=&ptype=-1&source=share&share_to=wx_single
   学习强国平台："诺奖"基建的同款中国方案——中微...
 https://article.xuexi.cn/articles/index.html?art_id=18038591217843507838&item_id=18038591217843507838&study_style_id=feeds_opaque&pid=&ptype=-1&source=share&share_to=wx_single
   学习强国平台：微电子院在全球脑机接口×医保创新场...
-https://article.xuexi.cn/articles/index.html?art_id=12431164553710436445&item_id=12431164553710436445&study_style_id=feeds_opaque&pid=&ptype=-1&source=share&share_to=wx_single
-  学习强国平台：北方车辆集团橡胶检测获权威机构认证
-https://article.xuexi.cn/articles/index.html?art_id=15272158730662590340&item_id=15272158730662590340&study_style_id=feeds_opaque&pid=&ptype=-1&source=share&share_to=wx_single
-  学习强国平台：中南钻石公司牵头制定一项超硬材料行...
-https://article.xuexi.cn/articles/index.html?art_id=12962811643020683289&item_id=12962811643020683289&study_style_id=feeds_opaque&pid=&ptype=-1&source=share&share_to=wx_single
-  学习强国平台：表面毡革新攻克内壁缺陷难题
-https://article.xuexi.cn/articles/index.html?art_id=7598412482728838640&item_id=7598412482728838640&study_style_id=feeds_opaque&pid=&ptype=-1&source=share&share_to=wx_single
-  学习强国平台：北化泸州突破高端色谱填料“卡脖子”...
-https://article.xuexi.cn/articles/index.html?art_id=1839339127602884780&item_id=1839339127602884780&study_style_id=feeds_opaque&pid=&ptype=-1&source=share&share_to=wx_single
-  学习强国平台：斩获396万千瓦大单！北重挺进疆电...
-http://www.sasac.gov.cn/n2588025/n2588124/c35898451/content.html
-  国资委网站：国内首台矿用永磁移动式排水车通过井下...
 http://www.sasac.gov.cn/n2588025/n2643314/c36110664/content.html
   国务院国资委党委传达学习贯彻党的二十届五中全会精...
 http://www.sasac.gov.cn/n2588025/n2643314/c36087840/content.html
@@ -396,13 +396,8 @@ http://www.norincogroup.com.cn/picture/0/s_b522cee4dd8d4ea99da33bfede03bd00.jpg
 http://www.norincogroup.com.cn/picture/0/s_682ad87660764229a4f93b4188642a26.jpg
 https://article.xuexi.cn/articles/index.html?art_id=7827892551972801199&amp;item_id=7827892551972801199&amp;study_style_id=feeds_opaque&amp;pid=&amp;ptype=-1&amp;source=share&amp;share_to=wx_single
 https://article.xuexi.cn/articles/index.html?art_id=18038591217843507838&amp;item_id=18038591217843507838&amp;study_style_id=feeds_opaque&amp;pid=&amp;ptype=-1&amp;source=share&amp;share_to=wx_single
-https://article.xuexi.cn/articles/index.html?art_id=12431164553710436445&amp;item_id=12431164553710436445&amp;study_style_id=feeds_opaque&amp;pid=&amp;ptype=-1&amp;source=share&amp;share_to=wx_single
-https://article.xuexi.cn/articles/index.html?art_id=15272158730662590340&amp;item_id=15272158730662590340&amp;study_style_id=feeds_opaque&amp;pid=&amp;ptype=-1&amp;source=share&amp;share_to=wx_single
-https://article.xuexi.cn/articles/index.html?art_id=12962811643020683289&amp;item_id=12962811643020683289&amp;study_style_id=feeds_opaque&amp;pid=&amp;ptype=-1&amp;source=share&amp;share_to=wx_single
-https://article.xuexi.cn/articles/index.html?art_id=7598412482728838640&amp;item_id=7598412482728838640&amp;study_style_id=feeds_opaque&amp;pid=&amp;ptype=-1&amp;source=share&amp;share_to=wx_single
-https://article.xuexi.cn/articles/index.html?art_id=1839339127602884780&amp;item_id=1839339127602884780&amp;study_style_id=feeds_opaque&amp;pid=&amp;ptype=-1&amp;source=share&amp;share_to=wx_single
 http://www.norincogroup.com.cn/picture/0/1610091647122417824.png
-http://www.norincogroup.com.cn/picture/0/2b03f5f14d6f44c08b4f6071d9ee42f7.jpg
+http://www.norincogroup.com.cn/picture/0/387d931eb58c40aab0ae5c706d892d7b.png
 http://www.norincogroup.com.cn/picture/0/e501d052c2be432baaf0e56bc82a6226.jpg
 http://www.norincogroup.com.cn/picture/0/fe4c8ea2a21b4ec3bd6dbb78398bfc4c.png
 http://www.norincogroup.com.cn/picture/0/515b3dc48fee4d239034c9beb643c20b.jpg
