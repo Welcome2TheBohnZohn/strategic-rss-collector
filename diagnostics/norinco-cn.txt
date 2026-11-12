@@ -6,20 +6,26 @@ Include regex: norincogroup\.com\.cn/.+
 Include text regex: 
 
 Candidate links: 50
-All links discovered: 189
+All links discovered: 187
 
 === MATCHED CANDIDATES ===
 
 http://www.norincogroup.com.cn/art/2026/7/24/art_84_573850.html
   兵器工业集团召开2026年年中工作会议：坚定信心...
+http://www.norincogroup.com.cn/art/2026/11/12/art_84_580528.html
+  兵器工业集团党组理论学习中心组开展学习贯彻党的二...
 http://www.norincogroup.com.cn/art/2026/11/4/art_84_579815.html
   兵器工业集团品牌战略沟通会暨新产品发布活动在杭州...
 http://www.norincogroup.com.cn/art/2026/11/3/art_84_579632.html
   习近平：关于《中共中央关于持之以恒推进全面从严治...
 http://www.norincogroup.com.cn/art/2026/11/3/art_84_579534.html
   中共中央关于持之以恒推进全面从严治党若干重大问题...
-http://www.norincogroup.com.cn/art/2026/11/2/art_84_579308.html
-  兵器工业集团党组与驻集团公司纪检监察组召开202...
+http://www.norincogroup.com.cn/art/2026/11/12/art_85_580531.html
+  北方公司在2026年“数据要素×”大赛全国总决赛...
+http://www.norincogroup.com.cn/art/2026/11/11/art_85_580530.html
+  豫西集团中南钻石牵头制定的一项超硬磨料行业标准获...
+http://www.norincogroup.com.cn/art/2026/11/10/art_85_580529.html
+  学习全会精神，狠抓落地见效丨学习贯彻党的二十届五...
 http://www.norincogroup.com.cn/art/2026/11/9/art_85_580158.html
   压紧压实责任、严守纪律底线丨学习贯彻党的二十届五...
 http://www.norincogroup.com.cn/art/2026/11/9/art_85_580157.html
@@ -28,8 +34,6 @@ http://www.norincogroup.com.cn/art/2026/11/9/art_85_580156.html
   从一颗矿石到一块金锭——尼日利亚青年帕斯卡与一座...
 http://www.norincogroup.com.cn/art/2026/11/9/art_85_580155.html
   在黄浦江畔，看见ESG的另一种答案：让关系生根，...
-http://www.norincogroup.com.cn/art/2026/11/6/art_85_580110.html
-  认真学习传达，周密部署安排丨学习贯彻党的二十届五...
 http://www.norincogroup.com.cn/art/2026/9/7/art_126_575830.html
   兵器工业集团党组召开树立和践行正确政绩观学习...
 http://www.norincogroup.com.cn/art/2026/8/10/art_126_574722.html
@@ -38,8 +42,6 @@ http://www.norincogroup.com.cn/art/2026/7/27/art_126_573999.html
   兵器工业集团党组巡视工作领导小组召开会议听取...
 http://www.norincogroup.com.cn/art/2026/11/6/art_85_580111.html
   “桥”见未来，伊拉克小伙罗爱川的“智慧油气”之旅
-http://www.norincogroup.com.cn/art/2026/11/4/art_85_579817.html
-  豫西集团红宇专汽公司推出三温区轻量化纯电动冷藏车
 http://www.norincogroup.com.cn/picture/0/1612081729425376498.png?cache=0.3793572778813541
   1612081729425376498.png
 http://www.norincogroup.com.cn/art/2026/11/6/art_84_580109.html
@@ -52,8 +54,6 @@ http://www.norincogroup.com.cn/art/2026/7/24/art_96_573853.html
   兵器工业集团召开2026年年中工作会...
 http://www.norincogroup.com.cn/art/2026/11/9/art_84_580153.html
   兵器工业集团第九届进博会采购签约额再创新高
-http://www.norincogroup.com.cn/art/2026/11/4/art_85_579816.html
-  北方公司携多款产品亮相两大国际防务展会
 http://www.norincogroup.com.cn/script/12/2004032342062887.js
   2004032342062887.js
 http://www.norincogroup.com.cn/art/2026/6/15/art_30_570582.html
@@ -161,6 +161,8 @@ http://www.norincogroup.com.cn/col/col86/index.html
   国资动态
 http://www.norincogroup.com.cn/art/2026/7/24/art_84_573850.html
   兵器工业集团召开2026年年中工作会议：坚定信心...
+http://www.norincogroup.com.cn/art/2026/11/12/art_84_580528.html
+  兵器工业集团党组理论学习中心组开展学习贯彻党的二...
 http://www.norincogroup.com.cn/art/2026/11/9/art_84_580154.html
   马云双到驻包头兵工单位调研
 http://www.norincogroup.com.cn/art/2026/11/9/art_84_580153.html
@@ -173,8 +175,12 @@ http://www.norincogroup.com.cn/art/2026/11/3/art_84_579632.html
   习近平：关于《中共中央关于持之以恒推进全面从严治...
 http://www.norincogroup.com.cn/art/2026/11/3/art_84_579534.html
   中共中央关于持之以恒推进全面从严治党若干重大问题...
-http://www.norincogroup.com.cn/art/2026/11/2/art_84_579308.html
-  兵器工业集团党组与驻集团公司纪检监察组召开202...
+http://www.norincogroup.com.cn/art/2026/11/12/art_85_580531.html
+  北方公司在2026年“数据要素×”大赛全国总决赛...
+http://www.norincogroup.com.cn/art/2026/11/11/art_85_580530.html
+  豫西集团中南钻石牵头制定的一项超硬磨料行业标准获...
+http://www.norincogroup.com.cn/art/2026/11/10/art_85_580529.html
+  学习全会精神，狠抓落地见效丨学习贯彻党的二十届五...
 http://www.norincogroup.com.cn/art/2026/11/9/art_85_580158.html
   压紧压实责任、严守纪律底线丨学习贯彻党的二十届五...
 http://www.norincogroup.com.cn/art/2026/11/9/art_85_580157.html
@@ -185,12 +191,10 @@ http://www.norincogroup.com.cn/art/2026/11/9/art_85_580155.html
   在黄浦江畔，看见ESG的另一种答案：让关系生根，...
 http://www.norincogroup.com.cn/art/2026/11/6/art_85_580111.html
   “桥”见未来，伊拉克小伙罗爱川的“智慧油气”之旅
-http://www.norincogroup.com.cn/art/2026/11/6/art_85_580110.html
-  认真学习传达，周密部署安排丨学习贯彻党的二十届五...
-http://www.norincogroup.com.cn/art/2026/11/4/art_85_579817.html
-  豫西集团红宇专汽公司推出三温区轻量化纯电动冷藏车
-http://www.norincogroup.com.cn/art/2026/11/4/art_85_579816.html
-  北方公司携多款产品亮相两大国际防务展会
+https://jjsb.cet.com.cn/show_545355.html
+  【进博会看兵器】《中国经济时报》：进博会进行时 ...
+https://zqb.cyol.com/pc/content/202611/08/content_432696.html
+  【进博会看兵器】《中国青年报》：全球“硬科技”扎...
 http://www.sasac.gov.cn/n2588025/n2588124/c36148925/content.html
   【进博会看兵器】国资委网站：兵器工业集团组团参展...
 https://www.chinanews.com/tp/hd2011/2026/11-05/1209944.shtml
@@ -203,10 +207,6 @@ https://news.haiwainet.cn/n/2026/1108/c3541083-32996361.html
   【进博会看兵器】人民日报-海外网：对接、洽谈、签...
 https://biz.haiwainet.cn/n/2025/1110/c3545018-32907707.html
   【进博会看兵器】人民日报-海外网：进博会上的“一...
-https://article.xuexi.cn/articles/index.html?art_id=7827892551972801199&item_id=7827892551972801199&study_style_id=feeds_opaque&pid=&ptype=-1&source=share&share_to=wx_single
-  学习强国平台："诺奖"基建的同款中国方案——中微...
-https://article.xuexi.cn/articles/index.html?art_id=18038591217843507838&item_id=18038591217843507838&study_style_id=feeds_opaque&pid=&ptype=-1&source=share&share_to=wx_single
-  学习强国平台：微电子院在全球脑机接口×医保创新场...
 http://www.sasac.gov.cn/n2588025/n2643314/c36110664/content.html
   国务院国资委党委传达学习贯彻党的二十届五中全会精...
 http://www.sasac.gov.cn/n2588025/n2643314/c36087840/content.html
@@ -394,8 +394,6 @@ http://www.norincogroup.com.cn/picture/0/f63663387e434b25ae9eb65e9f48f6ad.jpg
 http://www.norincogroup.com.cn/picture/0/s_a6c39e08f7024b93899de7c38119f06e.jpg
 http://www.norincogroup.com.cn/picture/0/s_b522cee4dd8d4ea99da33bfede03bd00.jpg
 http://www.norincogroup.com.cn/picture/0/s_682ad87660764229a4f93b4188642a26.jpg
-https://article.xuexi.cn/articles/index.html?art_id=7827892551972801199&amp;item_id=7827892551972801199&amp;study_style_id=feeds_opaque&amp;pid=&amp;ptype=-1&amp;source=share&amp;share_to=wx_single
-https://article.xuexi.cn/articles/index.html?art_id=18038591217843507838&amp;item_id=18038591217843507838&amp;study_style_id=feeds_opaque&amp;pid=&amp;ptype=-1&amp;source=share&amp;share_to=wx_single
 http://www.norincogroup.com.cn/picture/0/1610091647122417824.png
 http://www.norincogroup.com.cn/picture/0/387d931eb58c40aab0ae5c706d892d7b.png
 http://www.norincogroup.com.cn/picture/0/e501d052c2be432baaf0e56bc82a6226.jpg
