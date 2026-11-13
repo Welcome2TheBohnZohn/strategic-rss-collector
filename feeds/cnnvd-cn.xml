@@ -1,62 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Fri, 13 Nov 2026 07:03:04 +0000</lastBuildDate><item><title>CNNVD-2026-51627591 - Google Go 命令注入漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-51627591</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-51627591</guid><pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate><description>Google Go 命令注入漏洞
-危害等级: 超危
-收录时间：2026-11-11 | 更新时间: 2026-11-12 16:41:14
-CNNVD编号: CNNVD-2026-51627591</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-51627591&lt;/p&gt;&lt;pre&gt;Google Go 命令注入漏洞
-危害等级: 超危
-收录时间：2026-11-11 | 更新时间: 2026-11-12 16:41:14
-CNNVD编号: CNNVD-2026-51627591&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-71456870 - Google Go 代码注入漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-71456870</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-71456870</guid><pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate><description>Google Go 代码注入漏洞
-危害等级: 超危
-收录时间：2026-11-11 | 更新时间: 2026-11-12 16:41:05
-CNNVD编号: CNNVD-2026-71456870</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-71456870&lt;/p&gt;&lt;pre&gt;Google Go 代码注入漏洞
-危害等级: 超危
-收录时间：2026-11-11 | 更新时间: 2026-11-12 16:41:05
-CNNVD编号: CNNVD-2026-71456870&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-51142845 - Google Go 命令注入漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-51142845</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-51142845</guid><pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate><description>Google Go 命令注入漏洞
-危害等级: 超危
-收录时间：2026-11-11 | 更新时间: 2026-11-12 16:41:04
-CNNVD编号: CNNVD-2026-51142845</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-51142845&lt;/p&gt;&lt;pre&gt;Google Go 命令注入漏洞
-危害等级: 超危
-收录时间：2026-11-11 | 更新时间: 2026-11-12 16:41:04
-CNNVD编号: CNNVD-2026-51142845&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-96181678 - Google Go 竞争条件问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-96181678</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-96181678</guid><pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate><description>Google Go 竞争条件问题漏洞
-危害等级: 超危
-收录时间：2026-11-11 | 更新时间: 2026-11-12 16:41:03
-CNNVD编号: CNNVD-2026-96181678</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-96181678&lt;/p&gt;&lt;pre&gt;Google Go 竞争条件问题漏洞
-危害等级: 超危
-收录时间：2026-11-11 | 更新时间: 2026-11-12 16:41:03
-CNNVD编号: CNNVD-2026-96181678&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-75736135 - Dell OpenManage Ansible Modules 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75736135</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75736135</guid><pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate><description>Dell OpenManage Ansible Modules 输入验证错误漏洞
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Fri, 13 Nov 2026 19:55:01 +0000</lastBuildDate><item><title>CNNVD-2026-75564012 - AMD EPYC 7003 异常处理不当漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75564012</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75564012</guid><pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate><description>AMD EPYC 7003 异常处理不当漏洞
 危害等级: 高危
-收录时间：2026-11-11 | 更新时间: 2026-11-12 16:41:58
-CNNVD编号: CNNVD-2026-75736135</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75736135&lt;/p&gt;&lt;pre&gt;Dell OpenManage Ansible Modules 输入验证错误漏洞
+收录时间：2026-11-12 | 更新时间: 2026-11-13 15:45:13
+CNNVD编号: CNNVD-2026-75564012</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75564012&lt;/p&gt;&lt;pre&gt;AMD EPYC 7003 异常处理不当漏洞
 危害等级: 高危
-收录时间：2026-11-11 | 更新时间: 2026-11-12 16:41:58
-CNNVD编号: CNNVD-2026-75736135&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-38026596 - Dell Ansible Storage for PowerStore 加密问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-38026596</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-38026596</guid><pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate><description>Dell Ansible Storage for PowerStore 加密问题漏洞
+收录时间：2026-11-12 | 更新时间: 2026-11-13 15:45:13
+CNNVD编号: CNNVD-2026-75564012&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-28257880 - Check Point Quantum Security Gateway 权限许可和访问控制问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-28257880</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-28257880</guid><pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate><description>Check Point Quantum Security Gateway 权限许可和访问控制问题漏洞
 危害等级: 高危
-收录时间：2026-11-11 | 更新时间: 2026-11-12 16:41:58
-CNNVD编号: CNNVD-2026-38026596</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-38026596&lt;/p&gt;&lt;pre&gt;Dell Ansible Storage for PowerStore 加密问题漏洞
+收录时间：2026-11-12 | 更新时间: 2026-11-13 15:45:20
+CNNVD编号: CNNVD-2026-28257880</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-28257880&lt;/p&gt;&lt;pre&gt;Check Point Quantum Security Gateway 权限许可和访问控制问题漏洞
 危害等级: 高危
-收录时间：2026-11-11 | 更新时间: 2026-11-12 16:41:58
-CNNVD编号: CNNVD-2026-38026596&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-52047588 - Dell Terraform Provider for PowerFlex 加密问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-52047588</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-52047588</guid><pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate><description>Dell Terraform Provider for PowerFlex 加密问题漏洞
-危害等级: 低危
-收录时间：2026-11-11 | 更新时间: 2026-11-12 16:41:57
-CNNVD编号: CNNVD-2026-52047588</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-52047588&lt;/p&gt;&lt;pre&gt;Dell Terraform Provider for PowerFlex 加密问题漏洞
-危害等级: 低危
-收录时间：2026-11-11 | 更新时间: 2026-11-12 16:41:57
-CNNVD编号: CNNVD-2026-52047588&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-51624221 - Dell Terraform Provider for ObjectScale 日志信息泄露漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-51624221</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-51624221</guid><pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate><description>Dell Terraform Provider for ObjectScale 日志信息泄露漏洞
+收录时间：2026-11-12 | 更新时间: 2026-11-13 15:45:20
+CNNVD编号: CNNVD-2026-28257880&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-90658285 - Ashlar-Vellum Cobalt 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-90658285</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-90658285</guid><pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate><description>Ashlar-Vellum Cobalt 资源管理错误漏洞
 危害等级: 高危
-收录时间：2026-11-11 | 更新时间: 2026-11-12 16:41:56
-CNNVD编号: CNNVD-2026-51624221</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-51624221&lt;/p&gt;&lt;pre&gt;Dell Terraform Provider for ObjectScale 日志信息泄露漏洞
+收录时间：2026-11-12 | 更新时间: 2026-11-13 15:45:16
+CNNVD编号: CNNVD-2026-90658285</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-90658285&lt;/p&gt;&lt;pre&gt;Ashlar-Vellum Cobalt 资源管理错误漏洞
 危害等级: 高危
-收录时间：2026-11-11 | 更新时间: 2026-11-12 16:41:56
-CNNVD编号: CNNVD-2026-51624221&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-77377204 - Lenovo PC Manager 权限许可和访问控制问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-77377204</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-77377204</guid><pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate><description>Lenovo PC Manager 权限许可和访问控制问题漏洞
+收录时间：2026-11-12 | 更新时间: 2026-11-13 15:45:16
+CNNVD编号: CNNVD-2026-90658285&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-17460296 - Ashlar-Vellum Cobalt 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-17460296</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-17460296</guid><pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate><description>Ashlar-Vellum Cobalt 资源管理错误漏洞
 危害等级: 高危
-收录时间：2026-11-11 | 更新时间: 2026-11-12 16:42:15
-CNNVD编号: CNNVD-2026-77377204</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-77377204&lt;/p&gt;&lt;pre&gt;Lenovo PC Manager 权限许可和访问控制问题漏洞
+收录时间：2026-11-12 | 更新时间: 2026-11-13 15:45:16
+CNNVD编号: CNNVD-2026-17460296</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-17460296&lt;/p&gt;&lt;pre&gt;Ashlar-Vellum Cobalt 资源管理错误漏洞
 危害等级: 高危
-收录时间：2026-11-11 | 更新时间: 2026-11-12 16:42:15
-CNNVD编号: CNNVD-2026-77377204&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-71396501 - Apache XML Graphics Batik 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-71396501</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-71396501</guid><pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate><description>Apache XML Graphics Batik 输入验证错误漏洞
+收录时间：2026-11-12 | 更新时间: 2026-11-13 15:45:16
+CNNVD编号: CNNVD-2026-17460296&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-54804314 - Check Point Quantum Security Gateway 权限许可和访问控制问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-54804314</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-54804314</guid><pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate><description>Check Point Quantum Security Gateway 权限许可和访问控制问题漏洞
+危害等级: 高危
+收录时间：2026-11-12 | 更新时间: 2026-11-13 15:45:19
+CNNVD编号: CNNVD-2026-54804314</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-54804314&lt;/p&gt;&lt;pre&gt;Check Point Quantum Security Gateway 权限许可和访问控制问题漏洞
+危害等级: 高危
+收录时间：2026-11-12 | 更新时间: 2026-11-13 15:45:19
+CNNVD编号: CNNVD-2026-54804314&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-19550839 - Apache axis-axis2-c-core 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-19550839</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-19550839</guid><pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate><description>Apache axis-axis2-c-core 缓冲区错误漏洞
 危害等级: 超危
-收录时间：2026-11-11 | 更新时间: 2026-11-12 16:42:06
-CNNVD编号: CNNVD-2026-71396501</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-71396501&lt;/p&gt;&lt;pre&gt;Apache XML Graphics Batik 输入验证错误漏洞
+收录时间：2026-11-12 | 更新时间: 2026-11-13 15:45:14
+CNNVD编号: CNNVD-2026-19550839</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-19550839&lt;/p&gt;&lt;pre&gt;Apache axis-axis2-c-core 缓冲区错误漏洞
 危害等级: 超危
-收录时间：2026-11-11 | 更新时间: 2026-11-12 16:42:06
-CNNVD编号: CNNVD-2026-71396501&lt;/pre&gt;</content:encoded></item></channel></rss>
+收录时间：2026-11-12 | 更新时间: 2026-11-13 15:45:14
+CNNVD编号: CNNVD-2026-19550839&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-21442038 - ansible 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-21442038</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-21442038</guid><pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate><description>ansible 授权问题漏洞
+危害等级: 中危
+收录时间：2026-11-12 | 更新时间: 2026-11-13 15:45:14
+CNNVD编号: CNNVD-2026-21442038</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-21442038&lt;/p&gt;&lt;pre&gt;ansible 授权问题漏洞
+危害等级: 中危
+收录时间：2026-11-12 | 更新时间: 2026-11-13 15:45:14
+CNNVD编号: CNNVD-2026-21442038&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-54444884 - Datasolution AcyMailing extension for Joomla and WordPress 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-54444884</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-54444884</guid><pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate><description>Datasolution AcyMailing extension for Joomla and WordPress 授权问题漏洞
+危害等级: 高危
+收录时间：2026-11-12 | 更新时间: 2026-11-13 15:45:22
+CNNVD编号: CNNVD-2026-54444884</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-54444884&lt;/p&gt;&lt;pre&gt;Datasolution AcyMailing extension for Joomla and WordPress 授权问题漏洞
+危害等级: 高危
+收录时间：2026-11-12 | 更新时间: 2026-11-13 15:45:22
+CNNVD编号: CNNVD-2026-54444884&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-97749527 - Docker Sandboxes 权限许可和访问控制问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-97749527</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-97749527</guid><pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate><description>Docker Sandboxes 权限许可和访问控制问题漏洞
+危害等级: 高危
+收录时间：2026-11-12 | 更新时间: 2026-11-13 15:45:25
+CNNVD编号: CNNVD-2026-97749527</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-97749527&lt;/p&gt;&lt;pre&gt;Docker Sandboxes 权限许可和访问控制问题漏洞
+危害等级: 高危
+收录时间：2026-11-12 | 更新时间: 2026-11-13 15:45:25
+CNNVD编号: CNNVD-2026-97749527&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-42939561 - Alinto SOGo 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-42939561</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-42939561</guid><pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate><description>Alinto SOGo 授权问题漏洞
+危害等级: 超危
+收录时间：2026-11-12 | 更新时间: 2026-11-13 15:45:12
+CNNVD编号: CNNVD-2026-42939561</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-42939561&lt;/p&gt;&lt;pre&gt;Alinto SOGo 授权问题漏洞
+危害等级: 超危
+收录时间：2026-11-12 | 更新时间: 2026-11-13 15:45:12
+CNNVD编号: CNNVD-2026-42939561&lt;/pre&gt;</content:encoded></item></channel></rss>
