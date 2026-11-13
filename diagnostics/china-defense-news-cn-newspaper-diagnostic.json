@@ -1,67 +1,103 @@
 {
-  "issue_date": "2026-11-12",
+  "issue_date": "2026-11-13",
   "issue_pages": [
     {
       "paper_number": "01",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-12&paperName=zggfb&paperNumber=01",
-      "links": 73,
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-13&paperName=zggfb&paperNumber=01",
+      "links": 71,
       "article_links": 4
     },
     {
       "paper_number": "02",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-12&paperName=zggfb&paperNumber=02",
-      "links": 75,
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-13&paperName=zggfb&paperNumber=02",
+      "links": 71,
       "article_links": 4
     },
     {
       "paper_number": "03",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-12&paperName=zggfb&paperNumber=03",
-      "links": 63,
-      "article_links": 1
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-13&paperName=zggfb&paperNumber=03",
+      "links": 73,
+      "article_links": 6
     },
     {
       "paper_number": "04",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-12&paperName=zggfb&paperNumber=04",
-      "links": 63,
-      "article_links": 0
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-13&paperName=zggfb&paperNumber=04",
+      "links": 69,
+      "article_links": 4
     }
   ],
   "candidates": [
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-12&paperNumber=01&articleid=990162",
-      "anchor_title": "沉浸研学让历史可触可感"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-13&paperNumber=01&articleid=990242",
+      "anchor_title": "州县乡三级书记登台授课"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-12&paperNumber=01&articleid=990163",
-      "anchor_title": "实景宣讲让课堂生动鲜活"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-13&paperNumber=01&articleid=990243",
+      "anchor_title": "特殊的党费"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-12&paperNumber=01&articleid=990161",
-      "anchor_title": "“孔雀蓝”在任务一线拔节成长"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-13&paperNumber=01&articleid=990244",
+      "anchor_title": "老兵的心愿"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-12&paperNumber=01&articleid=990165",
-      "anchor_title": "千亩荞田铺“金毯”"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-13&paperNumber=01&articleid=990245",
+      "anchor_title": "“金叶子”铺就致富路"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-12&paperNumber=02&articleid=990154",
-      "anchor_title": "英魂归故里 思念有所寄"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-13&paperNumber=02&articleid=990234",
+      "anchor_title": "“红军碑”寻访记"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-12&paperNumber=02&articleid=990155",
-      "anchor_title": "读懂先辈的信仰与牺牲"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-13&paperNumber=02&articleid=990235",
+      "anchor_title": "追随“闪亮的星”"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-12&paperNumber=02&articleid=990157",
-      "anchor_title": "逐户回访新兵家庭"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-13&paperNumber=02&articleid=990236",
+      "anchor_title": "老兵后人捐出“传家宝”"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-12&paperNumber=02&articleid=990159",
-      "anchor_title": "生态鱼“游”出致富路"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-13&paperNumber=02&articleid=990237",
+      "anchor_title": "双线回访助力新兵安心服役"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-12&paperNumber=03&articleid=990167",
-      "anchor_title": "雄鹰不坠"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-13&paperNumber=03&articleid=990247",
+      "anchor_title": "“我绝不留下”"
+    },
+    {
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-13&paperNumber=03&articleid=990248",
+      "anchor_title": "银幕外的刘四姐"
+    },
+    {
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-13&paperNumber=03&articleid=990249",
+      "anchor_title": "塞柳常青"
+    },
+    {
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-13&paperNumber=03&articleid=990250",
+      "anchor_title": "胜利的回响"
+    },
+    {
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-13&paperNumber=03&articleid=990251",
+      "anchor_title": "心中有束光"
+    },
+    {
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-13&paperNumber=03&articleid=990252",
+      "anchor_title": "秋色斑斓"
+    },
+    {
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-13&paperNumber=04&articleid=990238",
+      "anchor_title": "韩国无人机作战体系加速成形"
+    },
+    {
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-13&paperNumber=04&articleid=990239",
+      "anchor_title": "加拿大安全战略转向“竞争体系”"
+    },
+    {
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-13&paperNumber=04&articleid=990241",
+      "anchor_title": "德国六代机合作艰难求破局"
+    },
+    {
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-13&paperNumber=04&articleid=990240",
+      "anchor_title": "法陆军试编无人机连"
     }
   ]
 }

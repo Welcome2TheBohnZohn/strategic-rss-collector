@@ -6,7 +6,7 @@ Include regex: /gfbw/|/xwfyr/|/wzll/
 Include text regex: 
 
 Candidate links: 50
-All links discovered: 244
+All links discovered: 243
 
 === MATCHED CANDIDATES ===
 
@@ -22,22 +22,24 @@ http://www.mod.gov.cn/gfbw/qwfb/16498913.html
   全军学习贯彻党的二十届五中全会精神宣讲首场报告会举行 张升民会见宣讲团成员
 http://www.mod.gov.cn/gfbw/gffw/16497951.html
   云南省军地开展“为困难退役军人送温暖”帮扶活动——关怀送上门 情暖老兵心
-http://www.mod.gov.cn/gfbw/sy/rt/16499331.html
-  纪念孙中山先生诞辰160周年大会在京举行 习近平出席大会并发表重要讲话
 http://www.mod.gov.cn/gfbw/gfjy_index/16498314.html
   在习近平强军思想指引下·走好新时代的长征路丨“北上先锋”赤胆踏新程
 http://www.mod.gov.cn/gfbw/gfdy/16497996.html
   推动落实适应国防动员需要的数据服务保障制度——“吹尽狂沙始到金”
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16499346.html
+http://www.mod.gov.cn/gfbw/sy/tt_214026/16499488.html
+  习近平将出席亚太经合组织第三十三次领导人非正式会议及相关活动
+http://www.mod.gov.cn/gfbw/qwfb/16499491.html
   纪念孙中山先生诞辰160周年大会在京举行 习近平发表重要讲话
 http://www.mod.gov.cn/gfbw/gfdy/16497999.html
   北京青少年服务中心丰富红色教育方式——把长征精神讲到孩子心里
 http://www.mod.gov.cn/gfbw/gfdy/16497997.html
   安徽省滁州市军供保障中心提高服务能力——自动化炊事设备增效率
-http://www.mod.gov.cn/gfbw/qwfb/16499328.html
-  全军学习贯彻党的二十届五中全会精神宣讲团继续赴各单位宣讲
+http://www.mod.gov.cn/gfbw/qwfb/16499462.html
+  全军学习贯彻党的二十届五中全会精神宣讲团继续在各单位宣讲
 http://www.mod.gov.cn/gfbw/qwfb/16498992.html
   中美两军举行“驼峰航线”美军援华抗日飞行员遗骸移交仪式
+http://www.mod.gov.cn/gfbw/wzll/16499469.html
+  从“大师主讲”到“青年登台”,青年人才方阵何以加速崛起
 http://www.mod.gov.cn/gfbw/jsxd/16498144.html
   中国第24批赴黎维和部队464名官兵荣获联合国和平勋章
 http://www.mod.gov.cn/gfbw/gffw/16469120.html
@@ -48,16 +50,14 @@ http://www.mod.gov.cn/gfbw/jswj/16497978.html
   第五届中国—东盟中青年军官友好交流活动在国防科大开幕
 http://www.mod.gov.cn/gfbw/wzll/16499111.html
   海军112舰退出现役：一艘战舰的荣光与一支军队的转型
-http://www.mod.gov.cn/gfbw/wzll/16499011.html
-  从“自带干粮”到“就近用餐”，陆航战机“喝上”空军油
 http://www.mod.gov.cn/gfbw/jsxd/16497765.html
   中印尼“利刃-2026”陆军反恐联合训练举行结训仪式
 http://www.mod.gov.cn/gfbw/jswj/16496847.html
   “吉祥方舟”号医院船与中国医疗队在加纳开展联合诊疗
 http://www.mod.gov.cn/gfbw/gfjy_index/16498608.html
   强军文化专刊·文化号角｜点燃官兵心中的“长征星火”
-http://www.mod.gov.cn/gfbw/qwfb/16498364.html
-  国防部介绍军队学习贯彻党的二十届五中全会精神情况
+http://www.mod.gov.cn/gfbw/wzll/16499482.html
+  信息支援部队某部研发气象风险研判系统服务练兵一线
 http://www.mod.gov.cn/gfbw/jsxd/16498701.html
   “吉祥方舟”号医院船访问多哥，加纳患者跨国寻医
 http://www.mod.gov.cn/gfbw/tp_214132/16498689.html
@@ -72,8 +72,10 @@ http://www.mod.gov.cn/gfbw/spbb_214126/16495157.html
   赴山河 从头越——追随统帅回望长征之路丨同心
 http://www.mod.gov.cn/gfbw/xwfyr/16496878.html
   菲方不能任由一小撮人肆意妄为在南海挑衅生事
-http://www.mod.gov.cn/gfbw/wzll/16499103.html
-  从“双20”列阵看人民空军77年奋飞征程
+http://www.mod.gov.cn/gfbw/sy/rt/16499460.html
+  纪念孙中山先生诞辰160周年大会在京举行
+http://www.mod.gov.cn/gfbw/qwfb/16499510.html
+  习近平对国有企业党的建设工作作出重要指示
 http://www.mod.gov.cn/gfbw/jsxd/16497557.html
   中越将举行“合作—2026”反恐联合训练
 http://www.mod.gov.cn/gfbw/xwfyr/16496948.html
@@ -90,6 +92,8 @@ http://www.mod.gov.cn/gfbw/qwfb/16498595.html
   习近平参加北京市区人大代表换届选举投票
 http://www.mod.gov.cn/gfbw/qwfb/16498370.html
   2026年11月上旬国防部例行新闻发布
+http://www.mod.gov.cn/gfbw/jmsd/16499478.html
+  强军论坛丨提高培养选拔优秀年轻干部质量
 http://www.mod.gov.cn/gfbw/tp_214132/16499343.html
   海军某支队呼伦湖舰开展海上航行补给训练
 http://www.mod.gov.cn/gfbw/qwfb/16498849.html
@@ -106,10 +110,6 @@ http://www.mod.gov.cn/gfbw/jmsd/16499188.html
   八一锐评丨征求意见须“真”字当头
 http://www.mod.gov.cn/gfbw/xwfyr/lxjzhzt/2026lxjzh/2026n10y/index.html
   2026年10月例行记者会专题
-http://www.mod.gov.cn/gfbw/xwfyr/16496899.html
-  国防部介绍那曲抗震救灾一线情况
-http://www.mod.gov.cn/gfbw/sy/jt_214028/16498298.html
-  海军航空大学某团开展飞行训练
 
 === ALL DISCOVERED LINKS ===
 
@@ -298,12 +298,10 @@ http://www.mod.gov.cn/gfbw/sy/jt_214028/16498296.html
   陆军某团开展实弹射击考核
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16497977.html
   空军某部开展飞行训练
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16499346.html
-  纪念孙中山先生诞辰160周年大会在京举行 习近平发表重要讲话
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16499348.html
-  （全文）
-http://www.mod.gov.cn/gfbw/sy/rt/16499331.html
-  纪念孙中山先生诞辰160周年大会在京举行 习近平出席大会并发表重要讲话
+http://www.mod.gov.cn/gfbw/sy/tt_214026/16499488.html
+  习近平将出席亚太经合组织第三十三次领导人非正式会议及相关活动
+http://www.mod.gov.cn/gfbw/sy/rt/16499460.html
+  纪念孙中山先生诞辰160周年大会在京举行
 http://www.mod.gov.cn/gfbw/sy/rt/16498492.html
   习近平参加北京市区人大代表换届选举投票
 http://www.mod.gov.cn/gfbw/sy/rt/16498482.html
@@ -312,28 +310,28 @@ http://www.mod.gov.cn/gfbw/sy/rt/16498480.html
   习近平会见奥地利总理施托克尔
 http://www.mod.gov.cn/gfbw/sy/rt/16497565.html
   习近平同阿曼苏丹海赛姆会谈
+http://www.mod.gov.cn/gfbw/qwfb/16499510.html
+  习近平对国有企业党的建设工作作出重要指示
+http://www.mod.gov.cn/gfbw/qwfb/16499491.html
+  纪念孙中山先生诞辰160周年大会在京举行 习近平发表重要讲话
+http://www.mod.gov.cn/gfbw/sy/tt_214026/16499348.html
+  （全文）
 http://www.mod.gov.cn/gfbw/qwfb/16498849.html
   习近平致电祝贺约托娃当选保加利亚总统
 http://www.mod.gov.cn/gfbw/qwfb/16498595.html
   习近平参加北京市区人大代表换届选举投票
-http://www.mod.gov.cn/gfbw/qwfb/16498499.html
-  习近平同加蓬总统恩圭马会谈
-http://www.mod.gov.cn/gfbw/qwfb/16498508.html
-  中加联合声明
 http://www.mod.gov.cn/gfbw/qwfb/16498913.html
   全军学习贯彻党的二十届五中全会精神宣讲首场报告会举行 张升民会见宣讲团成员
-http://www.mod.gov.cn/gfbw/qwfb/16499328.html
-  全军学习贯彻党的二十届五中全会精神宣讲团继续赴各单位宣讲
 http://www.mod.gov.cn/gfbw/qwfb/16498370.html
   2026年11月上旬国防部例行新闻发布
+http://www.mod.gov.cn/gfbw/qwfb/16499462.html
+  全军学习贯彻党的二十届五中全会精神宣讲团继续在各单位宣讲
 http://www.mod.gov.cn/gfbw/qwfb/16499329.html
   立起新时代党的建设的根本遵循
 http://www.mod.gov.cn/gfbw/qwfb/16498964.html
   推动全面从严治党系统部署落地强军实践
 http://www.mod.gov.cn/gfbw/qwfb/16498992.html
   中美两军举行“驼峰航线”美军援华抗日飞行员遗骸移交仪式
-http://www.mod.gov.cn/gfbw/qwfb/16498364.html
-  国防部介绍军队学习贯彻党的二十届五中全会精神情况
 http://www.mod.gov.cn/gfbw/jswj/16497562.html
   中国海军“吉祥方舟”号医院船访问多哥
 http://www.mod.gov.cn/gfbw/jswj/16497978.html
@@ -342,14 +340,14 @@ http://www.mod.gov.cn/gfbw/jswj/16496847.html
   “吉祥方舟”号医院船与中国医疗队在加纳开展联合诊疗
 http://www.mod.gov.cn/gfbw/jswj/16492058.html
   海军“吉祥方舟”号医院船结束访问几内亚
-http://www.mod.gov.cn/gfbw/wzll/16499103.html
-  从“双20”列阵看人民空军77年奋飞征程
+http://www.mod.gov.cn/gfbw/wzll/16499469.html
+  从“大师主讲”到“青年登台”,青年人才方阵何以加速崛起
+http://www.mod.gov.cn/gfbw/wzll/16499482.html
+  信息支援部队某部研发气象风险研判系统服务练兵一线
 http://www.mod.gov.cn/gfbw/wzll/16499111.html
   海军112舰退出现役：一艘战舰的荣光与一支军队的转型
 http://www.mod.gov.cn/gfbw/wzll/16499014.html
   空军组织飞行表演活动庆祝人民空军成立77周年
-http://www.mod.gov.cn/gfbw/wzll/16499011.html
-  从“自带干粮”到“就近用餐”，陆航战机“喝上”空军油
 http://www.mod.gov.cn/gfbw/jsxd/16498144.html
   中国第24批赴黎维和部队464名官兵荣获联合国和平勋章
 http://www.mod.gov.cn/gfbw/jsxd/16498701.html
@@ -407,12 +405,12 @@ http://www.mod.gov.cn/gfbw/jmsd/index.html
   军媒视点
 http://www.mod.gov.cn/gfbw/jmsd/16497516.html
   解放军报评论员：持之以恒推进全面从严治党必须遵循的原则
+http://www.mod.gov.cn/gfbw/jmsd/16499478.html
+  强军论坛丨提高培养选拔优秀年轻干部质量
 http://www.mod.gov.cn/gfbw/jmsd/16499317.html
   强军论坛｜将星远去，星河长明
 http://www.mod.gov.cn/gfbw/jmsd/16499188.html
   八一锐评丨征求意见须“真”字当头
-http://www.mod.gov.cn/gfbw/jmsd/16499015.html
-  全面从严治党关键在从严治吏
 http://www.mod.gov.cn/gfbw/gfdy/16487706.html
   云南省贡山县人武部结对帮扶独龙江乡马库村
 http://www.mod.gov.cn/gfbw/gfdy/16497999.html
@@ -453,6 +451,8 @@ http://www.mod.gov.cn/gfbw/tp_214132/jsjs/index.html
   军事纪实
 http://www.mod.gov.cn/gfbw/tp_214132/tsjs/index.html
   图说军史
+http://www.mod.gov.cn/gfbw/tp_214132/16499505.html
+  新疆军区某团组织喷火器实喷训练
 http://www.mod.gov.cn/gfbw/tp_214132/16499343.html
   海军某支队呼伦湖舰开展海上航行补给训练
 http://www.mod.gov.cn/gfbw/tp_214132/16498689.html
@@ -461,8 +461,6 @@ http://www.mod.gov.cn/gfbw/tp_214132/16498602.html
   陆军某团开展实弹射击考核
 http://www.mod.gov.cn/gfbw/tp_214132/16498603.html
   海军航空大学某团开展飞行训练
-http://www.mod.gov.cn/gfbw/tp_214132/16498601.html
-  空军某部开展飞行训练
 http://www.gfbzb.gov.cn/
   全国征兵网
 http://www.xinhuanet.com/
@@ -507,13 +505,13 @@ http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/11/08/16498720_44168c41
 http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/11/06/16498298_0372b148be25af1e67f0c456672319e7.jpg
 http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/11/06/16498296_2021215a078d3aae40c7335ca07d65d2.jpg
 http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/11/04/16497977_80868a6dec1e081ed9c050deb0527fb5.jpg
-http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/11/12/16499331_8df6a4c0e09e30e708313e4a6e8637fc.jpg
+http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/11/13/16499460_ce93bd9ff0cc48bbfcd0a5595d0ea253.jpg
 http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/11/06/16498492_32a7d0f2606ccc4f13eb00e3a3d20949.jpg
 http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/11/06/16498482_bad6021638bb00b4e9a2033167e004b9.jpg
 http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/11/06/16498480_833289d228d7dd16ad8539c76d7b0c16.jpg
 http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/11/02/16497565_412d4b9e830589454cf87b9e4926c73f.jpg
 http://www.mod.gov.cn/gfbw/jswj/_attachment/2026/11/02/16497562_2b562b304cc752ea78305ec2213be83e.jpg
-http://www.mod.gov.cn/gfbw/wzll/_attachment/2026/11/11/16499103_824e64be46d17f2258c1acea9bb5b938.jpg
+http://www.mod.gov.cn/gfbw/wzll/_attachment/2026/11/13/16499469_9d5b837a2634da34eeae35ea0886495d.jpg
 http://www.mod.gov.cn/gfbw/jsxd/_attachment/2026/11/05/16498144_8246ee87953431866abbe806d9f6f8c0.jpg
 http://www.mod.gov.cn/gfbw/xwfyr/lxjzhzt/_attachment/2026/10/30/16497155_1d1cc748c68c32ac2f69f2f935d0334f.jpg
 http://www.mod.gov.cn/gfbw/spbb_214126/_attachment/2026/10/21/16495225_03ad201e897eb6bc107fd826c071a411.jpg
@@ -532,11 +530,11 @@ http://www.mod.gov.cn/gfbw/jmsd/_attachment/2026/11/02/16497516_cdf7c1e440c1e9b0
 http://www.mod.gov.cn/gfbw/gfdy/_attachment/2026/09/20/16487706_b3976ec10633c6611756bb8b41668750.png
 http://www.mod.gov.cn/gfbw/gfjy_index/_attachment/2026/11/09/16498839_a929662d3048c0cf2c9aaa2e0e42334e.jpg
 http://www.mod.gov.cn/gfbw/zt/_attachment/2026/08/20/16479151_1572281a51f5ab63ef863d55fdea15e0.jpg
+http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/11/13/16499505_c0b5aa2916fe1b92a21af0eda9d6f96d.jpg
 http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/11/12/16499343_c60eb37df63b0f2f198408dccdaf5421.jpg
 http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/11/08/16498689_5037f8f2f1bfccc5b137fbd115e923e0.jpg
 http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/11/06/16498602_4508e2c5a1355ffcac54c91f870c3cae.jpg
 http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/11/06/16498603_482eba70f896214779cd7d89603c2506.jpg
-http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/11/07/16498601_b2d4d530d79bc5124cb9a99bb35f9db8.jpg
 http://www.81.cn/page/report.htm
 http://www.mod.gov.cn/template/tenant207/t179/js/javascript.js?v=20224291
 http://www.mod.gov.cn/material/js/jquery.s2t.js?v=2022
