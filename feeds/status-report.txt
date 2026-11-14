@@ -1,5 +1,5 @@
 Strategic RSS Collector Status
-Generated: 2026-11-14 06:37:58 UTC
+Generated: 2026-11-14 18:18:04 UTC
 
 Status meanings:
 OK = Feed contains one or more items
@@ -114,21 +114,22 @@ FAILED = Source could not be retrieved
   Max retries: 2
   Retry backoff: 3s
 
-[OK] sastind-cn - SASTIND
+[FAILED] sastind-cn - SASTIND
   Source type: html
   Start URL: https://www.sastind.gov.cn/
   Resolved URL: https://www.sastind.gov.cn/
-  HTTP: 200
-  Links discovered: 67
-  Candidate links/items: 50
-  Attempted items/articles: 12
-  Items/articles with text: 12
-  Items/articles with dates: 12
-  RSS feed items: 12
+  HTTP: None
+  Links discovered: 0
+  Candidate links/items: 0
+  Attempted items/articles: 0
+  Items/articles with text: 0
+  Items/articles with dates: 0
+  RSS feed items: 0
   SSL verification: ON
   Request timeout: 12s
   Max retries: 1
   Retry backoff: 1s
+  Error: https://www.sastind.gov.cn/ -> ConnectTimeout: HTTPSConnectionPool(host='www.sastind.gov.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.sastind.gov.cn', port=443) at 0x7f1a860fce10>, 'Connection to www.sastind.gov.cn timed out. (connect timeout=12)'))
 
 [OK] mid-ru-en - Russian Ministry of Foreign Affairs English - Official Telegram
   Source type: telegram
@@ -306,7 +307,7 @@ Call log:
   Candidate links/items: 50
   Attempted items/articles: 12
   Items/articles with text: 12
-  Items/articles with dates: 10
+  Items/articles with dates: 9
   RSS feed items: 12
   SSL verification: OFF
   Request timeout: 12s
@@ -328,7 +329,7 @@ Call log:
   Request timeout: 12s
   Max retries: 1
   Retry backoff: 1s
-  Error: https://www.ncpssd.cn/ -> HTTPError: 403 Client Error: Forbidden for url: https://www.ncpssd.cn/
+  Error: https://www.ncpssd.cn/ -> ReadTimeout: HTTPSConnectionPool(host='www.ncpssd.cn', port=443): Read timed out. (read timeout=12)
 
 [OK] stats-cn - National Bureau of Statistics of China
   Source type: html
@@ -363,7 +364,7 @@ Call log:
   Retry backoff: 1s
 
 SUMMARY
-Working: 20
+Working: 19
 Fetched but no items: 0
-Failed: 2
+Failed: 3
 Total sources: 22
