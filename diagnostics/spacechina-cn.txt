@@ -6,12 +6,14 @@ Include regex: spacechina\.com/n25/n2014789/.+
 Include text regex: 
 
 Candidate links: 50
-All links discovered: 171
+All links discovered: 172
 
 === MATCHED CANDIDATES ===
 
 https://www.spacechina.com/n25/n2014789/n2014819/c3578292/content.html
   关于有关企业擅自将中国航天科技集团有限公司作为协办单位发布《2022中国（北京）国际航空航天技...
+https://www.spacechina.com/n25/n2014789/n2014809/c4749041/content.html
+  航天科技七院航天模塑青岛华涛 获评国家级专精特新 “小巨人”企业
 https://www.spacechina.com/n25/n2014789/n2014809/c4749001/content.html
   航天科技集团中国乐凯所属合肥乐凯以优质产品、专业服务响应市场需求
 https://www.spacechina.com/n25/n2014789/n2014809/c4745461/content.html
@@ -20,14 +22,12 @@ https://www.spacechina.com/n25/n2014789/n2014809/c4745321/content.html
   航天科技四院43所炭/炭复合材料生产线安全高效智能转型侧记
 https://www.spacechina.com/n25/n2014789/n2014819/c4743261/content.html
   中国航天科技集团有限公司2027年研究生招生专业目录发布
-https://www.spacechina.com/n25/n2014789/n2014809/c4745283/content.html
-  航天科技八院804所第六事业部统筹推进科研生产工作侧记
-https://www.spacechina.com/n25/n2014789/n2014809/c4745269/content.html
-  航天科技八院802所开展“无偿献血 拯救生命”主题活动
 https://www.spacechina.com/n25/n2014789/n2014814/c4593148/content.html
   航天科技集团资源卫星中心接待南非代表团深化双方沟通合作
 https://www.spacechina.com/n25/n2014789/n2014814/c4547665/content.html
   援纳米比亚卫星地面数据接收站和处理系统建设项目正式移交
+https://www.spacechina.com/n25/n2014789/n2014809/c4749081/content.html
+  航天科技九院704所天地一体测控通信产品亮相行业展会
 https://www.spacechina.com/n25/n2014789/n2014814/c4624996/content.html
   航天科技集团长城公司高质量履约书写中巴航天合作新篇章
 https://www.spacechina.com/n25/n2014789/n2014804/c4746641/content.html
@@ -54,6 +54,8 @@ https://www.spacechina.com/n25/n2014789/n2014814/c4699641/content.html
   航天科技集团新研产品亮相2026世界机器人大会
 https://www.spacechina.com/n25/n2014789/n2014804/c4747541/content.html
   长二丙火箭成功发射遥感五十一号 07-09星
+https://www.spacechina.com/n25/n2014789/n2014809/c4750441/content.html
+  航天科技四院7414厂打造可复制智能生产模式
 https://www.spacechina.com/n25/n2014789/n2014809/c4748961/content.html
   航天科技八院802所数智升级助力航天制造侧记
 https://www.spacechina.com/n25/n2014789/n2014814/c4605995/content.html
@@ -84,8 +86,6 @@ https://www.spacechina.com/n25/n2014789/n2014799/c4712463/content.html
   航天科技集团召开“9·21”质量日...
 https://www.spacechina.com/n25/n2014789/n2014809/c4748941/content.html
   航天科技五院西安分院开展健康管理咨询活动
-https://www.spacechina.com/n25/n2014789/n2014809/c4745297/content.html
-  航天科技七院7102厂推进数据治理侧记
 https://www.spacechina.com/n25/n2014789/n2014799/c4371521/content.html
   陈鸣波讲授学习教育专题党课
 https://www.spacechina.com/n25/n2014789/n2014799/c4717181/content.html
@@ -270,6 +270,12 @@ https://www.spacechina.com/n25/n2014789/n2014799/c4717181/content.html
   航天科技集团召开档案工作会
 https://www.spacechina.com/n25/n2014789/n2014799/c4712463/content.html
   航天科技集团召开“9·21”质量日...
+https://www.spacechina.com/n25/n2014789/n2014809/c4749081/content.html
+  航天科技九院704所天地一体测控通信产品亮相行业展会
+https://www.spacechina.com/n25/n2014789/n2014809/c4749041/content.html
+  航天科技七院航天模塑青岛华涛 获评国家级专精特新 “小巨人”企业
+https://www.spacechina.com/n25/n2014789/n2014809/c4750441/content.html
+  航天科技四院7414厂打造可复制智能生产模式
 https://www.spacechina.com/n25/n2014789/n2014809/c4749001/content.html
   航天科技集团中国乐凯所属合肥乐凯以优质产品、专业服务响应市场需求
 https://www.spacechina.com/n25/n2014789/n2014809/c4748981/content.html
@@ -284,12 +290,6 @@ https://www.spacechina.com/n25/n2014789/n2014809/c4745321/content.html
   航天科技四院43所炭/炭复合材料生产线安全高效智能转型侧记
 https://www.spacechina.com/n25/n2014789/n2014809/c4745386/content.html
   航天科技五院西安分院参与承办可展开空间结构学术会议
-https://www.spacechina.com/n25/n2014789/n2014809/c4745283/content.html
-  航天科技八院804所第六事业部统筹推进科研生产工作侧记
-https://www.spacechina.com/n25/n2014789/n2014809/c4745297/content.html
-  航天科技七院7102厂推进数据治理侧记
-https://www.spacechina.com/n25/n2014789/n2014809/c4745269/content.html
-  航天科技八院802所开展“无偿献血 拯救生命”主题活动
 https://www.spacechina.com/n25/n2014789/n2014814/c4699641/content.html
   航天科技集团新研产品亮相2026世界机器人大会
 https://mp.weixin.qq.com/s/Yt3B7WiOp9SW3Cy7KSVNBQ
@@ -311,12 +311,13 @@ https://www.spacechina.com/n25/n2014789/n2014814/c4547665/content.html
 https://www.spacechina.com/n25/n2014789/n2014814/c4533791/content.html
   航天科技集团长征国际亮相阿布扎比无人系统展
 https://www.stdaily.com/web/gdxw/2026-11/09/content_610578.html
-  科技日报：我国成功发射卫星互联网低轨29组卫星
 https://www.stdaily.com/web/gdxw/2026-11/06/content_609294.html
 https://mp.weixin.qq.com/s/8uGEWzDEcGXrIa2Z-AM0sQ
 https://mp.weixin.qq.com/s/w005xSm2_xt7O8Fp3TcffQ
 https://mp.weixin.qq.com/s/lxhF_k_4B92kP4EovY77yQ
 https://mp.weixin.qq.com/s/Sp6vBhWNvf-INQQ4RUtJNw
+https://www.stdaily.com/web/gdxw/2026-11/11/content_611848.html
+  科技日报：纯太阳能！“轻骑兵”首飞成功
 https://mp.weixin.qq.com/s/uLmuiFo-z8lU2gyTdANI6A
   科技日报：第677次，发射成功！
 https://www.news.cn/20261109/3c118a2d0a834a53b5a204cdcc779e44/c.html
@@ -327,12 +328,12 @@ http://www.sasac.gov.cn/n2588025/n2643314/c34380965/content.html
 http://www.sasac.gov.cn/n2588025/n2643314/c34041102/content.html
 http://www.sasac.gov.cn/n2588025/n2643314/c33954662/content.html
 http://www.sasac.gov.cn/n2588025/n2643314/c33667926/content.html
+http://www.sasac.gov.cn/n2588025/n2643314/c36178303/content.html
+  驻国务院国资委纪检监察组与国务院国资委党委召开2026年全面...
 http://www.sasac.gov.cn/n2588025/n2643314/c36175585/content.html
   国务院国资委领导出席第九届虹桥国际经济论坛“变局中的企业力量...
 http://www.sasac.gov.cn/n2588025/n2643314/c36152472/content.html
   程福波到中国通号保利集团调研
-http://www.sasac.gov.cn/n2588025/n2643314/c36144732/content.html
-  国务院国资委召开地方进一步深化国资国企改革座谈会
 http://zhuanti.spacechina.com/n4716421/index.html
 http://zhuanti.spacechina.com/n4615143/index.html
 http://zhuanti.spacechina.com/n4591921/
