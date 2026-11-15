@@ -6,7 +6,7 @@ Include regex: /gfbw/|/xwfyr/|/wzll/
 Include text regex: 
 
 Candidate links: 50
-All links discovered: 243
+All links discovered: 244
 
 === MATCHED CANDIDATES ===
 
@@ -26,7 +26,7 @@ http://www.mod.gov.cn/gfbw/gfdy/16497996.html
   推动落实适应国防动员需要的数据服务保障制度——“吹尽狂沙始到金”
 http://www.mod.gov.cn/gfbw/gfjy_index/16499783.html
   全国双拥模范城威海市：将爱军情怀转化为看得见、摸得着的拥军实践
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16499488.html
+http://www.mod.gov.cn/gfbw/qwfb/16499828.html
   习近平将出席亚太经合组织第三十三次领导人非正式会议及相关活动
 http://www.mod.gov.cn/gfbw/qwfb/16499491.html
   纪念孙中山先生诞辰160周年大会在京举行 习近平发表重要讲话
@@ -100,8 +100,8 @@ http://www.mod.gov.cn/gfbw/jmsd/16499478.html
   强军论坛丨提高培养选拔优秀年轻干部质量
 http://www.mod.gov.cn/gfbw/tp_214132/16499343.html
   海军某支队呼伦湖舰开展海上航行补给训练
-http://www.mod.gov.cn/gfbw/qwfb/16498849.html
-  习近平致电祝贺约托娃当选保加利亚总统
+http://www.mod.gov.cn/gfbw/sy/tt_214026/16499827.html
+  《求是》杂志发表习近平总书记重要文章
 http://www.mod.gov.cn/gfbw/jswj/16497562.html
   中国海军“吉祥方舟”号医院船访问多哥
 http://www.mod.gov.cn/gfbw/jmsd/16499781.html
@@ -298,8 +298,10 @@ http://www.mod.gov.cn/gfbw/sy/jt_214028/16498296.html
   陆军某团开展实弹射击考核
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16497977.html
   空军某部开展飞行训练
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16499488.html
-  习近平将出席亚太经合组织第三十三次领导人非正式会议及相关活动
+http://www.mod.gov.cn/gfbw/sy/tt_214026/16499827.html
+  《求是》杂志发表习近平总书记重要文章
+http://www.mod.gov.cn/gfbw/sy/tt_214026/16499825.html
+  《携手共建亚太命运共同体》
 http://www.mod.gov.cn/gfbw/sy/rt/16499460.html
   纪念孙中山先生诞辰160周年大会在京举行
 http://www.mod.gov.cn/gfbw/sy/rt/16498492.html
@@ -312,12 +314,12 @@ http://www.mod.gov.cn/gfbw/sy/rt/16497565.html
   习近平同阿曼苏丹海赛姆会谈
 http://www.mod.gov.cn/gfbw/qwfb/16499510.html
   习近平对国有企业党的建设工作作出重要指示
+http://www.mod.gov.cn/gfbw/qwfb/16499828.html
+  习近平将出席亚太经合组织第三十三次领导人非正式会议及相关活动
 http://www.mod.gov.cn/gfbw/qwfb/16499491.html
   纪念孙中山先生诞辰160周年大会在京举行 习近平发表重要讲话
 http://www.mod.gov.cn/gfbw/sy/tt_214026/16499348.html
   （全文）
-http://www.mod.gov.cn/gfbw/qwfb/16498849.html
-  习近平致电祝贺约托娃当选保加利亚总统
 http://www.mod.gov.cn/gfbw/qwfb/16499801.html
   聚焦使命任务 强化责任担当——全军部队深入学习贯彻党的二十届五中全会精神系列述评之三
 http://www.mod.gov.cn/gfbw/qwfb/16499665.html
