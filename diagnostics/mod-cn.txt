@@ -6,46 +6,44 @@ Include regex: /gfbw/|/xwfyr/|/wzll/
 Include text regex: 
 
 Candidate links: 50
-All links discovered: 244
+All links discovered: 243
 
 === MATCHED CANDIDATES ===
 
 http://www.mod.gov.cn/gfbw/fgwx/16482016.html
   全国人大常委会表决通过新修订的国防动员法
-http://www.mod.gov.cn/gfbw/jswj/16492058.html
-  海军“吉祥方舟”号医院船结束访问几内亚
 http://www.mod.gov.cn/gfbw/fgwx/16482045.html
   中华人民共和国国防动员法
+http://www.mod.gov.cn/gfbw/qwfb/16499890.html
+  《习近平的文化情缘》（国际版）和《习主席的来信》（国际版）在APEC成员经济体主流媒体播出
 http://www.mod.gov.cn/gfbw/fgwx/16444625.html
   中央军委政治工作部等6部门联合印发《关于做好边远艰苦地区和大龄未婚官兵婚恋服务工作的意见》
-http://www.mod.gov.cn/gfbw/qwfb/16499801.html
-  聚焦使命任务 强化责任担当——全军部队深入学习贯彻党的二十届五中全会精神系列述评之三
+http://www.mod.gov.cn/gfbw/qwfb/16499896.html
+  全面从严治党关键在严——全军部队深入学习贯彻党的二十届五中全会精神系列述评之四
 http://www.mod.gov.cn/gfbw/gffw/16497951.html
   云南省军地开展“为困难退役军人送温暖”帮扶活动——关怀送上门 情暖老兵心
 http://www.mod.gov.cn/gfbw/gfdy/16497996.html
   推动落实适应国防动员需要的数据服务保障制度——“吹尽狂沙始到金”
-http://www.mod.gov.cn/gfbw/gfjy_index/16499783.html
-  全国双拥模范城威海市：将爱军情怀转化为看得见、摸得着的拥军实践
+http://www.mod.gov.cn/gfbw/qwfb/16499821.html
+  《求是》杂志发表习近平总书记重要文章《携手共建亚太命运共同体》
 http://www.mod.gov.cn/gfbw/qwfb/16499828.html
   习近平将出席亚太经合组织第三十三次领导人非正式会议及相关活动
-http://www.mod.gov.cn/gfbw/qwfb/16499491.html
-  纪念孙中山先生诞辰160周年大会在京举行 习近平发表重要讲话
 http://www.mod.gov.cn/gfbw/gfdy/16497999.html
   北京青少年服务中心丰富红色教育方式——把长征精神讲到孩子心里
 http://www.mod.gov.cn/gfbw/gfdy/16497997.html
   安徽省滁州市军供保障中心提高服务能力——自动化炊事设备增效率
+http://www.mod.gov.cn/gfbw/sy/tt_214026/16499932.html
+  习近平将同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤
 http://www.mod.gov.cn/gfbw/qwfb/16499665.html
   全军学习贯彻党的二十届五中全会精神宣讲团继续在各单位宣讲
-http://www.mod.gov.cn/gfbw/qwfb/16499521.html
-  国防部：日本右翼势力种种行径是对战后国际秩序的公然挑衅
 http://www.mod.gov.cn/gfbw/wzll/16499469.html
   从“大师主讲”到“青年登台”,青年人才方阵何以加速崛起
 http://www.mod.gov.cn/gfbw/jsxd/16498144.html
   中国第24批赴黎维和部队464名官兵荣获联合国和平勋章
 http://www.mod.gov.cn/gfbw/gffw/16469120.html
   速览！2026年军校招生政策解读，你想知道的都在这里→
-http://www.mod.gov.cn/gfbw/gfjy_index/16499784.html
-  解放军某部援建甘肃省漳县盐川小学 两次授牌见证鱼水深情
+http://www.mod.gov.cn/gfbw/gfjy_index/16499998.html
+  空军开展“青春战位说”国防教育情景直播课暨军营开放活动
 http://www.mod.gov.cn/gfbw/qwfb/16499523.html
   国防部：中美两国防务部门就各层级交流对话保持沟通协调
 http://www.mod.gov.cn/gfbw/jswj/16497978.html
@@ -56,6 +54,8 @@ http://www.mod.gov.cn/gfbw/jsxd/16497765.html
   中印尼“利刃-2026”陆军反恐联合训练举行结训仪式
 http://www.mod.gov.cn/gfbw/xwfyr/16499527.html
   国防部：中美两国防务部门就各层级交流对话保持沟通协调
+http://www.mod.gov.cn/gfbw/gfjy_index/16499928.html
+  迷彩伴书香 培塑报国志：杨浦区探索高校国防教育新路径
 http://www.mod.gov.cn/gfbw/jswj/16496847.html
   “吉祥方舟”号医院船与中国医疗队在加纳开展联合诊疗
 http://www.mod.gov.cn/gfbw/wzll/16499482.html
@@ -76,6 +76,8 @@ http://www.mod.gov.cn/gfbw/spbb_214126/16495158.html
   赴山河 从头越——追随统帅回望长征之路丨本色
 http://www.mod.gov.cn/gfbw/spbb_214126/16495157.html
   赴山河 从头越——追随统帅回望长征之路丨同心
+http://www.mod.gov.cn/gfbw/jmsd/16499894.html
+  弘扬伟大长征精神高质量推进国防和军队现代化
 http://www.mod.gov.cn/gfbw/tp_214132/16499689.html
   武警上海总队某支队组织官兵开展综合体能训练
 http://www.mod.gov.cn/gfbw/sy/rt/16499460.html
@@ -88,28 +90,26 @@ http://www.mod.gov.cn/gfbw/xwfyr/16496948.html
   2026年10月国防部例行记者会文字实录
 http://www.mod.gov.cn/gfbw/gfdy/16487706.html
   云南省贡山县人武部结对帮扶独龙江乡马库村
-http://www.mod.gov.cn/gfbw/gfjy_index/16498694.html
-  各地各部队广泛开展“长征路上军民情”活动
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16498720.html
   第73集团军某旅组织直升机编队飞行训练
 http://www.mod.gov.cn/gfbw/sy/rt/16498492.html
   习近平参加北京市区人大代表换届选举投票
 http://www.mod.gov.cn/gfbw/qwfb/16499548.html
   2026年11月中旬国防部例行新闻发布
-http://www.mod.gov.cn/gfbw/jmsd/16499478.html
-  强军论坛丨提高培养选拔优秀年轻干部质量
+http://www.mod.gov.cn/gfbw/jswj/16500003.html
+  “这段历史属于中国，这种精神属于世界”
+http://www.mod.gov.cn/gfbw/gfjy_index/16499895.html
+  政治建军专刊·淬火要论｜革命气节重如山
 http://www.mod.gov.cn/gfbw/tp_214132/16499343.html
   海军某支队呼伦湖舰开展海上航行补给训练
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16499827.html
-  《求是》杂志发表习近平总书记重要文章
+http://www.mod.gov.cn/gfbw/qwfb/16499951.html
+  习近平致信祝贺暨南大学建校120周年
 http://www.mod.gov.cn/gfbw/jswj/16497562.html
   中国海军“吉祥方舟”号医院船访问多哥
 http://www.mod.gov.cn/gfbw/jmsd/16499781.html
   强军论坛｜让征兵全程“晒”在阳光下
-http://www.mod.gov.cn/gfbw/tp_214132/16499688.html
-  第79集团军某旅举行军事体育运动会
-http://www.mod.gov.cn/gfbw/qwfb/16499524.html
-  菲方应严格约束个别政客的危险言行
+http://www.mod.gov.cn/gfbw/gfjy_index/16499929.html
+  迎无名烈士“归队” 还安息之地安宁
 
 === ALL DISCOVERED LINKS ===
 
@@ -298,10 +298,8 @@ http://www.mod.gov.cn/gfbw/sy/jt_214028/16498296.html
   陆军某团开展实弹射击考核
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16497977.html
   空军某部开展飞行训练
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16499827.html
-  《求是》杂志发表习近平总书记重要文章
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16499825.html
-  《携手共建亚太命运共同体》
+http://www.mod.gov.cn/gfbw/sy/tt_214026/16499932.html
+  习近平将同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤
 http://www.mod.gov.cn/gfbw/sy/rt/16499460.html
   纪念孙中山先生诞辰160周年大会在京举行
 http://www.mod.gov.cn/gfbw/sy/rt/16498492.html
@@ -312,36 +310,36 @@ http://www.mod.gov.cn/gfbw/sy/rt/16498480.html
   习近平会见奥地利总理施托克尔
 http://www.mod.gov.cn/gfbw/sy/rt/16497565.html
   习近平同阿曼苏丹海赛姆会谈
+http://www.mod.gov.cn/gfbw/qwfb/16499951.html
+  习近平致信祝贺暨南大学建校120周年
+http://www.mod.gov.cn/gfbw/qwfb/16499978.html
+  贺信全文
 http://www.mod.gov.cn/gfbw/qwfb/16499510.html
   习近平对国有企业党的建设工作作出重要指示
 http://www.mod.gov.cn/gfbw/qwfb/16499828.html
   习近平将出席亚太经合组织第三十三次领导人非正式会议及相关活动
-http://www.mod.gov.cn/gfbw/qwfb/16499491.html
-  纪念孙中山先生诞辰160周年大会在京举行 习近平发表重要讲话
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16499348.html
-  （全文）
-http://www.mod.gov.cn/gfbw/qwfb/16499801.html
-  聚焦使命任务 强化责任担当——全军部队深入学习贯彻党的二十届五中全会精神系列述评之三
-http://www.mod.gov.cn/gfbw/qwfb/16499665.html
-  全军学习贯彻党的二十届五中全会精神宣讲团继续在各单位宣讲
+http://www.mod.gov.cn/gfbw/qwfb/16499821.html
+  《求是》杂志发表习近平总书记重要文章《携手共建亚太命运共同体》
+http://www.mod.gov.cn/gfbw/qwfb/16499890.html
+  《习近平的文化情缘》（国际版）和《习主席的来信》（国际版）在APEC成员经济体主流媒体播出
 http://www.mod.gov.cn/gfbw/qwfb/16499548.html
   2026年11月中旬国防部例行新闻发布
+http://www.mod.gov.cn/gfbw/qwfb/16499896.html
+  全面从严治党关键在严——全军部队深入学习贯彻党的二十届五中全会精神系列述评之四
+http://www.mod.gov.cn/gfbw/qwfb/16499665.html
+  全军学习贯彻党的二十届五中全会精神宣讲团继续在各单位宣讲
 http://www.mod.gov.cn/gfbw/qwfb/16499523.html
   国防部：中美两国防务部门就各层级交流对话保持沟通协调
 http://www.mod.gov.cn/gfbw/qwfb/16499522.html
   中国军队将搭建更多更好的中外青年军官交流平台
-http://www.mod.gov.cn/gfbw/qwfb/16499521.html
-  国防部：日本右翼势力种种行径是对战后国际秩序的公然挑衅
-http://www.mod.gov.cn/gfbw/qwfb/16499524.html
-  菲方应严格约束个别政客的危险言行
 http://www.mod.gov.cn/gfbw/jswj/16497562.html
   中国海军“吉祥方舟”号医院船访问多哥
+http://www.mod.gov.cn/gfbw/jswj/16500003.html
+  “这段历史属于中国，这种精神属于世界”
 http://www.mod.gov.cn/gfbw/jswj/16497978.html
   第五届中国—东盟中青年军官友好交流活动在国防科大开幕
 http://www.mod.gov.cn/gfbw/jswj/16496847.html
   “吉祥方舟”号医院船与中国医疗队在加纳开展联合诊疗
-http://www.mod.gov.cn/gfbw/jswj/16492058.html
-  海军“吉祥方舟”号医院船结束访问几内亚
 http://www.mod.gov.cn/gfbw/wzll/16499469.html
   从“大师主讲”到“青年登台”,青年人才方阵何以加速崛起
 http://www.mod.gov.cn/gfbw/wzll/16499482.html
@@ -407,12 +405,12 @@ http://www.mod.gov.cn/gfbw/jmsd/index.html
   军媒视点
 http://www.mod.gov.cn/gfbw/jmsd/16499781.html
   强军论坛｜让征兵全程“晒”在阳光下
+http://www.mod.gov.cn/gfbw/jmsd/16499894.html
+  弘扬伟大长征精神高质量推进国防和军队现代化
 http://www.mod.gov.cn/gfbw/jmsd/16499666.html
   强军论坛｜一个“恒”字千钧重
 http://www.mod.gov.cn/gfbw/jmsd/16499795.html
   以更高标准更严要求推进全面从严治党全面从严治军
-http://www.mod.gov.cn/gfbw/jmsd/16499478.html
-  强军论坛丨提高培养选拔优秀年轻干部质量
 http://www.mod.gov.cn/gfbw/gfdy/16487706.html
   云南省贡山县人武部结对帮扶独龙江乡马库村
 http://www.mod.gov.cn/gfbw/gfdy/16497999.html
@@ -421,14 +419,14 @@ http://www.mod.gov.cn/gfbw/gfdy/16497997.html
   安徽省滁州市军供保障中心提高服务能力——自动化炊事设备增效率
 http://www.mod.gov.cn/gfbw/gfdy/16497996.html
   推动落实适应国防动员需要的数据服务保障制度——“吹尽狂沙始到金”
-http://www.mod.gov.cn/gfbw/gfjy_index/16499783.html
-  全国双拥模范城威海市：将爱军情怀转化为看得见、摸得着的拥军实践
-http://www.mod.gov.cn/gfbw/gfjy_index/16499784.html
-  解放军某部援建甘肃省漳县盐川小学 两次授牌见证鱼水深情
-http://www.mod.gov.cn/gfbw/gfjy_index/16498839.html
-  新长征，我们都是接棒人
-http://www.mod.gov.cn/gfbw/gfjy_index/16498694.html
-  各地各部队广泛开展“长征路上军民情”活动
+http://www.mod.gov.cn/gfbw/gfjy_index/16499928.html
+  迷彩伴书香 培塑报国志：杨浦区探索高校国防教育新路径
+http://www.mod.gov.cn/gfbw/gfjy_index/16499998.html
+  空军开展“青春战位说”国防教育情景直播课暨军营开放活动
+http://www.mod.gov.cn/gfbw/gfjy_index/16499929.html
+  迎无名烈士“归队” 还安息之地安宁
+http://www.mod.gov.cn/gfbw/gfjy_index/16499895.html
+  政治建军专刊·淬火要论｜革命气节重如山
 http://www.81.cn/zt/2026nzt/zmxsdgmjr_252984/index.html
   最美新时代革命军人
 http://www.81.cn/zt/2026nzt/lyyxfcl/index.html
@@ -530,7 +528,7 @@ http://www.mod.gov.cn/gfbw/gffw/_attachment/2026/06/23/16469120_2c1b5255a439fe69
 http://www.mod.gov.cn/gfbw/fgwx/_attachment/2026/08/29/16482045_39fe87031f5e43b702cd40c766cbb855.jpg
 http://www.mod.gov.cn/gfbw/jmsd/_attachment/2026/11/15/16499781_66ff0f9d9a59011f3c89b3386923ef43.jpg
 http://www.mod.gov.cn/gfbw/gfdy/_attachment/2026/09/20/16487706_b3976ec10633c6611756bb8b41668750.png
-http://www.mod.gov.cn/gfbw/gfjy_index/_attachment/2026/11/15/16499783_10c99bfd7b9f1fe37315f7e3ae6c21e1.jpg
+http://www.mod.gov.cn/gfbw/gfjy_index/_attachment/2026/11/16/16499928_55ea6ca4df8d1efd73d9e07cbaeed858.jpg
 http://www.mod.gov.cn/gfbw/zt/_attachment/2026/08/20/16479151_1572281a51f5ab63ef863d55fdea15e0.jpg
 http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/11/14/16499689_6b8180d8357f7419b1da9bc9ba11626e.jpg
 http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/11/14/16499688_7214a1c1bc70a741c8833e7bfca21db0.jpg
