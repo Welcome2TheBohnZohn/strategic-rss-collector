@@ -1,91 +1,75 @@
 {
-  "issue_date": "2026-11-16",
+  "issue_date": "2026-11-17",
   "issue_pages": [
     {
       "paper_number": "01",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-16&paperName=zggfb&paperNumber=01",
-      "links": 75,
-      "article_links": 5
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-17&paperName=zggfb&paperNumber=01",
+      "links": 71,
+      "article_links": 3
     },
     {
       "paper_number": "02",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-16&paperName=zggfb&paperNumber=02",
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-17&paperName=zggfb&paperNumber=02",
       "links": 73,
       "article_links": 5
     },
     {
       "paper_number": "03",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-16&paperName=zggfb&paperNumber=03",
-      "links": 67,
-      "article_links": 3
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-17&paperName=zggfb&paperNumber=03",
+      "links": 51,
+      "article_links": 0
     },
     {
       "paper_number": "04",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-16&paperName=zggfb&paperNumber=04",
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-17&paperName=zggfb&paperNumber=04",
       "links": 67,
-      "article_links": 2
+      "article_links": 3
     }
   ],
   "candidates": [
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-16&paperNumber=01&articleid=990389",
-      "anchor_title": "“雷打石”旁讲铁纪"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-17&paperNumber=01&articleid=990488",
+      "anchor_title": "广袤乡村响起国防好声音"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-16&paperNumber=01&articleid=990391",
-      "anchor_title": "驻训场上说从严"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-17&paperNumber=01&articleid=990487",
+      "anchor_title": "长空竞技锤炼后备尖兵"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-16&paperNumber=01&articleid=990392",
-      "anchor_title": "帐篷内外话民生"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-17&paperNumber=01&articleid=990491",
+      "anchor_title": "丝丝传情"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-16&paperNumber=01&articleid=990390",
-      "anchor_title": "红歌唱红军 四代传薪火"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-17&paperNumber=02&articleid=990479",
+      "anchor_title": "让“半条被子”温暖更多人"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-16&paperNumber=01&articleid=990393",
-      "anchor_title": "军训梦圆 家国情深"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-17&paperNumber=02&articleid=990478",
+      "anchor_title": "“我们要永远铭记先辈的浴血荣光”"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-16&paperNumber=02&articleid=990396",
-      "anchor_title": "烈士的母亲就是咱的妈"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-17&paperNumber=02&articleid=990481",
+      "anchor_title": "携手打造国防教育实践基地"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-16&paperNumber=02&articleid=990397",
-      "anchor_title": "这道数学题，答案在长征路上"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-17&paperNumber=02&articleid=990482",
+      "anchor_title": "导向立起来 干劲提上去"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-16&paperNumber=02&articleid=990398",
-      "anchor_title": "光影为笔，绘就蓝天征程"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-17&paperNumber=02&articleid=990483",
+      "anchor_title": "问题挂账销号 补齐保障短板"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-16&paperNumber=02&articleid=990399",
-      "anchor_title": "清风润家 廉洁相伴"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-17&paperNumber=04&articleid=990484",
+      "anchor_title": "“小摩托”如何改变冲突样貌"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-16&paperNumber=02&articleid=990400",
-      "anchor_title": "村村烟火气 情暖老兵心"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-17&paperNumber=04&articleid=990485",
+      "anchor_title": "前沿技术"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-16&paperNumber=03&articleid=990402",
-      "anchor_title": "迷彩伴书香 培塑报国志"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-16&paperNumber=03&articleid=990401",
-      "anchor_title": "铁翼承薪火 青春向长空"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-16&paperNumber=03&articleid=990403",
-      "anchor_title": "迎无名烈士“归队”"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-16&paperNumber=04&articleid=990405",
-      "anchor_title": "欧洲海军防务展聚焦海战新动向"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-16&paperNumber=04&articleid=990404",
-      "anchor_title": "防务资讯"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-17&paperNumber=04&articleid=990486",
+      "anchor_title": "战机也“泡澡”"
     }
   ]
 }
