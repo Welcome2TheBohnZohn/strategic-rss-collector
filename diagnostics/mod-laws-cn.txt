@@ -6,7 +6,7 @@ Include regex: /gfbw/fgwx/flfg/
 Include text regex: 
 
 Candidate links: 31
-All links discovered: 172
+All links discovered: 171
 
 === MATCHED CANDIDATES ===
 
@@ -303,18 +303,16 @@ http://www.mod.gov.cn/gfbw/fgwx/flfg/4927099.html
   关于调整规范军人家属随军及落户有关政策意见 2022-11-27 13:46
 http://www.mod.gov.cn/gfbw/fgwx/flfg/16126326.html
   中共中央　国务院　中央军委印发《关于加强和改进新时代全民国防教育工作的意见》 2022-09-01 18:22
-http://www.mod.gov.cn/gfbw/qwfb/16499951.html
-  习近平致信祝贺暨南大学建校120周年
-http://www.mod.gov.cn/gfbw/qwfb/16499978.html
-  贺信全文
+http://www.mod.gov.cn/gfbw/qwfb/16500217.html
+  习近平在广东中山考察
+http://www.mod.gov.cn/gfbw/qwfb/16500206.html
+  习近平会见巴布亚新几内亚总理马拉佩
+http://www.mod.gov.cn/gfbw/qwfb/16500201.html
+  习近平会见加拿大总理卡尼
+http://www.mod.gov.cn/gfbw/qwfb/16500186.html
+  习近平对人民法院工作作出重要指示
 http://www.mod.gov.cn/gfbw/qwfb/16499922.html
   习近平将同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤
-http://www.mod.gov.cn/gfbw/qwfb/16500088.html
-  习近平致电祝贺波黑新一届主席团成员就职
-http://www.mod.gov.cn/gfbw/qwfb/16499821.html
-  《求是》杂志发表习近平总书记重要文章《携手共建亚太命运共同体》
-http://www.mod.gov.cn/gfbw/qwfb/16500085.html
-  董军同意大利国防部长举行会谈
 http://www.mod.gov.cn/gfbw/spbb_214126/16495225.html
   《伟大远征》第七集《丰碑》
 http://www.mod.gov.cn/gfbw/spbb_214126/16495168.html

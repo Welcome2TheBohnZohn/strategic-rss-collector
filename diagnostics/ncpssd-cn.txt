@@ -86,16 +86,14 @@ https://www.ncpssd.cn/message?id=22523
   国家哲学社会科学文献中心入选2026年“携手构建网络空间命运共同体精品案例”
 https://www.ncpssd.cn/message?id=18580
   国家哲学社会科学文献中心为贵阳市“两会”提供学术资源服务
-https://www.ncpssd.cn/message?id=22566
-  习近平：在纪念孙中山先生诞辰160周年大会上的讲话
 https://www.ncpssd.cn/message?id=19563
   国家哲学社会科学文献中心发布最受欢迎期刊报告
 https://www.ncpssd.cn/message?id=19564
   《在学术期刊中合理应用人工智能的倡议书》发布
-https://www.ncpssd.cn/message?id=22606
-  习近平对国有企业党的建设工作作出重要指示
 https://www.ncpssd.cn/js/jquery-1.11.1.min.js
   jquery-1.11.1.min.js
+https://www.ncpssd.cn/message?id=22611
+  习近平致电祝贺波黑新一届主席团成员就职
 https://www.ncpssd.cn/css/jquery.hiSlider.css
   jquery.hiSlider.css
 https://www.ncpssd.cn/sso/getTokenCurrentUser?ssoClient=xwkEN
@@ -114,6 +112,8 @@ https://www.ncpssd.cn/js/sensorsdata.min.js
   sensorsdata.min.js
 https://www.ncpssd.cn/Literature/ancientbooklistNew
   ancientbooklistNew
+https://www.ncpssd.cn/message?id=22612
+  习近平对人民法院工作作出重要指示
 https://www.ncpssd.cn/js/jquery.base64.js
   jquery.base64.js
 
@@ -159,16 +159,16 @@ https://www.ncpssd.cn/messages
 https://www.ncpssd.cn/message?id=22515
 https://www.ncpssd.cn/message?id=22436
 https://www.ncpssd.cn/message?id=22426
+https://www.ncpssd.cn/message?id=22612
+  习近平对人民法院工作作出重要指示
+https://www.ncpssd.cn/message?id=22611
+  习近平致电祝贺波黑新一届主席团成员就职
+https://www.ncpssd.cn/message?id=22610
+  习近平在广东中山考察
 https://www.ncpssd.cn/message?id=22609
   习近平致暨南大学建校120周年的贺信
 https://www.ncpssd.cn/message?id=22608
   习近平致信祝贺暨南大学建校120周年
-https://www.ncpssd.cn/message?id=22607
-  习近平：携手共建亚太命运共同体
-https://www.ncpssd.cn/message?id=22606
-  习近平对国有企业党的建设工作作出重要指示
-https://www.ncpssd.cn/message?id=22566
-  习近平：在纪念孙中山先生诞辰160周年大会上的讲话
 https://www.ncpssd.cn/message?id=22523
   国家哲学社会科学文献中心入选2026年“携手构建网络空间命运共同体精品案例”
 https://www.ncpssd.cn/message?id=19563
