@@ -426,7 +426,7 @@
       },
       "error": "",
       "rows": 100,
-      "total": 855,
+      "total": 857,
       "matches": 1
     },
     {
@@ -456,7 +456,7 @@
       },
       "error": "",
       "rows": 100,
-      "total": 855,
+      "total": 857,
       "matches": 2
     },
     {
@@ -486,8 +486,8 @@
       },
       "error": "",
       "rows": 100,
-      "total": 855,
-      "matches": 2
+      "total": 857,
+      "matches": 1
     },
     {
       "category": "行政法规",
@@ -516,7 +516,7 @@
       },
       "error": "",
       "rows": 100,
-      "total": 855,
+      "total": 857,
       "matches": 1
     },
     {
@@ -546,7 +546,7 @@
       },
       "error": "",
       "rows": 100,
-      "total": 855,
+      "total": 857,
       "matches": 0
     },
     {
@@ -576,7 +576,7 @@
       },
       "error": "",
       "rows": 100,
-      "total": 855,
+      "total": 857,
       "matches": 4
     },
     {
@@ -606,7 +606,7 @@
       },
       "error": "",
       "rows": 100,
-      "total": 855,
+      "total": 857,
       "matches": 4
     },
     {
@@ -636,7 +636,7 @@
       },
       "error": "",
       "rows": 100,
-      "total": 855,
+      "total": 857,
       "matches": 2
     },
     {
@@ -665,8 +665,8 @@
         "pageSize": 100
       },
       "error": "",
-      "rows": 55,
-      "total": 855,
+      "rows": 57,
+      "total": 857,
       "matches": 1
     }
   ],
@@ -995,25 +995,6 @@
       "score": 0.0
     },
     {
-      "bbbs": "ff8080816f3cbb3c016f4101cc861115",
-      "title": "军人抚恤优待条例",
-      "gbrq": "2019-03-02",
-      "sxrq": null,
-      "sxx": 2,
-      "zdjgName": "国务院",
-      "xgzlHighLight": null,
-      "flxz": "行政法规",
-      "zdjgCodeId": 120,
-      "flfgCodeId": 210,
-      "titleHightLightList": [
-        {
-          "value": "军人抚恤优待条例",
-          "highLight": false
-        }
-      ],
-      "score": 0.0
-    },
-    {
       "bbbs": "ff8080816f135f46016f1cece2851197",
       "title": "中华人民共和国防沙治沙法",
       "gbrq": "2018-10-26",
@@ -1185,8 +1166,8 @@
       "score": 0.0
     },
     {
-      "bbbs": "ff8080816f3e9784016f425d72570545",
-      "title": "中华人民共和国防汛条例",
+      "bbbs": "ff8080816f3cbb3c016f413e55291e98",
+      "title": "国防交通条例",
       "gbrq": "2011-01-08",
       "sxrq": null,
       "sxx": 3,
@@ -1197,7 +1178,7 @@
       "flfgCodeId": 210,
       "titleHightLightList": [
         {
-          "value": "中华人民共和国防汛条例",
+          "value": "国防交通条例",
           "highLight": false
         }
       ],
@@ -1223,8 +1204,8 @@
       "score": 0.0
     },
     {
-      "bbbs": "ff8080816f3cbb3c016f413e55291e98",
-      "title": "国防交通条例",
+      "bbbs": "ff8080816f3e9784016f425d72570545",
+      "title": "中华人民共和国防汛条例",
       "gbrq": "2011-01-08",
       "sxrq": null,
       "sxx": 3,
@@ -1235,7 +1216,7 @@
       "flfgCodeId": 210,
       "titleHightLightList": [
         {
-          "value": "国防交通条例",
+          "value": "中华人民共和国防汛条例",
           "highLight": false
         }
       ],

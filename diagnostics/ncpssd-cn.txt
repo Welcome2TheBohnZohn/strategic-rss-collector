@@ -92,6 +92,8 @@ https://www.ncpssd.cn/message?id=19564
   《在学术期刊中合理应用人工智能的倡议书》发布
 https://www.ncpssd.cn/js/jquery-1.11.1.min.js
   jquery-1.11.1.min.js
+https://www.ncpssd.cn/message?id=22615
+  习近平会见越共中央总书记、国家主席苏林
 https://www.ncpssd.cn/message?id=22611
   习近平致电祝贺波黑新一届主席团成员就职
 https://www.ncpssd.cn/css/jquery.hiSlider.css
@@ -102,16 +104,14 @@ https://www.ncpssd.cn/sso/getTokenCurrentUser?ssoClient=wxEN
   getTokenCurrentUser
 https://www.ncpssd.cn/Literature/ancientbooklistNew?nav=5
   ancientbooklistNew
-https://www.ncpssd.cn/message?id=22609
-  习近平致暨南大学建校120周年的贺信
-https://www.ncpssd.cn/message?id=22608
-  习近平致信祝贺暨南大学建校120周年
 https://www.ncpssd.cn/js/jquery.hiSlider.js
   jquery.hiSlider.js
 https://www.ncpssd.cn/js/sensorsdata.min.js
   sensorsdata.min.js
 https://www.ncpssd.cn/Literature/ancientbooklistNew
   ancientbooklistNew
+https://www.ncpssd.cn/message?id=22614
+  习近平会见巴布亚新几内亚总理马拉佩
 https://www.ncpssd.cn/message?id=22612
   习近平对人民法院工作作出重要指示
 https://www.ncpssd.cn/js/jquery.base64.js
@@ -159,16 +159,16 @@ https://www.ncpssd.cn/messages
 https://www.ncpssd.cn/message?id=22515
 https://www.ncpssd.cn/message?id=22436
 https://www.ncpssd.cn/message?id=22426
+https://www.ncpssd.cn/message?id=22615
+  习近平会见越共中央总书记、国家主席苏林
+https://www.ncpssd.cn/message?id=22614
+  习近平会见巴布亚新几内亚总理马拉佩
+https://www.ncpssd.cn/message?id=22613
+  习近平会见加拿大总理卡尼
 https://www.ncpssd.cn/message?id=22612
   习近平对人民法院工作作出重要指示
 https://www.ncpssd.cn/message?id=22611
   习近平致电祝贺波黑新一届主席团成员就职
-https://www.ncpssd.cn/message?id=22610
-  习近平在广东中山考察
-https://www.ncpssd.cn/message?id=22609
-  习近平致暨南大学建校120周年的贺信
-https://www.ncpssd.cn/message?id=22608
-  习近平致信祝贺暨南大学建校120周年
 https://www.ncpssd.cn/message?id=22523
   国家哲学社会科学文献中心入选2026年“携手构建网络空间命运共同体精品案例”
 https://www.ncpssd.cn/message?id=19563
