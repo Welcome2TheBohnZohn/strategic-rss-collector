@@ -6,7 +6,7 @@ Include regex: /gfbw/|/xwfyr/|/wzll/
 Include text regex: 
 
 Candidate links: 50
-All links discovered: 243
+All links discovered: 244
 
 === MATCHED CANDIDATES ===
 
@@ -16,6 +16,10 @@ http://www.mod.gov.cn/gfbw/fgwx/16482045.html
   中华人民共和国国防动员法
 http://www.mod.gov.cn/gfbw/qwfb/16499896.html
   全面从严治党关键在严——全军部队深入学习贯彻党的二十届五中全会精神系列述评之四
+http://www.mod.gov.cn/gfbw/sy/tt_214026/16500604.html
+  习近平和彭丽媛为出席亚太经合组织第三十三次领导人非正式会议的来宾举行欢迎宴会
+http://www.mod.gov.cn/gfbw/sy/rt/16500592.html
+  习近平和彭丽媛为出席亚太经合组织第三十三次领导人非正式会议的来宾举行欢迎宴会
 http://www.mod.gov.cn/gfbw/wzll/16500147.html
   第八十二集团军某旅建章立制推动驻训成果转化——打通战斗力转化“最后一公里”
 http://www.mod.gov.cn/gfbw/wzll/16500144.html
@@ -24,12 +28,10 @@ http://www.mod.gov.cn/gfbw/gffw/16497951.html
   云南省军地开展“为困难退役军人送温暖”帮扶活动——关怀送上门 情暖老兵心
 http://www.mod.gov.cn/gfbw/gfdy/16497999.html
   北京青少年服务中心丰富红色教育方式——把长征精神讲到孩子心里
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16500451.html
-  习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲
 http://www.mod.gov.cn/gfbw/sy/rt/16500505.html
   习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲
-http://www.mod.gov.cn/gfbw/qwfb/16500445.html
-  习近平：“十五五”规划是中国面向全球工商界发出的合作邀约
+http://www.mod.gov.cn/gfbw/qwfb/16500576.html
+  习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲
 http://www.mod.gov.cn/gfbw/qwfb/16499665.html
   全军学习贯彻党的二十届五中全会精神宣讲团继续在各单位宣讲
 http://www.mod.gov.cn/gfbw/wzll/16499469.html
@@ -42,6 +44,8 @@ http://www.mod.gov.cn/gfbw/gfjy_index/16500119.html
   全军军士院校崭新亮相，聚力培养高素质专业化新型军士人才
 http://www.mod.gov.cn/gfbw/qwfb/16500125.html
   学习贯彻党的二十届五中全会精神丨保持惩治腐败高压态势
+http://www.mod.gov.cn/gfbw/qwfb/16499523.html
+  国防部：中美两国防务部门就各层级交流对话保持沟通协调
 http://www.mod.gov.cn/gfbw/jswj/16497978.html
   第五届中国—东盟中青年军官友好交流活动在国防科大开幕
 http://www.mod.gov.cn/gfbw/jsxd/16497765.html
@@ -58,8 +62,6 @@ http://www.mod.gov.cn/gfbw/jsxd/16498701.html
   “吉祥方舟”号医院船访问多哥，加纳患者跨国寻医
 http://www.mod.gov.cn/gfbw/gfdy/16500132.html
   四川省军区组织“天府鹰隼-2026”无人机竞赛
-http://www.mod.gov.cn/gfbw/qwfb/16500441.html
-  习近平：坚定信心、勇毅前行　促进亚太共同繁荣
 http://www.mod.gov.cn/gfbw/xwfyr/16499526.html
   中国军队将搭建更多更好的中外青年军官交流平台
 http://www.mod.gov.cn/gfbw/spbb_214126/16495168.html
@@ -74,8 +76,6 @@ http://www.mod.gov.cn/gfbw/gfjy_index/16500131.html
   山东省东营市东营区推动全民国防教育进乡入村
 http://www.mod.gov.cn/gfbw/tp_214132/16499689.html
   武警上海总队某支队组织官兵开展综合体能训练
-http://www.mod.gov.cn/gfbw/qwfb/16500447.html
-  习近平：中方支持成立世界湾区经济合作联盟
 http://www.mod.gov.cn/gfbw/jsxd/16497557.html
   中越将举行“合作—2026”反恐联合训练
 http://www.mod.gov.cn/gfbw/xwfyr/16496948.html
@@ -84,8 +84,8 @@ http://www.mod.gov.cn/gfbw/gfdy/16487706.html
   云南省贡山县人武部结对帮扶独龙江乡马库村
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16498720.html
   第73集团军某旅组织直升机编队飞行训练
-http://www.mod.gov.cn/gfbw/qwfb/16498370.html
-  2026年11月上旬国防部例行新闻发布
+http://www.mod.gov.cn/gfbw/qwfb/16499548.html
+  2026年11月中旬国防部例行新闻发布
 http://www.mod.gov.cn/gfbw/jswj/16500003.html
   “这段历史属于中国，这种精神属于世界”
 http://www.mod.gov.cn/gfbw/jmsd/16500408.html
@@ -298,40 +298,42 @@ http://www.mod.gov.cn/gfbw/sy/jt_214028/16498296.html
   陆军某团开展实弹射击考核
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16497977.html
   空军某部开展飞行训练
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16500451.html
-  习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲
-http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16500452.html
-  全文
+http://www.mod.gov.cn/gfbw/sy/tt_214026/16500604.html
+  习近平和彭丽媛为出席亚太经合组织第三十三次领导人非正式会议的来宾举行欢迎宴会
+http://www.mod.gov.cn/gfbw/qwfb/16500584.html
+  祝酒辞
+http://www.mod.gov.cn/gfbw/sy/rt/16500592.html
+  习近平和彭丽媛为出席亚太经合组织第三十三次领导人非正式会议的来宾举行欢迎宴会
 http://www.mod.gov.cn/gfbw/sy/rt/16500505.html
   习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲
+http://www.mod.gov.cn/gfbw/sy/rt/16500570.html
+  习近平迎接美国总统特朗普
 http://www.mod.gov.cn/gfbw/sy/rt/16500485.html
   习近平会见俄罗斯总统普京
 http://www.mod.gov.cn/gfbw/sy/rt/16500483.html
   习近平会见韩国总统李在明
-http://www.mod.gov.cn/gfbw/sy/rt/16500284.html
-  习近平会见智利总统卡斯特
-http://www.mod.gov.cn/gfbw/sy/rt/16500285.html
-  习近平会见秘鲁总统藤森庆子
-http://www.mod.gov.cn/gfbw/qwfb/16500469.html
+http://www.mod.gov.cn/gfbw/qwfb/16500576.html
+  习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲
+http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16500452.html
+  全文
+http://www.mod.gov.cn/gfbw/qwfb/16500549.html
+  习近平迎接美国总统特朗普
+http://www.mod.gov.cn/gfbw/qwfb/16500518.html
   习近平会见俄罗斯总统普京
 http://www.mod.gov.cn/gfbw/qwfb/16500493.html
   习近平会见韩国总统李在明
-http://www.mod.gov.cn/gfbw/qwfb/16500445.html
-  习近平：“十五五”规划是中国面向全球工商界发出的合作邀约
-http://www.mod.gov.cn/gfbw/qwfb/16500447.html
-  习近平：中方支持成立世界湾区经济合作联盟
-http://www.mod.gov.cn/gfbw/qwfb/16500441.html
-  习近平：坚定信心、勇毅前行　促进亚太共同繁荣
-http://www.mod.gov.cn/gfbw/qwfb/16498370.html
-  2026年11月上旬国防部例行新闻发布
 http://www.mod.gov.cn/gfbw/qwfb/16500125.html
   学习贯彻党的二十届五中全会精神丨保持惩治腐败高压态势
+http://www.mod.gov.cn/gfbw/qwfb/16499548.html
+  2026年11月中旬国防部例行新闻发布
 http://www.mod.gov.cn/gfbw/qwfb/16500085.html
   董军同意大利国防部长举行会谈
 http://www.mod.gov.cn/gfbw/qwfb/16499896.html
   全面从严治党关键在严——全军部队深入学习贯彻党的二十届五中全会精神系列述评之四
 http://www.mod.gov.cn/gfbw/qwfb/16499665.html
   全军学习贯彻党的二十届五中全会精神宣讲团继续在各单位宣讲
+http://www.mod.gov.cn/gfbw/qwfb/16499523.html
+  国防部：中美两国防务部门就各层级交流对话保持沟通协调
 http://www.mod.gov.cn/gfbw/jswj/16497562.html
   中国海军“吉祥方舟”号医院船访问多哥
 http://www.mod.gov.cn/gfbw/jswj/16500372.html
@@ -505,11 +507,11 @@ http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/11/08/16498720_44168c41
 http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/11/06/16498298_0372b148be25af1e67f0c456672319e7.jpg
 http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/11/06/16498296_2021215a078d3aae40c7335ca07d65d2.jpg
 http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/11/04/16497977_80868a6dec1e081ed9c050deb0527fb5.jpg
+http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/11/18/16500592_ef5d5c4268df4497b85721d2397b8faf.jpg
 http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/11/18/16500505_3edf2d1423b9bb18c03349d2e2b54f32.jpg
+http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/11/18/16500570_73e9eca19f82bcef6e3b6360ef4d6a5c.jpg
 http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/11/18/16500485_4febe4993e53280570454b2f834f9e7d.jpg
 http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/11/18/16500483_183e871c89493f17df329d1b39f03038.jpg
-http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/11/17/16500284_674786713c31207b7c8dd03a28f91f65.jpg
-http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/11/17/16500285_c069b2a68dc0b5cd4dd696ff955320b4.jpg
 http://www.mod.gov.cn/gfbw/jswj/_attachment/2026/11/02/16497562_2b562b304cc752ea78305ec2213be83e.jpg
 http://www.mod.gov.cn/gfbw/wzll/_attachment/2026/11/13/16499469_9d5b837a2634da34eeae35ea0886495d.jpg
 http://www.mod.gov.cn/gfbw/jsxd/_attachment/2026/11/05/16498144_8246ee87953431866abbe806d9f6f8c0.jpg
@@ -519,7 +521,7 @@ http://www.mod.gov.cn/template/tenant207/t179/img/brief.jpg
 http://www.plapic.com.cn/jfjhb/wqhg/_attachment/2026/10/21/16495113_636a0dfec28c3c0344dacfe3b2f350de.jpg
 http://www.mod.gov.cn/template/tenant207/t179/img/gfb.jpg
 http://www.81.cn/rmjz_203219/jsjz/_attachment/2026/10/19/16494642_a9749e5bc31967671696854c0dfbaee6.jpg
-http://www.81.cn/rmjz_203219/zgmb/_attachment/2026/10/19/16494556_3e347894e8c3072df845d51370b1761c.png
+http://www.81.cn/rmjz_203219/zgmb/_attachment/2026/11/18/16500365_9ef9b680885bfc30f1e8c91371f23c35.jpg
 http://www.81.cn/rmjz_203219/gfjy_203685/_attachment/2026/10/20/16494911_bce27efa203f5321b3c5a8a7c83e68db.png
 http://www.mod.gov.cn/template/tenant207/t179/img/jfjcc.jpg
 http://www.mod.gov.cn/template/tenant207/t179/img/jfjbcbs.png

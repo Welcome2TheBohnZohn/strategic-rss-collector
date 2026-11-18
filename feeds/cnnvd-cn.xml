@@ -1,62 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Wed, 18 Nov 2026 07:49:50 +0000</lastBuildDate><item><title>CNNVD-2026-41362846 - Autodesk AutoCAD 处理逻辑错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-41362846</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-41362846</guid><pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate><description>Autodesk AutoCAD 处理逻辑错误漏洞
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Wed, 18 Nov 2026 20:47:04 +0000</lastBuildDate><item><title>CNNVD-2026-72361790 - CDAC-Noida e-Sushrut, Hospital Management Information System 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-72361790</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-72361790</guid><pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate><description>CDAC-Noida e-Sushrut, Hospital Management Information System 授权问题漏洞
 危害等级: 高危
-收录时间：2026-11-17 | 更新时间: 2026-11-18 14:10:50
-CNNVD编号: CNNVD-2026-41362846</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-41362846&lt;/p&gt;&lt;pre&gt;Autodesk AutoCAD 处理逻辑错误漏洞
+收录时间：2026-11-17 | 更新时间: 2026-11-18 14:02:02
+CNNVD编号: CNNVD-2026-72361790</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-72361790&lt;/p&gt;&lt;pre&gt;CDAC-Noida e-Sushrut, Hospital Management Information System 授权问题漏洞
 危害等级: 高危
-收录时间：2026-11-17 | 更新时间: 2026-11-18 14:10:50
-CNNVD编号: CNNVD-2026-41362846&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-87667163 - Autodesk AutoCAD 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-87667163</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-87667163</guid><pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate><description>Autodesk AutoCAD 缓冲区错误漏洞
+收录时间：2026-11-17 | 更新时间: 2026-11-18 14:02:02
+CNNVD编号: CNNVD-2026-72361790&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-32398118 - CDAC-Noida e-Sushrut, Hospital Management Information System 加密问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-32398118</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-32398118</guid><pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate><description>CDAC-Noida e-Sushrut, Hospital Management Information System 加密问题漏洞
 危害等级: 高危
-收录时间：2026-11-17 | 更新时间: 2026-11-18 14:10:55
-CNNVD编号: CNNVD-2026-87667163</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-87667163&lt;/p&gt;&lt;pre&gt;Autodesk AutoCAD 缓冲区错误漏洞
+收录时间：2026-11-17 | 更新时间: 2026-11-18 14:02:02
+CNNVD编号: CNNVD-2026-32398118</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-32398118&lt;/p&gt;&lt;pre&gt;CDAC-Noida e-Sushrut, Hospital Management Information System 加密问题漏洞
 危害等级: 高危
-收录时间：2026-11-17 | 更新时间: 2026-11-18 14:10:55
-CNNVD编号: CNNVD-2026-87667163&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-44880472 - Thorsten Rinne phpMyFAQ 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-44880472</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-44880472</guid><pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate><description>Thorsten Rinne phpMyFAQ 授权问题漏洞
+收录时间：2026-11-17 | 更新时间: 2026-11-18 14:02:02
+CNNVD编号: CNNVD-2026-32398118&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-96843755 - WordPress Conditional Fields for Elementor Form – Display Conditions 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-96843755</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-96843755</guid><pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate><description>WordPress Conditional Fields for Elementor Form – Display Conditions 跨站脚本漏洞
 危害等级: 中危
-收录时间：2026-11-17 | 更新时间: 2026-11-18 14:11:08
-CNNVD编号: CNNVD-2026-44880472</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-44880472&lt;/p&gt;&lt;pre&gt;Thorsten Rinne phpMyFAQ 授权问题漏洞
+收录时间：2026-11-17 | 更新时间: 2026-11-18 14:01:58
+CNNVD编号: CNNVD-2026-96843755</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-96843755&lt;/p&gt;&lt;pre&gt;WordPress Conditional Fields for Elementor Form – Display Conditions 跨站脚本漏洞
 危害等级: 中危
-收录时间：2026-11-17 | 更新时间: 2026-11-18 14:11:08
-CNNVD编号: CNNVD-2026-44880472&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-21017591 - Thorsten Rinne phpMyFAQ 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-21017591</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-21017591</guid><pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate><description>Thorsten Rinne phpMyFAQ 授权问题漏洞
-危害等级: 中危
-收录时间：2026-11-17 | 更新时间: 2026-11-18 14:11:07
-CNNVD编号: CNNVD-2026-21017591</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-21017591&lt;/p&gt;&lt;pre&gt;Thorsten Rinne phpMyFAQ 授权问题漏洞
-危害等级: 中危
-收录时间：2026-11-17 | 更新时间: 2026-11-18 14:11:07
-CNNVD编号: CNNVD-2026-21017591&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-52834986 - NVIDIA TensorRT 数字错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-52834986</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-52834986</guid><pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate><description>NVIDIA TensorRT 数字错误漏洞
+收录时间：2026-11-17 | 更新时间: 2026-11-18 14:01:58
+CNNVD编号: CNNVD-2026-96843755&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-76397392 - ZoneMinder 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-76397392</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-76397392</guid><pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate><description>ZoneMinder 授权问题漏洞
+危害等级: 超危
+收录时间：2026-11-17 | 更新时间: 2026-11-18 14:01:15
+CNNVD编号: CNNVD-2026-76397392</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-76397392&lt;/p&gt;&lt;pre&gt;ZoneMinder 授权问题漏洞
+危害等级: 超危
+收录时间：2026-11-17 | 更新时间: 2026-11-18 14:01:15
+CNNVD编号: CNNVD-2026-76397392&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-66384813 - Atlassian Crucible Data Center 命令注入漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-66384813</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-66384813</guid><pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate><description>Atlassian Crucible Data Center 命令注入漏洞
 危害等级: 高危
-收录时间：2026-11-17 | 更新时间: 2026-11-18 14:12:10
-CNNVD编号: CNNVD-2026-52834986</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-52834986&lt;/p&gt;&lt;pre&gt;NVIDIA TensorRT 数字错误漏洞
+收录时间：2026-11-17 | 更新时间: 2026-11-18 14:01:14
+CNNVD编号: CNNVD-2026-66384813</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-66384813&lt;/p&gt;&lt;pre&gt;Atlassian Crucible Data Center 命令注入漏洞
 危害等级: 高危
-收录时间：2026-11-17 | 更新时间: 2026-11-18 14:12:10
-CNNVD编号: CNNVD-2026-52834986&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-85236177 - NVIDIA OpenShell 路径遍历漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-85236177</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-85236177</guid><pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate><description>NVIDIA OpenShell 路径遍历漏洞
+收录时间：2026-11-17 | 更新时间: 2026-11-18 14:01:14
+CNNVD编号: CNNVD-2026-66384813&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-58592955 - WordPress File Manager 任意文件上传漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-58592955</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-58592955</guid><pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate><description>WordPress File Manager 任意文件上传漏洞
 危害等级: 高危
-收录时间：2026-11-17 | 更新时间: 2026-11-18 14:12:09
-CNNVD编号: CNNVD-2026-85236177</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-85236177&lt;/p&gt;&lt;pre&gt;NVIDIA OpenShell 路径遍历漏洞
+收录时间：2026-11-17 | 更新时间: 2026-11-18 14:00:55
+CNNVD编号: CNNVD-2026-58592955</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-58592955&lt;/p&gt;&lt;pre&gt;WordPress File Manager 任意文件上传漏洞
 危害等级: 高危
-收录时间：2026-11-17 | 更新时间: 2026-11-18 14:12:09
-CNNVD编号: CNNVD-2026-85236177&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-91154268 - NVIDIA OpenShell 信任管理问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-91154268</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-91154268</guid><pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate><description>NVIDIA OpenShell 信任管理问题漏洞
-危害等级: 中危
-收录时间：2026-11-17 | 更新时间: 2026-11-18 14:12:08
-CNNVD编号: CNNVD-2026-91154268</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-91154268&lt;/p&gt;&lt;pre&gt;NVIDIA OpenShell 信任管理问题漏洞
-危害等级: 中危
-收录时间：2026-11-17 | 更新时间: 2026-11-18 14:12:08
-CNNVD编号: CNNVD-2026-91154268&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-29559027 - NVIDIA OpenShell 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-29559027</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-29559027</guid><pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate><description>NVIDIA OpenShell 输入验证错误漏洞
-危害等级: 中危
-收录时间：2026-11-17 | 更新时间: 2026-11-18 14:12:02
-CNNVD编号: CNNVD-2026-29559027</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-29559027&lt;/p&gt;&lt;pre&gt;NVIDIA OpenShell 输入验证错误漏洞
-危害等级: 中危
-收录时间：2026-11-17 | 更新时间: 2026-11-18 14:12:02
-CNNVD编号: CNNVD-2026-29559027&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-85371615 - Teable 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-85371615</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-85371615</guid><pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate><description>Teable 输入验证错误漏洞
+收录时间：2026-11-17 | 更新时间: 2026-11-18 14:00:55
+CNNVD编号: CNNVD-2026-58592955&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-57323645 - Contiki-NG 数字错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-57323645</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-57323645</guid><pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate><description>Contiki-NG 数字错误漏洞
 危害等级: 高危
-收录时间：2026-11-17 | 更新时间: 2026-11-18 14:11:57
-CNNVD编号: CNNVD-2026-85371615</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-85371615&lt;/p&gt;&lt;pre&gt;Teable 输入验证错误漏洞
+收录时间：2026-11-17 | 更新时间: 2026-11-18 14:01:50
+CNNVD编号: CNNVD-2026-57323645</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-57323645&lt;/p&gt;&lt;pre&gt;Contiki-NG 数字错误漏洞
 危害等级: 高危
-收录时间：2026-11-17 | 更新时间: 2026-11-18 14:11:57
-CNNVD编号: CNNVD-2026-85371615&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-65149163 - GitLab 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-65149163</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-65149163</guid><pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate><description>GitLab 授权问题漏洞
-危害等级: 中危
-收录时间：2026-11-17 | 更新时间: 2026-11-18 14:11:55
-CNNVD编号: CNNVD-2026-65149163</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-65149163&lt;/p&gt;&lt;pre&gt;GitLab 授权问题漏洞
-危害等级: 中危
-收录时间：2026-11-17 | 更新时间: 2026-11-18 14:11:55
-CNNVD编号: CNNVD-2026-65149163&lt;/pre&gt;</content:encoded></item></channel></rss>
+收录时间：2026-11-17 | 更新时间: 2026-11-18 14:01:50
+CNNVD编号: CNNVD-2026-57323645&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-37160125 - 53AIHub 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-37160125</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-37160125</guid><pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate><description>53AIHub 授权问题漏洞
+危害等级: 高危
+收录时间：2026-11-17 | 更新时间: 2026-11-18 14:01:46
+CNNVD编号: CNNVD-2026-37160125</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-37160125&lt;/p&gt;&lt;pre&gt;53AIHub 授权问题漏洞
+危害等级: 高危
+收录时间：2026-11-17 | 更新时间: 2026-11-18 14:01:46
+CNNVD编号: CNNVD-2026-37160125&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-32660719 - Eclipse Zenoh 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-32660719</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-32660719</guid><pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate><description>Eclipse Zenoh 缓冲区错误漏洞
+危害等级: 超危
+收录时间：2026-11-17 | 更新时间: 2026-11-18 14:01:44
+CNNVD编号: CNNVD-2026-32660719</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-32660719&lt;/p&gt;&lt;pre&gt;Eclipse Zenoh 缓冲区错误漏洞
+危害等级: 超危
+收录时间：2026-11-17 | 更新时间: 2026-11-18 14:01:44
+CNNVD编号: CNNVD-2026-32660719&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-81926645 - Atlassian Jira Software Data Center 路径遍历漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-81926645</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-81926645</guid><pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate><description>Atlassian Jira Software Data Center 路径遍历漏洞
+危害等级: 高危
+收录时间：2026-11-17 | 更新时间: 2026-11-18 14:01:35
+CNNVD编号: CNNVD-2026-81926645</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-81926645&lt;/p&gt;&lt;pre&gt;Atlassian Jira Software Data Center 路径遍历漏洞
+危害等级: 高危
+收录时间：2026-11-17 | 更新时间: 2026-11-18 14:01:35
+CNNVD编号: CNNVD-2026-81926645&lt;/pre&gt;</content:encoded></item></channel></rss>
