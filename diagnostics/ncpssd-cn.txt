@@ -84,18 +84,18 @@ https://www.ncpssd.cn/message?id=18622
   积极助力现代公共文化服务体系建设 ——国家哲学社会科学文献中心走进贵州省“两会”
 https://www.ncpssd.cn/message?id=22523
   国家哲学社会科学文献中心入选2026年“携手构建网络空间命运共同体精品案例”
+https://www.ncpssd.cn/message?id=22620
+  习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲
 https://www.ncpssd.cn/message?id=18580
   国家哲学社会科学文献中心为贵阳市“两会”提供学术资源服务
+https://www.ncpssd.cn/message?id=22621
+  习近平在亚太经合组织工商领导人峰会上的主旨演讲
 https://www.ncpssd.cn/message?id=19563
   国家哲学社会科学文献中心发布最受欢迎期刊报告
 https://www.ncpssd.cn/message?id=19564
   《在学术期刊中合理应用人工智能的倡议书》发布
 https://www.ncpssd.cn/js/jquery-1.11.1.min.js
   jquery-1.11.1.min.js
-https://www.ncpssd.cn/message?id=22615
-  习近平会见越共中央总书记、国家主席苏林
-https://www.ncpssd.cn/message?id=22611
-  习近平致电祝贺波黑新一届主席团成员就职
 https://www.ncpssd.cn/css/jquery.hiSlider.css
   jquery.hiSlider.css
 https://www.ncpssd.cn/sso/getTokenCurrentUser?ssoClient=xwkEN
@@ -110,12 +110,12 @@ https://www.ncpssd.cn/js/sensorsdata.min.js
   sensorsdata.min.js
 https://www.ncpssd.cn/Literature/ancientbooklistNew
   ancientbooklistNew
-https://www.ncpssd.cn/message?id=22614
-  习近平会见巴布亚新几内亚总理马拉佩
-https://www.ncpssd.cn/message?id=22612
-  习近平对人民法院工作作出重要指示
 https://www.ncpssd.cn/js/jquery.base64.js
   jquery.base64.js
+https://www.ncpssd.cn/searchHandler/getautocomplete
+  getautocomplete
+https://www.ncpssd.cn/indexChangeBook
+  indexChangeBook
 
 === ALL DISCOVERED LINKS ===
 
@@ -159,16 +159,16 @@ https://www.ncpssd.cn/messages
 https://www.ncpssd.cn/message?id=22515
 https://www.ncpssd.cn/message?id=22436
 https://www.ncpssd.cn/message?id=22426
-https://www.ncpssd.cn/message?id=22615
-  习近平会见越共中央总书记、国家主席苏林
-https://www.ncpssd.cn/message?id=22614
-  习近平会见巴布亚新几内亚总理马拉佩
-https://www.ncpssd.cn/message?id=22613
-  习近平会见加拿大总理卡尼
-https://www.ncpssd.cn/message?id=22612
-  习近平对人民法院工作作出重要指示
-https://www.ncpssd.cn/message?id=22611
-  习近平致电祝贺波黑新一届主席团成员就职
+https://www.ncpssd.cn/message?id=22621
+  习近平在亚太经合组织工商领导人峰会上的主旨演讲
+https://www.ncpssd.cn/message?id=22620
+  习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲
+https://www.ncpssd.cn/message?id=22618
+  习近平会见智利总统卡斯特
+https://www.ncpssd.cn/message?id=22617
+  习近平会见秘鲁总统藤森庆子
+https://www.ncpssd.cn/message?id=22616
+  习近平会见墨西哥总统辛鲍姆
 https://www.ncpssd.cn/message?id=22523
   国家哲学社会科学文献中心入选2026年“携手构建网络空间命运共同体精品案例”
 https://www.ncpssd.cn/message?id=19563
