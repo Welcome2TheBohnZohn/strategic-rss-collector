@@ -21,66 +21,66 @@ CNNVD动态
 重置
 收起 
 漏洞信息
-CDAC-Noida e-Sushrut, Hospital Management Information System 授权问题漏洞
+Autodesk AutoCAD 处理逻辑错误漏洞
 高危
 收录时间：2026-11-17
 |
-更新时间: 2026-11-18 14:02:02
-CNNVD编号：CNNVD-2026-72361790
-CDAC-Noida e-Sushrut, Hospital Management Information System 加密问题漏洞
+更新时间: 2026-11-18 14:10:50
+CNNVD编号：CNNVD-2026-41362846
+Autodesk AutoCAD 缓冲区错误漏洞
 高危
 收录时间：2026-11-17
 |
-更新时间: 2026-11-18 14:02:02
-CNNVD编号：CNNVD-2026-32398118
-WordPress Conditional Fields for Elementor Form – Display Conditions 跨站脚本漏洞
+更新时间: 2026-11-18 14:10:55
+CNNVD编号：CNNVD-2026-87667163
+Thorsten Rinne phpMyFAQ 授权问题漏洞
 中危
 收录时间：2026-11-17
 |
-更新时间: 2026-11-18 14:01:58
-CNNVD编号：CNNVD-2026-96843755
-ZoneMinder 授权问题漏洞
-超危
+更新时间: 2026-11-18 14:11:08
+CNNVD编号：CNNVD-2026-44880472
+Thorsten Rinne phpMyFAQ 授权问题漏洞
+中危
 收录时间：2026-11-17
 |
-更新时间: 2026-11-18 14:01:15
-CNNVD编号：CNNVD-2026-76397392
-Atlassian Crucible Data Center 命令注入漏洞
+更新时间: 2026-11-18 14:11:07
+CNNVD编号：CNNVD-2026-21017591
+NVIDIA TensorRT 数字错误漏洞
 高危
 收录时间：2026-11-17
 |
-更新时间: 2026-11-18 14:01:14
-CNNVD编号：CNNVD-2026-66384813
-WordPress File Manager 任意文件上传漏洞
+更新时间: 2026-11-18 14:12:10
+CNNVD编号：CNNVD-2026-52834986
+NVIDIA OpenShell 路径遍历漏洞
 高危
 收录时间：2026-11-17
 |
-更新时间: 2026-11-18 14:00:55
-CNNVD编号：CNNVD-2026-58592955
-Contiki-NG 数字错误漏洞
+更新时间: 2026-11-18 14:12:09
+CNNVD编号：CNNVD-2026-85236177
+NVIDIA OpenShell 信任管理问题漏洞
+中危
+收录时间：2026-11-17
+|
+更新时间: 2026-11-18 14:12:08
+CNNVD编号：CNNVD-2026-91154268
+NVIDIA OpenShell 输入验证错误漏洞
+中危
+收录时间：2026-11-17
+|
+更新时间: 2026-11-18 14:12:02
+CNNVD编号：CNNVD-2026-29559027
+Teable 输入验证错误漏洞
 高危
 收录时间：2026-11-17
 |
-更新时间: 2026-11-18 14:01:50
-CNNVD编号：CNNVD-2026-57323645
-53AIHub 授权问题漏洞
-高危
+更新时间: 2026-11-18 14:11:57
+CNNVD编号：CNNVD-2026-85371615
+GitLab 授权问题漏洞
+中危
 收录时间：2026-11-17
 |
-更新时间: 2026-11-18 14:01:46
-CNNVD编号：CNNVD-2026-37160125
-Eclipse Zenoh 缓冲区错误漏洞
-超危
-收录时间：2026-11-17
-|
-更新时间: 2026-11-18 14:01:44
-CNNVD编号：CNNVD-2026-32660719
-Atlassian Jira Software Data Center 路径遍历漏洞
-高危
-收录时间：2026-11-17
-|
-更新时间: 2026-11-18 14:01:35
-CNNVD编号：CNNVD-2026-81926645
+更新时间: 2026-11-18 14:11:55
+CNNVD编号：CNNVD-2026-65149163
 共 418510 条
 12345641851
 前往页

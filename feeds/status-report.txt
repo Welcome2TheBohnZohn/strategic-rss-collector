@@ -1,5 +1,5 @@
 Strategic RSS Collector Status
-Generated: 2026-11-18 20:47:04 UTC
+Generated: 2026-11-19 07:44:26 UTC
 
 Status meanings:
 OK = Feed contains one or more items
@@ -11,7 +11,7 @@ FAILED = Source could not be retrieved
   Start URL: https://www.mod.gov.cn/
   Resolved URL: http://www.mod.gov.cn/
   HTTP: 200
-  Links discovered: 244
+  Links discovered: 245
   Candidate links/items: 50
   Attempted items/articles: 12
   Items/articles with text: 12
@@ -27,7 +27,7 @@ FAILED = Source could not be retrieved
   Start URL: http://www.81.cn/?big=jian
   Resolved URL: http://www.81.cn/?big=jian
   HTTP: 200
-  Links discovered: 533
+  Links discovered: 534
   Candidate links/items: 50
   Attempted items/articles: 12
   Items/articles with text: 12
@@ -52,26 +52,27 @@ FAILED = Source could not be retrieved
   Max retries: 2
   Retry backoff: 2s
 
-[OK] kremlin-president-en - Kremlin President News - Official RSS
+[FAILED] kremlin-president-en - Kremlin President News - Official RSS
   Source type: rss
   Start URL: http://www.kremlin.ru/feeds/news
-  Resolved URL: http://www.kremlin.ru/events/president/news/feed
-  HTTP: 200
-  Attempted items/articles: 20
-  Items/articles with text: 12
-  Items/articles with dates: 12
-  RSS feed items: 12
+  Resolved URL: http://www.kremlin.ru/feeds/news
+  HTTP: None
+  Attempted items/articles: 0
+  Items/articles with text: 0
+  Items/articles with dates: 0
+  RSS feed items: 0
   SSL verification: ON
   Request timeout: 12s
   Max retries: 1
   Retry backoff: 1s
+  Error: http://www.kremlin.ru/feeds/news -> HTTPError: 403 Client Error: Forbidden for url: http://www.kremlin.ru/events/president/news/feed | https://www.kremlin.ru/feeds/news -> ConnectTimeout: HTTPSConnectionPool(host='www.kremlin.ru', port=443): Max retries exceeded with url: /feeds/news (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.kremlin.ru', port=443) at 0x743d9dd0b750>, 'Connection to www.kremlin.ru timed out. (connect timeout=12)'))
 
 [OK] mod-whitepapers-cn - China MOD Defense White Papers
   Source type: html
   Start URL: https://www.mod.gov.cn/gfbw/fgwx/bps/index.html
   Resolved URL: http://www.mod.gov.cn/gfbw/fgwx/bps/index.html
   HTTP: 200
-  Links discovered: 179
+  Links discovered: 180
   Candidate links/items: 28
   Attempted items/articles: 12
   Items/articles with text: 12
@@ -87,7 +88,7 @@ FAILED = Source could not be retrieved
   Start URL: https://www.mod.gov.cn/gfbw/fgwx/flfg/index.html
   Resolved URL: http://www.mod.gov.cn/gfbw/fgwx/flfg/index.html
   HTTP: 200
-  Links discovered: 172
+  Links discovered: 173
   Candidate links/items: 31
   Attempted items/articles: 12
   Items/articles with text: 12
@@ -104,7 +105,7 @@ FAILED = Source could not be retrieved
   Resolved URL: https://flk.npc.gov.cn/law-search/search/list
   HTTP: 200
   Links discovered: 1597
-  Candidate links/items: 49
+  Candidate links/items: 50
   Attempted items/articles: 12
   Items/articles with text: 12
   Items/articles with dates: 12
@@ -114,31 +115,32 @@ FAILED = Source could not be retrieved
   Max retries: 2
   Retry backoff: 3s
 
-[OK] sastind-cn - SASTIND
+[FAILED] sastind-cn - SASTIND
   Source type: html
   Start URL: https://www.sastind.gov.cn/
   Resolved URL: https://www.sastind.gov.cn/
-  HTTP: 200
-  Links discovered: 67
-  Candidate links/items: 50
-  Attempted items/articles: 12
-  Items/articles with text: 12
-  Items/articles with dates: 12
-  RSS feed items: 12
+  HTTP: None
+  Links discovered: 0
+  Candidate links/items: 0
+  Attempted items/articles: 0
+  Items/articles with text: 0
+  Items/articles with dates: 0
+  RSS feed items: 0
   SSL verification: ON
   Request timeout: 12s
   Max retries: 1
   Retry backoff: 1s
+  Error: https://www.sastind.gov.cn/ -> ConnectTimeout: HTTPSConnectionPool(host='www.sastind.gov.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.sastind.gov.cn', port=443) at 0x743d9dd08910>, 'Connection to www.sastind.gov.cn timed out. (connect timeout=12)'))
 
 [OK] mid-ru-en - Russian Ministry of Foreign Affairs English - Official Telegram
   Source type: telegram
   Start URL: https://t.me/s/MFARussia
   Resolved URL: https://t.me/s/MFARussia
   HTTP: 200
-  Attempted items/articles: 5
-  Items/articles with text: 5
-  Items/articles with dates: 5
-  RSS feed items: 5
+  Attempted items/articles: 7
+  Items/articles with text: 7
+  Items/articles with dates: 7
+  RSS feed items: 7
   SSL verification: ON
   Request timeout: 20s
   Max retries: 2
@@ -225,7 +227,7 @@ FAILED = Source could not be retrieved
   Start URL: https://www.spacechina.com/n25/n2014789/index.html
   Resolved URL: https://www.spacechina.com/n25/n2014789/index.html
   HTTP: 200
-  Links discovered: 172
+  Links discovered: 171
   Candidate links/items: 50
   Attempted items/articles: 12
   Items/articles with text: 12
@@ -268,9 +270,9 @@ Call log:
 [OK] china-defense-news-cn - China National Defense News
   Source type: newspaper
   Start URL: http://www.81.cn/szb_223187/gfbszblb/index.html
-  Resolved URL: http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-18&paperName=zggfb&paperNumber=01
+  Resolved URL: http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-19&paperName=zggfb&paperNumber=01
   HTTP: 200
-  Links discovered: 280
+  Links discovered: 278
   Candidate links/items: 13
   Attempted items/articles: 12
   Items/articles with text: 12
@@ -362,7 +364,7 @@ Call log:
   Retry backoff: 1s
 
 SUMMARY
-Working: 21
+Working: 19
 Fetched but no items: 0
-Failed: 1
+Failed: 3
 Total sources: 22

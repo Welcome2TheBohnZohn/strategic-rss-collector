@@ -487,7 +487,7 @@
       "error": "",
       "rows": 100,
       "total": 857,
-      "matches": 1
+      "matches": 2
     },
     {
       "category": "行政法规",
@@ -989,6 +989,25 @@
       "titleHightLightList": [
         {
           "value": "民用运力国防动员条例",
+          "highLight": false
+        }
+      ],
+      "score": 0.0
+    },
+    {
+      "bbbs": "ff8080816f3cbb3c016f4101cc861115",
+      "title": "军人抚恤优待条例",
+      "gbrq": "2019-03-02",
+      "sxrq": null,
+      "sxx": 2,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "titleHightLightList": [
+        {
+          "value": "军人抚恤优待条例",
           "highLight": false
         }
       ],

@@ -10,8 +10,6 @@ All links discovered: 287
 
 === MATCHED CANDIDATES ===
 
-http://www.cssc.net.cn/n5/n18/c34357/content.html
-  锚定材料强国路 双瑞品牌向新行——2026中船集团系列品牌日“走进中船双瑞”活动...
 http://www.cssc.net.cn/n5/n18/c34371/content.html
   中船集团党组传达学习党的二十届五中全会精神和国有企业党的建设工作座谈会精神
 http://www.cssc.net.cn/n5/n18/c34373/content.html
@@ -22,8 +20,10 @@ http://www.cssc.net.cn/n5/n18/c34362/content.html
   中船集团各基层党组织深入学习宣传贯彻党的二十届五中全会精神
 http://www.cssc.net.cn/n5/n18/c34359/content.html
   中船集团召开党外人士座谈会 传达学习党的二十届五中全会精神
-http://www.cssc.net.cn/n5/n18/c34358/content.html
-  逐绿向新 扬帆零碳未来｜中船集团邀您相约COP31
+http://www.cssc.net.cn/n5/n18/c34381/content.html
+  从实验室到超级工程：中船集团七二五所双瑞品牌的三十年跃迁
+http://www.cssc.net.cn/n5/n18/c34379/content.html
+  仲传讲科普｜带你看看“双瑞”到底是做什么的
 http://www.cssc.net.cn/n5/n18/c34372/content.html
   喜报！中船集团多项政研成果获中国政研会推介
 http://www.cssc.net.cn/n5/n18/c34361/content.html
@@ -77,6 +77,10 @@ http://www.cssc.net.cn/n5/n1255/index.html
   头条新闻
 http://www.cssc.net.cn/n5/n1390/index.html
   上市公司
+http://www.cssc.net.cn/n5/n18/c34381/content.html
+  从实验室到超级工程：中船集团七二五所双瑞品牌的三十年跃迁
+http://www.cssc.net.cn/n5/n18/c34379/content.html
+  仲传讲科普｜带你看看“双瑞”到底是做什么的
 http://www.cssc.net.cn/n5/n18/c34373/content.html
   中船集团主办“中国制造 央企领航 零碳未来”主题边会在COP31顺利召开
 http://www.cssc.net.cn/n5/n18/c34372/content.html
@@ -93,10 +97,6 @@ http://www.cssc.net.cn/n5/n18/c34361/content.html
   中船集团2026年第三批次巡视完成反馈
 http://www.cssc.net.cn/n5/n18/c34359/content.html
   中船集团召开党外人士座谈会 传达学习党的二十届五中全会精神
-http://www.cssc.net.cn/n5/n18/c34358/content.html
-  逐绿向新 扬帆零碳未来｜中船集团邀您相约COP31
-http://www.cssc.net.cn/n5/n18/c34357/content.html
-  锚定材料强国路 双瑞品牌向新行——2026中船集团系列品牌日“走进中船双瑞”活动...
 http://www.cssc.net.cn/n5/n18/index_6204_1.html
 http://www.cssc.net.cn/n5/n18/index_6204_2.html
 http://www.cssc.net.cn/n5/n18/index_6204_3.html
