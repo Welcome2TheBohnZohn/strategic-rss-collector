@@ -1,5 +1,5 @@
 Strategic RSS Collector Status
-Generated: 2026-11-19 07:44:26 UTC
+Generated: 2026-11-19 20:54:23 UTC
 
 Status meanings:
 OK = Feed contains one or more items
@@ -11,7 +11,7 @@ FAILED = Source could not be retrieved
   Start URL: https://www.mod.gov.cn/
   Resolved URL: http://www.mod.gov.cn/
   HTTP: 200
-  Links discovered: 245
+  Links discovered: 244
   Candidate links/items: 50
   Attempted items/articles: 12
   Items/articles with text: 12
@@ -27,7 +27,7 @@ FAILED = Source could not be retrieved
   Start URL: http://www.81.cn/?big=jian
   Resolved URL: http://www.81.cn/?big=jian
   HTTP: 200
-  Links discovered: 534
+  Links discovered: 532
   Candidate links/items: 50
   Attempted items/articles: 12
   Items/articles with text: 12
@@ -52,20 +52,19 @@ FAILED = Source could not be retrieved
   Max retries: 2
   Retry backoff: 2s
 
-[FAILED] kremlin-president-en - Kremlin President News - Official RSS
+[OK] kremlin-president-en - Kremlin President News - Official RSS
   Source type: rss
   Start URL: http://www.kremlin.ru/feeds/news
-  Resolved URL: http://www.kremlin.ru/feeds/news
-  HTTP: None
-  Attempted items/articles: 0
-  Items/articles with text: 0
-  Items/articles with dates: 0
-  RSS feed items: 0
+  Resolved URL: http://www.kremlin.ru/events/president/news/feed
+  HTTP: 200
+  Attempted items/articles: 20
+  Items/articles with text: 12
+  Items/articles with dates: 12
+  RSS feed items: 12
   SSL verification: ON
   Request timeout: 12s
   Max retries: 1
   Retry backoff: 1s
-  Error: http://www.kremlin.ru/feeds/news -> HTTPError: 403 Client Error: Forbidden for url: http://www.kremlin.ru/events/president/news/feed | https://www.kremlin.ru/feeds/news -> ConnectTimeout: HTTPSConnectionPool(host='www.kremlin.ru', port=443): Max retries exceeded with url: /feeds/news (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.kremlin.ru', port=443) at 0x743d9dd0b750>, 'Connection to www.kremlin.ru timed out. (connect timeout=12)'))
 
 [OK] mod-whitepapers-cn - China MOD Defense White Papers
   Source type: html
@@ -115,32 +114,31 @@ FAILED = Source could not be retrieved
   Max retries: 2
   Retry backoff: 3s
 
-[FAILED] sastind-cn - SASTIND
+[OK] sastind-cn - SASTIND
   Source type: html
   Start URL: https://www.sastind.gov.cn/
   Resolved URL: https://www.sastind.gov.cn/
-  HTTP: None
-  Links discovered: 0
-  Candidate links/items: 0
-  Attempted items/articles: 0
-  Items/articles with text: 0
-  Items/articles with dates: 0
-  RSS feed items: 0
+  HTTP: 200
+  Links discovered: 67
+  Candidate links/items: 50
+  Attempted items/articles: 12
+  Items/articles with text: 12
+  Items/articles with dates: 12
+  RSS feed items: 12
   SSL verification: ON
   Request timeout: 12s
   Max retries: 1
   Retry backoff: 1s
-  Error: https://www.sastind.gov.cn/ -> ConnectTimeout: HTTPSConnectionPool(host='www.sastind.gov.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.sastind.gov.cn', port=443) at 0x743d9dd08910>, 'Connection to www.sastind.gov.cn timed out. (connect timeout=12)'))
 
 [OK] mid-ru-en - Russian Ministry of Foreign Affairs English - Official Telegram
   Source type: telegram
   Start URL: https://t.me/s/MFARussia
   Resolved URL: https://t.me/s/MFARussia
   HTTP: 200
-  Attempted items/articles: 7
-  Items/articles with text: 7
-  Items/articles with dates: 7
-  RSS feed items: 7
+  Attempted items/articles: 12
+  Items/articles with text: 12
+  Items/articles with dates: 12
+  RSS feed items: 12
   SSL verification: ON
   Request timeout: 20s
   Max retries: 2
@@ -190,21 +188,46 @@ FAILED = Source could not be retrieved
   Max retries: 1
   Retry backoff: 1s
 
-[OK] norinco-cn - NORINCO Group
+[FAILED] norinco-cn - NORINCO Group
   Source type: browser
   Start URL: http://www.norincogroup.com.cn/
   Resolved URL: http://www.norincogroup.com.cn/
-  HTTP: 200
-  Links discovered: 188
-  Candidate links/items: 50
-  Attempted items/articles: 12
-  Items/articles with text: 12
-  Items/articles with dates: 12
-  RSS feed items: 12
+  HTTP: None
+  Links discovered: 0
+  Candidate links/items: 0
+  Attempted items/articles: 0
+  Items/articles with text: 0
+  Items/articles with dates: 0
+  RSS feed items: 0
   SSL verification: OFF
   Request timeout: 12s
   Max retries: 1
   Retry backoff: 1s
+  Error: http://www.norincogroup.com.cn/ -> Error: Page.goto: net::ERR_EMPTY_RESPONSE at http://www.norincogroup.com.cn/
+Call log:
+  - navigating to "http://www.norincogroup.com.cn/", waiting until "domcontentloaded"
+ | http://www.norincogroup.com.cn/ -> Error: Page.goto: net::ERR_EMPTY_RESPONSE at http://www.norincogroup.com.cn/
+Call log:
+  - navigating to "http://www.norincogroup.com.cn/", waiting until "domcontentloaded"
+ | http://norincogroup.com.cn/ -> Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at http://norincogroup.com.cn/
+Call log:
+  - navigating to "http://norincogroup.com.cn/", waiting until "domcontentloaded"
+ | http://norincogroup.com.cn/ -> Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at http://norincogroup.com.cn/
+Call log:
+  - navigating to "http://norincogroup.com.cn/", waiting until "domcontentloaded"
+ | https://www.norincogroup.com.cn/ -> TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.norincogroup.com.cn/", waiting until "domcontentloaded"
+ | https://www.norincogroup.com.cn/ -> TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.norincogroup.com.cn/", waiting until "domcontentloaded"
+ | https://norincogroup.com.cn/ -> Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://norincogroup.com.cn/
+Call log:
+  - navigating to "https://norincogroup.com.cn/", waiting until "domcontentloaded"
+ | https://norincogroup.com.cn/ -> Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://norincogroup.com.cn/
+Call log:
+  - navigating to "https://norincogroup.com.cn/", waiting until "domcontentloaded"
+
 
 [OK] cssc-cn - China State Shipbuilding Corporation
   Source type: browser
@@ -315,21 +338,22 @@ Call log:
   Max retries: 1
   Retry backoff: 1s
 
-[OK] ncpssd-cn - National Center for Philosophy and Social Sciences Documentation
+[FAILED] ncpssd-cn - National Center for Philosophy and Social Sciences Documentation
   Source type: html
   Start URL: https://www.ncpssd.cn/
   Resolved URL: https://www.ncpssd.cn/
-  HTTP: 200
-  Links discovered: 196
-  Candidate links/items: 50
-  Attempted items/articles: 41
-  Items/articles with text: 12
-  Items/articles with dates: 10
-  RSS feed items: 12
+  HTTP: None
+  Links discovered: 0
+  Candidate links/items: 0
+  Attempted items/articles: 0
+  Items/articles with text: 0
+  Items/articles with dates: 0
+  RSS feed items: 0
   SSL verification: ON
   Request timeout: 12s
   Max retries: 1
   Retry backoff: 1s
+  Error: https://www.ncpssd.cn/ -> ReadTimeout: HTTPSConnectionPool(host='www.ncpssd.cn', port=443): Read timed out. (read timeout=12)
 
 [OK] stats-cn - National Bureau of Statistics of China
   Source type: html

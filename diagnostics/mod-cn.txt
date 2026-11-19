@@ -6,7 +6,7 @@ Include regex: /gfbw/|/xwfyr/|/wzll/
 Include text regex: 
 
 Candidate links: 50
-All links discovered: 245
+All links discovered: 244
 
 === MATCHED CANDIDATES ===
 
@@ -16,15 +16,11 @@ http://www.mod.gov.cn/gfbw/fgwx/16482045.html
   中华人民共和国国防动员法
 http://www.mod.gov.cn/gfbw/jmsd/16500753.html
   在遵规守纪中改革创新、干事创业——贯彻党的二十届五中全会精神、推进全面从严治党系列谈
-http://www.mod.gov.cn/gfbw/qwfb/16499896.html
-  全面从严治党关键在严——全军部队深入学习贯彻党的二十届五中全会精神系列述评之四
 http://www.mod.gov.cn/gfbw/sy/rt/16500592.html
-  习近平和彭丽媛为出席亚太经合组织第三十三次领导人非正式会议的来宾举行欢迎宴会
-http://www.mod.gov.cn/gfbw/qwfb/16500775.html
   习近平和彭丽媛为出席亚太经合组织第三十三次领导人非正式会议的来宾举行欢迎宴会
 http://www.mod.gov.cn/gfbw/gffw/16497951.html
   云南省军地开展“为困难退役军人送温暖”帮扶活动——关怀送上门 情暖老兵心
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16500794.html
+http://www.mod.gov.cn/gfbw/qwfb/16500853.html
   习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话
 http://www.mod.gov.cn/gfbw/gfdy/16497999.html
   北京青少年服务中心丰富红色教育方式——把长征精神讲到孩子心里
@@ -42,8 +38,6 @@ http://www.mod.gov.cn/gfbw/gffw/16469120.html
   速览！2026年军校招生政策解读，你想知道的都在这里→
 http://www.mod.gov.cn/gfbw/qwfb/16500125.html
   学习贯彻党的二十届五中全会精神丨保持惩治腐败高压态势
-http://www.mod.gov.cn/gfbw/jswj/16497978.html
-  第五届中国—东盟中青年军官友好交流活动在国防科大开幕
 http://www.mod.gov.cn/gfbw/jsxd/16497765.html
   中印尼“利刃-2026”陆军反恐联合训练举行结训仪式
 http://www.mod.gov.cn/gfbw/xwfyr/16499527.html
@@ -72,6 +66,8 @@ http://www.mod.gov.cn/gfbw/spbb_214126/16495158.html
   赴山河 从头越——追随统帅回望长征之路丨本色
 http://www.mod.gov.cn/gfbw/spbb_214126/16495157.html
   赴山河 从头越——追随统帅回望长征之路丨同心
+http://www.mod.gov.cn/gfbw/jswj/16500920.html
+  中国海军“吉祥方舟”号医院船抵达赤道几内亚
 http://www.mod.gov.cn/gfbw/tp_214132/16499689.html
   武警上海总队某支队组织官兵开展综合体能训练
 http://www.mod.gov.cn/gfbw/xwfyr/16496948.html
@@ -110,6 +106,10 @@ http://www.mod.gov.cn/gfbw/gffw/16498801.html
   新时代征兵工作阔步迈向高质量发展
 http://www.mod.gov.cn/gfbw/fgwx/16448582.html
   中华人民共和国民族团结进步促进法
+http://www.mod.gov.cn/gfbw/tp_214132/16500818.html
+  第77集团军某旅组织实弹射击训练
+http://www.mod.gov.cn/gfbw/xwfyr/lxjzhzt/2026lxjzh/2026n10y/index.html
+  2026年10月例行记者会专题
 
 === ALL DISCOVERED LINKS ===
 
@@ -298,52 +298,50 @@ http://www.mod.gov.cn/gfbw/sy/jt_214028/16498720.html
   第73集团军某旅组织直升机编队飞行训练
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16498298.html
   海军航空大学某团开展飞行训练
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16500794.html
-  习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16500781.html
-  全文
+http://www.mod.gov.cn/gfbw/sy/tt_214026/16500912.html
+  习近平主持中俄美元首会晤
 http://www.mod.gov.cn/gfbw/sy/rt/16500796.html
   习近平主持亚太经合组织第三十三次领导人非正式会议
 http://www.mod.gov.cn/gfbw/sy/rt/16500592.html
   习近平和彭丽媛为出席亚太经合组织第三十三次领导人非正式会议的来宾举行欢迎宴会
 http://www.mod.gov.cn/gfbw/sy/rt/16500505.html
   习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲
-http://www.mod.gov.cn/gfbw/sy/rt/16500485.html
-  习近平会见俄罗斯总统普京
-http://www.mod.gov.cn/gfbw/sy/rt/16500570.html
-  习近平迎接美国总统特朗普
-http://www.mod.gov.cn/gfbw/qwfb/16500803.html
+http://www.mod.gov.cn/gfbw/sy/rt/16500871.html
+  习近平主持中俄美元首会晤
+http://www.mod.gov.cn/gfbw/sy/rt/16500838.html
+  习近平会见美国总统特朗普
+http://www.mod.gov.cn/gfbw/qwfb/16500893.html
+  中俄美元首和平宣言
+http://www.mod.gov.cn/gfbw/qwfb/16500853.html
+  习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话
+http://www.mod.gov.cn/gfbw/sy/tt_214026/16500781.html
+  全文
+http://www.mod.gov.cn/gfbw/qwfb/16500835.html
   习近平会见美国总统特朗普
 http://www.mod.gov.cn/gfbw/qwfb/16500576.html
   习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲
 http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16500452.html
   全文
-http://www.mod.gov.cn/gfbw/qwfb/16500775.html
-  习近平和彭丽媛为出席亚太经合组织第三十三次领导人非正式会议的来宾举行欢迎宴会
-http://www.mod.gov.cn/gfbw/qwfb/16500584.html
-  祝酒辞
 http://www.mod.gov.cn/gfbw/qwfb/16500792.html
   习近平对老龄工作作出重要指示
-http://www.mod.gov.cn/gfbw/qwfb/16500125.html
-  学习贯彻党的二十届五中全会精神丨保持惩治腐败高压态势
 http://www.mod.gov.cn/gfbw/qwfb/16499548.html
   2026年11月中旬国防部例行新闻发布
+http://www.mod.gov.cn/gfbw/qwfb/16500125.html
+  学习贯彻党的二十届五中全会精神丨保持惩治腐败高压态势
+http://www.mod.gov.cn/gfbw/qwfb/16500971.html
+  董军同英国国防大臣举行会谈
 http://www.mod.gov.cn/gfbw/qwfb/16500085.html
   董军同意大利国防部长举行会谈
 http://www.mod.gov.cn/gfbw/qwfb/16500788.html
   中越将举行第41次北部湾联合巡逻
-http://www.mod.gov.cn/gfbw/qwfb/16500750.html
-  以优良作风凝心聚力干事创业
-http://www.mod.gov.cn/gfbw/qwfb/16499896.html
-  全面从严治党关键在严——全军部队深入学习贯彻党的二十届五中全会精神系列述评之四
 http://www.mod.gov.cn/gfbw/jswj/16497562.html
   中国海军“吉祥方舟”号医院船访问多哥
+http://www.mod.gov.cn/gfbw/jswj/16500920.html
+  中国海军“吉祥方舟”号医院船抵达赤道几内亚
 http://www.mod.gov.cn/gfbw/jswj/16500372.html
   海军“吉祥方舟”号医院船首访多哥回眸
 http://www.mod.gov.cn/gfbw/jswj/16500003.html
   “这段历史属于中国，这种精神属于世界”
-http://www.mod.gov.cn/gfbw/jswj/16497978.html
-  第五届中国—东盟中青年军官友好交流活动在国防科大开幕
 http://www.mod.gov.cn/gfbw/wzll/16500747.html
   武警广东总队探索“时代景深法”提升基层理论教育质效
 http://www.mod.gov.cn/gfbw/wzll/16500746.html
@@ -512,8 +510,8 @@ http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/11/06/16498298_0372b148
 http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/11/19/16500796_3b34980e87b3ea357aa0f6dc55395e93.jpg
 http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/11/18/16500592_ef5d5c4268df4497b85721d2397b8faf.jpg
 http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/11/18/16500505_3edf2d1423b9bb18c03349d2e2b54f32.jpg
-http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/11/18/16500485_4febe4993e53280570454b2f834f9e7d.jpg
-http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/11/18/16500570_73e9eca19f82bcef6e3b6360ef4d6a5c.jpg
+http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/11/19/16500871_f87d98639086b870082a1b96dfe24c0b.jpg
+http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/11/19/16500838_345021f436b1b8dd7a06907d38019acd.jpg
 http://www.mod.gov.cn/gfbw/jswj/_attachment/2026/11/02/16497562_2b562b304cc752ea78305ec2213be83e.jpg
 http://www.mod.gov.cn/gfbw/wzll/_attachment/2026/11/19/16500747_3708c2c9785a1676b3a353352f99ea5e.jpg
 http://www.mod.gov.cn/gfbw/jsxd/_attachment/2026/11/05/16498144_8246ee87953431866abbe806d9f6f8c0.jpg

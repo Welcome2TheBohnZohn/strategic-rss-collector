@@ -6,20 +6,18 @@ Include regex: 81\.cn/.+/(content|article|index).*|81\.cn/.*\d{6,}
 Include text regex: 
 
 Candidate links: 50
-All links discovered: 534
+All links discovered: 532
 
 === MATCHED CANDIDATES ===
 
 http://www.81.cn/lq_208565/16498046.html
   联勤保障部队持续掀起学习贯彻习主席在纪念中国工农红军长征胜利90周年大会上的重要讲话精神热潮
-http://www.81.cn/yw_208727/16500708.html
-  在遵规守纪中改革创新、干事创业——贯彻党的二十届五中全会精神、推进全面从严治党系列谈
 http://www.81.cn/js_208592/16499202.html
   专访｜寻找二战士兵遗骸唤醒美中共同抗战记忆——访美中航空遗产基金会主席杰夫·格林
+http://www.81.cn/yw_208727/16500935.html
+  习近平主席在亚太经合组织第三十三次领导人非正式会议欢迎宴会上的致辞引发热烈反响
 http://www.81.cn/jy_208587/16497174.html
   以仁心守护每一颗稚嫩生命 ——记第七医学中心儿科医学部重症医学科主任医师洪小杨
-http://www.81.cn/yw_208727/16500773.html
-  习近平和彭丽媛为出席亚太经合组织第三十三次领导人非正式会议的来宾举行欢迎宴会
 http://www.81.cn/zq_208553/16499365.html
   中部战区和七省（市）召开涉军维权工作联席会议 建强服务备战打仗区域协作机制
 http://www.81.cn/hjj_208561/16498809.html
@@ -30,20 +28,22 @@ http://www.81.cn/hj_208557/16500790.html
   在军舰一张床铺上住了21年？看完觉得这位一级军士长太牛了！（军事纪实）
 http://www.81.cn/wz_208577/16459656.html
   2026年军队文职人员公开招考第二批免笔试直接面试岗位招考工作全面展开
-http://www.81.cn/xx_207779/16500807.html
-  视频丨习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话
-http://www.81.cn/ss_208539/16500534.html
-  《2026年亚太经合组织工商领导人峰会深圳倡议》11月18日发布
+http://www.81.cn/jy_208587/16500812.html
+  多学科协作精准破局！复杂高危腹壁透明细胞癌患者在第七医学中心重获新生
 http://www.81.cn/zq_208553/16499363.html
   中国人民解放军南部战区位中国黄岩岛领海领空及周边区域组织战备警巡
+http://www.81.cn/kj_208559/16500859.html
+  西部战区空军某旅探索“体系+”训练模式——战机“能力半径”拉长了
 http://www.81.cn/hjj_208561/jdt_208562/16498805.html
   最美新时代革命军人风采｜火箭军某部研究员周宏潮为大国长剑淬锋砺刃
 http://www.81.cn/lq_208565/jdt_208566/16495601.html
   高效应急保障服务备战打仗——郑州联勤保障中心采购战线求实为战纪实
+http://www.81.cn/yw_208727/16500850.html
+  习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话
+http://www.81.cn/yw_208727/16500966.html
+  习近平总书记重要指示为扎实做好老龄工作指明努力方向注入持久力量
 http://www.81.cn/hjj_208561/16498810.html
   导弹能不能命中，有她的精准研判！走近东风导弹背后的“磨剑人”
-http://www.81.cn/yw_208727/16500707.html
-  “中国军号”携手北京地铁19号线，开通"伟大远征"主题专列
 http://www.81.cn/nb_208573/jdt_208574/16488421.html
   空军航空大学组织空军第14批女飞行学员开展首次高空跳伞训练
 http://www.81.cn/nb_208573/16474930.html
@@ -52,10 +52,8 @@ http://www.81.cn/bg_208596/16497320.html
   别迭里边防连：营房的每一次升级都是组织对戍边官兵的暖心关怀
 http://www.81.cn/wh_208575/jdt_208576/16491845.html
   中国第16批赴南苏丹（瓦乌）维和部队通过联合国战备能力评估
-http://www.81.cn/yw_208727/16500575.html
-  习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲
-http://www.81.cn/ss_208539/16500695.html
-  纪念孙中山先生诞辰160周年活动嘉宾团在广东参加纪念活动
+http://www.81.cn/ss_208539/16500958.html
+  以创新汇聚增长之势——推动亚太共同体建设的中国“科技力”
 http://www.81.cn/lj_208555/16499463.html
   第81集团军某旅探索“战中复盘、实时纠偏”对抗训练新模式
 http://www.81.cn/lq_208565/jdt_208566/16491407.html
@@ -64,6 +62,8 @@ http://www.81.cn/nb_208573/16476253.html
   联勤保障部队941医院重症医学科主任张瑛：人民军医为人民
 http://www.81.cn/bg_208596/16493756.html
   在1314号界碑前，数对夫妻许下相守一生、忠诚戍边的诺言
+http://www.81.cn/pl_208541/16500962.html
+  新华时评｜从“养老”到“享老”，让老年人幸福生活成色更足
 http://www.81.cn/tp_207717/16497087.html
   解放军新闻传播中心记者范显海荣获纪实摄影类中国摄影金像奖
 http://www.81.cn/jy_208587/16499372.html
@@ -100,16 +100,16 @@ http://www.81.cn/bq_208581/16500390.html
   “雷霆”倾转旋翼无人机——低空突击编队迎来“自主僚机”
 http://www.81.cn/js_208585/jdt_208586/16469323.html
   随军家属安置工作持续提质增效，一系列务实举措为军属解忧
+http://www.81.cn/xx_207779/16500973.html
+  第一观察·瞬间｜中俄美三国最高领导人有史以来首次聚首
+http://www.81.cn/xx_207779/16500947.html
+  央视快评丨推动建设亚太共同体 续写“亚太奇迹”新篇章
+http://www.81.cn/ss_208539/16500953.html
+  聚焦互鉴合作 2026热带雨林生态伙伴大会在海口开幕
 http://www.81.cn/jw_208551/jdt_208552/16438857.html
   中央军委主席习近平签署命令 发布《军事理论工作条例》
 http://www.81.cn/kj_208559/jdt_208560/16499918.html
   人民空军成立77周年特别报道丨起飞的原点 向战的航迹
-http://www.81.cn/lq_208565/jdt_208566/16488318.html
-  联勤保障部队各医院开展“联勤军医老区行”系列巡诊活动
-http://www.81.cn/pl_208541/jdt_208542/16500061.html
-  漫评｜“烈火之路”烧了四年也没烧掉印军的“基因缺陷”
-http://www.81.cn/yd_208600/16500481.html
-  抛开刻板化知识体系传授，探寻文学创作的“术”与“道”
 
 === ALL DISCOVERED LINKS ===
 
@@ -249,32 +249,42 @@ http://www.81.cn/zt/2026nzt/xznqsbqxdz/index.html
 http://www.81.cn/zt/2026nzt/gxczjsfjfxzc/index.html
 https://www.xuexi.cn/
 http://www.81.cn/xxqj_207719/index.html
-http://www.81.cn/jwtt/16500793.html
+http://www.81.cn/jwtt/16500911.html
+  习近平主持中俄美元首会晤
+http://www.81.cn/yw_208727/16500889.html
+  中俄美元首和平宣言
+http://www.81.cn/yw_208727/16500850.html
   习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话
 http://www.81.cn/jwtt/16500780.html
   全文
-http://www.81.cn/yw_208727/16500821.html
-  习近平会见美国总统特朗普，高清大图来了！
-http://www.81.cn/yw_208727/16500575.html
-  习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲
-http://www.81.cn/jwtt/16500453.html
-  全文
-http://www.81.cn/yw_208727/16500621.html
-  侧记
-http://www.81.cn/yw_208727/16500773.html
-  习近平和彭丽媛为出席亚太经合组织第三十三次领导人非正式会议的来宾举行欢迎宴会
-http://www.81.cn/yw_208727/16500583.html
-  祝酒辞
+http://www.81.cn/ss_208539/16500933.html
+  “深圳展望”
+http://www.81.cn/yw_208727/16500834.html
+  习近平会见美国总统特朗普
 http://www.81.cn/yw_208727/16500791.html
   习近平对老龄工作作出重要指示
+http://www.81.cn/yw_208727/16500966.html
+  习近平总书记重要指示为扎实做好老龄工作指明努力方向注入持久力量
+http://www.81.cn/yw_208727/16500935.html
+  习近平主席在亚太经合组织第三十三次领导人非正式会议欢迎宴会上的致辞引发热烈反响
+http://www.81.cn/yw_208727/16500701.html
+  以优良作风凝心聚力干事创业
+http://www.81.cn/yw_208727/16500876.html
+  美国总统特朗普：美国不支持“台独”！
+http://www.81.cn/yw_208727/16500972.html
+  董军同英国国防大臣举行会谈
+http://www.81.cn/yw_208727/16500960.html
+  新华社评论员：为建设亚太共同体汇聚强大合力
 http://www.81.cn/yw_208727/16498856.html
   2026中央八项规定精神贯彻执行情况网络调查问卷
 http://www.81.cn/yw_208727/16500702.html
   强军论坛丨在实践中锤炼党性
-http://www.81.cn/yw_208727/16500701.html
-  以优良作风凝心聚力干事创业
+http://www.81.cn/yw_208727/16500706.html
+  军营观察丨真理之光照亮成长之路
 http://www.81.cn/yw_208727/16500787.html
   中越将举行第41次北部湾联合巡逻
+http://www.81.cn/yw_208727/16500919.html
+  中国海军“吉祥方舟”号医院船抵达赤道几内亚
 http://www.81.cn/yw_208727/16500703.html
   陆军某部持续优化心理服务模式 为练兵备战注入“心”动能
 http://www.81.cn/yw_208727/16500704.html
@@ -283,48 +293,34 @@ http://www.81.cn/yw_208727/16500705.html
   特刊丨鹏城聚共识 亚太启新程
 http://www.81.cn/yw_208727/16500719.html
   我国成功发射实践二十四号卫星
-http://www.81.cn/yw_208727/16500706.html
-  军营观察丨真理之光照亮成长之路
-http://www.81.cn/yw_208727/16500707.html
-  “中国军号”携手北京地铁19号线，开通"伟大远征"主题专列
-http://www.81.cn/yw_208727/16500708.html
-  在遵规守纪中改革创新、干事创业——贯彻党的二十届五中全会精神、推进全面从严治党系列谈
-http://www.81.cn/yw_208727/16500726.html
-  走近湖北省退役军人群体，感悟老兵不忘初心的军人本色
-http://www.81.cn/yw_208727/16500720.html
-  “枪王”比武夺冠复盘：莫让奖牌压偏了准星
-http://www.81.cn/yw_208727/16500714.html
-  试卷里装着什么，便在年轻的心里种下什么
-http://www.81.cn/yw_208727/16500718.html
-  “金点子”要由战场说了算
 http://www.81.cn/syjdt/16500795.html
   习近平主持亚太经合组织第三十三次领导人非正式会议
-http://www.81.cn/syjdt/16500591.html
-  习近平和彭丽媛为出席亚太经合组织第三十三次领导人非正式会议的来宾举行欢迎宴会
-http://www.81.cn/syjdt/16500504.html
-  习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲
-http://www.81.cn/syjdt/16500484.html
-  习近平会见俄罗斯总统普京
-http://www.81.cn/syjdt/16500569.html
-  习近平迎接美国总统特朗普
-http://www.81.cn/syjdt/16500482.html
-  习近平会见韩国总统李在明
-http://www.81.cn/syjdt/16500278.html
-  习近平会见智利总统卡斯特
-http://www.81.cn/xx_207779/16500807.html
-  视频丨习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话
-http://www.81.cn/xx_207779/16500800.html
-  【央视快评】携手建设亚太共同体 共创亚太光明未来
-http://www.81.cn/xx_207779/16500799.html
-  和合共生｜相遇
-http://www.81.cn/xx_207779/16500797.html
-  时政新闻眼丨谋亚太繁荣发展大计 习近平提出中国方案
-http://www.81.cn/xx_207779/16500770.html
-  热解读｜打通“黄金内湾”的关键一横
-http://www.81.cn/xx_207779/16500768.html
-  习近平主席开幕式主旨演讲引发热烈反响
-http://www.81.cn/xx_207779/16500767.html
-  和合共生｜21株白皮松，见证亚太携手同行
+http://www.81.cn/syjdt/16500928.html
+  建设亚太共同体，习主席提出务实倡议
+http://www.81.cn/syjdt/16500866.html
+  习近平主持中俄美元首会晤
+http://www.81.cn/syjdt/16500837.html
+  习近平会见美国总统特朗普
+http://www.81.cn/syjdt/16500927.html
+  APEC与会领导人感谢习近平主席 感谢中国 感谢深圳
+http://www.81.cn/syjdt/16500895.html
+  彭丽媛同亚太经合组织经济体领导人或代表配偶参观“岭南非遗传承与创新”主题展
+http://www.81.cn/syjdt/16500931.html
+  “中国军号”携手北京地铁19号线，开通“伟大远征”主题专列
+http://www.81.cn/xx_207779/16500973.html
+  第一观察·瞬间｜中俄美三国最高领导人有史以来首次聚首
+http://www.81.cn/xx_207779/16500932.html
+  时政微观察丨与时偕行，共创亚太光明未来
+http://www.81.cn/xx_207779/16500872.html
+  第一观察丨习近平主席寄语亚太合作展翅高飞、鹏程万里
+http://www.81.cn/xx_207779/16500864.html
+  近镜头丨以“不懈的努力”书写“大故事”
+http://www.81.cn/xx_207779/16500863.html
+  时政镜距离｜在深圳，聆听开放强音
+http://www.81.cn/xx_207779/16500947.html
+  央视快评丨推动建设亚太共同体 续写“亚太奇迹”新篇章
+http://www.81.cn/xx_207779/16500937.html
+  壹视界·知行记｜在“梦开始的地方”逐梦
 http://tv.81.cn/jbmtd_211970/16500779.html
 https://weibo.com/jfjb
 http://www.81.cn/byds_206407/byds_206410/16499543.html
@@ -339,6 +335,8 @@ http://www.81.cn/byds_206407/byds_206410/16498597.html
   驻华武官了解105岁老红军王全英事迹后热泪盈眶
 http://www.81.cn/byds_206407/byds_206410/16498316.html
   精准拦截
+http://www.81.cn/fyr/16500882.html
+  商务部：中美贸易理事会农业工作组将于近期召开首次会议
 http://www.81.cn/fyr/16500306.html
   外交部：深圳见证了亚太区域经济一体化的发展
 http://www.81.cn/fyr/16500068.html
@@ -359,30 +357,28 @@ http://www.81.cn/fyr/16499361.html
   韩国外长赵显将访华
 http://www.81.cn/fyr/16499179.html
   李强将访问泰国并赴菲律宾出席中国—东盟领导人会议
-http://www.81.cn/fyr/16499063.html
-  外交部：大熊猫“平平”“福双”拉近中美人民心灵距离
-http://www.81.cn/ss_208539/16500815.html
-  李强出席全国老龄工作会议并讲话
-http://www.81.cn/ss_208539/16500804.html
-  越山海｜在深圳，看见中国机遇
-http://www.81.cn/ss_208539/16500695.html
-  纪念孙中山先生诞辰160周年活动嘉宾团在广东参加纪念活动
-http://www.81.cn/ss_208539/16500594.html
-  2026年亚太经合组织工商领导人峰会深圳倡议
-http://www.81.cn/ss_208539/16500620.html
-  中国－东盟自贸区3.0版释放区域经贸合作新活力
-http://www.81.cn/ss_208539/16500623.html
-  中央安全生产考核巡查组将陆续进驻开展年度考核巡查
-http://www.81.cn/ss_208539/16500624.html
-  2025年全球专利申请量创新高 中国大幅领先
-http://www.81.cn/ss_208539/16500580.html
-  赵乐际在云南调研
-http://www.81.cn/ss_208539/16500625.html
-  丁薛祥在江西调研
-http://www.81.cn/ss_208539/16500547.html
-  王小洪会见马来西亚内政部部长赛义夫丁
-http://www.81.cn/ss_208539/16500534.html
-  《2026年亚太经合组织工商领导人峰会深圳倡议》11月18日发布
+http://www.81.cn/ss_208539/16500958.html
+  以创新汇聚增长之势——推动亚太共同体建设的中国“科技力”
+http://www.81.cn/ss_208539/16500956.html
+  聚焦APEC｜亚太经合组织互联互通蓝图
+http://www.81.cn/ss_208539/16500955.html
+  和衷共济，续写“亚太奇迹”新篇章
+http://www.81.cn/ss_208539/16500954.html
+  2027届全国普通高校毕业生规模预计1299万人
+http://www.81.cn/ss_208539/16500953.html
+  聚焦互鉴合作 2026热带雨林生态伙伴大会在海口开幕
+http://www.81.cn/ss_208539/16500952.html
+  水利部介绍安全大坝、生态大坝、智能大坝建设情况
+http://www.81.cn/ss_208539/16500951.html
+  长征主题系列AI微电影《星火映征途》发布
+http://www.81.cn/ss_208539/16500929.html
+  李鸿忠在贵州调研
+http://www.81.cn/ss_208539/16500925.html
+  一图读懂丨APEC工商领导人峰会深圳倡议
+http://www.81.cn/ss_208539/16500907.html
+  石泰峰在陕西、四川调研
+http://www.81.cn/ss_208539/16500906.html
+  李希在广西调研
 http://www.81.cn/zt/2023nzt/xxgcxjpxsdzgtsshzysxztjy/index.html
 http://www.81.cn/zt/2023nzt/flsxjjbnmbjkjcsjyljd/index.html
 http://www.81.cn/bz_208549/jdt_208550/16499058.html
@@ -459,22 +455,22 @@ http://www.81.cn/hj_208557/16497250.html
   海军航空兵某部开展纪念长征胜利90周年系列主题教育活动
 http://www.81.cn/kj_208559/jdt_208560/16499918.html
   人民空军成立77周年特别报道丨起飞的原点 向战的航迹
+http://www.81.cn/kj_208559/16500859.html
+  西部战区空军某旅探索“体系+”训练模式——战机“能力半径”拉长了
 http://www.81.cn/kj_208559/16499917.html
   空军试飞员群体代表赴三所高校开展主题宣讲
 http://www.81.cn/kj_208559/16499916.html
   空军多型战机试飞员将亮相第十六届中国航展
-http://www.81.cn/kj_208559/16499915.html
-  空军开展“青春战位说”国防教育情景直播课暨军营开放活动
 http://www.81.cn/kj_208559/jdt_208560/16499344.html
   从“双20”列阵看人民空军77年奋飞征程
 http://www.81.cn/kj_208559/jdt_208560/16499081.html
   人民空军，生日快乐！
+http://www.81.cn/kj_208559/16499915.html
+  空军开展“青春战位说”国防教育情景直播课暨军营开放活动
 http://www.81.cn/kj_208559/16499358.html
   何为先锋！走进北部战区空军“强军先锋飞行大队”
 http://www.81.cn/kj_208559/16499256.html
   七十七载搏击长空，人民空军生日快乐！
-http://www.81.cn/kj_208559/16499246.html
-  在这个空军节，埋下一颗“少年逐梦向蓝天”的种子
 http://www.81.cn/hjj_208561/jdt_208562/16500269.html
   军营观察丨精准施训：分层分类淬锋砺刃
 http://www.81.cn/hjj_208561/16500741.html
@@ -591,6 +587,8 @@ http://www.81.cn/ll_208543/16496473.html
   习近平党建思想书写马克思主义建党学说中国化时代化新篇章
 http://www.81.cn/pl_208541/jdt_208542/16500061.html
   漫评｜“烈火之路”烧了四年也没烧掉印军的“基因缺陷”
+http://www.81.cn/pl_208541/16500962.html
+  新华时评｜从“养老”到“享老”，让老年人幸福生活成色更足
 http://www.81.cn/pl_208541/16500693.html
   新华社评论员：携手共创亚太光明未来
 http://www.81.cn/pl_208541/16500435.html
@@ -599,8 +597,6 @@ http://www.81.cn/pl_208541/16500434.html
   【光明论坛】以良好干部作风持续优化营商环境
 http://www.81.cn/pl_208541/16500431.html
   评论员观察丨坚持守正创新，永葆先进性纯洁性
-http://www.81.cn/pl_208541/16500429.html
-  践悟 | 百年大党，为何郑重聚焦“持之以恒”？
 http://www.81.cn/wh_208575/jdt_208576/16491845.html
   中国第16批赴南苏丹（瓦乌）维和部队通过联合国战备能力评估
 http://www.81.cn/wh_208575/16499935.html
@@ -800,6 +796,8 @@ http://www.81.cn/wj_208604/16499301.html
   军情专家谈丨格陵兰岛批准与丹麦及美国的安全协议
 http://www.81.cn/jy_208587/jdt_208588/16498980.html
   医点通丨天冷痛风易发作！这份痛风防治指南请查收
+http://www.81.cn/jy_208587/16500812.html
+  多学科协作精准破局！复杂高危腹壁透明细胞癌患者在第七医学中心重获新生
 http://www.81.cn/jy_208587/16499372.html
   第七医学中心圆满完成首轮“十五五”援藏对口帮扶阶段性任务
 http://www.81.cn/jy_208587/16497521.html
@@ -808,8 +806,6 @@ http://www.81.cn/jy_208587/16497174.html
   以仁心守护每一颗稚嫩生命 ——记第七医学中心儿科医学部重症医学科主任医师洪小杨
 http://www.81.cn/jy_208587/16495870.html
   医点通丨全网都在“吃了不烧心”！“烧心”到底是啥？
-http://www.81.cn/jy_208587/16495128.html
-  方寸之间，精“齿”为兵向战而行
 http://www.81.cn/lb_208583/jdt_208584/16499025.html
   退役军人吴汉武：讲好红军故事 播撒红色星火
 http://www.81.cn/lb_208583/16500411.html
@@ -834,20 +830,20 @@ http://www.81.cn/js_208585/16495956.html
   岗位不同志向却一脉相承，她在这片土地上扎根生长
 http://www.81.cn/js_208585/16496041.html
   真正读懂你
-http://eng.chinamil.com.cn/2025xb/H_251454/F_251457/16500585.html
-  Xi calls for jointly building Asia-Pacific community to prosper together
-http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16500588.html
-  Xi hosts welcome banquet for guests attending APEC meeting
-http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16500597.html
-  Xi welcomes Trump at Shenzhen airport
+http://eng.chinamil.com.cn/2025xb/H_251454/F_251457/16500831.html
+  Xi chairs APEC meeting, calls for building Asia-Pacific community
+http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16500902.html
+  China-Russia-U.S. Heads of State Declaration toward Peace
+http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16500891.html
+  Xi meets Trump, calling for continued efforts to steer China-U.S. relations on right course
 http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16500600.html
   Xi says China-Russia relations bring stability, certainty to turbulent world
+http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16500588.html
+  Xi hosts welcome banquet for guests attending APEC meeting
+http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16500881.html
+  China, Vietnam to conduct 41st joint patrol in Beibu Gulf
 http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16500427.html
   Senior official calls for tougher oversight to root out corruption in armed forces
-http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16500446.html
-  Shenzhou-24 crewed spacecraft, rocket combination transferred to launch area
-http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16500476.html
-  Xi calls for expanding pathways to mutual benefits, win-win outcomes
 http://eng.chinamil.com.cn/2025xb/B/16500287.html
   HQ-9 surface-to-air missile systems in live-fire training
 http://eng.chinamil.com.cn/2025xb/B/16500050.html
@@ -973,12 +969,12 @@ http://www.81.cn/zt/sytj/_attachment/2026/09/10/16484809_60f135fb6efa20aa395196c
 http://www.81.cn/wzsy/Banner_207703/ztyc/_attachment/2020/03/03/9757973_0800279e7f7f1fc839f401.jpg
 http://www.81.cn/template/tenant207/t1774/img/xxqj.jpg
 http://www.81.cn/syjdt/_attachment/2026/11/19/16500795_3b34980e87b3ea357aa0f6dc55395e93.jpg
-http://www.81.cn/syjdt/_attachment/2026/11/18/16500591_ef5d5c4268df4497b85721d2397b8faf.jpg
-http://www.81.cn/syjdt/_attachment/2026/11/18/16500504_3edf2d1423b9bb18c03349d2e2b54f32.jpg
-http://www.81.cn/syjdt/_attachment/2026/11/18/16500484_4febe4993e53280570454b2f834f9e7d.jpg
-http://www.81.cn/syjdt/_attachment/2026/11/18/16500569_73e9eca19f82bcef6e3b6360ef4d6a5c.jpg
-http://www.81.cn/syjdt/_attachment/2026/11/18/16500482_183e871c89493f17df329d1b39f03038.jpg
-http://www.81.cn/syjdt/_attachment/2026/11/17/16500278_a0506863b6c5d18ca20d696c14a659e1.jpg
+http://www.81.cn/syjdt/_attachment/2026/11/19/16500928_2786fd1046f92ff1f838aab2f7124ae3.jpg
+http://www.81.cn/syjdt/_attachment/2026/11/19/16500866_f87d98639086b870082a1b96dfe24c0b.jpg
+http://www.81.cn/syjdt/_attachment/2026/11/19/16500837_345021f436b1b8dd7a06907d38019acd.jpg
+http://www.81.cn/syjdt/_attachment/2026/11/19/16500927_c70b8ffd6c741361e21c6f2fc1823966.png
+http://www.81.cn/syjdt/_attachment/2026/11/19/16500895_16aa7606e6d13a62a85ec47e4e3a1544.jpg
+http://www.81.cn/syjdt/_attachment/2026/11/19/16500931_eba77e43860a8a58d04623279f856433.jpg
 http://www.81.cn/template/tenant207/t1774/img/brief.jpg
 http://www.plapic.com.cn/jfjhb/wqhg/_attachment/2026/10/21/16495113_636a0dfec28c3c0344dacfe3b2f350de.jpg
 http://www.81.cn/template/tenant207/t1774/img/gfb.jpg
@@ -1046,7 +1042,7 @@ http://www.81.cn/wj_208604/jdt_208605/_attachment/2026/07/10/16472973_7b13b521e9
 http://www.81.cn/jy_208587/jdt_208588/_attachment/2026/11/10/16498980_c28f55f56a3db382fa81f8e1f847a00b.jpg
 http://www.81.cn/lb_208583/jdt_208584/_attachment/2026/11/06/16499025_2333dd4dbb36d7e0fe2c70f2b78e231c.jpg
 http://www.81.cn/js_208585/jdt_208586/_attachment/2026/05/26/16469323_1259bdded6780f0acacbf574df89b3e3.jpg
-http://www.81.cn/ChinaMilitary/tjtw/_attachment/2026/11/18/16500608_8b053ce0c2dab612322be65533fb5eb5.jpg
+http://www.81.cn/ChinaMilitary/tjtw/_attachment/2026/11/19/16500914_3a67ec5741559bca8f4ecc71359ef0e9.jpg
 http://mail.chinamil.com.cn/
 http://www.81.cn/template/tenant207/t829/css/footer.css
 http://www.81.cn/template/tenant207/t1774/js/javascript.js?v=3.0.3
