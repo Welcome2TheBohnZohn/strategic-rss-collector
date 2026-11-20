@@ -1,5 +1,5 @@
 Strategic RSS Collector Status
-Generated: 2026-11-19 20:54:23 UTC
+Generated: 2026-11-20 07:35:10 UTC
 
 Status meanings:
 OK = Feed contains one or more items
@@ -11,7 +11,7 @@ FAILED = Source could not be retrieved
   Start URL: https://www.mod.gov.cn/
   Resolved URL: http://www.mod.gov.cn/
   HTTP: 200
-  Links discovered: 244
+  Links discovered: 245
   Candidate links/items: 50
   Attempted items/articles: 12
   Items/articles with text: 12
@@ -27,7 +27,7 @@ FAILED = Source could not be retrieved
   Start URL: http://www.81.cn/?big=jian
   Resolved URL: http://www.81.cn/?big=jian
   HTTP: 200
-  Links discovered: 532
+  Links discovered: 534
   Candidate links/items: 50
   Attempted items/articles: 12
   Items/articles with text: 12
@@ -144,19 +144,20 @@ FAILED = Source could not be retrieved
   Max retries: 2
   Retry backoff: 2s
 
-[OK] iran-mfa-en - Iran Ministry of Foreign Affairs English
+[FAILED] iran-mfa-en - Iran Ministry of Foreign Affairs English
   Source type: iran_mfa
   Start URL: https://en.mfa.gov.ir/portal/NewsAgencyShow/699
   Resolved URL: https://en.mfa.gov.ir/portal/NewsAgencyShow/699
-  HTTP: 200
-  Attempted items/articles: 12
-  Items/articles with text: 12
-  Items/articles with dates: 12
-  RSS feed items: 12
+  HTTP: None
+  Attempted items/articles: 0
+  Items/articles with text: 0
+  Items/articles with dates: 0
+  RSS feed items: 0
   SSL verification: ON
   Request timeout: 20s
   Max retries: 2
   Retry backoff: 2s
+  Error: Iran MFA archive endpoints could not be retrieved.
 
 [OK] irna-en - IRNA English
   Source type: rss
@@ -188,46 +189,21 @@ FAILED = Source could not be retrieved
   Max retries: 1
   Retry backoff: 1s
 
-[FAILED] norinco-cn - NORINCO Group
+[OK] norinco-cn - NORINCO Group
   Source type: browser
   Start URL: http://www.norincogroup.com.cn/
   Resolved URL: http://www.norincogroup.com.cn/
-  HTTP: None
-  Links discovered: 0
-  Candidate links/items: 0
-  Attempted items/articles: 0
-  Items/articles with text: 0
-  Items/articles with dates: 0
-  RSS feed items: 0
+  HTTP: 200
+  Links discovered: 188
+  Candidate links/items: 50
+  Attempted items/articles: 12
+  Items/articles with text: 12
+  Items/articles with dates: 12
+  RSS feed items: 12
   SSL verification: OFF
   Request timeout: 12s
   Max retries: 1
   Retry backoff: 1s
-  Error: http://www.norincogroup.com.cn/ -> Error: Page.goto: net::ERR_EMPTY_RESPONSE at http://www.norincogroup.com.cn/
-Call log:
-  - navigating to "http://www.norincogroup.com.cn/", waiting until "domcontentloaded"
- | http://www.norincogroup.com.cn/ -> Error: Page.goto: net::ERR_EMPTY_RESPONSE at http://www.norincogroup.com.cn/
-Call log:
-  - navigating to "http://www.norincogroup.com.cn/", waiting until "domcontentloaded"
- | http://norincogroup.com.cn/ -> Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at http://norincogroup.com.cn/
-Call log:
-  - navigating to "http://norincogroup.com.cn/", waiting until "domcontentloaded"
- | http://norincogroup.com.cn/ -> Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at http://norincogroup.com.cn/
-Call log:
-  - navigating to "http://norincogroup.com.cn/", waiting until "domcontentloaded"
- | https://www.norincogroup.com.cn/ -> TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.norincogroup.com.cn/", waiting until "domcontentloaded"
- | https://www.norincogroup.com.cn/ -> TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.norincogroup.com.cn/", waiting until "domcontentloaded"
- | https://norincogroup.com.cn/ -> Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://norincogroup.com.cn/
-Call log:
-  - navigating to "https://norincogroup.com.cn/", waiting until "domcontentloaded"
- | https://norincogroup.com.cn/ -> Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://norincogroup.com.cn/
-Call log:
-  - navigating to "https://norincogroup.com.cn/", waiting until "domcontentloaded"
-
 
 [OK] cssc-cn - China State Shipbuilding Corporation
   Source type: browser
@@ -293,10 +269,10 @@ Call log:
 [OK] china-defense-news-cn - China National Defense News
   Source type: newspaper
   Start URL: http://www.81.cn/szb_223187/gfbszblb/index.html
-  Resolved URL: http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-19&paperName=zggfb&paperNumber=01
+  Resolved URL: http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-20&paperName=zggfb&paperNumber=01
   HTTP: 200
-  Links discovered: 278
-  Candidate links/items: 13
+  Links discovered: 280
+  Candidate links/items: 14
   Attempted items/articles: 12
   Items/articles with text: 12
   Items/articles with dates: 12
@@ -327,33 +303,32 @@ Call log:
   Start URL: https://journal.nudt.edu.cn/
   Resolved URL: http://journal.nudt.edu.cn/
   HTTP: 200
-  Links discovered: 1991
+  Links discovered: 1983
   Candidate links/items: 50
-  Attempted items/articles: 12
+  Attempted items/articles: 13
   Items/articles with text: 12
-  Items/articles with dates: 10
+  Items/articles with dates: 9
   RSS feed items: 12
   SSL verification: OFF
   Request timeout: 12s
   Max retries: 1
   Retry backoff: 1s
 
-[FAILED] ncpssd-cn - National Center for Philosophy and Social Sciences Documentation
+[OK] ncpssd-cn - National Center for Philosophy and Social Sciences Documentation
   Source type: html
   Start URL: https://www.ncpssd.cn/
   Resolved URL: https://www.ncpssd.cn/
-  HTTP: None
-  Links discovered: 0
-  Candidate links/items: 0
-  Attempted items/articles: 0
-  Items/articles with text: 0
-  Items/articles with dates: 0
-  RSS feed items: 0
+  HTTP: 200
+  Links discovered: 195
+  Candidate links/items: 50
+  Attempted items/articles: 33
+  Items/articles with text: 12
+  Items/articles with dates: 12
+  RSS feed items: 12
   SSL verification: ON
   Request timeout: 12s
   Max retries: 1
   Retry backoff: 1s
-  Error: https://www.ncpssd.cn/ -> ReadTimeout: HTTPSConnectionPool(host='www.ncpssd.cn', port=443): Read timed out. (read timeout=12)
 
 [OK] stats-cn - National Bureau of Statistics of China
   Source type: html
@@ -388,7 +363,7 @@ Call log:
   Retry backoff: 1s
 
 SUMMARY
-Working: 19
+Working: 20
 Fetched but no items: 0
-Failed: 3
+Failed: 2
 Total sources: 22

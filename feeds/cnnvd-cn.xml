@@ -1,35 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Thu, 19 Nov 2026 20:54:23 +0000</lastBuildDate><item><title>CNNVD-2026-26783109 - Cisco Secure Endpoint 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-26783109</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-26783109</guid><pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate><description>Cisco Secure Endpoint 缓冲区错误漏洞
-危害等级: 高危
-收录时间：2026-11-18 | 更新时间: 2026-11-19 16:24:13
-CNNVD编号: CNNVD-2026-26783109</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-26783109&lt;/p&gt;&lt;pre&gt;Cisco Secure Endpoint 缓冲区错误漏洞
-危害等级: 高危
-收录时间：2026-11-18 | 更新时间: 2026-11-19 16:24:13
-CNNVD编号: CNNVD-2026-26783109&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-99756377 - Cisco Secure Endpoint 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-99756377</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-99756377</guid><pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate><description>Cisco Secure Endpoint 缓冲区错误漏洞
-危害等级: 高危
-收录时间：2026-11-18 | 更新时间: 2026-11-19 16:24:11
-CNNVD编号: CNNVD-2026-99756377</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-99756377&lt;/p&gt;&lt;pre&gt;Cisco Secure Endpoint 缓冲区错误漏洞
-危害等级: 高危
-收录时间：2026-11-18 | 更新时间: 2026-11-19 16:24:11
-CNNVD编号: CNNVD-2026-99756377&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-35971125 - Cisco Secure Endpoint 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-35971125</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-35971125</guid><pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate><description>Cisco Secure Endpoint 资源管理错误漏洞
-危害等级: 高危
-收录时间：2026-11-18 | 更新时间: 2026-11-19 16:24:07
-CNNVD编号: CNNVD-2026-35971125</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-35971125&lt;/p&gt;&lt;pre&gt;Cisco Secure Endpoint 资源管理错误漏洞
-危害等级: 高危
-收录时间：2026-11-18 | 更新时间: 2026-11-19 16:24:07
-CNNVD编号: CNNVD-2026-35971125&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-11611156 - ASUS Router firmware 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-11611156</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-11611156</guid><pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate><description>ASUS Router firmware 授权问题漏洞
-危害等级: 中危
-收录时间：2026-11-18 | 更新时间: 2026-11-19 16:24:06
-CNNVD编号: CNNVD-2026-11611156</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-11611156&lt;/p&gt;&lt;pre&gt;ASUS Router firmware 授权问题漏洞
-危害等级: 中危
-收录时间：2026-11-18 | 更新时间: 2026-11-19 16:24:06
-CNNVD编号: CNNVD-2026-11611156&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-85498027 - ASUS Router firmware 信息泄露漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-85498027</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-85498027</guid><pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate><description>ASUS Router firmware 信息泄露漏洞
-危害等级: 中危
-收录时间：2026-11-18 | 更新时间: 2026-11-19 16:24:02
-CNNVD编号: CNNVD-2026-85498027</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-85498027&lt;/p&gt;&lt;pre&gt;ASUS Router firmware 信息泄露漏洞
-危害等级: 中危
-收录时间：2026-11-18 | 更新时间: 2026-11-19 16:24:02
-CNNVD编号: CNNVD-2026-85498027&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-19911291 - Frappe ERPNext 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-19911291</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-19911291</guid><pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate><description>Frappe ERPNext 授权问题漏洞
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Fri, 20 Nov 2026 07:35:10 +0000</lastBuildDate><item><title>CNNVD-2026-19911291 - Frappe ERPNext 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-19911291</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-19911291</guid><pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate><description>Frappe ERPNext 授权问题漏洞
 危害等级: 高危
 收录时间：2026-11-18 | 更新时间: 2026-11-19 16:25:45
 CNNVD编号: CNNVD-2026-19911291</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-19911291&lt;/p&gt;&lt;pre&gt;Frappe ERPNext 授权问题漏洞
@@ -59,4 +29,34 @@ CNNVD编号: CNNVD-2026-42883275&lt;/pre&gt;</content:encoded></item><item><titl
 CNNVD编号: CNNVD-2026-67107349</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-67107349&lt;/p&gt;&lt;pre&gt;SplxAI agentic-radar 配置错误漏洞
 危害等级: 中危
 收录时间：2026-11-18 | 更新时间: 2026-11-19 16:26:11
-CNNVD编号: CNNVD-2026-67107349&lt;/pre&gt;</content:encoded></item></channel></rss>
+CNNVD编号: CNNVD-2026-67107349&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-38137100 - Chamilo 3 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-38137100</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-38137100</guid><pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate><description>Chamilo 3 跨站脚本漏洞
+危害等级: 中危
+收录时间：2026-11-18 | 更新时间: 2026-11-19 16:26:10
+CNNVD编号: CNNVD-2026-38137100</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-38137100&lt;/p&gt;&lt;pre&gt;Chamilo 3 跨站脚本漏洞
+危害等级: 中危
+收录时间：2026-11-18 | 更新时间: 2026-11-19 16:26:10
+CNNVD编号: CNNVD-2026-38137100&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-22384637 - Chamilo 3 路径遍历漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22384637</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22384637</guid><pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate><description>Chamilo 3 路径遍历漏洞
+危害等级: 中危
+收录时间：2026-11-18 | 更新时间: 2026-11-19 16:26:09
+CNNVD编号: CNNVD-2026-22384637</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22384637&lt;/p&gt;&lt;pre&gt;Chamilo 3 路径遍历漏洞
+危害等级: 中危
+收录时间：2026-11-18 | 更新时间: 2026-11-19 16:26:09
+CNNVD编号: CNNVD-2026-22384637&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-96571454 - LXC Incus 路径遍历漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-96571454</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-96571454</guid><pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate><description>LXC Incus 路径遍历漏洞
+危害等级: 高危
+收录时间：2026-11-18 | 更新时间: 2026-11-19 16:25:47
+CNNVD编号: CNNVD-2026-96571454</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-96571454&lt;/p&gt;&lt;pre&gt;LXC Incus 路径遍历漏洞
+危害等级: 高危
+收录时间：2026-11-18 | 更新时间: 2026-11-19 16:25:47
+CNNVD编号: CNNVD-2026-96571454&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-31711172 - LXC Incus 路径遍历漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-31711172</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-31711172</guid><pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate><description>LXC Incus 路径遍历漏洞
+危害等级: 超危
+收录时间：2026-11-18 | 更新时间: 2026-11-19 16:25:47
+CNNVD编号: CNNVD-2026-31711172</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-31711172&lt;/p&gt;&lt;pre&gt;LXC Incus 路径遍历漏洞
+危害等级: 超危
+收录时间：2026-11-18 | 更新时间: 2026-11-19 16:25:47
+CNNVD编号: CNNVD-2026-31711172&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-26783109 - Cisco Secure Endpoint 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-26783109</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-26783109</guid><pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate><description>Cisco Secure Endpoint 缓冲区错误漏洞
+危害等级: 高危
+收录时间：2026-11-18 | 更新时间: 2026-11-19 16:24:13
+CNNVD编号: CNNVD-2026-26783109</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-26783109&lt;/p&gt;&lt;pre&gt;Cisco Secure Endpoint 缓冲区错误漏洞
+危害等级: 高危
+收录时间：2026-11-18 | 更新时间: 2026-11-19 16:24:13
+CNNVD编号: CNNVD-2026-26783109&lt;/pre&gt;</content:encoded></item></channel></rss>
