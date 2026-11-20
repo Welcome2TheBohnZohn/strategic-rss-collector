@@ -2,20 +2,20 @@
   "archives": [
     {
       "url": "https://en.mfa.gov.ir/portal/NewsAgencyShow/699",
-      "http_status": null,
-      "error": "ReadTimeout: HTTPSConnectionPool(host='en.mfa.gov.ir', port=443): Read timed out. (read timeout=20)",
-      "records": 0
+      "http_status": 200,
+      "error": "",
+      "records": 24
     },
     {
       "url": "https://en.mfa.gov.ir/portal/NewsAgencyShow/3180",
-      "http_status": null,
-      "error": "ReadTimeout: HTTPSConnectionPool(host='en.mfa.gov.ir', port=443): Read timed out. (read timeout=20)",
-      "records": 0
+      "http_status": 200,
+      "error": "",
+      "records": 24
     }
   ],
-  "detail_full_text": 0,
+  "detail_full_text": 12,
   "archive_fallback": 0,
   "duplicate_content_skipped": 0,
-  "unique_records": 0,
-  "feed_items": 0
+  "unique_records": 48,
+  "feed_items": 12
 }

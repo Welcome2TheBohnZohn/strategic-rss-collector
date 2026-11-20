@@ -6,7 +6,7 @@ Include regex: /gfbw/fgwx/flfg/
 Include text regex: 
 
 Candidate links: 31
-All links discovered: 173
+All links discovered: 175
 
 === MATCHED CANDIDATES ===
 
@@ -317,6 +317,10 @@ http://www.mod.gov.cn/gfbw/qwfb/16501087.html
   习近平会见新加坡总理黄循财
 http://www.mod.gov.cn/gfbw/qwfb/16501073.html
   习近平会见澳大利亚总理阿尔巴尼斯
+http://www.mod.gov.cn/gfbw/qwfb/16501069.html
+  习近平会见印度尼西亚总统普拉博沃
+http://www.mod.gov.cn/gfbw/qwfb/16500971.html
+  董军同英国国防大臣举行会谈
 http://www.mod.gov.cn/gfbw/spbb_214126/16495225.html
   《伟大远征》第七集《丰碑》
 http://www.mod.gov.cn/gfbw/spbb_214126/16495168.html

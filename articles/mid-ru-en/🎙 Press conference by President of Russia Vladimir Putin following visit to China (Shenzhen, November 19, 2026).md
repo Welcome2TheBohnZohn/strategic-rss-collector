@@ -12,7 +12,7 @@ Key points
 :
 • [During the
 trilateral meeting
-with the Chinese and US leaders] we talked about security matters in the broad sense of the word, about
+with the Chinese and US Leaders] we talked about security matters in the broad sense of the word, about
 preventing the proliferation of weapons
 of mass destruction, nuclear weapons. We talked about issues
 pertaining to freedom of navigation.
@@ -56,7 +56,7 @@ we are ready to make compromises
 the realities on the ground
 and to be prepared to make compromises on their part as well. That is all. I see nothing particularly complicated about it.
 All that is needed is political will.
-• [For the Kyiv regime,]
+• [For the Kiev regime,]
 there are no incentives to agree to a cessation of hostilities
 and to creating conditions for a long-term – as
 I have already said
@@ -70,7 +70,7 @@ The Crimean Bridge is a purely civilian facility.
 we will respond to attacks on it.
 And I want everyone to be aware of that. I believe our response
 will be far more painful
-than what the Kyiv regime has done to the bridge.
+than what the Kiev regime has done to the bridge.
 • Working within
 #APEC
 is of great importance to us. We set ourselves the goal of increasing our trade turnover with this region to 40% –
