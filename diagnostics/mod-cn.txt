@@ -6,7 +6,7 @@ Include regex: /gfbw/|/xwfyr/|/wzll/
 Include text regex: 
 
 Candidate links: 50
-All links discovered: 247
+All links discovered: 246
 
 === MATCHED CANDIDATES ===
 
@@ -14,6 +14,8 @@ http://www.mod.gov.cn/gfbw/fgwx/16482016.html
   全国人大常委会表决通过新修订的国防动员法
 http://www.mod.gov.cn/gfbw/fgwx/16482045.html
   中华人民共和国国防动员法
+http://www.mod.gov.cn/gfbw/sy/tt_214026/16501190.html
+  “像大鹏一样展翅高飞、鹏程万里”——习近平主席出席亚太经合组织深圳会议及相关活动纪实
 http://www.mod.gov.cn/gfbw/jmsd/16500753.html
   在遵规守纪中改革创新、干事创业——贯彻党的二十届五中全会精神、推进全面从严治党系列谈
 http://www.mod.gov.cn/gfbw/qwfb/16499896.html
@@ -26,8 +28,8 @@ http://www.mod.gov.cn/gfbw/qwfb/16500853.html
   习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话
 http://www.mod.gov.cn/gfbw/gfdy/16497999.html
   北京青少年服务中心丰富红色教育方式——把长征精神讲到孩子心里
-http://www.mod.gov.cn/gfbw/qwfb/16501140.html
-  中美两军举行海上军事安全磋商机制工作小组会议和年度会晤
+http://www.mod.gov.cn/gfbw/wzll/16501225.html
+  翻开这本"时光相册",聆听官兵把滚烫青春锚进蔚蓝国土的故事
 http://www.mod.gov.cn/gfbw/jsxd/16498144.html
   中国第24批赴黎维和部队464名官兵荣获联合国和平勋章
 http://www.mod.gov.cn/gfbw/gffw/16469120.html
@@ -42,8 +44,6 @@ http://www.mod.gov.cn/gfbw/gfdy/16500418.html
   四川省泸定县军地有关部门发展特色种植产业助力乡村振兴
 http://www.mod.gov.cn/gfbw/wzll/16500747.html
   武警广东总队探索“时代景深法”提升基层理论教育质效
-http://www.mod.gov.cn/gfbw/sy/rt/16500796.html
-  习近平主持亚太经合组织第三十三次领导人非正式会议
 http://www.mod.gov.cn/gfbw/wzll/16501018.html
   当好“娘家人”，这个中队持续关注调出官兵成长成才
 http://www.mod.gov.cn/gfbw/gfjy_index/16501020.html
@@ -56,8 +56,8 @@ http://www.mod.gov.cn/gfbw/jsxd/16498701.html
   “吉祥方舟”号医院船访问多哥，加纳患者跨国寻医
 http://www.mod.gov.cn/gfbw/gfdy/16500132.html
   四川省军区组织“天府鹰隼-2026”无人机竞赛
-http://www.mod.gov.cn/gfbw/wzll/16500746.html
-  海军某大队开展大深度潜水训练提升官兵作业能力
+http://www.mod.gov.cn/gfbw/qwfb/16501217.html
+  2026年度中美海上军事安全磋商机制会议举行
 http://www.mod.gov.cn/gfbw/xwfyr/16499526.html
   中国军队将搭建更多更好的中外青年军官交流平台
 http://www.mod.gov.cn/gfbw/spbb_214126/16495168.html
@@ -96,6 +96,10 @@ http://www.mod.gov.cn/gfbw/tp_214132/16501056.html
   东部战区空军某场站组织特情处置演练
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16500819.html
   第77集团军某旅组织实弹射击训练
+http://www.mod.gov.cn/gfbw/sy/rt/16501080.html
+  习近平会见澳大利亚总理阿尔巴尼斯
+http://www.mod.gov.cn/gfbw/sy/rt/16501083.html
+  习近平会见印度尼西亚总统普拉博沃
 http://www.mod.gov.cn/gfbw/qwfb/16501073.html
   习近平会见澳大利亚总理阿尔巴尼斯
 http://www.mod.gov.cn/gfbw/qwfb/16501069.html
@@ -106,10 +110,6 @@ http://www.mod.gov.cn/gfbw/jsxd/16500816.html
   中越将举行第41次北部湾联合巡逻
 http://www.mod.gov.cn/gfbw/gffw/16498801.html
   新时代征兵工作阔步迈向高质量发展
-http://www.mod.gov.cn/gfbw/fgwx/16448582.html
-  中华人民共和国民族团结进步促进法
-http://www.mod.gov.cn/gfbw/tp_214132/16500818.html
-  第77集团军某旅组织实弹射击训练
 
 === ALL DISCOVERED LINKS ===
 
@@ -298,20 +298,18 @@ http://www.mod.gov.cn/gfbw/sy/jt_214028/16498720.html
   第73集团军某旅组织直升机编队飞行训练
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16498298.html
   海军航空大学某团开展飞行训练
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16500912.html
-  习近平主持中俄美元首会晤
-http://www.mod.gov.cn/gfbw/qwfb/16500893.html
-  中俄美元首和平宣言
-http://www.mod.gov.cn/gfbw/sy/rt/16500796.html
-  习近平主持亚太经合组织第三十三次领导人非正式会议
-http://www.mod.gov.cn/gfbw/sy/rt/16500871.html
-  习近平主持中俄美元首会晤
+http://www.mod.gov.cn/gfbw/sy/tt_214026/16501190.html
+  “像大鹏一样展翅高飞、鹏程万里”——习近平主席出席亚太经合组织深圳会议及相关活动纪实
 http://www.mod.gov.cn/gfbw/sy/rt/16501102.html
   习近平会见马来西亚总理安瓦尔
 http://www.mod.gov.cn/gfbw/sy/rt/16501100.html
   习近平会见泰国总理阿努廷
 http://www.mod.gov.cn/gfbw/sy/rt/16501079.html
   习近平会见新加坡总理黄循财
+http://www.mod.gov.cn/gfbw/sy/rt/16501080.html
+  习近平会见澳大利亚总理阿尔巴尼斯
+http://www.mod.gov.cn/gfbw/sy/rt/16501083.html
+  习近平会见印度尼西亚总统普拉博沃
 http://www.mod.gov.cn/gfbw/qwfb/16500853.html
   习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话
 http://www.mod.gov.cn/gfbw/sy/tt_214026/16500781.html
@@ -332,8 +330,8 @@ http://www.mod.gov.cn/gfbw/qwfb/16500971.html
   董军同英国国防大臣举行会谈
 http://www.mod.gov.cn/gfbw/qwfb/16499548.html
   2026年11月中旬国防部例行新闻发布
-http://www.mod.gov.cn/gfbw/qwfb/16501140.html
-  中美两军举行海上军事安全磋商机制工作小组会议和年度会晤
+http://www.mod.gov.cn/gfbw/qwfb/16501217.html
+  2026年度中美海上军事安全磋商机制会议举行
 http://www.mod.gov.cn/gfbw/qwfb/16501017.html
   学习贯彻党的二十届五中全会精神丨坚定不移一体推进不敢腐不能腐不想腐
 http://www.mod.gov.cn/gfbw/qwfb/16500788.html
@@ -350,12 +348,12 @@ http://www.mod.gov.cn/gfbw/jswj/16500003.html
   “这段历史属于中国，这种精神属于世界”
 http://www.mod.gov.cn/gfbw/wzll/16500747.html
   武警广东总队探索“时代景深法”提升基层理论教育质效
+http://www.mod.gov.cn/gfbw/wzll/16501225.html
+  翻开这本"时光相册",聆听官兵把滚烫青春锚进蔚蓝国土的故事
 http://www.mod.gov.cn/gfbw/wzll/16501019.html
   从“站在边上看”到“走进队列练”，连主官编入班排参训
 http://www.mod.gov.cn/gfbw/wzll/16501018.html
   当好“娘家人”，这个中队持续关注调出官兵成长成才
-http://www.mod.gov.cn/gfbw/wzll/16500746.html
-  海军某大队开展大深度潜水训练提升官兵作业能力
 http://www.mod.gov.cn/gfbw/jsxd/16498144.html
   中国第24批赴黎维和部队464名官兵荣获联合国和平勋章
 http://www.mod.gov.cn/gfbw/jsxd/16500816.html
@@ -513,11 +511,11 @@ http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/11/19/16500819_837ceef8
 http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/11/08/16498721_0a348cef1ad3aac1ddf439202247cec6.jpg
 http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/11/08/16498720_44168c41f96b652e8146c0f7fc556c7c.jpg
 http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/11/06/16498298_0372b148be25af1e67f0c456672319e7.jpg
-http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/11/19/16500796_3b34980e87b3ea357aa0f6dc55395e93.jpg
-http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/11/20/16500871_0e938d095eecf3794c0b957846b24079.jpg
 http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/11/20/16501102_65f24deaade169ba883223647bd2ce14.jpg
 http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/11/20/16501100_be6958504a4a3f43ae58a82b0362288b.jpg
 http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/11/20/16501079_2ea59e74b6a63f7f751bb109ed5a41ca.jpg
+http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/11/20/16501080_d4ce196e03dbef8cfd929f1e483bde1e.jpg
+http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/11/20/16501083_f92a380a41803f3ca1cec66600e4d383.jpg
 http://www.mod.gov.cn/gfbw/jswj/_attachment/2026/11/02/16497562_2b562b304cc752ea78305ec2213be83e.jpg
 http://www.mod.gov.cn/gfbw/wzll/_attachment/2026/11/19/16500747_3708c2c9785a1676b3a353352f99ea5e.jpg
 http://www.mod.gov.cn/gfbw/jsxd/_attachment/2026/11/05/16498144_8246ee87953431866abbe806d9f6f8c0.jpg
