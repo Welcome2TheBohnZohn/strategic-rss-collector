@@ -1,87 +1,91 @@
 {
-  "issue_date": "2026-11-20",
+  "issue_date": "2026-11-23",
   "issue_pages": [
     {
       "paper_number": "01",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-20&paperName=zggfb&paperNumber=01",
-      "links": 71,
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-23&paperName=zggfb&paperNumber=01",
+      "links": 73,
       "article_links": 4
     },
     {
       "paper_number": "02",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-20&paperName=zggfb&paperNumber=02",
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-23&paperName=zggfb&paperNumber=02",
       "links": 71,
-      "article_links": 3
+      "article_links": 4
     },
     {
       "paper_number": "03",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-20&paperName=zggfb&paperNumber=03",
-      "links": 71,
-      "article_links": 5
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-23&paperName=zggfb&paperNumber=03",
+      "links": 69,
+      "article_links": 4
     },
     {
       "paper_number": "04",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-20&paperName=zggfb&paperNumber=04",
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-23&paperName=zggfb&paperNumber=04",
       "links": 67,
-      "article_links": 2
+      "article_links": 3
     }
   ],
   "candidates": [
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-20&paperNumber=01&articleid=990752",
-      "anchor_title": "纸短情长赤子心"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-23&paperNumber=01&articleid=990946",
+      "anchor_title": "从同城同名到同心同行"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-20&paperNumber=01&articleid=990751",
-      "anchor_title": "一岸芦花白 老兵重聚首"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-23&paperNumber=01&articleid=990945",
+      "anchor_title": "实景实训锤炼实战本领"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-20&paperNumber=01&articleid=990753",
-      "anchor_title": "闲置老屋“重生”记"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-23&paperNumber=01&articleid=990948",
+      "anchor_title": "“迷彩摊位”亮相古城夜市"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-20&paperNumber=01&articleid=990754",
-      "anchor_title": "多管齐下夯实战斗力根基"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-23&paperNumber=01&articleid=990950",
+      "anchor_title": "“绿色通道”打通维权堵点"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-20&paperNumber=02&articleid=990762",
-      "anchor_title": "421位老兵有了“红色档案”"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-23&paperNumber=02&articleid=990955",
+      "anchor_title": "“带你们‘回家’”"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-20&paperNumber=02&articleid=990763",
-      "anchor_title": "“小家珍藏”成为“大家记忆”"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-23&paperNumber=02&articleid=990956",
+      "anchor_title": "扎根乡土的“参田愚公”"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-20&paperNumber=02&articleid=990764",
-      "anchor_title": "“迷彩绿”守护“生态绿”"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-23&paperNumber=02&articleid=990958",
+      "anchor_title": "考出真本事 补齐薄弱项"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-20&paperNumber=03&articleid=990756",
-      "anchor_title": "四平的秋天"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-23&paperNumber=02&articleid=990959",
+      "anchor_title": "打通偏远海岛救援“生命通道”"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-20&paperNumber=03&articleid=990757",
-      "anchor_title": "“生是为中国，死是为中国”"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-23&paperNumber=03&articleid=990952",
+      "anchor_title": "从“路桥工匠”到“后备尖兵”"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-20&paperNumber=03&articleid=990758",
-      "anchor_title": "伯父的“三件宝”"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-23&paperNumber=03&articleid=990951",
+      "anchor_title": "教学楼顶变身“航母甲板”"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-20&paperNumber=03&articleid=990759",
-      "anchor_title": "柿子红了"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-23&paperNumber=03&articleid=990953",
+      "anchor_title": "让有故事的人讲故事"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-20&paperNumber=03&articleid=990760",
-      "anchor_title": "层林尽染"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-23&paperNumber=03&articleid=990954",
+      "anchor_title": "“焯冉哥哥，生日快乐”"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-20&paperNumber=04&articleid=990766",
-      "anchor_title": "英海军加快构建“混合舰队”"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-23&paperNumber=04&articleid=990961",
+      "anchor_title": "法国加快核力量换代步伐"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-20&paperNumber=04&articleid=990767",
-      "anchor_title": "北约优化反无人机系统采购流程"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-23&paperNumber=04&articleid=990960",
+      "anchor_title": "波兰扩军进程遇挫"
+    },
+    {
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-23&paperNumber=04&articleid=990962",
+      "anchor_title": "欧盟三国联合采购反坦克导弹"
     }
   ]
 }
