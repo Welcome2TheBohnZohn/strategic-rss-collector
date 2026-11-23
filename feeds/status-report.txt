@@ -1,5 +1,5 @@
 Strategic RSS Collector Status
-Generated: 2026-11-22 19:55:17 UTC
+Generated: 2026-11-23 07:55:49 UTC
 
 Status meanings:
 OK = Feed contains one or more items
@@ -119,7 +119,7 @@ FAILED = Source could not be retrieved
   Start URL: https://www.sastind.gov.cn/
   Resolved URL: https://www.sastind.gov.cn/
   HTTP: 200
-  Links discovered: 68
+  Links discovered: 69
   Candidate links/items: 50
   Attempted items/articles: 12
   Items/articles with text: 12
@@ -302,7 +302,7 @@ Call log:
   Start URL: https://journal.nudt.edu.cn/
   Resolved URL: http://journal.nudt.edu.cn/
   HTTP: 200
-  Links discovered: 1983
+  Links discovered: 1993
   Candidate links/items: 50
   Attempted items/articles: 12
   Items/articles with text: 12
@@ -313,21 +313,22 @@ Call log:
   Max retries: 1
   Retry backoff: 1s
 
-[OK] ncpssd-cn - National Center for Philosophy and Social Sciences Documentation
+[FAILED] ncpssd-cn - National Center for Philosophy and Social Sciences Documentation
   Source type: html
   Start URL: https://www.ncpssd.cn/
   Resolved URL: https://www.ncpssd.cn/
-  HTTP: 200
-  Links discovered: 195
-  Candidate links/items: 50
-  Attempted items/articles: 33
-  Items/articles with text: 12
-  Items/articles with dates: 12
-  RSS feed items: 12
+  HTTP: None
+  Links discovered: 0
+  Candidate links/items: 0
+  Attempted items/articles: 0
+  Items/articles with text: 0
+  Items/articles with dates: 0
+  RSS feed items: 0
   SSL verification: ON
   Request timeout: 12s
   Max retries: 1
   Retry backoff: 1s
+  Error: https://www.ncpssd.cn/ -> ReadTimeout: HTTPSConnectionPool(host='www.ncpssd.cn', port=443): Read timed out. (read timeout=12)
 
 [OK] stats-cn - National Bureau of Statistics of China
   Source type: html
@@ -362,7 +363,7 @@ Call log:
   Retry backoff: 1s
 
 SUMMARY
-Working: 21
+Working: 20
 Fetched but no items: 0
-Failed: 1
+Failed: 2
 Total sources: 22
