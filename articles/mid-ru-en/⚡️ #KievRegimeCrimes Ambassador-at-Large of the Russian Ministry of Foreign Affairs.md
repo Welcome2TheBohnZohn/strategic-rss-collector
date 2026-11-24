@@ -1,32 +1,47 @@
 # ⚡️ #KievRegimeCrimes Ambassador-at-Large of the Russian Ministry of Foreign Affairs
 
-Published: 2026-11-21 11:00:59
+Published: 2026-11-23 11:00:01
 
-Source: https://t.me/MFARussia/33513
+Source: https://t.me/MFARussia/33547
 
 #KievRegimeCrimes
 ⚡️
 Ambassador-at-Large of the Russian Ministry of Foreign Affairs
 Rodion Miroshnik
 :
+PHOTO FACTS & EVIDENCE of crimes committed by Ukrainian armed forces over the week of
+November 16-22, 2026
+:
 ▪️
-The death toll from
-the AFU attack
-on the village of Yubileynoye near Lugansk has risen to six civilians.
-According to
-local authorities
-, the search and rescue operation in Yubileynoye, which lasted more than 24 hours, has been completed:
-Russia's EMERCOM personnel
-recovered the bodies of three more victims from the rubble – a 13-year-old girl and her mother, as well as an elderly woman.
-The barbaric strike by neo-Nazis on residential buildings in the village claimed a total of six lives, including the mother and two adult brothers of eight-year-old Polina, who was rescued.
-Eight-year-old Polina has been transferred to the Pirogov Clinic in Moscow
-, where she is receiving specialised medical care.
-Five more civilians were injured
-and are currently receiving medical treatment.
-❗️
-The Ukrainian militants carried out
-a deliberate terrorist strike on a peaceful neighbourhood on the outskirts of Lugansk
-while local residents were asleep.
-The attack left
-11 civilians dead or injured
-, with dozens of residential buildings and civilian facilities damaged or destroyed.
+November 16
+– a UAV struck a civilian lorry in Belgorod.
+▪️
+November 16
+– a UAV struck a scheduled bus on the Chernigovka-Berdyansk route near the village of Bogdanovka, Zaporozhye Region.
+Three civilians were injured.
+▪️
+November 17
+– a combined missile and drone attack damaged the Crimean Bridge, which links the Republic of Crimea and Krasnodar Territory.
+▪️
+November 17
+– a UAV struck a midwifery clinic run by Gornostayevka Central District Hospital in Gornostayevka, Kherson Region.
+▪️
+November 17
+– a UAV struck an EMERCOM vehicle in Kremennaya, LPR.
+▪️
+November 18
+– one of the remotely deployed explosive devices found in Kakhovka Municipal District, Kherson Region.
+▪️
+November 19
+– a UAV struck an ambulance on the Novaya Astrakhan – Novopokrovka road in Kremennaya Municipal District, LPR.
+▪️
+November 19
+– the aftermath of a large-scale attack on residential areas of Kursk.
+Eleven civilians were injured.
+▪️
+November 20
+– a UAV struck a residential building in Yubileiny, LPR.
+Six civilians were killed and six others were injured.
+▪️
+November 22
+– a UAV struck a civilian car in Gornostayevka, Kherson Region.

@@ -12,6 +12,8 @@ All links discovered: 171
 
 https://www.spacechina.com/n25/n2014789/n2014819/c3578292/content.html
   关于有关企业擅自将中国航天科技集团有限公司作为协办单位发布《2022中国（北京）国际航空航天技...
+https://www.spacechina.com/n25/n2014789/n2014804/c4763303/content.html
+  航天科技集团各级党组织深入学习贯彻习近平总书记对国有企业党的建设工作作出的重要指示精神
 https://www.spacechina.com/n25/n2014789/n2014809/c4758295/content.html
   航天科技九院704所质量成果在中央企业QC小组成果发表赛上获奖
 https://www.spacechina.com/n25/n2014789/n2014809/c4758381/content.html
@@ -70,8 +72,6 @@ https://www.spacechina.com/n25/n2014789/n2014804/c4750939/content.html
   长二丁运载火箭成功发射探源计划探路者卫星
 https://www.spacechina.com/n25/n2014789/n2014804/c4758419/content.html
   航天科技集团案例入选2026年全国...
-https://www.spacechina.com/n25/n2014789/n2014804/c4758401/content.html
-  航天科技集团优秀故事和AIGC创意...
 https://www.spacechina.com/n25/n2014789/n2014799/c4750183/content.html
   航天科技集团召开2026年度发展战...
 https://www.spacechina.com/n25/n2014789/n2014799/c4746423/content.html
@@ -234,6 +234,8 @@ https://www.spacechina.com/n25/n1995122/n1997293/index.html
   企业信息
 https://www.spacechina.com/n25/n1995122/n1997298/index.html
   人才招聘
+https://www.spacechina.com/n25/n2014789/n2014804/c4763303/content.html
+  航天科技集团各级党组织深入学习贯彻习近平总书记对国有企业党的建设工作作出的重要指示精神
 https://www.spacechina.com/n25/n2014789/n2014804/c4761683/content.html
   长八甲火箭成功发射卫星互联网低轨30组卫星
 https://www.spacechina.com/n25/n2014789/n2014804/c4759235/content.html
@@ -246,8 +248,6 @@ https://www.spacechina.com/n25/n2014789/n2014804/c4750939/content.html
   长二丁运载火箭成功发射探源计划探路者卫星
 https://www.spacechina.com/n25/n2014789/n2014804/c4758419/content.html
   航天科技集团案例入选2026年全国...
-https://www.spacechina.com/n25/n2014789/n2014804/c4758401/content.html
-  航天科技集团优秀故事和AIGC创意...
 https://www.spacechina.com/n25/n2014789/n2014799/c4759103/content.html
   航天科技集团党组理论学习中心组召开专题学习扩大会
 https://www.spacechina.com/n25/n2014789/n2014799/c4641081/content.html
