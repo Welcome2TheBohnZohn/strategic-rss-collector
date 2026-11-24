@@ -1,62 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Tue, 24 Nov 2026 00:09:05 +0000</lastBuildDate><item><title>CNNVD-2026-70827197 - keinsaas Navigator 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-70827197</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-70827197</guid><pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate><description>keinsaas Navigator 授权问题漏洞
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Tue, 24 Nov 2026 10:10:35 +0000</lastBuildDate><item><title>CNNVD-2026-92203188 - Dell Enterprise Sonic Distribution 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-92203188</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-92203188</guid><pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate><description>Dell Enterprise Sonic Distribution 缓冲区错误漏洞
 危害等级: 中危
-收录时间：2026-11-22 | 更新时间: 2026-11-23 16:35:49
-CNNVD编号: CNNVD-2026-70827197</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-70827197&lt;/p&gt;&lt;pre&gt;keinsaas Navigator 授权问题漏洞
+收录时间：2026-11-23 | 更新时间: 2026-11-24 15:10:00
+CNNVD编号: CNNVD-2026-92203188</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-92203188&lt;/p&gt;&lt;pre&gt;Dell Enterprise Sonic Distribution 缓冲区错误漏洞
 危害等级: 中危
-收录时间：2026-11-22 | 更新时间: 2026-11-23 16:35:49
-CNNVD编号: CNNVD-2026-70827197&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-80276070 - WordPress WP Media Folder SQL注入漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-80276070</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-80276070</guid><pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate><description>WordPress WP Media Folder SQL注入漏洞
+收录时间：2026-11-23 | 更新时间: 2026-11-24 15:10:00
+CNNVD编号: CNNVD-2026-92203188&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-52461259 - Dell Enterprise Sonic Distribution 命令注入漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-52461259</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-52461259</guid><pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate><description>Dell Enterprise Sonic Distribution 命令注入漏洞
 危害等级: 高危
-收录时间：2026-11-22 | 更新时间: 2026-11-23 16:36:16
-CNNVD编号: CNNVD-2026-80276070</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-80276070&lt;/p&gt;&lt;pre&gt;WordPress WP Media Folder SQL注入漏洞
+收录时间：2026-11-23 | 更新时间: 2026-11-24 15:10:00
+CNNVD编号: CNNVD-2026-52461259</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-52461259&lt;/p&gt;&lt;pre&gt;Dell Enterprise Sonic Distribution 命令注入漏洞
 危害等级: 高危
-收录时间：2026-11-22 | 更新时间: 2026-11-23 16:36:16
-CNNVD编号: CNNVD-2026-80276070&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-84173006 - David Eriksson Unshield 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-84173006</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-84173006</guid><pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate><description>David Eriksson Unshield 缓冲区错误漏洞
-危害等级: 中危
-收录时间：2026-11-22 | 更新时间: 2026-11-23 16:36:08
-CNNVD编号: CNNVD-2026-84173006</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-84173006&lt;/p&gt;&lt;pre&gt;David Eriksson Unshield 缓冲区错误漏洞
-危害等级: 中危
-收录时间：2026-11-22 | 更新时间: 2026-11-23 16:36:08
-CNNVD编号: CNNVD-2026-84173006&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-67714679 - WordPress Everest Forms 路径遍历漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-67714679</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-67714679</guid><pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate><description>WordPress Everest Forms 路径遍历漏洞
+收录时间：2026-11-23 | 更新时间: 2026-11-24 15:10:00
+CNNVD编号: CNNVD-2026-52461259&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-80775088 - Dell Enterprise Sonic Distribution 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-80775088</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-80775088</guid><pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate><description>Dell Enterprise Sonic Distribution 缓冲区错误漏洞
 危害等级: 高危
-收录时间：2026-11-22 | 更新时间: 2026-11-23 16:36:39
-CNNVD编号: CNNVD-2026-67714679</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-67714679&lt;/p&gt;&lt;pre&gt;WordPress Everest Forms 路径遍历漏洞
+收录时间：2026-11-23 | 更新时间: 2026-11-24 15:10:00
+CNNVD编号: CNNVD-2026-80775088</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-80775088&lt;/p&gt;&lt;pre&gt;Dell Enterprise Sonic Distribution 缓冲区错误漏洞
 危害等级: 高危
-收录时间：2026-11-22 | 更新时间: 2026-11-23 16:36:39
-CNNVD编号: CNNVD-2026-67714679&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-46286702 - WordPress Forminator Forms 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-46286702</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-46286702</guid><pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate><description>WordPress Forminator Forms 授权问题漏洞
-危害等级: 中危
-收录时间：2026-11-22 | 更新时间: 2026-11-23 16:36:15
-CNNVD编号: CNNVD-2026-46286702</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-46286702&lt;/p&gt;&lt;pre&gt;WordPress Forminator Forms 授权问题漏洞
-危害等级: 中危
-收录时间：2026-11-22 | 更新时间: 2026-11-23 16:36:15
-CNNVD编号: CNNVD-2026-46286702&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-34607328 - WordPress NextScripts 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-34607328</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-34607328</guid><pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate><description>WordPress NextScripts 跨站脚本漏洞
+收录时间：2026-11-23 | 更新时间: 2026-11-24 15:10:00
+CNNVD编号: CNNVD-2026-80775088&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-33435979 - Dell Enterprise Sonic Distribution 命令注入漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-33435979</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-33435979</guid><pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate><description>Dell Enterprise Sonic Distribution 命令注入漏洞
 危害等级: 高危
-收录时间：2026-11-22 | 更新时间: 2026-11-23 16:36:14
-CNNVD编号: CNNVD-2026-34607328</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-34607328&lt;/p&gt;&lt;pre&gt;WordPress NextScripts 跨站脚本漏洞
+收录时间：2026-11-23 | 更新时间: 2026-11-24 15:09:59
+CNNVD编号: CNNVD-2026-33435979</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-33435979&lt;/p&gt;&lt;pre&gt;Dell Enterprise Sonic Distribution 命令注入漏洞
 危害等级: 高危
-收录时间：2026-11-22 | 更新时间: 2026-11-23 16:36:14
-CNNVD编号: CNNVD-2026-34607328&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-58207009 - WordPress Event Tickets 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-58207009</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-58207009</guid><pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate><description>WordPress Event Tickets 跨站脚本漏洞
+收录时间：2026-11-23 | 更新时间: 2026-11-24 15:09:59
+CNNVD编号: CNNVD-2026-33435979&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-27675548 - Cribl Stream 代码注入漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-27675548</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-27675548</guid><pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate><description>Cribl Stream 代码注入漏洞
 危害等级: 高危
-收录时间：2026-11-22 | 更新时间: 2026-11-23 16:36:13
-CNNVD编号: CNNVD-2026-58207009</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-58207009&lt;/p&gt;&lt;pre&gt;WordPress Event Tickets 跨站脚本漏洞
+收录时间：2026-11-23 | 更新时间: 2026-11-24 15:09:53
+CNNVD编号: CNNVD-2026-27675548</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-27675548&lt;/p&gt;&lt;pre&gt;Cribl Stream 代码注入漏洞
 危害等级: 高危
-收录时间：2026-11-22 | 更新时间: 2026-11-23 16:36:13
-CNNVD编号: CNNVD-2026-58207009&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-99398009 - WordPress Themify Builder 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-99398009</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-99398009</guid><pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate><description>WordPress Themify Builder 跨站脚本漏洞
+收录时间：2026-11-23 | 更新时间: 2026-11-24 15:09:53
+CNNVD编号: CNNVD-2026-27675548&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-62217304 - Cribl Stream 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-62217304</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-62217304</guid><pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate><description>Cribl Stream 输入验证错误漏洞
 危害等级: 高危
-收录时间：2026-11-22 | 更新时间: 2026-11-23 16:36:11
-CNNVD编号: CNNVD-2026-99398009</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-99398009&lt;/p&gt;&lt;pre&gt;WordPress Themify Builder 跨站脚本漏洞
+收录时间：2026-11-23 | 更新时间: 2026-11-24 15:09:54
+CNNVD编号: CNNVD-2026-62217304</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-62217304&lt;/p&gt;&lt;pre&gt;Cribl Stream 输入验证错误漏洞
 危害等级: 高危
-收录时间：2026-11-22 | 更新时间: 2026-11-23 16:36:11
-CNNVD编号: CNNVD-2026-99398009&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-13412319 - WordPress Accept Stripe Payments 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-13412319</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-13412319</guid><pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate><description>WordPress Accept Stripe Payments 跨站脚本漏洞
+收录时间：2026-11-23 | 更新时间: 2026-11-24 15:09:54
+CNNVD编号: CNNVD-2026-62217304&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-66822643 - Cribl Edge 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-66822643</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-66822643</guid><pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate><description>Cribl Edge 授权问题漏洞
 危害等级: 高危
-收录时间：2026-11-22 | 更新时间: 2026-11-23 16:36:11
-CNNVD编号: CNNVD-2026-13412319</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-13412319&lt;/p&gt;&lt;pre&gt;WordPress Accept Stripe Payments 跨站脚本漏洞
+收录时间：2026-11-23 | 更新时间: 2026-11-24 15:09:53
+CNNVD编号: CNNVD-2026-66822643</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-66822643&lt;/p&gt;&lt;pre&gt;Cribl Edge 授权问题漏洞
 危害等级: 高危
-收录时间：2026-11-22 | 更新时间: 2026-11-23 16:36:11
-CNNVD编号: CNNVD-2026-13412319&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-99405076 - itsourcecode Banking Management System 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-99405076</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-99405076</guid><pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate><description>itsourcecode Banking Management System 输入验证错误漏洞
-危害等级: 低危
-收录时间：2026-11-22 | 更新时间: 2026-11-23 16:36:07
-CNNVD编号: CNNVD-2026-99405076</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-99405076&lt;/p&gt;&lt;pre&gt;itsourcecode Banking Management System 输入验证错误漏洞
-危害等级: 低危
-收录时间：2026-11-22 | 更新时间: 2026-11-23 16:36:07
-CNNVD编号: CNNVD-2026-99405076&lt;/pre&gt;</content:encoded></item></channel></rss>
+收录时间：2026-11-23 | 更新时间: 2026-11-24 15:09:53
+CNNVD编号: CNNVD-2026-66822643&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-14441792 - cdhigh KindleEar 代码注入漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-14441792</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-14441792</guid><pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate><description>cdhigh KindleEar 代码注入漏洞
+危害等级: 高危
+收录时间：2026-11-23 | 更新时间: 2026-11-24 15:09:45
+CNNVD编号: CNNVD-2026-14441792</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-14441792&lt;/p&gt;&lt;pre&gt;cdhigh KindleEar 代码注入漏洞
+危害等级: 高危
+收录时间：2026-11-23 | 更新时间: 2026-11-24 15:09:45
+CNNVD编号: CNNVD-2026-14441792&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-50146758 - Apache Perl 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-50146758</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-50146758</guid><pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate><description>Apache Perl 缓冲区错误漏洞
+危害等级: 超危
+收录时间：2026-11-23 | 更新时间: 2026-11-24 15:09:36
+CNNVD编号: CNNVD-2026-50146758</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-50146758&lt;/p&gt;&lt;pre&gt;Apache Perl 缓冲区错误漏洞
+危害等级: 超危
+收录时间：2026-11-23 | 更新时间: 2026-11-24 15:09:36
+CNNVD编号: CNNVD-2026-50146758&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-50128380 - Apache Perl 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-50128380</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-50128380</guid><pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate><description>Apache Perl 缓冲区错误漏洞
+危害等级: 超危
+收录时间：2026-11-23 | 更新时间: 2026-11-24 15:09:35
+CNNVD编号: CNNVD-2026-50128380</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-50128380&lt;/p&gt;&lt;pre&gt;Apache Perl 缓冲区错误漏洞
+危害等级: 超危
+收录时间：2026-11-23 | 更新时间: 2026-11-24 15:09:35
+CNNVD编号: CNNVD-2026-50128380&lt;/pre&gt;</content:encoded></item></channel></rss>

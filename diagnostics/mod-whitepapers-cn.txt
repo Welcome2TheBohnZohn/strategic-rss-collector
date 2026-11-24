@@ -6,7 +6,7 @@ Include regex: /gfbw/fgwx/bps/
 Include text regex: 
 
 Candidate links: 28
-All links discovered: 182
+All links discovered: 180
 
 === MATCHED CANDIDATES ===
 
@@ -295,12 +295,6 @@ http://www.mod.gov.cn/gfbw/fgwx/bps/4846424.html
   《新时代的中国国防》白皮书（全文） 2019-07-24 11:24
 http://www.mod.gov.cn/gfbw/qwfb/16501515.html
   习近平《在纪念孙中山先生诞辰160周年大会上的讲话》单行本出版
-http://www.mod.gov.cn/gfbw/qwfb/16500853.html
-  习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话
-http://www.mod.gov.cn/gfbw/sy/tt_214026/16500781.html
-  全文
-http://www.mod.gov.cn/gfbw/qwfb/yw_214049/16501004.html
-  国际社会高度评价
 http://www.mod.gov.cn/gfbw/qwfb/16501107.html
   习近平会见马来西亚总理安瓦尔
 http://www.mod.gov.cn/gfbw/qwfb/16501105.html
@@ -311,6 +305,8 @@ http://www.mod.gov.cn/gfbw/qwfb/16501073.html
   习近平会见澳大利亚总理阿尔巴尼斯
 http://www.mod.gov.cn/gfbw/qwfb/16501069.html
   习近平会见印度尼西亚总统普拉博沃
+http://www.mod.gov.cn/gfbw/qwfb/16500971.html
+  董军同英国国防大臣举行会谈
 http://www.mod.gov.cn/gfbw/spbb_214126/16501549.html
   还我净土——中国处理日本遗弃化学武器纪实
 http://www.mod.gov.cn/gfbw/spbb_214126/16495225.html

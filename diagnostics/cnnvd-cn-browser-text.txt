@@ -21,68 +21,68 @@ CNNVD动态
 重置
 收起 
 漏洞信息
-keinsaas Navigator 授权问题漏洞
+Dell Enterprise Sonic Distribution 缓冲区错误漏洞
 中危
-收录时间：2026-11-22
+收录时间：2026-11-23
 |
-更新时间: 2026-11-23 16:35:49
-CNNVD编号：CNNVD-2026-70827197
-WordPress WP Media Folder SQL注入漏洞
+更新时间: 2026-11-24 15:10:00
+CNNVD编号：CNNVD-2026-92203188
+Dell Enterprise Sonic Distribution 命令注入漏洞
 高危
-收录时间：2026-11-22
+收录时间：2026-11-23
 |
-更新时间: 2026-11-23 16:36:16
-CNNVD编号：CNNVD-2026-80276070
-David Eriksson Unshield 缓冲区错误漏洞
-中危
-收录时间：2026-11-22
-|
-更新时间: 2026-11-23 16:36:08
-CNNVD编号：CNNVD-2026-84173006
-WordPress Everest Forms 路径遍历漏洞
+更新时间: 2026-11-24 15:10:00
+CNNVD编号：CNNVD-2026-52461259
+Dell Enterprise Sonic Distribution 缓冲区错误漏洞
 高危
-收录时间：2026-11-22
+收录时间：2026-11-23
 |
-更新时间: 2026-11-23 16:36:39
-CNNVD编号：CNNVD-2026-67714679
-WordPress Forminator Forms 授权问题漏洞
-中危
-收录时间：2026-11-22
-|
-更新时间: 2026-11-23 16:36:15
-CNNVD编号：CNNVD-2026-46286702
-WordPress NextScripts 跨站脚本漏洞
+更新时间: 2026-11-24 15:10:00
+CNNVD编号：CNNVD-2026-80775088
+Dell Enterprise Sonic Distribution 命令注入漏洞
 高危
-收录时间：2026-11-22
+收录时间：2026-11-23
 |
-更新时间: 2026-11-23 16:36:14
-CNNVD编号：CNNVD-2026-34607328
-WordPress Event Tickets 跨站脚本漏洞
+更新时间: 2026-11-24 15:09:59
+CNNVD编号：CNNVD-2026-33435979
+Cribl Stream 代码注入漏洞
 高危
-收录时间：2026-11-22
+收录时间：2026-11-23
 |
-更新时间: 2026-11-23 16:36:13
-CNNVD编号：CNNVD-2026-58207009
-WordPress Themify Builder 跨站脚本漏洞
+更新时间: 2026-11-24 15:09:53
+CNNVD编号：CNNVD-2026-27675548
+Cribl Stream 输入验证错误漏洞
 高危
-收录时间：2026-11-22
+收录时间：2026-11-23
 |
-更新时间: 2026-11-23 16:36:11
-CNNVD编号：CNNVD-2026-99398009
-WordPress Accept Stripe Payments 跨站脚本漏洞
+更新时间: 2026-11-24 15:09:54
+CNNVD编号：CNNVD-2026-62217304
+Cribl Edge 授权问题漏洞
 高危
-收录时间：2026-11-22
+收录时间：2026-11-23
 |
-更新时间: 2026-11-23 16:36:11
-CNNVD编号：CNNVD-2026-13412319
-itsourcecode Banking Management System 输入验证错误漏洞
-低危
-收录时间：2026-11-22
+更新时间: 2026-11-24 15:09:53
+CNNVD编号：CNNVD-2026-66822643
+cdhigh KindleEar 代码注入漏洞
+高危
+收录时间：2026-11-23
 |
-更新时间: 2026-11-23 16:36:07
-CNNVD编号：CNNVD-2026-99405076
-共 422342 条
-12345642235
+更新时间: 2026-11-24 15:09:45
+CNNVD编号：CNNVD-2026-14441792
+Apache Perl 缓冲区错误漏洞
+超危
+收录时间：2026-11-23
+|
+更新时间: 2026-11-24 15:09:36
+CNNVD编号：CNNVD-2026-50146758
+Apache Perl 缓冲区错误漏洞
+超危
+收录时间：2026-11-23
+|
+更新时间: 2026-11-24 15:09:35
+CNNVD编号：CNNVD-2026-50128380
+共 422704 条
+12345642271
 前往页
 快速导航
 首页

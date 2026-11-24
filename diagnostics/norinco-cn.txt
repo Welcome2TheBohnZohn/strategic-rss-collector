@@ -46,8 +46,6 @@ http://www.norincogroup.com.cn/art/2026/11/20/art_85_580939.html
   电子院固态船用导航雷达为内河船舶装上“中国眼”
 http://www.norincogroup.com.cn/art/2026/11/18/art_85_580905.html
   北重集团北方股份推出NTE240E纯电动矿用车
-http://www.norincogroup.com.cn/art/2026/11/23/art_89_580938.html
-  电子院固态船用导航雷达为内河船舶装上“中国眼”
 http://www.norincogroup.com.cn/picture/0/1612081729425376498.png?cache=0.3793572778813541
   1612081729425376498.png
 http://www.norincogroup.com.cn/art/2026/9/20/art_96_576963.html
@@ -110,6 +108,8 @@ http://www.norincogroup.com.cn/module/jslib/urite/urite.min.js
   urite.min.js
 http://www.norincogroup.com.cn/images/1026/superfish.js
   superfish.js
+http://www.norincogroup.com.cn/images/1026/supersubs.js
+  supersubs.js
 
 === ALL DISCOVERED LINKS ===
 
@@ -191,8 +191,6 @@ http://www.norincogroup.com.cn/art/2026/11/12/art_85_580531.html
   北方公司在2026年“数据要素×”大赛全国总决赛...
 http://www.norincogroup.com.cn/art/2026/11/11/art_85_580530.html
   豫西集团中南钻石牵头制定的一项超硬磨料行业标准获...
-http://www.norincogroup.com.cn/art/2026/11/23/art_89_580938.html
-  电子院固态船用导航雷达为内河船舶装上“中国眼”
 http://www.norincogroup.com.cn/art/2026/11/20/art_89_580937.html
   “长鹰-8”，再次刷屏！
 https://www.xinhuanet.com/politics/20261117/aa7f41a57ec94a4883214110f2079b58/c.html
@@ -207,6 +205,8 @@ https://ysxw.cctv.cn/article.html?channelId=1119&item_id=16858989208464490248
   中国之声：“长鹰-8”从“自动运”向“智能投、投...
 http://paper.people.com.cn/rmrb/pc/content/202611/15/content_30191221.html
   《人民日报》：以高质量党建引领企业高质量发展　　...
+https://jjsb.cet.com.cn/show_545355.html
+  【进博会看兵器】《中国经济时报》：进博会进行时 ...
 http://www.sasac.gov.cn/n2588025/n2643314/c36110664/content.html
   国务院国资委党委传达学习贯彻党的二十届五中全会精...
 http://www.sasac.gov.cn/n2588025/n2643314/c36087840/content.html
