@@ -84,8 +84,12 @@ https://www.ncpssd.cn/message?id=18622
   积极助力现代公共文化服务体系建设 ——国家哲学社会科学文献中心走进贵州省“两会”
 https://www.ncpssd.cn/message?id=22523
   国家哲学社会科学文献中心入选2026年“携手构建网络空间命运共同体精品案例”
+https://www.ncpssd.cn/message?id=22683
+  习近平同巴基斯坦总统扎尔达里就中巴航天员执行联合飞行任务互致贺电
 https://www.ncpssd.cn/message?id=18580
   国家哲学社会科学文献中心为贵阳市“两会”提供学术资源服务
+https://www.ncpssd.cn/message?id=22681
+  习近平向“声援巴勒斯坦人民国际日”纪念大会致贺电
 https://www.ncpssd.cn/message?id=19563
   国家哲学社会科学文献中心发布最受欢迎期刊报告
 https://www.ncpssd.cn/message?id=19564
@@ -106,16 +110,12 @@ https://www.ncpssd.cn/js/sensorsdata.min.js
   sensorsdata.min.js
 https://www.ncpssd.cn/Literature/ancientbooklistNew
   ancientbooklistNew
-https://www.ncpssd.cn/message?id=22676
-  习近平会见澳大利亚总理阿尔巴尼斯
-https://www.ncpssd.cn/message?id=22675
-  习近平会见印度尼西亚总统普拉博沃
+https://www.ncpssd.cn/message?id=22682
+  习近平对党内法规工作作出重要指示
 https://www.ncpssd.cn/js/jquery.base64.js
   jquery.base64.js
 https://www.ncpssd.cn/searchHandler/getautocomplete
   getautocomplete
-https://www.ncpssd.cn/indexChangeBook
-  indexChangeBook
 
 === ALL DISCOVERED LINKS ===
 
@@ -159,16 +159,16 @@ https://www.ncpssd.cn/messages
 https://www.ncpssd.cn/message?id=22673
 https://www.ncpssd.cn/message?id=22515
 https://www.ncpssd.cn/message?id=22436
+https://www.ncpssd.cn/message?id=22683
+  习近平同巴基斯坦总统扎尔达里就中巴航天员执行联合飞行任务互致贺电
+https://www.ncpssd.cn/message?id=22682
+  习近平对党内法规工作作出重要指示
+https://www.ncpssd.cn/message?id=22681
+  习近平向“声援巴勒斯坦人民国际日”纪念大会致贺电
 https://www.ncpssd.cn/message?id=22679
   习近平会见马来西亚总理安瓦尔
 https://www.ncpssd.cn/message?id=22678
   习近平会见泰国总理阿努廷
-https://www.ncpssd.cn/message?id=22677
-  习近平会见新加坡总理黄循财
-https://www.ncpssd.cn/message?id=22676
-  习近平会见澳大利亚总理阿尔巴尼斯
-https://www.ncpssd.cn/message?id=22675
-  习近平会见印度尼西亚总统普拉博沃
 https://www.ncpssd.cn/message?id=22523
   国家哲学社会科学文献中心入选2026年“携手构建网络空间命运共同体精品案例”
 https://www.ncpssd.cn/message?id=19563

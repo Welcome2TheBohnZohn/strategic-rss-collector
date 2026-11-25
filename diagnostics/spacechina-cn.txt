@@ -6,7 +6,7 @@ Include regex: spacechina\.com/n25/n2014789/.+
 Include text regex: 
 
 Candidate links: 50
-All links discovered: 170
+All links discovered: 169
 
 === MATCHED CANDIDATES ===
 
@@ -70,6 +70,8 @@ https://www.spacechina.com/n25/n2014789/n2014799/c4746423/content.html
   航天科技集团召开传达学习贯彻党的二...
 https://www.spacechina.com/n25/n2014789/n2014799/c4743596/content.html
   航天科技集团党组传达学习贯彻党的二...
+https://www.spacechina.com/n25/n2014789/n2014804/c4764463/content.html
+  长二F火箭成功发射神舟二十四号载人飞船
 https://www.spacechina.com/n25/n2014789/n2014804/c4764137/content.html
   神舟二十四号11月25日8时18分发射
 https://www.spacechina.com/n25/n2014789/n2014809/c4761161/content.html
@@ -78,8 +80,6 @@ https://www.spacechina.com/n25/n2014789/n2014809/c4761195/content.html
   航天科技八院804所专项任务攻坚纪实
 https://www.spacechina.com/n25/n2014789/n2014804/c4759235/content.html
   长二丁火箭成功发射实践二十四号卫星
-https://www.spacechina.com/n25/n2014789/n2014804/c4760045/content.html
-  神舟二十四号船箭组合体转运至发射区
 https://www.spacechina.com/n25/n2014789/n2014804/c4764123/content.html
   首个中外联合飞行乘组亮相问天阁
 https://www.spacechina.com/n25/n2014789/n2014799/c4371521/content.html
@@ -234,6 +234,8 @@ https://www.spacechina.com/n25/n1995122/n1997293/index.html
   企业信息
 https://www.spacechina.com/n25/n1995122/n1997298/index.html
   人才招聘
+https://www.spacechina.com/n25/n2014789/n2014804/c4764463/content.html
+  长二F火箭成功发射神舟二十四号载人飞船
 https://www.spacechina.com/n25/n2014789/n2014804/c4764123/content.html
   首个中外联合飞行乘组亮相问天阁
 https://www.spacechina.com/n25/n2014789/n2014804/c4764137/content.html
@@ -242,8 +244,6 @@ https://www.spacechina.com/n25/n2014789/n2014804/c4761683/content.html
   长八甲火箭成功发射卫星互联网低轨30组卫星
 https://www.spacechina.com/n25/n2014789/n2014804/c4759235/content.html
   长二丁火箭成功发射实践二十四号卫星
-https://www.spacechina.com/n25/n2014789/n2014804/c4760045/content.html
-  神舟二十四号船箭组合体转运至发射区
 https://www.spacechina.com/n25/n2014789/n2014804/c4763303/content.html
   航天科技集团各级党组织深入学习贯彻...
 https://www.spacechina.com/n25/n2014789/n2014799/c4759103/content.html
@@ -306,33 +306,32 @@ https://www.spacechina.com/n25/n2014789/n2014814/c4547665/content.html
   援纳米比亚卫星地面数据接收站和处理系统建设项目正式移交
 https://www.spacechina.com/n25/n2014789/n2014814/c4533791/content.html
   航天科技集团长征国际亮相阿布扎比无人系统展
+https://www.news.cn/photo/20261125/077d13a18aa340d994a7d626eeb6f5bf/c.html
+  新华社：神舟二十四号载人飞船发射取得圆满成功
 https://www.stdaily.com/web/gdxw/2026-11/09/content_610578.html
 https://www.stdaily.com/web/gdxw/2026-11/06/content_609294.html
 https://mp.weixin.qq.com/s/8uGEWzDEcGXrIa2Z-AM0sQ
 https://mp.weixin.qq.com/s/w005xSm2_xt7O8Fp3TcffQ
 https://mp.weixin.qq.com/s/lxhF_k_4B92kP4EovY77yQ
-https://mp.weixin.qq.com/s/Sp6vBhWNvf-INQQ4RUtJNw
-https://mp.weixin.qq.com/s/x9yGRhfGOTbr01NE64NkrQ
-  科技日报：长八甲火箭成功发射卫星互联网低轨30组卫星
-https://www.news.cn/tech/20261119/cffcaa6be0404352812393d794399944/c.html
-  新华社：我国成功发射实践二十四号卫星
-https://mp.weixin.qq.com/s/GB7OKVe20QRu9WJNuQc5aw
-  科技日报：就位！近日择机发射
+http://finance.people.com.cn/n1/2026/1125/c1004-40839834.html
+  人民网：出发！神舟二十四号航天员乘组领命出征
+https://app.xinhuanet.com/news/article.html?articleId=20261125d3fb5a9c7c75402194cea00edda80ed7&timestamp=81578
+  新华社：60秒回顾神舟二十四号发射精彩瞬间
 http://www.sasac.gov.cn/n2588025/n2643314/c35392672/content.html
 http://www.sasac.gov.cn/n2588025/n2643314/c35351188/content.html
 http://www.sasac.gov.cn/n2588025/n2643314/c34380965/content.html
 http://www.sasac.gov.cn/n2588025/n2643314/c34041102/content.html
 http://www.sasac.gov.cn/n2588025/n2643314/c33954662/content.html
 http://www.sasac.gov.cn/n2588025/n2643314/c33667926/content.html
+http://www.sasac.gov.cn/n2588025/n2643314/c36244487/content.html
+  中央企业和地方国资国企社会责任蓝皮书发布会在京举办
 http://www.sasac.gov.cn/n2588025/n2643314/c36230535/content.html
   程福波到中国南水北调、中国能建基层单位宣讲党的二十届五中全会...
 http://www.sasac.gov.cn/n2588020/n2877938/n2879597/n2879599/c36221539/content.html
   国务院国资委党委举行国资央企学习贯彻党的二十届五中全会精神宣...
-http://www.sasac.gov.cn/n4470048/n35313464/n36170294/index.html
-  深入学习贯彻习近平总书记对国有企业党的建设工作作出的重要指示...
+http://zhuanti.spacechina.com/n4762785/
 http://zhuanti.spacechina.com/n4751523/index.html
 http://zhuanti.spacechina.com/n4716421/index.html
-http://zhuanti.spacechina.com/n4615143/index.html
 https://www.spacechina.com/n25/n2014789/n2014819/c4743261/content.html
   中国航天科技集团有限公司2027年研究生招生专业目录发布
 https://www.spacechina.com/n25/n2014789/n2014819/c4707383/content.html

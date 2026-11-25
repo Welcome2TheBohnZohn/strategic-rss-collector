@@ -1,44 +1,42 @@
 Strategic RSS Collector Status
-Generated: 2026-11-24 23:25:33 UTC
+Generated: 2026-11-25 08:53:00 UTC
 
 Status meanings:
 OK = Feed contains one or more items
 FETCHED/NO ITEMS = Source loaded but no usable items were extracted
 FAILED = Source could not be retrieved
 
-[FAILED] mod-cn - China Ministry of National Defense
+[OK] mod-cn - China Ministry of National Defense
   Source type: html
   Start URL: https://www.mod.gov.cn/
-  Resolved URL: https://www.mod.gov.cn/
-  HTTP: None
-  Links discovered: 0
-  Candidate links/items: 0
-  Attempted items/articles: 0
-  Items/articles with text: 0
-  Items/articles with dates: 0
-  RSS feed items: 0
+  Resolved URL: http://www.mod.gov.cn/
+  HTTP: 200
+  Links discovered: 245
+  Candidate links/items: 50
+  Attempted items/articles: 12
+  Items/articles with text: 12
+  Items/articles with dates: 12
+  RSS feed items: 12
   SSL verification: OFF
   Request timeout: 12s
   Max retries: 1
   Retry backoff: 1s
-  Error: https://www.mod.gov.cn/ -> ConnectionError: HTTPSConnectionPool(host='www.mod.gov.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError("HTTPSConnection(host='www.mod.gov.cn', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable")) | http://www.mod.gov.cn/ -> ConnectionError: HTTPConnectionPool(host='www.mod.gov.cn', port=80): Max retries exceeded with url: / (Caused by NewConnectionError("HTTPConnection(host='www.mod.gov.cn', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable"))
 
-[FAILED] 81-cn - China Military Network 81.cn
+[OK] 81-cn - China Military Network 81.cn
   Source type: html
   Start URL: http://www.81.cn/?big=jian
   Resolved URL: http://www.81.cn/?big=jian
-  HTTP: None
-  Links discovered: 0
-  Candidate links/items: 0
-  Attempted items/articles: 0
-  Items/articles with text: 0
-  Items/articles with dates: 0
-  RSS feed items: 0
+  HTTP: 200
+  Links discovered: 531
+  Candidate links/items: 50
+  Attempted items/articles: 12
+  Items/articles with text: 12
+  Items/articles with dates: 12
+  RSS feed items: 12
   SSL verification: ON
   Request timeout: 30s
   Max retries: 4
   Retry backoff: 5s
-  Error: http://www.81.cn/?big=jian -> ConnectionError: HTTPConnectionPool(host='www.81.cn', port=80): Max retries exceeded with url: /?big=jian (Caused by NewConnectionError("HTTPConnection(host='www.81.cn', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | http://www.81.cn/ -> ConnectionError: HTTPConnectionPool(host='www.81.cn', port=80): Max retries exceeded with url: / (Caused by NewConnectionError("HTTPConnection(host='www.81.cn', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")) | https://www.81.cn/?big=jian -> ConnectionError: HTTPSConnectionPool(host='www.81.cn', port=443): Max retries exceeded with url: /?big=jian (Caused by NewConnectionError("HTTPSConnection(host='www.81.cn', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable")) | https://www.81.cn/ -> ConnectionError: HTTPSConnectionPool(host='www.81.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError("HTTPSConnection(host='www.81.cn', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
 
 [OK] mil-ru-en - Russian Ministry of Defence English - Official Telegram
   Source type: telegram
@@ -68,39 +66,37 @@ FAILED = Source could not be retrieved
   Max retries: 1
   Retry backoff: 1s
 
-[FAILED] mod-whitepapers-cn - China MOD Defense White Papers
+[OK] mod-whitepapers-cn - China MOD Defense White Papers
   Source type: html
   Start URL: https://www.mod.gov.cn/gfbw/fgwx/bps/index.html
-  Resolved URL: https://www.mod.gov.cn/gfbw/fgwx/bps/index.html
-  HTTP: None
-  Links discovered: 0
-  Candidate links/items: 0
-  Attempted items/articles: 0
-  Items/articles with text: 0
-  Items/articles with dates: 0
-  RSS feed items: 0
+  Resolved URL: http://www.mod.gov.cn/gfbw/fgwx/bps/index.html
+  HTTP: 200
+  Links discovered: 180
+  Candidate links/items: 28
+  Attempted items/articles: 12
+  Items/articles with text: 12
+  Items/articles with dates: 12
+  RSS feed items: 12
   SSL verification: OFF
   Request timeout: 12s
   Max retries: 1
   Retry backoff: 1s
-  Error: https://www.mod.gov.cn/gfbw/fgwx/bps/index.html -> ConnectionError: HTTPSConnectionPool(host='www.mod.gov.cn', port=443): Max retries exceeded with url: /gfbw/fgwx/bps/index.html (Caused by NewConnectionError("HTTPSConnection(host='www.mod.gov.cn', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable")) | http://www.mod.gov.cn/gfbw/fgwx/bps/index.html -> ConnectionError: HTTPConnectionPool(host='www.mod.gov.cn', port=80): Max retries exceeded with url: /gfbw/fgwx/bps/index.html (Caused by NewConnectionError("HTTPConnection(host='www.mod.gov.cn', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable"))
 
-[FAILED] mod-laws-cn - China MOD Laws and Regulations
+[OK] mod-laws-cn - China MOD Laws and Regulations
   Source type: html
   Start URL: https://www.mod.gov.cn/gfbw/fgwx/flfg/index.html
-  Resolved URL: https://www.mod.gov.cn/gfbw/fgwx/flfg/index.html
-  HTTP: None
-  Links discovered: 0
-  Candidate links/items: 0
-  Attempted items/articles: 0
-  Items/articles with text: 0
-  Items/articles with dates: 0
-  RSS feed items: 0
+  Resolved URL: http://www.mod.gov.cn/gfbw/fgwx/flfg/index.html
+  HTTP: 200
+  Links discovered: 173
+  Candidate links/items: 31
+  Attempted items/articles: 12
+  Items/articles with text: 12
+  Items/articles with dates: 12
+  RSS feed items: 12
   SSL verification: OFF
   Request timeout: 12s
   Max retries: 1
   Retry backoff: 1s
-  Error: https://www.mod.gov.cn/gfbw/fgwx/flfg/index.html -> ConnectionError: HTTPSConnectionPool(host='www.mod.gov.cn', port=443): Max retries exceeded with url: /gfbw/fgwx/flfg/index.html (Caused by NewConnectionError("HTTPSConnection(host='www.mod.gov.cn', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable")) | http://www.mod.gov.cn/gfbw/fgwx/flfg/index.html -> ConnectionError: HTTPConnectionPool(host='www.mod.gov.cn', port=80): Max retries exceeded with url: /gfbw/fgwx/flfg/index.html (Caused by NewConnectionError("HTTPConnection(host='www.mod.gov.cn', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable"))
 
 [OK] npc-defense-laws-cn - National People's Congress Defense-Related Laws
   Source type: npc
@@ -118,29 +114,28 @@ FAILED = Source could not be retrieved
   Max retries: 2
   Retry backoff: 3s
 
-[FAILED] sastind-cn - SASTIND
+[OK] sastind-cn - SASTIND
   Source type: html
   Start URL: https://www.sastind.gov.cn/
   Resolved URL: https://www.sastind.gov.cn/
-  HTTP: None
-  Links discovered: 0
-  Candidate links/items: 0
-  Attempted items/articles: 0
-  Items/articles with text: 0
-  Items/articles with dates: 0
-  RSS feed items: 0
+  HTTP: 200
+  Links discovered: 69
+  Candidate links/items: 50
+  Attempted items/articles: 12
+  Items/articles with text: 12
+  Items/articles with dates: 12
+  RSS feed items: 12
   SSL verification: ON
   Request timeout: 12s
   Max retries: 1
   Retry backoff: 1s
-  Error: https://www.sastind.gov.cn/ -> ReadTimeout: HTTPSConnectionPool(host='www.sastind.gov.cn', port=443): Read timed out. (read timeout=12)
 
 [OK] mid-ru-en - Russian Ministry of Foreign Affairs English - Official Telegram
   Source type: telegram
   Start URL: https://t.me/s/MFARussia
   Resolved URL: https://t.me/s/MFARussia
   HTTP: 200
-  Attempted items/articles: 16
+  Attempted items/articles: 12
   Items/articles with text: 12
   Items/articles with dates: 12
   RSS feed items: 12
@@ -230,7 +225,7 @@ FAILED = Source could not be retrieved
   Start URL: https://www.spacechina.com/n25/n2014789/index.html
   Resolved URL: https://www.spacechina.com/n25/n2014789/index.html
   HTTP: 200
-  Links discovered: 170
+  Links discovered: 169
   Candidate links/items: 50
   Attempted items/articles: 12
   Items/articles with text: 12
@@ -270,22 +265,21 @@ Call log:
   - navigating to "https://www.plap.mil.cn/", waiting until "domcontentloaded"
 
 
-[FAILED] china-defense-news-cn - China National Defense News
+[OK] china-defense-news-cn - China National Defense News
   Source type: newspaper
   Start URL: http://www.81.cn/szb_223187/gfbszblb/index.html
-  Resolved URL: None
-  HTTP: None
-  Links discovered: 0
-  Candidate links/items: 0
-  Attempted items/articles: 0
-  Items/articles with text: 0
-  Items/articles with dates: 0
-  RSS feed items: 0
+  Resolved URL: http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-25&paperName=zggfb&paperNumber=01
+  HTTP: 200
+  Links discovered: 284
+  Candidate links/items: 15
+  Attempted items/articles: 12
+  Items/articles with text: 12
+  Items/articles with dates: 12
+  RSS feed items: 12
   SSL verification: ON
   Request timeout: 30s
   Max retries: 4
   Retry backoff: 5s
-  Error: No rendered China National Defense News issue with article links was found in the last 14 days.
 
 [OK] gfbzb-laws-cn - China Military Recruitment Laws and Regulations
   Source type: html
@@ -308,7 +302,7 @@ Call log:
   Start URL: https://journal.nudt.edu.cn/
   Resolved URL: http://journal.nudt.edu.cn/
   HTTP: 200
-  Links discovered: 1993
+  Links discovered: 1994
   Candidate links/items: 50
   Attempted items/articles: 12
   Items/articles with text: 12
@@ -326,7 +320,7 @@ Call log:
   HTTP: 200
   Links discovered: 195
   Candidate links/items: 50
-  Attempted items/articles: 33
+  Attempted items/articles: 39
   Items/articles with text: 12
   Items/articles with dates: 12
   RSS feed items: 12
@@ -368,7 +362,7 @@ Call log:
   Retry backoff: 1s
 
 SUMMARY
-Working: 15
+Working: 21
 Fetched but no items: 0
-Failed: 7
+Failed: 1
 Total sources: 22
