@@ -1,91 +1,75 @@
 {
-  "issue_date": "2026-11-25",
+  "issue_date": "2026-11-26",
   "issue_pages": [
     {
       "paper_number": "01",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-25&paperName=zggfb&paperNumber=01",
-      "links": 67,
-      "article_links": 3
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-26&paperName=zggfb&paperNumber=01",
+      "links": 71,
+      "article_links": 4
     },
     {
       "paper_number": "02",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-25&paperName=zggfb&paperNumber=02",
-      "links": 77,
-      "article_links": 5
-    },
-    {
-      "paper_number": "03",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-25&paperName=zggfb&paperNumber=03",
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-26&paperName=zggfb&paperNumber=02",
       "links": 73,
       "article_links": 4
     },
     {
+      "paper_number": "03",
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-26&paperName=zggfb&paperNumber=03",
+      "links": 63,
+      "article_links": 1
+    },
+    {
       "paper_number": "04",
-      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-25&paperName=zggfb&paperNumber=04",
+      "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-26&paperName=zggfb&paperNumber=04",
       "links": 67,
-      "article_links": 3
+      "article_links": 2
     }
   ],
   "candidates": [
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-25&paperNumber=01&articleid=991096",
-      "anchor_title": "八百里沂蒙好戏连台"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-26&paperNumber=01&articleid=991179",
+      "anchor_title": "《全民国防教育“十五五”规划》"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-25&paperNumber=01&articleid=991097",
-      "anchor_title": "为了老兵的心愿"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-26&paperNumber=01&articleid=991178",
+      "anchor_title": "在雪域边关挥洒青春热血"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-25&paperNumber=01&articleid=991098",
-      "anchor_title": "使用场景拓展了 身份认同提升了"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-26&paperNumber=01&articleid=991180",
+      "anchor_title": "“小讲台”释放大能量"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-25&paperNumber=02&articleid=991109",
-      "anchor_title": "“这账本，明年接着记”"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-26&paperNumber=01&articleid=991182",
+      "anchor_title": "就《全民国防教育“十五五”规划》答记者问"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-25&paperNumber=02&articleid=991111",
-      "anchor_title": "“下次来，咱们当面销”"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-26&paperNumber=02&articleid=991185",
+      "anchor_title": "“这是咱桃花山的根”"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-25&paperNumber=02&articleid=991110",
-      "anchor_title": "村村有特色 振兴有妙招"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-26&paperNumber=02&articleid=991184",
+      "anchor_title": "漆韵传薪火 丹心映征程"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-25&paperNumber=02&articleid=991113",
-      "anchor_title": "服务不断线 关爱暖兵心"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-26&paperNumber=02&articleid=991187",
+      "anchor_title": "共建互学 取长补短"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-25&paperNumber=02&articleid=991114",
-      "anchor_title": "为烈士画像 送烈士回家"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-26&paperNumber=02&articleid=991189",
+      "anchor_title": "辣椒红了 日子火了"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-25&paperNumber=03&articleid=991100",
-      "anchor_title": "疏散干道下穿滚滚长江"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-26&paperNumber=03&articleid=991183",
+      "anchor_title": "天山下的赤诚守望"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-25&paperNumber=03&articleid=991099",
-      "anchor_title": "“军供餐”香飘高速服务区"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-26&paperNumber=04&articleid=991190",
+      "anchor_title": "“鲁中歼灭战之空前范例”"
     },
     {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-25&paperNumber=03&articleid=991102",
-      "anchor_title": "居高声自远"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-25&paperNumber=03&articleid=991103",
-      "anchor_title": "随风潜入夜 润物细无声"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-25&paperNumber=04&articleid=991106",
-      "anchor_title": "美空军发布新版规划文件引关注"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-25&paperNumber=04&articleid=991107",
-      "anchor_title": "法国海军推出“理性混合舰队”构想"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-25&paperNumber=04&articleid=991105",
-      "anchor_title": "防务资讯"
+      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-26&paperNumber=04&articleid=991191",
+      "anchor_title": "见证革命斗志的半面红旗"
     }
   ]
 }

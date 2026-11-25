@@ -21,68 +21,68 @@ CNNVD动态
 重置
 收起 
 漏洞信息
-ABB System 800xA Batch Management 资源管理错误漏洞
+Apache Jena 输入验证错误漏洞
 中危
-收录时间：2026-11-24
+发布时间：2026-11-25
 |
-更新时间: 2026-11-25 16:32:02
-CNNVD编号：CNNVD-2026-30925548
-Acer Connect M6E 5G Portable WiFi Router 信息泄露漏洞
-中危
-收录时间：2026-11-24
+更新时间: 2026-11-25 16:33:03
+CNNVD编号：CNNVD-2026-47606945
+Acer Connect M6E 5G Portable WiFi Router 授权问题漏洞
+超危
+发布时间：2026-11-25
 |
 更新时间: 2026-11-25 16:32:03
-CNNVD编号：CNNVD-2026-37677208
-0PandaDEV Ziit 跨站请求伪造漏洞
+CNNVD编号：CNNVD-2026-10899229
+Apache Texera 授权问题漏洞
 高危
-收录时间：2026-11-24
+发布时间：2026-11-25
 |
-更新时间: 2026-11-25 16:32:02
-CNNVD编号：CNNVD-2026-64723002
-Adobe Experience Manager as a Cloud Service 跨站脚本漏洞
+更新时间: 2026-11-25 16:33:05
+CNNVD编号：CNNVD-2026-11922449
+ITG Bilgisayar Teknolojileri Grubu vSRM 授权问题漏洞
 中危
-收录时间：2026-11-24
+发布时间：2026-11-25
 |
-更新时间: 2026-11-25 16:32:33
-CNNVD编号：CNNVD-2026-41306450
-Adobe Experience Manager as a Cloud Service 跨站脚本漏洞
+更新时间: 2026-11-25 16:34:24
+CNNVD编号：CNNVD-2026-22771434
+Apache Texera 授权问题漏洞
+高危
+发布时间：2026-11-25
+|
+更新时间: 2026-11-25 16:33:06
+CNNVD编号：CNNVD-2026-35717524
+ITG Bilgisayar Teknolojileri Grubu vSRM 任意文件上传漏洞
 中危
-收录时间：2026-11-24
+发布时间：2026-11-25
 |
-更新时间: 2026-11-25 16:32:34
-CNNVD编号：CNNVD-2026-28538315
-Adobe Experience Manager as a Cloud Service 跨站脚本漏洞
+更新时间: 2026-11-25 16:34:24
+CNNVD编号：CNNVD-2026-48771746
+Apache Texera 授权问题漏洞
+高危
+发布时间：2026-11-25
+|
+更新时间: 2026-11-25 16:33:06
+CNNVD编号：CNNVD-2026-23048708
+HPE Morpheus Software 安全漏洞
+高危
+发布时间：2026-11-25
+|
+更新时间: 2026-11-25 16:34:21
+CNNVD编号：CNNVD-2026-52999891
+Apache Texera 授权问题漏洞
+超危
+发布时间：2026-11-25
+|
+更新时间: 2026-11-25 16:33:06
+CNNVD编号：CNNVD-2026-89563497
+ITG Bilgisayar Teknolojileri Grubu vSRM 跨站脚本漏洞
 中危
-收录时间：2026-11-24
+发布时间：2026-11-25
 |
-更新时间: 2026-11-25 16:32:57
-CNNVD编号：CNNVD-2026-33468460
-Adobe Experience Manager as a Cloud Service 跨站脚本漏洞
-中危
-收录时间：2026-11-24
-|
-更新时间: 2026-11-25 16:32:32
-CNNVD编号：CNNVD-2026-27795464
-Adobe Experience Manager as a Cloud Service 跨站脚本漏洞
-中危
-收录时间：2026-11-24
-|
-更新时间: 2026-11-25 16:32:28
-CNNVD编号：CNNVD-2026-50037681
-Adobe Experience Manager as a Cloud Service 跨站脚本漏洞
-中危
-收录时间：2026-11-24
-|
-更新时间: 2026-11-25 16:32:31
-CNNVD编号：CNNVD-2026-69504477
-Adobe Experience Manager as a Cloud Service 跨站脚本漏洞
-中危
-收录时间：2026-11-24
-|
-更新时间: 2026-11-25 16:32:36
-CNNVD编号：CNNVD-2026-64365508
-共 423332 条
-12345642334
+更新时间: 2026-11-25 16:34:24
+CNNVD编号：CNNVD-2026-79545067
+共 423536 条
+12345642354
 前往页
 快速导航
 首页
