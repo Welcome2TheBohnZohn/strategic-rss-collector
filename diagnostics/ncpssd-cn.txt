@@ -10,26 +10,26 @@ All links discovered: 195
 
 === MATCHED CANDIDATES ===
 
-https://www.ncpssd.cn/journal/secure/details?params=T044WkorenZDQVNMaHdjRklBd1BzdkVJUE8yTmpKZDFHMElFUUNUR0MyWT0
-  深圳大学学报：人文社会科学版 2026
-  / 5
 https://www.ncpssd.cn/topics/details?id=1107&wfColumn=1&resourceType=203
   研究阐释宣传 党的二十大和二十届 历次全会精神
-https://www.ncpssd.cn/journal/secure/details?params=SmlrRmllTUZCQzRub3QrQ2ZiZWJNUEVJUE8yTmpKZDFHMElFUUNUR0MyWT0
-  海洋通报：英文版 2026
-  / 1
-https://www.ncpssd.cn/journal/secure/details?params=VDNNcVRhVmk1OTV5Yks5RWorT3JYUEVJUE8yTmpKZDFHMElFUUNUR0MyWT0
-  中国社会科学 2026
-  / 9
-https://www.ncpssd.cn/journal/secure/details?params=czBaY2F3UFNwVUVWWlpJKzk2TlJyUEVJUE8yTmpKZDFHMElFUUNUR0MyWT0
-  海交史研究 2026
+https://www.ncpssd.cn/journal/secure/details?params=ajE3OW1oK0dia242YXhCU3F2dy8rdkVJUE8yTmpKZDFHMElFUUNUR0MyWT0
+  中国经济史研究 2026
+  / 6
+https://www.ncpssd.cn/journal/secure/details?params=UW5rUnB5eHpZUFRmTWRZZVhWRE95UEVJUE8yTmpKZDFHMElFUUNUR0MyWT0
+  现代国际关系 2026
+  / 10
+https://www.ncpssd.cn/journal/secure/details?params=Z1NzcjUrRy9PS2pzaTNkTk9pRWJmdkVJUE8yTmpKZDFHMElFUUNUR0MyWT0
+  国家图书馆学刊 2026
+  / 5
+https://www.ncpssd.cn/journal/secure/details?params=NkhocnFXdkdxK2lCREdPMHZXQ1J2UEVJUE8yTmpKZDFHMElFUUNUR0MyWT0
+  心理与行为研究 2026
+  / 5
+https://www.ncpssd.cn/journal/secure/details?params=MDZyMWlLYmgwb0d6WjhXaWtISUxEUEVJUE8yTmpKZDFHMElFUUNUR0MyWT0
+  生态文明研究 2026
+  / 5
+https://www.ncpssd.cn/journal/secure/details?params=MEx3MVd1VitqdnBrT3IrZmpWUVhRUEVJUE8yTmpKZDFHMElFUUNUR0MyWT0
+  外国文学研究 2026
   / 2
-https://www.ncpssd.cn/journal/secure/details?params=UDZGQ1VoanVvd0FFUFRNT3dpTldGL0VJUE8yTmpKZDFHMElFUUNUR0MyWT0
-  历史研究 2026
-  / 7
-https://www.ncpssd.cn/journal/secure/details?params=aklyT0ZzWldHVnQ0RHFEdHE1UUlmUEVJUE8yTmpKZDFHMElFUUNUR0MyWT0
-  求是 2026
-  / 20
 https://www.ncpssd.cn/topics/detailsList?id=1103&wfColumn=1&resourceType=0
   detailsList
 https://www.ncpssd.cn/Literature/articlelist?sType=0&search=KElLVEU9IuWkp+aVsOaNriIgT1IgSUtQWVRFPSLlpKfmlbDmja4iICBPUiBJS1NUPSLlpKfmlbDmja4iIE9SIElLRVQ9IuWkp+aVsOaNriIgT1IgSUtTRT0i5aSn5pWw5o2uIik=&searchname=6aKY5ZCNL+WFs+mUruivjT0i5aSn5pWw5o2uIg==&nav=0&nav=0&showBack=true
@@ -179,24 +179,24 @@ https://www.ncpssd.cn/message?id=18622
   积极助力现代公共文化服务体系建设 ——国家哲学社会科学文献中心走进贵州省“两会”
 https://www.ncpssd.cn/message?id=18580
   国家哲学社会科学文献中心为贵阳市“两会”提供学术资源服务
-https://www.ncpssd.cn/journal/secure/details?params=aklyT0ZzWldHVnQ0RHFEdHE1UUlmUEVJUE8yTmpKZDFHMElFUUNUR0MyWT0
-  求是 2026
-  / 20
-https://www.ncpssd.cn/journal/secure/details?params=VDNNcVRhVmk1OTV5Yks5RWorT3JYUEVJUE8yTmpKZDFHMElFUUNUR0MyWT0
-  中国社会科学 2026
-  / 9
-https://www.ncpssd.cn/journal/secure/details?params=UDZGQ1VoanVvd0FFUFRNT3dpTldGL0VJUE8yTmpKZDFHMElFUUNUR0MyWT0
-  历史研究 2026
-  / 7
-https://www.ncpssd.cn/journal/secure/details?params=T044WkorenZDQVNMaHdjRklBd1BzdkVJUE8yTmpKZDFHMElFUUNUR0MyWT0
-  深圳大学学报：人文社会科学版 2026
+https://www.ncpssd.cn/journal/secure/details?params=ajE3OW1oK0dia242YXhCU3F2dy8rdkVJUE8yTmpKZDFHMElFUUNUR0MyWT0
+  中国经济史研究 2026
+  / 6
+https://www.ncpssd.cn/journal/secure/details?params=MDZyMWlLYmgwb0d6WjhXaWtISUxEUEVJUE8yTmpKZDFHMElFUUNUR0MyWT0
+  生态文明研究 2026
   / 5
-https://www.ncpssd.cn/journal/secure/details?params=czBaY2F3UFNwVUVWWlpJKzk2TlJyUEVJUE8yTmpKZDFHMElFUUNUR0MyWT0
-  海交史研究 2026
+https://www.ncpssd.cn/journal/secure/details?params=UW5rUnB5eHpZUFRmTWRZZVhWRE95UEVJUE8yTmpKZDFHMElFUUNUR0MyWT0
+  现代国际关系 2026
+  / 10
+https://www.ncpssd.cn/journal/secure/details?params=Z1NzcjUrRy9PS2pzaTNkTk9pRWJmdkVJUE8yTmpKZDFHMElFUUNUR0MyWT0
+  国家图书馆学刊 2026
+  / 5
+https://www.ncpssd.cn/journal/secure/details?params=MEx3MVd1VitqdnBrT3IrZmpWUVhRUEVJUE8yTmpKZDFHMElFUUNUR0MyWT0
+  外国文学研究 2026
   / 2
-https://www.ncpssd.cn/journal/secure/details?params=SmlrRmllTUZCQzRub3QrQ2ZiZWJNUEVJUE8yTmpKZDFHMElFUUNUR0MyWT0
-  海洋通报：英文版 2026
-  / 1
+https://www.ncpssd.cn/journal/secure/details?params=NkhocnFXdkdxK2lCREdPMHZXQ1J2UEVJUE8yTmpKZDFHMElFUUNUR0MyWT0
+  心理与行为研究 2026
+  / 5
 https://www.ncpssd.cn/newlist?type=0
   查看更多
 https://www.ncpssd.cn/Literature/articlelist?sType=0&search=KElLVEU9IuWbveWutuWuieWFqCIgT1IgSUtQWVRFPSLlm73lrrblronlhagiICBPUiBJS1NUPSLlm73lrrblronlhagiIE9SIElLRVQ9IuWbveWutuWuieWFqCIgT1IgSUtTRT0i5Zu95a625a6J5YWoIik=&searchname=6aKY5ZCNL+WFs+mUruivjT0i5Zu95a625a6J5YWoIg==&nav=0&nav=0&showBack=true
@@ -321,12 +321,12 @@ https://ft.ncpssd.cn/image/get/npssd/column?url=img/1792719159650.jpg
 https://ft.ncpssd.cn/image/get/npssd/topic?url=img/1758001813519.jpg
 https://ft.ncpssd.cn/image/get/npssd/topic?url=img/1763085826266.jpg
 https://www.ncpssd.cn/images/word1.png
-https://ft.ncpssd.cn/image/get/qwcover/2026/20/91584X.jpg
-https://ft.ncpssd.cn/image/get/qwcover/2026/9/81908X.jpg
-https://ft.ncpssd.cn/image/get/qwcover/2026/7/81900X.jpg
-https://ft.ncpssd.cn/image/get/qwcover/2026/5/82022X.jpg
-https://ft.ncpssd.cn/image/get/qwcover/2026/2/83514X.jpg
-https://ft.ncpssd.cn/image/get/qwcover/2026/1/85383X.jpg
+https://ft.ncpssd.cn/image/get/qwcover/2026/6/91697X.jpg
+https://ft.ncpssd.cn/image/get/qwcover/2026/5/72005A.jpg
+https://ft.ncpssd.cn/image/get/qwcover/2026/10/81437X.jpg
+https://ft.ncpssd.cn/image/get/qwcover/2026/5/97924A.jpg
+https://ft.ncpssd.cn/image/get/qwcover/2026/2/82750X.jpg
+https://ft.ncpssd.cn/image/get/qwcover/2026/5/87994X.jpg
 https://www.ncpssd.cn/Literature/secure/articleinfo?params=YVViV2dhNVF0d200R1dJQjJqakpOS1JoNVlVYlRVdENpUGZUcnZXNGs0eWpDWVFkQkcvQldELzd1QklhQlRpNFRNQWcxM2pTQWVKYTJLMjQya3Y4YmkvNkFsSkxOTzdLQ0V2NmY4anBUUFVmandYaC9HOVBBUTQ1N1hYemZ6SSs
 https://www.ncpssd.cn/Literature/secure/articleinfo?params=MkpiZ2dsK3BncFA0VGRycnd6NnV2SWl5VjRRS2YzYmpJZ1d6QTJtRW1xMlUrMS90aDVKckRYYnJzcWhZZUZORnkrQjdhR2xITGdsaVRJTjFlWDlYbTNYMGF0b0kwREdicXhtWkRySTB6UloxVUhxMUFFVllXTWJLVjJjci9VZGY&synUpdateType=2
 https://www.ncpssd.cn/Literature/secure/articleinfo?params=K21yS2hJUHdTNERPWjlvQkNqd1hpZWoxMXNGanMvVXJ0RlBkUU0wTXNGV1UrMS90aDVKckRYYnJzcWhZZUZORnkrQjdhR2xITGdsaVRJTjFlWDlYbTNYMGF0b0kwREdicXhtWkRySTB6UloxVUhxMUFFVllXTWJLVjJjci9VZGY&synUpdateType=2

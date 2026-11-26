@@ -6,7 +6,7 @@ Include regex: /gfbw/fgwx/flfg/
 Include text regex: 
 
 Candidate links: 31
-All links discovered: 173
+All links discovered: 172
 
 === MATCHED CANDIDATES ===
 
@@ -305,18 +305,16 @@ http://www.mod.gov.cn/gfbw/fgwx/flfg/16126326.html
   中共中央　国务院　中央军委印发《关于加强和改进新时代全民国防教育工作的意见》 2022-09-01 18:22
 http://www.mod.gov.cn/gfbw/qwfb/16501919.html
   习近平同巴基斯坦总统扎尔达里就中巴航天员执行联合飞行任务互致贺电
-http://www.mod.gov.cn/gfbw/qwfb/16501515.html
-  习近平《在纪念孙中山先生诞辰160周年大会上的讲话》单行本出版
-http://www.mod.gov.cn/gfbw/qwfb/16501107.html
-  习近平会见马来西亚总理安瓦尔
-http://www.mod.gov.cn/gfbw/qwfb/16501105.html
-  习近平会见泰国总理阿努廷
-http://www.mod.gov.cn/gfbw/qwfb/16501087.html
-  习近平会见新加坡总理黄循财
-http://www.mod.gov.cn/gfbw/qwfb/16501073.html
-  习近平会见澳大利亚总理阿尔巴尼斯
-http://www.mod.gov.cn/gfbw/qwfb/16501069.html
-  习近平会见印度尼西亚总统普拉博沃
+http://www.mod.gov.cn/gfbw/qwfb/16501639.html
+  习近平向“声援巴勒斯坦人民国际日”纪念大会致贺电
+http://www.mod.gov.cn/gfbw/qwfb/16501865.html
+  中央宣传部、中央军委国防动员部联合印发《全民国防教育“十五五”规划》
+http://www.mod.gov.cn/gfbw/qwfb/16501866.html
+  答记者问
+http://www.mod.gov.cn/gfbw/qwfb/16502144.html
+  国防部介绍全军学习贯彻党的二十届五中全会精神宣讲团巡回宣讲情况
+http://www.mod.gov.cn/gfbw/qwfb/16502132.html
+  中国国防部长访问意大利、英国深化战略互信
 http://www.mod.gov.cn/gfbw/spbb_214126/16501549.html
   还我净土——中国处理日本遗弃化学武器纪实
 http://www.mod.gov.cn/gfbw/spbb_214126/16495225.html

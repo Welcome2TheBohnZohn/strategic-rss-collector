@@ -1,62 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Wed, 25 Nov 2026 21:56:30 +0000</lastBuildDate><item><title>CNNVD-2026-47606945 - Apache Jena 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-47606945</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-47606945</guid><description>Apache Jena 输入验证错误漏洞
-危害等级: 中危
-发布时间：2026-11-25 | 更新时间: 2026-11-25 16:33:03
-CNNVD编号: CNNVD-2026-47606945</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-47606945&lt;/p&gt;&lt;pre&gt;Apache Jena 输入验证错误漏洞
-危害等级: 中危
-发布时间：2026-11-25 | 更新时间: 2026-11-25 16:33:03
-CNNVD编号: CNNVD-2026-47606945&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-10899229 - Acer Connect M6E 5G Portable WiFi Router 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-10899229</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-10899229</guid><description>Acer Connect M6E 5G Portable WiFi Router 授权问题漏洞
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Thu, 26 Nov 2026 08:36:39 +0000</lastBuildDate><item><title>CNNVD-2026-75963508 - Eclipse Jetty 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75963508</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75963508</guid><description>Eclipse Jetty 资源管理错误漏洞
+危害等级: 高危
+发布时间：2026-11-26 | 更新时间: 2026-11-26 16:36:18
+CNNVD编号: CNNVD-2026-75963508</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75963508&lt;/p&gt;&lt;pre&gt;Eclipse Jetty 资源管理错误漏洞
+危害等级: 高危
+发布时间：2026-11-26 | 更新时间: 2026-11-26 16:36:18
+CNNVD编号: CNNVD-2026-75963508&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-69292134 - Linux kernel 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-69292134</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-69292134</guid><description>Linux kernel 安全漏洞
 危害等级: 超危
-发布时间：2026-11-25 | 更新时间: 2026-11-25 16:32:03
-CNNVD编号: CNNVD-2026-10899229</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-10899229&lt;/p&gt;&lt;pre&gt;Acer Connect M6E 5G Portable WiFi Router 授权问题漏洞
+发布时间：2026-11-26 | 更新时间: 2026-11-26 16:36:18
+CNNVD编号: CNNVD-2026-69292134</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-69292134&lt;/p&gt;&lt;pre&gt;Linux kernel 安全漏洞
 危害等级: 超危
-发布时间：2026-11-25 | 更新时间: 2026-11-25 16:32:03
-CNNVD编号: CNNVD-2026-10899229&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-11922449 - Apache Texera 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-11922449</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-11922449</guid><description>Apache Texera 授权问题漏洞
-危害等级: 高危
-发布时间：2026-11-25 | 更新时间: 2026-11-25 16:33:05
-CNNVD编号: CNNVD-2026-11922449</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-11922449&lt;/p&gt;&lt;pre&gt;Apache Texera 授权问题漏洞
-危害等级: 高危
-发布时间：2026-11-25 | 更新时间: 2026-11-25 16:33:05
-CNNVD编号: CNNVD-2026-11922449&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-22771434 - ITG Bilgisayar Teknolojileri Grubu vSRM 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22771434</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22771434</guid><description>ITG Bilgisayar Teknolojileri Grubu vSRM 授权问题漏洞
-危害等级: 中危
-发布时间：2026-11-25 | 更新时间: 2026-11-25 16:34:24
-CNNVD编号: CNNVD-2026-22771434</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-22771434&lt;/p&gt;&lt;pre&gt;ITG Bilgisayar Teknolojileri Grubu vSRM 授权问题漏洞
-危害等级: 中危
-发布时间：2026-11-25 | 更新时间: 2026-11-25 16:34:24
-CNNVD编号: CNNVD-2026-22771434&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-35717524 - Apache Texera 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-35717524</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-35717524</guid><description>Apache Texera 授权问题漏洞
-危害等级: 高危
-发布时间：2026-11-25 | 更新时间: 2026-11-25 16:33:06
-CNNVD编号: CNNVD-2026-35717524</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-35717524&lt;/p&gt;&lt;pre&gt;Apache Texera 授权问题漏洞
-危害等级: 高危
-发布时间：2026-11-25 | 更新时间: 2026-11-25 16:33:06
-CNNVD编号: CNNVD-2026-35717524&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-48771746 - ITG Bilgisayar Teknolojileri Grubu vSRM 任意文件上传漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-48771746</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-48771746</guid><description>ITG Bilgisayar Teknolojileri Grubu vSRM 任意文件上传漏洞
-危害等级: 中危
-发布时间：2026-11-25 | 更新时间: 2026-11-25 16:34:24
-CNNVD编号: CNNVD-2026-48771746</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-48771746&lt;/p&gt;&lt;pre&gt;ITG Bilgisayar Teknolojileri Grubu vSRM 任意文件上传漏洞
-危害等级: 中危
-发布时间：2026-11-25 | 更新时间: 2026-11-25 16:34:24
-CNNVD编号: CNNVD-2026-48771746&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-23048708 - Apache Texera 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-23048708</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-23048708</guid><description>Apache Texera 授权问题漏洞
-危害等级: 高危
-发布时间：2026-11-25 | 更新时间: 2026-11-25 16:33:06
-CNNVD编号: CNNVD-2026-23048708</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-23048708&lt;/p&gt;&lt;pre&gt;Apache Texera 授权问题漏洞
-危害等级: 高危
-发布时间：2026-11-25 | 更新时间: 2026-11-25 16:33:06
-CNNVD编号: CNNVD-2026-23048708&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-52999891 - HPE Morpheus Software 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-52999891</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-52999891</guid><description>HPE Morpheus Software 安全漏洞
-危害等级: 高危
-发布时间：2026-11-25 | 更新时间: 2026-11-25 16:34:21
-CNNVD编号: CNNVD-2026-52999891</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-52999891&lt;/p&gt;&lt;pre&gt;HPE Morpheus Software 安全漏洞
-危害等级: 高危
-发布时间：2026-11-25 | 更新时间: 2026-11-25 16:34:21
-CNNVD编号: CNNVD-2026-52999891&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-89563497 - Apache Texera 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-89563497</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-89563497</guid><description>Apache Texera 授权问题漏洞
+发布时间：2026-11-26 | 更新时间: 2026-11-26 16:36:18
+CNNVD编号: CNNVD-2026-69292134&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-36514824 - Linux kernel 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-36514824</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-36514824</guid><description>Linux kernel 安全漏洞
 危害等级: 超危
-发布时间：2026-11-25 | 更新时间: 2026-11-25 16:33:06
-CNNVD编号: CNNVD-2026-89563497</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-89563497&lt;/p&gt;&lt;pre&gt;Apache Texera 授权问题漏洞
+发布时间：2026-11-26 | 更新时间: 2026-11-26 16:36:19
+CNNVD编号: CNNVD-2026-36514824</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-36514824&lt;/p&gt;&lt;pre&gt;Linux kernel 安全漏洞
 危害等级: 超危
-发布时间：2026-11-25 | 更新时间: 2026-11-25 16:33:06
-CNNVD编号: CNNVD-2026-89563497&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-79545067 - ITG Bilgisayar Teknolojileri Grubu vSRM 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-79545067</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-79545067</guid><description>ITG Bilgisayar Teknolojileri Grubu vSRM 跨站脚本漏洞
-危害等级: 中危
-发布时间：2026-11-25 | 更新时间: 2026-11-25 16:34:24
-CNNVD编号: CNNVD-2026-79545067</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-79545067&lt;/p&gt;&lt;pre&gt;ITG Bilgisayar Teknolojileri Grubu vSRM 跨站脚本漏洞
-危害等级: 中危
-发布时间：2026-11-25 | 更新时间: 2026-11-25 16:34:24
-CNNVD编号: CNNVD-2026-79545067&lt;/pre&gt;</content:encoded></item></channel></rss>
+发布时间：2026-11-26 | 更新时间: 2026-11-26 16:36:19
+CNNVD编号: CNNVD-2026-36514824&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-34553498 - Linux kernel 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-34553498</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-34553498</guid><description>Linux kernel 安全漏洞
+危害等级: 超危
+发布时间：2026-11-26 | 更新时间: 2026-11-26 16:36:20
+CNNVD编号: CNNVD-2026-34553498</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-34553498&lt;/p&gt;&lt;pre&gt;Linux kernel 安全漏洞
+危害等级: 超危
+发布时间：2026-11-26 | 更新时间: 2026-11-26 16:36:20
+CNNVD编号: CNNVD-2026-34553498&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-95599074 - ASSA ABLOY Seawing SC-1000 WebConfig 命令注入漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-95599074</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-95599074</guid><description>ASSA ABLOY Seawing SC-1000 WebConfig 命令注入漏洞
+危害等级: 超危
+发布时间：2026-11-26 | 更新时间: 2026-11-26 16:36:21
+CNNVD编号: CNNVD-2026-95599074</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-95599074&lt;/p&gt;&lt;pre&gt;ASSA ABLOY Seawing SC-1000 WebConfig 命令注入漏洞
+危害等级: 超危
+发布时间：2026-11-26 | 更新时间: 2026-11-26 16:36:21
+CNNVD编号: CNNVD-2026-95599074&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-43169489 - Linux kernel 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-43169489</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-43169489</guid><description>Linux kernel 安全漏洞
+危害等级: 超危
+发布时间：2026-11-26 | 更新时间: 2026-11-26 16:36:21
+CNNVD编号: CNNVD-2026-43169489</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-43169489&lt;/p&gt;&lt;pre&gt;Linux kernel 安全漏洞
+危害等级: 超危
+发布时间：2026-11-26 | 更新时间: 2026-11-26 16:36:21
+CNNVD编号: CNNVD-2026-43169489&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-70578613 - Linux kernel 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-70578613</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-70578613</guid><description>Linux kernel 安全漏洞
+危害等级: 超危
+发布时间：2026-11-26 | 更新时间: 2026-11-26 16:36:22
+CNNVD编号: CNNVD-2026-70578613</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-70578613&lt;/p&gt;&lt;pre&gt;Linux kernel 安全漏洞
+危害等级: 超危
+发布时间：2026-11-26 | 更新时间: 2026-11-26 16:36:22
+CNNVD编号: CNNVD-2026-70578613&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-50770586 - Linux kernel 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-50770586</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-50770586</guid><description>Linux kernel 安全漏洞
+危害等级: 超危
+发布时间：2026-11-26 | 更新时间: 2026-11-26 16:36:22
+CNNVD编号: CNNVD-2026-50770586</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-50770586&lt;/p&gt;&lt;pre&gt;Linux kernel 安全漏洞
+危害等级: 超危
+发布时间：2026-11-26 | 更新时间: 2026-11-26 16:36:22
+CNNVD编号: CNNVD-2026-50770586&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-58375334 - İdeal Data Finansal Teknolojiler A.Ş iDeal WEB 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-58375334</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-58375334</guid><description>İdeal Data Finansal Teknolojiler A.Ş iDeal WEB 授权问题漏洞
+危害等级: 高危
+发布时间：2026-11-26 | 更新时间: 2026-11-26 16:36:23
+CNNVD编号: CNNVD-2026-58375334</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-58375334&lt;/p&gt;&lt;pre&gt;İdeal Data Finansal Teknolojiler A.Ş iDeal WEB 授权问题漏洞
+危害等级: 高危
+发布时间：2026-11-26 | 更新时间: 2026-11-26 16:36:23
+CNNVD编号: CNNVD-2026-58375334&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-74037666 - Linux kernel 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-74037666</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-74037666</guid><description>Linux kernel 安全漏洞
+危害等级: 超危
+发布时间：2026-11-26 | 更新时间: 2026-11-26 16:36:24
+CNNVD编号: CNNVD-2026-74037666</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-74037666&lt;/p&gt;&lt;pre&gt;Linux kernel 安全漏洞
+危害等级: 超危
+发布时间：2026-11-26 | 更新时间: 2026-11-26 16:36:24
+CNNVD编号: CNNVD-2026-74037666&lt;/pre&gt;</content:encoded></item></channel></rss>
