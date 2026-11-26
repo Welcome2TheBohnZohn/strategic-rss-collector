@@ -12,8 +12,6 @@ All links discovered: 243
 
 http://www.mod.gov.cn/gfbw/wzll/16502076.html
   密林砺兵 向战强能，全要素协同支援训练磨砺官兵实战本领
-http://www.mod.gov.cn/gfbw/xwfyr/lhzb/lxjzhzb/2026njzh/2026n11y_251976/index.html
-  2026年11月国防部例行记者会图文直播
 http://www.mod.gov.cn/gfbw/wzll/16502075.html
   陆军兵种大学推动科研成果精准对接部队需求
 http://www.mod.gov.cn/gfbw/fgwx/16482016.html
@@ -52,8 +50,6 @@ http://www.mod.gov.cn/gfbw/gfdy/16500418.html
   四川省泸定县军地有关部门发展特色种植产业助力乡村振兴
 http://www.mod.gov.cn/gfbw/qwfb/16501639.html
   习近平向“声援巴勒斯坦人民国际日”纪念大会致贺电
-http://www.mod.gov.cn/gfbw/qwfb/16502158.html
-  空军33型60余件装备体系化参加第十六届中国航展
 http://www.mod.gov.cn/gfbw/xwfyr/16502159.html
   空军33型60余件装备体系化参加第十六届中国航展
 http://www.mod.gov.cn/gfbw/qwfb/16502164.html
@@ -78,6 +74,8 @@ http://www.mod.gov.cn/gfbw/sy/rt/16501704.html
   神舟二十四号载人飞行任务航天员与记者见面
 http://www.mod.gov.cn/gfbw/qwfb/16502132.html
   中国国防部长访问意大利、英国深化战略互信
+http://www.mod.gov.cn/gfbw/qwfb/16502206.html
+  2026年11月国防部例行记者会文字实录
 http://www.mod.gov.cn/gfbw/qwfb/16502114.html
   中国国防部将在国防大学举办国际问题研讨班
 http://www.mod.gov.cn/gfbw/spbb_214126/16501549.html
@@ -96,6 +94,8 @@ http://www.mod.gov.cn/gfbw/gfjy_index/16501879.html
   军队院校开放办学构建全域贯通育人路径
 http://www.mod.gov.cn/gfbw/jsxd/16501312.html
   中越第41次北部湾联合巡逻圆满结束
+http://www.mod.gov.cn/gfbw/xwfyr/16502172.html
+  有关域外国家应停止插手介入南海问题
 http://www.mod.gov.cn/gfbw/fgwx/16500190.html
   《习近平法治思想干部读本》出版发行
 http://www.mod.gov.cn/gfbw/gfjy_index/16501616.html
@@ -322,16 +322,16 @@ http://www.mod.gov.cn/gfbw/qwfb/16502144.html
   国防部介绍全军学习贯彻党的二十届五中全会精神宣讲团巡回宣讲情况
 http://www.mod.gov.cn/gfbw/qwfb/16502132.html
   中国国防部长访问意大利、英国深化战略互信
-http://www.mod.gov.cn/gfbw/xwfyr/lhzb/lxjzhzb/2026njzh/2026n11y_251976/index.html
-  2026年11月国防部例行记者会图文直播
+http://www.mod.gov.cn/gfbw/qwfb/16502206.html
+  2026年11月国防部例行记者会文字实录
+http://www.mod.gov.cn/gfbw/qwfb/16502226.html
+  中俄两军举行战略磋商
 http://www.mod.gov.cn/gfbw/qwfb/16502114.html
   中国国防部将在国防大学举办国际问题研讨班
 http://www.mod.gov.cn/gfbw/qwfb/16502119.html
   中国海军将举办2026年西太海军论坛人道主义救援减灾研讨与桌面推演
 http://www.mod.gov.cn/gfbw/qwfb/16502164.html
   中国军队卫生代表团参加第46届世界军事医学大会
-http://www.mod.gov.cn/gfbw/qwfb/16502158.html
-  空军33型60余件装备体系化参加第十六届中国航展
 http://www.mod.gov.cn/gfbw/jswj/16497562.html
   中国海军“吉祥方舟”号医院船访问多哥
 http://www.mod.gov.cn/gfbw/jswj/16501314.html
@@ -364,12 +364,12 @@ http://www.mod.gov.cn/gfbw/xwfyr/lxjzhzt/2026lxjzh/2026n9y/index.html
   9月
 http://www.mod.gov.cn/gfbw/xwfyr/lxjzhzt/2026lxjzh/2026n8y/index.html
   8月
+http://www.mod.gov.cn/gfbw/xwfyr/16502172.html
+  有关域外国家应停止插手介入南海问题
 http://www.mod.gov.cn/gfbw/xwfyr/16502165.html
   中国军队卫生代表团参加第46届世界军事医学大会
 http://www.mod.gov.cn/gfbw/xwfyr/16502159.html
   空军33型60余件装备体系化参加第十六届中国航展
-http://www.mod.gov.cn/gfbw/xwfyr/16502153.html
-  日本是亚太和平安宁的现实破坏者
 http://www.mod.gov.cn/gfbw/spbb_214126/16501549.html
   还我净土——中国处理日本遗弃化学武器纪实
 http://www.mod.gov.cn/gfbw/spbb_214126/16495225.html
