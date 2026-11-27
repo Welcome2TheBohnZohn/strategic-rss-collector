@@ -1,62 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Thu, 26 Nov 2026 21:49:28 +0000</lastBuildDate><item><title>CNNVD-2026-75963508 - Eclipse Jetty 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75963508</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75963508</guid><description>Eclipse Jetty 资源管理错误漏洞
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>China National Vulnerability Database CNNVD</title><link>https://www.cnnvd.org.cn/</link><description>Generated RSS feed for China National Vulnerability Database CNNVD</description><language>zh-CN</language><lastBuildDate>Fri, 27 Nov 2026 08:53:21 +0000</lastBuildDate><item><title>CNNVD-2026-38550138 - Broadcom SiteMinder 输入验证错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-38550138</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-38550138</guid><description>Broadcom SiteMinder 输入验证错误漏洞
 危害等级: 高危
-发布时间：2026-11-26 | 更新时间: 2026-11-26 16:36:18
-CNNVD编号: CNNVD-2026-75963508</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-75963508&lt;/p&gt;&lt;pre&gt;Eclipse Jetty 资源管理错误漏洞
+发布时间：2026-11-27 | 更新时间: 2026-11-27 16:21:42
+CNNVD编号: CNNVD-2026-38550138</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-38550138&lt;/p&gt;&lt;pre&gt;Broadcom SiteMinder 输入验证错误漏洞
 危害等级: 高危
-发布时间：2026-11-26 | 更新时间: 2026-11-26 16:36:18
-CNNVD编号: CNNVD-2026-75963508&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-69292134 - Linux kernel 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-69292134</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-69292134</guid><description>Linux kernel 安全漏洞
-危害等级: 超危
-发布时间：2026-11-26 | 更新时间: 2026-11-26 16:36:18
-CNNVD编号: CNNVD-2026-69292134</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-69292134&lt;/p&gt;&lt;pre&gt;Linux kernel 安全漏洞
-危害等级: 超危
-发布时间：2026-11-26 | 更新时间: 2026-11-26 16:36:18
-CNNVD编号: CNNVD-2026-69292134&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-36514824 - Linux kernel 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-36514824</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-36514824</guid><description>Linux kernel 安全漏洞
-危害等级: 超危
-发布时间：2026-11-26 | 更新时间: 2026-11-26 16:36:19
-CNNVD编号: CNNVD-2026-36514824</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-36514824&lt;/p&gt;&lt;pre&gt;Linux kernel 安全漏洞
-危害等级: 超危
-发布时间：2026-11-26 | 更新时间: 2026-11-26 16:36:19
-CNNVD编号: CNNVD-2026-36514824&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-34553498 - Linux kernel 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-34553498</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-34553498</guid><description>Linux kernel 安全漏洞
-危害等级: 超危
-发布时间：2026-11-26 | 更新时间: 2026-11-26 16:36:20
-CNNVD编号: CNNVD-2026-34553498</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-34553498&lt;/p&gt;&lt;pre&gt;Linux kernel 安全漏洞
-危害等级: 超危
-发布时间：2026-11-26 | 更新时间: 2026-11-26 16:36:20
-CNNVD编号: CNNVD-2026-34553498&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-95599074 - ASSA ABLOY Seawing SC-1000 WebConfig 命令注入漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-95599074</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-95599074</guid><description>ASSA ABLOY Seawing SC-1000 WebConfig 命令注入漏洞
-危害等级: 超危
-发布时间：2026-11-26 | 更新时间: 2026-11-26 16:36:21
-CNNVD编号: CNNVD-2026-95599074</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-95599074&lt;/p&gt;&lt;pre&gt;ASSA ABLOY Seawing SC-1000 WebConfig 命令注入漏洞
-危害等级: 超危
-发布时间：2026-11-26 | 更新时间: 2026-11-26 16:36:21
-CNNVD编号: CNNVD-2026-95599074&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-43169489 - Linux kernel 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-43169489</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-43169489</guid><description>Linux kernel 安全漏洞
-危害等级: 超危
-发布时间：2026-11-26 | 更新时间: 2026-11-26 16:36:21
-CNNVD编号: CNNVD-2026-43169489</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-43169489&lt;/p&gt;&lt;pre&gt;Linux kernel 安全漏洞
-危害等级: 超危
-发布时间：2026-11-26 | 更新时间: 2026-11-26 16:36:21
-CNNVD编号: CNNVD-2026-43169489&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-70578613 - Linux kernel 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-70578613</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-70578613</guid><description>Linux kernel 安全漏洞
-危害等级: 超危
-发布时间：2026-11-26 | 更新时间: 2026-11-26 16:36:22
-CNNVD编号: CNNVD-2026-70578613</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-70578613&lt;/p&gt;&lt;pre&gt;Linux kernel 安全漏洞
-危害等级: 超危
-发布时间：2026-11-26 | 更新时间: 2026-11-26 16:36:22
-CNNVD编号: CNNVD-2026-70578613&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-50770586 - Linux kernel 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-50770586</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-50770586</guid><description>Linux kernel 安全漏洞
-危害等级: 超危
-发布时间：2026-11-26 | 更新时间: 2026-11-26 16:36:22
-CNNVD编号: CNNVD-2026-50770586</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-50770586&lt;/p&gt;&lt;pre&gt;Linux kernel 安全漏洞
-危害等级: 超危
-发布时间：2026-11-26 | 更新时间: 2026-11-26 16:36:22
-CNNVD编号: CNNVD-2026-50770586&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-58375334 - İdeal Data Finansal Teknolojiler A.Ş iDeal WEB 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-58375334</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-58375334</guid><description>İdeal Data Finansal Teknolojiler A.Ş iDeal WEB 授权问题漏洞
+发布时间：2026-11-27 | 更新时间: 2026-11-27 16:21:42
+CNNVD编号: CNNVD-2026-38550138&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-20886975 - Zephyr Project Zephyr 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-20886975</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-20886975</guid><description>Zephyr Project Zephyr 缓冲区错误漏洞
+危害等级: 中危
+发布时间：2026-11-27 | 更新时间: 2026-11-27 16:21:41
+CNNVD编号: CNNVD-2026-20886975</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-20886975&lt;/p&gt;&lt;pre&gt;Zephyr Project Zephyr 缓冲区错误漏洞
+危害等级: 中危
+发布时间：2026-11-27 | 更新时间: 2026-11-27 16:21:41
+CNNVD编号: CNNVD-2026-20886975&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-48122873 - Zephyr Project Zephyr 资源管理错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-48122873</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-48122873</guid><description>Zephyr Project Zephyr 资源管理错误漏洞
 危害等级: 高危
-发布时间：2026-11-26 | 更新时间: 2026-11-26 16:36:23
-CNNVD编号: CNNVD-2026-58375334</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-58375334&lt;/p&gt;&lt;pre&gt;İdeal Data Finansal Teknolojiler A.Ş iDeal WEB 授权问题漏洞
+发布时间：2026-11-27 | 更新时间: 2026-11-27 16:21:41
+CNNVD编号: CNNVD-2026-48122873</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-48122873&lt;/p&gt;&lt;pre&gt;Zephyr Project Zephyr 资源管理错误漏洞
 危害等级: 高危
-发布时间：2026-11-26 | 更新时间: 2026-11-26 16:36:23
-CNNVD编号: CNNVD-2026-58375334&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-74037666 - Linux kernel 安全漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-74037666</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-74037666</guid><description>Linux kernel 安全漏洞
+发布时间：2026-11-27 | 更新时间: 2026-11-27 16:21:41
+CNNVD编号: CNNVD-2026-48122873&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-23786084 - Zephyr Project Zephyr 缓冲区错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-23786084</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-23786084</guid><description>Zephyr Project Zephyr 缓冲区错误漏洞
+危害等级: 中危
+发布时间：2026-11-27 | 更新时间: 2026-11-27 16:21:41
+CNNVD编号: CNNVD-2026-23786084</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-23786084&lt;/p&gt;&lt;pre&gt;Zephyr Project Zephyr 缓冲区错误漏洞
+危害等级: 中危
+发布时间：2026-11-27 | 更新时间: 2026-11-27 16:21:41
+CNNVD编号: CNNVD-2026-23786084&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-50853649 - WordPress wpForo Forum 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-50853649</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-50853649</guid><description>WordPress wpForo Forum 跨站脚本漏洞
+危害等级: 中危
+发布时间：2026-11-27 | 更新时间: 2026-11-27 16:21:41
+CNNVD编号: CNNVD-2026-50853649</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-50853649&lt;/p&gt;&lt;pre&gt;WordPress wpForo Forum 跨站脚本漏洞
+危害等级: 中危
+发布时间：2026-11-27 | 更新时间: 2026-11-27 16:21:41
+CNNVD编号: CNNVD-2026-50853649&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-71720838 - WordPress Ultimate Bootstrap Elements for Elementor 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-71720838</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-71720838</guid><description>WordPress Ultimate Bootstrap Elements for Elementor 跨站脚本漏洞
+危害等级: 中危
+发布时间：2026-11-27 | 更新时间: 2026-11-27 16:21:40
+CNNVD编号: CNNVD-2026-71720838</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-71720838&lt;/p&gt;&lt;pre&gt;WordPress Ultimate Bootstrap Elements for Elementor 跨站脚本漏洞
+危害等级: 中危
+发布时间：2026-11-27 | 更新时间: 2026-11-27 16:21:40
+CNNVD编号: CNNVD-2026-71720838&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-15925630 - plane 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-15925630</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-15925630</guid><description>plane 授权问题漏洞
+危害等级: 中危
+发布时间：2026-11-27 | 更新时间: 2026-11-27 16:21:40
+CNNVD编号: CNNVD-2026-15925630</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-15925630&lt;/p&gt;&lt;pre&gt;plane 授权问题漏洞
+危害等级: 中危
+发布时间：2026-11-27 | 更新时间: 2026-11-27 16:21:40
+CNNVD编号: CNNVD-2026-15925630&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-41134245 - WordPress App Builder 授权问题漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-41134245</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-41134245</guid><description>WordPress App Builder 授权问题漏洞
+危害等级: 高危
+发布时间：2026-11-27 | 更新时间: 2026-11-27 16:21:40
+CNNVD编号: CNNVD-2026-41134245</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-41134245&lt;/p&gt;&lt;pre&gt;WordPress App Builder 授权问题漏洞
+危害等级: 高危
+发布时间：2026-11-27 | 更新时间: 2026-11-27 16:21:40
+CNNVD编号: CNNVD-2026-41134245&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-98461694 - Eclipse MWE 配置错误漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-98461694</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-98461694</guid><description>Eclipse MWE 配置错误漏洞
 危害等级: 超危
-发布时间：2026-11-26 | 更新时间: 2026-11-26 16:36:24
-CNNVD编号: CNNVD-2026-74037666</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-74037666&lt;/p&gt;&lt;pre&gt;Linux kernel 安全漏洞
+发布时间：2026-11-27 | 更新时间: 2026-11-27 16:21:39
+CNNVD编号: CNNVD-2026-98461694</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-98461694&lt;/p&gt;&lt;pre&gt;Eclipse MWE 配置错误漏洞
 危害等级: 超危
-发布时间：2026-11-26 | 更新时间: 2026-11-26 16:36:24
-CNNVD编号: CNNVD-2026-74037666&lt;/pre&gt;</content:encoded></item></channel></rss>
+发布时间：2026-11-27 | 更新时间: 2026-11-27 16:21:39
+CNNVD编号: CNNVD-2026-98461694&lt;/pre&gt;</content:encoded></item><item><title>CNNVD-2026-92369315 - WordPress SlimStat Analytics 跨站脚本漏洞</title><link>https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-92369315</link><guid isPermaLink="false">https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-92369315</guid><description>WordPress SlimStat Analytics 跨站脚本漏洞
+危害等级: 中危
+发布时间：2026-11-27 | 更新时间: 2026-11-27 16:21:39
+CNNVD编号: CNNVD-2026-92369315</description><content:encoded>&lt;p&gt;&lt;strong&gt;Original source:&lt;/strong&gt; https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-2026-92369315&lt;/p&gt;&lt;pre&gt;WordPress SlimStat Analytics 跨站脚本漏洞
+危害等级: 中危
+发布时间：2026-11-27 | 更新时间: 2026-11-27 16:21:39
+CNNVD编号: CNNVD-2026-92369315&lt;/pre&gt;</content:encoded></item></channel></rss>

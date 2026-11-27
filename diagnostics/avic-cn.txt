@@ -10,20 +10,14 @@ All links discovered: 179
 
 === MATCHED CANDIDATES ===
 
-https://www.avic.com/c/2026-11-24/649720.shtml
-  国务院国资委党委传达学习习近平总书记对国有企业党的建设工作作出的重要指示精神 坚持和加强党对国有企业的全面领导 以高质量党建引领国资国企高质量发展
+https://www.avic.com/c/2026-11-27/649762.shtml
+  国务院国资委举办中央企业董事会工作专题研讨班 持续建强建优中央企业董事会 加快完善中国特色现代企业制度
 https://www.avic.com/c/2026-11-24/649721.shtml
   国务院国资委党委举行国资央企学习贯彻党的二十届五中全会精神宣讲报告会 谢春涛作宣讲报告 程福波主持
-https://www.avic.com/c/2026-11-09/649290.shtml
-  中国航空工业集团召开党组理论学习中心组（扩大）学习暨党的二十届五中全会精神贯彻落实部署会议
-https://www.avic.com/c/2026-11-06/649190.shtml
-  《科技日报》刊发中国航空工业集团党组署名文章《以航空科技高水平自立自强支撑强国建设》
 https://www.avic.com/c/2026-11-20/649633.shtml
   中国航空工业集团智能制造再获殊荣：中航西飞入选“2026年领航级智能工厂培育名单”
 https://www.avic.com/c/2026-11-17/649471.shtml
   中国航空工业集团党组学习贯彻习近平总书记对国有企业党的建设工作作出的重要指示精神
-https://www.avic.com/c/2026-11-10/649320.shtml
-  开放聚智 强基领航 | 中国航空工业集团首届“航空强国科技活动周”在京开幕
 https://www.avic.com/c/2026-11-18/649510.shtml
   中国航空工业集团在陕单位举行学习贯彻党的二十届五中全会精神联学共建活动
 https://www.avic.com/c/2026-11-16/649429.shtml
@@ -40,16 +34,22 @@ https://www.avic.com/c/2026-11-19/649542.shtml
   魏应彪调研所属成都单位强调全力以赴完成2026年目标任务
 https://www.avic.com/c/2026-11-24/649723.shtml
   中央企业和地方国资国企社会责任蓝皮书发布会在京举办
+https://www.avic.com/c/2026-11-27/649747.shtml
+  魏应彪调研在深圳单位时强调：坚定走国际化发展道路
 https://www.avic.com/c/2026-11-24/649722.shtml
   国务院国资委举办进一步深化国资国企改革专题研讨班
 https://www.avic.com/c/2026-11-13/649367.shtml
   中国航空工业集团与中国机械工业集团举行工作会谈
+https://www.avic.com/c/2026-11-27/649749.shtml
+  中国航空工业集团召开2026年先进制造业大会
 https://www.avic.com/c/2026-11-20/649601.shtml
   中国航空工业集团与贵州省签署战略合作协议
 https://www.avic.com/c/2026-11-13/649412.shtml
   习近平对国有企业党的建设工作作出重要指示
 https://www.avic.com/c/2026-11-24/649656.shtml
   魏应彪、黄勇赴贵州安顺调研乡村振兴工作
+https://www.avic.com/c/2026-11-27/649748.shtml
+  习近平对党内法规工作作出重要指示
 https://www.avic.com/c/2025-02-05/608382.shtml
   608382.shtml
 https://www.avic.com/c/2025-02-05/608381.shtml
@@ -272,6 +272,12 @@ https://www.avic.com/sycd/xxgk/qyjygl/
 https://www.avic.com/c/2025-02-05/608382.shtml
 https://www.avic.com/c/2025-02-05/608381.shtml
 https://www.avic.com/c/2023-11-27/589490.shtml
+https://www.avic.com/c/2026-11-27/649749.shtml
+  中国航空工业集团召开2026年先进制造业大会
+https://www.avic.com/c/2026-11-27/649748.shtml
+  习近平对党内法规工作作出重要指示
+https://www.avic.com/c/2026-11-27/649747.shtml
+  魏应彪调研在深圳单位时强调：坚定走国际化发展道路
 https://www.avic.com/c/2026-11-25/649725.shtml
   中国航空工业集团党组学习贯彻习近平总书记近期重要讲话重要指示精神
 https://www.avic.com/c/2026-11-24/649656.shtml
@@ -296,12 +302,8 @@ https://www.avic.com/c/2026-11-13/649367.shtml
   中国航空工业集团与中国机械工业集团举行工作会谈
 https://www.avic.com/c/2026-11-13/649365.shtml
   纪念孙中山先生诞辰160周年大会在京举行 习近平发表重要讲话
-https://www.avic.com/c/2026-11-10/649320.shtml
-  开放聚智 强基领航 | 中国航空工业集团首届“航空强国科技活动周”在京开幕
-https://www.avic.com/c/2026-11-09/649290.shtml
-  中国航空工业集团召开党组理论学习中心组（扩大）学习暨党的二十届五中全会精神贯彻落实部署会议
-https://www.avic.com/c/2026-11-06/649190.shtml
-  《科技日报》刊发中国航空工业集团党组署名文章《以航空科技高水平自立自强支撑强国建设》
+https://www.avic.com/c/2026-11-27/649762.shtml
+  国务院国资委举办中央企业董事会工作专题研讨班 持续建强建优中央企业董事会 加快完善中国特色现代企业制度
 https://www.avic.com/c/2026-11-24/649724.shtml
   国务院国资委党委传达学习习近平总书记近期重要讲话重要文章精神
 https://www.avic.com/c/2026-11-24/649723.shtml
@@ -310,8 +312,6 @@ https://www.avic.com/c/2026-11-24/649722.shtml
   国务院国资委举办进一步深化国资国企改革专题研讨班
 https://www.avic.com/c/2026-11-24/649721.shtml
   国务院国资委党委举行国资央企学习贯彻党的二十届五中全会精神宣讲报告会 谢春涛作宣讲报告 程福波主持
-https://www.avic.com/c/2026-11-24/649720.shtml
-  国务院国资委党委传达学习习近平总书记对国有企业党的建设工作作出的重要指示精神 坚持和加强党对国有企业的全面领导 以高质量党建引领国资国企高质量发展
 https://www.avic.com/ztjj/xxgcddesjwzqhjs/
 https://www.avic.com/ztjj/srxxgcxjpdjsx/
 https://www.avic.com/ztjj/qzzggcdcl105zn/
