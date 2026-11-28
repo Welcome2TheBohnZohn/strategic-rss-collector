@@ -10,8 +10,6 @@ All links discovered: 242
 
 === MATCHED CANDIDATES ===
 
-http://www.mod.gov.cn/gfbw/wzll/16502075.html
-  陆军兵种大学推动科研成果精准对接部队需求
 http://www.mod.gov.cn/gfbw/fgwx/16482016.html
   全国人大常委会表决通过新修订的国防动员法
 http://www.mod.gov.cn/gfbw/jsxd/16502077.html
@@ -22,6 +20,8 @@ http://www.mod.gov.cn/gfbw/jmsd/16502073.html
   强军论坛丨加强党性鉴别
 http://www.mod.gov.cn/gfbw/gffw/16497951.html
   云南省军地开展“为困难退役军人送温暖”帮扶活动——关怀送上门 情暖老兵心
+http://www.mod.gov.cn/gfbw/jswj/16502495.html
+  共探脑智前沿 共筑合作之基——第二届中国—拉美和加勒比军事医学论坛综述
 http://www.mod.gov.cn/gfbw/qwfb/16501865.html
   中央宣传部、中央军委国防动员部联合印发《全民国防教育“十五五”规划》
 http://www.mod.gov.cn/gfbw/qwfb/16502119.html
@@ -32,12 +32,16 @@ http://www.mod.gov.cn/gfbw/qwfb/16502144.html
   国防部介绍全军学习贯彻党的二十届五中全会精神宣讲团巡回宣讲情况
 http://www.mod.gov.cn/gfbw/gfdy/16497999.html
   北京青少年服务中心丰富红色教育方式——把长征精神讲到孩子心里
+http://www.mod.gov.cn/gfbw/jswj/16502494.html
+  第二届中国—拉美和加勒比军事医学论坛将在军事科学院举办
 http://www.mod.gov.cn/gfbw/gffw/16469120.html
   速览！2026年军校招生政策解读，你想知道的都在这里→
 http://www.mod.gov.cn/gfbw/gfdy/16500418.html
   四川省泸定县军地有关部门发展特色种植产业助力乡村振兴
 http://www.mod.gov.cn/gfbw/wzll/16502295.html
   武警广州支队官兵参观见学感受中国式现代化的广州实践
+http://www.mod.gov.cn/gfbw/gfjy_index/16502489.html
+  探访吴起县红色遗址，体悟革命先辈永不懈怠的奋斗姿态
 http://www.mod.gov.cn/gfbw/qwfb/16501639.html
   习近平向“声援巴勒斯坦人民国际日”纪念大会致贺电
 http://www.mod.gov.cn/gfbw/xwfyr/16502159.html
@@ -56,14 +60,14 @@ http://www.mod.gov.cn/gfbw/spbb_214126/16495168.html
   赴山河 从头越——追随统帅回望长征之路丨接力
 http://www.mod.gov.cn/gfbw/spbb_214126/16495158.html
   赴山河 从头越——追随统帅回望长征之路丨本色
+http://www.mod.gov.cn/gfbw/jmsd/16502485.html
+  八一锐评丨从严管理是“紧箍咒”也是“护身符”
 http://www.mod.gov.cn/gfbw/gfjy_index/16502285.html
   寻根铸魂向百年·重走长征路｜为了胜利一无所惜
 http://www.mod.gov.cn/gfbw/tp_214132/16501055.html
   第76集团军某旅组织火炮分队开展实弹射击训练
 http://www.mod.gov.cn/gfbw/jswj/16501314.html
   中国海军“吉祥方舟”号医院船访问赤道几内亚
-http://www.mod.gov.cn/gfbw/jswj/16500920.html
-  中国海军“吉祥方舟”号医院船抵达赤道几内亚
 http://www.mod.gov.cn/gfbw/wzll/16502332.html
   陆军多款现役主战装备将亮相第十六届中国航展
 http://www.mod.gov.cn/gfbw/jmsd/16502283.html
@@ -78,20 +82,12 @@ http://www.mod.gov.cn/gfbw/qwfb/16502114.html
   中国国防部将在国防大学举办国际问题研讨班
 http://www.mod.gov.cn/gfbw/spbb_214126/16501549.html
   还我净土——中国处理日本遗弃化学武器纪实
-http://www.mod.gov.cn/gfbw/jmsd/16502281.html
-  八一锐评丨悟“摸象”之戒 学“称象”之法
 http://www.mod.gov.cn/gfbw/gfdy/16487706.html
   云南省贡山县人武部结对帮扶独龙江乡马库村
-http://www.mod.gov.cn/gfbw/sy/jt_214028/16498720.html
-  第73集团军某旅组织直升机编队飞行训练
-http://www.mod.gov.cn/gfbw/jmsd/16502282.html
-  用中华优秀传统文化涵养革命军人党性修养
+http://www.mod.gov.cn/gfbw/wzll/16502491.html
+  信息支援部队某部探索建立个性化保障模式
 http://www.mod.gov.cn/gfbw/jswj/16497562.html
   中国海军“吉祥方舟”号医院船访问多哥
-http://www.mod.gov.cn/gfbw/jswj/16500372.html
-  海军“吉祥方舟”号医院船首访多哥回眸
-http://www.mod.gov.cn/gfbw/gfjy_index/16501879.html
-  军队院校开放办学构建全域贯通育人路径
 http://www.mod.gov.cn/gfbw/wzll/16502296.html
   军营观察丨拆墙破圈：开窗放入大江来
 http://www.mod.gov.cn/gfbw/jsxd/16501312.html
@@ -100,6 +96,8 @@ http://www.mod.gov.cn/gfbw/xwfyr/16502172.html
   有关域外国家应停止插手介入南海问题
 http://www.mod.gov.cn/gfbw/fgwx/16500190.html
   《习近平法治思想干部读本》出版发行
+http://www.mod.gov.cn/gfbw/jmsd/16502490.html
+  强军论坛丨“挂在高处的果实”更甘甜
 http://www.mod.gov.cn/gfbw/tp_214132/16501056.html
   东部战区空军某场站组织特情处置演练
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16500819.html
@@ -110,6 +108,8 @@ http://www.mod.gov.cn/gfbw/sy/rt/16501080.html
   习近平会见澳大利亚总理阿尔巴尼斯
 http://www.mod.gov.cn/gfbw/jsxd/16500816.html
   中越将举行第41次北部湾联合巡逻
+http://www.mod.gov.cn/gfbw/gffw/16498801.html
+  新时代征兵工作阔步迈向高质量发展
 
 === ALL DISCOVERED LINKS ===
 
@@ -288,16 +288,16 @@ http://www.mod.gov.cn/gfbw/zt/index.html
   专题
 http://www.81.cn/xue-xi/102942.htm
   学习
+http://www.mod.gov.cn/gfbw/sy/jt_214028/16502509.html
+  北部战区海军某大队组织训练
+http://www.mod.gov.cn/gfbw/sy/jt_214028/16502508.html
+  陆军某部开展实弹射击训练
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16500817.html
   空军航空兵某部开展飞行训练
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16500819.html
   第77集团军某旅组织实弹射击训练
 http://www.mod.gov.cn/gfbw/sy/jt_214028/16498721.html
   空军某部组织飞行训练
-http://www.mod.gov.cn/gfbw/sy/jt_214028/16498720.html
-  第73集团军某旅组织直升机编队飞行训练
-http://www.mod.gov.cn/gfbw/sy/jt_214028/16498298.html
-  海军航空大学某团开展飞行训练
 http://www.mod.gov.cn/gfbw/sy/tt_214026/16501902.html
   习近平对党内法规工作作出重要指示
 http://www.mod.gov.cn/gfbw/sy/rt/16501102.html
@@ -334,20 +334,20 @@ http://www.mod.gov.cn/gfbw/qwfb/16502164.html
   中国军队卫生代表团参加第46届世界军事医学大会
 http://www.mod.gov.cn/gfbw/jswj/16497562.html
   中国海军“吉祥方舟”号医院船访问多哥
+http://www.mod.gov.cn/gfbw/jswj/16502495.html
+  共探脑智前沿 共筑合作之基——第二届中国—拉美和加勒比军事医学论坛综述
+http://www.mod.gov.cn/gfbw/jswj/16502494.html
+  第二届中国—拉美和加勒比军事医学论坛将在军事科学院举办
 http://www.mod.gov.cn/gfbw/jswj/16501314.html
   中国海军“吉祥方舟”号医院船访问赤道几内亚
-http://www.mod.gov.cn/gfbw/jswj/16500920.html
-  中国海军“吉祥方舟”号医院船抵达赤道几内亚
-http://www.mod.gov.cn/gfbw/jswj/16500372.html
-  海军“吉祥方舟”号医院船首访多哥回眸
 http://www.mod.gov.cn/gfbw/wzll/16502296.html
   军营观察丨拆墙破圈：开窗放入大江来
+http://www.mod.gov.cn/gfbw/wzll/16502491.html
+  信息支援部队某部探索建立个性化保障模式
 http://www.mod.gov.cn/gfbw/wzll/16502332.html
   陆军多款现役主战装备将亮相第十六届中国航展
 http://www.mod.gov.cn/gfbw/wzll/16502295.html
   武警广州支队官兵参观见学感受中国式现代化的广州实践
-http://www.mod.gov.cn/gfbw/wzll/16502075.html
-  陆军兵种大学推动科研成果精准对接部队需求
 http://www.mod.gov.cn/gfbw/jsxd/16502077.html
   中柬“金龙-2026”联合演习开始
 http://www.mod.gov.cn/gfbw/jsxd/16501820.html
@@ -403,12 +403,12 @@ http://www.mod.gov.cn/gfbw/jmsd/index.html
   军媒视点
 http://www.mod.gov.cn/gfbw/jmsd/16502073.html
   强军论坛丨加强党性鉴别
+http://www.mod.gov.cn/gfbw/jmsd/16502490.html
+  强军论坛丨“挂在高处的果实”更甘甜
+http://www.mod.gov.cn/gfbw/jmsd/16502485.html
+  八一锐评丨从严管理是“紧箍咒”也是“护身符”
 http://www.mod.gov.cn/gfbw/jmsd/16502283.html
   持之以恒推进全面从严治党｜坚持服务使命任务
-http://www.mod.gov.cn/gfbw/jmsd/16502282.html
-  用中华优秀传统文化涵养革命军人党性修养
-http://www.mod.gov.cn/gfbw/jmsd/16502281.html
-  八一锐评丨悟“摸象”之戒 学“称象”之法
 http://www.mod.gov.cn/gfbw/gfdy/16487706.html
   云南省贡山县人武部结对帮扶独龙江乡马库村
 http://www.mod.gov.cn/gfbw/gfdy/16500418.html
@@ -419,12 +419,12 @@ http://www.mod.gov.cn/gfbw/gfdy/16497999.html
   北京青少年服务中心丰富红色教育方式——把长征精神讲到孩子心里
 http://www.mod.gov.cn/gfbw/gfjy_index/16502286.html
   强军文化专刊·文化号角｜打造熔铸忠诚的文艺课堂
+http://www.mod.gov.cn/gfbw/gfjy_index/16502489.html
+  探访吴起县红色遗址，体悟革命先辈永不懈怠的奋斗姿态
 http://www.mod.gov.cn/gfbw/gfjy_index/16502287.html
   聚光灯下，长征“走”进课堂
 http://www.mod.gov.cn/gfbw/gfjy_index/16502285.html
   寻根铸魂向百年·重走长征路｜为了胜利一无所惜
-http://www.mod.gov.cn/gfbw/gfjy_index/16501879.html
-  军队院校开放办学构建全域贯通育人路径
 http://www.81.cn/zt/2026nzt/zmxsdgmjr_252984/index.html
   最美新时代革命军人
 http://www.81.cn/zt/2026nzt/lyyxfcl/index.html
@@ -449,16 +449,16 @@ http://www.mod.gov.cn/gfbw/tp_214132/jsjs/index.html
   军事纪实
 http://www.mod.gov.cn/gfbw/tp_214132/tsjs/index.html
   图说军史
+http://www.mod.gov.cn/gfbw/tp_214132/16502510.html
+  陆军某部开展实弹射击训练
+http://www.mod.gov.cn/gfbw/tp_214132/16502507.html
+  北部战区海军某大队组织训练
 http://www.mod.gov.cn/gfbw/tp_214132/16501055.html
   第76集团军某旅组织火炮分队开展实弹射击训练
 http://www.mod.gov.cn/gfbw/tp_214132/16501056.html
   东部战区空军某场站组织特情处置演练
 http://www.mod.gov.cn/gfbw/tp_214132/16500818.html
   第77集团军某旅组织实弹射击训练
-http://www.mod.gov.cn/gfbw/tp_214132/16499772.html
-  海军航空大学某团组织飞行训练
-http://www.mod.gov.cn/gfbw/tp_214132/16499771.html
-  陆军某旅开展实弹射击训练
 http://www.gfbzb.gov.cn/
   全国征兵网
 http://www.xinhuanet.com/
@@ -498,11 +498,11 @@ http://www.mod.gov.cn/ysym_243892/Ibbgdtsy/index.html
 http://www.mod.gov.cn/template/tenant207/t179/img/env-header-xs-2026-10.jpg
 http://www.mod.gov.cn/template/tenant207/t179/img/logo.png
 http://www.mod.gov.cn/template/tenant207/t179/img/logo-i.png
+http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/11/28/16502509_5b2acbb9f4af76fb0148a31b50eeaaea.jpg
+http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/11/28/16502508_02674d5bd6044c6aa1486bb9da16d790.jpg
 http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/11/19/16500817_463d5f9a9f19933775147bc1653c6ce4.jpg
 http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/11/19/16500819_837ceef87550635f838b5d83435ff645.jpg
 http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/11/08/16498721_0a348cef1ad3aac1ddf439202247cec6.jpg
-http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/11/08/16498720_44168c41f96b652e8146c0f7fc556c7c.jpg
-http://www.mod.gov.cn/gfbw/sy/jt_214028/_attachment/2026/11/06/16498298_0372b148be25af1e67f0c456672319e7.jpg
 http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/11/20/16501102_65f24deaade169ba883223647bd2ce14.jpg
 http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/11/20/16501100_be6958504a4a3f43ae58a82b0362288b.jpg
 http://www.mod.gov.cn/gfbw/sy/rt/_attachment/2026/11/20/16501079_2ea59e74b6a63f7f751bb109ed5a41ca.jpg
@@ -528,11 +528,11 @@ http://www.mod.gov.cn/gfbw/jmsd/_attachment/2023/06/10/16502073_840c628b77320996
 http://www.mod.gov.cn/gfbw/gfdy/_attachment/2026/09/20/16487706_b3976ec10633c6611756bb8b41668750.png
 http://www.mod.gov.cn/gfbw/gfjy_index/_attachment/2026/11/27/16502286_74e9283f5104a801c432ae1119e280c3.jpg
 http://www.mod.gov.cn/gfbw/zt/_attachment/2026/08/20/16479151_1572281a51f5ab63ef863d55fdea15e0.jpg
+http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/11/28/16502510_c978a7740f4fb09d0a3d065b6943e449.jpg
+http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/11/28/16502507_db04c01e2d2700bc317b517d3d73fd1c.jpg
 http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/11/20/16501055_0d181a6d487b29eda8a3f83ec2ab548f.jpg
 http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/11/20/16501056_73149a54d1c415ee53aca17e31f5dfa4.jpg
 http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/11/19/16500818_f91fb6068a6f9802a8da198d09cb16a1.jpg
-http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/11/15/16499772_0b14d3a52d0e5d8be3987c23fd8eeec8.jpg
-http://www.mod.gov.cn/gfbw/tp_214132/_attachment/2026/11/15/16499771_77d84bface417b49684a692416621dd1.jpg
 http://www.81.cn/page/report.htm
 http://www.mod.gov.cn/template/tenant207/t179/js/javascript.js?v=20224291
 http://www.mod.gov.cn/material/js/jquery.s2t.js?v=2022

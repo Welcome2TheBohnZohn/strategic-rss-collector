@@ -16,14 +16,14 @@
     {
       "paper_number": "03",
       "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-27&paperName=zggfb&paperNumber=03",
-      "links": 73,
-      "article_links": 6
+      "links": 51,
+      "article_links": 0
     },
     {
       "paper_number": "04",
       "url": "http://www.81.cn/szb_223187/gfbszblb/index.html?paperDate=2026-11-27&paperName=zggfb&paperNumber=04",
-      "links": 69,
-      "article_links": 4
+      "links": 51,
+      "article_links": 0
     }
   ],
   "candidates": [
@@ -58,46 +58,6 @@
     {
       "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-27&paperNumber=02&articleid=991276",
       "anchor_title": "军地共育 以赛促学"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-27&paperNumber=03&articleid=991277",
-      "anchor_title": "锚地七日"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-27&paperNumber=03&articleid=991278",
-      "anchor_title": "雪满弓刀诗满行"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-27&paperNumber=03&articleid=991280",
-      "anchor_title": "夹金山的雪"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-27&paperNumber=03&articleid=991279",
-      "anchor_title": "沙棘树下"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-27&paperNumber=03&articleid=991282",
-      "anchor_title": "晨跑者"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-27&paperNumber=03&articleid=991281",
-      "anchor_title": "秋 韵"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-27&paperNumber=04&articleid=991268",
-      "anchor_title": "日本“核松绑”试探持续加码"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-27&paperNumber=04&articleid=991269",
-      "anchor_title": "英核潜艇超长巡逻引关注"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-27&paperNumber=04&articleid=991270",
-      "anchor_title": "美多线加速B-21战力生成"
-    },
-    {
-      "url": "http://www.81.cn/szb_223187/gfbszbxq/index.html?paperName=zggfb&paperDate=2026-11-27&paperNumber=04&articleid=991271",
-      "anchor_title": "欧洲无人潜航器研建提速"
     }
   ]
 }
